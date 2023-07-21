@@ -26,7 +26,7 @@ Finally, not all triggers are skippable using a Force Skip, even if they occur u
 
 A [Soft Buffer](<Save Buffering.md#soft-buffers>) is really just an easy way to time a Force Skip.  The save buffer enters the cutscene trigger and delays it, so that the Force Skip can skip the trigger immediately after the buffer.
 
-https://youtu.be/wI2d0mIXuC0
+[![Watch the video](https://img.youtube.com/vi/wI2d0mIXuC0/maxresdefault.jpg)](https://youtu.be/wI2d0mIXuC0)
 
 See the guide on [Soft Buffer](<Save Buffering.md#soft-buffers>) for more information.
 
