@@ -1,4 +1,4 @@
-**Table of contents**
+**Table of Contents**
 - [Getting Started with KotOR](#getting-started-with-kotor)
   - [How These Guides are Organized](#how-these-guides-are-organized)
   - [Frequently Asked Questions](#frequently-asked-questions)
