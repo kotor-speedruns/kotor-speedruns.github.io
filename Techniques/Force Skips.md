@@ -9,7 +9,7 @@
 
 ## Description
 
-A Force Skip uses an instant-use item or Force power to cancel a conversation or cutscene.  This is usually used to cancel conversations that begin when you first enter an area, but can also be combined with a save buffer to create a [Soft Buffer](t5kyf#ch4Soft_Buffers).
+A Force Skip uses an instant-use item or Force power to cancel a conversation or cutscene.  This is usually used to cancel conversations that begin when you first enter an area, but can also be combined with a save buffer to create a [Soft Buffer](<Soft Buffers.md#soft-buffers>).
 
 ## How To
 
