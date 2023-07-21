@@ -21,7 +21,7 @@ A GP Warp requires at least two party members, which we will call the Warping Me
 5. Swap to the Warping Member and move them so that the closest load zone is the one you want to warp to.
 6. Click the dialog option to trigger the warp.
 
-https://youtu.be/F1dwmEQunHE
+[![Watch the video](https://img.youtube.com/vi/F1dwmEQunHE/maxresdefault.jpg)](https://youtu.be/F1dwmEQunHE)
 
 The [AMG](</Major Glitches/Anywhere Menu Glitch.md>) method of GP Warps allows party members to move even after triggering the GP dialog.  This can be convenient, as enemies will not attack when moving in this state.  Even the Triggering Member can move by using the Flourish Weapon hotkey while moving forward, but only if a melee weapon is equipped.
 
@@ -38,7 +38,7 @@ A Buffered GP Warp uses an [Open Buffer](<Save Buffering.md#open-buffers>) to de
 5. Stop buffering without canceling the trigger (an [Open Buffer](<Save Buffering.md#open-buffers>)).  This will allow the GP trigger to activate.
 6. Click the dialog option to trigger the warp.
 
-https://youtu.be/vKFWPZkUMLE
+[![Watch the video](https://img.youtube.com/vi/vKFWPZkUMLE/maxresdefault.jpg)](https://youtu.be/vKFWPZkUMLE)
 
 This method is more difficult than the [AMG](</Major Glitches/Anywhere Menu Glitch.md>) method, and does not allow you to move party members after triggering the GP dialog.  It can, however, be faster than using [AMG](</Major Glitches/Anywhere Menu Glitch.md>).  
 
