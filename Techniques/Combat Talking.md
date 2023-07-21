@@ -1,11 +1,11 @@
+# Combat Talking
+
 **Table of Contents**
 - [Combat Talking](#combat-talking)
   - [Description](#description)
   - [How To](#how-to)
   - [Uses](#uses)
   - [Related Glitches](#related-glitches)
-    
-# Combat Talking
 
 ## Description
 
@@ -17,7 +17,7 @@ To perform Combat Talking, first stand near the NPC with whom you want to talk. 
 
 [![Watch the video](https://img.youtube.com/vi/DaeLabPJKYk/maxresdefault.jpg)](https://youtu.be/DaeLabPJKYk)
 
-Combat Talking works because KotOR assumes you aren't in combat when a game is first loaded.  Thus the Quick Save/Quick Load combination effectively cancels combat, and by pausing the game immediately after the Quick Load, you have enough time to talk set up a [Conversation Queue](Conversation-Queue.md) to an NPC or party member before you are attacked again.
+Combat Talking works because KotOR assumes you aren't in combat when a game is first loaded.  Thus the Quick Save/Quick Load combination effectively cancels combat, and by pausing the game immediately after the Quick Load, you have enough time to talk set up a [Conversation Queue](<Conversation Queue.md>) to an NPC or party member before you are attacked again.
 
 ## Uses
 
@@ -33,4 +33,4 @@ The following uses of Combat Talking are backups:
 
 ## Related Glitches
 
-* [Conversation Queue](Conversation-Queue.md)
+* [Conversation Queue](<Conversation Queue.md>)
