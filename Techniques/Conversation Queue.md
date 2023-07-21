@@ -1,12 +1,10 @@
 # Conversation Queue
 
 **Table of Contents**
-- [Conversation Queue](#conversation-queue)
-  - [Description](#description)
-  - [How To](#how-to)
-  - [Uses](#uses)
-  - [Related Glitches](#related-glitches)
-
+- [Description](#description)
+- [How To](#how-to)
+- [Uses](#uses)
+- [Related Glitches](#related-glitches)
 
 ## Description
 
