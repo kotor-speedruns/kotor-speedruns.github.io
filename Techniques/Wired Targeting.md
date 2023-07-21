@@ -1,13 +1,20 @@
-[center][big]***Wired Targeting
-------------------------***[/big][/center]
+# Wired Targeting
 
-[small]*Discovered by HotShotWire*[/small]
+*Discovered by HotShotWire*
 
-[section=Description]
+**Table of Contents**
+- [Description](#description)
+- [How To](#how-to)
+- [Quick Wired Targeting Combat](#quick-wired-targeting-combat)
+- [Uses](#uses)
+  - [Other Applications](#other-applications)
+- [Technical Details](#technical-details) 
+
+## Description
 
 Wired Targeting allows us to target and interact with objects that we usually wouldn't be able to, and in ways that we usually wouldn't be able to, by transferring targeting information from one save to another.
 
-[section=How To]
+## How To
 
 Wired Targeting is done by forcing the MC to perform an action on a targeted object in a module and then quick-loading into another module, causing the active party member to target the object which shares the same ID (see Technical Details below).
 
@@ -17,17 +24,17 @@ More specifically, if we call the object you want to interact with the Target Ob
 3. Load the save near the Target Object and spam default action until just after the load finishes.
 4. Your MC should run towards and interact with the Target Object.
 
-https://youtu.be/2wZlq9IeDZ4
+[![Watch the video](https://img.youtube.com/vi/2wZlq9IeDZ4/maxresdefault.jpg)](https://youtu.be/2wZlq9IeDZ4)
 
 Some important notes about Wired Targeting:
 * If party members are present, a party member must be the one to interact with the Target Object, and the MC has to target the Shared Object.
 * If the Shared Object is hostile, the party member will attack the Target Object, even if it is non-hostile.
 
-[section=Quick Wired Targeting Combat]
+## Quick Wired Targeting Combat
 
 Attacking a non-hostile Target Object is the main use of Wired Targeting in speedruns.  Often times, this is used in situations where the enemy is initially non-hostile (such as for a cutscene or conversation).  By making a Quick Save next to the non-hostile enemy, and then causing them to become hostile, Wired Targeting can be quickly used to attack the non-hostile version of the enemy.
 
-https://youtu.be/PGX0CiR-mFM
+[![Watch the video](https://img.youtube.com/vi/PGX0CiR-mFM/maxresdefault.jpg)](https://youtu.be/PGX0CiR-mFM)
 
 Some additional details about attacking with Wired Targeting:
 * Combat Feats cannot be used when Wired Targeting.  Only default attacks work.
@@ -38,20 +45,20 @@ Some additional details about attacking with Wired Targeting:
 
 This version of Wired Targeting works because the ID number of the enemy is the same, whether they are hostile or non-hostile.
 
-[section=Uses]
+## Uses
 
 The only current use of Wired Targeting in speedruns is to kill the Sith Governor in all Unrestricted speedruns.  All Quests used to use Wired Targeting to kill Vorn as well, but that fight has been routed out.
 
-**Other Applications of Wired Targeting**
+### Other Applications
 
 Wired Targeting is much more versatile than just killing a non-hostile enemy, however.  The following video demonstrates additional uses of this glitch, which are not currently speedrun relevant:
 
-https://youtu.be/1IvyiP4Mahw
+[![Watch the video](https://img.youtube.com/vi/1IvyiP4Mahw/maxresdefault.jpg)](https://youtu.be/1IvyiP4Mahw)
 
 Some effects include:
 * Speaking through doors
 * Immobile objects rotating when "spoken" to
 
-[section=Technical Details]
+## Technical Details
 
 Every object in a module has a unique ID number between 1 and 65535.  The ID of the object the Player is currently targeting is being constantly updated.  However, when the game is loaded in there is a brief period of time before the ID is updated again.  During this time the player can interact with the Object that has that ID with default action, even if they are nowhere near it.  This will cause the PC to attempt to interact with whatever that object is as if it were the old object (e.g. attacking a non-hostile object).
