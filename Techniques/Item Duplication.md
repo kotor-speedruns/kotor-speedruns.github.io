@@ -1,11 +1,20 @@
-[center][big]***Item Duplication
-------------------------***[/big][/center]
+# Item Duplication
 
-[section=Description]
+**Table of Contents**
+- [Description](#description)
+- [Single Item Duplication](#single-item-duplication)
+- [Full Inventory Duplication](#full-inventory-duplication)
+  - [Via Galaxy Map](#via-galaxy-map)
+  - [Via Anywhere Menu Glitch](#via-anywhere-menu-glitch)
+  - [Via Frame Perfect Menu](#via-frame-perfect-menu)
+- [Uses](#uses)
+- [Related Glitches](#related-glitches)
+
+## Description
 
 Item Duplication refers to any method of creating a copy of one or more inventory items.  Single Item Duplication is legal in the No Major Glitches (NMG) and Unrestricted rulesets, while Full Inventory Duplication is only legal in Unrestricted.
 
-[section=Single Item Duplication]
+## Single Item Duplication
 
 Single Item Duplication is used to duplicate an equippable item such as a blaster or other piece of equipment.  You will also need an item or items that create a character animation, such as a stimulant, medpac, or energy shield.  To perform a Single Item Duplication:
 
@@ -17,15 +26,15 @@ Single Item Duplication is used to duplicate an equippable item such as a blaste
 6. Exit the menu and allow the animations to end, then allow a moment for the game to switch the item.
 7. Quick Save and Quick Load to finish the glitch.
 
-https://www.youtube.com/watch?v=O8SVacA62FU
+[![Watch the video](https://img.youtube.com/vi/O8SVacA62FU/maxresdefault.jpg)](https://youtu.be/O8SVacA62FU)
 
 When using multiple party members, it is often wise to activate Solo Mode to prevent party members from adjusting their position and breaking the animation.  Only one item can be duped at a time with this method, and the game favors the last slot equipped to.  While any animation item can be used, energy shields are objectively the most economic choice, as they themselves can be duped.
 
-[section=Full Inventory Duplication]
+## Full Inventory Duplication
 
 Full Inventory Duplication is accomplished by exiting the Ebon Hawk or Taris Hideout while the equipment menu is open.  Doing this generates a deep copy of the entire player inventory for each available party member, which will be merged back into the main inventory the next time they join the party.  There are two main methods for Full Inventory Duplication.
 
-**Method 1 - Galaxy Map**
+### Via Galaxy Map
 The Galaxy Map Method is the simplest method for inventory duping, but can only be used once the Ebon Hawk's Galaxy Map is unlocked.  To perform the duplication:
 
 1. Open the Galaxy Map.
@@ -34,37 +43,36 @@ The Galaxy Map Method is the simplest method for inventory duping, but can only 
 4. Exit the Ebon Hawk *without adding any party member*.
 5. Add one or more party members to duplicate your inventory.  
 
-https://youtu.be/DsEyd42Byx8
+[![Watch the video](https://img.youtube.com/vi/DsEyd42Byx8/maxresdefault.jpg)](https://youtu.be/DsEyd42Byx8)
 
 Every party member added in this way will add one copy of your initial inventory to your current inventory.  For example, adding four party members will give you five copies (your one initial item plus four duplicated copies) of every single item you started with, including Quest Items.
 
 **Warning!** If you add a party member when initially leaving the Ebon Hawk, you can delete your inventory instead of duplicating it.
 
-**Method 2 - [Anywhere Menu Glitch](d4jq8)**
-The [AMG](d4jq8) method is more flexible, as it can be used when exiting either the Ebon Hawk or the Hideout on Taris.  To perform the duplication:
+### Via [Anywhere Menu Glitch](</Major Glitches/Anywhere Menu Glitch.md>)
+The [AMG](</Major Glitches/Anywhere Menu Glitch.md>) method is more flexible, as it can be used when exiting either the Ebon Hawk or the Hideout on Taris.  To perform the duplication:
 
-1. Stand near the exit to the Hawk or Hideout and activate [AMG](d4jq8) with a Quick Save.
+1. Stand near the exit to the Hawk or Hideout and activate [AMG](</Major Glitches/Anywhere Menu Glitch.md>) with a Quick Save.
 2. Open the equipment menu and cancel the quit dialog.
 3. With the menu open, unpause the game and either walk out of the Ebon Hawk or select the door to leave the Hideout (most easily done with Default Action).
 4. Select no party members and leave the area.
 5. Add one or more party members to duplicate your inventory that many times.
 
-https://youtu.be/TOT_PTewLAA
+[![Watch the video](https://img.youtube.com/vi/TOT_PTewLAA/maxresdefault.jpg)](https://youtu.be/TOT_PTewLAA)
 
 **Warning!** As with the previous method, if you add a party member when initially leaving the Ebon Hawk or Hideout, you can delete your inventory instead of duplicating it.
 
-**Method 2.5 - Frame Perfect**
+### Via Frame Perfect Menu
 
-The [AMG](d4jq8) method can actually be done without an [AMG](d4jq8) by opening the Equipment Menu on the same frame as you exit the Ebon Hawk or select the Hideout Door to leave.  All other parts of the trick remain the same.  This method is not recommended outside of a TAS setting.
+The [AMG](</Major Glitches/Anywhere Menu Glitch.md>) method can actually be done without an [AMG](</Major Glitches/Anywhere Menu Glitch.md>) by opening the Equipment Menu on the same frame as you exit the Ebon Hawk or select the Hideout Door to leave.  All other parts of the trick remain the same.  This method is not recommended outside of a TAS setting.
 
-[section=Uses]
+## Uses
 
-Item Duplication is currently only used in All Quests speedruns; however, every method is used once:
+Item Duplication is currently only used in All Quests speedruns; however, both Single and Full duping are used:
 
-1. Single Item Duplication is used in All Quests NMG to duplicate the CNS Strength Enhancer twice in order to sell the copies later, yielding 4000 quick credits.
-2. Full Item Duplication via the [AMG](d4jq8) method is used on Taris in All Quests Unrestricted to obtain sufficient stims, spikes, and credits (from selling duplicated items).
-3. Full Item Duplication via the Galaxy Map is used later in All Quests Unrestricted to gain enough stims and computer spikes for the rest of the route.
+1. Single Item Duplication is used in [All Quests NMG](</Route Guides/All Quests NMG.md>) to duplicate the CNS Strength Enhancer twice in order to sell the copies later, yielding 4000 quick credits.
+2. Full Item Duplication via the [AMG](</Major Glitches/Anywhere Menu Glitch.md>) method is used twice in [All Quests Unrestricted](</Route Guides/All Quests Unrestricted.md>); once on Taris to obtain sufficient stims, spikes, and credits (from selling duplicated items), and again on Korriban to dupe enough stims for the rest of the run.
 
-[section=Related Glitches]
+## Related Glitches
 
-* [Anywhere Menu Glitch](d4jq8)
+* [AMG](</Major Glitches/Anywhere Menu Glitch.md>)
