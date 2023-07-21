@@ -21,7 +21,7 @@
 
 Save Buffering is a method of cancelling triggers, including cutscenes, conversations and fights.  When Quick Saving, you will notice there's a short fade-in from black after the game finishes saving.  Triggers will not take effect during this fade-in.  By moving forward while Quick Saving, you can enter a trigger and delay it using the fade-in.  You can then interrupt the trigger to cancel its effects.
 
-Save Buffering is one of the two signature KotOR glitches, along with the [Anywhere Menu Glitch](</Major Glitches/Anywhere Menu Glitch.md>).  It's the staple glitch of all No Major Glitches speedruns and still used widely in Unrestricted runs as well.
+Save Buffering is one of the two signature KotOR glitches, along with the [Anywhere Menu Glitch](</Major Glitches/Anywhere Menu Glitch>).  It's the staple glitch of all No Major Glitches speedruns and still used widely in Unrestricted runs as well.
 
 ## How To
 
@@ -41,7 +41,7 @@ The recommended way to do a Hard Buffer is to use Quick Saves to enter a trigger
 
 It can be tricky to open the menu while moving your character, so it's recommended to buffer into the trigger, stop moving, then open the menu, all while still buffering.
 
-*Note: The Options menu button will only appear if the setting Hide Quick Menu Buttons is set to Off in the Feedback menu.  This setting should be off both for Hard Buffers and for [Map CS Skips](<Map Cutscene Skips.md>).*
+*Note: The Options menu button will only appear if the setting Hide Quick Menu Buttons is set to Off in the Feedback menu.  This setting should be off both for Hard Buffers and for [Map CS Skips](<Map Cutscene Skips>).*
 
 ### Via Quick Load
 
@@ -57,7 +57,7 @@ Soft Buffers are done by activating an instant-use item or power after the final
 
 Soft Buffers are generally faster than Hard Buffers and are quite consistent; you can spam the Force power during the final Quick Save and the buffer will succeed.  However, not every trigger can be cancelled with a Soft Buffer.  In addition, for the entirety of Taris, you do not have access to a Force power with which to use a Soft Buffer.
 
-*Side Note:* A Soft Buffer is really just a combination of a Save Buffer and a [Force Skip](<Force Skips.md>).
+*Side Note:* A Soft Buffer is really just a combination of a Save Buffer and a [Force Skip](<Force Skips>).
 
 ### Sonic Buffers
 
@@ -75,7 +75,7 @@ An Open Buffer is a Save Buffer where you intentionally do not cancel the trigge
 
 [![Watch the video](https://img.youtube.com/vi/-Tuea7zGLjA/maxresdefault.jpg)](https://youtu.be/-Tuea7zGLjA)
 
-The most useful application of Open Buffers is to perform a [Buffered GP Warp](<GP Warp.md#buffered-gp-warps>), which is the only [GP Warp](<GP Warp.md>) legal in No Major Glitches (NMG) speedruns.
+The most useful application of Open Buffers is to perform a [Buffered GP Warp](<GP Warp#buffered-gp-warps>), which is the only [GP Warp](<GP Warp>) legal in No Major Glitches (NMG) speedruns.
 
 ## Uses
 
@@ -99,7 +99,7 @@ KotOR has a memory leak associated with Quick Save.  If you Quick Save too much,
 
 ### Fade In Never Stops
 
-If you begin a Save Buffer and move past the trigger, but the fade-in doesn't stop, you most likely [Save Teleported](<Save Teleporting.md>) over the trigger.  This skips the trigger with the important difference that *the trigger is still active*.  If you are going to pass by that area again, you will need to buffer the trigger again when you return.  If you won't revisit that area, you can continue without worrying.
+If you begin a Save Buffer and move past the trigger, but the fade-in doesn't stop, you most likely [Save Teleported](<Save Teleporting>) over the trigger.  This skips the trigger with the important difference that *the trigger is still active*.  If you are going to pass by that area again, you will need to buffer the trigger again when you return.  If you won't revisit that area, you can continue without worrying.
 
 ### Missing a Save Buffer
 
@@ -107,9 +107,9 @@ If you miss a Save Buffer, you can Quick Load after the trigger executes to go b
 
 ### Late Game Buffers
 
-As you progress in the game, Quick Saves take longer and longer to complete.  While this has beneficial effects, such as [Save Teleporting](<Save Teleporting.md>), it also makes Save Buffers much more difficult to perform.  With a large enough save file, the window for canceling the trigger can be partly or entirely skipped by the Save screen.  For any Save Buffer that is essential, disabling V-Sync will increase the frame rate of the game and thus decrease the time it takes to Quick Save, making late-game buffers much easier to perform.
+As you progress in the game, Quick Saves take longer and longer to complete.  While this has beneficial effects, such as [Save Teleporting](<Save Teleporting>), it also makes Save Buffers much more difficult to perform.  With a large enough save file, the window for canceling the trigger can be partly or entirely skipped by the Save screen.  For any Save Buffer that is essential, disabling V-Sync will increase the frame rate of the game and thus decrease the time it takes to Quick Save, making late-game buffers much easier to perform.
 
 ## Related Glitches
 
-* [Save Teleporting](<Save Teleporting.md>)
-* [Gather Party Warps](<GP Warp.md>)
+* [Save Teleporting](<Save Teleporting>)
+* [Gather Party Warps](<GP Warp>)
