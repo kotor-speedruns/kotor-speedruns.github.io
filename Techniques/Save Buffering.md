@@ -75,7 +75,7 @@ An Open Buffer is a Save Buffer where you intentionally do not cancel the trigge
 
 [![Watch the video](https://img.youtube.com/vi/-Tuea7zGLjA/maxresdefault.jpg)](https://youtu.be/-Tuea7zGLjA)
 
-The most useful application of Open Buffers is to perform a [Buffered GP Warp](77xef#ch4Buffered_GP_Warps), which is the only [GP Warp](<GP Warp.md>) legal in No Major Glitches (NMG) speedruns.
+The most useful application of Open Buffers is to perform a [Buffered GP Warp](<GP Warp.md#buffered-gp-warps>), which is the only [GP Warp](<GP Warp.md>) legal in No Major Glitches (NMG) speedruns.
 
 ## Uses
 
