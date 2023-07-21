@@ -1,5 +1,15 @@
 # GP Warp
 
+**Table of Contents**
+- [Description](#description)
+  - [Detailed Explanation](#detailed-explanation) 
+- [AMG GP Warps](#amg-gp-warps)
+- [Buffered GP Warps](#buffered-gp-warps)
+  - [Buffering into Loading Zones](#buffering-into-loading-zones)
+- [GP Warp Door Clips](#gp-warp-door-clips)
+- [Uses](#uses)
+- [Related Glitches](#related-glitches)
+
 ## Description
 
 A GP Warp, or Gather Party Warp, is a technique that allows you to warp a party member to the nearest transit point on a map.  In limited circumstances, this can allow you to teleport across entire maps.
@@ -77,7 +87,7 @@ There are also some uses of GP Warps as backups to certain [DLZs](</Major Glitch
 3. A GP Warp [Door Clip](</Major Glitches/Door Clipping.md#gather-party-warp-clips>) can be used to enter the Temple Summit
 
 
-[section=Related Glitches]
+## Related Glitches
 
 * [Anywhere Menu Glitch](</Major Glitches/Anywhere Menu Glitch.md>)
 * [Open Buffer](<Save Buffering.md#open-buffers>)
