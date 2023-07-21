@@ -1,5 +1,4 @@
-[center][big]***GP Warp
----------------***[/big][/center]
+## GP Warp
 
 [section=Description]
 
