@@ -49,10 +49,10 @@ Every party member added in this way will add one copy of your initial inventory
 
 **Warning!** If you add a party member when initially leaving the Ebon Hawk, you can delete your inventory instead of duplicating it.
 
-### Via [Anywhere Menu Glitch](</Major Glitches/Anywhere Menu Glitch.md>)
-The [AMG](</Major Glitches/Anywhere Menu Glitch.md>) method is more flexible, as it can be used when exiting either the Ebon Hawk or the Hideout on Taris.  To perform the duplication:
+### Via [Anywhere Menu Glitch](</Major Glitches/Anywhere Menu Glitch>)
+The [AMG](</Major Glitches/Anywhere Menu Glitch>) method is more flexible, as it can be used when exiting either the Ebon Hawk or the Hideout on Taris.  To perform the duplication:
 
-1. Stand near the exit to the Hawk or Hideout and activate [AMG](</Major Glitches/Anywhere Menu Glitch.md>) with a Quick Save.
+1. Stand near the exit to the Hawk or Hideout and activate [AMG](</Major Glitches/Anywhere Menu Glitch>) with a Quick Save.
 2. Open the equipment menu and cancel the quit dialog.
 3. With the menu open, unpause the game and either walk out of the Ebon Hawk or select the door to leave the Hideout (most easily done with Default Action).
 4. Select no party members and leave the area.
@@ -64,15 +64,15 @@ The [AMG](</Major Glitches/Anywhere Menu Glitch.md>) method is more flexible, as
 
 ### Via Frame Perfect Menu
 
-The [AMG](</Major Glitches/Anywhere Menu Glitch.md>) method can actually be done without an [AMG](</Major Glitches/Anywhere Menu Glitch.md>) by opening the Equipment Menu on the same frame as you exit the Ebon Hawk or select the Hideout Door to leave.  All other parts of the trick remain the same.  This method is not recommended outside of a TAS setting.
+The [AMG](</Major Glitches/Anywhere Menu Glitch>) method can actually be done without an [AMG](</Major Glitches/Anywhere Menu Glitch>) by opening the Equipment Menu on the same frame as you exit the Ebon Hawk or select the Hideout Door to leave.  All other parts of the trick remain the same.  This method is not recommended outside of a TAS setting.
 
 ## Uses
 
 Item Duplication is currently only used in All Quests speedruns; however, both Single and Full duping are used:
 
-1. Single Item Duplication is used in [All Quests NMG](</Route Guides/All Quests NMG.md>) to duplicate the CNS Strength Enhancer twice in order to sell the copies later, yielding 4000 quick credits.
-2. Full Item Duplication via the [AMG](</Major Glitches/Anywhere Menu Glitch.md>) method is used twice in [All Quests Unrestricted](</Route Guides/All Quests Unrestricted.md>); once on Taris to obtain sufficient stims, spikes, and credits (from selling duplicated items), and again on Korriban to dupe enough stims for the rest of the run.
+1. Single Item Duplication is used in [All Quests NMG](</Route Guides/All Quests NMG>) to duplicate the CNS Strength Enhancer twice in order to sell the copies later, yielding 4000 quick credits.
+2. Full Item Duplication via the [AMG](</Major Glitches/Anywhere Menu Glitch>) method is used twice in [All Quests Unrestricted](</Route Guides/All Quests Unrestricted>); once on Taris to obtain sufficient stims, spikes, and credits (from selling duplicated items), and again on Korriban to dupe enough stims for the rest of the run.
 
 ## Related Glitches
 
-* [Anywhere Menu Glitch](</Major Glitches/Anywhere Menu Glitch.md>)
+* [Anywhere Menu Glitch](</Major Glitches/Anywhere Menu Glitch>)

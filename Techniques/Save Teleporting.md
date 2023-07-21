@@ -32,13 +32,13 @@ In addition to movement, Save Teleports can be used to skip over triggers comple
 
 [![Watch the video](https://img.youtube.com/vi/VzvMcFP9AS8/maxresdefault.jpg)](https://youtu.be/VzvMcFP9AS8)
 
-Unlike a [Save Buffer](<Save Buffering.md>), the trigger remains active, so if you are going to pass back over that area, you will need to Save Teleport past the trigger again.  
+Unlike a [Save Buffer](<Save Buffering>), the trigger remains active, so if you are going to pass back over that area, you will need to Save Teleport past the trigger again.  
 
 ## Uses
 
 The main use of Save Teleports is movement; Save Teleporting is eventually the fastest form of movement for all glitched speedruns except Any% Unrestricted.
 
-Several triggers that can be skipped with [Save Buffer](<Save Buffering.md>) can also be skipped with Save Teleports and vice versa.  These skips are typically done with Save Teleports:
+Several triggers that can be skipped with [Save Buffer](<Save Buffering>) can also be skipped with Save Teleports and vice versa.  These skips are typically done with Save Teleports:
 1. Entering the Eastern Dune Sea without a map
 2. Skip visiting the Wookiee Village on Kashyyyk
 3. Skip kinrath spawn triggers in the Shadowlands (which cannot be buffered)
@@ -87,4 +87,4 @@ As a general rule of thumb, Save Teleports are sometimes useful at the end of th
 
 ## Related Glitches
 
-* [Save Buffer](<Save Buffering.md>)
+* [Save Buffer](<Save Buffering>)

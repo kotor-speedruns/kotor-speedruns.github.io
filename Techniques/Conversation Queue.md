@@ -22,12 +22,12 @@ Note that Conversation Queues cannot skip *all* types of triggers; in particular
 
 ## Uses
 
-One notable benefit of a Conversation Queue is the ability to easily bypass loading zone triggers, even without a party.  While not widely used, a Conversation Queue is also an alternative to [Save Buffering](<Save Buffering.md>) in other niche situations.  Currently, Conversation Queues uses include:
+One notable benefit of a Conversation Queue is the ability to easily bypass loading zone triggers, even without a party.  While not widely used, a Conversation Queue is also an alternative to [Save Buffering](<Save Buffering>) in other niche situations.  Currently, Conversation Queues uses include:
 
-1. Enabling [Combat Talking](<Combat Talking.md>); this is really just using a conversation queue to delay entering combat until after the desired conversation.
+1. Enabling [Combat Talking](<Combat Talking>); this is really just using a conversation queue to delay entering combat until after the desired conversation.
 2. Skipping Belaya's trigger on the way to the Jedi Council in all Unrestricted speedruns.
-3. When a [Hotshot](</Major Glitches/Hotshot.md>) places you on the wrong side of a loading zone, Conversation Queues can be used to return to the main part of the module.  This is used once in [All Star Maps](</Route Guides/All Star Maps.md>) and once in [All Quests Unrestricted](</Route Guides/All Quests Unrestricted.md>).
+3. When a [Hotshot](</Major Glitches/Hotshot>) places you on the wrong side of a loading zone, Conversation Queues can be used to return to the main part of the module.  This is used once in [All Star Maps](</Route Guides/All Star Maps>) and once in [All Quests Unrestricted](</Route Guides/All Quests Unrestricted>).
 
 ## Related Glitches
 
-* [Combat Talking](<Combat Talking.md>)
+* [Combat Talking](<Combat Talking>)

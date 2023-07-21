@@ -8,7 +8,7 @@
 
 ## Description
 
-A Force Skip uses an instant-use item or Force power to cancel a conversation or cutscene.  This is usually used to cancel conversations that begin when you first enter an area, but can also be combined with a save buffer to create a [Soft Buffer](<Save Buffering.md#soft-buffers>).
+A Force Skip uses an instant-use item or Force power to cancel a conversation or cutscene.  This is usually used to cancel conversations that begin when you first enter an area, but can also be combined with a save buffer to create a [Soft Buffer](<Save Buffering#soft-buffers>).
 
 ## How To
 
@@ -24,11 +24,11 @@ Finally, not all triggers are skippable using a Force Skip, even if they occur u
 
 ## Force Skips and Soft Buffers
 
-A [Soft Buffer](<Save Buffering.md#soft-buffers>) is really just an easy way to time a Force Skip.  The save buffer enters the cutscene trigger and delays it, so that the Force Skip can skip the trigger immediately after the buffer.
+A [Soft Buffer](<Save Buffering#soft-buffers>) is really just an easy way to time a Force Skip.  The save buffer enters the cutscene trigger and delays it, so that the Force Skip can skip the trigger immediately after the buffer.
 
 [![Watch the video](https://img.youtube.com/vi/wI2d0mIXuC0/maxresdefault.jpg)](https://youtu.be/wI2d0mIXuC0)
 
-See the guide on [Soft Buffer](<Save Buffering.md#soft-buffers>) for more information.
+See the guide on [Soft Buffer](<Save Buffering#soft-buffers>) for more information.
 
 ## Uses
 
@@ -43,8 +43,8 @@ Triggers that can be skipped using a Force Skip (without also using a save buffe
 - Short cutscenes when first exiting the Chieftain's Hall on Kashyyyk and the Rakatan Settlement on Lehon.
 - Talking with the autograph seeker upon leaving the Tatooine Swoop Races in All Quests runs.
 
-However, in theory, any trigger that can be skipped using a [Soft Buffer](<Save Buffering.md#soft-buffers>) can also be skipped with a Force Skip if it is timed for the same frame that you enter the trigger.
+However, in theory, any trigger that can be skipped using a [Soft Buffer](<Save Buffering#soft-buffers>) can also be skipped with a Force Skip if it is timed for the same frame that you enter the trigger.
 
 ## Related Glitches
 
-* [Soft Buffer](<Save Buffering.md#soft-buffers>)
+* [Soft Buffer](<Save Buffering#soft-buffers>)
