@@ -1,3 +1,10 @@
+**Table of Contents**
+- [Combat Talking](#combat-talking)
+  - [Description](#description)
+  - [How To](#how-to)
+  - [Uses](#uses)
+  - [Related Glitches](#related-glitches)
+    
 # Combat Talking
 
 ## Description
