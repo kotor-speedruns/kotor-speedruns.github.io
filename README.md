@@ -1,3 +1,5 @@
+# Getting Started with KotOR
+
 **Table of Contents**
 - [Getting Started with KotOR](#getting-started-with-kotor)
   - [How These Guides are Organized](#how-these-guides-are-organized)
@@ -9,8 +11,6 @@
   - [Other Common KotOR Issues](#other-common-kotor-issues)
     - [Stuck After Combat](#stuck-after-combat)
     - [Running on Windows 10](#running-on-windows-10)
-
-# Getting Started with KotOR
 
 If you're just wanting to get started speedrunning KotOR, this is the place to start!  This guide covers the basics of KotOR speedruns, from how to actually get KotOR running and the appropriate settings, to how to use these guides to answer the questions you have.
 
