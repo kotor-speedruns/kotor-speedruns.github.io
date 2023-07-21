@@ -75,4 +75,4 @@ Item Duplication is currently only used in All Quests speedruns; however, both S
 
 ## Related Glitches
 
-* [AMG](</Major Glitches/Anywhere Menu Glitch.md>)
+* [Anywhere Menu Glitch](</Major Glitches/Anywhere Menu Glitch.md>)
