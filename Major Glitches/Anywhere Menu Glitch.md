@@ -56,9 +56,9 @@ Cutscenes can be skipped via AMG by (quick) saving and loading, using an instant
 
 https://www.youtube.com/watch?v=EhIGGyM5vOg
 
-It is important to note that this method is more flexible than a traditional [Save Buffer](t5kyf), [Force Skip](8fp02), or [Map CS Skip](rb685); those methods skip the cutscene at the beginning of a cutscene, whereas with AMG you can progress the cutscene to hit key dialog lines that set flags or modify game variables, and then skip the cutscene.  Skipping cutscenes with AMG is also useful when saves are so long that [Save Buffers](t5kyf) are impractical.
+It is important to note that this method is more flexible than a traditional [Save Buffer](<../Techniques/Save Buffering>), [Force Skip](<../Techniques/Force Skips>), or [Map CS Skip](<../Techniques/Map CS Skips>); those methods skip the cutscene at the beginning of a cutscene, whereas with AMG you can progress the cutscene to hit key dialog lines that set flags or modify game variables, and then skip the cutscene.  Skipping cutscenes with AMG is also useful when saves are so long that [Save Buffers](<../Techniques/Save Buffering>) are impractical.
 
-The [Force Skip](8fp02) method will only work if the party member casting the Force Power is the "speaker" for the conversation, as determined by the game's code.  This is the same reason that [Force Skips](8fp02) and [Soft Buffers](t5kyf#ch4Soft_Buffers) only work for certain cutscenes.
+The [Force Skip](<../Techniques/Force Skips>) method will only work if the party member casting the Force Power is the "speaker" for the conversation, as determined by the game's code.  This is the same reason that [Force Skip](<../Techniques/Force Skips>) and [Soft Buffers](<../Techniques/Save Buffering#soft-buffers>) only work for certain cutscenes.
 
 ### Moving During Cutscenes
 
@@ -71,8 +71,8 @@ https://www.youtube.com/watch?v=v61R8Wj0NoI
 Additional notes:
 
 - Movement during cutscenes can be useful just for efficiency (progressing while a required cutscene plays) or to place a character in a specific spot for when the cutscene ends.
-- All forms of movement can be done during a cutscene, including [Save Teleporting](5dagb), though the Quick Save will advance any dialog line.
-- Note that if you try to cast Force Powers as the speaker, you will skip the cutscene with an AMG-enabled [Force Skip](8fp02).
+- All forms of movement can be done during a cutscene, including [Save Teleporting](<../Techniques/Save Teleporting>), though the Quick Save will advance any dialog line.
+- Note that if you try to cast Force Powers as the speaker, you will skip the cutscene with an AMG-enabled [Force Skip](<../Techniques/Force Skips>).
 
 ### Accessing Menus
 
@@ -80,7 +80,7 @@ With the Quick Menu Buttons enabled to appear in the top right corner, one can u
 
 https://www.youtube.com/watch?v=ht4QTL6oqk0
 
-While this can theoretically be used to skip a cutscene through Fast Transit as described above, primarily this method is used to save or load a game during a cutscene, usually to begin a [Hotshot](iarwc).
+While this can theoretically be used to skip a cutscene through Fast Transit as described above, primarily this method is used to save or load a game during a cutscene, usually to begin a [Hotshot](Hotshot).
 
 ## Free Look AMGs
 
@@ -97,11 +97,11 @@ Cutscenes that are skipped this way include:
 
 1. The vision cutscene(s) where the MC is tossing and turning in his/her sleep.
 2. Malak ordering Saul to destroy Taris.
-3. The Ebon Hawk being captured by the Leviathan, Carth's old mentor ([All Quests](2setw) only).
-4. Malak torturing Bastila in the Lehon Temple ([Any%](hmjxg) and [All Star Maps](m64hn) only).
+3. The Ebon Hawk being captured by the Leviathan, Carth's old mentor ([All Quests](<../Route Guides/All Quests Unrestricted>) only).
+4. Malak torturing Bastila in the Lehon Temple ([Any%](<../Route Guides/Any% Unrestricted>) and [All Star Maps](<../Route Guides/All Star Maps>) only).
 5. The cutscene when flying to the Star Forge.
 
-The third cutscene above is completely avoided in [Any%](hmjxg) and [All Star Maps](m64hn), while the fourth cutscene above is skipped with a [Map CS Skip](rb685) in [All Quests](2setw); [Any%](hmjxg) and [All Star Maps](m64hn) need to progress that cutscene to allow the Dark Side version of Bastila to appear on Lehon.  All other STUNT cutscenes are skipped with [Map CS Skips](rb685).
+The third cutscene above is completely avoided in [Any%](<../Route Guides/Any% Unrestricted>) and [All Star Maps](<../Route Guides/All Star Maps>), while the fourth cutscene above is skipped with a [Map CS Skip](<../Techniques/Map CS Skips>) in [All Quests](<../Route Guides/All Quests Unrestricted>); [Any%](<../Route Guides/Any% Unrestricted>) and [All Star Maps](<../Route Guides/All Star Maps>) need to progress that cutscene to allow the Dark Side version of Bastila to appear on Lehon.  All other STUNT cutscenes are skipped with [Map CS Skips](<../Techniques/Map CS Skips>).
 
 ## Credit Underflow
 
@@ -123,7 +123,7 @@ Some notes:
 - With negative credits, you *cannot* pay bribes or fees directly to NPCs, including landing fees and costs for swoop races.  You also cannot afford Pazaak wagers.
 - If you earn enough credits, you can move from negative credits back to positive credits, and your money will then function normally again.
 
-Credit Underflow is used at the start of [All Quests](2setw) to afford enough stims for the Duel Ring.
+Credit Underflow is used at the start of [All Quests](<../Route Guides/All Quests Unrestricted>) to afford enough stims for the Duel Ring.
 
 ## Forced Fast Text
 
@@ -138,7 +138,7 @@ Fast Text is a glitch in KotOR in which the sound files for conversations are no
 
 https://www.youtube.com/watch?v=LJApjo8bt-U
 
-This is used in [All Quests](2setw) in conjunction with the Yuthura XP Exploit to gain ~20000 XP in approximately 30 seconds.
+This is used in [All Quests](<../Route Guides/All Quests Unrestricted>) in conjunction with the Yuthura XP Exploit to gain ~20000 XP in approximately 30 seconds.
 
 ## Classic Menu Glitch
 
@@ -152,10 +152,10 @@ This method of performing a Menu Glitch predated the Anywhere Menu Glitch, but i
 
 ## Related Glitches
 
-- [Hotshots](iarwc)
-- [Fast Lane](imbom)
-- [Fake Level Up](b6452)
-- [The Routine](7wfpc)
-- [Gather Party Warps](77xef)
-- [Save Buffers](t5kyf)
-- [Force Skips](8fp02)
+- [Hotshots](Hotshot)
+- [Fast Lane](<Fast Lane>)
+- [Fake Level Up](<Fake Level Up>)
+- [The Routine](<The Routine>)
+- [Gather Party Warps](<../Techniques/GP Warp>)
+- [Save Buffers](<../Techniques/Save Buffering>)
+- [Force Skips](<../Techniques/Force Skips>)
