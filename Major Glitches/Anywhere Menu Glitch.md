@@ -98,10 +98,10 @@ Cutscenes that are skipped this way include:
 1. The vision cutscene(s) where the MC is tossing and turning in his/her sleep.
 2. Malak ordering Saul to destroy Taris.
 3. The Ebon Hawk being captured by the Leviathan, Carth's old mentor ([All Quests](<../Route Guides/All Quests Unrestricted>) only).
-4. Malak torturing Bastila in the Lehon Temple ([Any%](<../Route Guides/Any% Unrestricted>) and [All Star Maps](<../Route Guides/All Star Maps>) only).
+4. Malak torturing Bastila in the Lehon Temple ([Any%](<../Route Guides/Any%25 Unrestricted>) and [All Star Maps](<../Route Guides/All Star Maps>) only).
 5. The cutscene when flying to the Star Forge.
 
-The third cutscene above is completely avoided in [Any%](<../Route Guides/Any% Unrestricted>) and [All Star Maps](<../Route Guides/All Star Maps>), while the fourth cutscene above is skipped with a [Map CS Skip](<../Techniques/Map CS Skips>) in [All Quests](<../Route Guides/All Quests Unrestricted>); [Any%](<../Route Guides/Any% Unrestricted>) and [All Star Maps](<../Route Guides/All Star Maps>) need to progress that cutscene to allow the Dark Side version of Bastila to appear on Lehon.  All other STUNT cutscenes are skipped with [Map CS Skips](<../Techniques/Map CS Skips>).
+The third cutscene above is completely avoided in [Any%](<../Route Guides/Any%25 Unrestricted>) and [All Star Maps](<../Route Guides/All Star Maps>), while the fourth cutscene above is skipped with a [Map CS Skip](<../Techniques/Map CS Skips>) in [All Quests](<../Route Guides/All Quests Unrestricted>); [Any%](<../Route Guides/Any%25 Unrestricted>) and [All Star Maps](<../Route Guides/All Star Maps>) need to progress that cutscene to allow the Dark Side version of Bastila to appear on Lehon.  All other STUNT cutscenes are skipped with [Map CS Skips](<../Techniques/Map CS Skips>).
 
 ## Credit Underflow
 
