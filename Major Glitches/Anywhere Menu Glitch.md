@@ -24,7 +24,7 @@ Anywhere Menu Glitch is a glitch that allows you to have limited control over yo
 
 The Anywhere Menu Glitch is performed by pressing Alt-F4 during a saving or loading screen.  If loading, when the screen ends, the game can be unpaused by simply pressing the pause button. If saving, the player must open and close a menu, and then unpause. This allows you to move or perform other actions with the quit dialog still active.
 
-https://www.youtube.com/watch?v=RYga29EPp7k
+[![Watch the video](https://img.youtube.com/vi/RYga29EPp7k/maxresdefault.jpg)](https://youtu.be/RYga29EPp7k)
 
 ## Applications of AMG
 
@@ -54,7 +54,7 @@ Once control is gained, you can either skip the cutscene, move during the cutsce
 
 Cutscenes can be skipped via AMG by (quick) saving and loading, using an instant-use Force Power or item, or using Fast Transit (where enabled).  The first of these is akin to a [Save Buffer](<../Techniques/Save Buffering>), the second is essentially a [Force Skip](<../Techniques/Force Skips>), and the third an elaborate [Map CS Skip](<../Techniques/Map CS Skips>).
 
-https://www.youtube.com/watch?v=EhIGGyM5vOg
+[![Watch the video](https://img.youtube.com/vi/EhIGGyM5vOg/maxresdefault.jpg)](https://youtu.be/EhIGGyM5vOg)
 
 It is important to note that this method is more flexible than a traditional [Save Buffer](<../Techniques/Save Buffering>), [Force Skip](<../Techniques/Force Skips>), or [Map CS Skip](<../Techniques/Map CS Skips>); those methods skip the cutscene at the beginning of a cutscene, whereas with AMG you can progress the cutscene to hit key dialog lines that set flags or modify game variables, and then skip the cutscene.  Skipping cutscenes with AMG is also useful when saves are so long that [Save Buffers](<../Techniques/Save Buffering>) are impractical.
 
@@ -66,7 +66,7 @@ Your party members will have either free or limited movement during cutscenes, d
 
 Movement during cutscenes is made much easier by breaking the cutscene's camera instructions, which can be done by using the Change Leader hotkey to swap between multiple party members, or pressing Free Look twice (which can be done with no party members).
 
-https://www.youtube.com/watch?v=v61R8Wj0NoI
+[![Watch the video](https://img.youtube.com/vi/v61R8Wj0NoI/maxresdefault.jpg)](https://youtu.be/v61R8Wj0NoI)
 
 Additional notes:
 
@@ -78,7 +78,7 @@ Additional notes:
 
 With the Quick Menu Buttons enabled to appear in the top right corner, one can use the mouse to click these buttons to access menus.  The mouse movement for this is blind, as the cursor does not reappear while the cutscene is playing; this also applies inside the menu, so keyboard usage is recommended for these instances.
 
-https://www.youtube.com/watch?v=ht4QTL6oqk0
+[![Watch the video](https://img.youtube.com/vi/ht4QTL6oqk0/maxresdefault.jpg)](https://youtu.be/ht4QTL6oqk0)
 
 While this can theoretically be used to skip a cutscene through Fast Transit as described above, primarily this method is used to save or load a game during a cutscene, usually to begin a [Hotshot](Hotshot).
 
@@ -91,7 +91,7 @@ Some cutscenes, mainly plot cutscenes that occur while traveling between planets
 3. Press Free Look twice.  This breaks the camera script and skips to the end of the cutscene.
 4. Additionally, spamming Quick Save while the cutscene ends will cause the cutscene to end sooner.
 
-https://www.youtube.com/watch?v=IFPnbwP1wKo
+[![Watch the video](https://img.youtube.com/vi/IFPnbwP1wKo/maxresdefault.jpg)](https://youtu.be/IFPnbwP1wKo)
 
 Cutscenes that are skipped this way include:
 
@@ -113,7 +113,7 @@ Credit Underflow is a unique application of AMG that buys an item when you don't
 4. Buy another item that will not cause a pop-up.
 5. Close the shop menu and click 'OK' on the pop-up to purchase the first item.
 
-https://www.youtube.com/watch?v=CqTE_hgUh38
+[![Watch the video](https://img.youtube.com/vi/CqTE_hgUh38/maxresdefault.jpg)](https://youtu.be/CqTE_hgUh38)
 
 Some notes:
 
@@ -136,7 +136,7 @@ Fast Text is a glitch in KotOR in which the sound files for conversations are no
 5. Open the Map screen using the mouse.  This unpauses the game and will allow the conversation to occur, and Fast Text will be active.
 6. Perform the conversation; when done, press the Map hotkey twice to close the menu.  This disables Fast Text, and you will need to unpause the game to continue.
 
-https://www.youtube.com/watch?v=LJApjo8bt-U
+[![Watch the video](https://img.youtube.com/vi/LJApjo8bt-U/maxresdefault.jpg)](https://youtu.be/LJApjo8bt-U)
 
 This is used in [All Quests](<../Route Guides/All Quests Unrestricted>) in conjunction with the Yuthura XP Exploit to gain ~20000 XP in approximately 30 seconds.
 
@@ -144,7 +144,7 @@ This is used in [All Quests](<../Route Guides/All Quests Unrestricted>) in conju
 
 The Classic Menu Glitch (sometimes called Container Menu Glitch) is an alternate way of triggering a menu glitch.  It is performed by standing next to a container and attempting to loot it.  Use any menu hotkey (such as Escape for Options) on the same frame that the item dialog pops up, and the item dialog should overlay itself on the menu screen.
 
-https://www.youtube.com/watch?v=uKJWEMBcHRY
+[![Watch the video](https://img.youtube.com/vi/uKJWEMBcHRY/maxresdefault.jpg)](https://youtu.be/uKJWEMBcHRY)
 
 If you open the menu too early, you can close it and attempt to open the menu again before the item dialog pops up.  In this way you can "buffer" a Menu Glitch.  If you open the menu too late, the item dialog will pop up as normal.  Just close it and loot the container to retry the glitch.
 
