@@ -1,30 +1,44 @@
 # Anywhere Menu Glitch
 
-[small]*Discovered by lanedibello*[/small]
+*Discovered by lane*
+
+**Table of Contents**
+- [Description](#description)
+- [How To](#how-to)
+- [Applications of AMG](#applications-of-amg)
+- [Control During Cutscenes](#control-during-cutscenes)
+  - [Skipping Cutscenes](#skipping-cutscenes)
+  - [Moving During Cutscenes](#moving-during-cutscenes)
+  - [Accessing Menus](#accessing-menus)
+- [Free Look AMGs](#free-look-amgs)
+- [Credit Underflow](#credit-underflow)
+- [Forced Fast Text](#forced-fast-text)
+- [Classic Menu Glitch](#classic-menu-glitch)
+- [Related Glitches](#related-glitches)
 
 ## Description
 
-Anywhere Menu Glitch is a glitch that allows you to have limited control over your characters while in a menu screen or during a cutscene.
+Anywhere Menu Glitch is a glitch that allows you to have limited control over your characters while in a menu screen or during a cutscene.  It is the cornerstone glitch of all Unrestricted speedruns, and along with [Save Buffering](<../Techniques/Save Buffering>) one of the two most widely used glitches in KotOR speedrunning.
 
-[section=How To]
+## How To
 
 The Anywhere Menu Glitch is performed by pressing Alt-F4 during a saving or loading screen.  If loading, when the screen ends, the game can be unpaused by simply pressing the pause button. If saving, the player must open and close a menu, and then unpause. This allows you to move or perform other actions with the quit dialog still active.
 
 https://www.youtube.com/watch?v=RYga29EPp7k
 
-[section=Applications of AMG]
+## Applications of AMG
 
 AMG has a variety of uses across all of the Unrestricted routes.  The most powerful use of AMG is enabling other major glitches, including:
 
-- [Hotshots](iarwc)
-- [Fast Lane](imbom)
-- [Fake Level Up](b6452)
-- [The Routine](7wfpc)
-- [Gather Party Warps](77xef)
+- [Hotshots](Hotshot)
+- [Fast Lane](<Fast Lane>)
+- [Fake Level Up](<Fake Level Up>)
+- [The Routine](<The Routine>)
+- [Gather Party Warps](<../Techniques/GP Warp>)
 
 Even beyond these glitches, there are other applications of AMG that are speedrun relevant, listed below.
 
-[section=Control During Cutscenes]
+## Control During Cutscenes
 
 The main use of AMG is to gain control during cutscenes.  To do so:
 
@@ -36,9 +50,9 @@ Once you have cancelled the pop-up, you can no longer click through dialog lines
 
 Once control is gained, you can either skip the cutscene, move during the cutscene, or access menus during the cutscene.
 
-**Skipping Cutscenes**
+### Skipping Cutscenes
 
-Cutscenes can be skipped via AMG by (quick) saving and loading, using an instant-use Force Power or item, or using Fast Transit (where enabled).  The first of these is akin to a [Save Buffer](t5kyf), the second is essentially a [Force Skip](8fp02), and the third an elaborate [Map CS Skip](rb685).
+Cutscenes can be skipped via AMG by (quick) saving and loading, using an instant-use Force Power or item, or using Fast Transit (where enabled).  The first of these is akin to a [Save Buffer](<../Techniques/Save Buffering>), the second is essentially a [Force Skip](<../Techniques/Force Skips>), and the third an elaborate [Map CS Skip](<../Techniques/Map CS Skips>).
 
 https://www.youtube.com/watch?v=EhIGGyM5vOg
 
@@ -46,7 +60,7 @@ It is important to note that this method is more flexible than a traditional [Sa
 
 The [Force Skip](8fp02) method will only work if the party member casting the Force Power is the "speaker" for the conversation, as determined by the game's code.  This is the same reason that [Force Skips](8fp02) and [Soft Buffers](t5kyf#ch4Soft_Buffers) only work for certain cutscenes.
 
-**Moving During Cutscenes**
+### Moving During Cutscenes
 
 Your party members will have either free or limited movement during cutscenes, depending on whether they are considered the "speaker" for the conversation by the game's code.  If they are not the speaker, they may move normally.  If they are the speaker, they may only move if they have a melee weapon equipped and use the Flourish Weapon hotkey, which allows the party member to move for the duration of the weapon flourish.
 
@@ -60,7 +74,7 @@ Additional notes:
 - All forms of movement can be done during a cutscene, including [Save Teleporting](5dagb), though the Quick Save will advance any dialog line.
 - Note that if you try to cast Force Powers as the speaker, you will skip the cutscene with an AMG-enabled [Force Skip](8fp02).
 
-**Accessing Menus**
+### Accessing Menus
 
 With the Quick Menu Buttons enabled to appear in the top right corner, one can use the mouse to click these buttons to access menus.  The mouse movement for this is blind, as the cursor does not reappear while the cutscene is playing; this also applies inside the menu, so keyboard usage is recommended for these instances.
 
@@ -68,7 +82,7 @@ https://www.youtube.com/watch?v=ht4QTL6oqk0
 
 While this can theoretically be used to skip a cutscene through Fast Transit as described above, primarily this method is used to save or load a game during a cutscene, usually to begin a [Hotshot](iarwc).
 
-[section=Free Look AMGs]
+## Free Look AMGs
 
 Some cutscenes, mainly plot cutscenes that occur while traveling between planets, occur in special modules called STUNT modules.  These cutscenes have scripted camera movements that control the length of the cutscene.  A Free Look AMG can skip these cutscenes as follows:
 
@@ -89,7 +103,7 @@ Cutscenes that are skipped this way include:
 
 The third cutscene above is completely avoided in [Any%](hmjxg) and [All Star Maps](m64hn), while the fourth cutscene above is skipped with a [Map CS Skip](rb685) in [All Quests](2setw); [Any%](hmjxg) and [All Star Maps](m64hn) need to progress that cutscene to allow the Dark Side version of Bastila to appear on Lehon.  All other STUNT cutscenes are skipped with [Map CS Skips](rb685).
 
-[section=Credit Underflow]
+## Credit Underflow
 
 Credit Underflow is a unique application of AMG that buys an item when you don't have enough credits to afford it, giving you negative credits.  To perform a Credit Underflow:
 
@@ -111,7 +125,7 @@ Some notes:
 
 Credit Underflow is used at the start of [All Quests](2setw) to afford enough stims for the Duel Ring.
 
-[section=Forced Fast Text]
+## Forced Fast Text
 
 Fast Text is a glitch in KotOR in which the sound files for conversations are not properly loaded, making all dialog in conversations advance instantly with the exception of user-chosen dialog options.  While Fast Text happens naturally as memory usage increases, it can also be forced with an application of AMG as follows:
 
@@ -126,7 +140,7 @@ https://www.youtube.com/watch?v=LJApjo8bt-U
 
 This is used in [All Quests](2setw) in conjunction with the Yuthura XP Exploit to gain ~20000 XP in approximately 30 seconds.
 
-[section=Classic Menu Glitch]
+## Classic Menu Glitch
 
 The Classic Menu Glitch (sometimes called Container Menu Glitch) is an alternate way of triggering a menu glitch.  It is performed by standing next to a container and attempting to loot it.  Use any menu hotkey (such as Escape for Options) on the same frame that the item dialog pops up, and the item dialog should overlay itself on the menu screen.
 
@@ -134,9 +148,9 @@ https://www.youtube.com/watch?v=uKJWEMBcHRY
 
 If you open the menu too early, you can close it and attempt to open the menu again before the item dialog pops up.  In this way you can "buffer" a Menu Glitch.  If you open the menu too late, the item dialog will pop up as normal.  Just close it and loot the container to retry the glitch.
 
-This method of performing a Menu Glitch predated the Anywhere Menu Glitch, but it is less reliable, less flexible, and slower than the Anywhere Menu Glitch.  Thus this version of Menu Glitch is now obsolete.
+This method of performing a Menu Glitch predated the Anywhere Menu Glitch, but it is less reliable, less flexible, and slower than the Anywhere Menu Glitch.  Thus this version of Menu Glitch is now obsolete, with the exception of non-PC runs, for which AMG does not function.
 
-[section=Related Glitches]
+## Related Glitches
 
 - [Hotshots](iarwc)
 - [Fast Lane](imbom)
