@@ -2,6 +2,8 @@
 
 Any% No Major Glitches v4.3 - Video Tutorial[/big]**[/center]
 
+*Uploaded 8-7-2022*
+
 [center]Tutorials by indykenobi[/center]
 
 [section=Introduction]
