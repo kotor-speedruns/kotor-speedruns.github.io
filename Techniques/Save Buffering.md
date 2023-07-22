@@ -21,7 +21,7 @@
 
 Save Buffering is a method of cancelling triggers, including cutscenes, conversations and fights.  When Quick Saving, you will notice there's a short fade-in from black after the game finishes saving.  Triggers will not take effect during this fade-in.  By moving forward while Quick Saving, you can enter a trigger and delay it using the fade-in.  You can then interrupt the trigger to cancel its effects.
 
-Save Buffering is one of the two signature KotOR glitches, along with the [Anywhere Menu Glitch](</Major Glitches/Anywhere Menu Glitch>).  It's the staple glitch of all No Major Glitches speedruns and still used widely in Unrestricted runs as well.
+Save Buffering is one of the two signature KotOR glitches, along with the [Anywhere Menu Glitch](<../Major Glitches/Anywhere Menu Glitch>).  It's the staple glitch of all No Major Glitches speedruns and still used widely in Unrestricted runs as well.
 
 ## How To
 
