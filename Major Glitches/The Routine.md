@@ -1,15 +1,25 @@
-[center][big]***The Routine
-----------------------------***[/big][/center]
+# The Routine
 
-[small]*Discovered by HotShotWire*[/small]
+*Discovered by HotShotWire*
 
-[section=Description]
+**Table of Contents:**
+- [Description](#description)
+- [Setting up The Routine](#setting-up-the-routine)
+  - [Retained Data](#retained-data)
+  - [Routine Preparation](#routine-preparation)
+- [How To](#how-to)
+- [Duplicating Star Maps](#duplicating-star-maps)
+- [Use in Any%](#use-in-any%25)
+- [Other Uses](#other-uses)
+- [Related Glitches](#related-glitches)
+
+## Description
 
 The Routine is an amalgamation of menu glitches that has some complex, but very useful effects.  It allows us to Quick Save while in the main menu, which effectively deletes nearly all of our save data. 
 
-[section=Setting up the Routine]
+## Setting up the Routine
 
-**Retained Data**
+### Retained Data
 
 While the Routine is meant to delete our save data, we need to delete it in such a way that we retain the important parts of our save file.  After a Routine is successfully completed, all data from your save is deleted with the exception of:
 * The Player Character (or Main Character)
@@ -19,7 +29,7 @@ While the Routine is meant to delete our save data, we need to delete it in such
 
 The module is the key aspect here; every other module is deleted.  Thus when you reenter a module after the Routine, it acts as if you have never visited that module before.  Effectively, this "resets" the module to its default state.
 
-**Setting up the Routine**
+### Routine Preparation
 
 Thus, there are two key decisions to make before a Routine:
 - *What module should I be in?*  This module should be one that you don't need to reset to its default state, and be close enough to easily reach the module that you do want to reset.  This can be done through fast transit or by just being adjacent to the module you're resetting.
@@ -32,18 +42,18 @@ Once you've made these choices, make sure you have the proper in-game setup.  Yo
 * Any party members you want to retain access to should be in your current party.
 * The current module does not need to be reset, and is near the one that you wish to reset.
 
-[section=How To]
+## How To
 
 Once you are in the correct module and have the correct party members in your party, use the following steps to perform the Routine:
-- Activate an [Anywhere Menu Glitch](d4jq8) (AMG) with a Quick Save
+- Activate an [Anywhere Menu Glitch](<Anywhere Menu Glitch>) (AMG) with a Quick Save
 - Open the Options menu ('O' by default) 
 - Click "Exit Game".  This replaces the Alt-F4 Quit pop-up with the Exit to Main Menu Quit pop-up.
 - Have "Load Game" and "Ok" highlighted, and press the Enter key.  This opens a Load Game Menu behind the Main Menu
 - Press the Down Arrow once to highlight the Auto Save in the hidden Load Game menu.
 - Use the mouse to highlight "Load Game" and press the Enter key
 - Click "OK" in the pop-up to load the Auto Save behind the Load Game menu (see notes below).
-- After the load finishes, Quick Load.  This loads the Quick Save you made when you used [AMG](d4jq8) (see notes below).
-- Click "Cancel" to return to the Main Menu.  Note you have active gameplay in the background!
+- After the load finishes, Quick Load.  This loads the Quick Save you made when you used [AMG](<Anywhere Menu Glitch>) (see notes below).
+- Press Escape twice (or click "Cancel") to return to the Main Menu.  Note you have active gameplay in the background!
 - Close the Options menu via hotkey.  You should hear the close menu sound; if not, press the Options menu hotkey again (see notes below).
 - Quick Save.  If it doesn't work, your Options menu is still open, so press the Option menu hotkey and try again.
 - After the Quick Save, press the Options menu hotkey to open the Options menu.  The menu icons should appear, floating in the Main Menu.
@@ -53,7 +63,7 @@ Once you are in the correct module and have the correct party members in your pa
 - Press "OK" on the pop-up.  This causes the background instance to return to the Main Menu.
 - Load the Quick Save from the Load Game menu to complete the glitch.
 
-https://youtu.be/50-SdtxMBgU
+[![Watch the video](https://img.youtube.com/vi/50-SdtxMBgU/maxresdefault.jpg)](https://youtu.be/50-SdtxMBgU)
 
 **Additional Notes:**
 
@@ -65,11 +75,11 @@ https://youtu.be/50-SdtxMBgU
 
 4. For convenience, here is an abridged set of instructions:
 
-[center]QS/AMG, Options, Exit Game Pop-up, Load Game+OK/Enter, Down, Load Game/Enter, OK, QL, Cancel, Close Menu, QS, Options, Up, Options + Enter, Escape, OK, Load QS[/center]
+QS/AMG, Options, Exit Game Pop-up, Load Game+OK/Enter, Down, Load Game/Enter, OK, QL, Escape x2, Close Menu, QS, Options, Up, Options + Enter, Escape, OK, Load QS
 
 5. Legacy versions of Windows may need tweaks to the Routine.  The video linked here is a version of the Routine that is [compatible with Windows 7](https://www.youtube.com/watch?v=zdSSroyQqzc).
 
-[section=Duplicating Star Maps]
+## Duplicating Star Maps
 
 Currently the main use of the Routine in speedruns is to "duplicate" Star Maps.  In reality this is a bit of a misnomer, as rather than duplicating the Star Map item, the Routine lets us increment the Star Map variable that tracks our game progress multiple times with a single Star Map object.
 
@@ -81,31 +91,31 @@ The general steps to re-obtain a Star Map are:
 
 The Dantooine Star Map can be obtained multiple times, but because it is the first Star Map it actually sets the Star Map variable to its initial value instead of incrementing it.  Thus, no Star Maps can be skipped in this way.  
 
-The Routine is not used in [All Quests](2setw), since there are quests attached to every Star Map that must be completed anyway.  [All Star Maps](m64hn) is required to get each individual Star Map by the category rules, and thus also does not use the Routine.
+The Routine is not used in [All Quests](<../Route Guides/All Quests Unrestricted>), since there are quests attached to every Star Map that must be completed anyway.  [All Star Maps](<../Route Guides/All Star Maps>) is required to get each individual Star Map by the category rules, and thus also does not use the Routine.
 
-**Use in [Any%](hmjxg)**
+### Use in [Any%](<../Route Guides/Any%25 Unrestricted>)
 
-The [Any%](hmjxg) speedrun uses the Routine three times to obtain the Kashyyyk Star Map four times.  The Kashyyyk Map is chosen because there is a convenient Coordinate Warp from the Czerka Landing Pad that gets us very close to the Star Map in the Lower Shadowlands.  Recruiting Jolee on Kashyyyk also allows us to skip Juhani on Dantooine, saving time there.
+The [Any%](<../Route Guides/Any%25 Unrestricted>) speedrun uses the Routine three times to obtain the Kashyyyk Star Map four times.  The Kashyyyk Map is chosen because there is a convenient Coordinate Warp from the Czerka Landing Pad that gets us very close to the Star Map in the Lower Shadowlands.  Recruiting Jolee on Kashyyyk also allows us to skip Juhani on Dantooine, saving time there.
 
-https://youtu.be/N2xK6V7fJCc
+[![Watch the video](https://img.youtube.com/vi/N2xK6V7fJCc/maxresdefault.jpg)](https://youtu.be/N2xK6V7fJCc)
 
 The general steps for the Kashyyyk Star Map duplication:
-1. Obtain the Star Map using a [Quick Save Coordinate Warp](iarwc#ch6Coordinate_Warping).
-2. [Fast Lane](imbom) to return to the Czerka Landing Pad.
+1. Obtain the Star Map using a [Quick Save Coordinate Warp](Hotshot#coordinate-warping).
+2. [Fast Lane](<Fast Lane>) to return to the Czerka Landing Pad.
 3. Perform the Routine to delete all other data.
 4. Transit back to the Lower Shadowlands.
-5. [Quick Save Hotshot](iarwc#ch3Quick_Save_Hotshots) back to the Landing Pad.
+5. [Quick Save Hotshot](Hotshot#quick-save-hotshots) back to the Landing Pad.
 6. Repeat the above steps two more times.
 
 This is all done with Bastila and Jolee in our party, so that we can finish the game successfully.  Carth and Canderous are deleted, while all other party members are completely skipped.
 
-[section=Other Uses]
+## Other Uses
 
 These uses are currently not speedrun relevant.  It's also important to note that the Routine is not necessarily fully explored yet, so other benefits may exist.
 
 * Deletes transit waypoints, resulting in the MC being warped to a module's default spawn when transiting back
 * Can be used to delete party members, which could be situationally useful
 
-[section=Related Glitches]
+## Related Glitches
 
-* [Anywhere Menu Glitch](d4jq8)
+* [Anywhere Menu Glitch](<Anywhere Menu Glitch>)
