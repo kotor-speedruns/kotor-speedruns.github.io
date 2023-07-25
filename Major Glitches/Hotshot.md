@@ -1,23 +1,37 @@
-[center][big]***Hotshot
-----------------------------***[/big][/center]
+# Hotshot
 
-[small]*Discovered by HotShotWire*[/small]
+*Discovered by HotShotWire*
 
-[section=Description]
+**Table of Contents**
+- [Description](#description)
+- [Hotshot Details](#hotshot-details)
+- [HSS Hotshots](#hss-hotshots)
+- [Quick Save Hotshots](#quick-save-hotshots)
+- [Autosave Hotshots](#autosave-hotshots)
+- [Hard Save Hotshots](#hard-save-hotshots)
+  - [Via Load Menu](#via-load-menu)
+  - [Via Main Menu](#via-main-menu)
+- [Coordinate Warping](#coordinate-warping)
+- [Transit Point Storage](#transit-point-storage)
+- [Swoop Skips](#swoop-skips)
+- [Uses](#uses)
+- [Related Glitches](#related-glitches)
 
-The Hotshot Glitch is an advanced application of [Anywhere Menu Glitch](d4jq8) that allows us to arbitrarily warp to a module that we have been to previously, with certain restrictions.
+## Description
 
-[section=Hotshot Details]
+The Hotshot Glitch is an advanced application of the [Anywhere Menu Glitch](d4jq8) that allows us to arbitrarily warp to a module that we have been to previously, with certain restrictions.
+
+## Hotshot Details
 
 Save files are made up of a bunch of smaller saves called modules. Usually, we can only load into the module that a save was made in.  A Hotshot essentially tricks the game into loading a different module than usual.  Due to the way Hotshots manipulate files, there are several restrictions and unusual effects that must be kept in mind.
 
-**Restrictions:**
+### Restrictions
 
 - You must have already visited the target module during your current save.
 - The target module cannot have been deleted from the save file by certain milestones such as leaving Taris or arriving at the Star Forge.
 - Depending on the method used, you will need a different combinations of Hard Saves and Quick Saves.
 
-**Effects:**
+### Effects
 
 - The Main Character (MC) spawns in their last location in the module.
 - Party members will spawn in the same coordinates they were in before the warp, provided they are not out of bounds.  This leads to a technique called [Coordinate Warping](iarwc#ch7Coordinate_Warping).
@@ -25,17 +39,18 @@ Save files are made up of a bunch of smaller saves called modules. Usually, we c
 - Party member characteristics are *not* reverted in any way.
 - We keep all inventory items, quest progress, module progressions, and global variable progress between warps.
 
-There are two modern ways to perform a Hotshot, as well as two older ways that are nearly entirely obsoleted.  Each has a specific save setup that is required.  We will call the module you want to warp to the Destination Module, and the module you warp from the Start Module.
+There are three modern ways to perform a Hotshot, as well as two older ways that are nearly entirely obsoleted.  Each has a specific save setup that is required.  We will call the module you want to warp to the Destination Module, and the module you warp from the Start Module.
 
-[section=HSS Hotshots]
+## HSS Hotshots
 
-**Description:** HSS Hotshots, also called Neo Hotshots, are always consistent and the fastest way to Hotshot in many circumstances.  The vast majority of Hotshots in current speedrun routes are done with either this method or [Quick Save Hotshots](iarwc#ch4Quick_Save_Hotshots).
+### Description:
+HSS Hotshots, also called Neo Hotshots, are always consistent and the fastest way to Hotshot in many circumstances.  The vast majority of Hotshots in current speedrun routes are done with either this method or [Quick Save Hotshots](iarwc#ch4Quick_Save_Hotshots).
 
-**Save Setup:**
+### Save Setup
 
 - The Destination module should already have a Hard Save made in that location.  While any slot will work, the menuing is quickest when this save is in Slot 1.
 
-**Steps:**
+### Steps
 
 1. When you are ready to Hotshot, activate [AMG](d4jq8).
 2. Open the Options Menu and ensure 'Load Game' and 'Cancel' are both highlighted.
@@ -50,12 +65,12 @@ There are two modern ways to perform a Hotshot, as well as two older ways that a
 
 [small]Video forthcoming[/small]
 
-**Additional Notes:**
+### Additional Notes
 
 - The main drawback of this method is overwriting your previous Destination save.  If you still need a Hard Save in that module, you may want to use a [Quick Save Hotshot](iarwc#ch4Quick_Save_Hotshots) instead.
 - This is the only method of Hotshot using a Hard Save that is 100% consistent.  See [Hard Save Hotshots](iarwc#ch6Hard_Save_Hotshots) for the inconsistent methods.
 
-[section=Quick Save Hotshots]
+## Quick Save Hotshots
 
 **Description:** The Quick Save Hotshot is the most flexible method for Hotshots and is always consistent.  The vast majority of Hotshots done in current speedrun routes are either Quick Save Hotshots or [HSS Hotshots](iarwc#ch3HSS_Hotshots).
 
@@ -88,7 +103,7 @@ https://www.youtube.com/watch?v=G0dSTu6agio
 - If you obtained [AMG](d4jq8) by entering the Start Module, you can Quick Save in step 4 without closing the Options Menu first.
 - Instead of steps 5,6, and 8, you can load the Quick Save using the mouse.  This is nearly always slower than using the keyboard as described.
 
-[section=Autosave Hotshots]
+## Autosave Hotshots
 
 **Description:** Autosave Hotshots are a special method that loads an Autosave that has been saved over.  It has some useful special properties but is extremely situational.
 
@@ -120,7 +135,7 @@ https://www.youtube.com/watch?v=7O0BLWlJ1iQ
 - With one possible exception, you will spawn in the default spawn location for the module.  This is sometimes called a Default Spawn Warp.
 - The exception is if you have previously used Return to Hideout/Ebon Hawk in the Destination Module, and use the [Transit Point Storage](iarwc#ch8Transit_Point_Storage) glitch described below.  Then you will spawn at the most recent transit point in that module, even if you have since created other transit points in other modules.
 
-[section=Hard Save Hotshots]
+## Hard Save Hotshots
 
 Hard Save Hotshots were the original form of Hotshots, although they actually load a Hard Save as a Quick Save.  This type of Hotshot is *not* consistent, and thus has been almost entirely obsoleted by the consistent methods of hotshot, [HSS Hotshots](iarwc#ch3HSS_Hotshots) and [Quick Save Hotshots](iarwc#ch4Quick_Save_Hotshots).  There are two ways to perform this type of Hotshot.
 
@@ -129,7 +144,10 @@ Hard Save Hotshots were the original form of Hotshots, although they actually lo
 - A Hard Save in the Start Module which we'll call "Hotshot Current" (usually freshly made).  It is recommended but not required that this be in the first save slot.
 - A Hard Save in the Destination Module we'll call "Teleport".
 
-**Method 1 - Load Screen:** This is an enhancement of the original method below that avoids going to the Main Menu.
+### Via Load Menu
+
+This is an enhancement of the original method below that avoids going to the Main Menu.
+
 **Steps:**
 
 1. In the Destination Module save, [AMG](d4jq8) via a Quick Save. 
@@ -148,7 +166,10 @@ Hard Save Hotshots were the original form of Hotshots, although they actually lo
 
 https://www.youtube.com/watch?v=OLWy83_2Mjw
 
-**Method 2 - Main Menu:** This was the original form of Hotshot, and is slower and more complicated than the newer Hard Save method.
+### Via Main Menu
+
+This was the original form of Hotshot, and is slower and more complicated than all other Hotshot methods.
+
 **Steps:**
 
 1. In the Destination Module save, [AMG](d4jq8) via a Quick Save. 
@@ -179,7 +200,7 @@ https://www.youtube.com/watch?v=lrLvyqCaxF8
 - It is important for the [AMG](d4jq8) to be done via Quick Save in the Destination Module.  We need to store the Teleport save in a Quick Save for the Hotshot to work.
 - Hard Save Hotshots are used twice in [All Quests](2setw) to warp while spawning party members near the Teleport save location.  In any other situation, [HSS Hotshots](iarwc#ch3HSS_Hotshots) or [Quick Save Hotshots](iarwc#ch4Quick_Save_Hotshots) should be used instead.
 
-[section=Coordinate Warping]
+## Coordinate Warping
 
 Coordinate Warping is a Hotshot technique that warps your party members to any coordinates in the Destination Module that they can reach in the Start Module.  Since party member coordinates persist when doing a Hotshot, we can use this to help party members bypass locked doors and reach certain areas early.
 
@@ -200,7 +221,7 @@ https://www.youtube.com/watch?v=oFrCsuC3D8A
 
 - Coordinate Warps do not work with [Autosave Hotshots](iarwc#ch5Autosave_Hotshots).
 
-[section=Transit Point Storage]
+## Transit Point Storage
 
 Transit Point Storage is a specialized application of [Autosave Hotshots](iarwc#ch5Autosave_Hotshots), used when you want to return to a specific place in a module even after using fast transit elsewhere.
 
@@ -228,7 +249,7 @@ Notice that steps 5-9 are a modified [Autosave Hotshot](iarwc#ch5Autosave_Hotsho
 
 This glitch can be used to store only one transit point per module, but you can store one for every module and travel there as long as the Autosave conditions are met.
 
-[section=Swoop Skips]
+## Swoop Skips
 
 Swoop Skips are a method for exiting swoop races early in [All Quests](2setw) runs, thus saving the time of actually doing the races.  The skip uses a modified [Hard Save Hotshot](iarwc#ch6Hard_Save_Hotshots) as follows:
 
@@ -244,7 +265,7 @@ https://www.youtube.com/watch?v=KoSZF0df-Dg
 
 Swoop Skips must use either [HSS Hotshots](iarwc#ch3HSS_Hotshots) or [Hard Save Hotshots](iarwc#ch6Hard_Save_Hotshots), as attempting to load a save made in a swoop race module crashes the game.  Also note when skipping the Manaan swoop races, you will need to skip the cutscene after the race immediately after the Hotshot, whereas in Tatooine this cutscene does not start until you talk to Motta again.
 
-[section=Uses]
+## Uses
 
 Hotshots are used many times in Unrestricted speedruns, usually to cut out backtracking or long stretches of walking.  However, there are some more major skips done with Hotshots, including:
 
@@ -258,6 +279,6 @@ Hotshots are used many times in Unrestricted speedruns, usually to cut out backt
 8. Swoop Skips are used to skip all six races on Tatooine and Manaan in [All Quests](2setw).
 9. Transit Point Storage is used once in [All Quests](2setw) to warp from Manaan to Tatooine.
 
-[section=Related Glitches]
+## Related Glitches
 
 - [Anywhere Menu Glitch](d4jq8)
