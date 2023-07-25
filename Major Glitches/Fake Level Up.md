@@ -79,7 +79,7 @@ This method aborts a level up as soon as it begins, which avoids having to selec
 3. Press Escape to exit the Level Up menu.
 4. If you are granted a Feat, press Enter to clear that menu.
 
-https://youtu.be/T0RAPh9grcI
+[![Watch the video](https://img.youtube.com/vi/T0RAPh9grcI/maxresdefault.jpg)](https://youtu.be/T0RAPh9grcI)
 
 These steps will put you back at the Character Screen with a Level Up available and the Quit dialog up, just where you started.  The FLUs currently used in speedruns are mostly done with Skele FLU levels.
 
@@ -101,7 +101,7 @@ This method uses the menu glitch to swap to a party member during the Level Up p
 4. Press Escape to regain keyboard control.
 5. Finish the level up.  You should not assign skill points, but you can and should select any prerequisite Feats or Powers to set up the Final Level.
 
-https://youtu.be/HgLHYXGBX10
+[![Watch the video](https://img.youtube.com/vi/HgLHYXGBX10/maxresdefault.jpg)](https://youtu.be/HgLHYXGBX10)
 
 This will put you back on the Character screen with your SC active and no menu glitch.  To continue a FLU, swap back to the TC and exit the menu to [AMG](<Anywhere Menu Glitch>) again.  If this is your Final Level, you can swap to the TC and perform the Final Level.
 
@@ -123,11 +123,11 @@ This method allows for Intermediate Levels to be done in the same way as levelin
 * The first level of the FLU was an attribute level (4,8,12,16, or 20)
 * It is not the first level of the FLU; this must be done as a Slow FLU level with an [AMG](<Anywhere Menu Glitch>)
 
-https://youtu.be/9NZO51L_C_4
+[![Watch the video](https://img.youtube.com/vi/9NZO51L_C_4/maxresdefault.jpg)](https://youtu.be/9NZO51L_C_4)
 
 *This video uses a [Container Menu Glitch](<Anywhere Menu Glitch#classic-menu-glitch>) to start the FLU; an [AMG](<Anywhere Menu Glitch>) should be used instead, and will not affect the rest of the FLU.
 
-The Fast FLU is the only FLU method to accumulate skill points for every Intermediate Level done this way.  This once made it invaluable for the Security FLU in [Any%](hmjxg), as well as gaining sufficient skills in [All Quests](2setw); however, the current Unrestricted routes have evolved to the point where skill points are not required.
+The Fast FLU is the only FLU method to accumulate skill points for every Intermediate Level done this way.  This once made it invaluable for the Security FLU in [Any%](<../Route Guides/Any%25 Unrestricted>), as well as gaining sufficient skills in [All Quests](<../Route Guides/All Quests Unrestricted>); however, the current Unrestricted routes have evolved to the point where skill points are not required.
 
 Fast FLU benefits:
 * Only method that accumulates skill points for every level
@@ -167,38 +167,48 @@ Finally, map out which Feats and Powers you're selecting at each Intermediate Le
 
 The following sections contain specific examples of FLUs that have been used in speedruns.  These examples are:
 
-* The [Sneak Attack FLU](b6452#ch9Sneak_Attack_FLU), used in all Unrestricted speedruns
-* The [Master Speed FLU](b6452#ch10Master_Speed_FLU), used in [All Quests](2setw)
-* The [Master Valor FLU](b6452#ch11Master_Valor_FLU), used in [All Quests](2setw)
-* [Notable Old FLUs](b6452#ch12Notable_Old_FLUs), which includes Security FLU and Skill Point FLU.  These two unique FLUs were used in speedruns, but have since been obsoleted.
+* The [Sneak Attack FLU](#sneak-attack-flu), used in all Unrestricted speedruns
+* The [Master Speed FLU](#master-speed-flu), used in [All Quests](<../Route Guides/All Quests Unrestricted>)
+* The [Master Valor FLU](#master-valor-flu), used in [All Quests](<../Route Guides/All Quests Unrestricted>)
+* [Notable Old FLUs](#notable-old-flus), which includes Security FLU and Skill Point FLU.  These two unique FLUs were used in speedruns, but have since been obsoleted.
 
 Each example lists the FLU's end goal, starting and ending level, and Intermediate Level plan, as well as a video depicting the FLU in context.
 
 ### Sneak Attack FLU
 
-**Description:** The Sneak Attack FLU is the main FLU used in KotOR speedrunning, and is performed as soon as possible in all Unrestricted speedrun routes.
+**Description:** The Sneak Attack FLU is the main FLU used in KotOR speedrunning, and is performed as soon as possible in all Unrestricted speedrun routes.  All three categories have slight variations, but the core of the FLU is the same.
 
 **Obtains:** Sneak Attack IX and either Improved or Master Two-Weapon Fighting
 **Used In:** All Unrestricted speedruns
 
-https://youtu.be/jeZaUj481jg
+[![Watch the video](https://img.youtube.com/vi/jeZaUj481jg/maxresdefault.jpg)](https://youtu.be/jeZaUj481jg)
 
 **Starting Level:** 2
 **Ending Level:** 17
-**Level Plan:**
+**Level Plan (Any%):**
+* Skele Levels 2-16
+* Final Level 17: Improved Two-Weapon Fighting; granted Sneak Attack IX
+**Level Plan (All Star Maps):**
+* Skele Levels 2-16
+* Final Level 17: Persuade to 10, Improved Two-Weapon Fighting; granted Sneak Attack IX
+**Level Plan (All Quests):**
 * Slow Level 2: Two-Weapon Fighting
 * Skele Levels 3-4
 * Slow Level 5: Improved Two-Weapon Fighting
 * Skele Levels 6-16
-* Final Level 17: Master Two-Weapon Fighting; granted Sneak Attack IX
-* In [All Quests](2setw) only, the Final Level also sets Persuade to 10
+* Final Level 17: Persuade to 10, Master Two-Weapon Fighting; granted Sneak Attack IX
+
+**Notes:**
+- Any% and All Star Maps typically take Two-Weapon Fighting as their initial feat during character creation, so there are no prerequisites needed for Improved Two-Weapon Fighting.  These routes eschew Master Two-Weapon Fighting because they do so few fights (just two or three).
+- All Quests does two slow levels to get the prerequisites for Master Two-Weapon Fighting; that route typically takes Weapon Focus: Melee Weapons as the initial feat in character creation.
+- Any% does not need extra points in Persuade and can skip that during the final level; All Star Maps and All Quests must set Persuade to 10 in order to pass all necessary Persuade checks in their routes.
 
 ### Master Speed FLU
 
-**Description:** The Master Speed FLU is used in [All Quests](2setw) to obtain the top level combat feats and powers used for the remainder of the run.  It is done immediately after becoming a Jedi on Dantooine.
+**Description:** The Master Speed FLU is used in [All Quests](<../Route Guides/All Quests Unrestricted>) to obtain the top level combat feats and powers used for the remainder of the run.  It is done immediately after becoming a Jedi on Dantooine.
 
 **Obtains:** Master Critical Strike and Master Speed
-**Used In:** [All Quests](2setw)
+**Used In:** [All Quests](<../Route Guides/All Quests Unrestricted>)
 
 https://youtu.be/WOjitboM8Og
 
@@ -213,10 +223,10 @@ https://youtu.be/WOjitboM8Og
 
 ### Master Valor FLU
 
-**Description:** The Master Valor FLU is used in [All Quests](2setw) to gain secondary feats and powers.  While this is the least important of the three FLUs, it makes combat more consistent in the long run.
+**Description:** The Master Valor FLU is used in [All Quests](<../Route Guides/All Quests Unrestricted>) to gain secondary feats and powers.  While this is the least important of the three FLUs, it makes combat more consistent in the long run.
 
 **Obtains:** Weapon Focus: Lightsaber and Master Valor
-**Used In:** [All Quests](2setw)
+**Used In:** [All Quests](<../Route Guides/All Quests Unrestricted>)
 
 https://youtu.be/HYztjzs6rSY
 
@@ -234,7 +244,7 @@ These two FLUs were once used in speedruns but have since been obsoleted.  While
 
 #### Security FLU
 
-**Description:** This FLU was a Fast FLU used in [Any%](hmjxg) until [DLZs](f0aia) obsoleted it.  Obtaining 91 Security made it possible to unlock Impossible doors, which was the original method of skipping the Undercity, Mission, Zaalbar, and T3.
+**Description:** This FLU was a Fast FLU used in [Any%](<../Route Guides/Any%25 Unrestricted>) until [DLZs](<Displaced Load Zone>) obsoleted it.  Obtaining 91 Security made it possible to unlock Impossible doors, which was the original method of skipping the Undercity, Mission, Zaalbar, and T3.
 
 **Obtains:** 91 Security
 
@@ -252,7 +262,7 @@ https://youtu.be/G5K7M8Ir8Js
 
 #### Skill Point FLU
 
-**Description:** This unique FLU doesn't really fit in the usual FLU paradigms.  It obtains hundreds of unused skill points that can then be used in subsequent FLUs or just normal gameplay.  It was used in old versions of [All Quests](2setw) as a Soldier.
+**Description:** This unique FLU doesn't really fit in the usual FLU paradigms.  It obtains hundreds of unused skill points that can then be used in subsequent FLUs or just normal gameplay.  It was used in old versions of [All Quests](<../Route Guides/All Quests Unrestricted>) as a Soldier.
 
 **Obtains:** 512 Unused Skill Points
 
