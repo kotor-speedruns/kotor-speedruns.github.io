@@ -187,7 +187,7 @@ Notation:
 
 Conversation Notes: 
 - If no conversation choices are specified, spamming will work (this chooses all 1 options).
-- A | indicates a break in the conversation.  You have to talk to the person again.
+- A ... indicates a break in the conversation.  You have to talk to the person again.
 - A * indicates a variable answer, such as in reciting the Sith Code.
 - A #* indicates a Persuade check that may fail.
 - A #xY indicates repeat that option Y times, as in Gadon Thek's first conversation.
@@ -246,7 +246,7 @@ Conversation Notes:
 
 *Note on Alacrity: We want Adrenal Alacrity to be active on the MC for as much of Taris as possible.  The route obtains 8 Alacrities, and we want to save 3 for after Taris.  This leaves 5 for use on Taris; 6 can be used if absolutely necessary, but that requires tweaks later.  Try to duration glitch Alacrity somewhere on Taris, and otherwise use Alacrity as needed!*
 
-### Apartments
+### Upper City
 
 - *Use stim hotkey to use Adrenal Alacrity before waking up CS starts*
 - Carth talks to you: 1,1,1,5,3
@@ -256,6 +256,7 @@ Conversation Notes:
 - Use a frag grenade on the Sith Commander (may have to Flurry him too)
 - Loot the backpack
 - Larrim accosts you: 1,2,4 (+2; 5 Spikes)
+
 ```
 SHOPPING TRIP: Larrim
 - SELL ALL EXCEPT:
@@ -269,15 +270,14 @@ SHOPPING TRIP: Larrim
   - 2x Computer Spikes
 - End: ~812 Credits
 ```
+
 - Exit to Upper City South
-
-### Upper City
-
 - Run towards Zelka Forn's clinic
 - Where the path widens, activate Solo Mode
 - As MC, click on Medical Clinic door
 - Swap to Carth and click on Upper City North door
 - Swap to MC and talk to Zelka: 5
+
 ```
 SHOPPING: Zelka Forn
 - BUY:
@@ -285,6 +285,7 @@ SHOPPING: Zelka Forn
   - 6x Adrenal Alacrity
 - End: ~12 Credits
 ```
+
 - Run MC close enough to Carth, then swap and enter Upper City North
 - Swap to MC and run to Upper City North Apartments
 - Sith soldiers talk to you (+2 LSP; 52 total)
@@ -319,7 +320,7 @@ SHOPPING: Zelka Forn
 - Enter the Undercity (spam through Sith soldier's interruption)
 
 ### Undercity
-- Beggars accost you: 1,1 | 1,4 (+2 LSP; 56)
+- Beggars accost you: 1,1 ... 1,4 (+2 LSP; 56)
 - `Level to 3: TI to 6, Empathy`
 - *Party: Add Carth*
 - Exit the gate and kill the rakghoul
@@ -392,7 +393,7 @@ SHOPPING: Zelka Forn
 
 ### Upper City
 
-- Carth/Bastila talk to you: 1,1,1,1 | 2
+- Carth/Bastila talk to you: 1,1,1,1 ... 2
 - Exit apartment; *Party: Add Bastila when prompted*
 - Twi'lek accosts you
 - Transit Back to Javyar's Cantina
@@ -482,7 +483,7 @@ SHOPPING: Zelka Forn
 - *Stims: Adrenal Alacrity on MC ONLY if you have 2 or more*
 - Speak with the Council again
 - Go get a sandwich during the training montage
-- Talk to Master Zhar twice: 1,1 | 1,1,6,3,2,6,4
+- Talk to Master Zhar twice: 1,1 ... 1,1,6,3,2,6,4
 - Talk to Master Dorak to become a Jedi Guardian
 - `Level to 5: Save Skills, Improved Two-Weapon, Burst of Speed and Force Valor`
 - `Level to 6: Persuade to 9, TI to 8, Affect Mind`
@@ -550,6 +551,7 @@ SHOPPING: Zelka Forn
 
 - Republic soldier conversation: 4
 - Talk to Selkath Merchant for shopping: 3
+  
 ```
 SHOPPING: Selkath Merchant
 - BUY:
@@ -557,6 +559,7 @@ SHOPPING: Selkath Merchant
   - 3x Hyper-Adrenal Strength
 - End: ~12 Credits
 ```
+
 - Exit to West Central Ahto City
 - Talk to Port Authority: 1, 2
 - Run to East Central
@@ -572,7 +575,7 @@ SHOPPING: Selkath Merchant
 - Ignore them, take right door, left door, left door
 - Loot droid for Data Module
 - Exit the base back near security
-- Get arrested and first trial: 1 | 1,1,1,1,1,3,1 | 1,1,1
+- Get arrested and first trial: 1 ... 1,1,1,1,1,3,1 ... 1,1,1
 - Run through West Central to East Central
 - Talk to Roland Wann
 - *Stims: Battle Stimulant on MC for a little extra Vitality/Attack*
@@ -593,7 +596,7 @@ SHOPPING: Selkath Merchant
   - ***When using the Emitter to kill Firaxan sharks, it is faster to go into the inventory menu, use the Sonic Emitter there, and exit the menu; this skips the animation of the Sonic Emitter***
 - Reenter station through lefthand door
 - Loot footlocker once back inside for Computer Spikes (+4; 4 Spikes)
-- Speak with scientists through force field: 3 | 1spam
+- Speak with scientists through force field: 3 ... 1spam
 - Loot footlocker in corner for more Computer Spikes (+2; 6 Spikes)
 - Exit to underwater section
 - Hack kolto control: 1,2,4,2,5,4,5,2,5
@@ -620,6 +623,7 @@ SHOPPING: Selkath Merchant
 - Intervene with Shaardan: 1,1,1 (+7 LSP; 61, Light-aligned)
 - Lashowe accosts you
 - Speak to Czerka Shopkeeper
+
 ```
 SHOPPING: Czerka Shop
 - SELL ALL EXCEPT:
@@ -631,6 +635,7 @@ SHOPPING: Czerka Shop
   - All 25 Hyper/Echani Stims
 - End: ~300-400 Credits
 ```
+
 - Talk to guard outside academy
 - Reenter Dreshdae
 - Talk to Yuthura: 3,4,2,3*,1:
@@ -733,7 +738,7 @@ SHOPPING: Czerka Shop
 - Talk to banthas to lure them with fodder
 - Kill four Elite Sand People Warriors with Force Jump and Flurry
 - Lure banthas with fodder again
-- Talk to Komad Fortuna: 1 | 1
+- Talk to Komad Fortuna: 1 ... 1
 - ***Optional:*** Loot the corpse on the right side of the Krayt cave for a Nerve Amplifier Belt
 - Star Map: Tatooine
 - Ignore Darth Bandon and exit to Dune Sea
@@ -843,12 +848,14 @@ SHOPPING: Czerka Shop
 
 - Janos Wertka accosts you
 - ***Optional:*** Talk to Eli Gand
+
 ```
 SHOPPING: Eli Gand
 - BUY:
   - All Hyper Stims (costs 500 Credits)
 - End: Doesn't Matter
 ```
+
 - Ziagrom accosts you
 - Czerka guard accosts you at gate: 4
 - Exit to Great Walkway
@@ -1002,8 +1009,8 @@ SHOPPING: Eli Gand
   - Use Flurry for all phases; try to make sure Speed stays active
   - All conversations can be spammed if you have 13 Persuade
   - If you have less than 13 Net Persuade, you can still spare Bastila with the following conversations:
-  - *As a female character*: 2 | 2,2,1 | 2,2 | 1,1,1,2,2,2,1,1,1,1
-  - *As a male character*: 2 | 2,2,1 | 2,2, | 1,1,1,3,2,3,1,1,1,1
+  - *As a female character*: 2 ... 2,2,1 ... 2,2 ... 1,1,1,2,2,2,1,1,1,1
+  - *As a male character*: 2 ... 2,2,1 ... 2,2, ... 1,1,1,3,2,3,1,1,1,1
 - Green Squadron, moving in
 - Darth Malak shows off by killing Jedi
 - Bash through door and exit to Viewing Platform
