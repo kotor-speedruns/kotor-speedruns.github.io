@@ -6,9 +6,19 @@ This route defeats Malak on the Star Forge as fast as possible without major gli
 
 If you have additional questions, you can check out the KotOR Speedrunning Discord which is linked on the game's sidebar on speedrun.com.  There's a bunch of friendly folks there willing to answer questions!
 
-**Table of Contents**
+**Table of Contents:**
+- [NMG Ruleset](#nmg-ruleset)
+- [Character Build](#character-build)
+  - [Character Creation](#character-creation)
+  - [Leveling Plan](#leveling-plan)
+- [Equipment Plan](#equipment-plan)
+- [Credit Route](#credit-route)
+- [Alignment Route](#alignment-route)
+- [Route Overview](#route-overview)
+- [Detailed Route](#detailed-route)
+- [Version History](#version-history)
 
-[section=NMG Ruleset]
+## NMG Ruleset
 
 **REMEMBER to show yourself restarting the game at the beginning of each attempt.**
 
@@ -33,29 +43,29 @@ These glitches and tricks are allowed:
 - [Single Item Duping](hioyc#ch2Single_Item_Duplication)
 - [GP Warps](77xef) that do not bypass locked doors.
 
-[section=Character Build]
+## Character Build
 
-***Character Creation***
+### Character Creation
 
 We begin as a Scout; this guide as written can be completed as either a Male or Female character, but Male has the small advantage of an easier time sparing Bastila on the Star Forge with successful Persuade checks.  
 
 Scout is used because it is guaranteed an Adrenal Alacrity in the initial footlocker on Endar Spire, which saves 12 seconds by enabling us to run faster earlier on Taris, and skip shopping with Zelka.  On becoming a Jedi we'll choose the Jedi Guardian class for maximum attack power, the Force Jump feat, and since we no longer need any skill points.
 
 **Initial Attributes:**
-Str - 18
-Dex - 14
-Con - 14
-Int - 10
-Wis - 8
-Cha - 8
+* Str - 18
+* Dex - 14
+* Con - 14
+* Int - 10
+* Wis - 8
+* Cha - 8
 
 **Initial Skills:**
-Computer Use - 4
-Security - 1
-Treat Injury - 4
-Save 2 points
+* Computer Use - 4
+* Security - 1
+* Treat Injury - 4
+* Save 2 points
 
-**Initial Feat** - Weapon Focus: Melee
+**Initial Feat** - Weapon Focus: Melee Weapons
 
 We are going to focus on melee attacks with a lightsaber, so we max out Strength immediately, and get enough Dexterity and Constitution to help us survive.  The final two points are put into Intelligence; that plus the 4 points in Computer Use saves us 1 computer spike for every hacking action, which is essential for our spike route on Taris.
 
@@ -63,19 +73,19 @@ Besides Computer Use, Treat Injury (TI) will be our secondary skill, with Persua
 
 We choose Weapon Focus: Melee for the attack boost on Taris, in particular the fights in the Sith Base.  We choose it over Two-Weapon Fighting because it takes longer to select, so at level 2 it's faster to pick Two-Weapon Fighting.  Since character creation isn't timed, this is optimal.
 
-***Leveling Plan***
+### Leveling Plan
 
-https://i.imgur.com/wTRPaP0.png
+![A chart detailing what feats, powers, and skills to take at each level](https://i.imgur.com/wTRPaP0.png)
 
 Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flurry, and Knight Speed, using Bastila's Double-bladed Lightsaber as our main weapon.  This gives us multiple attacks that will deal as much damage as possible; we need as many attacks as we can get, since our chance to hit will be relatively low.  We are not guaranteed to hit level 11 in the run, but if we do it's best to just Auto-Level to get the +1 Attack bonus; we don't really need any additional skills or Force Powers at that point.  Other notes:
 
 **Skill notes:**
 - After the initial 4 points in Computer Use, we don't put any additional points in.  We would need to reach 8 to save additional spikes, and we don't have the skill points to spare.
 - We need Persuade for four conversations:
-1. On Dantooine, we must Persuade Juhani to return to the Jedi.
-2. On Korriban, we must Persuade Shaardan to spare the hopefuls for Light Side points (LSP).
-3. On Korriban, we must Persuade Yuthura to allow us to enter the academy.
-4. On Korriban, we must Persuade Kel Alghwin to disclose his doubts to us.
+  1. On Dantooine, we must Persuade Juhani to return to the Jedi.
+  2. On Korriban, we must Persuade Shaardan to spare the hopefuls for Light Side points (LSP).
+  3. On Korriban, we must Persuade Yuthura to allow us to enter the academy.
+  4. On Korriban, we must Persuade Kel Alghwin to disclose his doubts to us.
 - The rest is put into Treat Injury to make our medpac use more efficient.
 
 **Feat notes:**
@@ -88,9 +98,9 @@ Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flu
 - Force Valor is used on Korriban to increase chances of a successful Persuade on Yuthura, as well as to boost stats for as many fights as possible.  Knight Valor also gives us Immunity: Poison, which protects against Affliction and Plague on the Star Forge.
 - Disable Droid is used to free the Captured Jedi during the Malak fight at the end of the game.  This denies them to Malak, meaning you only have to kill him twice.  It also fills up your Force Points as well, though not your health.
 - Affect and Dominate Mind are used for the following:
-1. Avoiding landing fees on Manaan, Tatooine, and Kashyyyk.
-2. Persuading Lashowe to assist us in finding the holocron.
-3. Persuading the Czerka guards in the Upper Shadowlands to give up the emitter codes.
+  1. Avoiding landing fees on Manaan, Tatooine, and Kashyyyk.
+  2. Persuading Lashowe to assist us in finding the holocron.
+  3. Persuading the Czerka guards in the Upper Shadowlands to give up the emitter codes.
 
 [section=Equipment Plan]
 
