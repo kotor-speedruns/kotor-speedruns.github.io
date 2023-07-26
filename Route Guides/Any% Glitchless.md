@@ -76,6 +76,7 @@ Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flu
 3. We must Persuade Yuthura to allow us to enter the academy.
 4. We must Persuade Kel Algwinn to disclose his doubts to us.
 5. We Persuade Bastila to return to the light side on the Star Forge.
+
 The Yuthura Persuade check is the only one that we could fail with our build; it's a hard Persuade check done at level 7, so the 10 net Persuade we have gives us a 75% chance to pass the check.  It's a big time loss to fail it, so a safety save is recommended for nearly all runners.  After getting 10 in Treat Injury, we put the rest into Persuade so that we can pass a Persuade check with Bastila at the end to spare her.
 - Aside from the four points in Computer Use at the start, every other spare point is put into Treat Injury to make our medpac use more efficient.
 
@@ -97,32 +98,25 @@ The Yuthura Persuade check is the only one that we could fail with our build; it
 
 ## Equipment Plan
 
-*Implant: Nerve Enhancement Package*
-Bought on Taris from Zelka Forn (500 Credits)
+*Implant: Nerve Enhancement Package* - Bought on Taris from Zelka Forn (500 Credits)
 - Immunity: Mind-Affecting is highly important, as we will run past dozens of Dark Jedi during the run.  The NEP is the earliest and one of the cheapest ways to obtain it, and is a main reason to choose Scout for the run.
 
-*Head: Verpine Headband*
-Found on Dantooine, Casus Sandral's corpse
+*Head: Verpine Headband* - Found on Dantooine, Casus Sandral's corpse
 - The Verpine Headband is easily accessible and increases our weak Will save by 3, making it a convenient protection against certain Force powers.
 
-*Gloves: Strength Enhancer*
-Found on Taris, Sith Governor's corpse
+*Gloves: Strength Enhancer* - Found on Taris, Sith Governor's corpse
 - This is used for the +1 Strength; from levels 4 to 8 and at level 12, it nets us an extra +1 modifier.
 
-*Body: Jedi Knight Robe*
-Found on Dantooine, Nemo's remains
+*Body: Jedi Knight Robe* - Found on Dantooine, Nemo's remains
 - We must use Robes to use our Force powers (mainly Speed), and this is the best convenient robe to get.  Optionally, you can loot a chewed Twi'lek corpse at the mouth of the Krayt Dragon cave for a Jedi Master Robe but the extra 1 defense really isn't worth it.
 
-*Weapon: Double-bladed Lightsaber*
-Found on Taris, Brejik's corpse
+*Weapon: Double-bladed Lightsaber* - Found on Taris, Brejik's corpse
 - We borrow Bastila's lightsaber for the run (and probably give it back afterwards).  The crystals we use are as follows:
+  - Sigil Crystal: Placed after Dantooine, used for +1 Attack
+  - Solari Crystal: The best crystal in the game and the reason we try to stay Light-aligned (see below).  Placed after Korriban and kept there for the entire run.
+  - Krayt Dragon Pearl: Good damage boost, but essential for the +3 Attack boost.  Replaces the Sigil Crystal after Tatooine.
 
-Sigil Crystal: Placed after Dantooine, used for +1 Attack
-Solari Crystal: The best crystal in the game and the reason we try to stay Light-aligned (see below).  Placed after Korriban and kept there for the entire run.
-Krayt Dragon Pearl: Good damage boost, but essential for the +3 Attack boost.  Replaces the Sigil Crystal after Tatooine.
-
-*Belt: Adrenaline Amplifier*
-Found on Taris, Sith Governor's corpse
+*Belt: Adrenaline Amplifier* - Found on Taris, Sith Governor's corpse
 - Forgoing the CNS Strength Enhancer means there aren't really any good convenient belts to use.  We get this one for free and it bumps up our Reflex save a little bit.
 
 All of our equipment should be equipped by the time we leave Dantooine, with the exception of the lightsaber crystals.  We'll also use the Combat Suit and various vibroblades while on Taris.
@@ -132,23 +126,22 @@ All of our equipment should be equipped by the time we leave Dantooine, with the
 The new route has a very streamlined credit route, since we no longer need 8500 credits for the CNS Strength Enhancer.  Because of this, we make do with only 4 shopping trips during the run; there is a backup shopping trim if you're short on stims as well.  Our shopping is as follows:
 
 *1. Larrim on Taris*
-Sell: Nonessential items to reach ~1362 Credits
-Buy: 2x Computer Spike (550 Credits total)
+- Sell: Nonessential items to reach ~1362 Credits
+- Buy: 2x Computer Spike (550 Credits total)
 
 *2: Zelka Forn on Taris*
-Buy: Nerve Enhancement Package, 6x Adrenal Alacrity (800 Credits total)
+- Buy: Nerve Enhancement Package, 6x Adrenal Alacrity (800 Credits total)
 
 *3. Selkath Merchant on Manaan*
-Buy: 2x Hyper-Adrenal Alacrity, 3x Hyper-Adrenal Strength (500 Credits total)
-*While this can be skipped, it's a very fast shopping trip and the stims are very helpful.*
+- Buy: 2x Hyper-Adrenal Alacrity, 3x Hyper-Adrenal Strength (500 Credits total)
 
 *4. Czerka Shop on Korriban*
-Sell: Unneeded Items to reach ~7000 Credits
-Buy: All Medpacs and Hyper/Echani Stimulants (6100 Credits total)
+- Sell: Unneeded Items to reach ~7000 Credits
+- Buy: All Medpacs and Hyper/Echani Stimulants (6100 Credits total)
 
 *Optional shopping if you are short on stims:*
 *5: Eli Gand on Kashyyyk*
-Buy: All Hyper Stims (500 Credits total)
+- Buy: All Hyper Stims (500 Credits total)
 
 We get most of our credits for the Korriban shopping trip from selling the Cardio Power System that we get as reward for completing "Mission for the Republic" for Roland Wann on Manaan.  The rest comes from selling the items we've accumulated up to that point; we loot one or two optional things to get enough credits for all the medpacs and stims we need.
 
@@ -158,7 +151,7 @@ Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher n
 
 Here is the alignment route used in the run:
 
-[!A chart showing all alignment shifts during the run](https://i.imgur.com/HqdJBBd.png)
+![A chart showing all alignment shifts during the run](https://i.imgur.com/HqdJBBd.png)
 
 *Snitching on Kel Algwinn is for some reason hardcoded to always give -5 alignment; similarly, rescuing the hopefuls from Shaardan is hardcoded to give +3 alignment.*
 
@@ -185,7 +178,7 @@ The reasoning for the middle planets:
 
 ## Detailed Route
 
-This section will describe all the actions you'll need to take for the Glitchless Any% run.
+This section will describe all the actions you'll need to take for the Any% Glitchless run.
 
 Notation:
 ¤ indicates a trick to be done
