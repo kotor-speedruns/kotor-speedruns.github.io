@@ -31,7 +31,7 @@ The following glitches and tricks are banned in Any% NMG:
 - [Hotshot](iarwc) and [Coordinate Warp](iarwc#ch6Coordinate_Warping)
 - [Full Inventory Duping](hioyc#ch3Full_Inventory_Duplication)
 - [Door Clipping](dyi4i)
-*Note:* [Door Clipping](dyi4i) includes [GP Warps](77xef) that [bypass locked doors](dyi4i#ch3Gather_Party_Warp_Clips).
+*Note:* [Door Clipping](dyi4i) includes [GP Warps](<./Techniques/GP Warp#buffered-gp-warps>) that [bypass locked doors](dyi4i#ch3Gather_Party_Warp_Clips).
 
 These glitches and tricks are allowed:
 - [Save Buffers](t5kyf) of all types
@@ -41,7 +41,7 @@ These glitches and tricks are allowed:
 - [Force Skips](8fp02)
 - [Wired Targeting](41875)
 - [Single Item Duping](hioyc#ch2Single_Item_Duplication)
-- [GP Warps](77xef) that do not bypass locked doors.
+- [GP Warps](<./Techniques/GP Warp#buffered-gp-warps>) that do not bypass locked doors.
 
 ## Character Build
 
@@ -247,7 +247,7 @@ Abbreviations:
 * QS - Quick Save
 * QL - Quick Load
 * QS/QL - Quick Save then immediately Quick Load
-* GP Warp - [Gather Party Warp](77xef)
+* GP Warp - [Gather Party Warp](<./Techniques/GP Warp#buffered-gp-warps>)
 
 **Jump to a Section:**
 - [Endar Spire](#endar-spire)
@@ -303,69 +303,68 @@ Abbreviations:
 
 ## Taris 1
 
-**Apartments:**
-Use the stims hotkey to use two stims:
-- Once (for Adrenal Alacrity) before the dream CS
-- Once (for Adrenal Strength) before the waking up CS in the Hideout
-Carth talks to you: 1,1,1,5,3
-Loot footlocker for spikes and medpacs
-} Equip Combat Suit, Prototype Vibroblade mainhand, Vibroblade offhand
-Exit the apartment (forced to bring Carth)
-¤ [Hard Buffer](t5kyf#ch3Hard_Buffers) past Sith Raid cutscene
-Larrim accosts you: 1,2,4
----------------------------------------------------------
-*SHOPPING: Larrim*
-**SELL ALL EXCEPT:**  
-- Medpacs
-- Computer Spikes
-- Vibroblade
-- Frag Grenade
-**BUY:** 
-- 2x Concussion Grenade
-- Frag Grenade
-- Battle Stimulant
-End: ~808 Credits
----------------------------------------------------------
-} Use Battle Stimulant on MC
-Exit to Upper City South
+### Upper City
 
-**Upper City:**
+- Use the stims hotkey to use two stims:
+  - Once (for Adrenal Alacrity) before the dream CS
+  - Once (for Adrenal Strength) before the waking up CS in the Hideout
+- Carth talks to you: 1,1,1,5,3
+- Loot footlocker for spikes and medpacs
+- *Equip MC: Combat Suit, Prototype Vibroblade Mainhand, Vibroblade Offhand*
+- Exit the apartment
+- *Party: No change when prompted*
+- [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip Sith Raid CS
+- Larrim accosts you: 1,2,4
 
----------------------------------------------------------
-***Optional Safe Strat: Zelka Stims***
-*Skipping Zelka saves around 6-8 seconds, but gives no leeway in terms of stims, meaning you lose lots of time if Carth or MC die anywhere on Taris.  This strat is recommended for beginning runners until they are comfortable with the rest of Taris.*
-- Run towards statue at the end of the walkway
+```
+SHOPPING: Larrim
+- SELL ALL EXCEPT:
+  - Medpacs
+  - Computer Spikes
+  - Vibroblade
+  - Frag Grenade
+- BUY:
+  - 2x Concussion Grenade
+  - Frag Grenade
+  - Battle Stimulant
+- End: ~808 Credits
+```
+
+- *Stims: Use Battle Stimulant on MC*
+- Exit to Upper City South
+- ***Optional Safe Strat: Zelka Stims***
+- *Skipping Zelka saves around 6-8 seconds, but gives no leeway in terms of stims, meaning you lose lots of time if Carth or MC die anywhere on Taris.  This strat is recommended for beginning runners until they are comfortable with the rest of Taris.*
+  - Run towards statue at the end of the walkway
+  - Activate Solo Mode
+  - As Carth, open door to Upper City North
+  - As MC, talk to Zelka in the medical clinic: 3
+  - **BUY:** 3x Adrenal Alacrity (150 Credits)
+  - Swap to Carth and [Buffer GP Warp](<./Techniques/GP Warp#buffered-gp-warps>) to warp MC
+  - Run backwards to trigger the bullied merchant CS
+- *If you choose not to use the above strat:*
+  - Run down street to left and approach bullied merchant
+- Bounty hunters accost you: 1 (+2 LSP)
+- Kill the bounty hunters with a frag grenade
+- Give credits to the merchant to pay his debt (+4 LSP)
+- Enter Upper City North
+- Run straight across to Upper City North Apartments
+- Run to the left until Sith soldiers accost you (+2 LSP)
+- Swap to Carth and queue Power Blasts on all three Sith soldiers
 - Activate Solo Mode
-- As Carth, open door to Upper City North
-- As MC, talk to Zelka in the medical clinic: 3
-- **BUY:** 3x Adrenal Alacrity (150 Credits)
-- Swap to Carth and Buffer [GP Warp](77xef) to warp MC
-- Run backwards to trigger the bullied merchant CS
----------------------------------------------------------
-*If you choose not to use the above strat:*
-Run down street to left and approach bullied merchant
----------------------------------------------------------
-Bounty hunters accost you: 1 (+2 LSP)
-Kill the bounty hunters with a frag grenade
-Give credits to the merchant to pay his debt (+4 LSP)
-Enter Upper City North
-Run straight across to Upper City North Apartments
-Run to the left until Sith soldiers accost you (+2 LSP)
-Swap to Carth and queue Power Blasts on all three Sith soldiers
-Activate Solo Mode
-Swap to MC and run back to the door you entered through
-Swap to Carth and loot all three corpses for Sith Uniform, grenades, and adrenals
-} Use Adrenal Alacrity on Carth
-¤ Swap to MC and Buffer [GP Warp](77xef) to warp Carth
-Exit the apartments
-} Equip Sith Uniform to Carth
-Activate Solo Mode
-Run Carth down street to right until it narrows
-¤ Swap to MC and Buffer [GP Warp](77xef) to warp Carth
-- The cutscene to enter the Lower City will play and warp MC there
-Enter the Lower City
+- Swap to MC and run back to the door you entered through
+- Swap to Carth and loot all three corpses for Sith Uniform, grenades, and adrenals
+- *Stims: Use Adrenal Alacrity on Carth*
+- Swap to MC and [Buffer GP Warp](<./Techniques/GP Warp#buffered-gp-warps>) to warp Carth
+- Exit the apartments
+- *Equip Carth: Sith Armor*
+- Activate Solo Mode
+- Run Carth down street to right until it narrows
+- Swap to MC and [Buffer GP Warp](<./Techniques/GP Warp#buffered-gp-warps>) to warp Carth
+  - The cutscene to enter the Lower City will play and warp MC there
+- Enter the Lower City
 
-**Lower City:**
+### Lower City
+
 ¤ [Hard Buffer](t5kyf#ch3Hard_Buffers) past Vulkar/Bek CS
 } Unequip Sith Armor from Carth
 Enter Javyar's Cantina
@@ -395,21 +394,21 @@ Enter the Lower Sewers
 
 **Sewers:**
 ---------------------------------------------------------
-***Optional Strat: Lower Sewers [GP Warp](77xef)***
-*This strat saves about 10 seconds, but can be risky as you may be trying to [GP Warp](77xef) while MC is in combat.*
+***Optional Strat: Lower Sewers [GP Warp](<./Techniques/GP Warp#buffered-gp-warps>)***
+*This strat saves about 10 seconds, but can be risky as you may be trying to [GP Warp](<./Techniques/GP Warp#buffered-gp-warps>) while MC is in combat.*
 - Open first door, then door on right
 - Activate Solo Mode
 - Throw a frag grenade at the rakghouls
 - As MC, run up the path past the Gamorrean and open first door on right
 --- While this happens, Carth and Mission should finish off the rakghouls
---- We need them out of the way for the upcoming [GP Warp](77xef)
+--- We need them out of the way for the upcoming [GP Warp](<./Techniques/GP Warp#buffered-gp-warps>)
 --- This also helps us hit Bastila's XP threshold
 - Swap to Carth and open door on left (before the force field)
 - Swap to MC and rescue Zaalbar
 } Add Carth and Mission to party
 - Run MC slightly into Zaalbar's cell for protection from the Gamorreans
 - Swap to Carth and lower force field
-¤ Swap to Mission and Buffer [GP Warp](77xef) to teleport MC
+¤ Swap to Mission and [Buffer GP Warp](<./Techniques/GP Warp#buffered-gp-warps>) to teleport MC
 - Enter the Upper Sewers
 ---------------------------------------------------------
 *If you choose not to use the above strat:*
@@ -425,19 +424,19 @@ Enter the Lower Sewers
 ---------------------------------------------------------
 
 ---------------------------------------------------------
-***Optional Strat: Upper Sewers [GP Warp](77xef)***
+***Optional Strat: Upper Sewers [GP Warp](<./Techniques/GP Warp#buffered-gp-warps>)***
 *This strat saves about 10 seconds in the Vulkar Garage, but it's finicky.  It's personal preference whether to use this trick or not.*
 - Remove Mission from party
 - Activate Solo Mode
 - As Carth, open the door behind you to Lower Sewers
 - As MC, run through sewers and kill the Malfunctioning Droid
 --- You can skip this if all the Vulkars died while entering the Undercity
-¤ Quickly Swap to Carth and Buffer [GP Warp](77xef) to teleport MC to end of sewers
+¤ Quickly Swap to Carth and [Buffer GP Warp](<./Techniques/GP Warp#buffered-gp-warps>) to teleport MC to end of sewers
 - Queue up Flurries on the Vulkar Guards, then swap back to Carth
 --- We want these guards to die to hit Bastila's XP threshold
 - Run through sewers to same point as before (just after the Minor Gas Mine)
 - Watch MC's health during this section and heal as needed
-¤ Swap to MC and Buffer [GP Warp](77xef) to teleport Carth to end of sewers
+¤ Swap to MC and [Buffer GP Warp](<./Techniques/GP Warp#buffered-gp-warps>) to teleport Carth to end of sewers
 - Enter the Vulkar Base
 ---------------------------------------------------------
 *If you choose not to use the above strat:*
@@ -636,7 +635,7 @@ Star Map: Dantooine
 Loot Nero's corpse for Robe and Sigil crystal
 Exit Ruins
 - Loot Nero's corpse on the way out
-- If one of your party members doesn't follow, use a [GP Warp](77xef) to get them out quickly
+- If one of your party members doesn't follow, use a [GP Warp](<./Techniques/GP Warp#buffered-gp-warps>) to get them out quickly
 } Remove Bastila and T3 from party and RtEH
 
 **Jedi Enclave:**
@@ -683,7 +682,7 @@ Run right through two doors
 Activate Solo Mode; open front door as T3
 As MC, go through door behind secretary, then turn left twice
 Loot data module from broken droid
-¤ Swap to T3 and Buffer [GP Warp](77xef) to warp MC to entrance
+¤ Swap to T3 and [Buffer GP Warp](<./Techniques/GP Warp#buffered-gp-warps>) to warp MC to entrance
 Exit Sith Base
 ¤ [Map CS Skip](rb685) for Arrest Skip
 } Remove T3 from Party, then Transit Back
@@ -1008,7 +1007,7 @@ Activate Solo Mode to leave T3 at landing pad
   - You can also Force Jump where able, but be aware it will sometimes target enemies behind you
 ¤ [Soft Buffer](t5kyf#ch4Soft_Buffers)/[Save Teleport](5dagb) past the Wookiee Guard
   - This skips a trigger that forces you to visit the Wookiee Village first
-¤ Swap to T3 and Buffer [GP Warp](77xef) the MC to the elevator
+¤ Swap to T3 and [Buffer GP Warp](<./Techniques/GP Warp#buffered-gp-warps>) the MC to the elevator
 Take elevator to Upper Shadowlands
 
 **Upper Shadowlands:**
@@ -1098,11 +1097,11 @@ Speak to basement computer: 1,1,2,1,2
 Return to main floor
 Activate Solo Mode
 ---------------------------------------------------------
-***Optional Strat: Temple [GP Warp](77xef)***
-*This strat saves some time moving to the front of the temple, but it's a very finicky trick, as it is diffcult to hit the loading zone to activate the [GP Warp](77xef). You can disable V-Sync in Advanced Graphics Options to make it easier, but remember to re-enable it afterwards.*
+***Optional Strat: Temple [GP Warp](<./Techniques/GP Warp#buffered-gp-warps>)***
+*This strat saves some time moving to the front of the temple, but it's a very finicky trick, as it is diffcult to hit the loading zone to activate the [GP Warp](<./Techniques/GP Warp#buffered-gp-warps>). You can disable V-Sync in Advanced Graphics Options to make it easier, but remember to re-enable it afterwards.*
 - Run/[Save Teleport](5dagb) the MC just outside the room with the two droids
 - Swap to your second party member
-- Buffer [GP Warp](77xef) by hitting the load zone, then swapping to the MC
+- [Buffer GP Warp](<./Techniques/GP Warp#buffered-gp-warps>) by hitting the load zone, then swapping to the MC
 - Enter Temple Summit
 ---------------------------------------------------------
 *If you choose not to use the above strat:*
