@@ -54,7 +54,7 @@ For this method, you need one party member with the item to be duped equipped, a
 
 This method is useful as it does not require any animation item, but it is also a more difficult menu.  This method only dupes one copy of the item, but it can then be repeated as many times as desired.
 
-This method of duping is the first step in the Damage Stacking glitch, used in All Quests NMG.
+This method of duping is the first step in the [Damage Stacking](<Damage Stacking>) glitch, used in [All Quests NMG](<../Route Guides/All Quests NMG>).
 
 ## Full Inventory Duplication
 
@@ -102,3 +102,4 @@ Item Duplication is currently only used in All Quests speedruns; however, both S
 ## Related Glitches
 
 * [Anywhere Menu Glitch](<../Major Glitches/Anywhere Menu Glitch>)
+* [Damage Stacking](<Damage Stacking>)
