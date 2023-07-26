@@ -178,7 +178,7 @@ While we used to kill Freyyr in the Lower Shadowlands to enable a [Map CS Skip](
 
 This is a brief outline of the route for the Any% NMG run, including planet order and smaller skips:
 
-**1. Taris**
+1. **Taris**
   * Reach the Undercity and recruit Mission and Zaalbar to access Vulkar Base
   * Defense Turret Skip to access Vulkar Garage
   * Use Accelerator Warp to exit Vulkar Base
@@ -186,37 +186,37 @@ This is a brief outline of the route for the Any% NMG run, including planet orde
   * Recruit T3 to access Sith Base
   * Kill the Sith Governor to get the Launch Codes
   * Steal the Ebon Hawk and escape Taris
-**2. Dantooine**
+2. **Dantooine**
   * Become a Jedi Padawan
   * Redeem Juhani to the light side
   * Find the Star Map in the ancient ruins
-**3. Manaan**
+3. **Manaan**
   * Raid the Sith Base to recover the Data Module for the Republic
   * [Sonic Buffer](t5kyf#ch4Soft_Buffers) to skip the Mother Firaxan
   * Find the Star Map on the ocean floor
-**4. Tatooine**
+4. **Tatooine**
   * [Save Teleport](5dagb) into the Eastern Dune Sea
   * Kill the Krayt Dragon OR perform Krayt Skip to obtain the Star Map
-**5. Korriban**
+5. **Korriban**
   * Inflitrate the Academy
   * Earn five prestige points with Uthar Wynn
   * Find the Star Map in Naga Sadow's Tomb
-**6. Leviathan**
+6. **Leviathan**
   * Rescue the crew using Mission
   * Skip the spacewalk sequence
   * Skip the Saul Karath fight
   * Defeat Darth Malak and escape
-**7. Kashyyyk**
+7. **Kashyyyk**
   * [Save Teleport](5dagb) to skip visiting the Wookiee Village
   * Recruit Jolee Bindo to access Lower Shadowlands
   * Find the Star Map in the Lower Shadowlands
   * [Save Teleport](5dagb) to the Wookiee Village to Return to the Ebon Hawk
-**8. Lehon**
+8. **Lehon**
   * Rescue the Elder Warrior and obtain Ship Parts
   * Use the Rakatan Ritual to enter the Ancient Temple
   * Defeat Bastila and stay true to the Light Side
   * Repair the Ebon Hawk and fly to the Star Forge
-**9. Star Forge**
+9. **Star Forge**
   * Find and kill Darth Malak
 
 The reasoning for the middle planets:
@@ -1182,19 +1182,22 @@ Darth Malak fight:
   - You have a backup Hyper Stim Suite if you need it; don't try to hit Malak without it, as your hit rate goes down 25% without stims active
   - You can also try to keep Knight Valor active (+10% to hit) but this is hard without duration glitch
 
-[section=Version History]
+## Version History
 
 **v4.3 (May 2022)**
 - Added Zelka back in as an optional shopping trip for beginners or marathons.
 - Miscellaneous minor fixes and corrections.
+
 **v4.2 (May 2022)**
 - Separated the Detailed Route into its planetary sections.
 - Miscellaneous minor fixes and corrections.
+
 **[v4.1](https://web.archive.org/web/20220419164357/https://www.speedrun.com/kotor1/guide/d8i6l) (December 2021)**
 - Route now skips the shopping trip with Zelka. 
 - Updated stim and credit route.
 - Route now uses Carth for the Sewer GP Warps instead of Mission.
 - Added an optional strat before the submersible on Manaan.
+
 **[v4.0](https://web.archive.org/web/20220806234524/https://pastebin.com/drdB40H0) (November 2021)**
 - Updated the rules to reflect the unbanning of Krayt Skip and Wire Targeting.
 - Added Krayt Skip as an optional strategy on Tatooine.
@@ -1203,16 +1206,20 @@ Darth Malak fight:
 - Updated the character build to save level 4 for the Jedi class, ensuring earlier combat feats.
 - Tweaked the alignment route to save time.
 - Other minor additions and updates.
+
 **[v3.3](https://web.archive.org/web/20210729145021/https://www.speedrun.com/kotor1/guide/d8i6l) (August 2020)**
 - Updated the credit/stims route.
 - Small tweak to the leveling plan.
 - Updated the ruleset to ban Wire Targeting.
 - Other minor additions and updates.
+
 **[v3.2](https://web.archive.org/web/20200808193256/https://www.speedrun.com/kotor1/guide/d8i6l) (June 2020)**
 - Fixed an error with the table in the Leveling Plan
 - Added the elevator warp after buying T3
+
 **[v3.1](https://web.archive.org/web/20200603002358/https://www.speedrun.com/kotor1/guide/d8i6l) (April 2020)**
 - Updated the ruleset to allow Single Item Duping (but still not Full Inventory Duping)
+
 **[v3.0](https://web.archive.org/web/20200420143723/https://www.speedrun.com/kotor1/guide/d8i6l) (April 2020)**
 - Rebranded the category to better reflect its nature
 - Updated the ruleset to ban Fast Lane, Hotshots, and Inventory Duping
@@ -1221,31 +1228,39 @@ Darth Malak fight:
 - Added a few short GP Warps to Taris/Manaan
 - Added the optional Sewer GP Warp to Taris
 - Miscellaneous small corrections
+
 **[v2.2](https://web.archive.org/web/20191206184558/https://www.speedrun.com/kotor1/guide/d8i6l) (November 2019)**
 - Updated the ruleset to include GP Warps.
+
 **v2.1 (September 2019)**
 - Miscellaneous small fixes
+
 **v2.0 (June 2019)**
 - Switched the planet order to Manaan -> Tatooine -> Korriban
-* - This ensures Level 9 (and Knight Speed) before fighting Uthar and Yuthura
+  - This ensures Level 9 (and Knight Speed) before fighting Uthar and Yuthura
+
 **[v1.3](https://web.archive.org/web/20190530154822/https://www.speedrun.com/kotor1/guide/d8i6l) (May 2019)**
 - Moved the Transit Point set on Taris to save ~35 seconds.
 - Added more info about the Canderous trick on Lehon
 - Fixed a couple miscellaneous mistakes.
+
 **v1.2 (March 2019)**
 - Tweaked Character Build:
-* - Initial Attributes have 10 Charisma instead of 10 Wisdom
-* - Force Powers include Knight Valor/Disable Droid instead of Dominate Mind/Drain Life
+  - Initial Attributes have 10 Charisma instead of 10 Wisdom
+  - Force Powers include Knight Valor/Disable Droid instead of Dominate Mind/Drain Life
+
 **v1.1 (March 2019)**
 - Modified strategies for Assault Droid and Sith Governor fights
 - Added skip with Canderous on Lehon
+
 **v1.0 (March 2019)**
 - Converted the Beginner's Guide to this one
-- Scout->Jedi Guardian build with Two-Weapon/Flurry
+- Scout -> Jedi Guardian build with Two-Weapon/Flurry
 - Route is a blend of Any% and Glitchless
 
-[section=Closing]
-If you made it this far, congratulations!  Thanks for reading the guide.  Please let indykenobi know if you have any comments or questions (best way to contact is via Twitter or the KotOR Speedrunning Discord).
+## Closing
+
+If you made it this far, congratulations!  Thanks for reading the guide.  Please let indykenobi know if you have any comments or questions (best way to contact is via the KotOR Speedrunning Discord).
 
 I'd like to acknowledge glasnonck and thinkshooter, whose runs got me into KotOR speedrunning, as well as glasnonck, sheepmetal, and wurwilf, who all discussed this category before it was implemented.
 
