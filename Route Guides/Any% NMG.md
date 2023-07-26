@@ -102,44 +102,38 @@ Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flu
   2. Persuading Lashowe to assist us in finding the holocron.
   3. Persuading the Czerka guards in the Upper Shadowlands to give up the emitter codes.
 
-[section=Equipment Plan]
+## Equipment Plan
 
 **Implant: None**
 - While we used to use the Nerve Enhancement Package for Immunity: Mind-Affecting, skipping Zelka means it's more convenient to nab the Nerve Amplifier Belt for that purpose.  The other implants we obtain are sold for significant and important credits.
 
-**Head: Verpine Headband**
-Found on Dantooine, Casus Sandral's corpse
+**Head: Verpine Headband** - Found on Dantooine, Casus Sandral's corpse
 - This is the most convenient mask to grab, giving +3 to our Will save, which is our weakest.
 
-**Gloves: Strength Enhancer**
-Found on Taris, Sith Governor's corpse
+**Gloves: Strength Enhancer** - Found on Taris, Sith Governor's corpse
 - This is used for the +1 Strength; from levels 4 through 7, it nets us an extra +1 modifier, which helps for the fight against Lashowe.
 
-**Body: Jedi Knight Robe**
-Found on Dantooine, Nemo's remains
+**Body: Jedi Knight Robe** - Found on Dantooine, Nemo's remains
 - We want to wear robes to allow us to cast our Force powers, and this is the most convenient robe to grab, since we loot Nemo anyway for the Sigil crystal.
 
-**Weapon: Double-bladed Lightsaber**
-Found on Taris, Brejik's "corpse"
+**Weapon: Double-bladed Lightsaber** - Found on Taris, Brejik's "corpse"
 - We borrow Bastila's lightsaber for the run (and probably give it back afterwards).  The crystals we use are as follows:
+  - Sigil Crystal: Placed after Tatooine, used for +1 Attack
+  - Opila Crystal: The only other convenient crystal on our route.  The damage boost and massive critical hits makes it worthwhile.  Placed after Tatooine.
+  - Solari Crystal: The best crystal in the game and the reason we try to stay Light-aligned (see below).  Replaces Opila after Korriban.
 
-Sigil Crystal: Placed after Tatooine, used for +1 Attack
-Opila Crystal: The only other convenient crystal on our route.  The damage boost and massive critical hits makes it worthwhile.  Placed after Tatooine.
-Solari Crystal: The best crystal in the game and the reason we try to stay Light-aligned (see below).  Replaces Opila after Korriban.
-
-**Belt: Nerve Amplifier Belt**
-Found on Tatooine, Chewed Twi'lek corpse
+**Belt: Nerve Amplifier Belt** - Found on Tatooine, Chewed Twi'lek corpse
 - Skipping the CNS belt streamlines the credit route and lets us skip the strongbox in the Vulkar Garage, saving about a minute at the expense of slightly worse combat.  The Nerve Amplifier Belt is a convenient replacement that preserves Immunity: Mind-Affecting and lets us skip Zelka on Taris for a little further timesave.
 
 All of our equipment should be equipped once we leave Tatooine, with the exception of the Solari crystal which is placed after Korriban.  We'll also use the Combat Suit, Prototype Vibroblade and a basic Vibroblade while on Taris.
 
-[section=Credits Route]
+## Credits Route
 
 By skipping the CNS Strength Enhancer, we can concentrate all of our shopping into 3 to 5 trips, depending on how many safe strats we decide to use:
 
 **1. Larrim on Taris**
-*Sell*: Nonessential items to reach ~1182 Credits
-*Buy*: 2 Concussion Grenades, 1 Frag Grenade, 1 Battle Stimulant (374 Credits)
+- *Sell*: Nonessential items to reach ~1182 Credits
+- *Buy*: 2 Concussion Grenades, 1 Frag Grenade, 1 Battle Stimulant (374 Credits)
 
 **2. Zelka on Taris**
 *Optional*: Buy 3x Adrenal Alacrity (150 Credits)
