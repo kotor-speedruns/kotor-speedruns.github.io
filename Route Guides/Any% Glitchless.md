@@ -262,7 +262,8 @@ SHOPPING TRIP: Larrim
 ```
 - Exit to Upper City South
 
-**Upper City:**
+### Upper City
+
 - Run towards Zelka Forn's clinic
 - Where the path widens, activate Solo Mode
 - As MC, click on Medical Clinic door
@@ -288,96 +289,100 @@ SHOPPING: Zelka Forn
 - Sith Sentry talks to you
 - Enter the Lower City
 
-**Lower City:**
-After CS, defeat the Vulkar patrol
-- We need them out of the way for the next step
-- MC uses Flurry
-- Carth uses Power Blast from close range
-} Unequip Sith Armor from Carth
-Enter Javyar's Cantina
-Return to Hideout, then immediately Transit Back
-- This sets the transit point for a Transit Warp later
-Exit cantina and enter the Hidden Bek Base
-Activate Solo Mode and open first door with MC
-Swap to Carth and open door to Lower City
-Swap to MC and talk to Gadon Thek: 1x10,3,2
-- Spam through Zaerdra's interruption before
-Run MC close enough to Carth, then swap and exit to Lower City
-Remove Carth from party
-Watch Canderous cutscene
-Enter the Undercity (spam through Sith soldier's interruption)
+### Lower City
 
-**Undercity:**
-Beggars accost you: 1,1 | 1,4 (+2 LSP; 56)
-> Level to 3: TI to 6, Empathy
-Add Carth to party
-Exit the gate and kill the rakghoul
-- MC should use Flurry
-- Carth uses Power Blast from close range
-Mission joins the party
-Enter the Lower Sewers
+- After CS, defeat the Vulkar patrol
+  - We need them out of the way for the next step
+  - MC uses Flurry
+  - Carth uses Power Blast from close range
+- *Unequip Carth: Sith Armor*
+- Enter Javyar's Cantina
+- Return to Hideout, then immediately Transit Back
+  - This sets the transit point for a Transit Warp later
+- Exit cantina and enter the Hidden Bek Base
+- Activate Solo Mode and open first door with MC
+- Swap to Carth and open door to Lower City
+- Swap to MC and talk to Gadon Thek: 1x10,3,2
+  - Spam through Zaerdra's interruption before
+- Run MC close enough to Carth, then swap and exit to Lower City
+- Remove Carth from party
+- Watch Canderous cutscene
+- Enter the Undercity (spam through Sith soldier's interruption)
 
-**Sewers:**
-Activate Solo Mode and place Mission next to ladder
-Free Zaalbar and add him to party when prompted
-- He'll distract the Gamorreans from attacking MC
-} Equip Mission's Vibroblade to MC's offhand
-} Equip Zaalbar with two Vibroblades
-Bash open footlocker in next room with MC
-Switch to Mission and leave by ladder
-Remove Zaalbar from party and reenter sewers
-Activate Solo Mode
-Deactivate Force Field and enter the Upper Sewers
-Remove Mission from party
-Run through left tunnel first, then right tunnel
-Loot the pile of bones in the rancor room (+1; 6 Spikes)
-¤ Juke past the rancor and enter the Vulkar Base
-- Try to run always at a 90 degree angle from the rancor's pursuit
-- You probably want to manually safety save before trying this trick
+### Undercity
+- Beggars accost you: 1,1 | 1,4 (+2 LSP; 56)
+- `Level to 3: TI to 6, Empathy`
+- Add Carth to party
+- Exit the gate and kill the rakghoul
+  - MC should use Flurry
+  - Carth uses Power Blast from close range
+- Mission joins the party
+- Enter the Lower Sewers
+
+### Sewers
+
+- Activate Solo Mode and place Mission next to ladder
+- Free Zaalbar and add him to party when prompted
+  - He'll distract the Gamorreans from attacking MC
+- *Equip MC: Mission's Vibroblade Offhand*
+- *Equip Zaalbar: Vibroblade in both hands*
+- Bash open footlocker in next room with MC
+- Switch to Mission and leave by ladder
+- Remove Zaalbar from party and reenter sewers
+- Activate Solo Mode
+- Deactivate Force Field and enter the Upper Sewers
+- Remove Mission from party
+- Run through left tunnel first, then right tunnel
+- Loot the pile of bones in the rancor room (+1; 6 Spikes)
+- Juke past the rancor and enter the Vulkar Base
+  - Try to run always at a 90 degree angle from the rancor's pursuit
+  - You probably want to manually safety save before trying this trick
 
 **Vulkar Base:**
-Turn right and ignore patrol droid
-¤ Defense turret skip
-- Open door to elevator area
-- Make a manual safety save
-- Stand in doorframe corner near terminal and make a manual save
-- Pause the game, then queue two concussion grenades on the center turret
-- Unpause; if any turret remains unstunned after both grenades, load the safety save and try again
-- If all three turrets are stunned, take the elevator to the Garage
-- There is a 59.6% chance to stun all three turrets after *both* grenades.  Good luck!
-- You MUST stun all three turrets, since we will be leaving this way.
-In the garage, take hallway on right and last door on right
-Loot garage head's desk and supplies for passcard and Computer Spikes (+2; 8 Spikes)
-Run down the central hallway and turn left
-Talk to Kandon Ark: 2,2,2
-Get the swoop accelerator
-Return through central hallway to elevator to main base
-Possible manual save before exiting the garage
-- There is a chance the turrets will instantly kill you on the way out.  This seems to depend on how many times you've had to reload your safety saves; an even number will cause the turrets to shoot first, while an odd number will allow you to run past.
-- Thus if you have reloaded an even number of times (including zero!), manually save and reload so that the turrets won't kill you.
-Exit Vulkar Base
+- Turn right and ignore patrol droid
+- Defense turret skip
+  - Open door to elevator area
+  - Make a manual safety save
+  - Stand in doorframe corner near terminal and make a manual save
+  - Pause the game, then queue two concussion grenades on the center turret
+  - Unpause; if any turret remains unstunned after both grenades, load the safety save and try again
+  - If all three turrets are stunned, take the elevator to the Garage
+  - There is a 59.6% chance to stun all three turrets after *both* grenades.  Good luck!
+  - You MUST stun all three turrets, since we will be leaving this way.
+- In the garage, take hallway on right and last door on right
+- Loot garage head's desk and supplies for passcard and Computer Spikes (+2; 8 Spikes)
+- Run down the central hallway and turn left
+- Talk to Kandon Ark: 2,2,2
+- Get the swoop accelerator
+- Return through central hallway to elevator to main base
+- Possible manual save before exiting the garage
+  - There is a chance the turrets will instantly kill you on the way out.  This seems to depend on how many times you've had to reload your safety saves; an even number will cause the turrets to shoot first, while an odd number will allow you to run past.
+  - Thus if you have reloaded an even number of times (including zero!), manually save and reload so that the turrets won't kill you.
+- Exit Vulkar Base
 
-**Rescuing Bastila:**
-Return to Hidden Bek base
-Talk to Gadon Thek
-Successfully win the swoop races
-- Talk to the Race Coordinator before each one
-- Whatever time you get on the first race will be beaten by 0.25s by Redros
-- You'll need to beat Redros's time on the second race, but your swoop accelerates faster
-Kill Brejik using poison/sonic grenades
-- Start by running a little bit away so you don't get hit by your own grenades.
-- Throw a Poison Grenade first, then two Sonic Grenades
-- Brejik always gets hit by the poison, and the sonics have a 50-50 chance to do 10 or 20 damage.
-- He has really high defense, so grenades are the best option
-- Even if you don't roll 20s on the sonic grenades, the poison will eventually kill him
-Finish off the remaining Vulkars
-Loot Brejik's corpse
-Talk to Bastila
-- This takes you back to the apartment hideout
+### Rescuing Bastila
 
-[section=Taris 2]
+- Return to Hidden Bek base
+- Talk to Gadon Thek
+- Successfully win the swoop races
+  - Talk to the Race Coordinator before each one
+  - Whatever time you get on the first race will be beaten by 0.25s by Redros
+  - You'll need to beat Redros's time on the second race, but your swoop accelerates faster
+- Kill Brejik using Poison/Sonic grenades
+  - Start by running a little bit away so you don't get hit by your own grenades.
+  - Throw a Poison Grenade first, then two Sonic Grenades
+  - Brejik always gets hit by the poison, and the sonics have a 50-50 chance to do 10 or 20 damage.
+  - He has really high defense, so grenades are the best option
+  - Even if you don't roll 20s on the sonic grenades, the poison will eventually kill him
+- Finish off the remaining Vulkars with Flurry
+- Loot Brejik's corpse
+- Talk to Bastila
+  - This takes you back to the apartment hideout
 
-**Upper City:**
+## Taris 2
+
+### Upper City
+
 Carth/Bastila talk to you: 1,1,1,1 | 2
 } Add Bastila when exiting the apartment
 Twi'lek accosts you
