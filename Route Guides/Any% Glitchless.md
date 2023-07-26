@@ -180,17 +180,16 @@ The reasoning for the middle planets:
 This section will describe all the actions you'll need to take for the Any% Glitchless run.
 
 Notation:
-¤ indicates a trick to be done
-> indicates a level up to be done
-} indicates an inventory/equipment action to be done
-) indicates an item upgrade to perform
+- ^ indicates a level up to be done
+- } indicates an inventory/equipment action to be done
+- ) indicates an item upgrade to perform at a workbench
 
 Conversation Notes: 
-If no conversation choices are specified, spamming will work (this chooses all 1 options).
-A | indicates a break in the conversation.  You have to talk to the person again.
-A ¤ indicates a variable answer, such as in reciting the Sith Code.
-A #¤ indicates a Persuade check that may fail.
-A #xY indicates repeat that option Y times, as in Gadon Thek's first conversation.
+- If no conversation choices are specified, spamming will work (this chooses all 1 options).
+- A | indicates a break in the conversation.  You have to talk to the person again.
+- A * indicates a variable answer, such as in reciting the Sith Code.
+- A #* indicates a Persuade check that may fail.
+- A #xY indicates repeat that option Y times, as in Gadon Thek's first conversation.
 
 **Jump to a Section:**
 - [Endar Spire](#endar-spire)
@@ -199,12 +198,12 @@ A #xY indicates repeat that option Y times, as in Gadon Thek's first conversatio
 ## Endar Spire
 
 **Character Creation:**
-> Male/Female Scout - Custom Character
-> Str to 18, Dex to 14, Con to 14, Int to 10
-> Computer Use to 4, Stealth to 1, Treat Injury to 4, Save remaining 2
-> Initial Feat: Weapon Focus: Melee Weapons
-> Pick a good name!
-> Hit Play!
+- Male/Female Scout - Custom Character
+- Str to 18, Dex to 14, Con to 14, Int to 10
+- Computer Use to 4, Stealth to 1, Treat Injury to 4, Save remaining 2
+- Initial Feat: Weapon Focus: Melee Weapons
+- Pick a good name!
+- Timer starts when you hit Play!
 
 **Endar Spire:**
 Trask talks to you (spam)
