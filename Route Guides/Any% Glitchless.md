@@ -199,6 +199,11 @@ Conversation Notes:
 - [Dantooine](#dantooine)
 - [Manaan](#manaan)
 - [Korriban](#korriban)
+- [Tatooine](#tatooine)
+- [The Leviathan](#the-leviathan)
+- [Kashyyyk](#kashyyyk)
+- [Lehon](#lehon)
+- [The Star Forge](#the-star-forge)
 
 ## Endar Spire
 
@@ -532,17 +537,17 @@ SHOPPING: Zelka Forn
 - Return to Ebon Hawk
 - Speak with the Council
 - RtEH then Transit Back and board the Ebon Hawk
-- **Upgrade Double Lightsaber (Add Sigil)**
+- **Upgrade Double Lightsaber: Add Sigil**
 - *Equip MC: Jedi Knight Robe, Verpine Headband*
-- Fly to Manaan
+- Fly to Manaan and exit ship
+- *Party: Add T3 when prompted*
+  - Bringing a party member skips a Selkath announcement when leaving the docking bay
+  - Using T3 also avoids any interruptions for party dialogue
 
 ## Manaan
 
 ### Ahto City
 
-- Leave Ebon Hawk; *Party: Add T3 when prompted*
-  - Bringing a party member skips a Selkath announcement when leaving the docking bay
-  - Using T3 also avoids any interruptions for party dialogue
 - Republic soldier conversation: 4
 - Talk to Selkath Merchant for shopping: 3
 ```
@@ -561,6 +566,7 @@ SHOPPING: Selkath Merchant
 - Enter docking bay at end of hall and use shuttle to travel to Sith Base
 
 ### Sith Base
+
 - Take right door
 - Rude secretary sics the security on you
 - Ignore them, take right door, left door, left door
@@ -603,223 +609,231 @@ SHOPPING: Selkath Merchant
   - This tries to Force Persuade the judges, getting you banned from Manaan
   - It also puts you right in the Ebon Hawk's cockpit, ready to fly away
   - Manaan is a dumb planet anyway.  Stupid Selkath.
-- Fly to Korriban
+- Fly to Korriban and exit ship
+- *Party: No change when prompted*
 
 ## Korriban
 
 ### Dreshdae
-Port Authority accosts you: 2,2,3,2
-Intervene with Shaardan: 1,1,1 (+7 LSP; 61, Light-aligned)
-Lashowe accosts you
----------------------------------------------------------
-*SHOPPING: Czerka Shop*
-**SELL ALL EXCEPT:**
-- Medpacs
-- Computer Spikes
-- Stims
-**BUY:**
-- All Life Support Packs/Advanced Medpacs
-- All 25 Hyper/Echani Stims
-End: ~300-400 Credits
----------------------------------------------------------
-Talk to guard outside academy
-Reenter Dreshdae
-Talk to Yuthura: 3,4,2,3*,1:
-- It is strongly recommended to safety save before this conversation
-- If you fail the starred Persuade check (75% chance), reload your save and try again
-- Force Valor does not help with this Persuade check
 
-**Sith Academy:**
-Speak with Uthar Wynn and students
-Yuthura accosts you: 1,1,1,1,4,2,7,5
-Talk to Kel Algwinn
-Talk to Lashowe: 1x8, 4
-Exit to Valley of the Dark Lords
+- Port Authority accosts you: 2,2,3,2
+- Intervene with Shaardan: 1,1,1 (+7 LSP; 61, Light-aligned)
+- Lashowe accosts you
+- Speak to Czerka Shopkeeper
+```
+SHOPPING: Czerka Shop
+- SELL ALL EXCEPT:
+  - Medpacs
+  - Computer Spikes
+  - Stims
+- BUY:
+  - All Life Support Packs/Advanced Medpacs
+  - All 25 Hyper/Echani Stims
+- End: ~300-400 Credits
+```
+- Talk to guard outside academy
+- Reenter Dreshdae
+- Talk to Yuthura: 3,4,2,3*,1:
+  - It is strongly recommended to safety save before this conversation
+  - If you fail the starred Persuade check (75% chance), reload your save and try again
+  - Force Valor does not help with this Persuade check
 
-**Valley of the Dark Lords:**
-Run/Force Jump over to Lashowe
-} Cast Force Valor
-} Use Hyper-Adrenal Alacrity, Stamina, and Strength, and Echani Battle Stimulant
-- This will be known as the "Hyper-Stim Suite" for the rest of the guide
-> Level to 8: Str to 20, TI to 9, Energy Resistance
-- You may not have enough XP for this yet if you didn't kill any patrol droids in Hrakert Station.
-- For this and all future level ups, take them as soon as you can.
-Kill the Tukatas
-Speak with Lashowe: 2,3
-Kill Lashowe and loot her corpse for Holocron
-Return to Academy
-Talk to Uthar Wynn: 3,1,3,1,3,3,2,3,4,4,X,3,2,2
-- The X is a variable answer based on one of three questions he asks after the Sith Code
-- Answers are:
-  - It is our passion that fuels the Force: 1. True
-  - There is nothing worse than love: 2. False
-  - Victory by any means is desirable: 2. False
-- You snitch on Kel Algwinn during this conversation for (-5 DSP; 56, Neutral-aligned)
-Talk to Uthar again: 3
+### Gaining Prestige
 
-**Tomb of Naga Sadow:**
-Uthar talks to you in the tomb: 4
-Take right fork and enter door
-Force Jump to rightmost Terentatek and hit lever
-Loot Pillar of Ice
-Loot Skeletal Human Remains for Solari Crystal on way out
-Return to central branch and freeze acid pool
-Star Map: Korriban
-Loot Sith Statue for Sith Lightsaber
-Before speaking to Uthar:
-} Cast Force Valor
-} If your stims from Lashowe wore off (unusual), use Hyper Battle Stimulant
-Talk to and kill Uthar: 5,1
-Yuthura talks to you
-Defeat Yuthura and spare her: 3,2 (+4 LSP; 60, Light-aligned)
-Run/Force Jump back to the academy
-- Try to kill Shyrack for XP to reach Level 9
-Once inside, turn around and leave
-Return to Ebon Hawk and board
-) Upgrade Double Lightsaber (Add Solari crystal)
-> Level to 9: TI to 10, Knight Speed
-Fly to Tatooine
+- Speak with Uthar Wynn and students
+- Yuthura accosts you: 1,1,1,1,4,2,7,5
+- Talk to Kel Algwinn
+- Talk to Lashowe: 1x8, 4
+- Exit to Valley of the Dark Lords
+- Run/Force Jump over to Lashowe
+- *Stims/Force: Cast Force Valor, Hyper-Adrenal Alacrity, Stamina, Strength, and Echani Battle Stim on MC*
+  - This set of four stims will be known as the ***Hyper-Stim Suite*** for the rest of the guide
+- `Level to 8: Str to 20, TI to 9, Energy Resistance`
+  - You may not have enough XP for this yet if you didn't kill any patrol droids in Hrakert Station.
+  - For this and all future level ups, take them as soon as you can.
+- Kill the Tukatas with Flurry
+- Speak with Lashowe: 2,3
+- Kill Lashowe with Flurry and loot her corpse for Holocron
+- Return to Academy
+- Talk to Uthar Wynn: 3,1,3,1,3,3,2,3,4,4,X,3,2,2
+  - The X is a variable answer based on one of three questions he asks after the Sith Code
+  - Answers are:
+    - It is our passion that fuels the Force: 1. True
+    - There is nothing worse than love: 2. False
+    - Victory by any means is desirable: 2. False
+  - You snitch on Kel Algwinn during this conversation for (-5 DSP; 56, Neutral-aligned)
+- Talk to Uthar again: 3
 
-[section=Tatooine]
+### Tomb of Naga Sadow
 
-**Anchorhead:**
-Czerka Officer accosts you: 1,1,5
-Stupid jerk gives you gizka. Damn gizka.
-Exit to Anchorhead
-- This causes an Autosave; close the game completely and reopen it to clear memory leaks
-- As a rule of thumb, if you can get times that are sub 2 hours, you can skip this, but it can be risky!
-Enter Czerka Office
-Duros miner accosts you
-Talk to the Czerka Officer: 1 | 1,1,1,3,2
-Exit the office
-Duros miner accosts you again: 3,3,3
-Ignore the Dark Jedi
-Speak to the Gate Guard to exit to Dune Sea
+- Uthar talks to you in the tomb: 4
+- Take right fork and enter door
+- Force Jump to rightmost Terentatek and hit lever
+- Loot Pillar of Ice
+- Loot Skeletal Human Remains for Solari Crystal on way out
+- Return to central branch and freeze acid pool
+- Star Map: Korriban
+- Loot Sith Statue for Sith Lightsaber
+- *Force: Cast Force Valor*
+- If your stims from Lashowe wore off (unusual), *Stims: Hyper Battle Stimulant on MC*
+- Talk to and kill Uthar: 5,1
+- Yuthura talks to you
+- Defeat Yuthura and spare her: 3,2 (+4 LSP; 60, Light-aligned)
+- Run/Force Jump back to the academy
+  - Try to kill Shyrack for XP to reach Level 9
+- Once inside the academy, turn around and leave
+- Return to Ebon Hawk and board
+- **Upgrade Double Lightsaber: Add Solari Crystal**
+- `Level to 9: TI to 10, Knight Speed`
+- Fly to Tatooine and exit ship
+- *Party: No change when prompted*
 
-**Dune Sea:**
-Angry wife accosts you
-Run to right side of Sandcrawler
-- Stay close to the right side or you'll trigger a Sand People ambush
-} Use Hyper-Stim Suite
-} Cast Force Valor
-Force Jump to back right Elite Warrior near entrance to Sand People Territory
-Kill and loot him to get Sand People Outfit and Bantha Fodder
-Enter Sand People Territory 
-} Equip Sand People Outfit
-Run to Sand People Enclave
-- Running diagonally to the left for a little bit at the start avoids a Sand People ambush; if you trigger it, just ignore it
-} Before entering the enclave, reequip Jedi Knight Robe and Cast Force Valor
-Kill the Chieftain and loot his corpse for Eastern Dune Sea Map
-- Watch your health in this section, as it can drain very fast
-Exit Enclave and Run/Force Jump to Eastern Dune Sea
+## Tatooine
 
-**Eastern Dune Sea:**
-Krayt Dragon gets a snack
-Talk to Komad Fortuna: 1,2,1,1,3,1
-} If your stims have worn off, use Hyper Battle Stim
-Talk to banthas to lure them with fodder
-Kill four Elite Sand People Warriors
-Lure banthas with fodder again
-Talk to Komad Fortuna: 1 | 1
-*Optional:* Loot the corpse on the right side of the Krayt cave for a Nerve Amplifier Belt
-Star Map: Tatooine
-Ignore Darth Bandon and exit to Dune Sea
-Return to the Ebon Hawk 
-- Add Canderous during this
-} Use Hyper-Adrenal Alacrity on Canderous
-- This increases Canderous's speed for the Leviathan prison break
-Board the Ebon Hawk
-) Upgrade Double Lightsaber: Replace Sigil with Krayt Dragon Pearl
-Fly to Kashyyyk
+### Anchorhead
 
-[section=Leviathan]
+- Czerka Officer accosts you: 1,1,5
+- Stupid jerk gives you gizka. Damn gizka.
+- Exit to Anchorhead
+  - This causes an Autosave; close the game completely and reopen it to clear memory leaks
+  - As a rule of thumb, if you can get times that are sub 2 hours, you can skip this, but it can be risky!
+- Enter Czerka Office
+- Duros miner accosts you
+- Talk to the Czerka Officer: 1,1,1,3,2
+- Exit the office
+- Duros miner accosts you again: 3,3,3
+- Ignore the Dark Jedi
+- Speak to the Gate Guard to exit to Dune Sea
 
-**Detention:**
-Carth talks to you on the Ebon Hawk: 1,1,3,2
-Saul Karath's interrogation scene
-As Canderous:
-- Run to barracks (take three rights)
-- Loot footlocker for Sith Passcard (+3; 9 Spikes)
-- Return to detention area and activate terminal
+### Dune Sea
 
-Loot rightmost locker
-} Reequip MC: 
-  - Nerve Enhancement Package
-  - Verpine Headband
-  - Strength Gauntlets
-  - Jedi Knight Robe
-  - Adrenaline Amplifier
-  - Double-bladed Lightsaber
-Don't bother equipping Carth and Bastila, but do...
-> Auto-Level Carth and Bastila
-Activate Solo Mode
-Take the elevator to Bridge: 2
+- Angry wife accosts you
+- Run to right side of Sandcrawler
+  - Stay close to the right side or you'll trigger a Sand People ambush
+- *Stims/Force: Hyper-Stim Suite on MC, Cast Force Valor*
+- Force Jump to back right Elite Warrior near entrance to Sand People Territory
+- Kill and loot him to get Sand People Outfit and Bantha Fodder
+- Enter Sand People Territory 
+- *Equip MC: Sand People Outfit*
+- Run to Sand People Enclave
+  - Running diagonally to the left for a little bit at the start avoids a Sand People ambush; if you trigger it, just ignore it
+- At the enclave door:
+  - *Equip MC: Jedi Knight Robe*
+  - *Force: Cast Force Valor*
+- Kill the Chieftain and loot his corpse for Eastern Dune Sea Map
+  - Watch your health in this section, as it can drain very fast
+- Exit Enclave and Run/Force Jump to Eastern Dune Sea
+
+### Eastern Dune Sea
+
+- Krayt Dragon gets a snack
+- Talk to Komad Fortuna: 1,2,1,1,3,1
+  - If your stims have worn off, *Stims: Hyper Battle Stim on MC*
+- Talk to banthas to lure them with fodder
+- Kill four Elite Sand People Warriors with Force Jump and Flurry
+- Lure banthas with fodder again
+- Talk to Komad Fortuna: 1 | 1
+- ***Optional:*** Loot the corpse on the right side of the Krayt cave for a Nerve Amplifier Belt
+- Star Map: Tatooine
+- Ignore Darth Bandon and exit to Dune Sea
+  - There's a small chance he can Force Choke you; if so, tank with medpacs
+- *Party: Add Canderous*
+- Return to the Ebon Hawk
+- *Stims: Hyper-Adrenal Alacrity **ON CANDEROUS***
+  - This increases Canderous's speed for the Leviathan prison break
+- Board the Ebon Hawk
+- **Upgrade Double Lightsaber: Replace Sigil with Krayt Dragon Pearl**
+- Fly to Kashyyyk
+
+## The Leviathan
+
+### Detention
+
+- Carth talks to you on the Ebon Hawk: 1,1,3,2
+- Saul Karath's interrogation scene
+- As Canderous:
+  - Run to barracks (take three rights)
+  - Loot footlocker for Sith Passcard (+3; 9 Spikes)
+  - Return to detention area and activate terminal
+- Back as MC, loot rightmost locker to reclaim inventory
+- *Equip MC:*
+  - *Nerve Enhancement Package*
+  - *Verpine Headband*
+  - *Strength Gauntlets*
+  - *Jedi Knight Robe*
+  - *Adrenaline Amplifier*
+  - *Double-bladed Lightsaber*
+- Activate Solo Mode
+  - Carth and Bastila can engage one of the Sith Troopers, which can cause them to Wire Target on the next deck
+- Take the elevator to Bridge: 2
+
+### Bridge
 
 *In the bridge section, you have to keep Carth and Bastila close to you in order to leave through the Bridge Storage door.  Do your best to make sure they don't wander off, as that can and will lose you a lot of time.  You can choose to manually save and reload that save; this sometimes helps.*
 
-Turn right and kill or dodge guard at end
-Continue down hall as it turns; make sure Carth and Bastila are following you here
-Take first CLOSED door on left
-Bash down armory door
-*Optional:* Loot front left plasteel cylinder for Thermal Detonators
-Get the Space Suits from the floor
-Exit the way you entered and take door on left
-Make a manual save before door across the hall
-Run through next room, bash down door, and enter bridge storage
-- If you get stunned or your party wanders off, load and retry
-Spacewalk to opposite side
-Once on the other side:
-} Reequip Double Lightsaber to MC
-} Equip Carth's Blaster and Heavy Blaster to Carth; also Nerve Amplifier Belt if you looted it on Tatooine
-} Equip Chieftain's Gaderffi Stick to Bastila
-} Use Hyper-Stim Suite on MC
-} Recast Knight Speed
-*Optional:* Kill the five Sith Soldiers in the first room
-- This safe strat makes leaving the Saul Karath fight more consistent, but wastes 20-30 seconds.
-- You can use Solo Mode to run Bastila to the bridge door while MC and Carth clear out the soldiers, but wait until they're out of combat or you'll mess up the cutscene
-Enter the bridge
-Saul Karath fight:
-- Force Jump to Saul or a Dark Jedi; take them out first
-- If you looted the Thermals in the armory, have Carth and Bastila use them on the far Jedi/soldiers
-- Otherwise, have Carth/Bastila concentrate on the soldiers behind them
-- Keep a close eye on MC's health here, and use medpacs as necessary; you can let Carth/Bastila die
-- Recast Knight Speed when it wears off (you'll be getting only three attacks per round instead of four)
-- Clean up the Sith Soldiers once Saul falls
-Saul Karath dies (+2 LSP; 62)
-Hack bridge terminal: 1,2
-Run through room and return to the Command Deck
-- If you killed the first five Sith Soldiers, kill the Sith Grenadiers as you go so Carth and Bastila stay with you
-- If you skipped the Sith Soldiers, use Solo Mode to maneuver everyone close enough to the exit to leave
-- Using a Hyper Alacrity on Carth is recommended
-- If Carth or Bastila die too far from the door, you'll have to kill all the Sith soldiers to leave
-Once on the Command Deck, medpac anyone who needs it
-- Again, you might want to manually save/load when reaching the main area to help Carth and Bastila stay with you
-Take left path and loop around outside back to elevator
-- You'll encounter 2-3 Sith Soldiers, 2 Dark Jedi, and 3-4 Sith Grenadiers
-- Kill every last one of them to keep Carth and Bastila with you
-Take the elevator to the Hangar: 3
+- Turn right and kill or dodge guard at end
+- Continue down hall as it turns; make sure Carth and Bastila are following you here
+- Take first left, then quickly bash down armory door
+  - If you're too slow, the nearby Sith guard will aggro Carth and Bastila
+- Get the Space Suits from the floor
+- ***Optional:*** Loot the plasteel cylinder for thermal detonators
+- Exit the way you entered and take door on left
+- Make a manual save before door across the hall
+- Run through next room, bash down door, and enter bridge storage
+  - If you get stunned or your party wanders off, load the safety save and retry
+- Spacewalk to opposite side
+- *Equip MC: Double-bladed Lightsaber*
+- *Equip Carth: Carth's Blaster Mainhand, Heavy Blaster Offhand, Nerve Amplifier Belt (if you have it)*
+- *Equip Bastila: Chieftain's Gaderffi* 
+- *Stims/Force: Cast Knight Speed as MC, Hyper-Stim Suite on MC*
+- ***Optional:*** Kill the five Sith Soldiers in the first room
+  - This safe strat makes leaving the Saul Karath fight more consistent, but wastes 20-30 seconds.
+  - You can use Solo Mode to run Bastila to the bridge door while MC and Carth clear out the soldiers, but wait until they're out of combat or you'll mess up the cutscene
+- Enter the bridge
+- Saul Karath fight:
+  - Force Jump to Saul or a Dark Jedi; take them out first
+  - If you looted the Thermals in the armory, have Carth and Bastila use them on the far Jedi/soldiers
+  - Otherwise, have Carth/Bastila concentrate on the soldiers behind them
+  - Keep a close eye on MC's health here, and use medpacs as necessary; you can let Carth/Bastila die
+  - Recast Knight Speed when it wears off (you'll be getting only three attacks per round instead of four)
+  - Clean up the Sith Soldiers once Saul falls
+- Saul Karath dies (+2 LSP; 62)
+- Hack bridge terminal: 1,2
+- *Stims: Hyper Alacrity on Carth*
+- Run through room and return to the Command Deck
+  - If you killed the first five Sith Soldiers, kill the Sith Grenadiers as you go so Carth and Bastila stay with you
+  - If you skipped the Sith Soldiers, use Solo Mode to maneuver everyone close enough to the exit to leave
+  - Using a Hyper Alacrity on Carth is recommended but not strictly required
+  - If Carth or Bastila die too far from the door, you'll have to kill all the Sith soldiers to leave
+- *Medpacs: Heal everyone back on the Command Deck*
+  - Again, you might want to manually save/load when reaching the main area to help Carth and Bastila stay with you
+- Take left path and loop around outside back to elevator
+  - You'll encounter 2-3 Sith Soldiers, 2 Dark Jedi, and 3-4 Sith Grenadiers
+  - Kill every last one of them to keep Carth and Bastila with you
+- Take the elevator to the Hangar: 3
 
-**Hangar:**
-Activate Solo Mode
-> Level to 10: Per to 11, Master Two-Weapon Fighting, Knight Valor
-Run/Force Jump straight through to the Darth Malak CS
-} Cast Knight Speed/Knight Valor
-Darth Malak talks to you
-Plot twist!
-Talk to Darth Malak: 1,1,1,1,2,1,4,1
-Darth Malak fight, phase one
-- If your stims wore off, use Hyper Battle Stimulant
-After being Whirlwinded, recast Knight Speed/Knight Valor
-} Use Hyper Adrenal Strength and Hyper Battle Stim
-Loop through righthand Blast Doors
-Darth Malak fight, phase two
-Bastila sacrifices herself sort of
-Leave with Carth through blast doors on left
-Shoot down the Sith fighters
-Talk to the party on the ship
-Exit the ship after the sleeping CS
+### Hangar
 
-[section=Kashyyyk]
+- Activate Solo Mode
+- `Level to 10: Per to 11, Master Two-Weapon Fighting, Knight Valor`
+- Run/Force Jump straight through to the Darth Malak CS
+- *Force: Cast Knight Speed and Knight Valor*
+- Darth Malak accosts you
+- Plot twist!
+- Darth Malak accosts you again: 1,1,1,1,2,1,4,1
+- Darth Malak fight, phase one
+  - If your stims from the Saul Karath fight wore off, *Stims: Hyper Battle Stimulant on MC*
+- After he runs, *Stims/Force: Cast Knight Speed and Knight Valor, Hyper Adrenal Strength and Hyper Battle Stim on MC*
+- Loop through righthand Blast Doors
+- Darth Malak fight, phase two
+- Bastila sacrifices herself sort of
+- Leave with Carth through blast doors on left
+- Shoot down the Sith fighters
+- Talk to the party on the ship
+- Exit the ship after the sleeping CS
+- *Party: No change when prompted*
+
+## Kashyyyk
 
 *Stim Note: At this point, you should have at minimum 2 Alacrities, 2 Stamina, 4 Strength, and 4 Echani/Hyper Battle Stims.  If you feel you've used too many, or you want a backup set for the Malak fight on the Star Forge, you can buy one extra set from Eli Gand below.* 
 
