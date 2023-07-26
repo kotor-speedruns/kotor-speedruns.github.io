@@ -48,9 +48,9 @@ When starting a FLU, there is an important difference between starting on an att
 
 All FLUs in speedruns begin with an [Anywhere Menu Glitch](<Anywhere Menu Glitch>) (AMG), usually performed with a Quick Save.  After the [AMG](<Anywhere Menu Glitch>), open the Character Screen.  You should see the following: 
 
-![Image showing the Quit Game pop-up overlaid on the Character Menu screen](https://i.imgur.com/HV0zdA3.png)
+![Image showing the Quit Game pop-up overlaid on the Character Screen](https://i.imgur.com/HV0zdA3.png)
 
-If you have the Quit dialog overlaid on top of the Character Screen with a Level Up ready, you are now ready to Fake Level Up.
+If you have the Quit Game pop-up overlaid on top of the Character Screen with a Level Up ready, you are now ready to Fake Level Up.
 
 ## FLU Basics
 
@@ -170,7 +170,7 @@ The following sections contain specific examples of FLUs that have been used in 
 * The [Sneak Attack FLU](#sneak-attack-flu), used in all Unrestricted speedruns
 * The [Master Speed FLU](#master-speed-flu), used in [All Quests](<../Route Guides/All Quests Unrestricted>)
 * The [Master Valor FLU](#master-valor-flu), used in [All Quests](<../Route Guides/All Quests Unrestricted>)
-* [Notable Old FLUs](#notable-old-flus), which includes Security FLU and Skill Point FLU.  These two unique FLUs were used in speedruns, but have since been obsoleted.
+* [Notable Old FLUs](#notable-old-flus), which includes [Security FLU](#security-flu) and [Skill Point FLU](#skill-point-flu).  These two unique FLUs were used in speedruns, but have since been obsoleted.
 
 Each example lists the FLU's end goal, starting and ending level, and Intermediate Level plan, as well as a video depicting the FLU in context.
 
@@ -181,7 +181,7 @@ Each example lists the FLU's end goal, starting and ending level, and Intermedia
 **Obtains:** Sneak Attack IX and either Improved or Master Two-Weapon Fighting
 **Used In:** All Unrestricted speedruns
 
-[![Watch the video](https://img.youtube.com/vi/jeZaUj481jg/maxresdefault.jpg)](https://youtu.be/jeZaUj481jg)
+[![Image linking to a video demonstrating the Sneak Attack FLU](https://img.youtube.com/vi/jeZaUj481jg/maxresdefault.jpg)](https://youtu.be/jeZaUj481jg)
 
 **Starting Level:** 2
 **Ending Level:** 17
@@ -210,7 +210,7 @@ Each example lists the FLU's end goal, starting and ending level, and Intermedia
 **Obtains:** Master Critical Strike and Master Speed
 **Used In:** [All Quests](<../Route Guides/All Quests Unrestricted>)
 
-https://youtu.be/WOjitboM8Og
+[![Image linking to a video demonstrating the Master Speed FLU](https://img.youtube.com/vi/WOjitboM8Og/maxresdefault.jpg)](https://youtu.be/WOjitboM8Og)
 
 **Starting Level:** 4
 **Ending Level:** 20
@@ -228,7 +228,7 @@ https://youtu.be/WOjitboM8Og
 **Obtains:** Weapon Focus: Lightsaber and Master Valor
 **Used In:** [All Quests](<../Route Guides/All Quests Unrestricted>)
 
-https://youtu.be/HYztjzs6rSY
+[![Image linking to a video demonstrating the Master Valor FLU](https://img.youtube.com/vi/HYztjzs6rSY/maxresdefault.jpg)](https://youtu.be/HYztjzs6rSY)
 
 **Starting Level:** 5
 **Ending Level:** 15
@@ -248,7 +248,7 @@ These two FLUs were once used in speedruns but have since been obsoleted.  While
 
 **Obtains:** 91 Security
 
-https://youtu.be/G5K7M8Ir8Js
+[![Image linking to a video demonstrating the Security FLU](https://img.youtube.com/vi/G5K7M8Ir8Js/maxresdefault.jpg)](https://youtu.be/G5K7M8Ir8Js)
 
 **Starting Level:** 4
 **Ending Level:** 88
@@ -266,7 +266,7 @@ https://youtu.be/G5K7M8Ir8Js
 
 **Obtains:** 512 Unused Skill Points
 
-https://youtu.be/y81B_CIkEp0
+[![Image linking to a video demonstrating the Skill Point Glitch](https://img.youtube.com/vi/y81B_CIkEp0/maxresdefault.jpg)](https://youtu.be/y81B_CIkEp0)
 
 **Starting Level:** 3
 **Ending Level:** 4
