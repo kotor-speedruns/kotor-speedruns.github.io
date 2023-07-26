@@ -183,6 +183,7 @@ Notation:
 - `Level ups are highlighted in code block`
 - *Inventory/Equipment changes are highlighted in italics*
 - **Item Upgrades at a workbench are highlighted in bold**
+- `Shopping trips are highlighted in large code blocks`
 
 Conversation Notes: 
 - If no conversation choices are specified, spamming will work (this chooses all 1 options).
@@ -197,7 +198,7 @@ Conversation Notes:
 
 ## Endar Spire
 
-**Character Creation:**
+### Character Creation
 - Male/Female Scout - Custom Character
 - Str to 18, Dex to 14, Con to 14, Int to 10
 - Computer Use to 4, Stealth to 1, Treat Injury to 4, Save remaining 2
@@ -205,7 +206,7 @@ Conversation Notes:
 - Pick a good name!
 - Timer starts when you hit Play!
 
-**Endar Spire:**
+### Endar Spire
 - Trask talks to you (spam)
 - Loot footlocker
 - *Equip Short Sword to MC's Mainhand*
@@ -225,7 +226,7 @@ Conversation Notes:
 - Watch poor Trask sacrifice himself
 - Enter Starboard Section
 
-**Starboard Section:**
+### Starboard Section
 - Loot footlocker in Terminal Room (+5 Computer Spikes; 5 Total)
 - Hack terminal console: 2,3 (-4; 1 Spike)
 - Loot Sith Commander for Prototype Vibroblade
@@ -236,55 +237,56 @@ Conversation Notes:
 
 *Note on Alacrity: We want Adrenal Alacrity to be active on the MC for as much of Taris as possible.  The route obtains 8 Alacrities, and we want to save 3 for after Taris.  This leaves 5 for use on Taris; 6 can be used if absolutely necessary, but that requires tweaks later.  Try to duration glitch Alacrity somewhere on Taris, and otherwise use Alacrity as needed!*
 
-**Apartments:**
-} Use stim hotkey to use Adrenal Alacrity before waking up CS starts
-Carth talks to you: 1,1,1,5,3
-Loot footlocker (+2; 3 Spikes)
-} Equip Combat Suit, Prototype Vibroblade mainhand, Vibroblade offhand
-Exit the apartment (forced to bring Carth)
-Use a frag grenade on the Sith Commander (may have to Flurry him too)
-Loot the backpack
-Larrim accosts you: 1,2,4 (+2; 5 Spikes)
----------------------------------------------------------
-*SHOPPING: Larrim*
-**SELL ALL EXCEPT:**  
-- Medpacs
-- Computer Spikes
-- Vibroblade
-- Frag and Poison Grenades
-- Adrenal Strength
-*Note: You SHOULD sell the Adrenal Stamina*
-**BUY:**
-- 2x Computer Spikes
-End: ~812 Credits
----------------------------------------------------------
-Exit to Upper City South
+### Apartments
+
+- *Use stim hotkey to use Adrenal Alacrity before waking up CS starts*
+- Carth talks to you: 1,1,1,5,3
+- Loot footlocker (+2; 3 Spikes)
+- *Equip MC: Combat Suit, Prototype Vibroblade Mainhand, Vibroblade Offhand*
+- Exit the apartment (forced to bring Carth)
+- Use a frag grenade on the Sith Commander (may have to Flurry him too)
+- Loot the backpack
+- Larrim accosts you: 1,2,4 (+2; 5 Spikes)
+```
+SHOPPING TRIP: Larrim
+- SELL ALL EXCEPT:
+  - Medpacs
+  - Computer Spikes
+  - Vibroblade
+  - Frag and Poison Grenades
+  - Adrenal Strength
+- Note: You SHOULD sell the Adrenal Stamina
+- BUY:
+  - 2x Computer Spikes
+- End: ~812 Credits
+```
+- Exit to Upper City South
 
 **Upper City:**
-Run towards Zelka Forn's clinic
-Where the path widens, activate Solo Mode
-As MC, click on Medical Clinic door
-Swap to Carth and click on Upper City North door
-Swap to MC and talk to Zelka: 5
----------------------------------------------------------
-*SHOPPING: Zelka Forn*
-**BUY:**
-- Nerve Enhancement Package
-- 6x Adrenal Alacrity
-End: ~12 Credits
----------------------------------------------------------
-Run MC close enough to Carth, then swap and enter Upper City North
-Swap to MC and run to Upper City North Apartments
-Sith soldiers talk to you (+2 LSP; 52 total)
-Kill three Sith soldiers without entering the apartment
-- If you enter the apartment, you'll have to talk to the alien
-Loot corpses for Sith Uniform, grenades, and stims
-Exit the apartments
-Cancel talking to Carth if he interrupts: 2
-Drunks accost you (+2 LSP; 54)
-} Equip Sith Uniform to Carth
-Sith Sentry talks to you
-Enter the Lower City
+- Run towards Zelka Forn's clinic
+- Where the path widens, activate Solo Mode
+- As MC, click on Medical Clinic door
+- Swap to Carth and click on Upper City North door
+- Swap to MC and talk to Zelka: 5
+```
+SHOPPING: Zelka Forn
+- BUY:
+  - Nerve Enhancement Package
+  - 6x Adrenal Alacrity
+- End: ~12 Credits
+```
+- Run MC close enough to Carth, then swap and enter Upper City North
+- Swap to MC and run to Upper City North Apartments
+- Sith soldiers talk to you (+2 LSP; 52 total)
+- Kill three Sith soldiers without entering the apartment
+  - If you enter the apartment, you'll have to talk to the alien
+- Loot corpses for Sith Uniform, grenades, and stims
+- Exit the apartments
+- Cancel talking to Carth if he interrupts: 2
+- Drunks accost you (+2 LSP; 54)
+- *Equip Carth: Sith Armor*
+- Sith Sentry talks to you
+- Enter the Lower City
 
 **Lower City:**
 After CS, defeat the Vulkar patrol
