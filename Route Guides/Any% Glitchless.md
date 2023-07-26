@@ -717,9 +717,10 @@ SHOPPING: Czerka Shop
 - *Equip MC: Sand People Outfit*
 - Run to Sand People Enclave
   - Running diagonally to the left for a little bit at the start avoids a Sand People ambush; if you trigger it, just ignore it
-- At the enclave door:
+- As the enclave door is opening:
   - *Equip MC: Jedi Knight Robe*
   - *Force: Cast Force Valor*
+  - Enter the Sand People Enclave
 - Kill the Chieftain and loot his corpse for Eastern Dune Sea Map
   - Watch your health in this section, as it can drain very fast
 - Exit Enclave and Run/Force Jump to Eastern Dune Sea
@@ -782,10 +783,11 @@ SHOPPING: Czerka Shop
 - Run through next room, bash down door, and enter bridge storage
   - If you get stunned or your party wanders off, load the safety save and retry
 - Spacewalk to opposite side
-- *Equip MC: Double-bladed Lightsaber*
-- *Equip Carth: Carth's Blaster Mainhand, Heavy Blaster Offhand, Nerve Amplifier Belt (if you have it)*
-- *Equip Bastila: Chieftain's Gaderffi* 
-- *Stims/Force: Cast Knight Speed as MC, Hyper-Stim Suite on MC*
+- *Equip MC, Carth, and Bastila:*
+  - *MC: Double-bladed Lightsaber*
+  - *Carth: Carth's Blaster Mainhand, Heavy Blaster Offhand, Nerve Amplifier Belt (if you have it)*
+  - *Bastila: Chieftain's Gaderffi* 
+- *Stims/Force: Cast Knight Speed, Hyper-Stim Suite on MC*
 - ***Optional:*** Kill the five Sith Soldiers in the first room
   - This safe strat makes leaving the Saul Karath fight more consistent, but wastes 20-30 seconds.
   - You can use Solo Mode to run Bastila to the bridge door while MC and Carth clear out the soldiers, but wait until they're out of combat or you'll mess up the cutscene
@@ -837,170 +839,185 @@ SHOPPING: Czerka Shop
 
 *Stim Note: At this point, you should have at minimum 2 Alacrities, 2 Stamina, 4 Strength, and 4 Echani/Hyper Battle Stims.  If you feel you've used too many, or you want a backup set for the Malak fight on the Star Forge, you can buy one extra set from Eli Gand below.* 
 
-**The Great Walkway:**
-Janos Wertka accosts you
-*Optional:* Talk to Eli Gand
----------------------------------------------------------
-*SHOPPING: Eli Gand*
-**BUY:**
-- All Hyper Stims (costs 500 Credits)
-End: Doesn't Matter
----------------------------------------------------------
-Ziagrom accosts you
-Czerka guard accosts you at gate: 4
-Exit to Great Walkway
-} Use Hyper Adrenal Strength and Hyper Battle Stim
-Czerka patrol accosts you outside: 5
-Run/Force Jump to Wookiee village
-- Kill the second group of kinrath and the two Mykals nearby
-- This makes returning with Jolee a little easier
-- You don't need to kill anything after the second Mykal
-Wookiee guard accosts you
-Chuundar conversation
-After being evicted from the Chieftain's Hall:
-- Return to Ebon Hawk and Transit Back
-- This sets the Transit Point for a Transit Warp later
-*Optional:* Loot the wicker bin on the way out for a couple Advanced Medpacs and a spare Hyper Adrenal Alacrity
-Exit Wookiee Village
-Run past Wookiee Guard
-Talk to Wookiee at elevator: 2
+### The Great Walkway
 
-**Upper Shadowlands:**
+- Janos Wertka accosts you
+- ***Optional:*** Talk to Eli Gand
+```
+SHOPPING: Eli Gand
+- BUY:
+  - All Hyper Stims (costs 500 Credits)
+- End: Doesn't Matter
+```
+- Ziagrom accosts you
+- Czerka guard accosts you at gate: 4
+- Exit to Great Walkway
+- *Stims: Hyper Adrenal Strength and Hyper Battle Stim on MC*
+- Czerka patrol accosts you outside: 5
+- Run/Force Jump to Wookiee village
+  - Kill the second group of kinrath and the two Mykals nearby
+  - This makes returning with Jolee a little easier
+  - You don't need to kill anything after the second Mykal
+- Wookiee guard accosts you
+- Chuundar conversation
+- After being evicted from the Chieftain's Hall:
+  - Return to Ebon Hawk and Transit Back
+  - This sets the Transit Point for later
+- ***Optional:*** Loot the wicker bin on the way out for a couple Advanced Medpacs and a spare Hyper Adrenal Alacrity
+- Exit Wookiee Village
+- Run past Wookiee Guard
+- Talk to Wookiee at elevator: 2
+
+### Upper Shadowlands
+
 - *If you have a spare Alacrity at this point, you can use it here to extend the effects of Force Speed, making managing your Force Points easier.*
-Jolee Bindo talks to you
-Take left path and speak with Czerka captain: 1,1,1,1,2
-- This will make the Tach in the Upper Shadowlands hostile, allowing you to Force Jump to them
-Talk to first Czerka guard: 1,1,3,1,2
-Hack the sonic emitter next to that guard
-Talk to second Czerka guard: 1,1,2
-Hack the sonic emitter next to that guard
-Return to and speak with Jolee: 1,1,1,1,2,3,1,1,1,1,1
-Jolee joins the party; Activate Solo Mode
-Run/Force Jump to Force Field: 1,2
+- Jolee Bindo talks to you
+- Take left path and speak with Czerka captain: 1,1,1,1,2
+  - This will make the Tach in the Upper Shadowlands hostile, allowing you to Force Jump to them
+- Talk to first Czerka guard: 1,1,3,1,2
+- Hack the sonic emitter next to that guard
+- Talk to second Czerka guard: 1,1,2
+- Hack the sonic emitter next to that guard
+- Return to and speak with Jolee: 1,1,1,1,2,3,1,1,1,1,1
+- *Party: No change when prompted*
+- Activate Solo Mode
+- Run/Force Jump to Force Field: 1,2
 
-**Lower Shadowlands:**
-Activate Solo Mode
-Wookiee/Mandalorian CS
-} Use Hyper Adrenal Strength and Hyper Battle Stimulant
-Run/Force Jump to Star Map Computer
-- Kill the three Viper Kinrath along the way, because we'll have to return with Jolee
-- You can try to skip these, but usually Jolee will aggro them on the way back
-Speak to Star Map Computer: 2
-Star Map: Kashyyyk
-Jolee teleports to you and speaks
-Deactivate Solo Mode
-Return to Upper Shadowlands
+### Lower Shadowlands
 
-**Leaving Kashyyyk:**
-Activate Solo Mode
-Run/Force Jump to Elevator
-Activate Solo Mode in the Great Walkway to leave Jolee at the elevator
-Run/Force Jump towards Landing Pad
-Senni Vek accosts you: 4
-- This warps Jolee to you
-- Deactivate Solo Mode after this conversation
-Once inside Landing Pad, Transit Warp to reach the Ebon Hawk
-> Level to 11: Per to 12, Master Flurry, Force Resistance
-Fly to Star Forge System (Lehon)
-Two cutscenes
-Shoot down the Sith Fighters
-Talk to party and leave the ship
+- Activate Solo Mode
+- Wookiee/Mandalorian CS
+- *Stims: Hyper Adrenal Strength and Hyper Battle Stimulant on MC*
+- Run/Force Jump to Star Map Computer
+  - Kill the three Viper Kinrath along the way, because we'll have to return with Jolee
+  - You can try to skip these, but usually Jolee will aggro them on the way back
+- Deactivate Solo Mode
+- Speak to Star Map Computer: 2
+- Star Map: Kashyyyk
+- Jolee teleports to you and speaks
+- Return to Upper Shadowlands
 
-[section=Lehon]
+### Leaving Kashyyyk
 
-**The Warrior Rakata:**
-*Optional:* Run past the initial Rakatan Warriors
-- This can occasionally cause problems triggering the last cutscene when leaving Lehon
-- The safe strat is to kill these Warriors, but this wastes about 15 seconds
-- If you do kill them, the Duros conversation is 1,1,1,2
-Run/Force Jump towards North Beach
-} Before entering North Beach, use Hyper-Stim Suite
-Rakatan Warriors accost you
-Speak with The One: 1,1,1,1,1,4,4
-¤ Run to Elder Warrior and talk to him
-- If you run carefully, you can avoid getting into combat and talk to him immediately
-- If someone takes a swing at you, make a big loop around the arena until you're out of combat (your lightsaber will deactivate), then talk to him
-Loot Ship Parts from opposite cell
-Run/Force Jump out of Rakatan Compound
-- It's possible to chain Force Jumps if you one-shot a Rakata; try to line this up if you can
+- Activate Solo Mode
+- Run/Force Jump to Elevator
+- Activate Solo Mode in the Great Walkway to leave Jolee at the elevator
+- Run/Force Jump towards Landing Pad
+- Senni Vek accosts you: 4
+  - This warps Jolee to you
+  - Deactivate Solo Mode after this conversation
+- Once inside Landing Pad, Transit Back then RtEH and board
+- `Level to 11: Per to 12, Master Flurry, Force Resistance`
+- Fly to Star Forge System (Lehon)
+- Two cutscenes
+- Shoot down the Sith Fighters
+- Talk to party and leave the ship
+- *Party: No change when prompted*
 
-**The Elder Rakata:**
-Run/Force Jump through Central Beach and Temple Exterior to South Beach
-Enter Elder Rakatan Compound
-Speak with Rakatan Elders
-Run/Force Jump to Temple Exterior
-Begin the Rakatan ritual to enter the temple
-Jaw-dropping cutscene!
+## Lehon
 
-**Ancient Temple:**
-Activate Solo Mode
-Run/Force Jump to temple basement in back
-} If your stims wore off *and you have at least two*, use Hyper Strength and Echani/Hyper Battle Stim
-- Make sure you save a full set of stims for the Star Forge!
-Kill both guard droids in basement
-Solve floor puzzle with the following path (an H shape, starting from the reset tile)
-http://i.imgur.com/CF497Fm.png
-Speak to basement computer: 1,1,2,1,2
-Return to main floor
-Activate Solo Mode
-Run/Force Jump to front of temple and enter Massive Door
-Enter Temple Summit
-} Cast Knight Valor and Force Resistance
-Speak to and defeat Darth Waifu
-Choose to remain true to the light side (+10 LSP; 72)
-- This is faster than the Dark Side ending, solely because we don't have to bring any party members (cough Bastila cough) along on the Star Forge
-Hack computer terminal to lower disruptor field
-Run/Force Jump back to Ebon Hawk
-The party all talks to you at once
-- If the screen goes black and the cutscene doesn't start, you'll need to reload an Autosave
-- This can sometimes happen if you skip the first Rakatan Warriors on Lehon; what causes it is not fully understood
-Repair hyperdrive on the Ebon Hawk
-Fly to the Star Forge
+### The Warrior Rakata
 
-[section=Star Forge]
+- ***Optional:*** Run past the initial Rakatan Warriors
+  - This can occasionally cause problems triggering the last cutscene when leaving Lehon
+  - The safe strat is to kill these Warriors, but this wastes about 15 seconds
+  - If you do kill them, the Duros conversation is 1,1,1,2
+- Run/Force Jump towards North Beach
+- Before entering North Beach, *Stims: Hyper-Stim Suite on MC*
+  - Using these stims here seems to ease the issues with skipping the first Rakatan Warriors
+- In North Beach, Rakatan Warriors accost you
+- Speak with The One: 1,1,1,1,1,4,4
+- Run to Elder Warrior and talk to him
+  - If you run carefully, you can avoid getting into combat and talk to him immediately
+  - If someone takes a swing at you, make a big loop around the arena until you're out of combat (your lightsaber will deactivate), then talk to him
+- Loot Ship Parts from opposite cell
+- Run/Force Jump out of Rakatan Compound
+  - It's possible to chain Force Jumps if you one-shot a Rakata; try to line this up if you can
 
-**Deck One:**
-> Level to 12: Str to 21, Per to 13, Drain Life
-Exit the Ebon Hawk
-Two exciting cutscenes
-} When the door explodes in your face, use Hyper-Adrenal Alacrity to preserve speed
-Go right, then left, Force Jumping to assault droids where possible
-Jedi triplets perish
-Recast Knight Speed (or cast Knight Valor) right before entering Deck 2
+### The Elder Rakata
+
+- Run/Force Jump through Central Beach and Temple Exterior to South Beach
+- Enter Elder Rakatan Compound
+- Speak with Rakatan Elders
+- Run/Force Jump to Temple Exterior
+- Begin the Rakatan ritual to enter the temple
+- Jaw-dropping cutscene!
+
+### Ancient Temple
+
+- Activate Solo Mode
+- Run/Force Jump to Temple Catacombs in back
+  - If your stims wore off **and you have at least two**, *Stims: Hyper Adrenal Strength and Echani/Hyper Battle Stim on MC*
+  - Make sure you save a full set of stims for the Star Forge!
+- Kill both guard droids in basement
+- Solve floor puzzle with the following path (an H shape, starting from the reset tile)
+![An image of the H-shaped solution to the catacombs floor puzzle](http://i.imgur.com/CF497Fm.png)
+- Speak to basement computer: 1,1,2,1,2
+- Return to main floor
+- Activate Solo Mode
+- Run/Force Jump to front of temple and enter Massive Door
+- Enter Temple Summit
+- *Force: Cast Knight Valor and Force Resistance*
+- Speak to and defeat Darth Waifu
+- Choose to remain true to the light side (+10 LSP; 72)
+  - This is faster than the Dark Side ending, solely because we don't have to bring any party members (cough Bastila cough) along on the Star Forge
+- Hack computer terminal to lower disruptor field
+- Run/Force Jump back to Ebon Hawk
+- The party all talks to you at once
+  - If the screen goes black and the cutscene doesn't start, you'll need to reload an Autosave
+  - This can sometimes happen if you skip the first Rakatan Warriors on Lehon; what causes it is not fully understood
+- Repair hyperdrive on the Ebon Hawk
+- Fly to the Star Forge
+
+## The Star Forge
+
+### Deck One
+
+- `Level to 12: Str to 21, Per to 13, Drain Life`
+- Exit the Ebon Hawk
+- Two exciting cutscenes
+- Go right, then left, Force Jumping to assault droids where possible
+  - When the plasma explosion hits, *Stims: Hyper-Adrenal Alacrity on MC* to preserve speed
+- Jedi triplets perish in dramatic cutscene
+- *Force: Recast Knight Speed (or cast Knight Valor)* right before entering Deck 2
   
-**Deck Two:**
-More exciting cutscenes
-- You can cast Knight Valor and/or Force Resistance to gain additional protection against Force powers here; there's lots of Dark Jedi here that can potentially use Force Choke/Slow/Plague etc.
-Turn right, then left
-Hack computer terminal: 1,1,5
-Return (with Force Jumps) to take elevator to Deck 3
+### Deck Two
+
+- Another exciting cutscenes
+  - You can cast Knight Valor and/or Force Resistance to gain additional protection against Force powers here; there's lots of Dark Jedi here that can potentially use Force Choke/Slow/Plague etc.
+- Turn right, then left
+- Hack computer terminal: 1,1,5
+- Return (with Force Jumps) to take elevator to Command Center
 
 **Command Center:**
-Then we'll see if Revan can stand against the full fury of the Star Forge! <evil laugh>
-Run/Force Jump until double doors
-} Use Hyper-Stim Suite (minus the already active Alacrity) and Speed/Valor
-- These should be your last stims unless you got backups/random drops
-Defeat three Dark Jedi to unseal the door
-- The back one uses Force Wave, which is really annoying; try to take him out first.
-Darth Waifu fight/conversation
+
+- Then we'll see if Revan can stand against the full fury of the Star Forge! *evil laugh*
+- Run/Force Jump until double doors
+- *Stims/Force: Use Hyper-Stim Suite (minus the already active Alacrity) on MC, Cast Knight Speed and Knight Valor*
+  - These should be your last stims unless you got backups/random drops
+- Defeat three Dark Jedi to unseal the door
+  - The back one uses Force Wave, which is really annoying; try to take him out first.
+- Darth Waifu fight/conversation
   - Be careful not to spam default action during a conversation; this will skip a phase (a glitch!)
   - Use Flurry for all phases; try to make sure Speed stays active
   - All conversations can be spammed if you have 13 Persuade
   - If you have less than 13 Net Persuade, you can still spare Bastila with the following conversations:
   - *As a female character*: 2 | 2,2,1 | 2,2 | 1,1,1,2,2,2,1,1,1,1
   - *As a male character*: 2 | 2,2,1 | 2,2, | 1,1,1,3,2,3,1,1,1,1
-Green Squadron, moving in
-Darth Malak shows off by killing Jedi
-Bash through door and exit to Viewing Platform
+- Green Squadron, moving in
+- Darth Malak shows off by killing Jedi
+- Bash through door and exit to Viewing Platform
 
-**Viewing Platform:**
-} If your stims wore off, use any that you have left. If you bought stims from Eli Gand on Kashyyyk, you should have a full backup set here.
-} Make sure Speed/Valor are active
-Darth Malak fight:
-- Hit him until he runs to trigger the Dead Jedi CS
-- Use a medpac before that CS starts
-- Use Drain Life to release the remaining seven Dead Jedi
-- Kill Malak once and for all
+### Viewing Platform
+
+- *Stims/Force:*
+  - *If your stims wore off, use any that you have left. If you bought stims from Eli Gand on Kashyyyk, you should have a full backup set here.*
+  - *Make sure Knight Speed and Knight Valor are active*
+- Darth Malak fight:
+  - Hit him until he runs to trigger the Dead Jedi CS
+  - Use a medpac before that CS starts
+  - Use Drain Life to release the remaining seven Dead Jedi
+  - Kill Malak once and for all
 
 ## Version History
 
