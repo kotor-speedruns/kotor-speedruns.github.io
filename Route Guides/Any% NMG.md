@@ -1,14 +1,16 @@
-[center]**[big][big]Star Wars: Knights of the Old Republic[/big]
+# Star Wars: Knights of the Old Republic - Any% No Major Glitches Guide
 
-No Major Glitches Speedrun v4.3: Male/Female Scout -> Jedi Guardian Route (Light Side)[/big]**[/center]
+**v4.3: Male/Female Scout -> Jedi Guardian Route (Light Side)**
 
 This route defeats Malak on the Star Forge as fast as possible without major glitches.  Timing begins upon clicking "PLAY" after character creation and ends on the last hit on Malak.  A load-removal tool is available for LiveSplit thanks to glasnonck; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.  This guide will cover the character build for the run, as well as a detailed route.
 
 If you have additional questions, you can check out the KotOR Speedrunning Discord which is linked on the game's sidebar on speedrun.com.  There's a bunch of friendly folks there willing to answer questions!
 
-**REMEMBER to show yourself restarting the game at the beginning of each attempt.**
+**Table of Contents**
 
-[section=Category Rules]
+[section=NMG Ruleset]
+
+**REMEMBER to show yourself restarting the game at the beginning of each attempt.**
 
 The Any% No Major Glitches (NMG) run is a middle-ground category between [Any% Unrestricted](hmjxg) and [Any% Glitchless](xaobq).  
 
