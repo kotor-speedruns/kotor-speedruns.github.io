@@ -186,53 +186,38 @@ This is a brief outline of the route for the Any% NMG run, including planet orde
   * Recruit T3 to access Sith Base
   * Kill the Sith Governor to get the Launch Codes
   * Steal the Ebon Hawk and escape Taris
-
 **2. Dantooine**
-
-* - Become a Jedi Padawan
-* - Redeem Juhani to the light side
-* - Find the Star Map in the ancient ruins
-
+  * Become a Jedi Padawan
+  * Redeem Juhani to the light side
+  * Find the Star Map in the ancient ruins
 **3. Manaan**
-* - Raid the Sith Base to recover the Data Module for the Republic
-* - [Sonic Buffer](t5kyf#ch4Soft_Buffers) to skip the Mother Firaxan
-* - Find the Star Map on the ocean floor
-
+  * Raid the Sith Base to recover the Data Module for the Republic
+  * [Sonic Buffer](t5kyf#ch4Soft_Buffers) to skip the Mother Firaxan
+  * Find the Star Map on the ocean floor
 **4. Tatooine**
-
-* - [Save Teleport](5dagb) into the Eastern Dune Sea
-* - Kill the Krayt Dragon OR perform Krayt Skip to obtain the Star Map
-
+  * [Save Teleport](5dagb) into the Eastern Dune Sea
+  * Kill the Krayt Dragon OR perform Krayt Skip to obtain the Star Map
 **5. Korriban**
-
-* - Inflitrate the Academy
-* - Earn five prestige points with Uthar Wynn
-* - Find the Star Map in Naga Sadow's Tomb
-
+  * Inflitrate the Academy
+  * Earn five prestige points with Uthar Wynn
+  * Find the Star Map in Naga Sadow's Tomb
 **6. Leviathan**
-
-* - Rescue the crew using Mission
-* - Skip the spacewalk sequence
-* - Skip the Saul Karath fight
-* - Defeat Darth Malak and escape
-
+  * Rescue the crew using Mission
+  * Skip the spacewalk sequence
+  * Skip the Saul Karath fight
+  * Defeat Darth Malak and escape
 **7. Kashyyyk**
-
-* - [Save Teleport](5dagb) to skip visiting the Wookiee Village
-* - Recruit Jolee Bindo to access Lower Shadowlands
-* - Find the Star Map in the Lower Shadowlands
-* - [Save Teleport](5dagb) to the Wookiee Village to Return to the Ebon Hawk
-
-**8. Unknown Planet**
-
-* - Rescue the Elder Warrior and obtain Ship Parts
-* - Use the Rakatan Ritual to enter the Ancient Temple
-* - Defeat Bastila and stay true to the Light Side
-* - Repair the Ebon Hawk and fly to the Star Forge
-
+  * [Save Teleport](5dagb) to skip visiting the Wookiee Village
+  * Recruit Jolee Bindo to access Lower Shadowlands
+  * Find the Star Map in the Lower Shadowlands
+  * [Save Teleport](5dagb) to the Wookiee Village to Return to the Ebon Hawk
+**8. Lehon**
+  * Rescue the Elder Warrior and obtain Ship Parts
+  * Use the Rakatan Ritual to enter the Ancient Temple
+  * Defeat Bastila and stay true to the Light Side
+  * Repair the Ebon Hawk and fly to the Star Forge
 **9. Star Forge**
-
-* - Find and kill Darth Malak
+  * Find and kill Darth Malak
 
 The reasoning for the middle planets:
 - Manaan is first because there are no fights we have to win, and thus our relatively weak combat abilities don't matter as much.
@@ -240,68 +225,83 @@ The reasoning for the middle planets:
 - Korriban is third so that we can get the Solari crystal; we also may have reached Level 9 (and Knight Speed) before Uthar and Yuthura to make those fights easier.  We also buy top-notch stims and medpacs here to make some later fights easier.
 - Kashyyyk is done last because you can skip the Star Map computer's quiz if your identity has already been revealed, and our Save Teleports will be maximally effective here.
 
+## Detailed Route
 
-[section=Detailed Route]
 This section will describe all the actions you'll need to take for the Any% NMG run.
 
-*Notation:*
-¤ indicates a glitch or trick to be done
-> indicates a level up to be done
-} indicates an inventory/equipment action to be done
-MC - Stands for Main Character, your player character
-CS - Cutscene
-QS - Quick Save
-QL - Quick Load
-QS/QL - Quick Save then immediately Quick Load
-GP Warp - [Gather Party Warp](77xef)
+Notation:
+- `Level ups are highlighted in code block`
+- *Inventory/Equipment changes are highlighted in italics*
+- **Item Upgrades at a workbench are highlighted in bold**
+- `Shopping trips are highlighted in large code blocks`
 
-*Conversation Notes:*  
-- If no conversation choices are specified, spamming clicks and NumPad Enter will work (this chooses all 1 options)
-- A | indicates a break in the conversation.  You have to talk to the person again.
+Conversation Notes: 
+- If no conversation choices are specified, spamming will work (this chooses all 1 options).
+- A ... indicates a break in the conversation, such as changing who you're talkng to or having to talk to the NPC again
+- A * indicates a variable answer, such as in reciting the Sith Code.
 - A #xY indicates repeat that option Y times, as in Gadon Thek's first conversation.
 
-[center][big]***----------------------------
-Character Creation
-----------------------------***[/big][/center]
+Abbreviations:
+* MC - Stands for Main Character, your player character
+* CS - Cutscene
+* QS - Quick Save
+* QL - Quick Load
+* QS/QL - Quick Save then immediately Quick Load
+* GP Warp - [Gather Party Warp](77xef)
 
-> Male/Female Scout - Custom Character
-> Str to 18, Dex to 14, Con to 14, Int to 10
-> Computer Use to 4, Security to 1, Treat Injury (TI) to 4, Save 2
-> Initial Feat: Weapon Focus: Melee Weapons
-> Pick a good name!
-> Hit Play! (and be ready to [Hard Buffer](t5kyf#ch3Hard_Buffers)!)
+**Jump to a Section:**
+- [Endar Spire](#endar-spire)
+- [Taris 1](#taris-1)
+- [Taris 2](#taris-2)
+- [Dantooine](#dantooine)
+- [Manaan](#manaan)
+- [Korriban](#korriban)
+- [Tatooine](#tatooine)
+- [The Leviathan](#the-leviathan)
+- [Kashyyyk](#kashyyyk)
+- [Lehon](#lehon)
+- [The Star Forge](#the-star-forge)
 
-[center][big]***----------------------------
-Endar Spire 
-----------------------------***[/big][/center]
+## Endar Spire
 
-**Endar Spire:**
-¤ [Hard Buffer](t5kyf#ch3Hard_Buffers) past Intro CS
-Loot footlocker
-} Equip Short Sword
-Trask conversation twice (spam)
-} Equip Blaster Pistol to Trask's Offhand
-Use security on door
-Kill two Sith Soldiers
-Loot footlocker in next room
-Cutscene of Sith vs. Republic
-Kill front three Sith Soldiers with frag grenade
-Jedi vs. Sith cutscene
-Loot Jedi for Vibration Cell/Adrenal Strength
-Kill two Sith soldiers
-Kill front two Sith soldiers on bridge
-> Level to 2: Save skills, Two-Weapon Fighting
-¤ [Hard Buffer](t5kyf#ch3Hard_Buffers) past Trask's death scene
-Enter Starboard Section
+### Character Creation
 
-**Starboard Section:**
-Loot footlocker in Terminal Room
-Hack terminal console: 2,3
-Loot Sith Commander for Prototype Vibroblade
-Carth talks to you
-Take Escape Pod to Taris
+- Male/Female Scout - Custom Character
+- Str to 18, Dex to 14, Con to 14, Int to 10
+- Computer Use to 4, Security to 1, Treat Injury (TI) to 4, Save 2
+- Initial Feat: Weapon Focus: Melee Weapons
+- Pick a good name!
+- Hit Play! (and be ready to [Hard Buffer](t5kyf#ch3Hard_Buffers)!)
 
-[section=Taris 1]
+### Endar Spire
+
+- [Hard Buffer](t5kyf#ch3Hard_Buffers) past Intro CS
+- Loot footlocker
+- *Equip MC: Short Sword*
+- Trask conversation twice (spam)
+- *Equip Trask: Blaster Pistol Offhand*
+- Use security on door
+- Kill two Sith Soldiers
+- Loot footlocker in next room
+- Cutscene of Sith vs. Republic
+- Kill front three Sith Soldiers with frag grenade
+- Jedi vs. Sith cutscene
+- Loot Jedi for Vibration Cell/Adrenal Strength
+- Kill two Sith soldiers
+- Kill front two Sith soldiers on bridge
+- `Level to 2: Save skills, Two-Weapon Fighting`
+- [Hard Buffer](t5kyf#ch3Hard_Buffers) past Trask's death scene
+- Enter Starboard Section
+
+### Starboard Section
+
+- Loot footlocker in Terminal Room
+- Hack terminal console: 2,3
+- Loot Sith Commander for Prototype Vibroblade
+- Carth talks to you
+- Take Escape Pod to Taris
+
+## Taris 1
 
 **Apartments:**
 Use the stims hotkey to use two stims:
