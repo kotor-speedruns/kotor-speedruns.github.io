@@ -127,39 +127,39 @@ Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flu
 
 All of our equipment should be equipped once we leave Tatooine, with the exception of the Solari crystal which is placed after Korriban.  We'll also use the Combat Suit, Prototype Vibroblade and a basic Vibroblade while on Taris.
 
-## Credits Route
+## Credit Route
 
 By skipping the CNS Strength Enhancer, we can concentrate all of our shopping into 3 to 5 trips, depending on how many safe strats we decide to use:
 
 **1. Larrim on Taris**
-- *Sell*: Nonessential items to reach ~1182 Credits
-- *Buy*: 2 Concussion Grenades, 1 Frag Grenade, 1 Battle Stimulant (374 Credits)
+- Sell: Nonessential items to reach ~1182 Credits
+- Buy: 2 Concussion Grenades, 1 Frag Grenade, 1 Battle Stimulant (374 Credits)
 
 **2. Zelka on Taris**
-*Optional*: Buy 3x Adrenal Alacrity (150 Credits)
+- ***Optional***: Buy 3x Adrenal Alacrity (150 Credits)
 
 **3. Selkath Merchant on Manaan**
-*Buy*: Advanced Medpac, Hyper Battle Stimulant, Hyper Adrenal Strength (380 Credits total)
-*Buy*: Hyper Adrenal Alacrity **only** if you did not shop with Zelka (100 Credits)
-*Optional:* Buy a second Hyper Battle Stimulant and second Hyper Adrenal Strength if you are *not* doing Krayt Skip (300 Credits)
+- Buy: Advanced Medpac, Hyper Battle Stimulant, Hyper Adrenal Strength (380 Credits total)
+- Buy: Hyper Adrenal Alacrity **only** if you did not shop with Zelka (100 Credits)
+- ***Optional:*** Buy a second Hyper Battle Stimulant and second Hyper Adrenal Strength if you are *not* doing Krayt Skip (300 Credits)
 
 **4. Mic'Tunan'Jus Orgu on Tatooine**
-*Optional*: Buy Bantha Fodder **only** if you are *not* doing Krayt Skip (1 Credit)
+- ***Optional***: Buy Bantha Fodder **only** if you are *not* doing Krayt Skip (1 Credit)
 
 **5. Czerka Shop on Korriban**
-*Sell*: Nonessential items to reach ~4200 Credits
-*Buy*: 20x Advanced Medpac, 5x Echani Battle Stimulant, 5x All Hyper Adrenal Stims (4100 Credits total)
+- Sell: Nonessential items to reach ~4200 Credits
+- Buy: 20x Advanced Medpac, 5x Echani Battle Stimulant, 5x All Hyper Adrenal Stims (4100 Credits total)
 
 Our credits all come from selling items we don't need, though we do loot some extra corpses to be able to afford all the stims we want on Korriban. The Selkath Merchant on Manaan is useful for the Adrenal Alacrity for the underwater segment, since we would normally skip Zelka.  The other stims are for the second phase of Leviathan Malak and the Sand People fight (if not doing Krayt Skip).
 
-[section=Alignment Route]
+## Alignment Route
 Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher numbers are Light, lower numbers are dark.  Shifts in alignment are determined by a matrix; every alignment-shifting action is classified as Light or Dark, and then assigned a level (either Low, Mid, or High).  The player character (Revan) can either be aligned as Very Dark, Dark, Neutral, Light, or Very Light.  The more opposed your alignment and the action's classification, the more drastic your shift in alignment; for example, a Light-aligned character performing a High Dark action will have a large shift, while a Dark character performing a High Dark action will have a smaller shift.
 
 Here is the alignment route used in the run:
 
-https://i.imgur.com/LFOrTDv.png
+![A chart showing all alignment shifts in the speedrun route](https://i.imgur.com/LFOrTDv.png)
 
-¤¤These actions are for some reason hardcoded to always give +3/-5 alignment, respectively.
+*Snitching on Kel Algwinn is for some reason hardcoded to always give -5 alignment; similarly, rescuing the hopefuls from Shaardan is hardcoded to give +3 alignment.*
 
 There are two important points in this route:
 1. We must be at 60 alignment or higher (the boundary between Neutral and Light) in order to equip any Light Side restricted equipment.  The Solari crystal is Light Side restricted, as well as being ridiculously good.  So we need to be at 60 alignment by the time we place the Solari Crystal (after Korriban) and stay there in order to keep our lightsaber equipped.
@@ -174,18 +174,18 @@ However, wanting to equip the Solari crystal means we want to do mostly light si
 
 While we used to kill Freyyr in the Lower Shadowlands to enable a [Map CS Skip](rb685) to reach the Ebon Hawk, we can avoid the fight and its associated DSP by simply [Save Teleporting](5dagb) to the Wookiee Village and using a [Map CS Skip](rb685) from there.  This saves time and alignment issues.
 
-[section=Route Overview]
+## Route Overview
+
 This is a brief outline of the route for the Any% NMG run, including planet order and smaller skips:
 
 **1. Taris**
-
-* - Reach the Undercity and recruit Mission and Zaalbar to access Vulkar Base
-* - Defense Turret Skip to access Vulkar Garage
-* - Use Accelerator Warp to exit Vulkar Base
-* - Skip the Brejik Fight to rescue Bastila 
-* - Recruit T3 to access Sith Base
-* - Kill the Sith Governor to get the Launch Codes
-* - Steal the Ebon Hawk and escape Taris
+  * Reach the Undercity and recruit Mission and Zaalbar to access Vulkar Base
+  * Defense Turret Skip to access Vulkar Garage
+  * Use Accelerator Warp to exit Vulkar Base
+  * Skip the Brejik Fight to rescue Bastila 
+  * Recruit T3 to access Sith Base
+  * Kill the Sith Governor to get the Launch Codes
+  * Steal the Ebon Hawk and escape Taris
 
 **2. Dantooine**
 
