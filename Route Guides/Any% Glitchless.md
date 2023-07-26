@@ -180,9 +180,9 @@ The reasoning for the middle planets:
 This section will describe all the actions you'll need to take for the Any% Glitchless run.
 
 Notation:
-- ^ indicates a level up to be done
-- } indicates an inventory/equipment action to be done
-- ) indicates an item upgrade to perform at a workbench
+- `Level ups are highlighted in code block`
+- *Inventory/Equipment changes are highlighted in italics*
+- **Item Upgrades at a workbench are highlighted in bold**
 
 Conversation Notes: 
 - If no conversation choices are specified, spamming will work (this chooses all 1 options).
@@ -206,31 +206,31 @@ Conversation Notes:
 - Timer starts when you hit Play!
 
 **Endar Spire:**
-Trask talks to you (spam)
-Loot footlocker
-} Equip Short Sword
-Talk to Trask
-Switch to Trask and open door
-Switch back to Trask use security on door
-} Equip second blaster to Trask's offhand
-Kill two Sith Soldiers
-Loot footlocker in next room
-Cutscene of Sith vs. Republic
-Kill front three Sith Soldiers with frag grenade
-Jedi vs. Sith cutscene
-Loot Jedi for Vibration Cell/Adrenal Strength
-Kill two Sith soldiers
-Kill front two Sith soldiers on bridge
-> Level to 2: Save Skills, Two-Weapon Fighting
-Watch poor Trask sacrifice himself
-Enter Starboard Section
+- Trask talks to you (spam)
+- Loot footlocker
+- *Equip Short Sword to MC's Mainhand*
+- Talk to Trask
+- Switch to Trask and open door
+- Switch back to Trask use security on door
+- *Equip 2nd Blaster Pistol to Trask's Offhand*
+- Kill two Sith Soldiers
+- Loot footlocker in next room
+- Cutscene of Sith vs. Republic
+- Kill front three Sith Soldiers with frag grenade
+- Jedi vs. Sith cutscene
+- Loot Jedi for Vibration Cell/Adrenal Strength
+- Kill two Sith soldiers
+- Kill front two Sith soldiers on bridge
+- `Level to 2: Save Skills, Two-Weapon Fighting`
+- Watch poor Trask sacrifice himself
+- Enter Starboard Section
 
 **Starboard Section:**
-Loot footlocker in Terminal Room (+5 Computer Spikes; 5 Total)
-Hack terminal console: 2,3 (-4; 1 Spike)
-Loot Sith Commander for Prototype Vibroblade
-Carth talks to you
-Take Escape Pod to Taris
+- Loot footlocker in Terminal Room (+5 Computer Spikes; 5 Total)
+- Hack terminal console: 2,3 (-4; 1 Spike)
+- Loot Sith Commander for Prototype Vibroblade
+- Carth talks to you
+- Take Escape Pod to Taris
 
 ## Taris 1
 
@@ -975,6 +975,7 @@ Darth Malak fight:
 - Tweaked spike route on Taris
 - Slightly tweaked character build
 - Removed the optional Calo kill strat, as it is no longer helpful in the new route
+
 **v5.0 (June 2021)**
 - Changed the character build to use 10 Int and 4 Com for more efficient spike use
 - Added hacking with T3 in the Taris Sith Base to skip a fight
@@ -986,6 +987,7 @@ Darth Malak fight:
 - Canderous is used to rescue the party on Leviathan instead of Juhani
 - Added some optional thermal detonator loots for certain fights
 - Added an optional safe strat to prevent Carth from being stunned on the Leviathan
+
 **[v4.0](https://web.archive.org/web/20201112020601/https://www.speedrun.com/kotor1/guide/xaobq) (August 2020)**
 - Modified the credit and shopping route
 - Added an optional character build tweak for guaranteed credit route
@@ -995,19 +997,23 @@ Darth Malak fight:
 - Fleshed out the optional branches in the credit route based on killing Calo
 - Added some optional safe strats on the Leviathan and elsewhere
 - Miscellaneous minor corrections
+
 **[v3.0](https://web.archive.org/web/20200808193255/https://www.speedrun.com/kotor1/guide/xaobq) (June 2020)**
 - Added strats for warping Jolee when leaving Kashyyyk
 - Added strats for skipping Rakatan Warriors on Lehon
 - Updated the character build with small tweaks
 - Added the elevator warp trick after buying T3
 - Miscellaneous minor corrections
+
 **[v2.1](https://web.archive.org/web/20200603002359/https://www.speedrun.com/kotor1/guide/xaobq) (June 2020)**
 - Added an unequip at the end of Taris to smooth the credit route
+
 **[v2.0](https://web.archive.org/web/20200420153512/https://www.speedrun.com/kotor1/guide/xaobq) (December 2019)**
 - New planet order: Manaan -> Korriban -> Tatooine -> Kashyyyk
 - New credit/stim/XP route to get Knight Speed before Uthar
 - Added getting banned from Manaan
 - Added Transit Warp on Kashyyyk
+
 **[v1.0](https://web.archive.org/web/20190530154816/https://www.speedrun.com/kotor1/guide/xaobq) (November 2016, newly found!)**
 - Initial route as Scout/Jedi Guardian with Master Two-Weapon/Flurry build.
 - Planet order: Korriban -> Manaan -> Tatooine -> Kashyyyk
