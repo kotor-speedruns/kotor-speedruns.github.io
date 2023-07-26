@@ -1,14 +1,26 @@
-[center]**[big][big]Star Wars: Knights of the Old Republic[/big]
+# Star Wars: Knights of the Old Republic - Any% Glitchless Guide
 
-Any% Glitchless Guide v6.0: Male/Female Scout -> Jedi Guardian Route (Light Side)[/big]**[/center]
+**v6.0: Male/Female Scout -> Jedi Guardian Route (Light Side)**
 
 This route defeats Malak on the Star Forge as fast as possible without the use of glitches.  Timing begins upon clicking "PLAY" after character creation and ends on the last hit on Malak.  A load-removal tool is available for LiveSplit thanks to glasnonck; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.  This guide will cover the character build for the run, as well as a detailed route.
 
 If you have additional questions, you can check out the KotOR Speedrunning Discord which is linked on the game's sidebar on speedrun.com.  There's a bunch of friendly folks there willing to answer questions!
 
-**REMEMBER to show yourself restarting the game at the beginning of each attempt.**
+**Table of Contents:**
+- [Glitchless Ruleset](#glitchless-ruleset)
+- [Character Build](#character-build)
+  - [Character Creation](#character-creation)
+  - [Leveling Plan](#leveling-plan)
+- [Equipment Plan](#equipment-plan)
+- [Credit Route](#credit-route)
+- [Alignment Route](#alignment-route)
+- [Route Overview](#route-overview)
+- [Detailed Route](#detailed-route)
+- [Version History](#version-history)
 
-[section=Glitchless Rules]
+## Glitchless Ruleset
+
+**REMEMBER to show yourself restarting the game at the beginning of each attempt.**
 
 All glitches are banned, with the exception of the following:
 - Fast text (unavoidable without restarting the game frequently)
@@ -18,7 +30,9 @@ In addition, exploits that give infinite experience, credits, or alignment point
 
 Due to its glitchy nature, QUICKSAVE is banned as well.  Manual and autosaves, however, are allowed.
 
-[section=Character Build]
+## Character Build
+
+### Character Creation
 
 We begin as a Scout; this guide as written can be completed as either a Male or Female character, but Male is potentially a few seconds faster since they have an easier time sparing Bastila on the Star Forge with successful Persuade checks.  Scout is used for the Implant Level 2 feat, as well as decent skill points and overall strength of saving throws.
 
@@ -26,19 +40,19 @@ On becoming a Jedi we'll choose the Jedi Guardian class for maximum attack power
 
 **Initial Attributes**
 
-Str - 18
-Dex - 14/12
-Con - 14
-Int - 10
-Wis - 8/10
-Cha - 8
+* Str - 18
+* Dex - 14/12
+* Con - 14
+* Int - 10
+* Wis - 8/10
+* Cha - 8
 
 **Initial Skills**
 
-Computer Use - 4
-Stealth - 1
-Treat Injury - 4
-Save 2 skill points
+* Computer Use - 4
+* Stealth - 1
+* Treat Injury - 4
+* Save 2 skill points
 
 **Initial Feat** - Weapon Focus: Melee Weapons
 
@@ -48,13 +62,13 @@ Treat Injury (TI) will be our main skill, with Persuade the secondary skill; how
 
 We choose Weapon Focus: Melee Weapons for the attack boost on Taris; we pick it over Two-Weapon Fighting because Weapon Focus takes longer to select, so at level 2 it's faster to pick Two-Weapon Fighting.  Since character creation isn't timed, this is optimal.
 
-[big]***Leveling Plan***[/big]
+### Leveling Plan
 
-https://i.imgur.com/TXzJ0hy.png
+![A chart detailing what skills, powers, and feats to select at each level](https://i.imgur.com/TXzJ0hy.png)
 
 Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flurry, and Knight Speed, using Bastila's Double-bladed Lightsaber as our main weapon.  This gives us multiple attacks that will deal as much damage as possible; we need as many attacks as we can get, since our chance to hit will be relatively low.  Other notes:
 
-**Skill notes:** 
+**Skill Notes:** 
 - Putting the point into Stealth at the start causes our initial footlocker to contain a Stealth Field Generator, which sells for 40 extra credits.  This is necessary to guarantee enough credits to buy the stims and computer spikes we want when we reach Taris.
 - We need Persuade for five conversations:
 1. We must Persuade Juhani in order to redeem her.
@@ -65,12 +79,12 @@ Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flu
 The Yuthura Persuade check is the only one that we could fail with our build; it's a hard Persuade check done at level 7, so the 10 net Persuade we have gives us a 75% chance to pass the check.  It's a big time loss to fail it, so a safety save is recommended for nearly all runners.  After getting 10 in Treat Injury, we put the rest into Persuade so that we can pass a Persuade check with Bastila at the end to spare her.
 - Aside from the four points in Computer Use at the start, every other spare point is put into Treat Injury to make our medpac use more efficient.
 
-**Feat notes:**
+**Feat Notes:**
 - Empathy is chosen since there aren't other good feats at level 3, and it gives +1 to TI and +1 to Persuade, two of our main skills.  This and 10 Persuade also gives us a guaranteed pass for every Persuade check except Yuthura (see above).
 - Implant Level 2 is automatically granted at level 4, and is used to equip the Nerve Enhancement Package for Immunity: Mind-Affecting.
 - Flurry and Two-Weapon Fighting are our main combat core.
 
-**Force Power notes:**
+**Force Power Notes:**
 - Force Speed is the most important power, giving double movement speed.  With no Save Teleports, this is an essential power for the run.  Knight Speed also grants +1 attack per round, which is highly important due to our relatively low chance to hit.
 - Force Valor is used once on Korriban to increase chances of a successful Persuade.  This also boosts stats and saving throws for sections of the Star Forge.
 - Affect/Dominate Mind is used in the following places:
@@ -81,7 +95,7 @@ The Yuthura Persuade check is the only one that we could fail with our build; it
 - Force Resistance is used to add a little extra protection for the fights on the Star Forge and the fight against Bastila on Lehon.  It's the only way to protect against certain effects, particularly the slow effect of a saved Stasis.
 - Drain Life is used to drain the Corrupted Jedi during the final Malak fight, which not only denies them to Malak but also heals you fully.
 
-[section=Equipment Plan]
+## Equipment Plan
 
 *Implant: Nerve Enhancement Package*
 Bought on Taris from Zelka Forn (500 Credits)
@@ -113,7 +127,7 @@ Found on Taris, Sith Governor's corpse
 
 All of our equipment should be equipped by the time we leave Dantooine, with the exception of the lightsaber crystals.  We'll also use the Combat Suit and various vibroblades while on Taris.
 
-[section=Credits Route]
+## Credit Route
 
 The new route has a very streamlined credit route, since we no longer need 8500 credits for the CNS Strength Enhancer.  Because of this, we make do with only 4 shopping trips during the run; there is a backup shopping trim if you're short on stims as well.  Our shopping is as follows:
 
@@ -138,15 +152,15 @@ Buy: All Hyper Stims (500 Credits total)
 
 We get most of our credits for the Korriban shopping trip from selling the Cardio Power System that we get as reward for completing "Mission for the Republic" for Roland Wann on Manaan.  The rest comes from selling the items we've accumulated up to that point; we loot one or two optional things to get enough credits for all the medpacs and stims we need.
 
-[section=Alignment Route]
+## Alignment Route
 
 Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher numbers are Light, lower numbers are dark.  Shifts in alignment are determined by a matrix; every alignment-shifting action is classified as Light or Dark, and then assigned a level (either Low, Mid, or High).  The player character (Revan) can either be aligned as Very Dark, Dark, Neutral, Light, or Very Light.  The more opposed your alignment and the action's classification, the more drastic your shift in alignment; for example, a Light-aligned character performing a High Dark action will have a large shift, while a Dark character performing a High Dark action will have a smaller shift.
 
 Here is the alignment route used in the run:
 
-https://i.imgur.com/HqdJBBd.png
+[!A chart showing all alignment shifts during the run](https://i.imgur.com/HqdJBBd.png)
 
-¤¤Snitching on Kel Algwinn is for some reason hardcoded to always give -5 alignment; similarly, rescuing the hopefuls from Shaardan is hardcoded to give +3 alignment.
+*Snitching on Kel Algwinn is for some reason hardcoded to always give -5 alignment; similarly, rescuing the hopefuls from Shaardan is hardcoded to give +3 alignment.*
 
 There are two important points in this route:
 1. We must be at 60 alignment or higher (the boundary between Neutral and Light) in order to equip any Light Side restricted equipment.  The Solari crystal is Light Side restricted, as well as being ridiculously good.  So we need to be at 60 alignment by the time we place the Solari Crystal (after Korriban) and stay there in order to keep our lightsaber equipped.
@@ -157,7 +171,7 @@ These two points combined mean we want to do mostly light side actions. Hence ea
 - Threatening Janice Nall to get T3 saves 2000 credits; otherwise we'd have to go out of our way to get them, wasting at least 30 seconds.
 - Snitching on Kel Algwinn is part of the fastest way to gain the 5 necessary Prestige points on Korriban, and saves at least a minute over the next fastest option.
 
-[section=Route Overview]
+## Route Overview
 
 The order in which we visit planets is as follows:
 
@@ -169,7 +183,7 @@ The reasoning for the middle planets:
 - Kashyyyk is done last because you can skip the Star Map computer's quiz if your identity has already been revealed.  We also don't need Jolee for the Leviathan rescue, since Canderous is fast enough.
 - This leaves Tatooine as the third planet; this generally works out, as you can usually earn enough XP to have level 9 and Knight Speed leaving Korriban, making the fights with the Sand People quicker.
 
-[section=Detailed Route]
+## Detailed Route
 
 This section will describe all the actions you'll need to take for the Glitchless Any% run.
 
@@ -186,7 +200,11 @@ A ¤ indicates a variable answer, such as in reciting the Sith Code.
 A #¤ indicates a Persuade check that may fail.
 A #xY indicates repeat that option Y times, as in Gadon Thek's first conversation.
 
-[section=Endar Spire]
+**Jump to a Section:**
+- [Endar Spire](#endar-spire)
+- [Taris 1](#taris-1)
+
+## Endar Spire
 
 **Character Creation:**
 > Male/Female Scout - Custom Character
@@ -223,7 +241,7 @@ Loot Sith Commander for Prototype Vibroblade
 Carth talks to you
 Take Escape Pod to Taris
 
-[section=Taris 1]
+## Taris 1
 
 *Note on Alacrity: We want Adrenal Alacrity to be active on the MC for as much of Taris as possible.  The route obtains 8 Alacrities, and we want to save 3 for after Taris.  This leaves 5 for use on Taris; 6 can be used if absolutely necessary, but that requires tweaks later.  Try to duration glitch Alacrity somewhere on Taris, and otherwise use Alacrity as needed!*
 
@@ -957,7 +975,7 @@ Darth Malak fight:
 - Use Drain Life to release the remaining seven Dead Jedi
 - Kill Malak once and for all
 
-[section=Version History]
+## Version History
 
 **v6.0 (August 2021)**
 - New route that skips the CNS Strength Enhancer
