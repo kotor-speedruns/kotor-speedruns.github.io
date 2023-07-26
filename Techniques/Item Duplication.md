@@ -3,6 +3,8 @@
 **Table of Contents**
 - [Description](#description)
 - [Single Item Duplication](#single-item-duplication)
+  - [Animation Duping](#animation-duping)
+  - [Menu Duping](#menu-duping)
 - [Full Inventory Duplication](#full-inventory-duplication)
   - [Via Galaxy Map](#via-galaxy-map)
   - [Via Anywhere Menu Glitch](#via-anywhere-menu-glitch)
@@ -16,7 +18,11 @@ Item Duplication refers to any method of creating a copy of one or more inventor
 
 ## Single Item Duplication
 
-Single Item Duplication is used to duplicate an equippable item such as a blaster or other piece of equipment.  You will also need an item or items that create a character animation, such as a stimulant, medpac, or energy shield.  To perform a Single Item Duplication:
+Single Item Duplication is used to duplicate an equippable item such as a blaster or other piece of equipment.  There are two methods to perform this.  
+
+### Animation Duping
+
+For this method, you will need an item or items that create a character animation, such as a stimulant, medpac, or energy shield.  To perform the dupe:
 
 1. Add as many party members as copies you want of the item in question.  These party members must be able to equip the item to be duplicated.
 2. Use an animation item on all party members except one.
@@ -29,6 +35,26 @@ Single Item Duplication is used to duplicate an equippable item such as a blaste
 [![Watch the video](https://img.youtube.com/vi/O8SVacA62FU/maxresdefault.jpg)](https://youtu.be/O8SVacA62FU)
 
 When using multiple party members, it is often wise to activate Solo Mode to prevent party members from adjusting their position and breaking the animation.  Only one item can be duped at a time with this method, and the game favors the last slot equipped to.  While any animation item can be used, energy shields are objectively the most economic choice, as they themselves can be duped.
+
+### Menu Duping
+
+For this method, you need one party member with the item to be duped equipped, and a second party member with no item equipped in the corresponding spot.  To perform the dupe:
+
+1. Open the Equipment Menu with the party member that has the item equipped.
+2. Select the slot with the item and highlight "None", but do not select it.
+3. Press the hotkeys for Previous Menu, then Next Menu (Q and E by default).
+4. Swap to your other party member.
+5. Select the slot that the duped item equips to and highlight the item to be duped, but do not select it.
+6. Press the hotkeys for Previous Menu, then Next Menu.
+7. Swap back to your original party member.
+8. Select the slot that the duped item equips to, then press escape.
+9. Exit the menu and Quick Save, then Quick Load to make the duplication permanent.
+
+*Video forthcoming*
+
+This method is useful as it does not require any animation item, but it is also a more difficult menu.  This method only dupes one copy of the item, but it can then be repeated as many times as desired.
+
+This method of duping is the first step in the Damage Stacking glitch, used in All Quests NMG.
 
 ## Full Inventory Duplication
 
