@@ -197,6 +197,8 @@ Conversation Notes:
 - [Taris 1](#taris-1)
 - [Taris 2](#taris-2)
 - [Dantooine](#dantooine)
+- [Manaan](#manaan)
+- [Korriban](#korriban)
 
 ## Endar Spire
 
@@ -463,140 +465,149 @@ SHOPPING: Zelka Forn
 
 ## Dantooine
 
-**Jedi Enclave:**
-} Use Adrenal Alacrity if you have 3 or more
-Follow Bastila to Jedi Council
-Belaya accosts you
-Speak with the Council
-Watch the dream cutscene
-} Use Adrenal Alacrity if you have 2 or more
-Speak with the Council again
-Go get a sandwich during the training montage
-Talk to Master Zhar twice: 1,1 | 1,1,6,3,2,6,4
-Talk to Master Dorak to become a Jedi Guardian
-> Level to 5: Save Skills, Improved Two-Weapon, Force Speed and Force Valor
-> Level to 6: Persuade to 9, TI to 8, Affect Mind
-Talk to Master Zhar twice
-} Equip Strength Gauntlets, Adrenaline Amplifier and Double-bladed Lightsaber
-Talk to droid and exit enclave
-- Cast Force Speed as you exit for Duration Glitch
+### Jedi Enclave
 
-**Dantooine Savannah:**
-Jon accosts you
-Run/Force Jump to eastern entrance to Matale Grounds
-Run through Matale Grounds to Grove
-} Use Adrenal Strength and Cast Force Valor
-Juhani fight: 
-- Do one attack, then loot the Mandalorian inside the structure for Battle Stimulants
-} Use Battle Stimulant
-- Using Flurry is best saved for after Juhani uses Flurry when her defense is lower; otherwise try to use Basic Attacks
-Talk to Juhani to redeem her
-Return to Ebon Hawk
-Talk to Master Zhar, then Master Vandar
-Leave Bastila in party at first (you're forced to keep her)
-} Remove Bastila from party and Transit Back
-Loot Casus Sandral's corpse in Matale Grounds
-¤ As you approach the ruins, hug the right wall to skip a short CS
-Enter the Ruins
+- *Stims: Adrenal Alacrity on MC ONLY if you have 3 or more*
+- Follow Bastila to Jedi Council
+- Belaya accosts you
+- Speak with the Council
+- Watch the dream cutscene
+- Carth accosts you
+- *Party: No change when prompted*
+- *Stims: Adrenal Alacrity on MC ONLY if you have 2 or more*
+- Speak with the Council again
+- Go get a sandwich during the training montage
+- Talk to Master Zhar twice: 1,1 | 1,1,6,3,2,6,4
+- Talk to Master Dorak to become a Jedi Guardian
+- `Level to 5: Save Skills, Improved Two-Weapon, Burst of Speed and Force Valor`
+- `Level to 6: Persuade to 9, TI to 8, Affect Mind`
+- Talk to Master Zhar twice
+- *Equip MC: Strength Gauntlets, Adrenaline Amplifier and Double-bladed Lightsaber*
+- Talk to droid and exit enclave
+  - Cast Burst of Speed as you exit for Duration Glitch
 
-**Ancient Ruins:**
-When prompted inside, add T3 (along with Bastila)
-Rakatan Droid accosts you
-The party splits here; for efficient movement, intersperse these actions
-As MC:
-- Open right hand door
-- Force Jump to droid
-- Interact with console: 3,5,3,3,3,4
-As Bastila:
-- Cast Force Speed
-- Open left hand door
-- Interact with console: 3,5,3,1,1,3
-As T3:
-- Move towards center door
-- Once MC and Bastila have finished their consoles, approach middle door to open it
-- Deactivate Solo Mode and enter the Star Map room
-Loot Nemo's corpse
-Leave the ruins
-Remove Bastila and T3 from party and RtEH
+### Dantooine Savannah
 
-**Jedi Enclave:**
-Speak with the Council
-Transit Warp and board the Ebon Hawk
-) Upgrade Double Lightsaber (Add Sigil)
-} Equip Jedi Knight Robe, Verpine Headband
-Fly to Manaan
+- Jon accosts you
+- Run/Force Jump to eastern entrance to Matale Grounds
+- Run through Matale Grounds to Grove
+- *Stims/Force: Adrenal Strength on MC, Cast Force Valor*
+- Juhani fight:
+  - Do one attack, then loot the Mandalorian inside the structure for Battle Stimulants
+  - *Stims: Battle Stimulant on MC*
+  - If Juhani uses Flurry, use Flurry to exploit her defense drop
+  - Otherwise use Basic Attacks
+- Talk to Juhani to redeem her
+- Return to Ebon Hawk
+- Talk to Master Zhar, then Master Vandar
+- *Party: No change when prompted*
+- *Party: Remove Bastila*
+- Transit Back to Grove
+- Loot Casus Sandral's corpse in Matale Grounds
+- As you approach the ruins, hug the right wall to avoid a short CS
+- Enter the Ruins
 
-[section=Manaan]
+### Ancient Ruins
 
-**Ahto City:**
-Leave Ebon Hawk with T3
-- Bringing a party member skips a Selkath announcement when leaving the docking bay
-- Using T3 also avoids any interruptions for party dialogue
-Republic soldier conversation: 4
-Talk to first Selkath for shopping: 3
----------------------------------------------------------
-*SHOPPING: Selkath Merchant*
-**BUY:**
-- 2x Hyper-Adrenal Alacrity
-- 3x Hyper-Adrenal Strength
-End: ~12 Credits
----------------------------------------------------------
-Exit to West Central Ahto City
-Talk to Port Authority: 1, 2
-Run to East Central
-Talk to Roland Wann: 3, 1spam
-Return to the Ebon Hawk
-} Once out of the docking bay, remove T3 from your party
-Enter docking bay at end of hall and use shuttle to travel to Sith Base
+- *Party: Keep Bastila and add T3 when prompted*
+- Rakatan Droid accosts you
+- Activate Solo Mode
+- The party splits here; for efficient movement, intersperse these actions
+- As MC:
+  - Open right hand door
+  - Force Jump to droid
+  - Interact with console: 3,5,3,3,3,4
+- As Bastila:
+  - Cast Force Speed
+  - Open left hand door
+  - Interact with console: 3,5,3,1,1,3
+- As T3:
+  - Move towards center door
+  - Once MC and Bastila have finished their consoles, approach middle door to open it
+  - Deactivate Solo Mode and enter the Star Map room
+- Star Map: Dantooine
+- Loot Nemo's corpse
+- Leave the ruins
+- *Party: Remove Bastila and T3*
+- Return to Ebon Hawk
+- Speak with the Council
+- RtEH then Transit Back and board the Ebon Hawk
+- **Upgrade Double Lightsaber (Add Sigil)**
+- *Equip MC: Jedi Knight Robe, Verpine Headband*
+- Fly to Manaan
 
-**Sith Base:**
-Take right door
-Rude secretary sics the security on you
-Ignore them, take right door, left door, left door
-Loot droid for Data Module
-Exit the base back near security
-Get arrested and first trial: 1 | 1,1,1,1,1,3,1 | 1,1,1
-Run back to Republic Embassy
-Talk to Roland Wann
-} Use Battle Stimulant for a little extra Vitality/Attack
-Take submersible underwater
+## Manaan
 
-**Hrakert Rift:**
-Mercenary accosts you
-Take first two right turns, then go straight through several doors
-- Damage the first/second patrol droid with a Force Jump
-Get Environment Suit from floor
-Loot footlocker in next room for Sonic Emitter
-Before exiting to the underwater area:
-} Recast Force Speed (if you can)
-} Use Adrenal Alacrity
-Exit to underwater section
-Survivor accosts you and then doesn't survive
-Underwater walk (use Emitter to kill Firaxan sharks)
-- *When using the Emitter to kill Firaxan sharks, it is faster to go into the inventory menu, use the Sonic Emitter there, and exit the menu; this skips the animation of the Sonic Emitter*
-Reenter station through lefthand door
-Loot footlocker once back inside for Computer Spikes (+4; 4 Spikes)
-Speak with scientists through force field: 3 | 1spam
-Loot footlocker in corner for more Computer Spikes (+2; 6 Spikes)
-Exit to underwater section
-Hack kolto control: 1,2,4,2,5,4,5,2,5
-Star Map: Manaan
-Reenter station through righthand door
-> Level to 7: Persuade to 10, Improved Flurry, Dominate Mind
-Run/Force Jump to submersible
-- If you are able to kill one or more patrol droids, you have a good chance of getting Knight Speed before Tatooine.
-Mash Calo's conversation and Force Jump past him
-Return to surface in submersible
-Roland Wann accosts you
-Get arrested and trial: spam 1 for all
-- This tries to Force Persuade the judges, getting you banned from Manaan
-- It also puts you right in the Ebon Hawk's cockpit, ready to fly away
-- Manaan is a dumb planet anyway.  Stupid Selkath.
-Fly to Korriban
+### Ahto City
 
-[section=Korriban]
+- Leave Ebon Hawk; *Party: Add T3 when prompted*
+  - Bringing a party member skips a Selkath announcement when leaving the docking bay
+  - Using T3 also avoids any interruptions for party dialogue
+- Republic soldier conversation: 4
+- Talk to Selkath Merchant for shopping: 3
+```
+SHOPPING: Selkath Merchant
+- BUY:
+  - 2x Hyper-Adrenal Alacrity
+  - 3x Hyper-Adrenal Strength
+- End: ~12 Credits
+```
+- Exit to West Central Ahto City
+- Talk to Port Authority: 1, 2
+- Run to East Central
+- Talk to Roland Wann: 3, 1spam
+- Return to the Ebon Hawk
+- When in the hallway again, *Party: Remove T3*
+- Enter docking bay at end of hall and use shuttle to travel to Sith Base
 
-**Dreshdae:**
+### Sith Base
+- Take right door
+- Rude secretary sics the security on you
+- Ignore them, take right door, left door, left door
+- Loot droid for Data Module
+- Exit the base back near security
+- Get arrested and first trial: 1 | 1,1,1,1,1,3,1 | 1,1,1
+- Run through West Central to East Central
+- Talk to Roland Wann
+- *Stims: Battle Stimulant on MC for a little extra Vitality/Attack*
+- Take submersible underwater
+
+### Hrakert Rift
+
+- Mercenary accosts you
+- Take first two right turns, then go straight through several doors
+  - Damage the first and second patrol droids with a Force Jump
+- Get Environment Suit from floor
+- Loot footlocker in next room for Sonic Emitter
+- At the airlock:
+  - *Stims/Force: Burst of Speed, Adrenal Alacrity on MC*
+  - Exit to underwater section
+- Survivor accosts you and then doesn't survive
+- Underwater walk (use Emitter to kill Firaxan sharks)
+  - ***When using the Emitter to kill Firaxan sharks, it is faster to go into the inventory menu, use the Sonic Emitter there, and exit the menu; this skips the animation of the Sonic Emitter***
+- Reenter station through lefthand door
+- Loot footlocker once back inside for Computer Spikes (+4; 4 Spikes)
+- Speak with scientists through force field: 3 | 1spam
+- Loot footlocker in corner for more Computer Spikes (+2; 6 Spikes)
+- Exit to underwater section
+- Hack kolto control: 1,2,4,2,5,4,5,2,5
+- Star Map: Manaan
+- Reenter station through righthand door
+- `Level to 7: Persuade to 10, Improved Flurry, Dominate Mind`
+- Run/Force Jump to submersible
+  - Try to kill one or more patrol droids; this gives you a good chance of getting Knight Speed before Tatooine
+- Mash Calo's conversation and Force Jump past him
+- Return to surface in submersible
+- Roland Wann accosts you
+- Get arrested and trial: Spam 1
+  - This tries to Force Persuade the judges, getting you banned from Manaan
+  - It also puts you right in the Ebon Hawk's cockpit, ready to fly away
+  - Manaan is a dumb planet anyway.  Stupid Selkath.
+- Fly to Korriban
+
+## Korriban
+
+### Dreshdae
 Port Authority accosts you: 2,2,3,2
 Intervene with Shaardan: 1,1,1 (+7 LSP; 61, Light-aligned)
 Lashowe accosts you
