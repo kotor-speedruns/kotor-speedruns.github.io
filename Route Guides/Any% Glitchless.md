@@ -71,13 +71,12 @@ Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flu
 **Skill Notes:** 
 - Putting the point into Stealth at the start causes our initial footlocker to contain a Stealth Field Generator, which sells for 40 extra credits.  This is necessary to guarantee enough credits to buy the stims and computer spikes we want when we reach Taris.
 - We need Persuade for five conversations:
-1. We must Persuade Juhani in order to redeem her.
-2. We must Persuade Shaardan to spare the hopefuls.
-3. We must Persuade Yuthura to allow us to enter the academy.
-4. We must Persuade Kel Algwinn to disclose his doubts to us.
-5. We Persuade Bastila to return to the light side on the Star Forge.
-
-The Yuthura Persuade check is the only one that we could fail with our build; it's a hard Persuade check done at level 7, so the 10 net Persuade we have gives us a 75% chance to pass the check.  It's a big time loss to fail it, so a safety save is recommended for nearly all runners.  After getting 10 in Treat Injury, we put the rest into Persuade so that we can pass a Persuade check with Bastila at the end to spare her.
+  1. We must Persuade Juhani in order to redeem her.
+  2. We must Persuade Shaardan to spare the hopefuls.
+  3. We must Persuade Yuthura to allow us to enter the academy.
+  4. We must Persuade Kel Algwinn to disclose his doubts to us.
+  5. We Persuade Bastila to return to the light side on the Star Forge.
+- The Yuthura Persuade check is the only one that we could fail with our build; it's a hard Persuade check done at level 7, so the 10 net Persuade we have gives us a 75% chance to pass the check.  It's a big time loss to fail it, so a safety save is recommended for nearly all runners.  After getting 10 in Treat Injury, we put the rest into Persuade so that we can pass a Persuade check with Bastila at the end to spare her, which is slightly faster.
 - Aside from the four points in Computer Use at the start, every other spare point is put into Treat Injury to make our medpac use more efficient.
 
 **Feat Notes:**
@@ -89,9 +88,9 @@ The Yuthura Persuade check is the only one that we could fail with our build; it
 - Force Speed is the most important power, giving double movement speed.  With no Save Teleports, this is an essential power for the run.  Knight Speed also grants +1 attack per round, which is highly important due to our relatively low chance to hit.
 - Force Valor is used once on Korriban to increase chances of a successful Persuade.  This also boosts stats and saving throws for sections of the Star Forge.
 - Affect/Dominate Mind is used in the following places:
-1. Affect Mind lets us enter Manaan and Tatooine without paying the 100 credit docking fee; this is important, since we will spend all of our credits before reaching that point.
-2. Dominate Mind is required for a Force Persuade option on Lashowe.  Male characters can instead opt for the easier flirtatious Persuade option, but that requires 10 Charisma, and so you'd have to tweak your attributes or just use Force Valor.
-3. Dominate Mind is used in the Upper Shadowlands to convince the guards to tell you the codes to the sonic emitters.  There is a normal Persuade option that can be passed with 10 Charisma, but it's simpler to Force Persuade, since we have Dominate Mind anyway.
+  1. Affect Mind lets us enter Manaan and Tatooine without paying the 100 credit docking fee; this is important, since we will spend all of our credits before reaching that point.
+  2. Dominate Mind is required for a Force Persuade option on Lashowe.  Male characters can instead opt for the easier flirtatious Persuade option, but that requires 10 Charisma, and so you'd have to tweak your attributes or just use Force Valor.
+  3. Dominate Mind is used in the Upper Shadowlands to convince the guards to tell you the codes to the sonic emitters.  There is a normal Persuade option that can be passed with 10 Charisma, but it's simpler to Force Persuade, since we have Dominate Mind anyway.
 - Energy Resistance is not particularly useful, but there aren't any worthwhile Force Powers to get at level 8.  Energy Resistance keeps our menus mostly uncluttered.
 - Force Resistance is used to add a little extra protection for the fights on the Star Forge and the fight against Bastila on Lehon.  It's the only way to protect against certain effects, particularly the slow effect of a saved Stasis.
 - Drain Life is used to drain the Corrupted Jedi during the final Malak fight, which not only denies them to Malak but also heals you fully.
