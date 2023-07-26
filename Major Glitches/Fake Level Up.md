@@ -48,7 +48,7 @@ When starting a FLU, there is an important difference between starting on an att
 
 All FLUs in speedruns begin with an [Anywhere Menu Glitch](<Anywhere Menu Glitch>) (AMG), usually performed with a Quick Save.  After the [AMG](<Anywhere Menu Glitch>), open the Character Screen.  You should see the following: 
 
-https://i.imgur.com/HV0zdA3.png
+![Image showing the Quit Game pop-up overlaid on the Character Menu screen](https://i.imgur.com/HV0zdA3.png)
 
 If you have the Quit dialog overlaid on top of the Character Screen with a Level Up ready, you are now ready to Fake Level Up.
 
