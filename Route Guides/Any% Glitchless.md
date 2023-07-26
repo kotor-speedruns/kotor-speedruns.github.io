@@ -989,7 +989,7 @@ SHOPPING: Eli Gand
 - Hack computer terminal: 1,1,5
 - Return (with Force Jumps) to take elevator to Command Center
 
-**Command Center:**
+### Command Center
 
 - Then we'll see if Revan can stand against the full fury of the Star Forge! *evil laugh*
 - Run/Force Jump until double doors
