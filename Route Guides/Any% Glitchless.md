@@ -195,6 +195,8 @@ Conversation Notes:
 **Jump to a Section:**
 - [Endar Spire](#endar-spire)
 - [Taris 1](#taris-1)
+- [Taris 2](#taris-2)
+- [Dantooine](#dantooine)
 
 ## Endar Spire
 
@@ -243,7 +245,7 @@ Conversation Notes:
 - Carth talks to you: 1,1,1,5,3
 - Loot footlocker (+2; 3 Spikes)
 - *Equip MC: Combat Suit, Prototype Vibroblade Mainhand, Vibroblade Offhand*
-- Exit the apartment (forced to bring Carth)
+- Exit the apartment; *Party: No change when prompted*
 - Use a frag grenade on the Sith Commander (may have to Flurry him too)
 - Loot the backpack
 - Larrim accosts you: 1,2,4 (+2; 5 Spikes)
@@ -305,40 +307,40 @@ SHOPPING: Zelka Forn
 - Swap to MC and talk to Gadon Thek: 1x10,3,2
   - Spam through Zaerdra's interruption before
 - Run MC close enough to Carth, then swap and exit to Lower City
-- Remove Carth from party
+- *Party: Remove Carth*
 - Watch Canderous cutscene
 - Enter the Undercity (spam through Sith soldier's interruption)
 
 ### Undercity
 - Beggars accost you: 1,1 | 1,4 (+2 LSP; 56)
 - `Level to 3: TI to 6, Empathy`
-- Add Carth to party
+- *Party: Add Carth*
 - Exit the gate and kill the rakghoul
   - MC should use Flurry
   - Carth uses Power Blast from close range
-- Mission joins the party
+- Mission accosts you
+- *Party: No change when prompted*
 - Enter the Lower Sewers
 
 ### Sewers
 
 - Activate Solo Mode and place Mission next to ladder
-- Free Zaalbar and add him to party when prompted
+- Free Zaalbar
+- *Party: Add Zaalbar when prompted*
   - He'll distract the Gamorreans from attacking MC
-- *Equip MC: Mission's Vibroblade Offhand*
-- *Equip Zaalbar: Vibroblade in both hands*
+- *Equip Zaalbar: Mission's Vibroblade Mainhand, Vibroblade Offhand*
 - Bash open footlocker in next room with MC
-- Switch to Mission and leave by ladder
-- Remove Zaalbar from party and reenter sewers
-- Activate Solo Mode
+- Switch to Mission and leave by ladder, then reenter sewers
 - Deactivate Force Field and enter the Upper Sewers
-- Remove Mission from party
+- *Party: Remove Mission and Zaalbar*
 - Run through left tunnel first, then right tunnel
 - Loot the pile of bones in the rancor room (+1; 6 Spikes)
 - Juke past the rancor and enter the Vulkar Base
   - Try to run always at a 90 degree angle from the rancor's pursuit
   - You probably want to manually safety save before trying this trick
 
-**Vulkar Base:**
+### Vulkar Base
+
 - Turn right and ignore patrol droid
 - Defense turret skip
   - Open door to elevator area
@@ -383,81 +385,83 @@ SHOPPING: Zelka Forn
 
 ### Upper City
 
-Carth/Bastila talk to you: 1,1,1,1 | 2
-} Add Bastila when exiting the apartment
-Twi'lek accosts you
-Transit Back to Javyar's Cantina
-Activate Solo Mode
-Run into the cantina until Canderous accosts you
-Swap to Bastila
-> Level MC to 4: Str to 19, TI to 7
-> Level Bastila to 4: Dex to 19, Save Skills, Burst of Speed
-} Equip Nerve Enhancement Package to MC
-Exit the cantina
-*In this section, use Bastila with Burst of Speed for faster movement*
-Enter Upper City North
-Activate Solo Mode to leave MC at elevator
-Go to Droid Shop
-Talk to Janice Nall: 2,2,1 (-4 DSP; 52)
-} Add T3 to party
-Deactivate Solo Mode
-Swap to Bastila and click on elevator
-- Mash conversation
-- This warps all party members to the elevator
-Unlock Sith Base with T3
-} Swap Bastila for Zaalbar
-} Adrenal Strength on MC and Zaalbar
-Enter Sith Base
+- Carth/Bastila talk to you: 1,1,1,1 | 2
+- Exit apartment; *Party: Add Bastila when prompted*
+- Twi'lek accosts you
+- Transit Back to Javyar's Cantina
+- Activate Solo Mode
+- Run into the cantina until Canderous accosts you
+- `Level MC to 4: Str to 19, TI to 7`
+- `Level Bastila to 4: Cha to 16, Save Skills, Burst of Speed`
+- *Equip MC: Nerve Enhancement Package*
+- *In Options -> Gameplay, turn Auto-Level ON so party members will automatically level*
+- Exit the cantina with Bastila
+- ***Whenever possible, use Bastila with Burst of Speed for faster movement***
+- Enter Upper City North
+- Activate Solo Mode to leave MC at elevator
+- Run with Bastila to Droid Shop
+- Talk to Janice Nall: 2,2,1 (-4 DSP; 52)
+- *Party: Add T3 when prompted*
+- Deactivate Solo Mode
+- Swap to Bastila and click on elevator
+  - Mash conversation
+  - This warps all party members to the elevator
+- Unlock Sith Base with T3
+- *Party: Remove Bastila, Add Zaalbar*
+- *Stims: Adrenal Strength on MC and Zaalbar*
+- Enter Sith Base
 
-**Sith Base:**
-Secretary accosts you: 2,1
-Activate Solo Mode
-As MC, click on door at far end of first hallway
-As T3, hack the desk console to kill Sith soldiers: 1,1,2,2,2,8,3 (-3; 5 Spikes)
-Deactivate Solo Mode
-Kill two patrol droids near force cages
-Rescue the Duros by hitting the first, third, and fifth wall switches (+2 LSP; 54)
-Kill patrol droid in next hallway
-Loot footlocker in barracks for Sith passcard
-Open door to Assault Droid fight:
-- Use Concussion Grenade on Assault Droid with whoever opened the door
-- MC: Flurry
-- Zaalbar: Improved Power Strike
-- T3: Use Shield Disruptor on blaster turrets; 2 hits are enough to kill one turret
-Enter the elevator
-> Auto-Level T3/Zaalbar to heal if needed
-Sith Governor fight:
-- MC: Poison Grenade, then Flurry
-- T3: Stun Ray x4
-- Zaalbar: Sonic Grenade, then Improved Power Strike
-- Once Sith Governor is stunned, you can switch T3 to Shield Disruptors if you need extra damage to kill him.
-Loot both strongboxes and Sith Governor's corpse for Launch Codes (+500 Credits; +3 Spikes; 8 Spikes total)
-Exit the Sith Base
+### Sith Base
 
-**Leaving Taris:**
-} Remove Zaalbar and T3, add Bastila
-Move with Bastila (and Force Speed) to Lower City Elevator and open door
-} Remove Bastila
-Enter the Lower City, then enter Javyar's Cantina 
-Talk to Canderous: 2
-Add T3 to party when prompted
-Cool cutscenes
-Take door on right and door immediately on left
-Once in room with guards, switch to T3
-Hack security terminal with T3: 1,2,2,4,3 (-8; 0 Spikes)
-Switch back to MC and enter the hangar
-Calo/Davik fight:
-- This fight ends if we get Calo to <50% Vitality
-- MC/Canderous: Frag Grenade x2 on Calo
-- T3: Shield Disruptor x2 on Calo 
-- This fight is guaranteed to finish in 2 rounds
-Loot Davik's corpse for mad credits
-} Equip Clothes to MC (or unequip Combat Suit)
-Board the Ebon Hawk
-Watch cool cutscenes
-Destroy the Sith fighters
+- Secretary accosts you: 2,1
+- Activate Solo Mode
+- As MC, click on door at far end of first hallway
+- As T3, hack the desk console to kill Sith soldiers: 1,1,2,2,2,8,3 (-3; 5 Spikes)
+- Deactivate Solo Mode
+- Kill two patrol droids near force cages
+- Rescue the Duros by hitting the first, third, and fifth wall switches (+2 LSP; 54)
+- Kill patrol droid in next hallway
+- Loot footlocker in barracks for Sith passcard
+- Open door to Assault Droid fight:
+  - Use Concussion Grenade on Assault Droid with whoever opened the door
+  - MC: Flurry on Assault Droid
+  - Zaalbar: Improved Power Strike on Assault Droid
+  - T3: Use Shield Disruptor on blaster turrets; 2 hits are enough to kill one turret
+- Enter the elevator
+- Sith Governor fight:
+  - MC: Poison Grenade, then Flurry
+  - T3: Stun Ray x4
+  - Zaalbar: Sonic Grenade, then Improved Power Strike
+  - Make sure T3 keeps up with the Stun Ray until the Governor is stunned
+  - Once the Governor is stunned, T3 can use Shield Disruptors if you need extra damage to kill him
+- Loot both strongboxes and Sith Governor's corpse for Launch Codes (+500 Credits; +3 Spikes; 8 Spikes total)
+- Exit the Sith Base
 
-[section=Dantooine]
+### Leaving Taris
+
+- *Party: Remove Zaalbar and T3, add Bastila*
+- Move with Bastila (and Burst of Speed) to Lower City Elevator and open door
+- *Party: Remove Bastila*
+- Enter the Lower City, then enter Javyar's Cantina 
+- Talk to Canderous: 2
+- *Party: Add T3 when prompted*
+- Cool cutscenes
+- Take door on right and door immediately on left
+- Once in room with guards, switch to T3
+- Hack security terminal with T3: 1,2,2,4,3 (-8; 0 Spikes)
+- Switch back to MC and enter the hangar
+- Calo/Davik fight:
+  - This fight ends if we get Calo to <50% Vitality
+  - MC/Canderous: Frag Grenade x2 on Calo
+  - T3: Shield Disruptor x2 on Calo 
+  - This fight is guaranteed to finish in 2 rounds
+- Loot Davik's corpse for mad credits
+- *Equip MC: Clothes or Nothing*
+- Board the Ebon Hawk
+- Watch cool cutscenes
+- Destroy the Sith fighters
+
+## Dantooine
 
 **Jedi Enclave:**
 } Use Adrenal Alacrity if you have 3 or more
