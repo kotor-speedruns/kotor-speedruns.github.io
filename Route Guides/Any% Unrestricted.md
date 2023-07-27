@@ -1,47 +1,80 @@
-[center]**[big][big]Star Wars: Knights of the Old Republic[/big]
+# Any% Guide v9.7: Male/Female Scoundrel Route
 
-Any% Guide v9.7: Male/Female Scoundrel Route [/big]**[/center]
+*Written by [Lane](https://www.speedrun.com/users/Lane) and [indykenobi](https://www.speedrun.com/users/indykenobi)*
 
-[small]*Written by @Lane and @indykenobi *[/small]
-
-This route defeats Malak on the Star Forge as fast as possible; Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to @glasnonck and @XeroHR (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the character build and detailed route for the run.
+This route defeats Malak on the Star Forge as fast as possible; Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the character build and detailed route for the run.
 
 Finally, if you have additional questions, you can check out the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu). There's a bunch of friendly folks there willing to answer questions!
 
 **REMEMBER to show yourself restarting the game at the beginning of each attempt.**
 
-[section=Guide Organization]
+**Table of Contents**
+- [Guide Organization](#guide-organization)
+- [Route Overview](#route-overview)
+- [Character Build](#character-build)
+- [Detailed Route](#detailed-route)
+  - [Endar Spire](#endar-spire)
+    - [Starboard Section](#starboard-section)
+  - [Taris](#taris)
+      - [Apartments](#apartments)
+      - [Upper City South](#upper-city-south)
+      - [Upper City North](#upper-city-north)
+      - [Sith Base](#sith-base)
+      - [Lower City](#lower-city)
+      - [Bek Base](#bek-base)
+      - [Escaping Taris](#escaping-taris)
+  - [Dantooine](#dantooine)
+      - [Jedi Enclave](#jedi-enclave)
+      - [Courtyard](#courtyard)
+      - [Ancient Ruins](#ancient-ruins)
+      - [Leaving Dantooine](#leaving-dantooine)
+  - [Kashyyyk](#kashyyyk)
+      - [The Great Walkway](#the-great-walkway)
+      - [Upper Shadowlands](#upper-shadowlands)
+      - [Lower Shadowlands/**The Routine**](#lower-shadowlands)
+  - [Lehon](#lehon)
+      - [Reaching the Temple Summit](#reaching-the-temple-summit)
+      - [Confronting Bastila](#confronting-bastila)
+  - [Star Forge](#star-forge)
+      - [Deck 1](#deck-1)
+      - [Deck 2](#deck-2)
+      - [Command Deck](#command-deck)
+      - [Viewing Platform](#viewing-platform)
+- [Version History](#version-history)
+- [Closing](#closing)
+
+## Guide Organization
 
 Because of the power of the Unrestricted Ruleset, this run skips a huge amount of the game. Thus, things like alignment, credit/equipment routes, and even character build are either completely irrelevant or only briefly important. Thus, this guide is instead organized into two main sections that each cover all of the necessary details for the route.
 
-*1. Route Overview* - A general description of the speedrun route, highlighting key skips and glitches used.
+*1. Route Overview* - A general description of the speedrun route, highlighting key skips and glitches used.  
 *2. Detailed Route* - This section details the character build and route for the standard Scoundrel version of the speedrun, which uses a Skele FLU to obtain Sneak Attack IX and Improved Two-Weapon Fighting.
 
-[section=Route Overview]
+## Route Overview
 
 **Run Setup**
 
 The route uses the "Three Save Method", meaning the run will use the top three save slots in your game. These are typically labelled, in order, "Hotshot Current", "Teleport", "Fast Lane".
-- "Hotshot Current" stores the active save that we will be running with and [Hotshotting](iarwc) around with.
-- "Fast Lane" is used both as a Hotshot teleport location as well as a [Fast Lane](imbom) save.
+- "Hotshot Current" stores the active save that we will be running with and [Hotshotting](../Major%20Glitches/Hotshot) around with.
+- "Fast Lane" is used both as a Hotshot teleport location as well as a [Fast Lane](../Major%20Glitches/Fast%20Lane) save.
 - "Teleport" stores temporary locations that we will use to hotshot to in the future.
 
 *NOTE: Many runners have began to use the "No Save Method", where you start the game with no save slots, and simply create a new save at each point a hard save is needed. Both methods are valid*
 
 **Route Notation**
 
-> indicates a level up to be done
-} indicates an inventory/equipment action to be done
-MC - Stands for Main Character, your player character
-PC - Stands for any player controlled character (such as the MC or a party member)
-CS - Cutscene
-QS - Quick Save
-QL - Quick Load
-QS/QL - Quick Save then immediately Quick Load
-AMG - [Anywhere Menu Glitch](d4jq8)
-DLZ - [Displaced Load Zone](f0aia)
-FLU - [Fake Level Up](b6452)
-GP Warp - [Gather Party Warp](77xef)
+\> indicates a level up to be done  
+} indicates an inventory/equipment action to be done  
+MC - Stands for Main Character, your player character  
+PC - Stands for any player controlled character (such as the MC or a party member)  
+CS - Cutscene  
+QS - Quick Save  
+QL - Quick Load  
+QS/QL - Quick Save then immediately Quick Load  
+AMG - [Anywhere Menu Glitch](../Major%20Glitches/Anywhere%20Menu%20Glitch)  
+DLZ - [Displaced Load Zone](../Major%20Glitches/Displaced%20Load%20Zone)  
+FLU - [Fake Level Up](../Major%20Glitches/Fake%20Level%20Up)  
+GP Warp - [Gather Party Warp](../Techniques/GP%20Warp)  
 
 *Conversation Note: If no conversation choices are specified, spamming clicks, NumPad Enter, and/or 1 will all work (this chooses all 1 options)*
 
@@ -51,76 +84,76 @@ The brief outline of the route for the Any% run, including planet order and majo
 
 *1. Endar Spire*
 
-* [DLZ](f0aia#ch4Command_Deck_to_Starboard_Section) into the starboard section
+* [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#endar-spire-dlz) into the starboard section
 * Reach Taris
 
 *2. Taris*
 
-* (Scoundrel route) [Skele FLU](b6452) for Sneak attack 9 and Improved TWF
-* [Autosave Hothsot](iarwc) to upper city north
-* [DLZ](f0aia#ch5Upper_City_North_to_Sith_Base) into the Sith Base
+* (Scoundrel route) [Skele FLU](../Major%20Glitches/Fake%20Level%20Up) for Sneak attack 9 and Improved TWF
+* [Autosave Hothsot](../Major%20Glitches/Hotshot) to upper city north
+* [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#sith-base-dlz) into the Sith Base
 * Kill and loot the Sith Governor to obtain Taris Launch Codes
-* [Hotshot](iarwc) to Upper City North and [DLZ](f0aia#ch6Upper_City_North_to_Lower_City) to the Lower City 
-* [Door Clip](dyi4i) into the Vulkar Base door to [DLZ](f0aia#ch7Lower_City_to_Vulkar_Base) into the Vulkar Base
-* [DLZ](f0aia) into the Bek Base and either [DLZ](f0aia) or [GP Warp](77xef) to kill Gadon Thek
-* [Hotshot](iarwc) to Vulkar Base and use [AMG](d4jq8) to skip one swoop race
-* [Hotshot](iarwc) to Javyar's Cantina
-* Use [AMG](d4jq8) to steal the Ebon Hawk and escape Taris
+* [Hotshot](../Major%20Glitches/Hotshot) to Upper City North and [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#lower-city-dlz) to the Lower City
+* [Door Clip](../Major%20Glitches/Door%20Clipping) into the Vulkar Base door to [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#vulkar-base-dlz) into the Vulkar Base
+* [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#bek-base-dlz) into the Bek Base and either [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#gadon-dlz) or [GP Warp](../Techniques/GP%20Warp) to kill Gadon Thek
+* [Hotshot](../Major%20Glitches/Hotshot) to Vulkar Base and use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip one swoop race
+* [Hotshot](../Major%20Glitches/Hotshot) to Javyar's Cantina
+* Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to steal the Ebon Hawk and escape Taris
 
 *3. Dantooine*
 
-* [DLZ](f0aia#ch8Jedi_Enclave_to_Courtyard) to the Courtyard
-* [Door Clip](dyi4i) past the Ruins door and [DLZ](f0aia#ch9Courtyard_to_Ruins) into the Ruins
-* [DLZ](f0aia#ch10Ruins_Starmap) to get the Star Map
-* [Hotshot](iarwc) to return to the envclave
+* [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#enclave-dlz) to the Courtyard
+* [Door Clip](../Major%20Glitches/Door%20Clipping) past the Ruins door and [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#ruins-entry-dlz) into the Ruins
+* [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#ruins-star-map-dlz) to get the Star Map
+* [Hotshot](../Major%20Glitches/Hotshot) to return to the envclave
 
 *4. Kashyyyk*
 
-* [Hotshot](iarwc) and [GP Warp](77xef) to skip visiting the Wookiee Village
+* [Hotshot](../Major%20Glitches/Hotshot) and [GP Warp](../Techniques/GP%20Warp) to skip visiting the Wookiee Village
 * Recruit Jolee Bindo and reach the Lower Shadowlands
-* Do a sequence of [Fast Lanes](imbom), [Hotshots](iarwc), and [Routines](7wfpc) to obtain the Star Map four times
+* Do a sequence of [Fast Lanes](../Major%20Glitches/Fast%20Lane), [Hotshots](../Major%20Glitches/Hotshot), and [Routines](../Major%20Glitches/The%20Routine) to obtain the Star Map four times
 
 *5. Unknown Planet*
 
 * Use Fighter Skirmish skip to spawn on Lehon
-* [DLZ](f0aia#ch11Temple_Exterior_to_Temple_Interior) to enter the Ancient Temple
-* [DLZ](f0aia#ch12Temple_Interior_to_Temple_Roof) to reach the summit
-* Use [AMG](d4jq8) to skip the Bastila fight and fall to the Dark Side
-* Use a [Hotshot](iarwc) to skip repairing the Ebon Hawk 
+* [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#temple-entry-dlz) to enter the Ancient Temple
+* [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#temple-summit-dlz) to reach the summit
+* Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip the Bastila fight and fall to the Dark Side
+* Use a [Hotshot](../Major%20Glitches/Hotshot) to skip repairing the Ebon Hawk
 * Fly to the Star Forge
 
 *6. Star Forge*
 
-* [Hotshot](iarwc) to skip past Deck 1
-* [Hotshot](iarwc) to skip past Deck 2
-* [Hotshot](iarwc) to skip past Command Deck
-* Kill Darth Malak with Thermal Detonators and an [AMG](d4jq8)
+* [Hotshot](../Major%20Glitches/Hotshot) to skip past Deck 1
+* [Hotshot](../Major%20Glitches/Hotshot) to skip past Deck 2
+* [Hotshot](../Major%20Glitches/Hotshot) to skip past Command Deck
+* Kill Darth Malak with Thermal Detonators and an [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch)
 
 *Note that Kashyyyk is the only middle planet we actually visit.*
 
-[section=Character Build]
+## Character Build
 
-We begin as a Scoundrel; this guide as written can be completed as either a Male or Female character, with no time difference. However, Male PC has become the more common choice for [DLZ](f0aia) visual cues. Scoundrel is picked for its access to Sneak Attack IX, which is abused to quickly kill the Sith Governor and Gadon Thek.
+We begin as a Scoundrel; this guide as written can be completed as either a Male or Female character, with no time difference. However, Male PC has become the more common choice for [DLZ](../Major%20Glitches/Displaced%20Load%20Zone) visual cues. Scoundrel is picked for its access to Sneak Attack IX, which is abused to quickly kill the Sith Governor and Gadon Thek.
 
 **Character Creation: Initial Selections**
 
-Str - 8
-Dex - 16/18
-Con - 18/16
-Int - 8
-Wis - 10
-Cha - 10
+Str - 8  
+Dex - 16/18  
+Con - 18/16  
+Int - 8  
+Wis - 10  
+Cha - 10  
 
 *The choice between 16 DEX/18 CON and vice-versa comes down to personal preference of runner*
 
-Awareness - 4 (Optional)
+Awareness - 4 (Optional)  
 Security - 4
 
 Initial Feat: Two-Weapon Fighting
 
 **Leveling Plan:**
 
-*Level 2: [Skele FLU](b6452)*
+*Level 2: [Skele FLU](../Major%20Glitches/Fake%20Level%20Up)*
 
 Skele FLU from 2 to 17:
 - Improved Two-Weapon Fighting
@@ -134,24 +167,24 @@ Skele FLU from 2 to 17:
 - *Skills:* Security is the only skill necessary for the run, and is used for a skip on Endar Spire. Points in Awareness allow us to see some mines to avoid them, but it's not really necessary.
 - *Feats:* IMproved Two-Weapon Fighting and Sneak Attack IX allow us to take out Gadon and the Sith Governor in short-order. We use Sniper Shot as our main combat feat because it's the default combat feat for Scoundrels.
 
-[section=Detailed Route]
+## Detailed Route
 
 *Before beginning, disable VSync in Advanced Graphics Options if you are using the Rubble DLZ on Endar Spire. This makes the DLZ more consistent.*
 
-> Male/Female Scoundrel - Custom Character
-> Dex to 16/18, Con to 18/16, Wis to 10, Cha to 10
-> Awareness to 4, Security to 4
-> Initial Feat: Two-Weapon Fighting
-> Pick a good name!
-> Hit Play! (and be ready to [Hard Buffer](t5kyf#ch3Hard_Buffers)!)
+\> Male/Female Scoundrel - Custom Character  
+\> Dex to 16/18, Con to 18/16, Wis to 10, Cha to 10  
+\> Awareness to 4, Security to 4  
+\> Initial Feat: Two-Weapon Fighting  
+\> Pick a good name!  
+\> Hit Play! (and be ready to [Hard Buffer](../Techniques/Save%20Buffering)!)  
 
-[center][big]***----------------------------
-Endar Spire
-----------------------------***[/big][/center]
+#
+---------------------------------------------------------
+### **Endar Spire**
 
-**Endar Spire:**
-[Hard Buffer](t5kyf#ch3Hard_Buffers) to skip the intro CS
-[DLZ](f0aia#ch4Command_Deck_to_Starboard_Section) into the Starboard Section through one of the following two methods:
+[Hard Buffer](../Techniques/Save%20Buffering) to skip the intro CS  
+[DLZ](../Major%20Glitches/Displaced%20Load%20Zone#endar-spire-dlz) into the Starboard Section through one of the following two methods:
+
 ---------------------------------------------------------
 ***Method One: Rubble DLZ***
 *This strat is potentially 20 seconds faster, but the marginally DLZ is harder.*
@@ -169,458 +202,496 @@ Endar Spire
 - DLZ by walking into the right side of the door frame in the right spot
 ---------------------------------------------------------
 
-**Starboard Section:**
----------------------------------------------------------
-***Optional Strat: Plot Armor***
+#### **Starboard Section:**
+
+***Optional Strat: Plot Armor***  
 *This strat grants a minimum HP of 1 (called "Plot Armor" for short) for the rest of the run, but requires redoing the Spire DLZ and costs a minimum of 10 seconds (but likely more). The run can be done without it, but this strat provides a little safety if desired.*
 - Hotshot back to Command Module to activate Plot Armor:
-- - During (or after) the Carth CS, Hard Save to "Hotshot Current" slot
-- - Activate [AMG](d4jq8) via QL (This way your QS remains in the Command Module)
-- - Open Options, click "Exit Game", select both "OK" and "Save Game" simultaneously
-- - Navigate down once in the main menu, and click Load Game
-- - If the save name hasn't changed to "QUICKSAVE", click cancel, press up then down, and click Load Game again
-- - Once the save name changes to "QUICKSAVE", load that save. Plot Armor is now active.
-- [DLZ](f0aia#ch4Command_Deck_to_Starboard_Section) into the Starboard Section again, using whatever method you used above
+  - During (or after) the Carth CS, Hard Save to "Hotshot Current" slot
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QL (This way your QS remains in the Command Module)
+  - Open Options, click "Exit Game", select both "OK" and "Save Game" simultaneously
+  - Navigate down once in the main menu, and click Load Game
+  - If the save name hasn't changed to "QUICKSAVE", click cancel, press up then down, and click Load Game again
+  - Once the save name changes to "QUICKSAVE", load that save. Plot Armor is now active.
+  [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#endar-spire-dlz) into the Starboard Section again, using whatever method you used above  
+
 ---------------------------------------------------------
-***Otherwise:***
-[AMG](d4jq8) during the load-in for the Starboard Section
-Unpause/Cancel to begin moving to the next room while Carth narrates
-QS next to the footlocker and then default action to open the footlocker
+***Otherwise:***  
+[AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load-in for the Starboard Section
+Unpause/Cancel to begin moving to the next room while Carth narrates  
+QS next to the footlocker and then default action to open the footlocker  
+
 ---------------------------------------------------------
-Loot footlocker in Terminal Room 
-Hack terminal console: 2,3 
-Carth accosts you
-Take escape pod to Taris
-[AMG](d4jq8) while the dream CS loads
-Unpause, cancel, and hit free-look twice
-Hold down QS while this cutscene plays, which skips forward through the animation (This saves between 4-5 seconds)
+Loot footlocker in Terminal Room  
+Hack terminal console: 2,3  
+Carth accosts you  
+Take escape pod to Taris  
+[AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) while the dream CS loads  
+Unpause, cancel, and hit free-look twice  
+Hold down QS while this cutscene plays, which skips forward through the animation (This saves between 4-5 seconds)  
  
-[center][big]***----------------------------
-Taris
-----------------------------***[/big][/center]
+ ---------------------------------------------------------
+### **Taris**
 
-**Apartments:**
-Immediately after the load-in, press Up+Left to move the character closer to the door before the start of Carth's Cutscene
-Carth accosts you: 1,1,1,5,3
-If necessary, reenable VSync
-Exit the apartment (forced to bring Carth) 
-[Hard Buffer](t5kyf#ch3Hard_Buffers) to skip the Sith Raid 
-Use [AMG](d4jq8) to Skele FLU to level 17:
-- Use the Skele FLU to skip all levels up to 16.
-- Real Level 17: Save skills, Improved Two-Weapon Fighting
-- You are granted Sneak Attack IX after Level 17
-Larrim accosts you: 1,2,4
+#### **Apartments:**  
+Immediately after the load-in, press Up+Left to move the character closer to the door before the start of Carth's Cutscene  
+Carth accosts you: 1,1,1,5,3  
+If necessary, reenable VSync  
+Exit the apartment (forced to bring Carth)  
+[Hard Buffer](../Techniques/Save%20Buffering) to skip the Sith Raid  
+Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to Skele FLU to level 17:  
+- Use the Skele FLU to skip all levels up to 16.  
+- Real Level 17: Save skills, Improved Two-Weapon Fighting  
+- You are granted Sneak Attack IX after Level 17  
+Larrim accosts you: 1,2,4  
 ---------------------------------------------------------
-*SHOPPING: Larrim*
-**SELL:**
+*SHOPPING: Larrim*  
+**SELL:**  
 - Everything
-**BUY:**
-- Heavy Combat Suit (If no plot-armor)
-- Battle Stimulant
-End: 404 Credits (provided no additional items were spawned)
----------------------------------------------------------
-} Unequip Both Blasters from Carth
-} Equip Both Blasters and Heavy Combat Suit to MC
-Exit to Upper City South
 
-**Upper City South:**
-Turn left and run down the street
-Activate Solo Mode when you get close to the sculpture at the end
-With MC, click on Medical Clinic door
-Swap to Carth and click on door to Upper City North
-Swap back to MC and talk to Zelka: 5 
+**BUY:**  
+- Heavy Combat Suit (If no plot-armor)  
+- Battle Stimulant  
+
+**End:** 404 Credits (provided no additional items were spawned)  
+
+---------------------------------------------------------
+\} Unequip Both Blasters from Carth  
+\} Equip Both Blasters and Heavy Combat Suit to MC  
+Exit to Upper City South  
+
+#### **Upper City South:**  
+Turn left and run down the street  
+Activate Solo Mode when you get close to the sculpture at the end  
+With MC, click on Medical Clinic door  
+Swap to Carth and click on door to Upper City North  
+Swap back to MC and talk to Zelka: 5  
+
 ---------------------------------------------------------
 *SHOPPING: Zelka Forn*
-**BUY:** 
+**BUY:**
 - 7x Adrenal Alacrity
 - 1x Adrenal Stamina
 End: 4 Credits
 ---------------------------------------------------------
-} Use one of each stim on MC
-} Use an Alacrity on Carth 
-Use a [GP Warp](77xef) to warp MC to Carth
-- Swap to Carth
-- Activate [AMG](d4jq8) via QS
-- Enter the Upper City North loading zone
-- Cancel the quit dialog, swap to MC, and click the dialog option
+} Use one of each stim on MC  
+} Use an Alacrity on Carth  
+Use a [GP Warp](../Techniques/GP%20Warp) to warp MC to Carth  
+- Swap to Carth  
+- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS  
+- Enter the Upper City North loading zone  
+- Cancel the quit dialog, swap to MC, and click the dialog option  
+
 Go to Upper City North
-- Activate [AMG](d4jq8) on the load screen
+- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen
 
-**Upper City North:**
-Autosave [Hotshot](iarwc) to warp to elevator:
-- With quit dialog up, unpause and open the door to Upper City South behind you
-- Open the Options menu, then press enter with Load Game and Cancel selected
-- Unpause and navigate blindly through the door to Upper City South
-- After loading into Upper City South, select the Autosave and load it
-- This spawns your party next to the elevator leading to the Lower City
-} Remove Carth from Party
-Hard Save in "Fast Lane" slot
-[DLZ](f0aia#ch5Upper_City_North_to_Sith_Base) to enter the Sith Base
-- Deactivate VSync for this DLZ
+#### **Upper City North:**  
+Autosave [Hotshot](../Major%20Glitches/Hotshot) to warp to elevator:  
+- With quit dialog up, unpause and open the door to Upper City South behind you  
+- Open the Options menu, then press enter with Load Game and Cancel selected  
+- Unpause and navigate blindly through the door to Upper City South  
+- After loading into Upper City South, select the Autosave and load it  
+- This spawns your party next to the elevator leading to the Lower City  
 
-**Sith Base**
-Secretary accosts you: 2,1
-Reactivate VSync
-Run through Sith base to East Barracks (If no plot armor, avoid dying here)
-Loot footlocker for Sith passcard
-[Hard Buffer](t5kyf#ch3Hard_Buffers) to skip assault droid CS
-Enter Governor's Office
-[Wired Targeting](41875) to kill Governor
-- Open door, then buffer until you stand behind the Governor
-- Make sure you QS while standing next to him
-- Spam the conversation, then spam default attacks
-- QL to attack the non-hostile governor
-Loot the Governor for the Taris Launch Codes
-} **Unequip Blasters from MC** (This will cause them to dupe during the next hotshot)
-Hard Save in "Hotshot Current" slot
-[Hotshot](iarwc) to Upper City North using "Fast Lane" slot
+} Remove Carth from Party  
+Hard Save in "Fast Lane" slot  
+[DLZ](../Major%20Glitches/Displaced%20Load%20Zone#sith-base-dlz) to enter the Sith Base  
+- Deactivate VSync for this DLZ  
 
-**Lower City**
-} Add Carth to Party
-[DLZ](f0aia#ch6Upper_City_North_to_Lower_City) to Lower City
-- Deactivate VSync for this DLZ
-[AMG](d4jq8) while the lower city is loading
-Pop-up replace "Return to Hideout"
-Activate Solo Mode (this is important!)
-Click on Carth with MC and then run away with carth to activate [Conversation Queueing](n9hoc)
-- Activate AMG and use the map to bring up the Return to Hideout dialog
-- Skip this AMG if you're going to kill the Vulkar guards (see below)
-[Door Clip](dyi4i) and [DLZ](f0aia#ch7Lower_City_to_Vulkar_Base) to enter Vulkar Base:
-- As Carth, run into right corner of Vulkar Base door
-- While running forward, swap to MC; Carth should bump out from the corner
-- If MC is stuck, click on the door with MC to regain movement control
-- As MC, run into right corner and while running, swap to Carth
-- MC should be inside the door now; if not, repeat the above process until success
-- Make sure MC is out of combat, then QS/QL to activate the DLZ
-QS inside the Vulkar Base
-Exit Vulkar Base with Carth (NOTE: you *cannot* QS again until after the Bek Hotshot)
-Run with MC to where the walkway begins to curve
-Return to Hideout and Transit back
-Activate Solo Mode
-Click on Javyar's Cantina with MC
-[DLZ](f0aia#ch11Bek_Base_DLZ) into the Bek Base with Carth
+#### **Sith Base:**  
+Secretary accosts you: 2,1  
+Reactivate VSync  
+Run through Sith base to East Barracks (If no plot armor, avoid dying here)  
+Loot footlocker for Sith passcard  
+[Hard Buffer](../Techniques/Save%20Buffering) to skip assault droid CS  
+Enter Governor's Office  
+[Wired Targeting](../Techniques/Wired%20Targeting) to kill Governor  
+- Open door, then buffer until you stand behind the Governor  
+- Make sure you QS while standing next to him  
+- Spam the conversation, then spam default attacks  
+- QL to attack the non-hostile governor  
 
-**Bek Base**
-Enter Gadon's Office with a [DLZ](f0aia)
-- As Carth, [DLZ](f0aia) into Gadon's Office
-- Hit Esc (or options) to Reenable VSync once you load into Gadon's Office but before the conversation starts
-Kill Gadon:
-- As MC, Snipe Shot for Sneak Attack
-- As Carth, Power Blast
-- Note that Kaeira doesn't have to die
-As soon as Gadon is dead, Hard Save in "Hotshot Current" slot
-- Activate [AMG](d4jq8) on the save, then...
-Quick Save [Hotshot](iarwc) to Vulkar Base
+Loot the Governor for the Taris Launch Codes  
+} **Unequip Blasters from MC** (This will cause them to dupe during the next hotshot)  
+Hard Save in "Hotshot Current" slot  
+[Hotshot](../Major%20Glitches/Hotshot) to Upper City North using "Fast Lane" slot  
 
-**Escaping Taris**
-Kandon will accost you shortly after spawning in
-After loading into Swoop Platform, [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip the Ithorian convo
-Use [AMG](d4jq8) to skip a swoop race
-- Activate [AMG](d4jq8) via QS (or on the load-in from the previous buffer)
-- Speak to the race coordinator: 1
-- [Finish the race](i3ws7) with the quit dialog open
-- Don't shift into the final gear; doing so is actually slower by about a second
-- Press 1 and click to skip Ithorian dialog until Anglu comes running up 
-- Cancel the quit dialog and QS/QL to skip the CS
-- Talk to the Ithorian a second time to "Win" the second race
-After talking to the Ithorian the second time but BEFORE Brejik's convo, [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip the Brejik fight
-- Instead of loading the QS after buffering, Hard Save in "Hotshot Current" slot
-- Then [Hotshot](iarwc) to the Lower City using the Autosave
-- If you miss the buffer, mash through the Brejik cutscene until you regain control, then do the Hotshot
-Enter Javyar's Cantina
-Talk to Canderous: 1,1,1,2,1
-- Leave Canderous in your party, but be ready to do the next trick
-Use [AMG](d4jq8) to skip the Taris destruction CS via Free-Look
-- Activate [AMG](d4jq8) during the load after confirming your party
-- Unpause the game and cancel the quit dialog
-- Use the Free-Look hotkey twice to end the cutscene
-- Hold QS to fast-forward the animation
-Use [AMG](d4jq8) to skip Davik's Estate
-- Activate [AMG](d4jq8) during the load into Davik's Estate
-- Go through the conversation pressing 1 and left-click (don't use NumPad Enter!)
-- After choosing dialogue options 1,1, cancel the quit dialog and QS/QL
-} Equip the Vibrosword to MC (This is important for future AMG movement)
-Board the Ebon Hawk, then use a [Map CS Skip](rb685) to Return to Ebon Hawk
-- This skips the cutscenes between Taris and Dantooine, as well as the fighter skirmish 
+#### **Lower City:**  
+} Add Carth to Party  
+[DLZ](../Major%20Glitches/Displaced%20Load%20Zone#lower-city-dlz) to Lower City  
+- Deactivate VSync for this DLZ  
 
-[center][big]***----------------------------
-Dantooine
-----------------------------***[/big][/center]
+[AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) while the lower city is loading  
+Pop-up replace "Return to Hideout"  
+Activate Solo Mode (this is important!)  
+Click on Carth with MC and then run away with carth to activate [Conversation Queueing](../Techniques/Conversation%20Queue)  
+- Activate AMG and use the map to bring up the Return to Hideout dialog  
+- Skip this AMG if you're going to kill the Vulkar guards (see below)  
 
-**Jedi Enclave:**
-Use [Conversation Queueing](n9hoc) to skip Belaya's conversation
-- Run forward slightly and swap to Canderous
-- Talk to MC, then immediately swap to MC and run away, into the Enclave
-- This queues up a conversation between MC and Canderous, preventing other triggers from firing
-- It also helps Canderous follow you into the Enclave
-QS/QL in the atrium
-Hard Save in "Teleport" slot
-[DLZ](f0aia#ch8Jedi_Enclave_to_Courtyard) to the Courtyard (Atrium Left variant)
-- Deactivate VSync for this and the other Dantooine DLZs
-- Activate [AMG](d4jq8) on the load screen when this DLZ fires
-Note: There is a a decent amount of slack for how quickly you need to get this DLZ, as you will save an identical amount of time as long as you get the DLZ before NPC Bastila arrives at the council.
+[Door Clip](../Major%20Glitches/Door%20Clipping) and [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#vulkar-base-dlz) to enter Vulkar Base:  
+- As Carth, run into right corner of Vulkar Base door  
+- While running forward, swap to MC; Carth should bump out from the corner  
+- If MC is stuck, click on the door with MC to regain movement control  
+- As MC, run into right corner and while running, swap to Carth  
+- MC should be inside the door now; if not, repeat the above process until success  
+- Make sure MC is out of combat, then QS/QL to activate the DLZ  
 
-**Courtyard:**
-Use the [AMG](d4jq8) to bring up the Return to Ebon Hawk dialog while moving
-Set up [Conversation Queueing](n9hoc) between MC and Canderous
-- This skips a conversation with Jon and a Kath Hound spawning CS
-Run through the Courtyard and down the left path to the ruins entrance
-Use the Return to Ebon Hawk popup to [Door Clip](dyi4i) into the Ruins Entrance via slight angle clipping
-Once inside the entrance, use Canderous to [DLZ](f0aia#ch9Courtyard_to_Ruins) into the ruins
+QS inside the Vulkar Base  
+Exit Vulkar Base with Carth (NOTE: you *cannot* QS again until after the Bek Hotshot)  
+Run with MC to where the walkway begins to curve  
+Return to Hideout and Transit back  
+Activate Solo Mode  
+Click on Javyar's Cantina with MC  
+[DLZ](../Major%20Glitches/Displaced%20Load%20Zone#bek-base-dlz) into the Bek Base with Carth  
 
-**Ancient Ruins:**
-Confirm Bastila in the party when prompted
-[Hard Buffer](t5kyf#ch3Hard_Buffers) to skip ancient droid conversation
-- Activate [AMG](d4jq8) on the load screen
-[DLZ](f0aia#ch10Ruins_Starmap) to activate the Star Map cutscene
-Cancel the dialog box and QS/QL to skip the Star Map CS
-Reenable VSync
-- We won't need to DLZ again until Lehon
-Hard Save in "Hotshot Current" slot
-QS [Hotshot](iarwc) to the Enclave using "Teleport" slot
-- Bastila will spawn next to the MC
-- QS/QL to warp Party Bastila to NPC Bastila's position (hopefully close to the council chamber)
-} If Bastila spawns far from the council, you may elect to use your extra alacrity on her (use your judgment)
+#### **Bek Base:**  
+Enter Gadon's Office with a [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#gadon-dlz)  
+- As Carth, [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#gadon-dlz) into Gadon's Office  
+- Hit Esc (or options) to Reenable VSync once you load into Gadon's Office but before the conversation starts  
 
-**Leaving Dantooine:**
-Swap to Bastila and speak with Master Vandar
-Swap to MC and speak to Master Vandar again
-QS/QL to reactivate rapid transit
-Transit Back, then Return to Ebon Hawk
-Board the Ebon Hawk and fly to Kashyyyk
-  - Board the Ebon Hawk
-  - Make a Quick Save
-  - Fly to any planet
-  - [Map CS Skip](rb685) once
-  - On the Enclave load-in [AMG](d4jq8)
-  - QS [Hotshot](iarwc) back to the Ebon Hawk
-  - Fly to Kashyyyk
-  - [Map CS Skip](rb685) again
+Kill Gadon:  
+- As MC, Snipe Shot for Sneak Attack  
+- As Carth, Power Blast  
+- Note that Kaeira doesn't have to die  
 
-[center][big]***----------------------------
-Kashyyyk
-----------------------------***[/big][/center]
+As soon as Gadon is dead, Hard Save in "Hotshot Current" slot  
+- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the save, then...  
 
-**The Great Walkway:**
+Quick Save [Hotshot](../Major%20Glitches/Hotshot) to Vulkar Base  
+
+#### **Escaping Taris:**  
+
+Kandon will accost you shortly after spawning in  
+After loading into Swoop Platform, [Hard Buffer](../Techniques/Save%20Buffering) to skip the Ithorian convo  
+Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip a swoop race  
+- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS (or on the load-in from the previous buffer)  
+- Speak to the race coordinator: 1  
+- [Finish the race](i3ws7) with the quit dialog open  
+- Don't shift into the final gear; doing so is actually slower by about a second  
+- Press 1 and click to skip Ithorian dialog until Anglu comes running up  
+- Cancel the quit dialog and QS/QL to skip the CS  
+- Talk to the Ithorian a second time to "Win" the second race  
+
+After talking to the Ithorian the second time but BEFORE Brejik's convo, [Hard Buffer](../Techniques/Save%20Buffering) to skip the Brejik fight  
+- Instead of loading the QS after buffering, Hard Save in "Hotshot Current" slot  
+- Then [Hotshot](../Major%20Glitches/Hotshot) to the Lower City using the Autosave  
+- If you miss the buffer, mash through the Brejik cutscene until you regain control, then do the Hotshot  
+
+Enter Javyar's Cantina  
+Talk to Canderous: 1,1,1,2,1  
+- Leave Canderous in your party, but be ready to do the next trick  
+
+Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip the Taris destruction CS via Free-Look  
+- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load after confirming your party  
+- Unpause the game and cancel the quit dialog  
+- Use the Free-Look hotkey twice to end the cutscene  
+- Hold QS to fast-forward the animation  
+
+Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip Davik's Estate  
+- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load into Davik's Estate  
+- Go through the conversation pressing 1 and left-click (don't use NumPad Enter!)  
+- After choosing dialogue options 1,1, cancel the quit dialog and QS/QL  
+
+} Equip the Vibrosword to MC (This is important for future AMG movement)  
+Board the Ebon Hawk, then use a [Map CS Skip](../Techniques/Map%20Cutscene%20Skips) to Return to Ebon Hawk  
+- This skips the cutscenes between Taris and Dantooine, as well as the fighter skirmish  
+
 ---------------------------------------------------------
-During the [CS skip](rb685) add Bastila to the party before returning to Ebon Hawk
-Swap to Bastila and start running before the conversation begins
-Janos Wertka accosts you
-} Use Adrenal Alacrity on Bastila
-Activate Solo-mode
-Set up [Conversation Queuing](n9hoc) between Bastila and the back Czerka guard on the right side of the walkway
-While she runs, move the MC towards the Ebon Hawk and [AMG](d4jq8)
-When she is far enough away, activate [GP](77xef) with the MC
-Move Bastila such that she is just before the first corner, near Eli Gand
-[GP warp](77xef) to the Great Walkway Entrance
-Move backward to trigger the guards, and teleport the MC the the exit: 4
-} Use Adrenal Alacrity on MC
-Enter Great Walkway and QS
-Swap to Bastila
-Exit Great Walkway and activate [AMG](d4jq8) on the load
-[Hotshot](iarwc)/[Coordinate Warp](iarwc#ch7Coordinate_Warping) to the Great Walkway
-- Place Bastila behind the southernmost Czerka guard next to the Great Walkway exit, as close to the wall as possible
-https://i.imgur.com/BfgfArb.png
-- [Hotshot](iarwc) to the Great Walkway
-- With the right position, Bastila will spawn about halfway across the module, ready to be [GP Warped](77xef)
-[GP Warp](77xef) to Shadowlands elevator
-- Activate [AMG](d4jq8) via a QS with MC
-- Enter the Czerka Landing Pad loading zone
-- Cancel the quit dialog and swap to Bastila
-- Click the dialog option to warp to the elevator
-Enter and take elevator to Upper Shadowlands
+### **Dantooine**
 
-**Upper Shadowlands:**
-[AMG](d4jq8) during the load-in to upper shadow lands
-Unpause, and cancel when the conversation begins (mouse disappears)
-Use free-look twice, and flourish weapon to begin moiving the MC
-(If you can't get first-person view on MC, you may need to do a party swap)
-Move the MC until past the first group of Katarns, just before Jolee's trigger
-- You can slip past the Katarns on the right if you aim slightly to the right of the gap
-QS/QL to end the CS
-Use [AMG](d4jq8) to move during the Jolee CS
-- Activate [AMG](d4jq8) with a QS (or using the QL of the previous skip)
-- Enter the Jolee cutscene and cancel the quit dialog
-- Swap to Bastila and run towards Jolee
-- Swap to MC and move along path
-- Anytime after Jolee starts killing katarn, QS/QL to exit the CS
-Talk to first Czerka guard: 1,1,3,1,1
-Hack the sonic emitter next to that guard
-Talk to second Czerka guard: 1,1,1
-Hack the sonic emitter next to that guard
-IMMEDIATELY AFTER, [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip the terentatek CS
-Swap to Bastila and speak with Jolee: 1,3,1 spam
-Add Bastila and Jolee to the party
-Swap to Bastila and run to Force Field: 1,2
+#### **Jedi Enclave:**  
+Use [Conversation Queueing](../Techniques/Conversation%20Queue) to skip Belaya's conversation  
+- Run forward slightly and swap to Canderous  
+- Talk to MC, then immediately swap to MC and run away, into the Enclave  
+- This queues up a conversation between MC and Canderous, preventing other triggers from firing  
+- It also helps Canderous follow you into the Enclave  
 
-**Lower Shadowlands/The [Routine](7wfpc):**
-Quick Save [Coordinate Warp](iarwc#ch7Coordinate_Warping) to the Star Map
-- QS, then use [Fast Lane](imbom) to bring up the Return to Ebon Hawk dialog
+QS/QL in the atrium  
+Hard Save in "Teleport" slot  
+[DLZ](../Major%20Glitches/Displaced%20Load%20Zone#enclave-dlz) to the Courtyard (Atrium Left variant)  
+- Deactivate VSync for this and the other Dantooine DLZs  
+- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen when this DLZ fires  
+
+Note: There is a a decent amount of slack for how quickly you need to get this DLZ, as you will save an identical amount of time as long as you get the DLZ before NPC Bastila arrives at the council.  
+
+#### **Courtyard:**  
+Use the [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to bring up the Return to Ebon Hawk dialog while moving  
+Set up [Conversation Queueing](../Techniques/Conversation%20Queue) between MC and Canderous  
+- This skips a conversation with Jon and a Kath Hound spawning CS  
+
+Run through the Courtyard and down the left path to the ruins entrance  
+Use the Return to Ebon Hawk popup to [Door Clip](../Major%20Glitches/Door%20Clipping) into the Ruins Entrance via slight angle clipping  
+Once inside the entrance, use Canderous to [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#ruins-entry-dlz) into the ruins
+
+#### **Ancient Ruins:**  
+Confirm Bastila in the party when prompted  
+[Hard Buffer](../Techniques/Save%20Buffering) to skip ancient droid conversation  
+- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen  
+
+[DLZ](../Major%20Glitches/Displaced%20Load%20Zone#ruins-star-map-dlz) to activate the Star Map cutscene  
+Cancel the dialog box and QS/QL to skip the Star Map CS  
+Reenable VSync  
+- We won't need to DLZ again until Lehon  
+
+Hard Save in "Hotshot Current" slot  
+QS [Hotshot](../Major%20Glitches/Hotshot) to the Enclave using "Teleport" slot  
+- Bastila will spawn next to the MC  
+- QS/QL to warp Party Bastila to NPC Bastila's position (hopefully close to the council chamber)  
+
+} If Bastila spawns far from the council, you may elect to use your extra alacrity on her (use your judgment)  
+
+#### **Leaving Dantooine:**  
+Swap to Bastila and speak with Master Vandar  
+Swap to MC and speak to Master Vandar again  
+QS/QL to reactivate rapid transit  
+Transit Back, then Return to Ebon Hawk  
+Board the Ebon Hawk and fly to Kashyyyk  
+  - Board the Ebon Hawk  
+  - Make a Quick Save  
+  - Fly to any planet  
+  - [Map CS Skip](../Techniques/Map%20Cutscene%20Skips) once  
+  - On the Enclave load-in [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch)  
+  - QS [Hotshot](../Major%20Glitches/Hotshot) back to the Ebon Hawk  
+  - Fly to Kashyyyk  
+  - [Map CS Skip](../Techniques/Map%20Cutscene%20Skips) again  
+  ---------------------------------------------------------
+
+### **Kashyyyk**
+
+#### **The Great Walkway:**
+
+During the [CS skip](../Techniques/Map%20Cutscene%20Skips) add Bastila to the party before returning to Ebon Hawk  
+Swap to Bastila and start running before the conversation begins  
+Janos Wertka accosts you  
+} Use Adrenal Alacrity on Bastila  
+Activate Solo-mode  
+Set up [Conversation Queuing](../Techniques/Conversation%20Queue) between Bastila and the back Czerka guard on the right side of the walkway  
+While she runs, move the MC towards the Ebon Hawk and [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch)  
+When she is far enough away, activate [GP](../Techniques/GP%20Warp) with the MC  
+Move Bastila such that she is just before the first corner, near Eli Gand  
+[GP warp](../Techniques/GP%20Warp) to the Great Walkway Entrance  
+Move backward to trigger the guards, and teleport the MC the the exit: 4  
+} Use Adrenal Alacrity on MC  
+Enter Great Walkway and QS  
+Swap to Bastila  
+Exit Great Walkway and activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load  
+[Hotshot](../Major%20Glitches/Hotshot)/[Coordinate Warp](../Major%20Glitches/Hotshot#ch7Coordinate_Warping) to the Great Walkway  
+- Place Bastila behind the southernmost Czerka guard next to the Great Walkway exit, as close to the wall as possible  
+
+![image](https://i.imgur.com/BfgfArb.png)
+
+- [Hotshot](../Major%20Glitches/Hotshot) to the Great Walkway  
+- With the right position, Bastila will spawn about halfway across the module, ready to be [GP Warped](../Techniques/GP%20Warp)  
+[GP Warp](../Techniques/GP%20Warp) to Shadowlands elevator  
+- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via a QS with MC  
+- Enter the Czerka Landing Pad loading zone  
+- Cancel the quit dialog and swap to Bastila  
+- Click the dialog option to warp to the elevator  
+
+Enter and take elevator to Upper Shadowlands  
+
+#### **Upper Shadowlands:**  
+[AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load-in to upper shadow lands  
+Unpause, and cancel when the conversation begins (mouse disappears)  
+Use free-look twice, and flourish weapon to begin moiving the MC  
+(If you can't get first-person view on MC, you may need to do a party swap)  
+Move the MC until past the first group of Katarns, just before Jolee's trigger  
+- You can slip past the Katarns on the right if you aim slightly to the right of the gap  
+
+QS/QL to end the CS  
+Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to move during the Jolee CS  
+- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) with a QS (or using the QL of the previous skip)  
+- Enter the Jolee cutscene and cancel the quit dialog  
+- Swap to Bastila and run towards Jolee  
+- Swap to MC and move along path  
+- Anytime after Jolee starts killing katarn, QS/QL to exit the CS  
+
+Talk to first Czerka guard: 1,1,3,1,1  
+Hack the sonic emitter next to that guard  
+Talk to second Czerka guard: 1,1,1  
+Hack the sonic emitter next to that guard  
+IMMEDIATELY AFTER, [Hard Buffer](../Techniques/Save%20Buffering) to skip the terentatek CS  
+Swap to Bastila and speak with Jolee: 1,3,1 spam  
+Add Bastila and Jolee to the party  
+Swap to Bastila and run to Force Field: 1,2  
+
+#### **Lower Shadowlands:**  
+Quick Save [Coordinate Warp](../Major%20Glitches/Hotshot#ch7Coordinate_Warping) to the Star Map  
+- QS, then use [Fast Lane](../Major%20Glitches/Fast%20Lane) to bring up the Return to Ebon Hawk dialog
 - Open the Options Menu, then press Enter while selecting 'Load Game' and 'OK'
 - After loading in, QS and open the Options Menu
 - Press Enter, move the mouse up to select OK, and press Enter again
 - This will spawn your party members near the Star Map
-Swap to Bastila
-Use [Fast Lane](imbom) to bring up the Return to Ebon Hawk dialog
-Speak with the Star Map Computer: 3,3,2,2,1,1,5,1,4,1,4,1
-Click OK to Return to Ebon Hawk as soon as the Star Map starts opening
+
+Swap to Bastila  
+Use [Fast Lane](../Major%20Glitches/Fast%20Lane) to bring up the Return to Ebon Hawk dialog  
+Speak with the Star Map Computer: 3,3,2,2,1,1,5,1,4,1,4,1  
+Click OK to Return to Ebon Hawk as soon as the Star Map starts opening  
 
 You now have one star map, and need to obtain 3 more by repeating these steps for each:
+
 -------------------------------------------------------
-- Perform a [Routine](7wfpc)
-+ Activate [AMG](d4jq8) via QS
-+ In the Options Menu, click Exit Game, then press Enter with Load Game and OK highlighted
-+ With the mouse over Load Game, press down and Enter
-+ Click OK to load the Autosave
-+ As soon as the Autosave loads, QL
-+ Click cancel to leave the Load Game menu
-+ Open and close a menu using the hotkey 
-+ QS
-+ open the in-game Options Menu with a hotkey
-+ With the mouse over Options, press up and Enter
-+ Press Escape to return to the Main Menu and click OK to close the extra menu
-+ Select Load Game and load your QS
-- Quick Save [Coordinate Warp](iarwc#ch7Coordinate_Warping) to Lower Shadowlands
-+ Activate [AMG](d4jq8) via when loading this QS
-+ Use the map menu to bring up the Return to Ebon Hawk dialog
-+ Open the Options Menu and press enter with Load Game and OK highlighted
-+ After loading in, QS and open the Options Menu
-+ Press Enter, move the mouse up to select OK, and press Enter again
-+ Repeat the above steps once (QS, Options, Enter, mouse up, Enter)
-+ This warps your party members to the same location as before
+- Perform a [Routine](../Major%20Glitches/The%20Routine)
+  + Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS
+  + In the Options Menu, click Exit Game, then press Enter with Load Game and OK highlighted
+  + With the mouse over Load Game, press down and Enter
+  + Click OK to load the Autosave
+  + As soon as the Autosave loads, QL
+  + Click cancel to leave the Load Game menu
+  + Open and close a menu using the hotkey
+  + QS
+  + open the in-game Options Menu with a hotkey
+  + With the mouse over Options, press up and Enter
+  + Press Escape to return to the Main Menu and click OK to close the extra menu
+  + Select Load Game and load your QS
+- Quick Save [Coordinate Warp](../Major%20Glitches/Hotshot#ch7Coordinate_Warping) to Lower Shadowlands
+  + Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via when loading this QS
+  + Use the map menu to bring up the Return to Ebon Hawk dialog
+  + Open the Options Menu and press enter with Load Game and OK highlighted
+  + After loading in, QS and open the Options Menu
+  + Press Enter, move the mouse up to select OK, and press Enter again
+  + Repeat the above steps once (QS, Options, Enter, mouse up, Enter)
+  + This warps your party members to the same location as before
 - If you haven't already, level Bastila to 4 and select and cast Force Speed
 - Obtain the Kashyyyk Star Map again
-- [Fast Lane](imbom) to Return to the Ebon Hawk
+- [Fast Lane](../Major%20Glitches/Fast%20Lane) to Return to the Ebon Hawk
 -------------------------------------------------------
-When you're obtaining the last of the four maps talk to the star map computer with Bastila to warp the MC to the star map area.
-Make a lower-shadowland save in the "Teleport" slot
-After obtaining the Kashyyyk Star Map four times in total, board the Ebon Hawk
-Fly to Lehon
-- Quicksave [AMG](d4jq8) before the first flight
+When you're obtaining the last of the four maps talk to the star map computer with Bastila to warp the MC to the star map area.  
+Make a lower-shadowland save in the "Teleport" slot  
+After obtaining the Kashyyyk Star Map four times in total, board the Ebon Hawk  
+Fly to Lehon  
+- Quicksave [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) before the first flight
 - After the load, unpause, cancel, and free-look to skip the cutscene
 - **DO NOT** Hold QS during this CS
-- During the next load, [AMG](d4jq8) and [Hotshot](iarwc) to the Ebon Hawk
+- During the next load, [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) and [Hotshot](../Major%20Glitches/Hotshot) to the Ebon Hawk
 - Hardsave to "Hotshot Current" slot on the Ebon Hawk to setup Ship Parts skip
-- QS [AMG](d4jq8) and fly to Lehon again
+- QS [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) and fly to Lehon again
   + If you get a fighter skirmish, press Alt-F4 to gain mouse control
   + Cancel the quit dialog and Return to Ebon Hawk to warp to Lehon
   + If you don't get a fighter skirmish, QL and default action to try again
   + We must get the fighter skirmish skip in order for Ship Parts skip to work
 
-[center][big]***----------------------------
-Lehon
-----------------------------***[/big][/center]
+---------------------------------------------------------
+### Lehon
 
-**Reaching the Temple Summit:**
-} Use Adrenal Alacrity
-Run to Temple Exterior
-} Add Jolee to party and Return to the Ebon Hawk 
-Transit Back
+#### **Reaching the Temple Summit:**  
+} Use Adrenal Alacrity  
+Run to Temple Exterior  
+} Add Jolee to party and Return to the Ebon Hawk  
+Transit Back  
 - Due to a leftover effect of the Routine, you will spawn to the right of the temple
-[DLZ](f0aia#ch11Temple_Exterior_to_Temple_Interior) 
-[DLZ](f0aia#ch12Temple_Interior_to_Temple_Roof) again to enter Temple Summit
+[DLZ](../Major%20Glitches/Displaced%20Load%20Zone#temple-entry-dlz)
+[DLZ](../Major%20Glitches/Displaced%20Load%20Zone#temple-summit-dlz) again to enter Temple Summit
 - There are three spots for this DLZ; pick the one you're most comfortable with!
 
-**Confronting Bastila:**
-Reactivate VSync
-Use [AMG](d4jq8) to skip the Darth Waifu fight
-- Activate [AMG](d4jq8) via QS
+#### **Confronting Bastila:**  
+Reactivate VSync  
+Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip the Darth Waifu fight  
+- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS
 - Run towards Bastila to start the CS
 - Cancel the quit dialog
 - As soon as Bastila starts speaking, QS/QL to skip the CS
-Talk to Bastila and choose to join the Dark Side: 2,2,2,2,2,2
-As soon as Jolee is hostile, use [Fast Lane](imbom) to Return to the Ebon Hawk
+
+Talk to Bastila and choose to join the Dark Side: 2,2,2,2,2,2  
+As soon as Jolee is hostile, use [Fast Lane](../Major%20Glitches/Fast%20Lane) to Return to the Ebon Hawk  
 - We do not have to kill him or lower the disruptor field
-Run towards the Hawk
-When the black screen occurs, immediately Hardsave to "Fast Lane" slot (we will no longer be doing Fast Lanes this run)
-[Hotshot](iarwc) to Ebon Hawk using the "Hotshot Current" slot
-Fly to the Star Forge
-- Use the load afterwards to activate [AMG](d4jq8)
 
-[center][big]***----------------------------
-Star Forge
-----------------------------***[/big][/center]
+Run towards the Hawk  
+When the black screen occurs, immediately Hardsave to "Fast Lane" slot (we will no longer be doing Fast Lanes this run)  
+[Hotshot](../Major%20Glitches/Hotshot) to Ebon Hawk using the "Hotshot Current" slot  
+Fly to the Star Forge  
+- Use the load afterwards to activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch)
 
-**Deck One:**
-Use the previous [AMG](d4jq8) to skip the "unskippable" cutscene
+---------------------------------------------------------
+### Star Forge
+
+#### **Deck 1:**  
+Use the previous [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip the "unskippable" cutscene  
 - Unpause the game and cancel the quit dialog
 - Use the Free Look hotkey to end the cutscene
 - Hold QS during this to Fast-forward the animation
-} Use Hyper-Adrenal Alacrity
-} If no plot armor, and you're concerned about MC dying use Hyper-Adrenal Stamina
-} If no plot armor, and you're concerned about MC dying Auto-level to 3 for extra Vitality
-Exit the Ebon Hawk with Bastila
-Immediately [Hard Buffer](t5kyf#ch3Hard_Buffers) the Jedi vs. Sith CS
-Activate Solo Mode and swap leader twice to fix Bastila
-Run with MC and click first door
-} Swap to Bastila and use Hyper Adrenal Alacrity
-Move Bastila in front of Ebon Hawk load zone
-[GP Warp](77xef) MC to Deck 2
-- As Bastila, activate [AMG](d4jq8) via QS
+
+} Use Hyper-Adrenal Alacrity  
+} If no plot armor, and you're concerned about MC dying use Hyper-Adrenal Stamina  
+} If no plot armor, and you're concerned about MC dying Auto-level to 3 for extra Vitality  
+Exit the Ebon Hawk with Bastila  
+Immediately [Hard Buffer](../Techniques/Save%20Buffering) the Jedi vs. Sith CS  
+Activate Solo Mode and swap leader twice to fix Bastila  
+Run with MC and click first door  
+} Swap to Bastila and use Hyper Adrenal Alacrity  
+Move Bastila in front of Ebon Hawk load zone  
+[GP Warp](../Techniques/GP%20Warp) MC to Deck 2  
+- As Bastila, activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS
 - Enter the Ebon Hawk load zone
 - Cancel the quit dialog and swap to MC
 - Run either direction at the junction
 - Select the door behind the first pair of assault droids to get the MC passed them
 - Cue movement to the next door and **SWAP BACK TO BASTILA** such that you do not see the MC open the door. Other wise they'll be stunned
 - After sufficient time, swap to MC run to right in front of the two hostile assault droids, then click the dialog option
-With the MC, save in the "Hotshot Current" slot
-Double [Hotshot](iarwc) to warp Bastila to the MC
+
+With the MC, save in the "Hotshot Current" slot  
+Double [Hotshot](../Major%20Glitches/Hotshot) to warp Bastila to the MC  
 - Load Lower Shadow lands from the "Teleport" save
 - Quicksave
-- Load "Hotshot Current", doign an [AMG](d4jq8) during the load in
-- [Hotshot](iarwc)
-- After the load in, QS, Options, Enter, Up, Enter, to [Hotshot](iarwc) again
+- Load "Hotshot Current", doign an [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load in
+- [Hotshot](../Major%20Glitches/Hotshot)
+- After the load in, QS, Options, Enter, Up, Enter, to [Hotshot](../Major%20Glitches/Hotshot) again
 - You and Bastila should now be at the exit to Deck 2
-Enter Deck 2
 
-**Deck 2:**
-Activate Solo Mode
-[Hard Buffer](t5kyf#ch3Hard_Buffers) the Malak cutscene
-Click on the first door, then swap to Bastila
-Open the door behind you, then swap back to MC
-Click on the second door, then swap to Bastila
-[GP Warp](77xef) the MC to Command Deck
-- As Bastila, activate [AMG](d4jq8) via QS
+Enter Deck 2  
+
+#### **Deck 2:**  
+Activate Solo Mode  
+[Hard Buffer](../Techniques/Save%20Buffering) the Malak cutscene  
+Click on the first door, then swap to Bastila  
+Open the door behind you, then swap back to MC  
+Click on the second door, then swap to Bastila  
+[GP Warp](../Techniques/GP%20Warp) the MC to Command Deck  
+- As Bastila, activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS
 - Enter the Deck 1 loading zone
 - Cancel the quit dialog, then swap to MC
 - Run with MC until you go just past the turn down the ramp
 - Click the dialog option to warp the MC
-With the MC, save in the "Hotshot Current" slot
-Double [Hotshot](iarwc) to warp Bastila to the MC
+
+With the MC, save in the "Hotshot Current" slot  
+Double [Hotshot](../Major%20Glitches/Hotshot) to warp Bastila to the MC  
 - Load Lower Shadow lands from the "Teleport" save
 - Quicksave
-- Load "Hotshot Current", doign an [AMG](d4jq8) during the load in
-- [Hotshot](iarwc)
-- After the load in, QS, Options, Enter, Up, Enter, to [Hotshot](iarwc) again
+- Load "Hotshot Current", doign an [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load in
+- [Hotshot](../Major%20Glitches/Hotshot)
+- After the load in, QS, Options, Enter, Up, Enter, to [Hotshot](../Major%20Glitches/Hotshot) again
 - You and Bastila should now be at the exit to the Command Deck
+
 Enter the Command Deck
 
-**Command Deck:**
-Immediately after loading, [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip Bastila/Malak CS
-Hardsave in "Hotshot Current"
-[Hotshot](iarwc) back to Lower Shadowlands using the "Teleport" slot
-[Coordinate Warp](iarwc#ch7Coordinate_Warping) back to Command Deck (Just as we did on the previous two decks)
-This puts Bastila near the veiwing platform entrance
-Use [AMG](d4jq8) to skip the Darth Malak droid CS
-- Activate [AMG](d4jq8) with a QS
+#### **Command Deck:**  
+Immediately after loading, [Hard Buffer](../Techniques/Save%20Buffering) to skip Bastila/Malak CS  
+Hardsave in "Hotshot Current"  
+[Hotshot](../Major%20Glitches/Hotshot) back to Lower Shadowlands using the "Teleport" slot  
+[Coordinate Warp](../Major%20Glitches/Hotshot#ch7Coordinate_Warping) back to Command Deck (Just as we did on the previous two decks)  
+This puts Bastila near the veiwing platform entrance  
+Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip the Darth Malak droid CS
+- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) with a QS
 - Run to the door to start the CS
 - Cancel the quit dialog
 - As soon as Malak starts walking forward, QS/QL to skip the CS
 - This CS warps the MC to your position, allowing you to...
-Take the elevator to the Viewing Platform
 
-**Viewing Platform:**
-You may wish to make a safety save before this fight in "Hotshot Current" (or wherever)
+Take the elevator to the Viewing Platform  
+
+#### **Viewing Platform:**  
+You may wish to make a safety save before this fight in "Hotshot Current" (or wherever)  
 Darth Malak Fight:
   - Throw Thermal Detonators with both MC and Bastila to defeat Malak's first phase
   - Be careful not to hit MC with Thermal Detonators, as they can only survive one or two
   - If you don't have plot armor the MC will almost certainly die after the second combat round
-  - Just before the first phase ends, activate [AMG](d4jq8) via a QS
+  - Just before the first phase ends, activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via a QS
   - When you are given the first dialog option, press enter to simultaneously cancel the pop-up dialog and select the first conversation option
   - Immediately QS/QL to skip the CS
+
 On loading, there will be a black screen. When the mouse disappears, the final death CS has begun and the run is over. Malak has been defeated once and for all, and you are now the Lord of the Sith (and you aren't even a Jedi!)
 
-[section=Version History]
+## Version History  
 **v9.7 (June 2023)**
 - Removed the obsolete Scout route
 - Removed Optional Gadon GP
@@ -668,15 +739,15 @@ On loading, there will be a black screen. When the mouse disappears, the final d
 - New shopping for Scoundrel Route on Taris
 - Credit Underflow and Security FLU are no longer used
 **v8.2 (December 2020)** "the dark side update"
-- Scoundrel 
+- Scoundrel
 - AMG strats for both the swoop race and Malak
 - Dantooine DLZs to skip most of the world
 - Dark Side Ending! (allows us to skip thermal detonator shopping, and makes the Dantooine skips less painful)
 - Minor Tweaks
 **[v8.1](https://web.archive.org/web/20201211202400/https://www.speedrun.com/kotor1/guide/hmjxg) (September 2020)**
-- Lufex's Endar Spire [DLZ](f0aia#ch4Command_Deck_to_Starboard_Section) implemented
+- Lufex's Endar Spire [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#ch4Command_Deck_to_Starboard_Section) implemented
 **v8.0 (August 2020)**
-- Hotshot's [Routine](7wfpc) used to skip Creamy Middle by duping Starmaps
+- Hotshot's [Routine](../Major%20Glitches/The%20Routine) used to skip Creamy Middle by duping Starmaps
 **[v7.2](https://web.archive.org/web/20200809032636/https://www.speedrun.com/kotor1/guide/hmjxg) (July 2020)**
 - Planet Order Changed again (Hopefully for the last time)
 - Chaos Implements some minor optimizations
@@ -686,24 +757,24 @@ On loading, there will be a black screen. When the mouse disappears, the final d
 - Wired Targeting used to kill Malak
 **v7.0 (June 2020)** (As seen in Lane's [Video Tutorial](kv1dw))
 - Major route update, including:
-* - Hotshotting
-* - Coordinate Warping
-* - Invincibility Glitch
-* - Infinite Credit Glitch
-* - Full Inventory Duping
+  * Hotshotting
+  * Coordinate Warping
+  * Invincibility Glitch
+  * Infinite Credit Glitch
+  * Full Inventory Duping
 - Leviathan is Skipped entirely
 - Any echoes of the aligment and credit routes have been lost.
 - Minimalist Character Build
 - Minimalist Leveling plan
 **[v6.0](https://web.archive.org/web/20200322222037/https://www.speedrun.com/kotor1/guide/hmjxg) (December 2019)**
 - Major route update, including:
-* - New Taris Route using a GP Warp to access Gadon's Office
-* - Two small new GPs on Taris
-* - New planet order swapping Korriban and Tatooine
-* - Solo Krayt Skip on Tatooine
-* - Master Speed FLU moved to Lehon
-* - GP Warp to enter the Lehon Temple and Temple Summit
-* - GP Warp strats on Star Forge
+  * New Taris Route using a GP Warp to access Gadon's Office
+  * Two small new GPs on Taris
+  * New planet order swapping Korriban and Tatooine
+  * Solo Krayt Skip on Tatooine
+  * Master Speed FLU moved to Lehon
+  * GP Warp to enter the Lehon Temple and Temple Summit
+  * GP Warp strats on Star Forge
 - Removed optional strats for Malak Skip and Dantooine Door Clip; these tricks should both be done
 - Updated character build to remove Dominate Mind option; Disable Droid is superior
 - Updated the Credits route to reflect the now required Larrim shopping trip
@@ -785,12 +856,12 @@ On loading, there will be a black screen. When the mouse disappears, the final d
   - Scout -> Jedi Guardian: Two-Weapon Fighting/Flurry character build
   - Planet Route: Korriban -> Manaan -> Tatooine -> Leviathan -> Kashyyyk
 
-[section=Closing]
+## Closing
 
-If you made it this far, congratulations! Thanks for reading the guide. Please let @indykenobi or @Lane know if you have any comments or questions (best way to contact both is via Discord).
+If you made it this far, congratulations! Thanks for reading the guide. Please let [indykenobi](https://www.speedrun.com/users/indykenobi) or [Lane](https://www.speedrun.com/users/Lane) know if you have any comments or questions (best way to contact both is via Discord).
 
 **Lane's Acknowledgements:**
-Hopefully the route doesn't totally change again. Last time I updated this guide it only stayed accurate for about a day. I wanna thank @Sheepmetal and @wurwilf for getting me into this game, and @ChaosDrifting and @R4NG3 for proving to be real friends, and pushing this game to its limits.
+Hopefully the route doesn't totally change again. Last time I updated this guide it only stayed accurate for about a day. I wanna thank [Sheepmetal](https://www.speedrun.com/users/Sheepmetal) and [wurwilf](https://www.speedrun.com/users/wurwilf) for getting me into this game, and [ChaosDrifting](https://www.speedrun.com/users/ChaosDrifting) and [R4NG3](https://www.speedrun.com/users/R4NG3) for proving to be real friends, and pushing this game to its limits.
 
 **Indy's Acknowledgements:**
-I'd like to acknowledge @glasnonck and @Thinkshooter, whose runs got me into KotOR speedrunning, as well as @glasnonck, @Lane, @hotshotwire and the rest of the KotOR community for tossing around ideas and breaking this game further. Additional shoutouts to @ChaosDrifting for helping me understand the Scoundrel Taris route.
+I'd like to acknowledge [glasnonck](https://www.speedrun.com/users/glasnonck) and [Thinkshooter](https://www.speedrun.com/users/Thinkshooter), whose runs got me into KotOR speedrunning, as well as [glasnonck](https://www.speedrun.com/users/glasnonck), [Lane](https://www.speedrun.com/users/Lane), [hotshotwire](https://www.speedrun.com/users/hotshotwire) and the rest of the KotOR community for tossing around ideas and breaking this game further. Additional shoutouts to [ChaosDrifting](https://www.speedrun.com/users/ChaosDrifting) for helping me understand the Scoundrel Taris route.
