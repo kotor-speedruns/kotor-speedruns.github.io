@@ -39,7 +39,7 @@ Finally, the [AMG](<../Major Glitches/Anywhere Menu Glitch>) method also makes i
 
 ## Buffered GP Warps
 
-A Buffered GP Warp uses an [Open Buffer](<Save Buffering#open-buffers>) to delay the trigger for the GP dialog long enough to switch party members.  It does not use a [Mebu Glitch](<../Major Glitches/Anywhere Menu Glitch>), and thus is legal in the NMG ruleset as well as Unrestricted.  To perform a Buffered GP Warp:
+A Buffered GP Warp uses an [Open Buffer](<Save Buffering#open-buffers>) to delay the trigger for the GP dialog long enough to switch party members.  It does not use a [Menu Glitch](<../Major Glitches/Anywhere Menu Glitch>), and thus is legal in the NMG ruleset as well as Unrestricted.  To perform a Buffered GP Warp:
 
 1. Using Solo Mode, position the Warping Member far enough away from the Triggering Member that the "Gather Your Party" dialog will occur when you try to enter a loading zone, **and** so that the load zone you want to warp to is the closest one.
 2. Swap to the Triggering Member and ensure they are near a loading zone.
