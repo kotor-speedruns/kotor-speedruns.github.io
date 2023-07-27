@@ -38,7 +38,7 @@ See Youtube Description for Timestamps
 This is a tutorial for the All Quests Unrestricted category of Knights of the Old Republic speedrunning. This guide will explain the route as of 12/17/2019, which corresponded to version 1.2 of the written guide [here](2setw). The guide itself assumes knowledge of or some familiarity with Any% and/or No Major Skips categories and doesn't go into detail about the tricks and glitches used in the run, but rather explains how and where they are used.
 
 <div class="video-container">
-    <iframe title="Twitch video player" src="https://player.twitch.tv/?video=522973489&parent=streamernews.example.com" frameborder="0"></iframe>
+    <iframe title="Twitch video player" src="https://player.twitch.tv/?video=522973489&parent=kotor-speedruns.github.io&autoplay=false" frameborder="0"></iframe>
 </div>
 
 **Timestamps:**
