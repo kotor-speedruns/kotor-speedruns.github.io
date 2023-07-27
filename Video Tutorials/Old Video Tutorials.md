@@ -1,3 +1,18 @@
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 [section=Introduction]
 
 These are old video tutorials for KotOR speedrunning.  While their strategies may be old or obsolete, there is still some good information in these videos, so we're keeping them here.  Think of it like a tutorial retirement home!
@@ -12,7 +27,9 @@ If you have questions, ask in the discord!
 
 [section=Any% Unrestricted v8.2 - 12/14/2020by @Lane]
 
-https://www.youtube.com/watch?v=oHXob80CX0A
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/oHXob80CX0A" frameborder="0"></iframe>
+</div>
 
 See Youtube Description for Timestamps
 
@@ -20,7 +37,9 @@ See Youtube Description for Timestamps
 
 This is a tutorial for the All Quests Unrestricted category of Knights of the Old Republic speedrunning. This guide will explain the route as of 12/17/2019, which corresponded to version 1.2 of the written guide [here](2setw). The guide itself assumes knowledge of or some familiarity with Any% and/or No Major Skips categories and doesn't go into detail about the tricks and glitches used in the run, but rather explains how and where they are used.
 
-https://www.twitch.tv/videos/522973489
+<div class="video-container">
+    <iframe title="Twitch video player" src="https://player.twitch.tv/?video=522973489" frameborder="0"></iframe>
+</div>
 
 **Timestamps:**
 Here you can find timestamps for each major section in the run.
@@ -48,7 +67,9 @@ Here you can find timestamps for each major section in the run.
 Any% v7.0
 This is a rough tutorial that assumes a basic understanding of most of the glitch tech. Links and time-stamps are in the video description. The mid-game route is still subject to change, and a comprehensive tutorial should be around soon.
 
-https://www.youtube.com/watch?v=xwzxbUVhGdY
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/xwzxbUVhGdY" frameborder="0"></iframe>
+</div>
 
 [section=11/9/2019 by indykenobi]
 
@@ -138,7 +159,9 @@ Here you can find timestamps for different parts of the run, from planets to dis
 
 **Youtube:**
 
-https://www.youtube.com/watch?v=usQEXg1gfeA
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/usQEXg1gfeA" frameborder="0"></iframe>
+</div>
 
 *Hyperlinked Timestamps in youtube description*
 
