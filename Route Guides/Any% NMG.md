@@ -1138,7 +1138,7 @@ SHOPPING: Czerka Shop
 - Repair hyperdrive on the Ebon Hawk
 - Fly to the Star Forge
 
-## Star Forge
+## The Star Forge
 
 *Note: The game has now deleted data so that your [Save Teleports](<./Techniques/Save Teleporting>) are greatly weakened.  It's fastest to use Knight Speed and Force Jump for movement on the Star Forge.*
 
