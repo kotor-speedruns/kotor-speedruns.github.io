@@ -411,14 +411,14 @@ SHOPPING: Larrim
       - This also helps us hit Bastila's XP threshold
     - Swap to Carth and open door on left (before the force field)
     - Swap to MC and rescue Zaalbar
-    - *Party: Add Carth and Keep Mission when prompted*
+    - *Party: Add Carth, Keep Mission when prompted*
     - Run MC slightly into Zaalbar's cell for protection from the Gamorreans
     - Swap to Carth and lower force field
     - Swap to Mission and [Buffer GP Warp](<./Techniques/GP Warp#buffered-gp-warps>) to teleport MC
   - *If you choose not to use the above strat:*
     - Activate Solo Mode and place Mission next to ladder
     - Run to cell and free Zaalbar
-    - *Party: Add Carth and Keep Mission when prompted*
+    - *Party: Add Carth, Keep Mission when prompted*
     - Switch to Mission and leave by ladder
     - Reenter sewers
     - Throw frag grenade at rakghouls
@@ -428,7 +428,8 @@ SHOPPING: Larrim
 - Enter Upper Sewers
 - ***Optional Strat: Upper Sewers [GP Warp](<./Techniques/GP Warp#buffered-gp-warps>)***
   - *This strat saves about 10 seconds in the Vulkar Garage, but it's finicky.  It's personal preference whether to use this trick or not.*
-    - *Party: Remove Mission and Keep Carth*
+  - *To perform this strat:*
+    - *Party: Remove Mission*
     - Activate Solo Mode
     - As Carth, open the door behind you to Lower Sewers
     - As MC, run through sewers and kill the Malfunctioning Droid
@@ -501,11 +502,10 @@ SHOPPING: Larrim
   - *Party: Add Bastila during the [Map CS Skip](<./Techniques/Map Cutscene Skips>)*
 - Activate Solo Mode and run MC into the cantina
 - Canderous talks to you
-- Swap to Bastila
-- If possible, level her to 4: Recommended Attribute, Save Skills, Force Speed
-- Exit the cantina and run back to elevator to Upper City
+- If possible, `level Bastila to 4: Recommended Attribute, Save Skills, Burst of Speed`
+- Exit the cantina as Bastila and run back to elevator to Upper City
   - Use Bastila's Force Speed for movement here
-  - If she didn't have a level ready, use MC instead
+  - If she didn't have a level ready, use MC instead (should have Alacrity active)
 - In Upper City, Activate Solo Mode to leave MC/Bastila at elevator
 - Run to Droid Shop in Upper City North
 - Talk to Janice Nall: 2,2,1 (-4 DSP)
@@ -515,50 +515,51 @@ SHOPPING: Larrim
   - This warps the entire party to the elevator and gives you control of the MC
 - Run to Sith Base (with Bastila's Force Speed or MC's Alacrity)
   - You can also [Save Teleport](<./Techniques/Save Teleporting>) with T3 if Bastila is still not level 4
-- [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip T3's door opening animation
-} Remove Bastila and add Zaalbar
-} Equip Mission's Vibroblade and Vibroblade to Zaalbar
-} Use Adrenal Strength on Zaalbar
-Enter Sith Base
+- [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip T3's door opening cutscene
+- *Party: Remove Bastila, Add Zaalbar*
+- *Equip Zaalbar: Mission's Vibroblade Mainhand, Vibroblade Offhand*
+- *Stims: Adrenal Strength on Zaalbar*
+- Enter Sith Base
 
 **Sith Base:**
-¤ [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip secretary conversation
-- If you miss, the conversation is 3,1
-Kill both patrol droids at the end of the first hallway
-Take right hallway and kill patrol droid
-Defeat Sith soldiers in barracks
-Loot footlocker for passcard with T3
-¤ As T3, [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip Assault Droid intro CS
-Assault droid fight
+- [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip secretary conversation
+  - If you miss, the conversation is 3,1
+- Kill both patrol droids at the end of the first hallway
+- Take right hallway and kill patrol droid
+- Defeat Sith soldiers in barracks
+- Loot footlocker for passcard with T3
+- As T3, [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip Assault Droid intro CS
+- Assault droid fight:
   - Pause and use a Concussion Grenade on Assault Droid with T3
   - MC attacks Assault Droid with Flurry
   - Zaalbar attacks Assault Droid with Improved Power Strike
   - T3 can use his Shield Disruptor to take out the Blaster Turrets (two shots each)
-Enter the elevator
-QS in case of death/bad luck
-Sith Governor fight
-- MC: Poison Grenade, then Flurry
-- Zaalbar: Sonic Grenade, then Improved Power Strike
-- T3: Stun Ray.  As many as it takes.
-- Cross your fingers
-Loot both strongboxes and Sith Governor's corpse for Launch Codes
-- If the Governor is stunned and seems likely to die, T3 can loot these during the fight
-Exit the Sith Base
+- Enter the elevator
+- Recommended safety QS in case of death/bad luck
+- Sith Governor fight:
+  - MC: Poison Grenade, then Flurry
+  - Zaalbar: Sonic Grenade, then Improved Power Strike
+  - T3: Stun Ray x4, but keep queueing more Stun Rays until the Governor is stunned
+  - If desired, T3 can switch to Shield Disruptors if you need more damage once the Governor is stunned
+- Loot both strongboxes and Sith Governor's corpse for Launch Codes
+  - T3 can start to loot these during the fight if the Governor is about to die
+- Exit the Sith Base
 
-**Escaping Taris:**
-} Remove Zaalbar and T3 from party; Add Bastila
-> Level Bastila to 4 if you haven't already: Recommended Attribute, Save Skills, Force Speed
-*Optional: In Gameplay settings, enable Auto-Level for Party Members. This saves having to manually auto-level in a couple places, but you must remember to turn the setting off when you start a new run!*
-Enter the Lower City
-Immediately QS/QL to make sure the MC follows Bastila sufficiently
-Enter Javyar's Cantina and talk to Canderous: 2
-Add T3 to party (should be Canderous and T3)
-¤ After the Malak/Saul CS, [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip the Davik/Calo fight
-Switch to T3 to hack security terminal: 1,2,2,4,3
-Enter the Hangar
-} Equip Clothes (or nothing) on MC, and...
-*Optional: If you are* not *doing Krayt Skip on Tatooine, unequip Canderous and T3*
-¤ Board the Ebon Hawk, then use a [Map CS Skip](<./Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
+### Escaping Taris
+
+- *Party: Remove Zaalbar and T3, Add Bastila
+- `Level Bastila to 4 if you haven't already: Recommended Attribute, Save Skills, Burst of Speed`
+  - ***Optional:** In Gameplay settings, enable Auto-Level for Party Members. This saves having to manually auto-level in a couple places, but you must remember to turn the setting off when you start a new run!*
+- Enter the Lower City
+- Immediately QS/QL to make sure the MC follows Bastila sufficiently
+- Enter Javyar's Cantina and talk to Canderous: 2
+- *Party: Add T3, Keep Canderous when prompted*
+- After loading in Davik's Estate, [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip the Davik/Calo convo and fight
+- Switch to T3 to hack security terminal: 1,2,2,4,3
+- Enter the Hangar
+- *Equip MC: Clothes or Nothing*
+- ***Optional:*** If you are *not* doing Krayt Skip on Tatooine, *Unequip Canderous and T3 entirely*
+- Board the Ebon Hawk, then use a [Map CS Skip](<./Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
   - This skips the cutscenes between Taris and Dantooine, as well as the fighter skirmish 
 
 ## Dantooine
