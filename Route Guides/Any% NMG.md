@@ -271,11 +271,11 @@ Abbreviations:
 - Computer Use to 4, Security to 1, Treat Injury (TI) to 4, Save 2
 - Initial Feat: Weapon Focus: Melee Weapons
 - Pick a good name!
-- Hit Play! (and be ready to [Hard Buffer](t5kyf#ch3Hard_Buffers)!)
+- Hit Play! (and be ready to [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>)!)
 
 ### Endar Spire
 
-- [Hard Buffer](t5kyf#ch3Hard_Buffers) past Intro CS
+- [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) past Intro CS
 - Loot footlocker
 - *Equip MC: Short Sword*
 - Trask conversation twice (spam)
@@ -290,7 +290,7 @@ Abbreviations:
 - Kill two Sith soldiers
 - Kill front two Sith soldiers on bridge
 - `Level to 2: Save skills, Two-Weapon Fighting`
-- [Hard Buffer](t5kyf#ch3Hard_Buffers) past Trask's death scene
+- [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) past Trask's death scene
 - Enter Starboard Section
 
 ### Starboard Section
@@ -313,7 +313,7 @@ Abbreviations:
 - *Equip MC: Combat Suit, Prototype Vibroblade Mainhand, Vibroblade Offhand*
 - Exit the apartment
 - *Party: No change when prompted*
-- [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip Sith Raid CS
+- [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip Sith Raid CS
 - Larrim accosts you: 1,2,4
 
 ```
@@ -333,16 +333,17 @@ SHOPPING: Larrim
 - *Stims: Use Battle Stimulant on MC*
 - Exit to Upper City South
 - ***Optional Safe Strat: Zelka Stims***
-- *Skipping Zelka saves around 6-8 seconds, but gives no leeway in terms of stims, meaning you lose lots of time if Carth or MC die anywhere on Taris.  This strat is recommended for beginning runners until they are comfortable with the rest of Taris.*
-  - Run towards statue at the end of the walkway
-  - Activate Solo Mode
-  - As Carth, open door to Upper City North
-  - As MC, talk to Zelka in the medical clinic: 3
-  - **BUY:** 3x Adrenal Alacrity (150 Credits)
-  - Swap to Carth and [Buffer GP Warp](<./Techniques/GP Warp#buffered-gp-warps>) to warp MC
-  - Run backwards to trigger the bullied merchant CS
-- *If you choose not to use the above strat:*
-  - Run down street to left and approach bullied merchant
+  - *Skipping Zelka saves around 6-8 seconds, but gives no leeway in terms of stims, meaning you lose lots of time if Carth or MC die anywhere on Taris.  This strat is recommended for beginning runners until they are comfortable with the rest of Taris.*
+  - *To perform the safe strat:*
+    - Run towards statue at the end of the walkway
+    - Activate Solo Mode
+    - As Carth, open door to Upper City North
+    - As MC, talk to Zelka in the medical clinic: 3
+    - **BUY:** 3x Adrenal Alacrity (150 Credits)
+    - Swap to Carth and [Buffer GP Warp](<./Techniques/GP Warp#buffered-gp-warps>) to warp MC
+    - Run backwards to trigger the bullied merchant CS
+  - *To skip the safe strat instead:*
+    - Run down street to left and approach bullied merchant
 - Bounty hunters accost you: 1 (+2 LSP)
 - Kill the bounty hunters with a frag grenade
 - Give credits to the merchant to pay his debt (+4 LSP)
@@ -365,32 +366,34 @@ SHOPPING: Larrim
 
 ### Lower City
 
-¤ [Hard Buffer](t5kyf#ch3Hard_Buffers) past Vulkar/Bek CS
-} Unequip Sith Armor from Carth
-Enter Javyar's Cantina
-Return to Hideout and immediately Transit Back
+- [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) past Vulkar/Bek CS
+- *Equip Carth: Clothes or Nothing*
+- Enter Javyar's Cantina
+- Return to Hideout and immediately Transit Back
   - This sets the Transit Point, which we will use after rescuing Bastila
-Leave the cantina and enter the Hidden Bek Base
-Activate Solo Mode
-While MC opens door in front, Carth opens the exit door
-Zaerdra accosts you, then talk to Gadon Thek: 1x10, 3, 2
-Leave to Lower City
-} Remove Carth from the party
-¤ [Hard Buffer](t5kyf#ch3Hard_Buffers) past Canderous CS
-Enter the Undercity
-- In this section, we want extra enemies to die so we get enough XP for Bastila to hit level 4 when we recruit her
-- Some of the Black Vulkars will die to the blaster turrets as you enter the Undercity
-- If all three Vulkars die, you can skip some enemies later on
+- Leave the cantina and enter the Hidden Bek Base
+- Activate Solo Mode
+- While MC opens door in front, Carth opens the exit door
+- Zaerdra accosts you, then talk to Gadon Thek: 1x10, 3, 2
+- Leave to Lower City
+- *Party: Remove Carth*
+- [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) past Canderous CS
+- Enter the Undercity
+  - We want extra enemies to die so we get enough XP for Bastila to hit level 4 when we recruit her
+  - Some of the Black Vulkars will die to the blaster turrets as you enter the Undercity
+  - If all three Vulkars die, you can skip some enemies later on
 
-**Undercity:**
-¤ [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip beggar CS
-> Level to 3: TI to 6, Empathy
-} Add Carth to party
-Exit the gate and kill the rakghoul
+### Undercity
+
+- [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip beggar CS
+- `Level to 3: TI to 6, Empathy`
+- *Party: Add Carth*
+- Exit the gate and kill the rakghoul
   - MC should use Flurry
-  - Carth uses Power Blast
-Mission joins the party
-Enter the Lower Sewers
+  - Carth uses Power Blast at close range
+- Mission agrees to help you
+- *Party: No change when prompted*
+- Enter the Lower Sewers
 
 **Sewers:**
 ---------------------------------------------------------
@@ -468,7 +471,7 @@ As Carth (or as MC if no Carth):
 As MC:
 - Kill both Vulkars in the central hallway
 - Continue past the mines and take last door on left
-¤ [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip Kandon Ark fight
+¤ [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip Kandon Ark fight
 - Get the swoop accelerator
 - Talk to Kandon Ark: 1,1,1 (-2 DSP)
 - This will teleport you outside the Vulkar base
@@ -476,13 +479,13 @@ As MC:
 **Rescuing Bastila:**
 Return to Hidden Bek base
 Talk to Zaerdra and Gadon Thek
-¤ After talking to Gadon, [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip the Ithorian convo at the swoops
+¤ After talking to Gadon, [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip the Ithorian convo at the swoops
 Talk to the Race Coordinator to complete race one
   - Do not shift into the top gear for these swoop races; it's faster by roughly a second to stay in fourth gear!
   - Whatever time you get on this race will be beaten by 0.25s by Redros 
 Talk to the Race Coordinator to complete race two
   - You'll need to beat Redros's time on the second race, but your swoop accelerates faster than before
-¤ After talking to the Ithorian but BEFORE Brejik's convo, [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip the Brejik fight
+¤ After talking to the Ithorian but BEFORE Brejik's convo, [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip the Brejik fight
 - Click twice then immediately QS
 Talk to Bastila
   - If you miss the previous buffer, you can use [Combat Talking](upcnj) to talk to Bastila and skip the Brejik fight
@@ -493,7 +496,7 @@ Talk to Bastila
 [section=Taris 2]
 
 **Upper City:**
-¤ [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip Carth/Bastila's conversation
+¤ [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip Carth/Bastila's conversation
 Exit the apartment
 ¤ After loading, use a [Map CS skip](rb685) to Transit Back into Javyar's Cantina
 - Add Bastila to the party after this conversation
@@ -513,20 +516,20 @@ Click the elevator and mash the conversation
 - This warps the entire party to the elevator and gives you control of the MC
 Run to Sith Base (with Bastila's Force Speed or MC's Alacrity)
 - You can also [Save Teleport](5dagb) with T3 if Bastila is not level 4 still
-¤ [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip T3's door opening animation
+¤ [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip T3's door opening animation
 } Remove Bastila and add Zaalbar
 } Equip Mission's Vibroblade and Vibroblade to Zaalbar
 } Use Adrenal Strength on Zaalbar
 Enter Sith Base
 
 **Sith Base:**
-¤ [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip secretary conversation
+¤ [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip secretary conversation
 - If you miss, the conversation is 3,1
 Kill both patrol droids at the end of the first hallway
 Take right hallway and kill patrol droid
 Defeat Sith soldiers in barracks
 Loot footlocker for passcard with T3
-¤ As T3, [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip Assault Droid intro CS
+¤ As T3, [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip Assault Droid intro CS
 Assault droid fight
   - Pause and use a Concussion Grenade on Assault Droid with T3
   - MC attacks Assault Droid with Flurry
@@ -551,7 +554,7 @@ Enter the Lower City
 Immediately QS/QL to make sure the MC follows Bastila sufficiently
 Enter Javyar's Cantina and talk to Canderous: 2
 Add T3 to party (should be Canderous and T3)
-¤ After the Malak/Saul CS, [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip the Davik/Calo fight
+¤ After the Malak/Saul CS, [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip the Davik/Calo fight
 Switch to T3 to hack security terminal: 1,2,2,4,3
 Enter the Hangar
 } Equip Clothes (or nothing) on MC, and...
@@ -564,7 +567,7 @@ Enter the Hangar
 **Jedi Enclave:**
 Follow Bastila to Jedi Council
 - While doing this, check the menu in the bottom right to see if you have an Adrenal Alacrity
-¤ [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip Belaya's conversation
+¤ [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip Belaya's conversation
 ¤ [Open Buffer](t5kyf#ch5Open_Buffers) into the council conversation
   - This lets you skip the first text faster than usual, saving a few seconds
 If you have an Adrenal Alacrity, press the stim hotkey *before* the dream CS to use it
@@ -572,7 +575,7 @@ If you have an Adrenal Alacrity, press the stim hotkey *before* the dream CS to 
 } Remove Canderous from party when prompted (leave T3)
 ¤ [Open Buffer](t5kyf#ch5Open_Buffers) into the council conversation
 - Swap to T3 as the buffer ends
-¤ IMMEDIATELY AFTER this conversation, [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip training montage
+¤ IMMEDIATELY AFTER this conversation, [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip training montage
   - This conversation is seven 1s; I count those seven, then click twice
   - As Master Vrook says, "I can only hope you prove up to the task...", click to skip the text and IMMEDIATELY AFTER, QS to start buffering
   - If you get the QS, but fail the load, kill the program, reopen, and reload the save
@@ -810,7 +813,7 @@ https://i.imgur.com/GGjL3bL.png
 - Loot chewed Twi'lek corpse for Nerve Amplifier Belt
 - Star Map: Tatooine
 ---------------------------------------------------------
-¤ [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip Calo Nord fight (and possibly Krayt Death trigger)
+¤ [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip Calo Nord fight (and possibly Krayt Death trigger)
 Exit to Dune Sea
 Return to the Ebon Hawk and board
 Make sure the following are equipped:
@@ -906,7 +909,7 @@ Fly to Kashyyyk (no Map CS Skip)
 **Detention:**
 Carth whines at you on the Ebon Hawk: 1,1,1,2
 Saul Karath's interrogation scene
-¤ IMMEDIATELY AFTER, [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip Mission's intro CS
+¤ IMMEDIATELY AFTER, [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip Mission's intro CS
 ¤ [Save Teleport](5dagb) and take door at end of left hallway
 Loot footlocker for Sith Passcard AND 3 Computer Spikes
 ¤ [Save Teleport](5dagb) all the way to the Detention Center
@@ -938,7 +941,7 @@ Exit the way you entered and take door on left
 QS before door across the hall
 Run through next room, bash down door, and enter bridge storage
   - If you get stunned or your party wanders off, QL and retry
-¤ [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip the spacewalk
+¤ [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip the spacewalk
   - Click the door, QS once, then QL
   - Done perfectly, you can run through the space section without any trouble
   - If that fails, the door may look open but be closed and solid (if your QS was slightly late)
@@ -1132,18 +1135,18 @@ Exit the Ebon Hawk
 Go right, then left
 - To get past the two frozen assault droids, click on the distant door and watch the wonders of KotOR pathing
 - While waiting for the first hostile pair of droids, use a Hyper Alacrity to preserve the effects of Speed
-¤ [Hard Buffer](t5kyf#ch3Hard_Buffers) past Jedi vs. Sith CS
+¤ [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) past Jedi vs. Sith CS
 Recast Knight Speed
 Cast Knight Valor as you enter Deck 2
 
 **Deck 2:**  
-¤ [Hard Buffer](t5kyf#ch3Hard_Buffers) past fight trigger
+¤ [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) past fight trigger
 Take left path, then right, then turn left
 Hack computer terminal: 1,1,5
 Return and take elevator to Command Deck
 
 **Command Deck:**
-¤ Immediately after loading, [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip Bastila/Malak CS
+¤ Immediately after loading, [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip Bastila/Malak CS
 Run/Force Jump until double doors
 } Use rest of Hyper Stim Suite and Knight Speed/Valor if needed
 ¤ [Open Buffer](t5kyf#ch5Open_Buffers) into the triple Dark Jedi fight
