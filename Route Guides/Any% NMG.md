@@ -701,8 +701,8 @@ SHOPPING: Selkath Merchant
   - Sith on the street accosts you: 2
   - You can [Soft Buffer](<./Techniques/Save Buffering#soft-buffers>) this as well
 - Talk to Roland Wann
-- ***Optional:*** Add Zaalbar and Juhani to party.
-  - *This gives more consistent extra XP from the rift, making it more likely to hit level 9 before Uthar and reach level 11 on Star Forge.*
+- ***Optional** Party: Add Zaalbar and Juhani*
+  - *This gives more consistent extra XP from patrol droids in Hrakert Station, making it more likely to hit level 9 before Uthar and reach level 11 on Star Forge.*
 - Take submersible to Hrakert Rift 
 
 ### Hrakert Rift
@@ -743,94 +743,98 @@ SHOPPING: Selkath Merchant
 
 *Note: For Tatooine and almost every planet afterwards, [Save Teleports](<./Techniques/Save Teleporting>) are the most efficient form of movement.  These are more effective if you do NOT have Force Speed active, so try to keep it off as much as possible. [Force Skips](<./Techniques/Force Skips>) can still be done by casting Force Speed twice to cancel it.*
 
-**Anchorhead:**
-Czerka Officer conversation: 1,1,5
-- Or [Force Skip](<./Techniques/Force Skips>) the conversation
-*Optional: If you are *not* doing Krayt Skip, talk to Mic'Tunan'Jus Orgu: 1*
----------------------------------------------------------
-*SHOPPING: Mic'Tunan'Jus Orgu*
-**BUY:**
-- Bantha Fodder
-End: ~500-800 Credits
----------------------------------------------------------
-¤ [Soft Buffer](<./Techniques/Save Buffering#soft-buffers>) to skip the Gizka conversation
-Exit to Anchorhead
-- Cast Force Valor as you do so to try to Duration Glitch it
-Enter Czerka Office
-¤ [Force Skip](<./Techniques/Force Skips>) the Duros conversation
-Talk to the Czerka Officer: 1,1,1,3,2
-Exit the office
-¤ [Soft Buffer](<./Techniques/Save Buffering#soft-buffers>) or [Save Teleport](<./Techniques/Save Teleporting>) to skip the Dark Jedi fight
-Speak to the Gate Guard to exit to Dune Sea
+### Anchorhead
 
-**Dune Sea:**
-¤ [Soft Buffer](<./Techniques/Save Buffering#soft-buffers>) to skip the angry wife conversation
-¤ [Save Teleport](<./Techniques/Save Teleporting>) towards the Eastern Dune Sea (left side of sandcrawler)
-¤ [Save Teleport](<./Techniques/Save Teleporting>) past Eastern Dune Sea loading zone
+- Czerka Officer accosts you: 1,1,5
+  - Or [Force Skip](<./Techniques/Force Skips>) the conversation
+- ***Optional:*** If you are *not* doing Krayt Skip, talk to Mic'Tunan'Jus Orgu: 1
+
+```
+SHOPPING: Mic'Tunan'Jus Orgu
+- BUY:
+  - Bantha Fodder
+- End: ~500-800 Credits
+```
+
+- [Soft Buffer](<./Techniques/Save Buffering#soft-buffers>) to skip the Gizka conversation
+- Exit to Anchorhead
+  - *Force: Cast Force Valor before exiting to Duration Glitch it*
+- Enter Czerka Office
+- [Force Skip](<./Techniques/Force Skips>) the Duros conversation
+- Talk to the Czerka Officer: 1,1,1,3,2
+- Exit the office
+- [Soft Buffer](<./Techniques/Save Buffering#soft-buffers>) or [Save Teleport](<./Techniques/Save Teleporting>) to skip the Dark Jedi fight
+- Speak to the Gate Guard to exit to Dune Sea
+
+### Dune Sea
+
+- [Soft Buffer](<./Techniques/Save Buffering#soft-buffers>) to skip the angry wife conversation
+- [Save Teleport](<./Techniques/Save Teleporting>) towards the Eastern Dune Sea (left side of sandcrawler)
+- [Save Teleport](<./Techniques/Save Teleporting>) past Eastern Dune Sea loading zone
   - This skips a trigger that prevents you from entering without a map
-  - You can instead use a [Soft Buffer](<./Techniques/Save Buffering#soft-buffers>) to cancel the trigger preventing you from entering the loading zone.
-*Optional: If you *are* doing Krayt Skip, add Bastila to party*
-Enter loading zone from the back to enter Eastern Dune Sea
+  - A [Soft Buffer](<./Techniques/Save Buffering#soft-buffers>) will also cancel the trigger preventing you from entering the loading zone
+- ***Optional:*** If you *are* doing Krayt Skip, *Party: Add Bastila*
+- Enter loading zone from the back to enter Eastern Dune Sea
 
-**Eastern Dune Sea:**
----------------------------------------------------------
-***Optional Strat: Krayt Dragon Skip***
-*This skip saves a minute if you get it first try, but has an extremely narrow window (possibly frame perfect).  This is recommended only for runners going for top times.*
-¤ [Save Teleport](<./Techniques/Save Teleporting>)/[Soft Buffer](<./Techniques/Save Buffering#soft-buffers>) from entrance all the way into the Krayt Dragon's cave
---- Make sure Bastila follows you!
-- Loot left hand rubble for Opila crystal
-- Activate Solo Mode
-- As MC, run to mouth of cave
-- As Bastila, stand in a fairly precise position in front of the Krayt Dragon
---- We use Bastila to block the Krayt so it ends up in a specific spot
---- Use these pictures to help you line it up
-https://i.imgur.com/wWAiCqs.png
-https://i.imgur.com/GGjL3bL.png
-- Make a Hard Save, then a QS for safety
-- As MC, run out of the cave
-- After the Krayt Dragon CS but before the pop-up indicating your death, QS
---- This is a very small window. Good luck!
---- If you fail, load the safety QS and run forward to try again
---- If you get it fourth try, it roughly breaks even with the no skip route
-- Once successful, load the QS
-- Swap to Bastila and talk to the Krayt Dragon
---- This freezes it in place
-- Deactivate Solo Mode
-- Loot the chewed Twi'lek corpse for Nerve Amplifier Belt
-- Star Map: Tatooine
---- If you can't make it around the Krayt's right side, Bastila's position was off; load the safety Hard Save
---- If you can get the map but can't loot the belt, buy it from Mic'Tunan'Jus Orgu when you get back to the Docking Bay
---- You'll have to skip buying Hyper Staminas and some medpacs on Korriban in this case
----------------------------------------------------------
-*If you choose not to use the above strat:*
-¤ [Save Teleport](<./Techniques/Save Teleporting>) to skip anonymous hunter's death CS
-- Talk to Komad Fortuna: 1,2,1,1,3,1
-¤ [Save Teleport](<./Techniques/Save Teleporting>) to skip death CS on the way out
-} Use Hyper Adrenal Strength and Hyper Battle Stim
-} Cast Force Valor
-- Talk to banthas to lure them with fodder
-- Kill four Elite Sand People Warriors:
---- Force Jump and Flurry to kill the center warrior first
---- Force Jump and Flurry the right warrior next
---- Force Jump/Flurry to the remaining pair to finish those two off
-- Lure banthas with fodder again
-- Talk to Komad Fortuna: 1 | 1
-- Loot chewed Twi'lek corpse for Nerve Amplifier Belt
-- Star Map: Tatooine
----------------------------------------------------------
-¤ [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip Calo Nord fight (and possibly Krayt Death trigger)
-Exit to Dune Sea
-Return to the Ebon Hawk and board
-Make sure the following are equipped:
-- Verpine Headband
-- Strength Gauntlets
-- Nerve Amplifier Belt
-- Jedi Knight Robe
-- Double-Bladed Lightsaber
-} Upgrade Double Lightsaber: Sigil and Krayt Pearl/Opila
-¤ Fly to Korriban with two [Map CS Skips](<./Techniques/Map Cutscene Skips>)
+### Eastern Dune Sea
 
-[section=Korriban]
+- ***Optional Strat: Krayt Dragon Skip***
+  - *This skip saves a minute if you get it first try, but has a 2-frame window, and retries take 14-15 seconds.  This is recommended only for runners going for top times.*
+  - *To perform Krayt Dragon Skip:*
+    - [Save Teleport](<./Techniques/Save Teleporting>)/[Soft Buffer](<./Techniques/Save Buffering#soft-buffers>) from entrance all the way into the Krayt Dragon's cave
+      - Make sure Bastila follows you!
+    - Loot left hand rubble for Opila crystal
+    - Activate Solo Mode
+    - As MC, run to mouth of cave
+    - As Bastila, stand in a fairly precise position in front of the Krayt Dragon
+      - We use Bastila to block the Krayt so it ends up in a specific spot
+      - Use these pictures to help you line it up
+![An image showing Bastila's positioning for Krayt Skip](https://i.imgur.com/wWAiCqs.png)
+![Another angle of Bastila's positioning for Krayt Skip](https://i.imgur.com/GGjL3bL.png)
+    - Swap to MC and QS
+    - Run out of the cave to trigger the CS where the Krayt Dragon eats you
+    - After the CS but before the pop-up indicating your death, QS
+      - This is a 2-frame window at 60 FPS. Good luck!
+      - If you fail, load the safety QS and run forward to try again
+      - If you get it fourth try, it roughly breaks even with the no skip route
+    - Once successful, load the QS
+    - Swap to Bastila and talk to the Krayt Dragon
+      - This freezes it in place
+    - Deactivate Solo Mode
+    - Loot the chewed Twi'lek corpse for Nerve Amplifier Belt
+    - Star Map: Tatooine
+      - If you can't make it around the Krayt's right side, Bastila's position was off; load the Autosave and redo the setup
+      - If you can get the map but can't loot the belt, buy it from Mic'Tunan'Jus Orgu when you get back to the Docking Bay
+      - You'll have to skip buying Hyper Staminas and some medpacs on Korriban in this case
+  - *If you choose not to use the above strat:*
+    - [Save Teleport](<./Techniques/Save Teleporting>) to skip anonymous hunter's death CS
+    - Talk to Komad Fortuna: 1,2,1,1,3,1
+    - [Save Teleport](<./Techniques/Save Teleporting>) to skip death CS on the way out
+    - *Stims/Force: Hyper Adrenal Strength and Hyper Battle Stim on MC, Cast Force Valor*
+    - Talk to banthas to lure them with fodder
+    - Kill four Elite Sand People Warriors:
+      - Force Jump and Flurry to kill the center warrior first
+      - Force Jump and Flurry the right warrior next
+      - Force Jump/Flurry to the remaining pair to finish those two off
+      - Keep a close eye on your health and medpac as needed
+    - Lure banthas with fodder again
+    - Talk to Komad Fortuna: 1 | 1
+    - Loot chewed Twi'lek corpse for Nerve Amplifier Belt
+    - Star Map: Tatooine
+- [Hard Buffer](<./Techniques/Save Buffering#hard-buffers>) to skip Calo Nord fight (and possibly Krayt Death trigger)
+  - The Calo CS cannot be [Soft Buffered](<./Techniques/Save Buffering#soft-buffers>)
+- Exit to Dune Sea
+- Return to the Ebon Hawk and board
+- *Equip MC:*
+  - *Verpine Headband*
+  - *Strength Gauntlets*
+  - *Nerve Amplifier Belt*
+  - *Jedi Knight Robe*
+  - *Double-Bladed Lightsaber*
+- **Upgrade Double Lightsaber: Add Sigil and Krayt Pearl or Opila**
+- Fly to Korriban with two [Map CS Skips](<./Techniques/Map Cutscene Skips>)
+
+## Korriban
 
 **Dreshdae:**
 Port Authority accosts you: 1,1,3,2
