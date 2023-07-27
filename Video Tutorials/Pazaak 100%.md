@@ -12,7 +12,6 @@
   height: 100%;
 }
 </style>
-
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/AnwfyYq30mA" frameborder="0"></iframe>
 </div>
