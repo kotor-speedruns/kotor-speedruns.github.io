@@ -7,9 +7,9 @@ Welcome to the KotOR Speedrunnign Guides landing page. This page is temporary, a
 - [All Quests NMG](./Route%20Guides/All%20Quests%20NMG)
 - [All Quests Unrestricted](./Route%20Guides/All%20Quests%20Unrestricted)
 - [All Star Maps](./Route%20Guides/All%20Star%20Maps)
-- [Any% Glitchless](./Route%20Guides/Any%%20Glitchless)
-- [Any% NMG](./Route%20Guides/Any%%20NMG)
-- [Any% Unrestricted](./Route%20Guides/Any%%20Unrestricted)
+- [Any% Glitchless](./Route%20Guides/Any%25%20Glitchless)
+- [Any% NMG](./Route%20Guides/Any%25%20NMG)
+- [Any% Unrestricted](./Route%20Guides/Any%25%20Unrestricted)
 
 **Techniques**
 - [Combat Talking](./Techniques/Combat%20Talking)
@@ -33,10 +33,10 @@ Welcome to the KotOR Speedrunnign Guides landing page. This page is temporary, a
 - [The Routine](./Major%20Glitches/The%20Routine)
 
 **Video Tutorials**
-- [Any% NMG](./Video%20Tutorials/Any%%20NMG)
-- [Any% Unrestricted](./Video%20Tutorials/Any%%20Unrestricted)
+- [Any% NMG](./Video%20Tutorials/Any%25%20NMG)
+- [Any% Unrestricted](./Video%20Tutorials/Any%25%20Unrestricted)
 - [Old Video Tutoirials](./Video%20Tutorials/Old%20Video%20Tutorials)
-- [Pazaak 100%](./Video%20Tutorials/Pazaak%20100%)
+- [Pazaak 100%](./Video%20Tutorials/Pazaak%20100%25)
 
 **Miscellaneous**
 - [Enemy Spawn Triggers](./Miscellaneous/Enemy%20Spawn%20Triggers)
