@@ -1,3 +1,3 @@
-[![Youtube Link to Sober's Video Tutorial](https://img.youtube.com/vi/AnwfyYq30mA/maxresdefault.jpg)](https://youtu.be/AnwfyYq30mA)
+<iframe src="https://www.youtube.com/embed/AnwfyYq30mA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 *By SoberLyte, uploaded 6-24-2019*
