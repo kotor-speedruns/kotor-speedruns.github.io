@@ -1,3 +1,17 @@
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
 # Star Wars: Knights of the Old Republic - Any% NMG Video Tutorials
 
 *Tutorials by indykenobi; uploaded 8-7-2022*
