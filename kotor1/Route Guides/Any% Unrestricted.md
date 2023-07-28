@@ -58,7 +58,7 @@ The brief outline of the route for the Any% run, including planet order and majo
 
 *2. Taris*
 
-* (Scoundrel route) [Skele FLU](../Major%20Glitches/Fake%20Level%20Up) for Sneak attack 9 and Improved TWF
+* [Sneak Attack FLU](../Major%20Glitches/Fake%20Level%20Up#sneak-attack-flu) for Sneak Attack IX and Improved TWF
 * [Autosave Hothsot](../Major%20Glitches/Hotshot) to upper city north
 * [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#sith-base-dlz) into the Sith Base
 * Kill and loot the Sith Governor to obtain Taris Launch Codes
@@ -264,7 +264,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
   - If you did Plot Armor, skip Larrim with a [Conversation Queue](../Techniques/Conversation%20Queue) or a [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers)
 
 ```
-SHOPPING: Larrim*
+SHOPPING: Larrim
 - SELL:
   - Everything
 - BUY:
