@@ -6,42 +6,28 @@ This route defeats Malak on the Star Forge as fast as possible; Timing begins up
 
 Finally, if you have additional questions, you can check out the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu). There's a bunch of friendly folks there willing to answer questions!
 
-**REMEMBER to show yourself restarting the game at the beginning of each attempt.**
-
 **Table of Contents**
+- [Unrestricted Ruleset](#unrestricted-ruleset)
 - [Guide Organization](#guide-organization)
 - [Route Overview](#route-overview)
+  - [Save Setup](#save-setup)
 - [Character Build](#character-build)
 - [Detailed Route](#detailed-route)
-  - [Endar Spire](#endar-spire)
-    - [Starboard Section](#starboard-section)
-  - [Taris](#taris)
-      - [Apartments](#apartments)
-      - [Upper City South](#upper-city-south)
-      - [Upper City North](#upper-city-north)
-      - [Sith Base](#sith-base)
-      - [Lower City](#lower-city)
-      - [Bek Base](#bek-base)
-      - [Escaping Taris](#escaping-taris)
-  - [Dantooine](#dantooine)
-      - [Jedi Enclave](#jedi-enclave)
-      - [Courtyard](#courtyard)
-      - [Ancient Ruins](#ancient-ruins)
-      - [Leaving Dantooine](#leaving-dantooine)
-  - [Kashyyyk](#kashyyyk)
-      - [The Great Walkway](#the-great-walkway)
-      - [Upper Shadowlands](#upper-shadowlands)
-      - [Lower Shadowlands/**The Routine**](#lower-shadowlands)
-  - [Lehon](#lehon)
-      - [Reaching the Temple Summit](#reaching-the-temple-summit)
-      - [Confronting Bastila](#confronting-bastila)
-  - [Star Forge](#star-forge)
-      - [Deck 1](#deck-1)
-      - [Deck 2](#deck-2)
-      - [Command Deck](#command-deck)
-      - [Viewing Platform](#viewing-platform)
 - [Version History](#version-history)
 - [Closing](#closing)
+
+## Unrestricted Ruleset
+
+**REMEMBER to show yourself restarting the game at the beginning of each attempt.**
+
+Any% Unrestricted is the fastest speedrun in KotOR I speedrunning, eclipsed only by KotOR II Any% Unrestricted.
+
+All glitches are allowed in Unrestricted; however, all KotOR speedruns ban the following:
+- Abusing the windowed nature of the game to teleport a character (including Super Save Teleports)
+- Severe underclocking of one's monitor to increase Save Teleport distance
+- Abusing the load removal to excessively pause the timer
+- Loading saves created prior to the run
+- Use of mods or other external tools to modify the software in any way 
 
 ## Guide Organization
 
@@ -52,7 +38,7 @@ Because of the power of the Unrestricted Ruleset, this run skips a huge amount o
 
 ## Route Overview
 
-**Run Setup**
+### Save Setup
 
 The route uses the "Three Save Method", meaning the run will use the top three save slots in your game. These are typically labelled, in order, "Hotshot Current", "Teleport", "Fast Lane".
 - "Hotshot Current" stores the active save that we will be running with and [Hotshotting](../Major%20Glitches/Hotshot) around with.
@@ -60,23 +46,6 @@ The route uses the "Three Save Method", meaning the run will use the top three s
 - "Teleport" stores temporary locations that we will use to hotshot to in the future.
 
 *NOTE: Many runners have began to use the "No Save Method", where you start the game with no save slots, and simply create a new save at each point a hard save is needed. Both methods are valid*
-
-**Route Notation**
-
-\> indicates a level up to be done  
-} indicates an inventory/equipment action to be done  
-MC - Stands for Main Character, your player character  
-PC - Stands for any player controlled character (such as the MC or a party member)  
-CS - Cutscene  
-QS - Quick Save  
-QL - Quick Load  
-QS/QL - Quick Save then immediately Quick Load  
-AMG - [Anywhere Menu Glitch](../Major%20Glitches/Anywhere%20Menu%20Glitch)  
-DLZ - [Displaced Load Zone](../Major%20Glitches/Displaced%20Load%20Zone)  
-FLU - [Fake Level Up](../Major%20Glitches/Fake%20Level%20Up)  
-GP Warp - [Gather Party Warp](../Techniques/GP%20Warp)  
-
-*Conversation Note: If no conversation choices are specified, spamming clicks, NumPad Enter, and/or 1 will all work (this chooses all 1 options)*
 
 **Route Outline**
 
@@ -135,31 +104,30 @@ The brief outline of the route for the Any% run, including planet order and majo
 
 We begin as a Scoundrel; this guide as written can be completed as either a Male or Female character, with no time difference. However, Male PC has become the more common choice for [DLZ](../Major%20Glitches/Displaced%20Load%20Zone) visual cues. Scoundrel is picked for its access to Sneak Attack IX, which is abused to quickly kill the Sith Governor and Gadon Thek.
 
-**Character Creation: Initial Selections**
+### Character Creation
 
-Str - 8  
-Dex - 16/18  
-Con - 18/16  
-Int - 8  
-Wis - 10  
-Cha - 10  
+**Initial Attributes:**
+* Str - 8
+* Dex - 16/18
+* Con - 18/16
+* Int - 8
+* Wis - 10
+* Cha - 10
 
-*The choice between 16 DEX/18 CON and vice-versa comes down to personal preference of runner*
+The choice between 16 DEX/18 CON and vice-versa comes down to personal preference of runner; 18 DEX gives you a slightly better chance to hit Gadon and the Sith Governor, while 18 CON gives you slightly more survivability in the Sith Base on Taris and during the final fight with Malak.  If you do the Plot Armor glitch on Endar Spire, you should take 18 Dex, 14 Con, 14 Wis, and 10 Cha instead.
 
-Awareness - 4 (Optional)  
-Security - 4
+**Initial Skills:**
+* Security - 4
+* Awareness - 4 (Optional, can help spot mines)
 
-Initial Feat: Two-Weapon Fighting
+**Initial Feat:** - Two-Weapon Fighting
 
-**Leveling Plan:**
+### Leveling Plan
 
-*Level 2: [Skele FLU](../Major%20Glitches/Fake%20Level%20Up)*
-
-Skele FLU from 2 to 17:
-- Improved Two-Weapon Fighting
-- Sneak Attack IX
-
-*Levels 3: Auto-Level (Optional)*
+- *Level 2: [Sneak Attack FLU](<../Major Glitches/Fake Level Up#sneak-attack-flu>) to obtain:*
+  - Improved Two-Weapon Fighting
+  - Sneak Attack IX
+- *Level 3: Auto-Level (Optional; gives slightly more Vitality for the Malak fight)*
 
 **Character Build Notes:**
 
@@ -169,180 +137,232 @@ Skele FLU from 2 to 17:
 
 ## Detailed Route
 
+This section will describe all the actions you need to take for the Any% Unrestricted speedrun.
+
+Notation:
+- `Level ups are highlighted in code block`
+- *Inventory/Equipment changes are highlighted in italics*
+- `Shopping trips are highlighted in large code blocks`
+- **Hard Saves to make are highlighted in bold**
+
+Abbreviations:
+* MC - Stands for Main Character, your player character
+* PC - Stands for any player controlled character (such as the MC or a party member)
+* CS - Cutscene
+* QS - Quick Save
+* QL - Quick Load
+* QS/QL - Quick Save then immediately Quick Load
+* AMG - [Anywhere Menu Glitch](../Major%20Glitches/Anywhere%20Menu%20Glitch)
+* DLZ - [Displaced Load Zone](../Major%20Glitches/Displaced%20Load%20Zone)
+* FLU - [Fake Level Up](../Major%20Glitches/Fake%20Level%20Up)
+* GP Warp - [Gather Party Warp](../Techniques/GP%20Warp)
+
+Conversation Note: If no conversation choices are specified, spamming clicks, NumPad Enter, and/or 1 will all work (this chooses all 1 options)
+
+**Jump to a Section:**
+- [Endar Spire](#endar-spire)
+  - [Character Creation](#character-creation)
+  - [Command Module](#command-module)
+  - [Starboard Section](#starboard-section)
+- [Taris](#taris)
+  - [Apartments](#apartments)
+  - [Upper City South](#upper-city-south)
+  - [Upper City North](#upper-city-north)
+  - [Sith Base](#sith-base)
+  - [Lower City](#lower-city)
+  - [Bek Base](#bek-base)
+  - [Escaping Taris](#escaping-taris)
+- [Dantooine](#dantooine)
+  - [Jedi Enclave](#jedi-enclave)
+  - [Courtyard](#courtyard)
+  - [Ancient Ruins](#ancient-ruins)
+  - [Leaving Dantooine](#leaving-dantooine)
+- [Kashyyyk](#kashyyyk)
+  - [The Great Walkway](#the-great-walkway)
+  - [Upper Shadowlands](#upper-shadowlands)
+  - [Lower Shadowlands/**The Routine**](#lower-shadowlands)
+- [Lehon](#lehon)
+  - [Reaching the Temple Summit](#reaching-the-temple-summit)
+  - [Confronting Bastila](#confronting-bastila)
+- [Star Forge](#star-forge)
+  - [Deck 1](#deck-1)
+  - [Deck 2](#deck-2)
+  - [Command Deck](#command-deck)
+  - [Viewing Platform](#viewing-platform)
+
+## Endar Spire
+
 *Before beginning, disable VSync in Advanced Graphics Options if you are using the Rubble DLZ on Endar Spire. This makes the DLZ more consistent.*
 
-\> Male/Female Scoundrel - Custom Character  
-\> Dex to 16/18, Con to 18/16, Wis to 10, Cha to 10  
-\> Awareness to 4, Security to 4  
-\> Initial Feat: Two-Weapon Fighting  
-\> Pick a good name!  
-\> Hit Play! (and be ready to [Hard Buffer](../Techniques/Save%20Buffering)!)  
+### Character Creation
+- Male/Female Scoundrel - Custom Character  
+- Dex to 16/18, Con to 18/16, Wis to 10, Cha to 10  
+- Awareness to 4, Security to 4  
+- Initial Feat: Two-Weapon Fighting  
+- Pick a good name!  
+- Hit Play! (and be ready to [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers)!)  
 
-#
----------------------------------------------------------
-### **Endar Spire**
 
-[Hard Buffer](../Techniques/Save%20Buffering) to skip the intro CS  
-[DLZ](../Major%20Glitches/Displaced%20Load%20Zone#endar-spire-dlz) into the Starboard Section through one of the following two methods:
+### Command Module
 
----------------------------------------------------------
-***Method One: Rubble DLZ***
-*This strat is potentially 20 seconds faster, but the marginally DLZ is harder.*
-- Skip the footlocker and talking to Trask
-- Open Buffer past Trask to use Security during Trask's first conversation
-- DLZ by walking into the rubble near the second Sith soldier in the right spot
----------------------------------------------------------
-***Method Two: Doorframe DLZ***
-*This strat is much easier, but slower than a good Rubble DLZ.*
-- Loot footlocker
-} Equip Short Sword
-- Open door and Talk to Trask twice
-- Open Buffer to use Security during the Carth CS
-- Kill first two Sith and open next door
-- DLZ by walking into the right side of the door frame in the right spot
----------------------------------------------------------
+- [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip the intro CS  
+- [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#endar-spire-dlz) into the Starboard Section through one of the following two methods:
+  - ***Method One: Rubble DLZ***
+    - *This strat is potentially 20 seconds faster, but the DLZ is marginally harder.  This is the recommended method.*
+    - Skip the footlocker and talking to Trask
+    - [Open Buffer](../Techniques/Save%20Buffering#open-buffers) past Trask to use Security during Trask's first conversation
+    - DLZ by walking into the rubble near the second Sith soldier in the right spot
+  - ***Method Two: Doorframe DLZ***
+    - *This strat is much easier, but significantly slower than a good Rubble DLZ.  Recommended only for brand-new runners.*
+    - Loot footlocker
+    - *Equip MC: Short Sword*
+    - Open door and Talk to Trask twice
+    - *Equip Trask: Blaster Pistol Offhand*
+    - [Open Buffer](../Techniques/Save%20Buffering#open-buffers) to use Security during the Carth CS
+    - Kill first two Sith with Trask's Power Blast and open next door
+    - DLZ by walking into the right side of the door frame in the right spot
 
-#### **Starboard Section:**
+### Starboard Section
 
-***Optional Strat: Plot Armor***  
-*This strat grants a minimum HP of 1 (called "Plot Armor" for short) for the rest of the run, but requires redoing the Spire DLZ and costs a minimum of 10 seconds (but likely more). The run can be done without it, but this strat provides a little safety if desired.*
-- Hotshot back to Command Module to activate Plot Armor:
-  - During (or after) the Carth CS, Hard Save to "Hotshot Current" slot
-  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QL (This way your QS remains in the Command Module)
-  - Open Options, click "Exit Game", select both "OK" and "Save Game" simultaneously
-  - Navigate down once in the main menu, and click Load Game
-  - If the save name hasn't changed to "QUICKSAVE", click cancel, press up then down, and click Load Game again
-  - Once the save name changes to "QUICKSAVE", load that save. Plot Armor is now active.
-  [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#endar-spire-dlz) into the Starboard Section again, using whatever method you used above  
-
----------------------------------------------------------
-***Otherwise:***  
-[AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load-in for the Starboard Section
-Unpause/Cancel to begin moving to the next room while Carth narrates  
-QS next to the footlocker and then default action to open the footlocker  
-
----------------------------------------------------------
-Loot footlocker in Terminal Room  
-Hack terminal console: 2,3  
-Carth accosts you  
-Take escape pod to Taris  
-[AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) while the dream CS loads  
-Unpause, cancel, and hit free-look twice  
-Hold down QS while this cutscene plays, which skips forward through the animation (This saves between 4-5 seconds)  
+- ***Optional Strat: Plot Armor***  
+  - *This strat grants a minimum HP of 1 (called "Plot Armor" for short) for the rest of the run, but requires redoing the Spire DLZ and costs a minimum of 10 seconds (but likely more). The run can be done without it, but this strat provides a little safety if desired.*
+  - *To obtain Plot Armor:*
+    - Hotshot back to Command Module to activate Plot Armor:
+    - During (or after) the Carth CS, Hard Save to "Hotshot Current" slot
+    - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QL (This way your QS remains in the Command Module)
+    - Open Options, click "Exit Game", select both "OK" and "Save Game" simultaneously
+    - Navigate down once in the main menu, and click Load Game
+    - If the save name hasn't changed to "QUICKSAVE", click cancel, press up then down, and click Load Game again
+    - Once the save name changes to "QUICKSAVE", load that save. Plot Armor is now active.
+    - [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#endar-spire-dlz) into the Starboard Section again, using whatever method you used above  
+  - *If you choose not to use the above strat:*
+    - [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load-in for the Starboard Section
+    - Unpause/Cancel to begin moving to the next room while Carth narrates  
+    - QS next to the footlocker to end the CS
+- Loot footlocker in Terminal Room  
+- Hack terminal console: 2,3  
+- Carth accosts you  
+- Take escape pod to Taris  
+- [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) while the dream CS loads  
+- Unpause, cancel, and hit free-look twice  
+- Hold down QS while this cutscene plays, which skips forward through the animation (This saves between 4-5 seconds)  
  
- ---------------------------------------------------------
-### **Taris**
+## Taris
 
-#### **Apartments:**  
-Immediately after the load-in, press Up+Left to move the character closer to the door before the start of Carth's Cutscene  
-Carth accosts you: 1,1,1,5,3  
-If necessary, reenable VSync  
-Exit the apartment (forced to bring Carth)  
-[Hard Buffer](../Techniques/Save%20Buffering) to skip the Sith Raid  
-Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to Skele FLU to level 17:  
-- Use the Skele FLU to skip all levels up to 16.  
-- Real Level 17: Save skills, Improved Two-Weapon Fighting  
-- You are granted Sneak Attack IX after Level 17  
-Larrim accosts you: 1,2,4  
----------------------------------------------------------
-*SHOPPING: Larrim*  
-**SELL:**  
-- Everything
+### Apartments
 
-**BUY:**  
-- Heavy Combat Suit (If no plot-armor)  
-- Battle Stimulant  
+- Immediately after the load-in, press Up+Left to move the character closer to the door before the start of Carth's Cutscene  
+- Carth accosts you: 1,1,1,5,3  
+- If necessary, reenable VSync  
+- Exit the apartment (forced to bring Carth)  
+- [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip the Sith Raid  
+- Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to perform the [Sneak Attack FLU](<../Major Glitches/Fake Level Up#sneak-attack-flu>):  
+  - Skele FLU for levels 2-16
+  - Real Level 17: Save Skills, Improved Two-Weapon Fighting  
+  - Sneak Attack IX is granted automatically
+- Larrim accosts you: 1,2,4  
+  - If you did Plot Armor, skip Larrim with a [Conversation Queue](../Techniques/Conversation%20Queue) or a [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers)
 
-**End:** 404 Credits (provided no additional items were spawned)  
+```
+SHOPPING: Larrim*
+- SELL:
+  - Everything
+- BUY:
+  - Heavy Combat Suit
+  - Battle Stimulant  
+- End: 404 Credits
+```
 
----------------------------------------------------------
-\} Unequip Both Blasters from Carth  
-\} Equip Both Blasters and Heavy Combat Suit to MC  
-Exit to Upper City South  
+- *Unequip Carth: Remove Both Blasters*
+- *Equip MC: Carth's Blaster Mainhand, Blaster Pistol Offhand, Heavy Combat Suit (if you have it)*
+- Exit to Upper City South  
 
-#### **Upper City South:**  
-Turn left and run down the street  
-Activate Solo Mode when you get close to the sculpture at the end  
-With MC, click on Medical Clinic door  
-Swap to Carth and click on door to Upper City North  
-Swap back to MC and talk to Zelka: 5  
+### Upper City South
 
----------------------------------------------------------
-*SHOPPING: Zelka Forn*
-**BUY:**
-- 7x Adrenal Alacrity
-- 1x Adrenal Stamina
-End: 4 Credits
----------------------------------------------------------
-} Use one of each stim on MC  
-} Use an Alacrity on Carth  
-Use a [GP Warp](../Techniques/GP%20Warp) to warp MC to Carth  
-- Swap to Carth  
-- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS  
-- Enter the Upper City North loading zone  
-- Cancel the quit dialog, swap to MC, and click the dialog option  
+- Turn left and run down the street  
+- Activate Solo Mode when you get close to the sculpture at the end  
+- With MC, click on Medical Clinic door  
+- Swap to Carth and click on door to Upper City North  
+- Swap back to MC and talk to Zelka: 5  
 
-Go to Upper City North
-- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen
+```
+SHOPPING: Zelka Forn
+- If you skipped Larrim, sell everything here
+- BUY
+  - 7x Adrenal Alacrity
+  - 1x Adrenal Stamina
+- End: 4 Credits
+```
+- *Stims: Alacrity, Stamina, and Battle Stim (if you have it) on MC, Alacrity on Carth*
+- Use a [GP Warp](../Techniques/GP%20Warp) to warp MC to Carth  
+  - Swap to Carth  
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS  
+  - Enter the Upper City North loading zone  
+  - Cancel the quit dialog, swap to MC, and click the dialog option  
+- Enter Upper City North
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen
 
-#### **Upper City North:**  
-Autosave [Hotshot](../Major%20Glitches/Hotshot) to warp to elevator:  
-- With quit dialog up, unpause and open the door to Upper City South behind you  
-- Open the Options menu, then press enter with Load Game and Cancel selected  
-- Unpause and navigate blindly through the door to Upper City South  
-- After loading into Upper City South, select the Autosave and load it  
-- This spawns your party next to the elevator leading to the Lower City  
+### Upper City North
 
-} Remove Carth from Party  
-Hard Save in "Fast Lane" slot  
-[DLZ](../Major%20Glitches/Displaced%20Load%20Zone#sith-base-dlz) to enter the Sith Base  
-- Deactivate VSync for this DLZ  
+- Autosave [Hotshot](../Major%20Glitches/Hotshot#autosave-hotshots) to warp to elevator:  
+  - With quit dialog up, unpause and open the door to Upper City South behind you  
+  - Open the Options menu, then press enter with Load Game and Cancel selected  
+  - Unpause and navigate blindly through the door to Upper City South  
+  - After loading into Upper City South, select the Autosave and load it  
+  - This spawns your party next to the elevator leading to the Lower City  
+- *Party: Remove Carth*
+- **Hard Save in "Fast Lane" slot**
+- [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#sith-base-dlz) to enter the Sith Base  
+  - Deactivate VSync for this DLZ
 
-#### **Sith Base:**  
-Secretary accosts you: 2,1  
-Reactivate VSync  
-Run through Sith base to East Barracks (If no plot armor, avoid dying here)  
-Loot footlocker for Sith passcard  
-[Hard Buffer](../Techniques/Save%20Buffering) to skip assault droid CS  
-Enter Governor's Office  
-[Wired Targeting](../Techniques/Wired%20Targeting) to kill Governor  
-- Open door, then buffer until you stand behind the Governor  
-- Make sure you QS while standing next to him  
-- Spam the conversation, then spam default attacks  
-- QL to attack the non-hostile governor  
+### Sith Base
 
-Loot the Governor for the Taris Launch Codes  
-} **Unequip Blasters from MC** (This will cause them to dupe during the next hotshot)  
-Hard Save in "Hotshot Current" slot  
-[Hotshot](../Major%20Glitches/Hotshot) to Upper City North using "Fast Lane" slot  
+- Secretary accosts you: 2,1  
+- Reactivate VSync  
+- Run through Sith base to East Barracks (If no plot armor, avoid dying here)  
+- Loot footlocker for Sith passcard  
+- [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip assault droid CS  
+- Enter Governor's Office  
+- [Wired Targeting](../Techniques/Wired%20Targeting) to kill Governor  
+  - Open door, then buffer until you stand behind the Governor  
+  - Make sure you QS while standing right behind him  
+  - Spam the conversation, then spam default attacks  
+  - QL to attack the non-hostile governor  
+- Loot the Governor for the Taris Launch Codes  
+- *Unequip MC: Both Blasters*
+  - This will cause them to dupe during the next hotshot
+- **Hard Save in "Hotshot Current" slot**
+- [Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to Upper City North using "Fast Lane" slot 
 
-#### **Lower City:**  
-} Add Carth to Party  
-[DLZ](../Major%20Glitches/Displaced%20Load%20Zone#lower-city-dlz) to Lower City  
-- Deactivate VSync for this DLZ  
+### Lower City
 
-[AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) while the lower city is loading  
-Pop-up replace "Return to Hideout"  
-Activate Solo Mode (this is important!)  
-Click on Carth with MC and then run away with carth to activate [Conversation Queueing](../Techniques/Conversation%20Queue)  
-- Activate AMG and use the map to bring up the Return to Hideout dialog  
-- Skip this AMG if you're going to kill the Vulkar guards (see below)  
-
-[Door Clip](../Major%20Glitches/Door%20Clipping) and [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#vulkar-base-dlz) to enter Vulkar Base:  
-- As Carth, run into right corner of Vulkar Base door  
-- While running forward, swap to MC; Carth should bump out from the corner  
-- If MC is stuck, click on the door with MC to regain movement control  
-- As MC, run into right corner and while running, swap to Carth  
-- MC should be inside the door now; if not, repeat the above process until success  
-- Make sure MC is out of combat, then QS/QL to activate the DLZ  
-
-QS inside the Vulkar Base  
-Exit Vulkar Base with Carth (NOTE: you *cannot* QS again until after the Bek Hotshot)  
-Run with MC to where the walkway begins to curve  
-Return to Hideout and Transit back  
-Activate Solo Mode  
-Click on Javyar's Cantina with MC  
-[DLZ](../Major%20Glitches/Displaced%20Load%20Zone#bek-base-dlz) into the Bek Base with Carth  
+- Run to Lower City DLZ spot
+- *Party: Add Carth*
+- [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#lower-city-dlz) to Lower City  
+  - Deactivate VSync for this DLZ
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load
+- Set up a [Fast Lane](../Major%20Glitches/Fast%20Lane#quicker-fast-lanes) using your pop-up
+  - This [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) + [Fast Lane](../Major%20Glitches/Fast%20Lane#quicker-fast-lanes) can be skipped if you are going to kill the guards outside the Vulkar Base (see below)
+- Activate Solo Mode (this is important!)  
+- Click on Carth with MC and then run away with Carth to activate [Conversation Queueing](../Techniques/Conversation%20Queue)
+  - This skips the gang war CS and has MC follow Carth to the Vulkar Base
+- ***Optional:*** Kill the two guards outside the Vulkar Base
+  - This wastes time but makes the following trick slightly easier to perform
+- [Door Clip](../Major%20Glitches/Door%20Clipping#partial-door-clip) and [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#vulkar-base-dlz) to enter Vulkar Base:  
+  - As Carth, run into right corner of Vulkar Base door  
+  - While running forward, swap to MC; Carth should bump out from the corner  
+  - If MC is stuck, click on the door with MC to regain movement control  
+  - As MC, run into right corner and while running, QS/QL 
+  - If the trick worked, you'll DLZ into the Vulkar Base after the QL; if not, run into the corner and QS/QL again
+  - You must have Solo Mode ON and V-Sync OFF for this DLZ to work
+- QS inside the Vulkar Base
+  - You cannot QS again until after killing Gadon Thek
+- Exit Vulkar Base with Carth
+- Run forward MC to where the walkway begins to curve  
+- Return to Hideout and Transit back  
+- Activate Solo Mode  
+- Click on Javyar's Cantina with MC  
+- [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#bek-base-dlz) into the Bek Base with Carth  
 
 #### **Bek Base:**  
 Enter Gadon's Office with a [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#gadon-dlz)  
@@ -362,7 +382,7 @@ Quick Save [Hotshot](../Major%20Glitches/Hotshot) to Vulkar Base
 #### **Escaping Taris:**  
 
 Kandon will accost you shortly after spawning in  
-After loading into Swoop Platform, [Hard Buffer](../Techniques/Save%20Buffering) to skip the Ithorian convo  
+After loading into Swoop Platform, [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip the Ithorian convo  
 Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip a swoop race  
 - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS (or on the load-in from the previous buffer)  
 - Speak to the race coordinator: 1  
@@ -372,7 +392,7 @@ Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip a swoop race
 - Cancel the quit dialog and QS/QL to skip the CS  
 - Talk to the Ithorian a second time to "Win" the second race  
 
-After talking to the Ithorian the second time but BEFORE Brejik's convo, [Hard Buffer](../Techniques/Save%20Buffering) to skip the Brejik fight  
+After talking to the Ithorian the second time but BEFORE Brejik's convo, [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip the Brejik fight  
 - Instead of loading the QS after buffering, Hard Save in "Hotshot Current" slot  
 - Then [Hotshot](../Major%20Glitches/Hotshot) to the Lower City using the Autosave  
 - If you miss the buffer, mash through the Brejik cutscene until you regain control, then do the Hotshot  
@@ -425,7 +445,7 @@ Once inside the entrance, use Canderous to [DLZ](../Major%20Glitches/Displaced%2
 
 #### **Ancient Ruins:**  
 Confirm Bastila in the party when prompted  
-[Hard Buffer](../Techniques/Save%20Buffering) to skip ancient droid conversation  
+[Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip ancient droid conversation  
 - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen  
 
 [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#ruins-star-map-dlz) to activate the Star Map cutscene  
@@ -510,7 +530,7 @@ Talk to first Czerka guard: 1,1,3,1,1
 Hack the sonic emitter next to that guard  
 Talk to second Czerka guard: 1,1,1  
 Hack the sonic emitter next to that guard  
-IMMEDIATELY AFTER, [Hard Buffer](../Techniques/Save%20Buffering) to skip the terentatek CS  
+IMMEDIATELY AFTER, [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip the terentatek CS  
 Swap to Bastila and speak with Jolee: 1,3,1 spam  
 Add Bastila and Jolee to the party  
 Swap to Bastila and run to Force Field: 1,2  
@@ -615,7 +635,7 @@ Use the previous [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip the
 } If no plot armor, and you're concerned about MC dying use Hyper-Adrenal Stamina  
 } If no plot armor, and you're concerned about MC dying Auto-level to 3 for extra Vitality  
 Exit the Ebon Hawk with Bastila  
-Immediately [Hard Buffer](../Techniques/Save%20Buffering) the Jedi vs. Sith CS  
+Immediately [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) the Jedi vs. Sith CS  
 Activate Solo Mode and swap leader twice to fix Bastila  
 Run with MC and click first door  
 } Swap to Bastila and use Hyper Adrenal Alacrity  
@@ -642,7 +662,7 @@ Enter Deck 2
 
 #### **Deck 2:**  
 Activate Solo Mode  
-[Hard Buffer](../Techniques/Save%20Buffering) the Malak cutscene  
+[Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) the Malak cutscene  
 Click on the first door, then swap to Bastila  
 Open the door behind you, then swap back to MC  
 Click on the second door, then swap to Bastila  
@@ -665,7 +685,7 @@ Double [Hotshot](../Major%20Glitches/Hotshot) to warp Bastila to the MC
 Enter the Command Deck
 
 #### **Command Deck:**  
-Immediately after loading, [Hard Buffer](../Techniques/Save%20Buffering) to skip Bastila/Malak CS  
+Immediately after loading, [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip Bastila/Malak CS  
 Hardsave in "Hotshot Current"  
 [Hotshot](../Major%20Glitches/Hotshot) back to Lower Shadowlands using the "Teleport" slot  
 [Coordinate Warp](../Major%20Glitches/Hotshot#ch7Coordinate_Warping) back to Command Deck (Just as we did on the previous two decks)  
