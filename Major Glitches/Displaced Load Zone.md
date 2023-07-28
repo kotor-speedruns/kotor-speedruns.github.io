@@ -1,22 +1,30 @@
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 # Displaced Load Zone
 
+**Table of Contents:**
 - [Description](#description)
 - [DLZ Basics](#dlz-basics)
+  - [DLZ Requirements](#dlz-requirements)
+  - [Position in KotOR](#position-in-kotor)
 - [General DLZ Techniques](#general-dlz-techniques)
+  - [Basic DLZ Technique](#basic-dlz-technique)
+  - [Improving DLZ Consistency](#improving-dlz-consistency)
 - [Menu Method for DLZs](#menu-method-for-dlzs)
 - [DLZs Used in Speedruns](#dlzs-used-in-speedruns)
-  - [Endar Spire DLZ](#endar-spire-dlz)
-  - [Sith Base DLZ](#sith-base-dlz)
-  - [Lower City DLZ](#lower-city-dlz)
-  - [Vulkar Base DLZ](#vulkar-base-dlz)
-  - [Sewers DLZ](#sewers-dlz)
-  - [Bek Base DLZ](#bek-base-dlz)
-  - [Gadon DLZ](#gadon-dlz)
-  - [Enclave DLZ](#enclave-dlz)
-  - [Ruins Entry DLZ](#ruins-entry-dlz)
-  - [Ruins Star Map DLZ](#ruins-star-map-dlz)
-  - [Temple Entry DLZ](#temple-entry-dlz)
-  - [Temple Summit DLZ](#temple-summit-dlz)
 - [Additional DLZs](#additional-dlzs)
 
 ## Description
@@ -30,7 +38,7 @@ Two general notes:
 
 ## DLZ Basics
 
-**DLZ Conditions**
+### DLZ Requirements
 
 In order to activate a DLZ, any party member must be placed in a very precise position.  There are two main conditions:
 
@@ -39,7 +47,7 @@ In order to activate a DLZ, any party member must be placed in a very precise po
 
 Under these conditions, the DLZ will occur and the trigger will activate.  The first condition is fairly simple, but dependent on the layout of each individual module; some modules have multiple useful DLZs, while others do not have any.  The second condition can be extremely difficult, and understanding why requires an understanding of how KotOR tracks party member position.
 
-**Position in KotOR**
+### Position in KotOR
 
 A party member's position is kept in three coordinates: x, y, and z.  Each of the coordinates is *not* updated continuously; rather, it is updated on every frame.  Thus, even when moving slowly in a constant direction, certain values of each coordinate are skipped over in the time between frames.
 
@@ -47,7 +55,7 @@ In order for the second DLZ condition to be met, the x-coordinate must match at 
 
 ## General DLZ Techniques
 
-**Basic DLZ Technique**
+### Basic DLZ Technique
 
 The execution of all DLZs boil down to three main things:
 
@@ -57,7 +65,7 @@ The execution of all DLZs boil down to three main things:
 
 Oftentimes, you'll have to move back and forth past the visual cue several times before the DLZ will trigger.
 
-**Improving DLZ Consistency**
+### Improving DLZ Consistency
 
 There are two broad things that can be done to improve the consistency of DLZs: move as slowly as possible, and increase the frame rate as much as possible.
 
@@ -86,7 +94,9 @@ The Menu Method for DLZs uses the [Anywhere Menu Glitch](../Major%20Glitches/Any
 4. Cancel the pop-up and unpause the game
 5. Move slowly behind the menu until the DLZ triggers
 
-https://www.youtube.com/watch?v=187QYOMfN0M
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/187QYOMfN0M" frameborder="0"></iframe>
+</div>
 
 Even using Menu Method, it is still possible to miss the DLZ.  The downside to Menu Method is you cannot see your movement, and thus cannot always tell if you have gone past the required x-coordinate.  Because of this, most runners do not use Menu Method; but it is a viable method if you want more consistency or if your hardware doesn't yield high enough frame rates with just V-Sync off.
 
@@ -124,12 +134,16 @@ This is the preferred location for this DLZ, as it can be done without recruitin
 *Male:* Inside of right leg even with right side of fourth black oval from right  
 *Female:* Outside of right leg even with small black line to right of fourth black oval  
 **Video Clip:**  
-[![Rubble DLZ video](https://img.youtube.com/vi/dZoNm9XcWSE/maxresdefault.jpg)](https://youtu.be/dZoNm9XcWSE)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/dZoNm9XcWSE" frameborder="0"></iframe>
+</div>
 
 *Location 2: Doorframe*  
 This location for the DLZ is extremely consistent, to the point where disabling V-Sync is not required.  However, as it requires recruiting Trask and killing the first two Sith soldiers, it is 15-20 seconds slower than a good DLZ at the location above.
 
-[![Doorframe DLZ video](https://img.youtube.com/vi/WmPBZ_eYCkU/hqdefault.jpg)](https://youtu.be/WmPBZ_eYCkU)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/WmPBZ_eYCkU" frameborder="0"></iframe>
+</div>
 
 *Location 3: Republic Corpse*  
 This location is at the end of the first hall to the right, near the feet of a Republic soldier's corpse.  While this is technically closer than the rubble location, the visual cues are much worse, and thus this location is not preferred.
@@ -139,9 +153,9 @@ This location is at the end of the first hall to the right, near the feet of a R
 *Male:* Right leg centered on corpse's heel  
 *Female:* Right ankle even with left edge of orange patch on corpse leg  
 **Video Clip:**  
-[![Republic Corpse DLZ video](https://img.youtube.com/vi/ORcny121d70/maxresdefault.jpg)](https://youtu.be/ORcny121d70)
-
-[small]Video Forthcoming[/small]
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/ORcny121d70" frameborder="0"></iframe>
+</div>
 
 ### Sith Base DLZ
 **Planet:** Taris  
@@ -152,23 +166,31 @@ This location is at the end of the first hall to the right, near the feet of a R
 *Location 1: Exterior Wall*  
 This location is also close to the default spawn, but against a large wall to the right with no monitors.  This would be the fastest location for [Any%](../Route%20Guides/Any%%20Unrestricted), since it is closest to the Lower City DLZ location when leaving the Sith base.  The best visual cues here appear to be HUD based, which varies based on your resolution.
 
-[![Exterior Wall DLZ video](https://img.youtube.com/vi/0Xy7PH3IN5w/maxresdefault.jpg)](https://youtu.be/0Xy7PH3IN5w)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/0Xy7PH3IN5w" frameborder="0"></iframe>
+</div>
 
 *Locations 2 and 3: Median*  
 These two locations are preferred for this DLZ in [All Quests](../Route%20Guides/All%20Quests%20Unrestricted) runs, as it is adjacent to the default spawn point in Upper City North and close to the Lower City elevator that will be visited next.
 
 The visual cue for the first location with a Male MC is a faint, jagged black line near the base of the wall; this line should be between the MC's legs slightly to the left of center.
 
-[![Median DLZ video 1](https://img.youtube.com/vi/AKOi-URiXBY/hqdefault.jpg)](https://youtu.be/AKOi-URiXBY)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/AKOi-URiXBY" frameborder="0"></iframe>
+</div>
 
 There is another location on the median further to the right and close to the corner, with a white line near the base of the wall serving as a visual cue in the same way as the black line above.  This line is easier to see, but the location is slightly further from the spawn point.
 
-[![Median DLZ video 2](https://img.youtube.com/vi/k04Qq0zaZWg/maxresdefault.jpg)](https://youtu.be/k04Qq0zaZWg)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/k04Qq0zaZWg" frameborder="0"></iframe>
+</div>
 
 *Locations 4 and 5: Janice's Shop*  
 These two locations are both at Janice's Droid Shop; the first is against the door to the shop, while the second is against a table inside the shop.  A prior version of the [All Quests](../Route%20Guides/All%20Quests%20Unrestricted) route used the table location for the DLZ directly after shopping with Janice, but currently [All Quests](../Route%20Guides/All%20Quests%20Unrestricted) uses Location 3 above.
 
-[![Janice's Shop DLZ video](https://img.youtube.com/vi/F5PsHpZ6tms/maxresdefault.jpg)](https://youtu.be/F5PsHpZ6tms)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/F5PsHpZ6tms" frameborder="0"></iframe>
+</div>
 
 ### Lower City DLZ
 **Planet:** Taris  
@@ -179,7 +201,9 @@ These two locations are both at Janice's Droid Shop; the first is against the do
 *Location: Guard Rail*  
 This is the only location used for this DLZ; a similar one exists on the opposite side of the walkway, but it is further away and thus not used.
 
-[![Guard Rail DLZ video](https://img.youtube.com/vi/antiCg4Bfn8/hqdefault.jpg)](https://youtu.be/antiCg4Bfn8)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/antiCg4Bfn8" frameborder="0"></iframe>
+</div>
 
 This is not used in [All Star Maps](../Route%20Guides/All%20Star%20Maps) or [All Quests](../Route%20Guides/All%20Quests%20Unrestricted) because both of those runs want the Sith Armor for a glitch on Manaan, whereas [Any%](../Route%20Guides/Any%%20Unrestricted) skips Manaan completely.
 
@@ -192,7 +216,9 @@ This is not used in [All Star Maps](../Route%20Guides/All%20Star%20Maps) or [All
 *Location: Inside the Door*  
 This unique DLZ involves using a [Partial Door Clip](../Major%20Glitches/Door%20Clipping) to clip into the door to the Vulkar Base.  If Solo Mode is active and V-Sync is disabled, performing a Quick Save and then Quick Load resets the party member's position to be exactly on the x-coordinate required to DLZ the Vulkar Base load zone.
 
-[![Inside the Door DLZ video](https://img.youtube.com/vi/BNU_HJwGSj4/maxresdefault.jpg)](https://youtu.be/BNU_HJwGSj4)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/BNU_HJwGSj4" frameborder="0"></iframe>
+</div>
 
 ### Sewers DLZ
 **Planet:** Taris  
@@ -203,7 +229,9 @@ This unique DLZ involves using a [Partial Door Clip](../Major%20Glitches/Door%20
 *Location: Hallway Corner*  
 This DLZ is used to enter the Upper Sewers more quickly, so that the door behind the rancor can be opened to complete a quest.
 
-[![Hallway Corner DLZ video](https://img.youtube.com/vi/8HtPj7BuwD4/maxresdefault.jpg)](https://youtu.be/8HtPj7BuwD4)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/8HtPj7BuwD4" frameborder="0"></iframe>
+</div>
 
 ### Bek Base DLZ
 **Planet:** Taris  
@@ -214,12 +242,16 @@ This DLZ is used to enter the Upper Sewers more quickly, so that the door behind
 *Location 1: Right Hallway Edge*  
 This DLZ only skips a little walking and speaking with the Bek Base Lookout, but it is one of the easiest DLZs to perform.  This location is just before Javyar's Cantina, and has very reliable visual cues:
 
-[![Right Hallway Edge DLZ video](https://img.youtube.com/vi/vGqTe24S414/maxresdefault.jpg)](https://youtu.be/vGqTe24S414)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/vGqTe24S414" frameborder="0"></iframe>
+</div>
 
 *Location 2: Left Hallway Edge*  
 This location is slightly closer to the Upper City North entrance, but the visual cues are much worse.
 
-[![Left Hallway Edge DLZ video](https://img.youtube.com/vi/0HtbfNJJycQ/maxresdefault.jpg)](https://youtu.be/0HtbfNJJycQ)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/0HtbfNJJycQ" frameborder="0"></iframe>
+</div>
 
 ### Gadon DLZ
 **Planet:** Taris  
@@ -230,7 +262,9 @@ This location is slightly closer to the Upper City North entrance, but the visua
 *Location: Edge of Doorframe*  
 A DLZ is the fastest way to bypass the locked door between the main Bek Base and the back areas.  It can also be done with a [GP Warp](../Techniques/GP%20Warp) or the [Security FLU](../Major%20Glitches/Fake%20Level%20Up#Notable_Old_FLUs), but the DLZ is the fastest method.  This location is the left edge of the door leading back to the Lower City; note it can be done with the door open or closed.
 
-[![Edge of Doorframe DLZ video](https://img.youtube.com/vi/7gu0flRheX0/maxresdefault.jpg)](https://youtu.be/7gu0flRheX0)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/7gu0flRheX0" frameborder="0"></iframe>
+</div>
 
 There is a similar location at the right edge of the door leading to the main Bek Base, but it is slightly further away.
 
@@ -243,22 +277,30 @@ There is a similar location at the right edge of the door leading to the main Be
 *Location 1: Atrium back locations*  
 These locations are likley slightly better than Atrium left as they have a higher frame rate. Though they have been as frequently used.
 
-[![Atrium back DLZ video](https://img.youtube.com/vi/dvXsXxPyj-k/maxresdefault.jpg)](https://youtu.be/dvXsXxPyj-k)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/dvXsXxPyj-k" frameborder="0"></iframe>
+</div>
 
 *Location 2: Atrium Left*  
 This location is used in [Any%](../Route%20Guides/Any%%20Unrestricted) and [All Star Maps](../Route%20Guides/All%20Star%20Maps).  It is the closest location to the Ebon Hawk, and those runs move straight here and DLZ immediately.
 
-[![Atrium Left DLZ video](https://img.youtube.com/vi/70zZYRS7v8E/maxresdefault.jpg)](https://youtu.be/70zZYRS7v8E)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/70zZYRS7v8E" frameborder="0"></iframe>
+</div>
 
 *Location 3: Council Chamber*  
 This location is used in [All Quests](../Route%20Guides/All%20Quests%20Unrestricted), which must talk to the Jedi Council and become a Jedi before leaving.  This DLZ is used to leave the Enclave while leaving the MC near Zhar so that position is preserved when [Hotshotting](../Major%20Glitches/Hotshot) back later.
 
-[![Council Chamber DLZ video](https://img.youtube.com/vi/7Djoq_uMoYU/hqdefault.jpg)](https://youtu.be/7Djoq_uMoYU)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/7Djoq_uMoYU" frameborder="0"></iframe>
+</div>
 
 *Location 4: Atrium Right*  
 This location is currently not used in runs, but is included for completeness.
 
-[![Atrium Right DLZ video](https://img.youtube.com/vi/xvvew65K8C0/maxresdefault.jpg)](https://youtu.be/xvvew65K8C0)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/xvvew65K8C0" frameborder="0"></iframe>
+</div>
 
 ### Ruins Entry DLZ
 **Planet:** Dantooine  
@@ -269,7 +311,9 @@ This location is currently not used in runs, but is included for completeness.
 *Location: Behind the Door*  
 This location is behind the locked door to the ruins, and thus a [Party Spawn Door Clip](../Major%20Glitches/Door%20Clipping#ch2Party_Spawn_Door_Clips) is used (via [Fast Lane](../Major%20Glitches/Fast%20Lane)) to allow Canderous reach this spot.
 
-[![Behind the Door DLZ video](https://img.youtube.com/vi/m66__YLCKxk/maxresdefault.jpg)](https://youtu.be/m66__YLCKxk)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/m66__YLCKxk" frameborder="0"></iframe>
+</div>
 
 ### Ruins Star Map DLZ
 **Planet:** Dantooine  
@@ -280,7 +324,9 @@ This location is behind the locked door to the ruins, and thus a [Party Spawn Do
 *Location: Western Door*  
 This location is the western (or righthand) door in the main room.  The x-coordinate is actually just past the bounding box for this door, so the usual technique for achieving the correct coordinate involves running into the nearest corner of the doorframe.
 
-[![Western Door DLZ video](https://img.youtube.com/vi/ZkYQ_vjL8mQ/hqdefault.jpg)](https://youtu.be/ZkYQ_vjL8mQ)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/ZkYQ_vjL8mQ" frameborder="0"></iframe>
+</div>
 
 The other commonly used technique is to just grind along the surface of that same door, rather than the corner.  Both appear to be equally consistent.
 
@@ -293,12 +339,16 @@ The other commonly used technique is to just grind along the surface of that sam
 *Location 1: Outer Fence*  
 This is the preferred location for this DLZ, as the visual cue is slightly nicer.
 
-[![Outer Fence DLZ video](https://img.youtube.com/vi/ZkYQ_vjL8mQ/hqdefault.jpg)](https://youtu.be/C_CiJzdTYjs)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/C_CiJzdTYjs" frameborder="0"></iframe>
+</div>
 
 *Location 2: Temple Wall*  
 This location was the original one for this DLZ, but the visual cue is slightly worse.
 
-[![Temple Wall DLZ video](https://img.youtube.com/vi/Snf_lKwbS10/maxresdefault.jpg)](https://youtu.be/Snf_lKwbS10)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/Snf_lKwbS10" frameborder="0"></iframe>
+</div>
 
 ### Temple Summit DLZ
 **Planet:** Lehon  
@@ -309,17 +359,23 @@ This location was the original one for this DLZ, but the visual cue is slightly 
 *Location 1: Entry Doorframe*  
 This position is the generally preferred one, as it is so close to the entry point as to be part of the entryway.  The visual cue usually involves lining up the party member's right hip with the left edge of the doorframe.
 
-[![Entry Doorframe DLZ video](https://img.youtube.com/vi/6UnafHtP5Y8/maxresdefault.jpg)](https://youtu.be/6UnafHtP5Y8)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/6UnafHtP5Y8" frameborder="0"></iframe>
+</div>
 
 *Location 2: Massive Doorframe*  
 This position is opposite the above one, and is near the right edge of the doorframe to the Massive Door.  This location has generally weaker visual cues than the above one.
 
-[![Massive Doorframe DLZ video](https://img.youtube.com/vi/FNpxsNDjsN0/maxresdefault.jpg)](https://youtu.be/FNpxsNDjsN0)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/FNpxsNDjsN0" frameborder="0"></iframe>
+</div>
 
 *Location 3: Wall Mural*  
 This position is around the corner and against a mural at the end of a short hallway.  It triggers the DLZ on the opposite edge of the loading zone than the above two.  This location is furthest away and thus not preferred.
 
-[![Wall Mural DLZ video](https://img.youtube.com/vi/JzJAI0Cf9TA/maxresdefault.jpg)](https://youtu.be/JzJAI0Cf9TA)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/JzJAI0Cf9TA" frameborder="0"></iframe>
+</div>
 
 ## Additional DLZs
 
