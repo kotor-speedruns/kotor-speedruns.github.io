@@ -5,7 +5,7 @@ Welcome to the KotOR 2 Speedrunning Guides landing page. This page is temporary,
 **Route Guides**
 - [All Planets Unrestricted](./Route%20Guides/All%20Planets%20Unrestricted)
 - [Any% Glitchless](./Route%20Guides/Any%25%20Glitchless)
-- [Any% No Dev Tools](./Route%20Guides/Any%%20No%20Dev%20Tools)
+- [Any% No Dev Tools](./Route%20Guides/Any%25%20No%20Dev%20Tools)
 - [Any% Unrestricted](./Route%20Guides/Any%25%20Unrestricted)
 - [Max Quests Glitchless](./Route%20Guides/Max%20Quests%20Glitchless)
 - [Max Quests Unrestricted](./Route%20Guides/Max%20Quests%20Unrestricted)
