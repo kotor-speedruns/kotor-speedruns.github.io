@@ -609,98 +609,91 @@ SHOPPING: Zelka Forn
 - When the black screen occurs, immediately **Hardsave to "Fast Lane" slot**
 - [Hotshot](../Major%20Glitches/Hotshot) to Ebon Hawk using the "Hotshot Current" slot  
 - Fly to the Star Forge  
-  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen
-
+  - Use a [Free Look AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch#free-look-amgs) to skip the "unskippable" cutscene
+    - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen
+    - Unpause the game and cancel the quit dialog
+    - Use the Free Look hotkey to end the cutscene
+    - Hold QS during this to fast-forward the animation
 
 ---------------------------------------------------------
 ### Star Forge
 
 ### Deck 1
 
-Use the previous [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip the "unskippable" cutscene  
-- Unpause the game and cancel the quit dialog
-- Use the Free Look hotkey to end the cutscene
-- Hold QS during this to Fast-forward the animation
+- *Stims: Hyper-Adrenal Alacrity and Stamina on MC*
+- `Auto-Level MC to 3`
+  - The Stamina and Auto-Level give you slightly more Vitality for the Malak fight, but could theoretically be skipped
+  - Both should be skipped if you have Plot Armor
+- Exit the Ebon Hawk
+  - *Party: Keep Bastila*
+- Immediately [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) the Jedi vs. Sith CS  
+- Activate Solo Mode and swap leader twice to fix Bastila  
+- Run with MC and click first door  
+- Move Bastila in front of Ebon Hawk load zone  
+- [GP Warp](../Techniques/GP%20Warp) MC to Deck 2 Entrance
+  - As Bastila, activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS
+  - Enter the Ebon Hawk load zone
+  - Cancel the quit dialog and swap to MC
+  - Turn left at the junction
+  - Select the door behind the first pair of assault droids to get the MC past them
+  - Queue movement to the next door as MC
+  - Swap to Bastila and wait until you've judged MC has opened the door
+    - This skips a plasma explosion that would otherwise stun the MC
+  - Swap to MC and click the dialog option to finish the warp
+- **Hard Save in "Hotshot Current" slot**
+- [Double QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to warp Bastila to the MC using the "Teleport" slot
+  - After the first Hotshot, QS, Options, Enter, Up, Enter, to [Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) again
+  - Bastila and MC should now be at the exit to Deck 2
+- Enter Deck 2  
 
-} Use Hyper-Adrenal Alacrity  
-} If no plot armor, and you're concerned about MC dying use Hyper-Adrenal Stamina  
-} If no plot armor, and you're concerned about MC dying Auto-level to 3 for extra Vitality  
-Exit the Ebon Hawk with Bastila  
-Immediately [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) the Jedi vs. Sith CS  
-Activate Solo Mode and swap leader twice to fix Bastila  
-Run with MC and click first door  
-} Swap to Bastila and use Hyper Adrenal Alacrity  
-Move Bastila in front of Ebon Hawk load zone  
-[GP Warp](../Techniques/GP%20Warp) MC to Deck 2  
-- As Bastila, activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS
-- Enter the Ebon Hawk load zone
-- Cancel the quit dialog and swap to MC
-- Run either direction at the junction
-- Select the door behind the first pair of assault droids to get the MC passed them
-- Cue movement to the next door and **SWAP BACK TO BASTILA** such that you do not see the MC open the door. Other wise they'll be stunned
-- After sufficient time, swap to MC run to right in front of the two hostile assault droids, then click the dialog option
+### Deck 2
 
-With the MC, save in the "Hotshot Current" slot  
-Double [Hotshot](../Major%20Glitches/Hotshot) to warp Bastila to the MC  
-- Load Lower Shadow lands from the "Teleport" save
-- Quicksave
-- Load "Hotshot Current", doign an [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load in
-- [Hotshot](../Major%20Glitches/Hotshot)
-- After the load in, QS, Options, Enter, Up, Enter, to [Hotshot](../Major%20Glitches/Hotshot) again
-- You and Bastila should now be at the exit to Deck 2
+- Activate Solo Mode  
+- [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) the Malak cutscene  
+- Click on the first door, then swap to Bastila  
+- Open the door behind you, then swap back to MC  
+- Click on the second door, then swap to Bastila  
+- [GP Warp](../Techniques/GP%20Warp) the MC to Command Deck Entrance
+  - As Bastila, activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS
+  - Enter the Deck 1 loading zone
+  - Cancel the quit dialog, then swap to MC
+  - Run with MC until you go just past the turn down the ramp
+  - Click the dialog option to warp the MC
+- **Hard Save in "Hotshot Current" slot**
+- [Double QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to warp Bastila to the MC using the "Teleport" slot  
+  - After the first Hotshot, QS, Options, Enter, Up, Enter, to [Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) again
+  - Bastila and MC should now be at the exit to the Commmand Deck
+- Enter the Command Deck
 
-Enter Deck 2  
+### Command Deck 
 
-#### **Deck 2:**  
-Activate Solo Mode  
-[Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) the Malak cutscene  
-Click on the first door, then swap to Bastila  
-Open the door behind you, then swap back to MC  
-Click on the second door, then swap to Bastila  
-[GP Warp](../Techniques/GP%20Warp) the MC to Command Deck  
-- As Bastila, activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS
-- Enter the Deck 1 loading zone
-- Cancel the quit dialog, then swap to MC
-- Run with MC until you go just past the turn down the ramp
-- Click the dialog option to warp the MC
+- Immediately after loading, [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip Bastila/Malak CS  
+- **Hard Save in "Hotshot Current" slot**
+- [Double QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to [Coordinate Warp](../Major%20Glitches/Hotshot#coordinate-warping) Bastila to Command Deck using the "Teleport" slot
+  - This process is the same as the previous two decks, but Bastila will wind up inbounds this time
+  - After the first Hotshot, QS, Options, Enter, Up, Enter, to [Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) again
+  - This puts Bastila near the Viewing Platform entrance  
+- *Stims: Hyper-Adrenal Alacrity and Stamina on Bastila*
+- Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip the Darth Malak droid CS
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) with a QS
+  - Run to the door to start the CS
+  - Cancel the quit dialog
+  - As soon as Malak starts walking forward, QS/QL to skip the CS
+  - This CS warps the MC to your position, allowing you to...
+- Take the elevator to the Viewing Platform  
 
-With the MC, save in the "Hotshot Current" slot  
-Double [Hotshot](../Major%20Glitches/Hotshot) to warp Bastila to the MC  
-- Load Lower Shadow lands from the "Teleport" save
-- Quicksave
-- Load "Hotshot Current", doign an [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load in
-- [Hotshot](../Major%20Glitches/Hotshot)
-- After the load in, QS, Options, Enter, Up, Enter, to [Hotshot](../Major%20Glitches/Hotshot) again
-- You and Bastila should now be at the exit to the Command Deck
+### Viewing Platform 
 
-Enter the Command Deck
-
-#### **Command Deck:**  
-Immediately after loading, [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip Bastila/Malak CS  
-Hardsave in "Hotshot Current"  
-[Hotshot](../Major%20Glitches/Hotshot) back to Lower Shadowlands using the "Teleport" slot  
-[Coordinate Warp](../Major%20Glitches/Hotshot#ch7Coordinate_Warping) back to Command Deck (Just as we did on the previous two decks)  
-This puts Bastila near the veiwing platform entrance  
-Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip the Darth Malak droid CS
-- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) with a QS
-- Run to the door to start the CS
-- Cancel the quit dialog
-- As soon as Malak starts walking forward, QS/QL to skip the CS
-- This CS warps the MC to your position, allowing you to...
-
-Take the elevator to the Viewing Platform  
-
-#### **Viewing Platform:**  
-You may wish to make a safety save before this fight in "Hotshot Current" (or wherever)  
-Darth Malak Fight:
+- ***Optional:*** Safety Hard Save in any save slot
+- Darth Malak Fight:
   - Throw Thermal Detonators with both MC and Bastila to defeat Malak's first phase
   - Be careful not to hit MC with Thermal Detonators, as they can only survive one or two
-  - If you don't have plot armor the MC will almost certainly die after the second combat round
+  - If you don't have Plot Armor the MC will almost certainly die after the second combat round
   - Just before the first phase ends, activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via a QS
   - When you are given the first dialog option, press enter to simultaneously cancel the pop-up dialog and select the first conversation option
   - Immediately QS/QL to skip the CS
 
-On loading, there will be a black screen. When the mouse disappears, the final death CS has begun and the run is over. Malak has been defeated once and for all, and you are now the Lord of the Sith (and you aren't even a Jedi!)
+*On loading, there will be a black screen. When the mouse disappears, the final death CS has begun and the run is over. Malak has been defeated once and for all, and you are now the Lord of the Sith (and you aren't even a Jedi!)*
 
 ## Version History  
 **v9.7 (June 2023)**
