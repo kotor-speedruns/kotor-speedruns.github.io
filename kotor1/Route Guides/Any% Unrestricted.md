@@ -364,62 +364,54 @@ SHOPPING: Zelka Forn
 - Click on Javyar's Cantina with MC  
 - [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#bek-base-dlz) into the Bek Base with Carth  
 
-#### **Bek Base:**  
-Enter Gadon's Office with a [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#gadon-dlz)  
-- As Carth, [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#gadon-dlz) into Gadon's Office  
-- Hit Esc (or options) to Reenable VSync once you load into Gadon's Office but before the conversation starts  
+### Bek Base
+- Enter Gadon's Office with a [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#gadon-dlz)  
+  - As Carth, [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#gadon-dlz) into Gadon's Office  
+  - Hit Esc (or options) to Reenable V-Sync once you load into Gadon's Office but before the conversation starts  
+- Kill Gadon:  
+  - As MC, Snipe Shot for Sneak Attack  
+  - As Carth, Power Blast  
+  - Note that Kaeira doesn't have to die  
+- As soon as Gadon is dead, Hard Save in "Hotshot Current" slot  
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the save, then...  
+- [Quick Save Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to Vulkar Base  
 
-Kill Gadon:  
-- As MC, Snipe Shot for Sneak Attack  
-- As Carth, Power Blast  
-- Note that Kaeira doesn't have to die  
+### Escaping Taris
 
-As soon as Gadon is dead, Hard Save in "Hotshot Current" slot  
-- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the save, then...  
-
-Quick Save [Hotshot](../Major%20Glitches/Hotshot) to Vulkar Base  
-
-#### **Escaping Taris:**  
-
-Kandon will accost you shortly after spawning in  
-After loading into Swoop Platform, [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip the Ithorian convo  
-Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip a swoop race  
-- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS (or on the load-in from the previous buffer)  
-- Speak to the race coordinator: 1  
-- [Finish the race](i3ws7) with the quit dialog open  
-- Don't shift into the final gear; doing so is actually slower by about a second  
-- Press 1 and click to skip Ithorian dialog until Anglu comes running up  
-- Cancel the quit dialog and QS/QL to skip the CS  
-- Talk to the Ithorian a second time to "Win" the second race  
-
-After talking to the Ithorian the second time but BEFORE Brejik's convo, [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip the Brejik fight  
-- Instead of loading the QS after buffering, Hard Save in "Hotshot Current" slot  
-- Then [Hotshot](../Major%20Glitches/Hotshot) to the Lower City using the Autosave  
-- If you miss the buffer, mash through the Brejik cutscene until you regain control, then do the Hotshot  
-
-Enter Javyar's Cantina  
-Talk to Canderous: 1,1,1,2,1  
-- Leave Canderous in your party, but be ready to do the next trick  
-
-Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip the Taris destruction CS via Free-Look  
-- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load after confirming your party  
-- Unpause the game and cancel the quit dialog  
-- Use the Free-Look hotkey twice to end the cutscene  
-- Hold QS to fast-forward the animation  
-
-Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip Davik's Estate  
-- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load into Davik's Estate  
-- Go through the conversation pressing 1 and left-click (don't use NumPad Enter!)  
-- After choosing dialogue options 1,1, cancel the quit dialog and QS/QL  
-
-} Equip the Vibrosword to MC (This is important for future AMG movement)  
-Board the Ebon Hawk, then use a [Map CS Skip](../Techniques/Map%20Cutscene%20Skips) to Return to Ebon Hawk  
+- Kandon will accost you shortly after spawning in  
+- After loading into Swoop Platform, [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip the Ithorian convo  
+- Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip a swoop race  
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS (or on the load-in from the previous buffer)  
+  - Speak to the race coordinator: 1  
+  - [Finish the race](<../Miscellaneous/Swoop Racing>) with the quit dialog open  
+  - Don't shift into the final gear; doing so is actually slower by about a second  
+  - Press 1 and click to skip Ithorian dialog until Anglu comes running up  
+  - Cancel the quit dialog and QS/QL to skip the CS  
+  - Talk to the Ithorian a second time to "Win" the second race  
+- After talking to the Ithorian the second time but BEFORE Brejik's convo, [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip the Brejik fight  
+  - Instead of loading the QS after buffering, Hard Save in "Hotshot Current" slot  
+  - Then [QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshot) to the Lower City using the Autosave  
+  - If you miss the buffer, mash through the Brejik cutscene until you regain control, then do the Hotshot  
+- Enter Javyar's Cantina  
+- Talk to Canderous: 1,1,1,2,1  
+  - *Party: Keep Canderous when prompted*
+- Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip the Taris destruction CS via Free-Look  
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load after confirming your party  
+  - Unpause the game and cancel the quit dialog  
+  - Use the Free-Look hotkey twice to end the cutscene  
+  - Hold QS to fast-forward the animation  
+- Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip Davik's Estate  
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load into Davik's Estate  
+  - Go through the conversation pressing 1 and left-click (don't use NumPad Enter!)  
+  - After choosing dialogue options 1,1, cancel the quit dialog and QS/QL  
+- *Equip MC: Vibrosword*
+  - This allows you to move more easily during future CSs
+- Board the Ebon Hawk, then use a [Map CS Skip](../Techniques/Map%20Cutscene%20Skips) to Return to Ebon Hawk  
 - This skips the cutscenes between Taris and Dantooine, as well as the fighter skirmish  
 
----------------------------------------------------------
-### **Dantooine**
+## **Dantooine**
 
-#### **Jedi Enclave:**  
+### Jedi Enclave
 Use [Conversation Queueing](../Techniques/Conversation%20Queue) to skip Belaya's conversation  
 - Run forward slightly and swap to Canderous  
 - Talk to MC, then immediately swap to MC and run away, into the Enclave  
