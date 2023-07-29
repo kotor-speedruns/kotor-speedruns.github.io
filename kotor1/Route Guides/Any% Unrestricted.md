@@ -1,4 +1,6 @@
-# Any% Guide v9.7: Male/Female Scoundrel Route
+# Star Wars: Knights of the Old Republic - Any% Unrestricted Guide
+
+**Any% Guide v9.7: Male/Female Scoundrel Route**
 
 *Written by [Lane](https://www.speedrun.com/users/Lane) and [indykenobi](https://www.speedrun.com/users/indykenobi)*
 
