@@ -184,6 +184,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
   - [Upper Shadowlands](#upper-shadowlands)
   - [Lower Shadowlands/**The Routine**](#lower-shadowlands)
 - [Lehon](#lehon)
+  - [Reaching Lehon](#reaching-lehon)
   - [Reaching the Temple Summit](#reaching-the-temple-summit)
   - [Confronting Bastila](#confronting-bastila)
 - [Star Forge](#star-forge)
@@ -194,7 +195,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
 
 ## Endar Spire
 
-*Before beginning, disable VSync in Advanced Graphics Options if you are using the Rubble DLZ on Endar Spire. This makes the DLZ more consistent.*
+*Before beginning, disable V-Sync in Advanced Graphics Options if you are using the Rubble DLZ on Endar Spire. This makes the DLZ more consistent.*
 
 ### Character Creation
 - Male/Female Scoundrel - Custom Character  
@@ -255,7 +256,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
 
 - Immediately after the load-in, press Up+Left to move the character closer to the door before the start of Carth's Cutscene  
 - Carth accosts you: 1,1,1,5,3  
-- If necessary, reenable VSync  
+- If necessary, reenable V-Sync  
 - Exit the apartment (forced to bring Carth)  
 - [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip the Sith Raid  
 - Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to perform the [Sneak Attack FLU](<../Major Glitches/Fake Level Up#sneak-attack-flu>):  
@@ -315,12 +316,12 @@ SHOPPING: Zelka Forn
 - *Party: Remove Carth*
 - **Hard Save in "Fast Lane" slot**
 - [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#sith-base-dlz) to enter the Sith Base  
-  - Deactivate VSync for this DLZ
+  - Deactivate V-Sync for this DLZ
 
 ### Sith Base
 
 - Secretary accosts you: 2,1  
-- Reactivate VSync  
+- Reactivate V-Sync  
 - Run through Sith base to East Barracks (If no plot armor, avoid dying here)  
 - Loot footlocker for Sith passcard  
 - [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip assault droid CS  
@@ -341,7 +342,7 @@ SHOPPING: Zelka Forn
 - Run to Lower City DLZ spot
 - *Party: Add Carth*
 - [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#lower-city-dlz) to Lower City  
-  - Deactivate VSync for this DLZ
+  - Deactivate V-Sync for this DLZ
   - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load
 - Set up a [Fast Lane](../Major%20Glitches/Fast%20Lane#quicker-fast-lanes) using your pop-up
   - This [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) + [Fast Lane](../Major%20Glitches/Fast%20Lane#quicker-fast-lanes) can be skipped if you are going to kill the guards outside the Vulkar Base (see below)
@@ -374,7 +375,7 @@ SHOPPING: Zelka Forn
   - As MC, Snipe Shot for Sneak Attack  
   - As Carth, Power Blast  
   - Note that Kaeira doesn't have to die  
-- As soon as Gadon is dead, Hard Save in "Hotshot Current" slot  
+- As soon as Gadon is dead, **Hard Save in "Hotshot Current" slot**
   - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the save, then...  
 - [Quick Save Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to Vulkar Base  
 
@@ -391,7 +392,7 @@ SHOPPING: Zelka Forn
   - Cancel the quit dialog and QS/QL to skip the CS  
   - Talk to the Ithorian a second time to "Win" the second race  
 - After talking to the Ithorian the second time but BEFORE Brejik's convo, [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip the Brejik fight  
-  - Instead of loading the QS after buffering, Hard Save in "Hotshot Current" slot  
+  - Instead of loading the QS after buffering, **Hard Save in "Hotshot Current" slot**
   - Then [QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshot) to the Lower City using the Autosave  
   - If you miss the buffer, mash through the Brejik cutscene until you regain control, then do the Hotshot  
 - Enter Javyar's Cantina  
@@ -414,207 +415,201 @@ SHOPPING: Zelka Forn
 ## **Dantooine**
 
 ### Jedi Enclave
-Use [Conversation Queueing](../Techniques/Conversation%20Queue) to skip Belaya's conversation  
-- Run forward slightly and swap to Canderous  
-- Talk to MC, then immediately swap to MC and run away, into the Enclave  
-- This queues up a conversation between MC and Canderous, preventing other triggers from firing  
-- It also helps Canderous follow you into the Enclave  
 
-QS/QL in the atrium  
-Hard Save in "Teleport" slot  
-[DLZ](../Major%20Glitches/Displaced%20Load%20Zone#enclave-dlz) to the Courtyard (Atrium Left variant)  
-- Deactivate VSync for this and the other Dantooine DLZs  
-- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen when this DLZ fires  
+- Use [Conversation Queueing](../Techniques/Conversation%20Queue) to skip Belaya's conversation  
+  - Run forward slightly and swap to Canderous  
+  - Talk to MC, then immediately swap to MC and run away, into the Enclave  
+- QS/QL in the atrium to clear the [Conversation Queue](../Techniques/Conversation%20Queue)
+- **Hard Save in "Teleport" slot**
+- [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#enclave-dlz) to the Courtyard (Atrium Left variant)  
+  - Deactivate V-Sync for this and the other Dantooine DLZs  
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen when this DLZ fires  
+  - *Note: There is a a decent amount of slack for how quickly you need to get this DLZ, as you will save an identical amount of time as long as you get the DLZ before NPC Bastila arrives at the council.*
 
-Note: There is a a decent amount of slack for how quickly you need to get this DLZ, as you will save an identical amount of time as long as you get the DLZ before NPC Bastila arrives at the council.  
+### Courtyard
 
-#### **Courtyard:**  
-Use the [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to bring up the Return to Ebon Hawk dialog while moving  
-Set up [Conversation Queueing](../Techniques/Conversation%20Queue) between MC and Canderous  
-- This skips a conversation with Jon and a Kath Hound spawning CS  
+- Use the [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to set up a [Fast Lane](../Major%20Glitches/Fast%20Lane#quicker-fast-lanes)
+- Set up [Conversation Queueing](../Techniques/Conversation%20Queue) between MC and Canderous  
+  - This skips a conversation with Jon and a Kath Hound spawning CS  
+- Run through the Courtyard and down the left path to the ruins entrance  
+- Use the prepared [Fast Lane](../Major%20Glitches/Fast%20Lane#quicker-fast-lanes) to [Door Clip](../Major%20Glitches/Door%20Clipping#party-spawn-door-clips) into the Ruins Entrance via slight angle clipping  
+- Once inside the entrance, use Canderous to [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#ruins-entry-dlz) into the ruins
 
-Run through the Courtyard and down the left path to the ruins entrance  
-Use the Return to Ebon Hawk popup to [Door Clip](../Major%20Glitches/Door%20Clipping) into the Ruins Entrance via slight angle clipping  
-Once inside the entrance, use Canderous to [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#ruins-entry-dlz) into the ruins
+### Ancient Ruins
 
-#### **Ancient Ruins:**  
-Confirm Bastila in the party when prompted  
-[Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip ancient droid conversation  
-- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen  
-
-[DLZ](../Major%20Glitches/Displaced%20Load%20Zone#ruins-star-map-dlz) to activate the Star Map cutscene  
-Cancel the dialog box and QS/QL to skip the Star Map CS  
-Reenable VSync  
-- We won't need to DLZ again until Lehon  
-
-Hard Save in "Hotshot Current" slot  
-QS [Hotshot](../Major%20Glitches/Hotshot) to the Enclave using "Teleport" slot  
+- *Party: Keep Bastila when prompted*
+- [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip ancient droid conversation  
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen  
+- [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#ruins-star-map-dlz) to activate the Star Map cutscene  
+- Cancel the dialog box and QS/QL to skip the Star Map CS  
+- Reenable V-Sync  
+  - We won't need to DLZ again until Lehon  
+- **Hard Save in "Hotshot Current" slot**
+- [QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to the Enclave using "Teleport" slot  
 - Bastila will spawn next to the MC  
 - QS/QL to warp Party Bastila to NPC Bastila's position (hopefully close to the council chamber)  
+  - If you got the Enclave DLZ quickly and Bastila spawns too far from the council (use your judgment), *Stims: Alacrity on Bastila*
 
-} If Bastila spawns far from the council, you may elect to use your extra alacrity on her (use your judgment)  
+### Leaving Dantooine
 
-#### **Leaving Dantooine:**  
-Swap to Bastila and speak with Master Vandar  
-Swap to MC and speak to Master Vandar again  
-QS/QL to reactivate rapid transit  
-Transit Back, then Return to Ebon Hawk  
-Board the Ebon Hawk and fly to Kashyyyk  
-  - Board the Ebon Hawk  
+- Swap to Bastila and speak with Master Vandar  
+- Swap to MC and speak to Master Vandar again  
+- QS/QL to reactivate rapid transit  
+- Transit Back, then Return to Ebon Hawk  
+- Board the Ebon Hawk and fly to Kashyyyk  
   - Make a Quick Save  
   - Fly to any planet  
   - [Map CS Skip](../Techniques/Map%20Cutscene%20Skips) once  
   - On the Enclave load-in [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch)  
-  - QS [Hotshot](../Major%20Glitches/Hotshot) back to the Ebon Hawk  
-  - Fly to Kashyyyk  
-  - [Map CS Skip](../Techniques/Map%20Cutscene%20Skips) again  
-  ---------------------------------------------------------
+  - [QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) back to the Ebon Hawk  
+  - Fly to Kashyyyk
+  - [Map CS Skip](../Techniques/Map%20Cutscene%20Skips) again
+    - During this, *Party: Add Bastila*
 
-### **Kashyyyk**
+## Kashyyyk
 
-#### **The Great Walkway:**
+### The Great Walkway
 
-During the [CS skip](../Techniques/Map%20Cutscene%20Skips) add Bastila to the party before returning to Ebon Hawk  
-Swap to Bastila and start running before the conversation begins  
-Janos Wertka accosts you  
-} Use Adrenal Alacrity on Bastila  
-Activate Solo-mode  
-Set up [Conversation Queuing](../Techniques/Conversation%20Queue) between Bastila and the back Czerka guard on the right side of the walkway  
-While she runs, move the MC towards the Ebon Hawk and [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch)  
-When she is far enough away, activate [GP](../Techniques/GP%20Warp) with the MC  
-Move Bastila such that she is just before the first corner, near Eli Gand  
-[GP warp](../Techniques/GP%20Warp) to the Great Walkway Entrance  
-Move backward to trigger the guards, and teleport the MC the the exit: 4  
-} Use Adrenal Alacrity on MC  
-Enter Great Walkway and QS  
-Swap to Bastila  
-Exit Great Walkway and activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load  
-[Hotshot](../Major%20Glitches/Hotshot)/[Coordinate Warp](../Major%20Glitches/Hotshot#ch7Coordinate_Warping) to the Great Walkway  
-- Place Bastila behind the southernmost Czerka guard next to the Great Walkway exit, as close to the wall as possible  
+- Swap to Bastila and start running before the conversation begins  
+- Janos Wertka accosts you  
+- *Stims: Alacrity on Bastila*
+- Landing Pad [GP Warp](../Techniques/GP%20Warp)
+  - Activate Solo Mode 
+  - Set up a [Conversation Queue](../Techniques/Conversation%20Queue) between Bastila and the back Czerka guard on the right side of the walkway  
+  - While she runs, move the MC towards the Ebon Hawk and [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch)  
+  - When she is far enough away, enter the load zone with the MC  
+  - Cancel the pop-up and move Bastila such that she is just before the first corner, near Eli Gand  
+  - Trigger the [GP Warp](../Techniques/GP%20Warp) to the Great Walkway Entrance  
+- Move backward to trigger the guards, and teleport the MC to the exit: 4  
+- *Stims: Alacrity on MC*
+- Enter Great Walkway and QS  
+- Swap to Bastila  
+- Exit Great Walkway and activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load
+- Place Bastila behind the southernmost Czerka guard next to the Great Walkway exit, as close to the wall as possible:
 
 ![image](https://i.imgur.com/BfgfArb.png)
 
-- [Hotshot](../Major%20Glitches/Hotshot) to the Great Walkway  
-- With the right position, Bastila will spawn about halfway across the module, ready to be [GP Warped](../Techniques/GP%20Warp)  
-[GP Warp](../Techniques/GP%20Warp) to Shadowlands elevator  
-- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via a QS with MC  
-- Enter the Czerka Landing Pad loading zone  
-- Cancel the quit dialog and swap to Bastila  
-- Click the dialog option to warp to the elevator  
+- [QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to [Coordinate Warp](../Major%20Glitches/Hotshot#coordinate-warping) Bastila to the Great Walkway  
+  - With the right position, Bastila will spawn about halfway across the module, ready to be [GP Warped](../Techniques/GP%20Warp)  
+- [GP Warp](../Techniques/GP%20Warp) to Shadowlands elevator  
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS with MC  
+  - Enter the Czerka Landing Pad loading zone with MC
+  - Cancel the quit dialog and swap to Bastila  
+  - Click the dialog option to warp to the elevator  
+- Enter and take elevator to Upper Shadowlands  
 
-Enter and take elevator to Upper Shadowlands  
+### Upper Shadowlands
 
-#### **Upper Shadowlands:**  
-[AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load-in to upper shadow lands  
-Unpause, and cancel when the conversation begins (mouse disappears)  
-Use free-look twice, and flourish weapon to begin moiving the MC  
-(If you can't get first-person view on MC, you may need to do a party swap)  
-Move the MC until past the first group of Katarns, just before Jolee's trigger  
-- You can slip past the Katarns on the right if you aim slightly to the right of the gap  
+- Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to [move during the Calo CS](../Major%20Glitches/Anywhere%20Menu%20Glitch#moving-during-cutscenes)
+  - [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load screen
+  - Unpause, and cancel when the conversation begins (mouse disappears)
+  - Use free-look twice or swap party members twice
+  - Move MC via flourish weapon past the first group of Katarns, just before Jolee's trigger  
+  - You can slip past the Katarns on the right if you aim slightly to the right of the gap  
+  - QS/QL to end the CS  
+- Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to [move during the Jolee CS](../Major%20Glitches/Anywhere%20Menu%20Glitch#moving-during-cutscenes)  
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) with a QS (or using the QL of the previous skip)  
+  - Enter the Jolee cutscene and cancel the quit dialog  
+  - Swap to Bastila and run towards Jolee  
+  - Swap to MC and move along path  
+  - Anytime after Jolee starts killing katarn, QS/QL to exit the CS  
+- Talk to first Czerka guard: 1,1,3,1,1  
+- Hack the sonic emitter next to that guard  
+- Talk to second Czerka guard: 1,1,1  
+- Hack the sonic emitter next to that guard  
+- IMMEDIATELY AFTER, [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip the terentatek CS  
+- Swap to Bastila and speak with Jolee: 1,3,1 spam  
+- *Party: Add Bastila, Keep Jolee when prompted*
+- Swap to Bastila and run to Force Field: 1,2  
 
-QS/QL to end the CS  
-Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to move during the Jolee CS  
-- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) with a QS (or using the QL of the previous skip)  
-- Enter the Jolee cutscene and cancel the quit dialog  
-- Swap to Bastila and run towards Jolee  
-- Swap to MC and move along path  
-- Anytime after Jolee starts killing katarn, QS/QL to exit the CS  
+### Lower Shadowlands  
 
-Talk to first Czerka guard: 1,1,3,1,1  
-Hack the sonic emitter next to that guard  
-Talk to second Czerka guard: 1,1,1  
-Hack the sonic emitter next to that guard  
-IMMEDIATELY AFTER, [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip the terentatek CS  
-Swap to Bastila and speak with Jolee: 1,3,1 spam  
-Add Bastila and Jolee to the party  
-Swap to Bastila and run to Force Field: 1,2  
+- **Hard Save in "Teleport" slot**
+- [Fast Lane](../Major%20Glitches/Fast%20Lane)/[QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to [Coordinate Warp](../Major%20Glitches/Hotshot#coordinate-warping) Bastila and Jolee from Landing Pad to Lower Shadowlands
+  - Use [Fast Lane](../Major%20Glitches/Fast%20Lane) to bring up the Return to Ebon Hawk dialog
+  - Open the Options Menu, then press Enter while selecting 'Load Game' and 'OK'
+  - After loading in, QS and open the Options Menu
+  - Press Enter, move the mouse up to select OK, and press Enter again
+  - This will spawn your party members near the Star Map
+- Swap to Bastila  
+- Use [Fast Lane](../Major%20Glitches/Fast%20Lane) to bring up the Return to Ebon Hawk dialog  
+- Speak with the Star Map Computer: 3,3,2,2,1,1,5,1,4,1,4,1  
+- Click OK to Return to Ebon Hawk as soon as the Star Map starts opening  
 
-#### **Lower Shadowlands:**  
-Quick Save [Coordinate Warp](../Major%20Glitches/Hotshot#ch7Coordinate_Warping) to the Star Map  
-- QS, then use [Fast Lane](../Major%20Glitches/Fast%20Lane) to bring up the Return to Ebon Hawk dialog
-- Open the Options Menu, then press Enter while selecting 'Load Game' and 'OK'
-- After loading in, QS and open the Options Menu
-- Press Enter, move the mouse up to select OK, and press Enter again
-- This will spawn your party members near the Star Map
+#### Duplicating Star Maps
 
-Swap to Bastila  
-Use [Fast Lane](../Major%20Glitches/Fast%20Lane) to bring up the Return to Ebon Hawk dialog  
-Speak with the Star Map Computer: 3,3,2,2,1,1,5,1,4,1,4,1  
-Click OK to Return to Ebon Hawk as soon as the Star Map starts opening  
-
-You now have one star map, and need to obtain 3 more by repeating these steps for each:
-
--------------------------------------------------------
-- Perform a [Routine](../Major%20Glitches/The%20Routine)
-  + Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS
-  + In the Options Menu, click Exit Game, then press Enter with Load Game and OK highlighted
-  + With the mouse over Load Game, press down and Enter
-  + Click OK to load the Autosave
-  + As soon as the Autosave loads, QL
-  + Click cancel to leave the Load Game menu
-  + Open and close a menu using the hotkey
-  + QS
-  + open the in-game Options Menu with a hotkey
-  + With the mouse over Options, press up and Enter
-  + Press Escape to return to the Main Menu and click OK to close the extra menu
-  + Select Load Game and load your QS
-- Quick Save [Coordinate Warp](../Major%20Glitches/Hotshot#ch7Coordinate_Warping) to Lower Shadowlands
-  + Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via when loading this QS
-  + Use the map menu to bring up the Return to Ebon Hawk dialog
-  + Open the Options Menu and press enter with Load Game and OK highlighted
-  + After loading in, QS and open the Options Menu
-  + Press Enter, move the mouse up to select OK, and press Enter again
-  + Repeat the above steps once (QS, Options, Enter, mouse up, Enter)
-  + This warps your party members to the same location as before
-- If you haven't already, level Bastila to 4 and select and cast Force Speed
-- Obtain the Kashyyyk Star Map again
+- ***You now have one star map, and need to obtain 3 more by repeating these steps for each:***
+- Perform [The Routine](../Major%20Glitches/The%20Routine)
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS
+  - In the Options Menu, click Exit Game, then press Enter with Load Game and OK highlighted
+  - With the mouse over Load Game, press down and Enter
+  - Click OK to load the Autosave
+  - As soon as the Autosave loads, QL
+  - Press Escape twice (or click "Cancel") to leave the Load Game menu
+  - Close the Options Menu with its hotkey
+  - QS
+  - Open the Options Menu with its hotkey
+  - With the mouse over the Main Menu Options, press up and Enter
+  - Press Escape to return to the Main Menu and click OK to close the extra menu
+  - Select Load Game and load your QS
+- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen (or via QS afterwards)
+- [QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to [Coordinate Warp](../Major%20Glitches/Hotshot#coordinate-warping) Bastila and Jolee to Lower Shadowlands
+  - Use the Map Menu to bring up the Transit Back dialog
+  - Open the Options Menu and press enter with Load Game and OK highlighted (this transits back to Lower Shadowlands)
+  - After loading in, QS and open the Options Menu
+  - Press Enter, move the mouse up to select OK, and press Enter again (this warps to Landing Pad)
+  - Repeat the above steps once (QS, Options, Enter, mouse up, Enter) (this warps back to Lower Shadowlands)
+- `Level Bastila to 4: Burst of Speed`
+  - You'll only need to do this the first time (while getting the second Kashyyyk Star Map)
+- Obtain the Kashyyyk Star Map again by interacting with the Star Map item
+- If this is the fourth Kashyyyk Star Map, talk to the Star Map computer with Bastila
+  - This swaps Bastila and the MC, which is important for a later [Coordinate Warp](../Major%20Glitches/Hotshot#coordinate-warping)
 - [Fast Lane](../Major%20Glitches/Fast%20Lane) to Return to the Ebon Hawk
--------------------------------------------------------
-When you're obtaining the last of the four maps talk to the star map computer with Bastila to warp the MC to the star map area.  
-Make a lower-shadowland save in the "Teleport" slot  
-After obtaining the Kashyyyk Star Map four times in total, board the Ebon Hawk  
-Fly to Lehon  
-- Quicksave [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) before the first flight
-- After the load, unpause, cancel, and free-look to skip the cutscene
-- **DO NOT** Hold QS during this CS
-- During the next load, [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) and [Hotshot](../Major%20Glitches/Hotshot) to the Ebon Hawk
-- Hardsave to "Hotshot Current" slot on the Ebon Hawk to setup Ship Parts skip
-- QS [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) and fly to Lehon again
-  + If you get a fighter skirmish, press Alt-F4 to gain mouse control
-  + Cancel the quit dialog and Return to Ebon Hawk to warp to Lehon
-  + If you don't get a fighter skirmish, QL and default action to try again
-  + We must get the fighter skirmish skip in order for Ship Parts skip to work
+- After obtaining all four Star Maps, Board the Ebon Hawk
 
----------------------------------------------------------
-### Lehon
+## Lehon
 
-#### **Reaching the Temple Summit:**  
-} Use Adrenal Alacrity  
-Run to Temple Exterior  
-} Add Jolee to party and Return to the Ebon Hawk  
-Transit Back  
-- Due to a leftover effect of the Routine, you will spawn to the right of the temple
-[DLZ](../Major%20Glitches/Displaced%20Load%20Zone#temple-entry-dlz)
-[DLZ](../Major%20Glitches/Displaced%20Load%20Zone#temple-summit-dlz) again to enter Temple Summit
-- There are three spots for this DLZ; pick the one you're most comfortable with!
+### Reaching Lehon
 
-#### **Confronting Bastila:**  
-Reactivate VSync  
-Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip the Darth Waifu fight  
-- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS
-- Run towards Bastila to start the CS
-- Cancel the quit dialog
-- As soon as Bastila starts speaking, QS/QL to skip the CS
+- *Stims: Alacrity on MC*
+- Fly to Lehon
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS before the first flight
+  - After the load, unpause, cancel, and free-look to skip the cutscene
+  - **DO NOT** Hold QS during this CS
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the next load screen
+  - [QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to the Ebon Hawk
+- **Hardsave to "Hotshot Current" slot**
+- Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS and fly to Lehon again
+  - If you get a fighter skirmish, press Alt-F4 to gain mouse control
+  - Cancel the quit dialog and Return to Ebon Hawk to warp to Lehon
+  - If you don't get a fighter skirmish, QL and default action to try again
+  - We must get the fighter skirmish skip in order for Ship Parts skip to work
 
-Talk to Bastila and choose to join the Dark Side: 2,2,2,2,2,2  
-As soon as Jolee is hostile, use [Fast Lane](../Major%20Glitches/Fast%20Lane) to Return to the Ebon Hawk  
-- We do not have to kill him or lower the disruptor field
+### Reaching the Temple Summit
 
-Run towards the Hawk  
-When the black screen occurs, immediately Hardsave to "Fast Lane" slot (we will no longer be doing Fast Lanes this run)  
-[Hotshot](../Major%20Glitches/Hotshot) to Ebon Hawk using the "Hotshot Current" slot  
-Fly to the Star Forge  
-- Use the load afterwards to activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch)
+- *Stims: Alacrity on MC*
+- Run to Temple Exterior
+- Return to Ebon Hawk and Transit Back  
+  - *Party: Add Jolee* during this
+  - Due to a leftover effect of [The Routine](../Major%20Glitches/The%20Routine), you will spawn at the Default Spawn in Temple Exterior, to the right of the temple
+- [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#temple-entry-dlz) to enter the Temple
+- [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#temple-summit-dlz) again to enter Temple Summit
+  - There are three spots for this DLZ; pick the one you're most comfortable with!
+
+### Confronting Bastila
+
+- Reactivate V-Sync  
+- Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to [skip the Darth Waifu fight](../Major%20Glitches/Anywhere%20Menu%20Glitch#skipping-cutscenes)
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS
+  - As soon as Bastila starts speaking, cancel the dialog and QS/QL to skip the CS
+- Talk to Bastila and choose to join the Dark Side: 3,2,3,2,2
+- As soon as Jolee is hostile, use [Fast Lane](../Major%20Glitches/Fast%20Lane) to Return to the Ebon Hawk  
+  - We do not have to kill him or lower the disruptor field
+- Run towards the Ebon Hawk  
+- When the black screen occurs, immediately **Hardsave to "Fast Lane" slot**
+- [Hotshot](../Major%20Glitches/Hotshot) to Ebon Hawk using the "Hotshot Current" slot  
+- Fly to the Star Forge  
+  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen
 
 ---------------------------------------------------------
 ### Star Forge
