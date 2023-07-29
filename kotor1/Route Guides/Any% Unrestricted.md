@@ -611,10 +611,12 @@ SHOPPING: Zelka Forn
 - Fly to the Star Forge  
   - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen
 
+
 ---------------------------------------------------------
 ### Star Forge
 
-#### **Deck 1:**  
+### Deck 1
+
 Use the previous [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip the "unskippable" cutscene  
 - Unpause the game and cancel the quit dialog
 - Use the Free Look hotkey to end the cutscene
@@ -706,6 +708,7 @@ On loading, there will be a black screen. When the mouse disappears, the final d
 - Removed Optional Gadon GP
 - Made Bastila Landing Pad GP the default
 - Made Calo Nord AMG the default
+  
 **v9.6 (June 2023)**
 - Added indy's optional "No Save Method" in Run Setup
 - Updated a few minor notation things
@@ -717,28 +720,34 @@ On loading, there will be a black screen. When the mouse disappears, the final d
 - Changed the Hotshot done when travelling to LEhon to the community preferred method
 - Updated Star Forge to use the Lower Shadow Lands save to hotshot to the end of each of the 3 decks
 - Other minor revisions
+
 **[v9.5](https://web.archive.org/web/20230609151915/https://www.speedrun.com/kotor1/guide/hmjxg) (December 2022)**
 - Added Alternate Dantooine Route with QS Hotshot
 - Added Ebon Hawk Hotshots after CS skips
 - Added Quicksaving to advance Stunt CS animations (saves RTA and IGT)
 - Made some minor adjustments to Lower City
 - Included links to newer guides
+
 **[v9.4](https://web.archive.org/web/20221221171455/https://www.speedrun.com/kotor1/guide/hmjxg) (June 2022)**
 - Added the Optional Bastila GP warp on the Kashyyyk Landing Pad
 - Added the Optional Calo Nord Conversation run in the Upper shadow lands
 - Minor adjustments
+
 **v9.3 (October 2021)**
 - Added the DLZ into the Bek Base.
 - Added the optional Vulkar skip outside the base.
 - Added the immediate Fast Lane to spare Jolee.
 - Made Plot Armor optional for both routes.
 - Reorganized the guide to move the alternate Scout route to the end and consolidate it.
+
 **v9.2 (October 2021)**
 - Added the Ship Parts skip to Lehon
+
 **v9.1 (September 2021)**
 - Updated the Scout Route and parts of the Post-Taris route to include Plot Armor Skip
 - Changed the armor and stim purchases in the Scout Route
 - Updated Lehon to include the Transit Warp in Temple Exterior
+
 **v9.0 (August 2021)**
 - Reorganized the guide to deemphasize character build, equipment, credits, and alignment
 - Included two versions of Taris for Scoundrel and Scout
@@ -747,23 +756,29 @@ On loading, there will be a black screen. When the mouse disappears, the final d
 - Added Conversation Queueing for skips on Dantooine
 - New shopping for Scoundrel Route on Taris
 - Credit Underflow and Security FLU are no longer used
+
 **v8.2 (December 2020)** "the dark side update"
 - Scoundrel
 - AMG strats for both the swoop race and Malak
 - Dantooine DLZs to skip most of the world
 - Dark Side Ending! (allows us to skip thermal detonator shopping, and makes the Dantooine skips less painful)
 - Minor Tweaks
+
 **[v8.1](https://web.archive.org/web/20201211202400/https://www.speedrun.com/kotor1/guide/hmjxg) (September 2020)**
 - Lufex's Endar Spire [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#ch4Command_Deck_to_Starboard_Section) implemented
+
 **v8.0 (August 2020)**
 - Hotshot's [Routine](../Major%20Glitches/The%20Routine) used to skip Creamy Middle by duping Starmaps
+
 **[v7.2](https://web.archive.org/web/20200809032636/https://www.speedrun.com/kotor1/guide/hmjxg) (July 2020)**
 - Planet Order Changed again (Hopefully for the last time)
 - Chaos Implements some minor optimizations
+
 **v7.1 (June 2020)**
 - Planet Order Changed
 - Hotshotting to Ebon Hawk instead of Fast Laning
 - Wired Targeting used to kill Malak
+
 **v7.0 (June 2020)** (As seen in Lane's [Video Tutorial](kv1dw))
 - Major route update, including:
   * Hotshotting
@@ -775,6 +790,7 @@ On loading, there will be a black screen. When the mouse disappears, the final d
 - Any echoes of the aligment and credit routes have been lost.
 - Minimalist Character Build
 - Minimalist Leveling plan
+
 **[v6.0](https://web.archive.org/web/20200322222037/https://www.speedrun.com/kotor1/guide/hmjxg) (December 2019)**
 - Major route update, including:
   * New Taris Route using a GP Warp to access Gadon's Office
@@ -790,50 +806,63 @@ On loading, there will be a black screen. When the mouse disappears, the final d
 - Updated the Equipment route to reflect the permanent use of Sith Armor
 - Updated the Alignment route to reflect that it really doesn't matter
 - Added various links to trick and technique guides
+
 **[v5.3](https://web.archive.org/web/20191206184553/https://www.speedrun.com/kotor1/guide/hmjxg) (November 2019)**
 - Added GP warps to the Dune Sea and the Great Walkway
+
 **v5.2 (November 2019)**
 - Replaced the Korriban shopping trip with one on Kashyyyk; streamlined credit route
 - Added optional single party strats on Leviathan
 - Added the full Bastila AMG skip on Star Forge
+
 **v5.1 (October 2019)**
 - Updated a couple things to reflect variation depending on build and optional skips.
 - Fixed an alignment issue with the Malak Skip route.
+
 **v5.0 (October 2019)**
 - The AMG Any% guide is live!
 - New character build
 - New alignment route
 - Several new AMG skips added to the route
+
 **[v4.1](https://web.archive.org/web/20220806234333/https://pastebin.com/X5cK8njg) (September 2019)**
 - Updated the Alignment route for the new AMG route.
 - Other AMG changes coming soon!
+
 **[v4.0](https://web.archive.org/web/20190530154810/https://www.speedrun.com/kotor1/guide/hmjxg) (February 2019)**
 - Added the Door Clip/Canderous CS Skip to Lehon
 - Changed the Lower City XP route on Taris
 - Streamlined the looting plan for Credits before Korriban
 - Minor change to Equipment Plan due to the above
+
 **[v3.6](https://web.archive.org/web/20170123171237/https://www.speedrun.com/kotor1/guide/hmjxg) (January 2017)**
 - Added links to guide pages for specific tricks and glitches throughout the guide.
 - Added the [Save Teleports](5dagb) to reach the Ebon Hawk when leaving Lehon.
 - Updated formatting to make the Detailed Route easier to read.
 - Miscellaneous route corrections.
+
 **v3.5 (December 2016)**
 - Updated formatting to make the guide easier to read.
 - Removed sections on glitches and tricks in preparation for putting them in their own guides.
 - Expanded the Route Overview to include a short outline.
+
 **v3.4 (August 2016)**
 - Added Brejik skip.
 - Changed Equipment plan to cut two shopping trips; updated credit route.
 - Miscellaneous route corrections.
+
 **[v3.3](https://web.archive.org/web/20160716142129/https://www.speedrun.com/kotor1/guide/hmjxg) (June 2016)**
 - Streamlined alignment route and updated it.
 - Miscellaneous fixes to shopping.
+
 **[v3.2](https://web.archive.org/web/20160316011315/https://www.speedrun.com/kotor1/guide/hmjxg) (February 2016)**
 - Added images for several sections, particularly the Krayt Dragon skip.
 - Miscellaneous route fixes.
+
 **[v3.1](https://web.archive.org/web/20220806230113/https://pastebin.com/3tnELbi8) (February 2016)**
 - Updated the Taris route to be more polished
 - Miscellaneous route corrections
+
 **v3.0 (February 2016)**
 - New route on Taris, including:
   - Fake Level Up to get 90 Security
@@ -843,9 +872,11 @@ On loading, there will be a black screen. When the mouse disappears, the final d
   - Scoundrel -> Jedi Guardian
   - Dropping the CNS and adding the Stabilizer Mask
 - Added version history to keep track of the changes!
+
 **v2.1 (January 2016)**
 - Added a cutscene skip on Unknown World
 - Miscellaneous route corrections
+
 **[v2.0](https://web.archive.org/web/20220806225951/https://pastebin.com/iLPA8S1J) (December 2015)**
 - Completely new route, including:
   - New character build: Dueling and Critical Strike
@@ -854,12 +885,16 @@ On loading, there will be a black screen. When the mouse disappears, the final d
   - Fake-Level Up on Korriban
 - Split save-buffering and fake level ups into their own sections
 - Split the guide into two; this guide and the Beginner's Guide
+
 **v1.3 (November 2015)**
 - Updated route to include door clip on Manaan
+
 **v1.2 (November 2015)**
 - Updated route to include droid CS skip on Star Forge
+
 **v1.1 (November 2015)**
 - Updated route to include several small CS skips/save buffers
+
 **v1.0 (November 2015)**
 - Uploaded initial guide with route including:
   - Scout -> Jedi Guardian: Two-Weapon Fighting/Flurry character build
