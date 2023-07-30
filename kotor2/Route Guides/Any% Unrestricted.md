@@ -408,59 +408,57 @@ Abbreviations:
 - Swap to Kreia and swap weapons to KillBlaster
 - Save Teleport to Atris and kill her (mash all convos)
 
-[center][big]***----------------------------
-The Ravager
-----------------------------***[/big][/center]
+## The Ravager
 
-**Citadel Station:**
-After load screen, Hard Buffer to skip CS
-Save Teleport or Hard Buffer to skip Mandalore CS
-Save Teleport to Residential East
-Save Teleport to Entertainment Module
-Save Teleport to Dock Shuttle
-Mandalore and Visas accost you
-Confirm Visas in your party
-Run forward and Mandalore accosts you again
+### Citadel Station
 
-**Mining the Ravager:**
-Activate AMG on or slightly after the load screen
-Unpause, and after CS starts, cancel popup and QS/QL
-Forward Hotshot to Coordinate Warp:
-- Use a QS AMG to perform a Hotshot
-Activate AMG on load screen from Hotshot
-Unpause, and after CS starts (mouse disappears), cancel popup and QS/QL
-You should be Kreia when you load in; run slightly backwards to plant first proton core
-Save Teleport to top right proton core site
-- *Down the hallway, turn right in the main hall, take door in back left, straight through next door, then turn right and take door on left*
-Activate AMG via QS
-Swap to 3C and move forward to trigger third proton core site
-When the Mandalorian talks *after* planting the core, cancel the popup and QS/QL
-- This skips losing the last core and having to create a new one in the missile bay
-Swap to Kreia and Save Teleport to bottom right proton core site
-- Turn left and follow hallway all the way around
-Save Teleport back along hallway to elevator door
-Hardsave, then board the elevator
+- After load screen, Hard Buffer to skip CS
+- Save Teleport or Hard Buffer to skip Mandalore CS
+- Save Teleport through Residential East and Entertainment Module to Dock Module
+- Mandalore and Visas accost you
+- *Party: Keep Visas*
+- Run forward and Mandalore accosts you again
 
-**Ravager Bridge:**
-Forward Hotshot to Coordinate Warp to Nihilus
-- Use a QS AMG to perform a Hotshot
-Swap to MC and swap weapons to KillBlaster
-Nihilus fight:
-- Move forward to get stunned in a CS
-- Shoot him through the stun (Tab through party and immediately shoot)
-- As the fade-in happens, target him and shoot again
-Hotshot to Ravager:
-- As soon as black screen happens, Hardsave
-- Load the elevator save (third from top)
-- Use a QS AMG to perform a Hotshot
-Swap to Kreia and position her in doorway (picture coming)
-Hardsave, then Save Teleport through the hole in wall to leave
+### Mining the Ravager
 
-[center][big]***----------------------------
-Malachor V
-----------------------------***[/big][/center]
+- Activate AMG on or slightly after the load screen
+- Unpause, and after CS starts, cancel popup and QS/QL
+- Forward Hotshot to Coordinate Warp Kreia and 3C to The Ravager:
+  - Activate AMG via QS to perform a Hotshot
+- Activate AMG on load screen from Hotshot
+- Unpause, and after CS starts (mouse disappears), cancel popup and QS/QL
+- You should be Kreia when you load in; run slightly backwards to plant first proton core
+- Save Teleport to top right proton core site
+  - *Down the hallway, turn right in the main hall, take door in back left, straight through next door, then turn right and take door on left*
+- Activate AMG via QS
+- Swap to 3C and move forward to trigger third proton core site
+- When the Mandalorian talks *after* planting the core, cancel the popup and QS/QL
+  - This skips losing the last core and having to create a new one in the missile bay
+- Swap to Kreia and Save Teleport to bottom right proton core site
+  - Turn left and follow hallway all the way around
+- Save Teleport back along hallway to elevator door
+- **Make a Hardsave**, then board the elevator
 
-**Malachor V:**
+### Ravager Bridge
+
+- Forward Hotshot to Coordinate Warp to Nihilus
+  - Activate AMG via QS to perform a Hotshot
+- Swap to MC and swap weapons to KillBlaster
+- Nihilus fight:
+  - Move forward to get stunned in a CS
+  - Shoot him through the stun (Tab through party and immediately shoot)
+  - As the fade-in happens, target him and shoot again
+- Hotshot to Ravager:
+  - As soon as black screen happens, Hardsave
+  - Load the elevator save (third from top)
+  - Activate AMG via QS to perform a Hotshot
+- Swap to Kreia and position her in doorway (picture coming)
+- **Make a Hardsave**, then Save Teleport through the hole in wall to leave
+
+## Malachor V
+
+### Malachor Depths
+
 Long cutscene with Sion (who?) and Traya
 Forward Hotshot to Coordinate Warp
 - Use a QS AMG to perform a Hotshot
