@@ -13,6 +13,8 @@ Finally, if you have additional questions, you can check out the KotOR Speedrunn
   - [Route Outline](#route-outline)
 - [Character Build and Equipment](#character-build-and-equipment)
 - [Detailed Route](#detailed-route)
+- [Version History](#version-history)
+- [Closing](#closing)
 
 ## Guide Organization
 
@@ -134,6 +136,12 @@ Abbreviations:
   - [Setting up Saves](#setting-up-saves)
   - [Atris](#atris)
 - [The Ravager](#the-ravager)
+  - [Wartime Citadel](#wartime-citadel)
+  - [Mining the Ravager](#mining-the-ravager)
+  - [Ravager Bridge](#ravager-bridge)
+- [Malachor V](#malachor-v)
+  - [Malachor Depths](#malachor-depths)
+  - [Darth Traya](#darth-traya)
 
 ## Peragus II
 
@@ -429,7 +437,7 @@ Abbreviations:
 - Unpause, and after CS starts (mouse disappears), cancel popup and QS/QL
 - You should be Kreia when you load in; run slightly backwards to plant first proton core
 - Save Teleport to top right proton core site
-  - *Down the hallway, turn right in the main hall, take door in back left, straight through next door, then turn right and take door on left*
+  - Down the hallway, turn right in the main hall, take door in back left, straight through next door, then turn right and take door on left
 - Activate AMG via QS
 - Swap to 3C and move forward to trigger third proton core site
 - When the Mandalorian talks *after* planting the core, cancel the popup and QS/QL
@@ -449,7 +457,7 @@ Abbreviations:
   - Shoot him through the stun (Tab through party and immediately shoot)
   - As the fade-in happens, target him and shoot again
 - Hotshot to Ravager:
-  - As soon as black screen happens, Hardsave
+  - As soon as black screen happens, **Make a Hardsave**
   - Load the elevator save (third from top)
   - Activate AMG via QS to perform a Hotshot
 - Swap to Kreia and position her in doorway (picture coming)
@@ -459,33 +467,34 @@ Abbreviations:
 
 ### Malachor Depths
 
-Long cutscene with Sion (who?) and Traya
-Forward Hotshot to Coordinate Warp
-- Use a QS AMG to perform a Hotshot
-- For this Hotshot, **press down five times** on main menu
-Save Teleport as Kreia to Malachor Depths
-Forward Hotshot to Coordinate Warp
-- Use a QS AMG to perform a Hotshot
-Save Teleport as Kreia into the Trayus Academy
-Forward Hotshot to Coordinate Warp
-- Use a QS AMG to perform a Hotshot
-Run backwards as Kreia to enter the Trayus Core
+- Long cutscene with Sion (who?) and Traya
+- Forward Hotshot to Coordinate Warp Kreia
+  - Activate AMG via QS to perform a Hotshot
+  - For this Hotshot, **press down five times** on main menu
+- Save Teleport as Kreia to Malachor Depths
+- Forward Hotshot to Coordinate Warp Kreia
+  - Activate AMG via QS to perform a Hotshot
+- Save Teleport as Kreia into the Trayus Academy
+- Forward Hotshot to Coordinate Warp Kreia
+  - Activate AMG via QS to perform a Hotshot
+- Run backwards as Kreia to enter the Trayus Core
 
-**Darth Traya:**
-Swap to MC and swap weapons to KillBlaster
-Hard Buffer the initial cutscene
-Stand next to Traya
-First Phase skip:
-- Talk to Traya: 4
-- Mash default action as the convo ends to start the next one
-- If you miss this, just shoot her
-Second conversation: mash 1
-- You can also skip the second phase by mashing default action but it's very difficult
-Shoot her again to win!
+### Darth Traya
 
-[section=Alternate Citadel Route]
+- Swap to MC and swap weapons to KillBlaster
+- Hard Buffer the initial cutscene
+- Stand next to Traya
+- First Phase skip:
+  - Talk to Traya: 4
+  - Mash default action as the convo ends to start the next one
+  - If you miss this, just shoot her
+- Second conversation: mash 1
+  - You can also skip the second phase by mashing default action but it's very difficult
+- Shoot her again to win!
 
-**Notes on this Route**
+## Alternate Citadel Route
+
+### Notes on this Route
 
 The alternate Citadel route sides with the Czerka corporation rather than the Ithorians.  This would be slower, except for a trick known as the Exchange DLZ, which lets us enter the Exchange early.  In the Ithorian route, this doesn't save enough time to be worthwhile, but in the Czerka route, the Exchange DLZ allows us to completely skip talking to Luxa and doing her fetch quests.
 
@@ -493,71 +502,74 @@ This route is therefore faster than the Ithorian route by about 90 seconds, assu
 
 If you decide to do this route, all other sections of the run are identical to the standard route, with the possible exception of save locations in the save list during hotshots.
 
-[center][big]***----------------------------
-Czerka Citadel Route
-----------------------------***[/big][/center]
+### Czerka Citadel Route
 
-**Citadel Docks:**
-Click the Options icon to Hardsave before the CS
-Hotshot to Ebon Hawk:
-- Load the Ebon Hawk storage hold save (third from bottom)
-- Use a QS AMG to perform a Hotshot
-} Unequip KillBlaster and Lightsaber from MC
-Coordinate Warp to Docks Module:
-- Hardsave, then load the Citadel Docks save (third from top)
-- Use a QS AMG to perform a Hotshot
-- This warps Kreia and Atton into the Ithorian Hangar
-Swap MC's weapon (to KillBlaster)
-} Equip KillBlaster to Kreia
-Use Kreia (or Atton) to trigger the thug ambush
-Kill the thugs (no need to trigger consoles)
-Ithorian accosts you
-Hardsave
-Talk to droid: 2,2
+#### Citadel Docks
 
-**Dealing with the Exchange:**
-AMG on the load screen
-Unpause, then when CS starts, cancel popup and QS/QL
-Use Master Speed
-Talk to Jana Lorso twice: 2 | mash 1
-Hardsave
-Activate Solo Mode
-Exit Czerka as MC
-- B-4D4 accosts you: 3
-Run to left and perform the Exchange DLZ
-- In Options, go to Graphics -> Advanced and disable V-Sync
-- Walk into a precise part of the wall opposite the Exchange entrance (picture coming)
-- If you succeed you'll enter the Exchange as if you walked in through the door
-- Once successful, re-enable V-Sync in Options
-Add Kreia
-Cast Master Speed
-Secretary accosts you
-Run through door on right
-Hard Buffer as you open the next door to skip fight with Benok
-Talk to Gamorrean Guard in next room
-Use Rapid Shot to kill both droids
-Loppak and Luxa: 1,3
-Use Force Storm and/or Rapid Shot to kill everyone
+- Click the Options icon to Hardsave before the CS
+- Hotshot to Ebon Hawk:
+  - Load the Ebon Hawk storage hold save (third from bottom)
+  - Activate AMG via QS to perform a Hotshot
+- *Unequip MC: Remove KillBlaster and Lightsaber*
+- Hotshot to Coordinate Warp to Docks Module:
+  - **Make a Hardsave**, then load the Citadel Docks save (third from top)
+  - Activate AMG via QS to perform a Hotshot
+  - This warps Kreia and Atton into the Ithorian Hangar
+- Swap MC's weapon (to KillBlaster)
+- *Equip Kreia: KillBlaster Mainhand*
+- Use Kreia (or Atton) to trigger the thug ambush
+- Kill the thugs (no need to trigger consoles)
+- Ithorian accosts you
+- **Make a Hardsave**
+- Talk to droid: 2,2
 
-**Leaving Citadel Station:**
-Hotshot to Czerka
-- Hardsave, then load Czerka save (third from top)
-- Use a QS AMG to perform a Hotshot
-Swap to Kreia and talk to Jana Lorso
-Swap to MC and leave
-Swap to Kreia and use Force Speed
-Position Kreia in the center of Apartment B2's closed door
-Coordinate Warp to Docks Module:
-- Hardsave, then load Docks Module Hardsave (fifth from top)
-- Use a QS AMG to perform a Hotshot
-As Kreia, use the shuttle to reach Telos Surface
+#### The Exchange
 
-[section=Version History]
+- Activate AMG on the load screen
+- Unpause, then when CS starts, cancel popup and QS/QL
+- *Force: Cast Master Speed*
+- Talk to Jana Lorso twice: 2 | mash 1
+- **Make a Hardsave**
+- Activate Solo Mode
+- Exit Czerka as MC
+  - B-4D4 accosts you: 3
+- Run to left and perform the Exchange DLZ
+  - In Options, go to Graphics -> Advanced and disable V-Sync
+  - Walk into a precise part of the wall opposite the Exchange entrance (picture coming)
+  - If you succeed you'll enter the Exchange as if you walked in through the door
+  - Once successful, re-enable V-Sync in Options
+- *Party: Add Kreia*
+- *Force: Cast Master Speed*
+- Secretary accosts you
+- Run through door on right
+- Hard Buffer as you open the next door to skip fight with Benok
+- Talk to Gamorrean Guard in next room
+- Use Rapid Shot to kill both droids
+- Loppak and Luxa: 1,3
+- Use Force Storm and/or Rapid Shot to kill everyone
+
+#### Leaving Citadel Station
+- Hotshot to Czerka
+  - **Make a Hardsave**, then load Czerka save (third from top)
+  - Activate AMG via QS to perform a Hotshot
+- Swap to Kreia and talk to Jana Lorso
+- Swap to MC and leave
+- Swap to Kreia and use Force Speed
+- Position Kreia in the center of Apartment B2's closed door
+- Hotshot to Coordinate Warp to Docks Module:
+  - **Make a Hardsave**, then load Docks Module Hardsave (fifth from top)
+  - Activate AMG via QS to perform a Hotshot
+- As Kreia, use the shuttle to reach Telos Surface
+
+## Version History
+
 **v1.1 (February 2022)**
 - Added a slightly faster and much more consistent Peragus strat
+
 **v1.0 (January 2022)**
 - Uploaded the initial version of this guide.
 - Uses Ithorian version of Citadel Station, with Czerka version as an aside.
 
-[section=Closing]
+## Closing
+
 I'd like to acknowledge glasnonck, RedMage, and 30Cents, all of whom dedicated a lot of time and effort into making KotOR II speedrunning what it is today.  This run is a beautifully broken mess thanks to them and our glitch hunters, Lane and HotShotWire.
