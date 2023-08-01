@@ -19,6 +19,7 @@ Finally, if you have additional questions, you can check out the [KotOR Speedrun
   - [Leveling Plan](#leveling-plan)
 - [Detailed Route](#detailed-route)
 - [Version History](#version-history)
+- [Closing](#closing)
 
 ## Category Definition
 
