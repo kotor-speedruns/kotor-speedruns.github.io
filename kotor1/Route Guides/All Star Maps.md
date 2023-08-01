@@ -165,7 +165,6 @@ We end the run at level 2 due to all the [Hotshots](<../Major Glitches/Hotshot>)
 This section will describe all the actions you need to take for the All Star Maps speedrun.
 
 Notation:
-- `Level ups are highlighted in code block`
 - *Inventory/Equipment changes are highlighted in italics*
 - `Shopping trips are highlighted in large code blocks`
 - **Hard Saves to make are highlighted in bold**
@@ -186,7 +185,9 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
 
 **Jump to a Section:**
 - [Endar Spire](#endar-spire)
-- 
+- [Taris](#taris)
+- [Dantooine](#dantooine)
+- [Midgame Setup](#midgame-setup)
 
 ## Endar Spire
 
