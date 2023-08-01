@@ -1,10 +1,13 @@
 # Star Wars: Knights of the Old Republic - All Star Maps Guide
 
-**v1.0: Male/Female Scoundrel Route**
+### v1.0: Male/Female Scoundrel Route
 
-This route defeats Malak on the Star Forge as fast as possible while obtaining all five individual Star Maps; Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black after Malak's death animation. A load-removal tool is available for LiveSplit thanks to glasnonck; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the character build for the run, as well as a detailed route.
+*Route and Guide by [indykenobi](https://www.speedrun.com/users/indykenobi)*
 
-If you have additional questions, you can check out the KotOR Speedrunning Discord which is linked on the game's sidebar on speedrun.com. There's a bunch of friendly folks there willing to answer questions!
+This route defeats Malak on the Star Forge as fast as possible while obtaining all five individual Star Maps.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the character build and detailed route for the run.
+
+Finally, if you have additional questions, you can check out the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu). There's a bunch of friendly folks there willing to answer questions!
+
 
 **Table of Contents**
 - [Category Definition](#category-definition)
