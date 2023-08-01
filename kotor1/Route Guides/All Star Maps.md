@@ -49,7 +49,7 @@ This run requires one of two disguises in order to unequip the Envirosuit for th
 
 You'll need to decide ahead of time which outfit to obtain, as the first difference in route based on this choice is less than 2 minutes into the run.  If you feel confident in your ability to get the Lower City DLZ within 5 seconds, consider the Sand People Outfit; otherwise (or if you just want one less DLZ to worry about), go for the Sith Armor.
 
-The [detailed route](#detailed-route) will have notes in certain places detailing differences in actions based on what disguise you choose to get.
+The [detailed route](#detailed-route) will have notes in certain places detailing differences in actions based on what disguise you choose to get.  These will be denoted by ***Sith Armor Only:*** or ***Sand People Outfit Only:***.
 
 ### Route Outline
 
@@ -251,9 +251,9 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
   - Use default action to talk to MC, then immediately swap to MC and run past Larrim
   - When MC targets the door to Upper City South, use default action to open it
   - Swap to Carth and move enough to cancel the [Conversation Queue](<../Techniques/Conversation Queue>)
-- *Unequip Carth: Remove Carth's Blaster and Blaster Pistol*
+- *Unequip Carth: Remove Both Blasters*
 - *Equip MC: Carth's Blaster Mainhand, Blaster Pistol Offhand*
-- ***Optional:*** If you will get the Sand People Outfit and skip Sith Armor, **Hard Save to Slot 1**
+- ***Sand People Outfit Only:*** **Hard Save to Slot 1**
 - Exit to Upper City South
 
 ### Upper City South
@@ -284,21 +284,17 @@ SHOPPING: Zelka Forn
 - Swap to Carth and [GP Warp](<../Techniques/GP Warp>) to warp MC
 - Enter Upper City North
 
-### Getting Sith Armor
+### Upper City North
 
-***Only do the actions in this section if you've chosen to obtain the Sith Armor; if you are getting the Sand People Outfit instead, skip ahead to [the next section](#sith-base).  See [Choosing a Disguise](#choosing-a-disguise).***
-
-- Run straight across to North Apartments
-  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
-- Run left to third apartment
-- Sith soldier accosts you
-- Kill and loot Sith Commander for Sith Armor
-  - You don't need to kill the other two soldiers
-- Use the AMG pop-up to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Upper City South
-- Enter Upper City North
-
-### Sith Base
-
+- ***Sith Armor Only:***
+  - Run straight across to North Apartments
+    - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
+  - Run left to third apartment
+  - Sith soldier accosts you
+  - Kill and loot Sith Commander for Sith Armor
+    - You don't need to kill the other two soldiers
+  - Use the AMG pop-up to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Upper City South
+  - Enter Upper City North
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the Upper City North load screen
 - Autosave [Hotshot](<../Major Glitches/Hotshot>) to warp to elevator:
   - With quit dialog up, unpause and open the door to Upper City South behind you
@@ -306,10 +302,14 @@ SHOPPING: Zelka Forn
   - Unpause and navigate blindly through the door to Upper City South
   - After loading into Upper City South, select the Autosave and load it
   - This spawns your party next to the elevator leading to the Lower City
-- **Hard Save in Slot 2**; if you got Sith Armor, **Hard Save in Slot 1** also
+- **Hard Save in New Slot (Slot 2)**
+  - ***Sith Armor Only***: **Hard Save in Slot 1** also
 - [DLZ](<../Major Glitches/Displaced Load Zone#sith-base-dlz>) to enter the Sith Base
-  - You should use Location 1 if you skipped Sith Armor, and Location 3 if you got Sith Armor
+  - You should use Location 1 if you skipped Sith Armor, and Location 2 or 3 if you got Sith Armor
   - Deactivate VSync for this [DLZ](<../Major Glitches/Displaced Load Zone#sith-base-dlz>)
+
+### Sith Base
+
 - Secretary accosts you: 2,1
   - This can be optionally [Hard Buffered](<../Techniques/Save Buffering#hard-buffers>) instead
 - Re-enable V-Sync in Options
@@ -328,90 +328,76 @@ SHOPPING: Zelka Forn
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Upper City North using Slot 2
 - Enter the Lower City by...
-  - **With Sith Armor:** *Equip MC: Sith Armor* and entering the elevator past the Sith Guard
-  - **Without Sith Armor:** Perform the Lower City DLZ
+  - ***Sand People Outfit Only:*** Perform the [Lower City DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>)
+  - ***Sith Armor Only:** Equip MC: Sith Armor* and entering the elevator past the Sith Guard
+  
 
 ### Lower City
 
-[Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip gang war cutscene
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load and use the map to bring up the Return to Hideout dialog
-- Skip this [AMG](<../Major Glitches/Anywhere Menu Glitch>) if you're going to kill the Vulkar guards (see below)
-} Add Carth to party
-*Optional:* Kill two Vulkar Guards at end of hall
-- This makes the door clip less chaotic but wastes a few seconds
-[Door Clip](<../Major Glitches/Door Clipping>) and [DLZ](<../Major Glitches/Displaced Load Zone#ch7Lower_City_to_Vulkar_Base) to enter Vulkar Base:
-- Activate Solo Mode (this is important!)
-- As Carth, run into right corner of Vulkar Base door
-- While running forward, swap to MC; Carth should bump out from the corner
-- As MC, run into right corner and while running, swap to Carth
-- MC should be inside the door now; if not, repeat the above process until success
-- Make sure MC is out of combat, then QS/QL to activate the [DLZ](<../Major Glitches/Displaced Load Zone)
-QS inside the Vulkar Base
-Exit Vulkar Base with Carth
-If you didn't kill the Vulkars: 
-- Run with MC to where the walkway begins to curve
-- Use the dialog to Return to Hideout and Transit Back; this warps Carth to you
-[DLZ](<../Major Glitches/Displaced Load Zone) into the Bek Base
-
-**Bek Base**
-Enter Gadon's Office with either a [DLZ](<../Major Glitches/Displaced Load Zone) or [GP Warp](<../Techniques/GP Warp>):
----------------------------------------------------------
-***Method 1: Gadon's Office [DLZ](<../Major Glitches/Displaced Load Zone)***
-*This strat is faster, but only if you get the [DLZ](<../Major Glitches/Displaced Load Zone) quickly; it saves around 15 seconds if gotten immediately. This [DLZ](<../Major Glitches/Displaced Load Zone) saves the least time, so it's somewhat optional unless you're going for top times.*
+- ***Sand People Outfit Only:*** Return to Hideout and immediately Transit Back to set Transit Point
+- *Party: Add Carth*
+- *Stims: Alacrity on Carth*
 - Activate Solo Mode
-- As MC, open first door
-- As Carth, [DLZ](<../Major Glitches/Displaced Load Zone) into Gadon's Office
-- Reenable VSync once you load into Gadon's Office
----------------------------------------------------------
-***Method 2: Gadon's Office [GP Warp](<../Techniques/GP Warp>)***
-*This strat is consistent, but slower compared to a good [DLZ](<../Major Glitches/Displaced Load Zone).  It's recommended for runners who are just starting or who don't care to have another inconsistent [DLZ](<../Major Glitches/Displaced Load Zone) in the run.*
-- If necessary, reenable VSync
-- Run Carth into the Bek Base far enough to click on the door to the right of Gadon
-- Swap to MC and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-- Enter the Lower City loading zone (don't do this too fast or you'll actually go through!)
-- Cancel the quit dialog, swap to Carth, and click the dialog option
-- Swap to MC and run into Bek Base to click the door to the right of Gadon
-- Swap to Carth, then enter Gadon's Office when MC is close enough
----------------------------------------------------------
-Kill Gadon:
-- As MC, Crit Strike for Sneak Attack
-- Gadon should die in one or two hits
-- Note that Kaeira doesn't have to die
-As soon as Gadon is dead, Hard Save in Slot 1 and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) during the save 
-Quick Save [Hotshot](<../Major Glitches/Hotshot>) to Vulkar Base
+- Use a [Conversation Queue](<../Techniques/Conversation Queue>) to skip the Gang War CS:
+  - Run Carth along the right wall until just before it ends (where the CS triggers)
+  - Swap to MC and talk to Carth, then immediately swap to Carth and turn right to the end of the hall
+  - The [Conversation Queue](<../Techniques/Conversation Queue>) also ensures that MC follows Carth to the Vulkar Base
+- [Door Clip](<../Major Glitches/Door Clipping#partial-door-clips>) and [DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-dlz>) to enter Vulkar Base:
+  - As Carth, run into right corner of Vulkar Base door
+  - While running forward, swap to MC; Carth should bump out from the corner
+  - As MC, run into right corner and while running, QS/QL
+  - If the trick worked, you'll [DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-dlz>) into the Vulkar Base after the QL
+  - If the trick failed, just run into the corner and QS/QL again
+  - You must have Solo Mode ON and V-Sync OFF for this [DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-dlz>) to work
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen immediately after the [DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-dlz>)
+- QS inside the Vulkar Base
+- Use the pop-up to [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to...
+  - ***Sand People Outfit Only:*** ...South Apartments using Slot 1; then Transit Back to Lower City
+  - ***Sith Armor Only:*** ...Upper City North using Slot 1; then re-enter the Lower City
 
-**Escaping Taris**
-Kandon will accost you shortly after spawning in
-After loading into Swoop Platform, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Ithorian convo
-Use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip a swoop race
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-- Speak to the race coordinator: 1
-- Finish the race with the quit dialog open
-- Don't shift into the final gear; doing so is actually slower by about a second
-- Press 1 and click to skip Ithorian dialog until Anglu comes running up 
-- Cancel the quit dialog and QS/QL to skip the CS
-- Talk to the Ithorian a second time to "Win" the second race
-After talking to the Ithorian the second time but BEFORE Brejik's convo, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Brejik fight
-- Instead of loading the QS after buffering, Hard Save in Slot 1
-- [Hotshot](<../Major Glitches/Hotshot>) to Lower City using the Autosave
-- If you miss the buffer, mash through the Brejik cutscene until you regain control, then do the [Hotshot](<../Major Glitches/Hotshot>)
-Enter Javyar's Cantina
-Talk to Canderous: 1,1,1,2,1
-- Leave Canderous in your party, but be ready to do the next trick
-Use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip the Taris destruction CS via Free-Look
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) during the load after confirming your party
-- Unpause the game and cancel the quit dialog
-- Use the Free-Look hotkey to end the cutscene
-Use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip Davik's Estate
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) during the load into Davik's Estate
-- Go through the conversation spamming 1 and left-click (don't use NumPad Enter!)
-- When the cutscene moves to the hangar, cancel the quit dialog and QS/QL
-Board the Ebon Hawk, then use a [Map CS Skip](rb685) to Return to Ebon Hawk
-- This skips the cutscenes between Taris and Dantooine, as well as the fighter skirmish 
+### Bek Base
 
-[center][big]***----------------------------
-Dantooine
-----------------------------***[/big][/center]
+- In the Lower City, **Hard Save in Slot 2**
+- [DLZ](<../Major Glitches/Displaced Load Zone#bek-base-dlz>) into the Bek Base
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
+- As Carth, [DLZ](<../Major Glitches/Displaced Load Zone#gadon-dlz>) to enter Gadon's Office
+  - Doing this DLZ with Carth spawns you next to Gadon, guaranteeing one Sneak Attack
+  - Re-enable V-Sync once you load into Gadon's Office
+- Kill Gadon:
+  - As MC, Sniper Shot for Sneak Attack
+  - ***Optional:*** As Carth, Power Blast Gadon
+  - Gadon should die in one round; if unlucky, he may take two
+  - Note that Kaeira doesn't have to die
+- As soon as Gadon is dead, use the pop-up to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to the Vulkar Base:
+  - If you forgot to QS in the Vulkar Base or don't have an [AMG](<../Major Glitches/Anywhere Menu Glitch>) pop-up ready, you can instead [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) using Slot 1
+
+### Escaping Taris
+- Kandon will accost you shortly after spawning in
+- After loading into Swoop Platform, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Ithorian convo
+- Use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip a swoop race
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
+  - Speak to the race coordinator: 1
+  - Finish the race with the quit dialog open
+  - Don't shift into the final gear; doing so is actually slower by about a second
+  - Use your pop-up to [skip the mechanic conversation](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) when Anglu comes running up 
+- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Lower City using Slot 2
+  - Talk to the Ithorian a second time to "win" the second swoop race
+  - Click twice then IMMEDIATELY activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and open the Options Menu
+  - Perform the [Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) from there
+  - Alternately, you can [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) after the 2nd Ithorian convo to skip the Brejik fight, then do the [Hotshot](<../Major Glitches/Hotshot#hss-hotshots>)
+- Enter Javyar's Cantina
+- Talk to Canderous: 1,1,1,2,1
+  - *Party: Keep Canderous when prompted*
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the subsequent load screen
+- Use a [Free Look AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip the Taris destruction CS
+- Use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip Davik's Estate
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen into Davik's Estate
+  - Go through the conversation spamming 1 and left-click (don't use NumPad Enter!)
+  - When the cutscene moves to the hangar, cancel the quit dialog and QS/QL
+- Board the Ebon Hawk, then use a [Map CS Skip](rb685) to Return to Ebon Hawk
+  - This skips the cutscenes between Taris and Dantooine, as well as the fighter skirmish 
+
+## Dantooine
 
 **Jedi Enclave:**
 Use Conversation Queueing to skip Belaya's conversation
