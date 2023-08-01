@@ -13,7 +13,9 @@ If you have additional questions, you can check out the KotOR Speedrunning Disco
   - [Route Outline](#route-outline)
 - [Character Build](#character-build)
   - [Character Creation](#character-creation)
-  - [Leveling Plan](#leveling-plan) 
+  - [Leveling Plan](#leveling-plan)
+- [Detailed Route](#detailed-route)
+- [Version History](#version-history)
 
 ## Category Definition
 
@@ -389,88 +391,89 @@ SHOPPING: Zelka Forn
 - Talk to Canderous: 1,1,1,2,1
   - *Party: Keep Canderous when prompted*
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the subsequent load screen
-- Use a [Free Look AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip the Taris destruction CS
+- Use a [Free Look AMG](<../Major Glitches/Anywhere Menu Glitch#free-look-amgs>) to skip the Taris destruction CS
 - Use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip Davik's Estate
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen into Davik's Estate
   - Go through the conversation spamming 1 and left-click (don't use NumPad Enter!)
   - When the cutscene moves to the hangar, cancel the quit dialog and QS/QL
-- Board the Ebon Hawk, then use a [Map CS Skip](rb685) to Return to Ebon Hawk
+- Board the Ebon Hawk, then use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
   - This skips the cutscenes between Taris and Dantooine, as well as the fighter skirmish 
 
 ## Dantooine
 
-**Jedi Enclave:**
-Use Conversation Queueing to skip Belaya's conversation
-- Run forward slightly and swap to Canderous
-- Talk to MC, then immediately swap to MC and run away, into the Enclave
-- This queues up a conversation between MC and Canderous, preventing other triggers from firing
-- It also helps Canderous follow you into the Enclave
-QS/QL in Council Chamber
-Hard Save in Slot 3
-[DLZ](<../Major Glitches/Displaced Load Zone#ch8Jedi_Enclave_to_Courtyard) to the Courtyard
-- Deactivate VSync for this and the other Dantooine [DLZ](<../Major Glitches/Displaced Load Zone)s
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen when this [DLZ](<../Major Glitches/Displaced Load Zone) fires
+### Jedi Enclave
 
-**Dantooine Savannah:**
-Use the [AMG](<../Major Glitches/Anywhere Menu Glitch>) to bring up the Return to Ebon Hawk dialog while moving
-Set up Conversation Queueing between MC and Canderous
-- This skips a conversation with Jon and a Kath Hound spawning CS
-Run through the Courtyard and down the left path to the ruins entrance
-Use the Return to Ebon Hawk popup to [Door Clip](<../Major Glitches/Door Clipping>) into the Ruins Entrance via slight angle clipping
-Once inside the entrance, use Canderous to [DLZ](<../Major Glitches/Displaced Load Zone#ch9Courtyard_to_Ruins) into the ruins
+- Use a [Conversation Queue](<../Techniques/Conversation Queue>) to skip Belaya's conversation
+  - Run forward slightly and swap to Canderous
+  - Talk to MC, then immediately swap to MC and run away, into the Enclave
+  - When you reach the atrium, **Hard Save in Slot 2**, then load the Hard Save to cancel the [Queue](<../Techniques/Conversation Queue>)
+- [DLZ](<../Major Glitches/Displaced Load Zone#enclave-dlz>) to the Courtyard
+  - Deactivate VSync for this and the other Dantooine [DLZ](<../Major Glitches/Displaced Load Zone>)s
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the subsequent load screen
 
-**Ancient Ruins:**
-Confirm Bastila in the party when prompted
-[Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip ancient droid conversation
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
-[DLZ](<../Major Glitches/Displaced Load Zone#ch10Ruins_Starmap) to activate the Star Map cutscene
-Cancel the dialog box and QS/QL to skip the Star Map CS
-Reenable VSync
-- We won't need to [DLZ](<../Major Glitches/Displaced Load Zone) again until Lehon
-Hard Save in Slot 1
-[Hotshot](<../Major Glitches/Hotshot>) to the Enclave with Slot 3
-- Bastila will spawn in the Council Chamber
-- Don't do a Quick Save [Hotshot](<../Major Glitches/Hotshot>) or Bastila won't spawn in the right place
+### Dantooine Savannah
 
-**Leaving Dantooine:**
-} Swap to Bastila and use Alacrity
-Speak with Master Vandar
-Swap to MC and speak to Master Vandar again
-QS/QL to reactivate rapid transit
-Transit Back, then Return to Ebon Hawk
-Board the Ebon Hawk 
-Hard Save in Slot 3
-Fly to Kashyyyk:
-  - [Map CS Skip](rb685) once
-  - Reboard Ebon Hawk
-  - [Map CS Skip](rb685) again
+- Use the pop-up to set up a [Fast Lane](<../Major Glitches/Fast Lane#quicker-fast-lanes>)
+- Set up a [Conversation Queue](<../Techniques/Conversation Queue>) with Canderous following MC
+  - This skips a conversation with Jon and a Kath Hound spawning CS
+- Run through the Courtyard and down the left path to the ruins entrance
+- Use the [Fast Lane](<../Major Glitches/Fast Lane#quicker-fast-lanes>) pop-up to [Door Clip](<../Major Glitches/Door Clipping#party-spawn-door-clips>) into the Ruins Entrance via slight angle clipping
+- Once inside the entrance, use Canderous to [DLZ](<../Major Glitches/Displaced Load Zone#ruins-entry-dlz>) into the ruins
 
-[center][big]***----------------------------
-Midgame Setup
-----------------------------***[/big][/center]
+### Ancient Ruins
 
-**The Great Walkway:**
-Janos Wertka accosts you
-} Use Adrenal Alacrity
-Talk to (or [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>)) the Czerka guards at the exit: 4
-Enter Great Walkway
-QS, then exit back to Czerka Landing Port
-} Add Bastila to the party
-Quick Save [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to the Great Walkway
-- Place Bastila behind the southernmost Czerka guard next to the Great Walkway exit, as close to the wall as possible
-https://i.imgur.com/BfgfArb.png
-- Hard Save in Slot 1 and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) during the save
-- Quick Save [Hotshot](<../Major Glitches/Hotshot>) to the Great Walkway
-- With the right position, Bastila will spawn about halfway across the module, ready to be [GP Warped](<../Techniques/GP Warp>)
-[GP Warp](<../Techniques/GP Warp>) to Shadowlands elevator
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via a QS with MC
-- Enter the Czerka Landing Pad loading zone
-- Cancel the quit dialog and swap to Bastila
-- Click the dialog option to warp to the elevator
-} Use Adrenal Alacrity on Bastila
-Enter and take elevator to Upper Shadowlands
+- Swap to MC and run forward
+- *Party: Keep Bastila when prompted*
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip ancient droid conversation
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
+- [DLZ](<../Major Glitches/Displaced Load Zone#ruins-star-map-dlz>) to activate the Star Map cutscene
+  - Cancel the dialog box and QS/QL to skip the Star Map CS
+- Re-enable V-Sync in Options
+  - We won't need to [DLZ](<../Major Glitches/Displaced Load Zone>) again until Lehon
+- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to the Jedi Enclave using Slot 2
+- QS/QL to warp Bastila to the Council Chamber
+- Talk to Vandar as Bastila, then swap to MC and talk to Vandar again
+- QS/QL to re-enable fast travel
+- Transit Back, then Return to Ebon Hawk and board
+- **Hard Save in Slot 1**
+- QS on way to cockpit
+- Fly to Kashyyyk:
+  - [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen after Return to Ebon Hawk
+  - [QS Hotshot] to the Ebon Hawk cockpit
+  - [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk again
+    - *Party: Add Bastila* during this [Map CS Skip](<../Techniques/Map Cutscene Skips>)
 
-**Upper Shadowlands:**
+## Midgame Setup
+
+### The Great Walkway
+
+- Before the conversation, *Stims: Alacrity on MC and Bastila* using the stim hotkey
+- Janos Wertka accosts you
+- Landing Pad [GP Warp](<../Techniques/GP Warp>):
+  - Activate Solo Mode 
+  - As Bastila, click on the back Czerka guard of the pair chatting on the right
+  - As MC, activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and approach the Ebon Hawk load zone
+  - As soon as Bastila is out of range, enter the load zone to trigger the dialog
+  - Cancel the pop-up, swap to Bastila and run just past the corner near Eli Gand
+  - Click the dialog option to trigger the [GP Warp](<../Techniques/GP Warp>)
+  - This strat only saves 2-3 seconds, so you can skip it by just running if desired.  If so, don't add Bastila until you reach the exit.
+- As Bastila, run backwards to trigger the Czerka guard conversation: 4
+  - This warps MC to the exit
+- Enter Great Walkway
+- QS, then return to Czerka Landing Port
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
+- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Bastila to the Great Walkway
+  - Place Bastila behind the southernmost Czerka guard next to the Great Walkway exit
+
+![Image showing Bastila's position for the Coordinate Warp](https://i.imgur.com/BfgfArb.png)
+
+  - This will spawn Bastila slightly more than halfway to the Shadowlands elevator
+- Swap to MC and [GP Warp](<../Techniques/GP Warp>) to warp Bastila to the Shadowlands elevator
+- As Bastila, enter and take elevator to Upper Shadowlands
+
+### Upper Shadowlands
+
 [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Calo Nord fight
 Activate Solo Mode
 Dodge the first katarn group
@@ -490,7 +493,7 @@ Add Bastila and Jolee to the party
 Swap to Bastila and run to Force Field: 1,2
 Hard Save to Slot 4
 [Hotshot](<../Major Glitches/Hotshot>) to the Ebon Hawk with Slot 3
-Fly to Korriban with a [Map CS Skip](rb685)
+Fly to Korriban with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
 
 **Dreshdae:**
 } Use an Adrenal Alacrity
@@ -515,7 +518,7 @@ Talk to Lashowe: 1x8, 4
 Exit to Valley of the Dark Lords
 Hard Save to Slot 2
 [Hotshot](<../Major Glitches/Hotshot>) to the Ebon Hawk with Slot 3
-Fly to Tatooine with a [Map CS Skip](rb685)
+Fly to Tatooine with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
 
 *[Save Teleports](<../Techniques/Save Teleporting>) are now the most effective form of movement.*
 
@@ -726,15 +729,18 @@ Darth Malak Fight:
   - Immediately QS/QL to skip the CS
 On loading, there will be a black screen.  When the mouse disappears, the final death CS has begun and the run is over. Malak has been defeated once and for all, and you are now the Lord of the Sith (and you aren't even a Jedi!)
 
-[section=Version History]
+## Version History
+
 v1.0 (March 2022)
 - Uploaded the first ASM specific route, which skips Jedi training and features DLZs, Coordinate Warps, and Save Teleports
 - Planet "Order": Kashyyyk -> Korriban -> Tatooine -> Manaan
+
 v0.9 (January 2022)
 - Borrowed an old Any% guide as a placeholder guide
 
-[section=Closing]
-If you made it this far, congratulations! Thanks for reading the guide. Please let indykenobi or Lane know if you have any comments or questions (best way to contact both is on Discord).
+## Closing
+
+If you made it this far, congratulations! Thanks for reading the guide. Please let indykenobi know if you have any comments or questions (best way to contact is on Discord).
 
 I'd like to acknowledge glasnonck and thinkshooter, whose runs got me into KotOR speedrunning, as well as glasnonck, Lane, HotShotWire and the rest of the KotOR community for tossing around ideas and breaking this game so much that we can have an All Star Maps category that's different from Any%!
 
