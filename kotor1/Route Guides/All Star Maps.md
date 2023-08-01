@@ -378,6 +378,7 @@ SHOPPING: Zelka Forn
   - If you forgot to QS in the Vulkar Base or don't have an [AMG](<../Major Glitches/Anywhere Menu Glitch>) pop-up ready, you can instead [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) using Slot 1
 
 ### Escaping Taris
+
 - Kandon will accost you shortly after spawning in
 - After loading into Swoop Platform, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Ithorian convo
 - Use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip a swoop race
@@ -444,7 +445,7 @@ SHOPPING: Zelka Forn
 - Fly to Kashyyyk:
   - [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen after Return to Ebon Hawk
-  - [QS Hotshot] to the Ebon Hawk cockpit
+  - [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to the Ebon Hawk cockpit
   - [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk again
     - *Party: Add Bastila* during this [Map CS Skip](<../Techniques/Map Cutscene Skips>)
 
