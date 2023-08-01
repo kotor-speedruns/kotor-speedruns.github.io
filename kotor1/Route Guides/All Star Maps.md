@@ -49,7 +49,7 @@ This run requires one of two disguises in order to unequip the Envirosuit for th
 - While possibly 7 seconds slower, the volatilty of DLZs means you may not lose any time
 - Don't see a Sand Person underwater
 
-You'll need to decide ahead of time which outfit to obtain, as the first difference in route based on this choice is less than 2 minutes into the run.  If you feel confident in your ability to get the [Lower City DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>) within 5 seconds, consider the Sand People Outfit; otherwise (or if you just want one less [DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>) to worry about), go for the Sith Armor.
+You'll need to decide ahead of time which outfit to obtain, as the first route difference based on this choice is less than 2 minutes into the run.  If you feel confident in your ability to get the [Lower City DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>) within 5 seconds, consider the Sand People Outfit; otherwise (or if you just want one less [DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>) to worry about), go for the Sith Armor.
 
 The [detailed route](#detailed-route) will have notes in certain places detailing differences in actions based on what disguise you choose to get.  These will be denoted by ***Sith Armor Only:*** or ***Sand People Outfit Only:***, as appropriate.
 
