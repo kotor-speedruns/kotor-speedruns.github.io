@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic - All Star Maps Guide
 
-### v1.0: Male/Female Scoundrel Route
+### v2.0: Male/Female Scoundrel Route
 
 *Route and Guide by [indykenobi](https://www.speedrun.com/users/indykenobi)*
 
@@ -786,6 +786,12 @@ SHOPPING: Zelka Forn
 *On loading, there will be a black screen.  When the mouse disappears, the final death CS has begun and the run is over. Malak has been defeated once and for all, and you are now the Lord of the Sith (and you aren't even a Jedi!)*
 
 ## Version History
+
+v2.0 (August 2023)
+- New Character Build using Dexterity and blaster pistols
+- Added optional strats for Sand People Outfit over Sith Armor
+- Implemented Neo Hotshots into the route
+- Added more robust category rules
 
 v1.0 (March 2022)
 - Uploaded the first ASM specific route, which skips Jedi training and features DLZs, Coordinate Warps, and Save Teleports
