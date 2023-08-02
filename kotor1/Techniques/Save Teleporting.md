@@ -1,3 +1,18 @@
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 # Save Teleporting
 
 **Table of Contents**
@@ -22,7 +37,9 @@ Save Teleporting is a method of movement that employs a Quick Save, and allows y
 
 To Save Teleport, simply hold both mouse buttons down to run forward (the keyboard will not work for this), then press the Quick Save button.
 
-[![Watch the video](https://img.youtube.com/vi/OKibv5D4l4k/maxresdefault.jpg)](https://youtu.be/OKibv5D4l4k)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/OKibv5D4l4k" frameborder="0"></iframe>
+</div>
 
 While single Save Teleports can be useful, chaining Save Teleports is most effective when using them for movement.
 
@@ -30,7 +47,9 @@ While single Save Teleports can be useful, chaining Save Teleports is most effec
 
 In addition to movement, Save Teleports can be used to skip over triggers completely.  By Save Teleporting at the correct time, the MC will never intersect the trigger at all.  
 
-[![Watch the video](https://img.youtube.com/vi/VzvMcFP9AS8/maxresdefault.jpg)](https://youtu.be/VzvMcFP9AS8)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/VzvMcFP9AS8" frameborder="0"></iframe>
+</div>
 
 Unlike a [Save Buffer](<Save Buffering>), the trigger remains active, so if you are going to pass back over that area, you will need to Save Teleport past the trigger again.  
 
@@ -62,7 +81,9 @@ Combining these two ideas within a specific route can lead to very specific move
 * Three Save TPs
 * Talk to the guard
 
-[![Watch the video](https://img.youtube.com/vi/F3aFcTBDQrM/maxresdefault.jpg)](https://youtu.be/F3aFcTBDQrM)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/F3aFcTBDQrM" frameborder="0"></iframe>
+</div>
 
 This takes the thinking and guesswork out of Save Teleport movement, allowing you to focus on the execution and streamlining your movement as much as possible.
 
