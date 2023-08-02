@@ -1,3 +1,18 @@
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 # Combat Talking
 
 **Table of Contents**
@@ -14,7 +29,9 @@ Combat Talking is a method for temporarily canceling combat, allowing you to tal
 
 To perform Combat Talking, first stand near the NPC with whom you want to talk.  Quick Save your game, then Quick Load.  As soon as the game loads, pause your game; this pause should happen immediately after the load screen disappears, before the fade-in from black.  Click on the NPC to talk to them, then unpause the game.  Your conversation should begin soon after unpausing.
 
-[![Watch the video](https://img.youtube.com/vi/DaeLabPJKYk/maxresdefault.jpg)](https://youtu.be/DaeLabPJKYk)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/DaeLabPJKYk" frameborder="0"></iframe>
+</div>
 
 Combat Talking works because KotOR assumes you aren't in combat when a game is first loaded.  Thus the Quick Save/Quick Load combination effectively cancels combat, and by pausing the game immediately after the Quick Load, you have enough time to talk set up a [Conversation Queue](<Conversation Queue>) to an NPC or party member before you are attacked again.
 
