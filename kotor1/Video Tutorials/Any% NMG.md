@@ -31,7 +31,7 @@ There are two video tutorials for Any% No Major Glitches:
 
 Both tutorials correspond to v4.3 of the [written guide](<./Route Guides/Any%25 NMG>), though there are significant differences in their approaches.  Both tutorials fully explain the glitches necessary to complete the run, so no prior knowledge is necessary before watching these tutorials (although knowing how to play KotOR is probably helpful).
 
-If you have further questions, ask in the KotOR Speedrunning Discord!
+If you have further questions, ask in the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu)!
 
 ## Overview Tutorial
 
