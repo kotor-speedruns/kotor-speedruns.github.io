@@ -73,7 +73,7 @@ The brief outline of the route for the ASM run, including planet order and major
 * *Potentially* get the Sith Armor
 * [DLZ](<../Major Glitches/Displaced Load Zone#sith-base-dlz>) into the Sith Base
 * Kill and loot the Sith Governor to obtain Taris Launch Codes
-* Reach the Lower City (either with Sith Armor or a [DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>)
+* Reach the Lower City (either with Sith Armor or a [DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>))
 * [Door Clip](<../Major Glitches/Door Clipping>) into the Vulkar Base door to [DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-dlz>) into the Vulkar Base
 * [DLZ](<../Major Glitches/Displaced Load Zone#bek-base-dlz>) into the Bek Base and [DLZ](<../Major Glitches/Displaced Load Zone#gadon-dlz>) to kill Gadon Thek
 * [Hotshot](<../Major Glitches/Hotshot>) to Vulkar Base and use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip one swoop race
