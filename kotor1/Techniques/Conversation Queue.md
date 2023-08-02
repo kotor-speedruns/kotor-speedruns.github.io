@@ -1,3 +1,18 @@
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 # Conversation Queue
 
 **Table of Contents**
@@ -14,7 +29,9 @@ A Conversation Queue is a method of using conversations with NPCs or party membe
 
 To perform a Conversation Queue, click on an NPC or party member that is not adjacent to you, i.e. far enough away that your character has to walk there.  While this conversation is waiting to begin, it is at the front of the trigger queue, and thus other triggers will not be able to fire.  This technique is frequently enhanced by clicking on a party member, then swapping to that party member and running away from the conversation.  This allows you to move somewhat freely with the Conversation Queue active and avoid any triggers you may travel past.
 
-[![Watch the video](https://img.youtube.com/vi/6Twe6gQyuPE/maxresdefault.jpg)](https://youtu.be/6Twe6gQyuPE)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/6Twe6gQyuPE" frameborder="0"></iframe>
+</div>
 
 Most hotkeys are disabled during a Conversation Queue, but Default Action can be used to open doors and other non-conversation based objects.  To cancel a Conversation Queue, you can either let the conversation happen, Quick Save and Quick Load, or interact with an object that causes a module transition.
 
