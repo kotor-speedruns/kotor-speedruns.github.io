@@ -1,3 +1,18 @@
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 # Fake Level Up
 
 **Table of Contents**
@@ -79,7 +94,9 @@ This method aborts a level up as soon as it begins, which avoids having to selec
 3. Press Escape to exit the Level Up menu.
 4. If you are granted a Feat, press Enter to clear that menu.
 
-[![Watch the video](https://img.youtube.com/vi/T0RAPh9grcI/maxresdefault.jpg)](https://youtu.be/T0RAPh9grcI)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/T0RAPh9grcI" frameborder="0"></iframe>
+</div>
 
 These steps will put you back at the Character Screen with a Level Up available and the Quit dialog up, just where you started.  The FLUs currently used in speedruns are mostly done with Skele FLU levels.
 
@@ -101,7 +118,9 @@ This method uses the menu glitch to swap to a party member during the Level Up p
 4. Press Escape to regain keyboard control.
 5. Finish the level up.  You should not assign skill points, but you can and should select any prerequisite Feats or Powers to set up the Final Level.
 
-[![Watch the video](https://img.youtube.com/vi/HgLHYXGBX10/maxresdefault.jpg)](https://youtu.be/HgLHYXGBX10)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/HgLHYXGBX10" frameborder="0"></iframe>
+</div>
 
 This will put you back on the Character screen with your SC active and no menu glitch.  To continue a FLU, swap back to the TC and exit the menu to [AMG](<Anywhere Menu Glitch>) again.  If this is your Final Level, you can swap to the TC and perform the Final Level.
 
@@ -123,7 +142,9 @@ This method allows for Intermediate Levels to be done in the same way as levelin
 * The first level of the FLU was an attribute level (4,8,12,16, or 20)
 * It is not the first level of the FLU; this must be done as a Slow FLU level with an [AMG](<Anywhere Menu Glitch>)
 
-[![Watch the video](https://img.youtube.com/vi/9NZO51L_C_4/maxresdefault.jpg)](https://youtu.be/9NZO51L_C_4)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/9NZO51L_C_4" frameborder="0"></iframe>
+</div>
 
 *This video uses a [Container Menu Glitch](<Anywhere Menu Glitch#classic-menu-glitch>) to start the FLU; an [AMG](<Anywhere Menu Glitch>) should be used instead, and will not affect the rest of the FLU.
 
@@ -181,7 +202,9 @@ Each example lists the FLU's end goal, starting and ending level, and Intermedia
 **Obtains:** Sneak Attack IX and either Improved or Master Two-Weapon Fighting
 **Used In:** All Unrestricted speedruns
 
-[![Image linking to a video demonstrating the Sneak Attack FLU](https://img.youtube.com/vi/jeZaUj481jg/maxresdefault.jpg)](https://youtu.be/jeZaUj481jg)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/jeZaUj481jg" frameborder="0"></iframe>
+</div>
 
 **Starting Level:** 2
 **Ending Level:** 17
@@ -210,7 +233,9 @@ Each example lists the FLU's end goal, starting and ending level, and Intermedia
 **Obtains:** Master Critical Strike and Master Speed
 **Used In:** [All Quests](<../Route Guides/All Quests Unrestricted>)
 
-[![Image linking to a video demonstrating the Master Speed FLU](https://img.youtube.com/vi/WOjitboM8Og/maxresdefault.jpg)](https://youtu.be/WOjitboM8Og)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/WOjitboM8Og" frameborder="0"></iframe>
+</div>
 
 **Starting Level:** 4
 **Ending Level:** 20
@@ -228,7 +253,9 @@ Each example lists the FLU's end goal, starting and ending level, and Intermedia
 **Obtains:** Weapon Focus: Lightsaber and Master Valor
 **Used In:** [All Quests](<../Route Guides/All Quests Unrestricted>)
 
-[![Image linking to a video demonstrating the Master Valor FLU](https://img.youtube.com/vi/HYztjzs6rSY/maxresdefault.jpg)](https://youtu.be/HYztjzs6rSY)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/HYztjzs6rSY" frameborder="0"></iframe>
+</div>
 
 **Starting Level:** 5
 **Ending Level:** 15
@@ -248,7 +275,9 @@ These two FLUs were once used in speedruns but have since been obsoleted.  While
 
 **Obtains:** 91 Security
 
-[![Image linking to a video demonstrating the Security FLU](https://img.youtube.com/vi/G5K7M8Ir8Js/maxresdefault.jpg)](https://youtu.be/G5K7M8Ir8Js)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/G5K7M8Ir8Js" frameborder="0"></iframe>
+</div>
 
 **Starting Level:** 4
 **Ending Level:** 88
@@ -266,7 +295,9 @@ These two FLUs were once used in speedruns but have since been obsoleted.  While
 
 **Obtains:** 512 Unused Skill Points
 
-[![Image linking to a video demonstrating the Skill Point Glitch](https://img.youtube.com/vi/y81B_CIkEp0/maxresdefault.jpg)](https://youtu.be/y81B_CIkEp0)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/y81B_CIkEp0" frameborder="0"></iframe>
+</div>
 
 **Starting Level:** 3
 **Ending Level:** 4
