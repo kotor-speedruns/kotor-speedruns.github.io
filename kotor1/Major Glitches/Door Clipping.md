@@ -1,3 +1,18 @@
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 # Door Clipping
 
 **Table of Contents**
@@ -23,7 +38,9 @@ This method allows you to spawn a party member on the other side of a locked doo
 
 While the exact angle to stand at varies based on the type of door, Small Angle Clipping is a generally consistent method of getting a good angle for Party Spawn clips, regardless of door type.  To use this method, run into the door so that you are moving just barely either left or right (i.e., at a small angle away from perpendicular to the door.  Then use the Strafe key to run sideways in that same direction a small amount, so that you are almost adjacent to the door.  If done correctly, Returning to the Ebon Hawk and Transiting Back will clip a party member through the door.
 
-[![Watch the video](https://img.youtube.com/vi/x1p6ln876ik/maxresdefault.jpg)](https://youtu.be/x1p6ln876ik)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/x1p6ln876ik" frameborder="0"></iframe>
+</div>
 
 This method is the generally preferred method for Party Spawn Door Clips; it is faster and only marginally less consistent than the other method, Partial Door Clips.
 
@@ -31,7 +48,9 @@ This method is the generally preferred method for Party Spawn Door Clips; it is 
 
 It is possible to partially clip into certain doors, either by using a Quick Save and Quick Load to trick the game into spawning you in the door, or by using party members and leader swapping to force a party member into the door.  This can then make Party Spawn Door Clips more consistent.
 
-[![Watch the video](https://img.youtube.com/vi/f0JmlFnvRiE/maxresdefault.jpg)](https://youtu.be/f0JmlFnvRiE)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/f0JmlFnvRiE" frameborder="0"></iframe>
+</div>
 
 While Partial Door Clips can be more consistent than Small Angle Clipping, the difference is too minor for Partial Door Clips to be worth it.  However, a Partial Door Clip is used to enable a major skip on Taris (see Uses below).
 
@@ -39,13 +58,17 @@ While Partial Door Clips can be more consistent than Small Angle Clipping, the d
 
 Party Spawn Door Clipping can be done even in situations where fast transit is normally disabled by employing an [AMG](<Anywhere Menu Glitch>) or a [Fast Lane](<Fast Lane>) to bring up the Return to Ebon Hawk dialog, setting up the clip while the dialog box is up, and then using the dialog box to Return to Ebon Hawk and Transit Back.
 
-[![Watch the video](https://img.youtube.com/vi/m3MhIZohSsA/maxresdefault.jpg)](https://youtu.be/m3MhIZohSsA)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/m3MhIZohSsA" frameborder="0"></iframe>
+</div>
 
 ## Gather Party Warp Clips
 
 The teleportation aspect of [GP Warps](<../Techniques/GP Warp>) means that it is possible to bypass locked doors completely using specific [GP Warps](<../Techniques/GP Warp>).
 
-[![Watch the video](https://img.youtube.com/vi/ufqDxgQ3LBQ/maxresdefault.jpg)](https://youtu.be/ufqDxgQ3LBQ)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/ufqDxgQ3LBQ" frameborder="0"></iframe>
+</div>
 
 These and other similar applications of [GP Warps](<../Techniques/GP Warp>) are considered to be Door Clipping, even if they are not clipping in the traditional sense.  Thus these [GP Warps](<../Techniques/GP Warp>) are banned in all rulesets except Unrestricted.
 

@@ -1,3 +1,18 @@
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 # Wired Targeting
 
 *Discovered by HotShotWire*
@@ -24,7 +39,9 @@ More specifically, if we call the object you want to interact with the Target Ob
 3. Load the save near the Target Object and spam default action until just after the load finishes.
 4. Your MC should run towards and interact with the Target Object.
 
-[![Watch the video](https://img.youtube.com/vi/2wZlq9IeDZ4/maxresdefault.jpg)](https://youtu.be/2wZlq9IeDZ4)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/2wZlq9IeDZ4" frameborder="0"></iframe>
+</div>
 
 Some important notes about Wired Targeting:
 * If party members are present, a party member must be the one to interact with the Target Object, and the MC has to target the Shared Object.
@@ -34,7 +51,9 @@ Some important notes about Wired Targeting:
 
 Attacking a non-hostile Target Object is the main use of Wired Targeting in speedruns.  Often times, this is used in situations where the enemy is initially non-hostile (such as for a cutscene or conversation).  By making a Quick Save next to the non-hostile enemy, and then causing them to become hostile, Wired Targeting can be quickly used to attack the non-hostile version of the enemy.
 
-[![Watch the video](https://img.youtube.com/vi/PGX0CiR-mFM/maxresdefault.jpg)](https://youtu.be/PGX0CiR-mFM)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/PGX0CiR-mFM" frameborder="0"></iframe>
+</div>
 
 Some additional details about attacking with Wired Targeting:
 * Combat Feats cannot be used when Wired Targeting.  Only default attacks work.
@@ -53,7 +72,9 @@ The only current use of Wired Targeting in speedruns is to kill the Sith Governo
 
 Wired Targeting is much more versatile than just killing a non-hostile enemy, however.  The following video demonstrates additional uses of this glitch, which are not currently speedrun relevant:
 
-[![Watch the video](https://img.youtube.com/vi/1IvyiP4Mahw/maxresdefault.jpg)](https://youtu.be/1IvyiP4Mahw)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/1IvyiP4Mahw" frameborder="0"></iframe>
+</div>
 
 Some effects include:
 * Speaking through doors

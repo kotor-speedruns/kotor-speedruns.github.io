@@ -1,3 +1,18 @@
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 # Hotshot
 
 *Discovered by HotShotWire*
@@ -96,7 +111,9 @@ HSS Hotshots, also called Neo Hotshots, are always consistent and the fastest wa
 7. Select 'OK' on the pop-up to load the Quick Save.
 8. After the load, close any residual menus by hitting Escape several times.
 
-[![Watch the video](https://img.youtube.com/vi/G0dSTu6agio/maxresdefault.jpg)](https://youtu.be/G0dSTu6agio)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/G0dSTu6agio" frameborder="0"></iframe>
+</div>
 
 **Additional Notes:**
 
@@ -122,7 +139,9 @@ HSS Hotshots, also called Neo Hotshots, are always consistent and the fastest wa
 4. Unpause the game, then walk blindly into the module transition.
 5. After the load, the Load Game Menu should still be there.  Use this to load the Autosave.
 
-[![Watch the video](https://img.youtube.com/vi/7O0BLWlJ1iQ/maxresdefault.jpg)](https://youtu.be/7O0BLWlJ1iQ)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/7O0BLWlJ1iQ" frameborder="0"></iframe>
+</div>
 
 **Special Properties:**
 
@@ -167,7 +186,9 @@ This is an enhancement of the original method below that avoids going to the Mai
 10. Use the mouse to select any save **except** the Hotshot Current save.
 11. Repeat steps 5 and 6 to try again.
 
-[![Watch the video](https://img.youtube.com/vi/OLWy83_2Mjw/maxresdefault.jpg)](https://youtu.be/OLWy83_2Mjw)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/OLWy83_2Mjw" frameborder="0"></iframe>
+</div>
 
 ### Via Main Menu
 
@@ -190,7 +211,9 @@ This was the original form of Hotshot, and is slower and more complicated than a
 11. Press ↑, then ↓.  This reselects the Hotshot Current save in the hidden Save Menu.
 12. Repeat step 7 to try the Hotshot again.
 
-[![Watch the video](https://img.youtube.com/vi/lrLvyqCaxF8/maxresdefault.jpg)](https://youtu.be/lrLvyqCaxF8)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/lrLvyqCaxF8" frameborder="0"></iframe>
+</div>
 
 **Additional Notes:**
 
@@ -213,7 +236,9 @@ To perform a Coordinate Warp:
 2. Once they are positioned, save to the Hotshot Current slot.
 3. Hotshot using your preferred method to your Teleport save, which contains the location you wish to warp your party members to.
 
-[![Watch the video](https://img.youtube.com/vi/oFrCsuC3D8A/maxresdefault.jpg)](https://youtu.be/oFrCsuC3D8A)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/oFrCsuC3D8A" frameborder="0"></iframe>
+</div>
 
 **Additional Notes:**
 
@@ -246,7 +271,9 @@ There are three restrictions:
 8. Press Enter.  This transits back to the module you Quick Saved in, triggering an Autosave, and opens the Load Game menu.
 9. After loading in, use the Load Game menu to load the Autosave.
 
-[![Watch the video](https://img.youtube.com/vi/kkuWJArFXts/maxresdefault.jpg)](https://youtu.be/kkuWJArFXts)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/kkuWJArFXts" frameborder="0"></iframe>
+</div>
 
 Notice that steps 5-9 are a modified [Autosave Hotshot](#autosave-hotshots).  It uses fast transit to trigger an Autosave while the Load Menu is open, rather than moving through a load zone.
 
@@ -264,7 +291,9 @@ Swoop Skips are a method for exiting swoop races early in [All Quests](<../Route
 6. Make a Hard Save and [AMG](<Anywhere Menu Glitch>) on the save.
 7. Perform either version of [Hard Save Hotshot](#hard-save-hotshots) with the Hard Save you just made to warp out of the swoop module.
 
-[![Watch the video](https://img.youtube.com/vi/KoSZF0df-Dg/maxresdefault.jpg)](https://youtu.be/KoSZF0df-Dg)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/KoSZF0df-Dg" frameborder="0"></iframe>
+</div>
 
 Swoop Skips must use either [HSS Hotshots](#hss-hotshots) or [Hard Save Hotshots](#hard-save-hotshots), as attempting to load a save made in a swoop race module crashes the game.  Also note when skipping the Manaan swoop races, you will need to skip the cutscene after the race immediately after the Hotshot, whereas in Tatooine this cutscene does not start until you talk to Motta again.
 

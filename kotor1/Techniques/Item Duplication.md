@@ -1,3 +1,18 @@
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 # Item Duplication
 
 **Table of Contents**
@@ -32,7 +47,9 @@ For this method, you will need an item or items that create a character animatio
 6. Exit the menu and allow the animations to end, then allow a moment for the game to switch the item.
 7. Quick Save and Quick Load to finish the glitch.
 
-[![Watch the video](https://img.youtube.com/vi/O8SVacA62FU/maxresdefault.jpg)](https://youtu.be/O8SVacA62FU)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/O8SVacA62FU" frameborder="0"></iframe>
+</div>
 
 When using multiple party members, it is often wise to activate Solo Mode to prevent party members from adjusting their position and breaking the animation.  Only one item can be duped at a time with this method, and the game favors the last slot equipped to.  While any animation item can be used, energy shields are objectively the most economic choice, as they themselves can be duped.
 
@@ -69,7 +86,9 @@ The Galaxy Map Method is the simplest method for inventory duping, but can only 
 4. Exit the Ebon Hawk *without adding any party member*.
 5. Add one or more party members to duplicate your inventory.  
 
-[![Watch the video](https://img.youtube.com/vi/DsEyd42Byx8/maxresdefault.jpg)](https://youtu.be/DsEyd42Byx8)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/DsEyd42Byx8" frameborder="0"></iframe>
+</div>
 
 Every party member added in this way will add one copy of your initial inventory to your current inventory.  For example, adding four party members will give you five copies (your one initial item plus four duplicated copies) of every single item you started with, including Quest Items.
 
@@ -84,7 +103,9 @@ The [AMG](<../Major Glitches/Anywhere Menu Glitch>) method is more flexible, as 
 4. Select no party members and leave the area.
 5. Add one or more party members to duplicate your inventory that many times.
 
-[![Watch the video](https://img.youtube.com/vi/TOT_PTewLAA/maxresdefault.jpg)](https://youtu.be/TOT_PTewLAA)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/TOT_PTewLAA" frameborder="0"></iframe>
+</div>
 
 **Warning!** As with the previous method, if you add a party member when initially leaving the Ebon Hawk or Hideout, you can delete your inventory instead of duplicating it.
 

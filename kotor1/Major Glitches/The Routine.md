@@ -1,3 +1,18 @@
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 # The Routine
 
 *Discovered by HotShotWire*
@@ -63,7 +78,9 @@ Once you are in the correct module and have the correct party members in your pa
 - Press "OK" on the pop-up.  This causes the background instance to return to the Main Menu.
 - Load the Quick Save from the Load Game menu to complete the glitch.
 
-[![Watch the video](https://img.youtube.com/vi/50-SdtxMBgU/maxresdefault.jpg)](https://youtu.be/50-SdtxMBgU)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/50-SdtxMBgU" frameborder="0"></iframe>
+</div>
 
 **Additional Notes:**
 
@@ -97,7 +114,9 @@ The Routine is not used in [All Quests](<../Route Guides/All Quests Unrestricted
 
 The [Any%](<../Route Guides/Any%25 Unrestricted>) speedrun uses the Routine three times to obtain the Kashyyyk Star Map four times.  The Kashyyyk Map is chosen because there is a convenient Coordinate Warp from the Czerka Landing Pad that gets us very close to the Star Map in the Lower Shadowlands.  Recruiting Jolee on Kashyyyk also allows us to skip Juhani on Dantooine, saving time there.
 
-[![Watch the video](https://img.youtube.com/vi/N2xK6V7fJCc/maxresdefault.jpg)](https://youtu.be/N2xK6V7fJCc)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/N2xK6V7fJCc" frameborder="0"></iframe>
+</div>
 
 The general steps for the Kashyyyk Star Map duplication:
 1. Obtain the Star Map using a [Quick Save Coordinate Warp](Hotshot#coordinate-warping).

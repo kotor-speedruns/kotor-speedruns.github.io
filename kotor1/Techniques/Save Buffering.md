@@ -1,3 +1,18 @@
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 # Save Buffering
 
 **Table of Contents**
@@ -37,7 +52,9 @@ A Hard Buffer is done by buffering into a trigger, then loading the final Quick 
 
 The recommended way to do a Hard Buffer is to use Quick Saves to enter a trigger, then open the Options menu using the icon in the top right corner.  You can then manually load the last Quick Save to cancel the trigger.  This method has the same effect and is more consistent, but requires extra menuing and can be slower without sufficient practice.
 
-[![Watch the video](https://img.youtube.com/vi/SFSKr9NoWsQ/maxresdefault.jpg)](https://youtu.be/SFSKr9NoWsQ)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/SFSKr9NoWsQ" frameborder="0"></iframe>
+</div>
 
 It can be tricky to open the menu while moving your character, so it's recommended to buffer into the trigger, stop moving, then open the menu, all while still buffering.
 
@@ -47,13 +64,17 @@ It can be tricky to open the menu while moving your character, so it's recommend
 
 This method can be inconsistent; depending on the cutscene and how long your Quick Saves take, the window for successfully Quick Loading can be quite small or even non-existent.  This method requires practice and good timing (or good mashing).
 
-[![Watch the video](https://img.youtube.com/vi/by_rHachIOs/maxresdefault.jpg)](https://youtu.be/by_rHachIOs)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/by_rHachIOs" frameborder="0"></iframe>
+</div>
 
 ## Soft Buffers
 
 Soft Buffers are done by activating an instant-use item or power after the final Quick Save.  The most common method is to use a friendly force power such as Speed or Valor.  Pressing the Friendly Force Power button twice will cancel the Force Power being cast, but the buffer will still succeed.  This is slightly faster than watching the animation from successfully casting the Force Power, and also saves the Force Points from casting it.  
 
-[![Watch the video](https://img.youtube.com/vi/wI2d0mIXuC0/maxresdefault.jpg)](https://youtu.be/wI2d0mIXuC0)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/wI2d0mIXuC0" frameborder="0"></iframe>
+</div>
 
 Soft Buffers are generally faster than Hard Buffers and are quite consistent; you can spam the Force power during the final Quick Save and the buffer will succeed.  However, not every trigger can be cancelled with a Soft Buffer.  In addition, for the entirety of Taris, you do not have access to a Force power with which to use a Soft Buffer.
 
@@ -63,7 +84,9 @@ Soft Buffers are generally faster than Hard Buffers and are quite consistent; yo
 
 A variant on Soft Buffers, a Sonic Buffer uses the Sonic Emitter rather than a Force power to cancel the trigger.  
 
-[![Watch the video](https://img.youtube.com/vi/7xT_25cr9Hc/maxresdefault.jpg)](https://youtu.be/7xT_25cr9Hc)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/7xT_25cr9Hc" frameborder="0"></iframe>
+</div>
 
 The main benefit of a Sonic Buffer is the ability to Save Buffer underwater, but it can also be used aboveground when you do not have enough Force points to use a Force power.  The big drawback of Sonic Buffers is that you have to watch the entire emitter animation, whereas the Force power animation can often be partially or completely cancelled. 
 
@@ -73,7 +96,9 @@ The main benefit of a Sonic Buffer is the ability to Save Buffer underwater, but
 
 An Open Buffer is a Save Buffer where you intentionally do not cancel the trigger.  This is useful in some conversations to be able to skip a normally unskippable line of text, and also breaks the AI of the Triple Sith fight on the Star Forge.
 
-[![Watch the video](https://img.youtube.com/vi/-Tuea7zGLjA/maxresdefault.jpg)](https://youtu.be/-Tuea7zGLjA)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/-Tuea7zGLjA" frameborder="0"></iframe>
+</div>
 
 The most useful application of Open Buffers is to perform a [Buffered GP Warp](<GP Warp#buffered-gp-warps>), which is the only [GP Warp](<GP Warp>) legal in No Major Glitches (NMG) speedruns.
 

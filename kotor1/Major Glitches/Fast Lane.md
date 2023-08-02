@@ -1,3 +1,18 @@
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 # Fast Lane
 
 *Discovered by lanedibello*
@@ -25,7 +40,9 @@ To perform a Fast Lane, you must first have a manual save, saved in an area wher
 6. Quick Load your game.
 7. Select "OK" to transit.
 
-[![Watch the video](https://img.youtube.com/vi/EGFGWV8VNt8/maxresdefault.jpg)](https://youtu.be/EGFGWV8VNt8)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/EGFGWV8VNt8" frameborder="0"></iframe>
+</div>
 
 It is possible to move to another location before selecting "OK"; in fact, the Return to Ebon Hawk pop-up can be carried this way for as long as another menu doesn't interrupt it.  It will also persist through loading zones.
 
@@ -41,7 +58,9 @@ In certain situations, a Fast Lane can be performed without having to load a Tra
 4. Unpause the game and move to where you want to transit
 5. Select "OK" to Return to the Ebon Hawk
 
-[![Watch the video](https://img.youtube.com/vi/PfRlmvTtuN4/maxresdefault.jpg)](https://youtu.be/PfRlmvTtuN4)
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/PfRlmvTtuN4" frameborder="0"></iframe>
+</div>
 
 This is faster than loading a separate save, but only situationally useful.  Most of the time, Unrestricted runs use several menu pop-ups, and thus the Return to Ebon Hawk pop-up usually cannot be preserved for long enough.
 
