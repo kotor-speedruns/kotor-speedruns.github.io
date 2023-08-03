@@ -13,7 +13,7 @@
 }
 </style>
 
-# Star Wars: Knights of the Old Republic - Any% Unrestricted Video Tutorial
+# Any% Unrestricted Video Tutorial
 
 *By Lane (6-11-2022)*
 
