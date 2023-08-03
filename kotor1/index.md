@@ -42,6 +42,6 @@ Welcome to the KotOR 1 Speedrunning Guides landing page. This page is temporary,
 - [Enemy Spawn Triggers](./Miscellaneous/Enemy%20Spawn%20Triggers)
 - [KotOR Bingo](./Miscellaneous/KotOR%20Bingo)
 - [Pazaak](./Miscellaneous/Pazaak)
-- [Swoop Racing](./Miscellaneous/Swoop%20Racing%20v1.5)
-- [Windows 10 (Old Guide)](./Miscellaneous/Windows%2010%20-%20How%20to%20make%20KotOR%20run)
+- [Swoop Racing](./Miscellaneous/Swoop%20Racing)
+- [Windows 10 (Old Guide)](./Miscellaneous/Windows%2010)
 
