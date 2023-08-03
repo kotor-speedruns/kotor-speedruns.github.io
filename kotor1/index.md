@@ -35,7 +35,7 @@ Welcome to the KotOR 1 Speedrunning Guides landing page. This page is temporary,
 **Video Tutorials**
 - [Any% NMG](./Video%20Tutorials/Any%25%20NMG)
 - [Any% Unrestricted](./Video%20Tutorials/Any%25%20Unrestricted)
-- [Old Video Tutoirials](./Video%20Tutorials/Old%20Video%20Tutorials)
+- [Old Video Tutorials](./Video%20Tutorials/Old%20Video%20Tutorials)
 - [Pazaak 100%](./Video%20Tutorials/Pazaak%20100%25)
 
 **Miscellaneous**
