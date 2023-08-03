@@ -62,7 +62,9 @@ This is a rough tutorial that assumes a basic understanding of most of the glitc
 
 This is a video tutorial for the Any% speedrun of Knights of the Old Republic.  It is current as of 11/9/2019, and corresponds to version 5.3 of the (GUIDE OUTDATED) [written Any% guide](<../Route Guides/Any%25 Unrestricted>).  It includes AMG strategies and GYP Warps, as well as discussion of alternate strategies where appropriate.
 
-https://www.twitch.tv/videos/506218160
+<div class="video-container">
+    <iframe title="Twitch video player" src="https://player.twitch.tv/?video=506218160&parent=kotor-speedruns.github.io&autoplay=false" frameborder="0"></iframe>
+</div>
 
 **Timestamps:**
 Here you can find timestamps for different parts of the run, from planets to discussions of specific glitch types.
@@ -156,7 +158,9 @@ Here you can find timestamps for different parts of the run, from planets to dis
 
 **Twitch:**
 
-https://www.twitch.tv/videos/462712882
+<div class="video-container">
+    <iframe title="Twitch video player" src="https://player.twitch.tv/?video=462712882&parent=kotor-speedruns.github.io&autoplay=false" frameborder="0"></iframe>
+</div>
 
 * 0:13 - Settings etc. (For more detailed settings check out some of the other guides @ https://www.speedrun.com/kotor1/guides)
 * 2:06 - Character Build
@@ -237,7 +241,9 @@ https://www.twitch.tv/videos/462712882
 
 *3/8/2019 by [wurwilf](https://www.speedrun.com/users/wurwilf)*
 
-https://www.twitch.tv/videos/392568030
+<div class="video-container">
+    <iframe title="Twitch video player" src="https://player.twitch.tv/?video=392568030&parent=kotor-speedruns.github.io&autoplay=false" frameborder="0"></iframe>
+</div>
 
 REMEMBER TO SEE AMG GUIDE LINK BELOW
 
@@ -274,19 +280,25 @@ Lane's [AMG supplement](https://www.youtube.com/playlist?list=PLL966GvhuK-OaRlr3
 
 *This is an update to the [v2.1](#v2.1) tutorial below.*
 
-https://www.twitch.tv/videos/51019544
+<div class="video-container">
+    <iframe title="Twitch video player" src="https://player.twitch.tv/?video=51019544&parent=kotor-speedruns.github.io&autoplay=false" frameborder="0"></iframe>
+</div>
 
 ### v2.1 
 
 *1/14/2016 by [indykenobi](https://www.speedrun.com/users/indykenobi)*
 
-https://www.twitch.tv/videos/35493987
+<div class="video-container">
+    <iframe title="Twitch video player" src="https://player.twitch.tv/?video=35493987&parent=kotor-speedruns.github.io&autoplay=false" frameborder="0"></iframe>
+</div>
 
 ### v1.0
 
 *7/16/2015 by [glasnonck](https://www.speedrun.com/users/glasnonck)*
 
-https://www.twitch.tv/videos/7878374
+<div class="video-container">
+    <iframe title="Twitch video player" src="https://player.twitch.tv/?video=7878374&parent=kotor-speedruns.github.io&autoplay=false" frameborder="0"></iframe>
+</div>
 
 ## All Quests Unrestricted 
 
