@@ -13,7 +13,7 @@
 }
 </style>
 
-# Star Wars: Knights of the Old Republic - Any% NMG Video Tutorials
+# Any% NMG Video Tutorials
 
 *Tutorials by indykenobi; uploaded 8-7-2022*
 
