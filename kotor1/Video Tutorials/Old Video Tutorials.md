@@ -18,17 +18,17 @@
 **Table of Contents**
 - [Introduction](#introduction)
 - [Any% Unrestricted](#any-unrestricted)
-  - [v8.2](#v8.2)
-  - [v7.0](#v7.0)
-  - [v5.3](#v5.3)
-  - [v4.0 later](#v4.0-later)
-  - [v4.0 earlier](#v4.0-earlier)
-  - [v3.2](#v3.2)
-  - [v2.1](#v2.1)
-  - [v1.0](#v1.0)
+  - [v8.2](#v82)
+  - [v7.0](#v70)
+  - [v5.3](#v53)
+  - [v4.0 later](#v40-later)
+  - [v4.0 earlier](#v40-earlier)
+  - [v3.2](#v32)
+  - [v2.1](#v21)
+  - [v1.0](#v10)
 - [All Quests Unrestricted](#all-quests-unrestricted)
-  - [v2.2](#v2.2)
-  - [v1.2](#v1.2) 
+  - [v2.2](#v22)
+  - [v1.2](#v12) 
 
 ## Introduction
 
