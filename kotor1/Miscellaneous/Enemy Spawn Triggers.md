@@ -33,7 +33,7 @@ This repository will be used to store Spawn Trigger (encounter) maps of various 
 
 ![Image showing spawn triggers in Lower Sewers](https://i.imgur.com/ABMKNXb.png)
 
-Taris Vulkar Base Garage
+### Taris Vulkar Base Garage
 
 ![Image showing spawn triggers in Vulkar Garage](https://i.imgur.com/OvsR4a2.png)
 
