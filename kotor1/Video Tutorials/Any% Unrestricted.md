@@ -12,9 +12,15 @@
   height: 100%;
 }
 </style>
+
+# Star Wars: Knights of the Old Republic - Any% Unrestricted Video Tutorial
+
 *By Lane (6-11-2022)*
 
-This corresponds to v9.4 of the written guide.
+## Information
 
-Full Playlist:
-https://www.youtube.com/playlist?list=PLL966GvhuK-N2bUBh6ii6-Md3mVSOoQgC
+This corresponds to v9.4 of the [written guide](<../Route Guides/Any%25 Unrestricted>), which is currently three revisions behind.
+
+## Tutorial
+
+This tutorial is kept in a YouTube playlist, which can be found [here](https://www.youtube.com/playlist?list=PLL966GvhuK-N2bUBh6ii6-Md3mVSOoQgC).
