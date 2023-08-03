@@ -1,3 +1,5 @@
+# Getting Started with KotOR Speedrunning
+
 **Table of Contents**
 - [How These Guides are Organized](#how-these-guides-are-organized)
 - [Frequently Asked Questions](#frequently-asked-questions)
@@ -11,11 +13,11 @@
 
 If you're just wanting to get started speedrunning KotOR, this is the place to start!  This guide covers the basics of KotOR speedruns, from how to actually get KotOR running and the appropriate settings, to how to use these guides to answer the questions you have.
 
-If there's something that isn't covered here or in a different guide, feel free to join the KotOR Speedrunning Discord by clicking on the "Discord" link in the sidebar.  The community is pretty friendly and always willing to help!
+If there's something that isn't covered here or in a different guide, feel free to join the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu).  The community is pretty friendly and always willing to help!
 
 ## How These Guides are Organized
 
-The guides for KotOR on speedrun.com are organized into sections, using prefixes on the guide titles.  There are five categories:
+The guides are organized into sections.  There are five categories:
 
 - **Route Guides:** These are one stop shops for guides to each category.  There are currently guides for all main category/ruleset combinations that are updated as new techniques or changes are made to each route.
 - **Video Tutorials:** These videos guide the viewer through the route for their particular category.  They are dated to reflect what version of the route they are describing and whether this corresponds to the route guides above.
@@ -134,8 +136,8 @@ In both cases, omit the quotes and be sure to capitalize correctly.  This should
 ### Stuck After Combat
 
 - Double check that V-Sync is enabled. 
-- If your monitor's refresh is greater than 60hz, KotOR will not like this. There are two solutions: You may underclock your monitor to a refresh rate of 60hz, or you could use external graphics settings to limit the frame rate of KotOR to 60fps. The frame limiting option is less desirable if you plan on doing glitched categories. This is because some glitches require (or are significantly easier with) a higher frame rate (i.e. [DLZ](f0aia)).
+- If your monitor's refresh is greater than 60hz, KotOR will not like this. There are two solutions: You may underclock your monitor to a refresh rate of 60hz, or you could use external graphics settings to limit the frame rate of KotOR to 60fps. The frame limiting option is less desirable if you plan on doing glitched categories. This is because some glitches require (or are significantly easier with) a higher frame rate (i.e. DLZ).
 
 ### Running on Windows 10
 
-If you're having trouble getting KotOR to run on Windows 10, you can try using [this guide](z6muo).
+If you're having trouble getting KotOR to run on Windows 10, you can try using [this guide](<Miscellaneous/Windows 10>).
