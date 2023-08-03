@@ -13,7 +13,7 @@
 }
 </style>
 
-# Star Wars: Knights of the Old Republic - Pazaak 100% Video Tutorial
+# Pazaak 100% Video Tutorial
 
 *By SoberLyte, uploaded 6-24-2019*
 
