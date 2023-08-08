@@ -1,14 +1,33 @@
-[center]**[big][big]Star Wars: Knights of the Old Republic[/big]
+# Star Wars: Knights of the Old Republic - All Quests Glitchless Guide 
 
-Glitchless All Quests Guide v3.2: Male Scout -> Jedi Guardian Route[/big]**[/center]
+### v3.2: Male Scout -> Jedi Guardian Route
 
-[center]Route by indykenobi[/center]
+*Route and Guide by [indykenobi](https://www.speedrun.com/users/indykenobi)*
 
-This route completes all 100 main and side quests in the game without the benefit of glitches.  Dark side or light side quest conclusions are chosen based on overall speed for the route.  This guide will cover the character creation and leveling choices, as well as reasoning for each quest's chosen completion and a detailed route.
+This route completes all 100 main and side quests in the game without the benefit of glitches.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and there are frequent load screens. 
+
+Dark side or light side quest conclusions are chosen based on overall speed for the route.  This guide will cover the character creation and leveling choices, as well as reasoning for each quest's chosen completion and a detailed route.
+
+**Table of Contents**
+- [Glitchless Ruleset](#glitchless-ruleset)
+- [Character Build](#character-build)
+  - [Character Creation](#character-creation)
+  - [Leveling Plan](#leveling-plan)
+- [Equipment Plan](#equipment-plan)
+- [Credit Route](#credit-route)
+- [Alignment Route](#alignment-route)
+  - [Alignment Shifts](#alignment-shifts)
+  - [Quest Alignment Choices](#quest-alignment-choices)  
+- [Route Overview](#route-overview)
+  - [Planet Route](#planet-route)
+  - [Route Outline](#route-outline) 
+- [Detailed Route](#detailed-route)
+- [Complete Quest List](#complete-quest-list)
+- [Version History](#version-history)
+
+## Glitchless Ruleset
 
 **REMEMBER to show yourself restarting the game at the beginning of each attempt.**
-
-[section=Glitchless Rules]
 
 All glitches are banned, with the exception of the following:
 - Fast text (unavoidable without restarting the game frequently)
@@ -16,27 +35,26 @@ All glitches are banned, with the exception of the following:
 
 Due to its glitchy nature, QUICKSAVE is banned as well.  Manual and autosaves, however, are allowed and recommended in certain places.
 
-[section=Character Build]
+## Character Build
 
-***Character Creation
----------------------------***
+### Character Creation
 
-Male Scout - Male and Female characters are comparable timewise; Male is slightly faster, as the NPC for the Invited to a Party quest (Sarna) is closer to the cantina door than that for the female (Yun Genda).  In addition, as a Male the Carth quest completes as soon as you gain access to the Finding Dustil sidequest.
+Male Scout - Male and Female characters are roughly comparable timewise; Male is slightly faster, as the NPC for the Invited to a Party quest (Sarna) is closer to the cantina door than that for the female (Yun Genda).  In addition, as a Male the Carth quest completes as soon as you gain access to the Finding Dustil sidequest, whereas a female must talk to him several more times before his quest completes.  This guide will assume a Male character.
 
 Scout is picked for automatic access to Flurry, Implant Level 2 and Computer Use as a Class Skill.
 
 **Initial Attributes**
-18 Str
-12 Dex
-12 Con
-10 Int
-8 Wis
-12 Cha
+- 18 Str
+- 12 Dex
+- 12 Con
+- 10 Int
+- 8 Wis
+- 12 Cha
 
 **Initial Skills**
-Computer Use - 4
-Treat Injury - 4
-Save the rest
+* Computer Use - 4
+* Treat Injury - 4
+* Save the rest
 
 **Initial Feat** - Weapon Focus: Melee Weapons
 
@@ -44,10 +62,9 @@ The attribute spread maximizes damage while striking a balance between durabilit
 
 For skills, we will use Computer Use to help save on spikes throughout the run, Treat Injury to make our inevitable medpac use more effective, and Persuade to take some key conversational shortcuts.
 
-***Leveling Plan
--------------------***
+### Leveling Plan
 
-https://i.imgur.com/zkfxxkl.png
+![A chart showing what Feats, Powers, and Skills to take at each level](https://i.imgur.com/zkfxxkl.png)
 
 Our main plan is to combine Master Speed with Master Flurry and a double-bladed lightsaber for five attacks per round in the late game.  Master Two-Weapon Fighting, Weapon Focus: Lightsaber, stims and lightsaber crystals give us enough attack that we can reliably hit even with the attack penalties.
 
@@ -63,7 +80,9 @@ Our main plan is to combine Master Speed with Master Flurry and a double-bladed 
 
 For skills, the 10 points in Intelligence allow us to get up to 8 net Computer Use, saving 2 spikes per hacking with our MC.  Treat Injury helps us preserve some medpacs by making them more effective. Persuade helps us shortcut some quests and bypass some fights, and we max this out as soon as we become a Jedi.  We keep putting points in Persuade because as we level, we need more Persuasion to continue to pass important Persuade checks, including Jagi and the Sandral-Matale feud.
 
-[section=Equipment Plan]
+## Equipment Plan
+
+### Final Equipment
 
 **Implant: Nerve Enhancement Package** - Bought on Taris, Zelka's Shop (500 Credits)
 - A convenient source of Immunity: Mind-Affecting for those pesky Dark Jedi.
@@ -73,54 +92,59 @@ For skills, the 10 points in Intelligence allow us to get up to 8 net Computer U
 
 **Gloves: GenoHaradan Power Gloves** - Received on Manaan from Hulas
 - The reward for killing Ithorak, +4 Strength is only bested by the Dominator Gauntlets, which cost way too much for the marginal upgrade.
-**Gloves: Strength Gauntlets** - Found on Taris, Sith Governor's corpse
-- Until we have the Power Gloves, we make do with the free Strength Gauntlets from the forced loot of the Governor's corpse.
-
+  
 **Body: Jedi Knight Robe** - Found on Dantooine, Nemo's corpse
 - This robe we get while looting the Sigil crystal, and it's good enough to use for the entire run.  A Master Robe's +1 defense upgrade is not worth the time it would take to get one.
-**Body: Combat Suit** - Found on Endar Spire, footlocker
-- On Taris, we use the Combat Suit to help us tank damage as we run past endless Black Vulkars, Rakghouls, and Gamorreans.
-
+  
 **Belt: CNS Strength Enhancer** - Bought on Dantooine, Crattis Yurkal's shop (8500 Credits)
 - A belt that gives +2 Strength and +2 to all saving throws helps on both offense and defense, and is worth the exoribtant price we pay.  All of our Manaan Swoop Race winnings go into this belt.
 
 **Weapon: Double-bladed Lightsaber** - Found on Taris, Brejik's corpse
 - We borrow Bastila's lightsaber for the bulk of the game.  This allows us to use Force Jump, as well as maximize the effects of the Sigil, Solari and Krayt Dragon Pearl crystals that we place into it.  It's also free, which reduces the strain on the credit route quite a bit compared to the alternatives.
+
+### Other Equipment
+
+**Gloves: Strength Gauntlets** - Found on Taris, Sith Governor's corpse
+- Until we have the Power Gloves, we make do with the free Strength Gauntlets from the forced loot of the Governor's corpse.
+
+**Body: Combat Suit** - Found on Endar Spire, footlocker
+- On Taris, we use the Combat Suit to help us tank damage as we run past endless Black Vulkars, Rakghouls, and Gamorreans.
+
 **Weapon: Prototype Vibroblade** - Found on Endar Spire, Sith Commander's corpse
 - On Taris, we use the Prototype Vibroblade in our mainhand and either a standard Vibroblade or Mission's Vibroblade in the offhand.  The Prototype gets upgraded with an Energy Projector for +2 attack before the Duel Ring.
 
-[section=Credits Route]
+## Credit Route
 
 The only major purchases made during the run are the CNS Strength Enhancer, HK-47, and a large amount of utility items, including stims and medpacs for fights, and computer spikes and parts for hacking.  Because of this, the credit route is generally lenient, except for the very beginning on Taris and the very end on Korriban.
 
 These are the shopping trips we make during the run; notice we sell items as few times as possible.
 
 **1. Larrim on Taris**
-*Sell*: Unneeded Items to reach 1400-1500 Credits
-*Buy:* 2x Concussion Grenade and Battle Stimulant (~1100 or ~1200 Credits left)
+- *Sell*: Unneeded Items to reach 1400-1500 Credits
+- *Buy:* 2x Concussion Grenade and Battle Stimulant (~1100 or ~1200 Credits left)
 
 **2. Zelka Forn on Taris**
-*Buy*: Nerve Enhancement Package, 9-10x Adrenal Alacrity, 3-4x Adrenal Strength (<50 Credits left)
+- *Buy*: Nerve Enhancement Package, 9-10x Adrenal Alacrity, 3-4x Adrenal Strength (<50 Credits left)
 
 **3. Janice Nall on Taris**
-*Buy*: 2x Computer Spike
-*Sell*: Unneeded Items to reach around 6269 Credits
+- *Buy*: 2x Computer Spike
+- *Sell*: Unneeded Items to reach around 6269 Credits
 
 **4. Mic'Tunan'Jus Orgu on Tatooine**
-*Buy*: 4x Life Support Pack, 9-10x Advanced Medpac, Adrenal Strength, Bantha Fodder (~7818 Credits left)
-*Sell*: Unneeded Items to reach around 10971 Credits
+- *Buy*: 4x Life Support Pack, 9-10x Advanced Medpac, Adrenal Strength, Bantha Fodder (~7818 Credits left)
+- *Sell*: Unneeded Items to reach around 10971 Credits
 
 **5. Selkath Merchant on Manaan**
-*Buy*: 6x Computer Spike, 7x Parts, 5x All Hyper Stims (~2151 Credits left)
+- *Buy*: 6x Computer Spike, 7x Parts, 5x All Hyper Stims (~2151 Credits left)
 
 **6. Crattis Yurkal on Dantooine**
-*Buy*: CNS Strength Enhancer, Breath Mask, +/-1, +/-3, +/-5 Pazaak Cards (~351 Credits left)
+- *Buy*: CNS Strength Enhancer, Breath Mask, +/-1, +/-3, +/-5 Pazaak Cards (~351 Credits left)
 
 **7. Junix Nard on Tatooine**
-*Buy*: 2x +/-2, 2x +/-3, 2x +/-4 Pazaak Cards (~1451 Credits left)
+- *Buy*: 2x +/-2, 2x +/-3, 2x +/-4 Pazaak Cards (~1451 Credits left)
 
 **8. Czerka Store on Korriban**
-*Buy*: 5x Echani Battle Stim, 5x Each of Hyper Alacrity, Strength, and Stamina (~1 Credit Left) 
+- *Buy*: 5x Echani Battle Stim, 5x Each of Hyper Alacrity, Strength, and Stamina (~1 Credit Left) 
 
 Notice that we sell as much as possible to Janice Nall on Taris; shops on Taris give 40% of item value for sell prices, compared to 25% off of Taris, so we maximize our credits that way.  
 
@@ -130,24 +154,20 @@ In addition to selling items, other major sources of credits include:
 - Manaan Swoop Races
 - Other Quest Rewards
 
-[section=Alignment Route]
-
-***Alignment in KotOR
------------------------------***
+## Alignment Route
 
 Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher numbers are Light, lower numbers are dark. Shifts in alignment are determined by a matrix; every alignment-shifting action is classified as Light or Dark, and then assigned a level (either Low, Mid, or High). The player character can be aligned as Very Dark, Dark, Neutral, Light, or Very Light. The more opposed your alignment and the action's classification, the more drastic your shift in alignment; for example, a Light-aligned character performing a High Dark action will have a large shift, while a Dark character performing a High Dark action will have a smaller shift. 
 
-***Alignment Route
-------------------------***
+### Alignment Shifts
 
-Here's the full list of alignment actions that happen during the run; there are 46 total shifts, of which 27 are dark and 19 are light:
+Here's the full list of alignment shifts that happen during the run; there are 46 total shifts, of which 27 are dark and 19 are light:
 
-https://i.imgur.com/xufZ2IT.png
-https://i.imgur.com/fQRl5Sf.png
+![A table showing alignment shifts for the first half of the run](https://i.imgur.com/xufZ2IT.png)
+![A table showing alignment shifts for the second half of the run](https://i.imgur.com/fQRl5Sf.png)
 
 If you're more of a visual learner, you can see the overall alignment in chart form here:
 
-https://i.imgur.com/1M41pKo.png
+![A line chart showing overall alignment throughout the run](https://i.imgur.com/1M41pKo.png)
 
 The alignment route is quite lenient, since we no longer try to equip the Solari crystal until after Lehon, when we get a massive infusion of light side points when we choose to renounce our former identity.
 
@@ -160,63 +180,62 @@ Some other fun facts for the alignment route:
 
 The ending for the run is the light side ending; see below.
 
-***Alignment Choices in Quests
-------------------------------------------***
+### Quest Alignment Choices
 
 In general, every quest outcome is chosen to get the fastest time, regardless of alignment.  Some notes on some non-intuitive choices:
 
 **1. Dia's Bounty - Dark**
-- We kill Dia on Taris because it's faster than Persuading Holdan to drop the bounty, since you'd have to talk to Zax twice in that case, then Transit Back and talk to Dia.
+  - We kill Dia on Taris because it's faster than Persuading Holdan to drop the bounty, since you'd have to talk to Zax twice in that case, then Transit Back and talk to Dia.
 
 **2. The Promised Land - Light**
-- Giving Rukil the Promised Land journals is faster because you must give him the apprentice's journal, and you can turn in the other journals in the same conversation.  We also don't need Igear's pitiful credit reward.
+  - Giving Rukil the Promised Land journals is faster because you must give him the apprentice's journal, and you can turn in the other journals in the same conversation.  We also don't need Igear's pitiful credit reward.
 
 **3. Rakghoul Serum - Dark**
-- Selling the Rakghoul Serum to Zax is faster than visiting Zelka a second time or delaying his shopping trip, since we have to talk to Zax anyway for the bounty quests.
+  - Selling the Rakghoul Serum to Zax is faster than visiting Zelka a second time or delaying his shopping trip, since we have to talk to Zax anyway for the bounty quests.
 
 **4. Tanis Trapped - Dark**
-- Killing Tanis is faster than solving the droid puzzles to save him.
+  - Killing Tanis is faster than solving the droid puzzles to save him.
 
 **5. A Desert Hunt - Dark**
-- We kill Komad for a second Krayt Pearl, as this allows us to use one in our lightsaber and the second for the quest Worthy of History.  Killing him before the bantha escort saves time, as we then don't have to talk to him after the escort.
+  - We kill Komad for a second Krayt Pearl, as this allows us to use one in our lightsaber and the second for the quest Worthy of History.  Killing him before the bantha escort saves time, as we then don't have to talk to him after the escort.
 
 **6. Manaan Swoop Races - Light**
-- Loaning Queedle money before doing the Manaan Swoop Races saves time because otherwise you're forced to talk to Huxta Jax between the second and third swoop races.
+  - Loaning Queedle money before doing the Manaan Swoop Races saves time because otherwise you're forced to talk to Huxta Jax between the second and third swoop races.
 
 **7. Mission for the Republic - Neutral**
-- We save the Progenitor on Manaan because killing her locks us out of both the Republic Hiring Mercenaries and the Missing Selkath sidequests; it is also just a little slower than killing her.
+  - We save the Progenitor on Manaan because killing her locks us out of both the Republic Hiring Mercenaries and the Missing Selkath sidequests; it is also just a little slower than killing her.
 
 **8. Star Map: Kashyyyk - Dark** 
-- We give the "correct" answers during the Star Map quiz on Kashyyyk because it's faster than giving Light Side answers and having to fight the Defense Droids.  The answers we give actually give us a Low Dark, then a Low Light, then a Low Dark action, which evens out to a single -2 Dark Side Points.
+  - We give the "correct" answers during the Star Map quiz on Kashyyyk because it's faster than giving Light Side answers and having to fight the Defense Droids.  The answers we give actually give us a Low Dark, then a Low Light, then a Low Dark action, which evens out to a single -2 Dark Side Points.
 
 **9. A Chieftain in Need - Dark**
-- We now kill Freyyr in the Shadowlands, because siding with Freyyr would prevent us from meeting Jagi as we leave Kashyyyk.  Killing him in the Shadowlands allows us to skip the Ritual Beast and the fight with Chuundar in the Chieftain's Hall as well.  Finally, this also completes the A Wookiee Lost sidequest as soon as we are locked out of the Wookiee Village.
+  - We now kill Freyyr in the Shadowlands, because siding with Freyyr would prevent us from meeting Jagi as we leave Kashyyyk.  Killing him in the Shadowlands allows us to skip the Ritual Beast and the fight with Chuundar in the Chieftain's Hall as well.  Finally, this also completes the A Wookiee Lost sidequest as soon as we are locked out of the Wookiee Village.
 
 **10. Honest Debt - Light**
-- Since we now side with Chuundar, we have to complete the Honest Debt sidequest directly.  We choose to prevent Matton from killing Eli because the time difference is negligible, and going Dark here is actually a fairly large swing that could jeopardize our later alignment.
+  - Since we now side with Chuundar, we have to complete the Honest Debt sidequest directly.  We choose to prevent Matton from killing Eli because the time difference is negligible, and going Dark here is actually a fairly large swing that could jeopardize our later alignment.
 
 **11. Middleman - Dark**
-- We give Sharina half-price for her wraid plate, as it's cheaper, very slightly faster, and we don't need the light side points anymore.
+  - We give Sharina half-price for her wraid plate, as it's cheaper, very slightly faster, and we don't need the light side points anymore.
 
 **12. Korriban Sidequests and Prestige** 
-- Many of the Korriban choices are made because we can only turn in five prestige points before Uthar stops accepting other quests.  Choosing the Dark Mandalorian Weapons Cache, Light Doubting Sith, Neutral Ajunta Pall's Sword, and Light Renegade Sith allows those sidequests to be completed without talking to Uthar; this leaves only five quests (Code of the Sith, Hermit in the Hills, Rogue Droid, Aiding Lashowe, and Double-Double Cross) that require getting a prestige point from Uthar.  The only other reasonable possibility is Neutral Renegade Sith and Light Rogue Droid; this is slower on average by 2-3s. 
+  - Many of the Korriban choices are made because we can only turn in five prestige points before Uthar stops accepting other quests.  Choosing the Dark Mandalorian Weapons Cache, Light Doubting Sith, Neutral Ajunta Pall's Sword, and Light Renegade Sith allows those sidequests to be completed without talking to Uthar; this leaves only five quests (Code of the Sith, Hermit in the Hills, Rogue Droid, Aiding Lashowe, and Double-Double Cross) that require getting a prestige point from Uthar.  The only other reasonable possibility is Neutral Renegade Sith and Light Rogue Droid; this is slower on average by 2-3s. 
 
 **13. Finding Dustil - Light** 
-- Choosing to give Dustil the evidence of Uthar's treachery is just barely slower, but prevents having to fight him and also prevents a large alignment swing that could affect our ability to equip Solari.
+  - Choosing to give Dustil the evidence of Uthar's treachery is just barely slower, but prevents having to fight him and also prevents a large alignment swing that could affect our ability to equip Solari.
 
 **14. The Sword of Ajunta Pall - Neutral**
-- Since we are no longer light-aligned when we do this quest, we now opt for the neutral ending of just saying goodbye after finding his sword.
+  - Since we are no longer light-aligned when we do this quest, we now opt for the neutral ending of just saying goodbye after finding his sword.
 
 **15. Hermit in the Hills - Dark** 
-- Choosing the Dark Hermit in the Hills completion is faster and prevents having to fight Jorak Uln, who's actually kind of a pain.
+  - Choosing the Dark Hermit in the Hills completion is faster and prevents having to fight Jorak Uln, who's actually kind of a pain.
 
 **16. Trapped on a Nameless World - Light**
-- We stay true to the Light Side on Lehon because otherwise the "Juhani" quest does not complete.  It's also faster, since we would otherwise have to bring Bastila through the Star Forge with us.
+  - We stay true to the Light Side on Lehon because otherwise the "Juhani" quest does not complete.  It's also faster, since we would otherwise have to bring Bastila through the Star Forge with us.
 
-[section=Route Overview]
+## Route Overview
 
-***Planet Route
--------------------***
+### Planet Route
+
 Taris -> Dantooine 1 -> Tatooine 1 -> Manaan 1 -> Dantooine 2 -> Kashyyyk -> Tatooine 2 -> Manaan 2 -> Leviathan -> Korriban -> Unknown Planet -> Star Forge
 
 Some planets require at least two visits, such as:
@@ -230,8 +249,7 @@ Planets that can be done in a single visit include:
 
 This route does not visit Yavin space station, as there are no official quests there.  While we don't get the Baragwin Assault Blade or the Advanced Bio-Stabilizer Mask, we save time by not having to visit Suvam twice.
 
-***Route Outline
--------------------***
+### Route Outline
 
 **1. Taris 1**
 - Obtain the Sith Armor from Sarna's Party
@@ -241,6 +259,7 @@ This route does not visit Yavin space station, as there are no official quests t
 - Turn in Promised Land Journals
 - Get Swoop Accelerator from Vulkar Base
 - Rescue Bastila
+
 **2. Taris 2**
 - The Duel Ring and Bendak's Bounty
 - Recruit T3
@@ -248,11 +267,13 @@ This route does not visit Yavin space station, as there are no official quests t
 - Sell Rakghoul Serum to Zax and get bounty rewards
 - Recruit Canderous
 - Kill Davik to steal the Ebon Hawk and escape Taris
+
 **3. Dantooine 1**
 - Become a Jedi Padawan
 - Ignore the murder of Caldor Nettic
 - Redeem Juhani to the light side
 - Find the Star Map in the ancient ruins
+
 **4. Tatooine 1**
 - Win the Tatooine Swoop Races and get Nico a better contract
 - Buy HK-47
@@ -263,11 +284,13 @@ This route does not visit Yavin space station, as there are no official quests t
 - Kill Komad Fortuna and the Krayt Dragon
 - Find the Star Map and Bastila's Father's holocron
 - Trigger the GenoHaradan bounty quests
+
 **5. Manaan 1**
 - Finish Carth's backstory
 - Sell gizka to Nubassa
 - Begin the GenoHaradan bounties and kill Lorgal
 - Win the Manaan Swoop Races
+
 **6. Dantooine 2**
 - Buy the CNS Strength Enhancer
 - Give Nurik Sandral evidence of his son's death
@@ -275,6 +298,7 @@ This route does not visit Yavin space station, as there are no official quests t
 - Rescue Elise's droid and return it to her
 - Kill the Mandalorian Raiders
 - Kill Zuulan
+
 **7. Kashyyyk**
 - Reach the Wookiee Village and speak with Chuundar
 - Reach the Shadowlands
@@ -289,6 +313,7 @@ This route does not visit Yavin space station, as there are no official quests t
 - Kill Freyyr
 - Report to Chuundar and get banned from the Wookiee Village
 - Prevent Matton from killing Eli
+
 **8. Tatooine 2**
 - Buy Sharina's wraid plate for half price
 - Get the Sand People reward from Czerka Corp.
@@ -299,6 +324,7 @@ This route does not visit Yavin space station, as there are no official quests t
 - Confront Jagi with Canderous in the Dune Sea
 - Kill Vorn
 - Gain access to Sand People history
+
 **9. Manaan 2**
 - Kill Ithorak and enter the Sith Base
 - Force Persuade the Selkath youths to abandon the Sith
@@ -311,12 +337,14 @@ This route does not visit Yavin space station, as there are no official quests t
 - Be acquitted at your trial
 - Give Nilko and Shaelas the information they seek
 - Finish Sunry's Murder Trial by presenting the recording
+
 **10. The Leviathan**
 - As Jolee, rescue the party
 - Obtain a space suit to reach the bridge
 - Kill Saul Karath
 - Defeat Darth Malak to escape
 - Learn HK-47's true identity
+
 **11. Korriban**
 - Speak to Ziagrom and Xor with Juhani
 - Refuse to help Lurze Kesh
@@ -335,6 +363,7 @@ This route does not visit Yavin space station, as there are no official quests t
 - Gain entrance to Naga Sadow's tomb and find the Star Map
 - Kill Uthar and spare Yuthura
 - Confront and kill Xor
+
 **12. Lehon**
 - Defeat the Mandalorian leader and give his head to Warleader Garn
 - Betray the One and rescue the Elder Warrior
@@ -343,121 +372,138 @@ This route does not visit Yavin space station, as there are no official quests t
 - Defeat Bastila and stay true to the light side
 - Turn in genetic data to the Researcher Ll'awa
 - Repair the Ebon Hawk and locate the Star Forge
+
 **13. Star Forge**
 - Finish Canderous's backstory
 - Defeat and redeem Bastila
 - Defeat Darth Malak
 
-[section=Detailed Route]
+## Detailed Route
 
-**Quest Notes:**
-It is generally noted where a quest begins and finishes.  Specific alignments for all quests are shown in the quest list at the end.
+This section will describe all the actions you'll need to take for the All Quests Glitchless run.
 
-**Credit Route Notes:**
-Shopping trips are detailed below, with target credit values at the end.  These will vary slightly due to the random nature of the loot in Dia's bag at the beginning.
+Notation:
+- `Level ups are highlighted in code block`
+- *Inventory/Equipment changes are highlighted in italics*
+- **Item Upgrades at a workbench are highlighted in bold**
+- `Shopping trips are highlighted in large code blocks`
+- ***Quest Updates are highlighted in bold and italics***
 
-**Conversation Notes:**
-If no conversation choices are specified, spamming will work.
-A | indicates a break in the conversation.  There's either a cutscene inbetween or you have to talk to the person again.
-A X indicates a variable answer, such as in reciting the Sith Code.
-A #xY indicates repeat that option Y times, as in Gadon Thek's first conversation.
+Conversation Notes: 
+- If no conversation choices are specified, spamming will work (this chooses all 1 options).
+- A ... indicates a break in the conversation, such as changing who you're talkng to or having to talk to the NPC again
+- A * indicates a variable answer, such as in reciting the Sith Code.
+- A #* indicates a Persuade check that may fail.
+- A #xY indicates repeat that option Y times, as in Gadon Thek's first conversation.
+- Notes that read "Bastila #1" or similar are steps in conversation side quests with that particular party member.  With a few noted exceptions, these are all spammable conversations.
 
-**Party Conversations:**
-Notes that read "Bastila #1" or similar are steps in conversation side quests with that particular party member.  With a few noted exceptions, these are all spammable conversations.
+Quest Notes:
+- It is generally noted where a quest begins and finishes.
+- Specific alignments for all quests are shown in the quest list at the end.
 
-**Notation:**
-A } indicates a menu action to take, usually changing party or equipping/using items
-A > indicates a level up to do, almost always for the MC
-A - indicates further information about something, or quest information
-A ) indicates an weapon upgrade to do at a workbench
-*Italicized text* indicates general tips or information about a section
+**Jump to a Section:**
+- [Endar Spire](#endar-spire)
+- [Taris 1](#taris-1)
+- [Taris 2](#taris-2)
+- [Dantooine](#dantooine)
+- [Manaan](#manaan)
+- [Korriban](#korriban)
+- [Tatooine](#tatooine)
+- [The Leviathan](#the-leviathan)
+- [Kashyyyk](#kashyyyk)
+- [Lehon](#lehon)
+- [The Star Forge](#the-star-forge)
 
-[section=Endar Spire]
+## Endar Spire
 
-**Character Creation:**
-> Male Scout - Custom Character
-> Choose Mullet Man (or not, but Mullet Man is the best)
-> Str to 18, Dex to 12, Con to 12, Int to 10, Cha to 12
-> Computer Use to 4, Treat Injury to 4, Save Rest
-> Initial Feat - Weapon Focus: Melee Weapons
-> Pick a good name!
-> Timer starts when you hit Play!
+### Character Creation
+- Male Scout - Custom Character
+- Choose Mullet Man (or not, but Mullet Man is the best)
+- Str to 18, Dex to 12, Con to 12, Int to 10, Cha to 12
+- Computer Use to 4, Treat Injury to 4, Save Rest
+- Initial Feat - Weapon Focus: Melee Weapons
+- Pick a good name!
+- Timer starts when you hit Play!
 
-**Endar Spire:**
-Trask accosts you (spam)
-- Starts "Attack on the Endar Spire"
-Loot footlocker
-} Equip Short Sword
-Talk to Trask to recruit him
-} Equip second blaster to Trask's offhand
-Switch to Trask and open door
-Switch back to Trask and Carth accosts you
-Switch back to Trask and use security on door
-Kill two Sith Soldiers with Trask's Power Blast as MC runs past
-Loot footlocker in next room
-Cutscene of Sith vs. Republic
-Kill front three Sith Soldiers with frag grenade
-Jedi vs. Sith cutscene
-Loot Jedi for Vibration Cell/Adrenal Strength
-Kill two Sith soldiers with Trask's Power Blast
-Kill front two Sith soldiers on bridge with Trask
-> Level to 2: Save Skills, Two-Weapon Fighting
-Watch poor Trask sacrifice himself
-Enter Starboard Section
+### Command Module
+- Trask accosts you (spam)
+  - ***Starts "Attack on the Endar Spire"***
+- Loot footlocker
+- *Equip MC: Short Sword*
+- Talk to Trask to recruit him
+- *Equip Trask: Blaster Pistol Offhand*
+- Switch to Trask and open door
+- Switch back to Trask and Carth accosts you
+- Switch back to Trask and use Security on door
+- After the CS, kill two Sith Soldiers with Trask's Power Blast as MC runs past
+- Loot footlocker in next room
+- After Sith vs. Republic CS, kill front three Sith Soldiers with frag grenade
+- Jedi vs. Sith cutscene
+  - The Jedi can actually miss, so pray that she doesn't
+- Kill the two Sith soldiers with Trask's Power Blast
+- Loot Jedi for Vibration Cell/Adrenal Strength
+- Kill front two Sith soldiers on bridge with Trask
+- `Level to 2: Save Skills, Two-Weapon Fighting`
+- Watch poor Trask sacrifice himself
+- Enter Starboard Section
 
-**Starboard Section:**
-Loot footlocker in Terminal Room (+5 Spikes; 5 Total)
-Hack terminal console: 2,3 (-4; 1 Spike)
-Loot Sith Commander for Prototype Vibroblade
-Carth accosts you
-Take Escape Pod to Taris
-- Finishes "Attack on the Endar Spire"
+### Starboard Section
+- Loot footlocker in Terminal Room (+5 Spikes; 5 Total)
+- Hack terminal console: 2,3 (-4; 1 Spike)
+- Loot Sith Commander for Prototype Vibroblade
+- Carth accosts you
+- Take Escape Pod to Taris
+  - ***Finishes "Attack on the Endar Spire"***
 
-[section=Taris 1]
+### Taris 1
 
 *Note on Alacrity: We want Adrenal Alacrity to be active on the MC for as much of Taris as possible.  The route obtains 10-11 Alacrities, and we want two leftover when we reach Dantooine. The route notes where Alacrities will usually be used, but you may find it varies slightly, so try it out yourself to get used to it!*
 
-**South Apartments:**
-Carth accosts you: 4,3,2,5,3
-- Starts "The Search for Bastila"
-Loot footlocker for spikes and medpacs (+2; 3 Spikes)
-} Equip Prototype Vibroblade mainhand, Vibroblade offhand, Combat Suit
-} Use Adrenal Alacrity
-Exit apartments (forced to bring Carth)
-Use MC's flurry to kill the Sith Patrol
-Activate Solo Mode and use Carth's Security to open the first door on the right
-Loot Dia's bag with Carth
-- Note whether you get a Computer Spike, Parts, or both
-After Duros accosts you, loot the backpack for grenades and stims
-Speak to and kill Dia with Carth: 1,1,1,2,2,2,1
-- The last 1 is only necessary if both Carth and MC are in the apartment
-- Starts "Dia's Bounty"
-Deactivate Solo Mode
-Larrim accosts you: 1,2,4
----------------------------------------------------------
-*SHOPPING:* Larrim
-**SELL ALL EXCEPT:**
-- 3 Computer Spikes (if you got one from Dia's bag, sell it)
-- Vibroblade
-- Grenades
-- Stims
-**BUY:**
-- 2x Concussion Grenade
-- Battle Stimulant
-End: ~1100 or ~1200 Credits (1100 with only one of Parts or Spike, 1200 with both)
-*There is a small chance (~10%) that you'll be slightly under 1100 or 1200.  If this happens, sell one medpac, as it's important to be above your target for Zelka's stims later.*
----------------------------------------------------------
-Exit to Upper City South
-- Starts "Rapid Transit System"
+### South Apartments
+- Carth accosts you: 4,3,2,5,3
+  - ***Starts "The Search for Bastila"***
+- Loot footlocker for spikes and medpacs (+2; 3 Spikes)
+- *Equip MC: Prototype Vibroblade Mainhand, Vibroblade Offhand, Combat Suit*
+- *Stims: Alacrity on MC*
+- Exit apartments
+  - *Party: Keep Carth when prompted*
+- Use MC's Flurry to kill the Sith Patrol
+- Activate Solo Mode and use Carth's Security to open the first door on the right
+- Loot Dia's bag with Carth
+  - Note whether you get a Computer Spike, Parts, or both
+- After Duros accosts you, loot the backpack for grenades and stims
+- Speak to and kill Dia with Carth: 1,1,1,2,2,2,1
+  - The last 1 is only necessary if both Carth and MC are in the apartment
+  - ***Starts "Dia's Bounty"***
+- Deactivate Solo Mode
+- Larrim accosts you: 1,2,4
 
-**Upper City South:**
-Run to Upper City Cantina and enter it
-- Do Carth #1 when prompted
-- Starts "Carth"
-Activate Solo Mode
-Carth opens door
-Talk to Sarna: 1,1,3,2,1,1,1
-- Starts "Invited to a Party"
+```
+SHOPPING: Larrim
+- SELL ALL EXCEPT:
+  - 3 Computer Spikes (if you got one from Dia's bag, sell it)
+  - Vibroblade
+  - Grenades
+  - Stims
+- BUY
+  - 2x Concussion Grenade
+  - Battle Stimulant
+- End: ~1100 or ~1200 Credits (1100 with only one of Parts or Spike, 1200 with both)
+- Note: There is a small chance (~10%) that you'll be slightly under 1100 or 1200.
+- If this happens, sell one Medpac, as it's important to be above your target for Zelka's stims.
+```
+
+- Talk to Carth for Carth #1 after shopping
+  - ***Starts "Carth"***
+- Exit to Upper City South
+  - ***Starts "Rapid Transit System"***
+
+### Upper City South
+- Run to Upper City Cantina and enter it
+- Activate Solo Mode
+- Carth opens door
+- Talk to Sarna: 1,1,3,2,1,1,1
+  - ***Starts "Invited to a Party"***
 Swap to Carth and leave the Cantina
 Run towards Upper City North
 Activate Solo Mode near the sculpture at the end
@@ -1780,11 +1826,12 @@ Darth Malak fight:
 - Kill Malak once and for all
 - Finishes "The Final Confrontation"
 
-[section=Complete Quest List]
+## Complete Quest List
 This is a list of all the quests in the game, as well as the alignment we complete them with, if applicable.
 
 **Endar Spire:**
 - Attack on the Endar Spire
+
 **Taris:**
 - Rapid Transit System
 - Largo's Bounty - Dark
@@ -1804,6 +1851,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Dia's Bounty - Dark
 - Escaping Taris
 - Taris: Planetary Information
+
 **Dantooine:**
 - Jedi Trials
 - The Jedi Council
@@ -1814,6 +1862,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Missing Companion
 - Investigate Ruins
 - GenoHaradan: Zuulan - Dark
+
 **Korriban:**
 - Premium Merchant
 - Enter the Sith Academy
@@ -1829,6 +1878,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Hermit in the Hills - Dark
 - Star Map: Korriban
 - The Way of the Sith - Light
+
 **Manaan:**
 - Republic Embassy
 - GenoHaradan: Lorgal - Dark
@@ -1844,6 +1894,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Firith Me the Pazaak Player
 - Gluupor the Rodian
 - Ignus the Hotel Owner
+
 **Kashyyyk:**
 - Honest Debt - Light
 - Tach Poaching
@@ -1853,6 +1904,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Chieftain in Need - Dark
 - A Wookiee Lost
 - GenoHaradan: Rulan - Dark
+
 **Tatooine:**
 - Tanis Trapped - Dark
 - Desert Ambush
@@ -1866,11 +1918,13 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Tatooine Swoop Racing
 - Signing Nico
 - Fair Trade
+
 **Unknown World/Star Forge:**
 - Invisible Mandalorians
 - Trapped on a Nameless World - Light
 - Rakatan Research
 - The Final Confrontation
+
 **Party Quests:**
 - Jagi's Challenge
 - Carth - Light
@@ -1883,6 +1937,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Juhani
 - Finding Dustil - Light
 - Canderous
+
 **Intergalactic Quests:**
 - The Ebon Hawk
 - Pazaak Rules
@@ -1894,7 +1949,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - GenoHaradan
 - A Quest for the Star Forge
 
-[section=Version History]
+## Version History
 
 **v3.2 (September 2022)**
 - On Korriban, Rogue Droid is now destroyed, while Renegade Sith are saved.
@@ -1903,18 +1958,21 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - New movement for the Sunry investigation using Jolee.
 - New movement in the Sith Academy using Carth and Juhani.
 - Credit and shopping tweaks since fewer spikes are necessary.
+
 **v3.1 (August 2022)**
 - Kashyyyk shopping is cut completely, and Life Support Packs are no longer bought on Korriban.
 - Medpacs are now bought at the start of Tatooine 1 and nowhere else.
 - Several improvements to GenoHaradan kill methods; Vorn is killed with his droid, Zuulan by setting off his alarm, and Ithorak with a lightsaber.
 - Removed killing two Mandalorians on Dantooine as they are not required to spawn Sherruk.
 - Added using a Concussion Grenade on Twitch in the Duel Ring.
+
 **v3.0 (August 2022)**
 - Tatooine 3 is now removed from the route.
 - The GenoHaradan quest is finished by telling Hulas you don't care that he manipulated you.
 - Jagi's Challenge is met during Tatooine 2 by talking with Canderous throughout the early-mid game.
 - Freyyr is killed in the Shadowlands to allow encountering Jagi on the way out of Kashyyyk. The ritual beast is skipped.
 - Honest Debt is completed normally, and A Wookiee Lost is completed when locked out of the Wookiee Village.
+
 **v2.1 (August 2022)**
 - Delayed Dantooine shopping until Dantooine 2.
 - Moved Manaan shopping to the start of Manaan 1.
@@ -1924,34 +1982,41 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Added Bastila over Zaalbar in the Sith Base.
 - Added looting Dia's bag to afford an extra concussion grenade and possible alacrity/strength stims.
 - Added buying more Life Support Packs from Mic'Tunan'Jus Orgu.
+
 **v2.0 (July 2022)**
 - New planet route: Tatooine 1 -> Manaan 1 -> Dantooine 2 -> Kashyyyk -> Tatooine 2 -> Manaan 2 -> Leviathan -> Korriban -> Tatooine 3.
-- Manaan 1 ends after swoops; the Star Map now obtained in Manaan 2.
+- Manaan 1 ends after swoops; the Star Map is now obtained in Manaan 2.
 - Moved swoops, Griff, and Pazaak to Tatooine 2.
 - New credit and alignment route to accompany the new planet route.
 - Unfinished Business is completed immediately by telling Lurze Kesh you don't want to help.
 - Streamlined several character conversation quests.
 - Character build is the same.
+
 **v1.4 (May 2021)**
 - Added a possible tweak to the initial attributes to guarantee late game Persuade checks.
 - Corrected a small error in the computer spike route; no changes to the actual route.
 - Updated the alignment route to cut two extra conversations that gave LSP; updated the chart.
+
 **v1.3 (April 2021)**
 - Tweaked the credit and spike route to cut some looting
 - Tweaked the Lower Shadowlands route to cut talking to Grrwahrr
 - Added a timesaver using Carth on Manaan
 - Added purchasing a stealth belt on Korriban for the Rogue Droid quest
 - Added more info about stim usage after Taris
+
 **v1.2 (April 2021)**
 - Tweaked the stim route to ensure more Alacrities on Taris
 - Removed rescuing the bullied merchant in Upper City South
+
 **v1.1 (April 2021)**
 - Tweaked the credit route to guarantee 2 concussion grenades for turret skip in the Vulkar Base
 - Added a thermal detonator option for the Sand People fight in the Eastern Dune Sea
+
 **v1.0 (April 2021)**
 - Detailed route finished
 - Alignment route finished
 - Minor route corrections
+
 **v0.1 (March 2021)**
 - Uploaded initial guide with incomplete detailed route; route includes:
   - Scout -> Jedi Guardian: Two-Weapon Fighting/Flurry character build

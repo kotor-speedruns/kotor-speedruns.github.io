@@ -50,3 +50,5 @@ The following uses of Combat Talking are backups:
 ## Related Glitches
 
 * [Conversation Queue](<Conversation Queue>)
+
+***Have a suggestion or correction? Contribute to this guide [here](https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/kotor1/Techniques/Combat%20Talking.md)!***
