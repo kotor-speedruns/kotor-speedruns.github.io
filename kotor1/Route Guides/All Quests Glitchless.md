@@ -405,10 +405,10 @@ Quest Notes:
 - [Endar Spire](#endar-spire)
 - [Taris 1](#taris-1)
 - [Taris 2](#taris-2)
-- [Dantooine](#dantooine)
+- [Dantooine 1](#dantooine-1)
+- [Tatooine 1](#tatooine-1)
 - [Manaan](#manaan)
 - [Korriban](#korriban)
-- [Tatooine](#tatooine)
 - [The Leviathan](#the-leviathan)
 - [Kashyyyk](#kashyyyk)
 - [Lehon](#lehon)
@@ -504,422 +504,439 @@ SHOPPING: Larrim
 - Carth opens door
 - Talk to Sarna: 1,1,3,2,1,1,1
   - ***Starts "Invited to a Party"***
-Swap to Carth and leave the Cantina
-Run towards Upper City North
-Activate Solo Mode near the sculpture at the end
-With MC, open door to Medical Clinic
-With Carth, open door to Upper City North
-Talk to Zelka: 1,1,1,3
-- Starts "Rakghoul Serum"
----------------------------------------------------------
-*SHOPPING: Zelka Forn*
-**BUY:**
-- Nerve Enhancement Package
-- 9x Adrenal Alacrity
-- 3x Adrenal Strength
-- If you can, buy 1 extra Alacrity and 1 extra Strength
-- This only happens if you got a Spike and Parts from Dia's bag
-End: <50 Credits
----------------------------------------------------------
-Gurney accosts you: 1,3,4
-} Use Alacrity on MC
-Move MC in range of Upper City North, then swap to Carth to enter
+- Swap to Carth and leave the Cantina
+- Run towards Upper City North
+- Activate Solo Mode near the sculpture at the end
+- With MC, open door to Medical Clinic
+- With Carth, open door to Upper City North
+- Talk to Zelka: 1,1,1,3
+  - ***Starts "Rakghoul Serum"***
 
-**Upper City North:**
-Swap to MC and Enter North Apartments
-- Make sure Carth follows you, and use Solo Mode to get him in range if he doesn't
-Inside, activate Solo Mode to control both MC and Carth
-As Carth:
-- Use Security to open apartment on right
-- Talk to Largo: 1,2 (swaps position with MC)
-- Starts "Largo's Bounty"
-- Trigger Sarna's party and loot backpack for Sith Armor
---- Finishes "Invited to a Party"
-- Run back in range of the Upper City North
-As MC:
-- Run to second apartment on left
-- Kill and loot Largo when swapped to his position
-- Run to door back to Upper City North and exit
-> Level to 3: Save skills, Empathy
-Run towards Lower City Elevator
-Carth #2 when prompted (may be after the drunks)
-Drunks accost you (spam)
-Near Gorton Colu, Return to Hideout and Transit Back
-- This sets our transit point for later
-- Finishes "Rapid Transit System"
-} Equip Sith Armor
-Enter Lower City
+```
+SHOPPING: Zelka Forn
+-BUY:
+  - Nerve Enhancement Package
+  - 9x Adrenal Alacrity
+  - 3x Adrenal Strength
+  - If you can, buy 1 extra Alacrity and 1 extra Strength
+    - This only happens if you got a Spike and Parts from Dia's bag
+- End: <50 Credits
+```
 
-**Lower City:**
-} Equip Combat Suit over Sith Armor
-After CS, kill the Vulkar Patrol
-- Use a frag grenade, then finish up with Carth at close range
-- Carth gets stuck on these guys if you don't kill them
-} Probable use of Adrenal Alacrity on MC
-Enter East Apartments straight ahead
-With Carth, use Security to open first apartment on right
-Kill Matrik: 2
-- Carth's Power Blast at close range is the best way to kill Matrik
-- MC can run back to the door to the Lower City during this time
-Exit to Lower City and Enter Bek Base
-- Lookout accosts you when you try to enter
-Activate Solo Mode to leave Carth at entrance
-Speak with Gadon: 1x10, 3, 2
-Run MC within range of Lower City, then swap to Carth and leave
-Swap to MC and run past Vulkar patrol to watch Canderous CS
-Enter West Apartments and watch Calo Nord CS
-} If you were able to buy extra stims from Zelka, use Alacrity on Carth
-Kill Selven and the Vulkar patrol:
-- Use a frag grenade on the Vulkar patrol as soon as they're in sight
-- Use Carth's Security to open second apartment on right; this may take a couple tries if MC is fighting the Vulkars
-- Selven's conversation: 3
-- MC has a very hard time hitting Selven; have him focus on the Vulkars while Carth shoots Selven from close range
-} Probable use of Adrenal Alacrity on MC
-Leave apartments
-} Remove Carth from party
-Enter Undercity
+- *Stims: Alacrity on MC*
+- Gurney accosts you as you leave: 1,3,4
+- Move MC in next to sculpture in range of Upper City North, then swap to Carth to enter
 
-**Undercity and Sewers:**
-Beggars accost you: 3,1,4
-Open gate on right to speak to healer: 1,2
-Avoid rakghouls in pen to speak to outcasts: 2,2
-- If you get into combat, you'll have to kill the rakghouls, and that's not an easy fight.
-- Starts and Finishes "Infected Outcasts"
-Hug the right side of the right ramps to avoid the Igear conversation
-- This is essential, as we'll use this conversation later for a trick
-} Add Carth to party
-Kill rakghoul attacking Hendar
-Mission joins the party
-Enter the Lower Sewers
-> Level to 4: Str to 19, Save Skills
-} Equip Nerve Enhancement Package and Mission's Vibroblade offhand
-} Unequip Carth's blasters to sell later
-Activate Solo Mode to leave Carth and Mission at ladder
-} Probable use of Adrenal Alacrity on MC
-Go right, then first door on the left to loot first journal from outcast corpse
-Go across the hall and open door on left to rescue Zaalbar
-} Leave party as is when prompted
-- Starts "A Rancor in the Sewers"
-Bash open footlocker in next room
-Swap to Mission and use ladder to leave sewers, then immediately reenter
-} Remove Mission from party
-Take first door on left, straight, first door on left, first door on right
-Loot second journal from outcast corpse
-Go back, turn right and use ladder to exit sewers
-Loot Sith Soldier corpse for rakghoul serum
-Run back to gate to village
-} Add Mission to party
-} Probable use of Adrenal Alacrity on MC
-Activate Solo Mode
-Swap to Mission, open the gate, and step just inside as the gate closes itself
-Swap to MC and run forward to trigger rakghoul skirmish with Canderous's group
-Ignore this fight and target a rakghoul to the left with a basic attack to move MC
-Swap to Mission and run forward until just before the last ramp to the left of Igear
-Swap to MC and loot outcast corpse at back left for last journal
-Swap to Mission and run forward to trigger Igear's cutscene: 4
-- This warps the MC to Mission's position
-Deactivate Solo Mode
-Talk to Rukil to turn in the journals
-- Starts and Finishes "Rukil's Apprentice"
-- Starts and Finishes "The Promised Land"
-Return to Lower Sewers
-- Make sure Mission follows you
-Activate Solo Mode to leave Mission outside of rakghoul range
-Interact with console to lower force field
-Enter Upper Sewers
-} Remove Mission from party
-Take left, then right branch in circular rooms
-} Probable use of Adrenal Alacrity
-Loot pile of bones (+1; 3 Spikes)
-Rancor Juke to get past the rancor
-- A safety save is recommended here
-- Running at the right angle as the rancor approaches you can let you run behind it without it ever being able to attack.
-- You can add the synthesized odor and a frag grenade to the bones instead, but this is slower and we'd like to save our grenades for Davik and Calo
-- Finishes "A Rancor in the Sewers"
-Enter the Vulkar Base
-- *Optional:* If you've used a lot of medpacs, there's three in the corpse on the right you can loot for backup
-- Starts "Inside the Vulkar Base"
+### Upper City North
 
-**Vulkar Base:**
-Turn right and head to end of hallway
-Defense Turret Skip
-- Open door to elevator area
-- Stand in doorframe corner near terminal and make a manual save
-- If you've loaded saves an *even number of times* (including 0), load the manual save to (hopefully) avoid having to make an extra save later
-- Loading a save here will also likely duration glitch your Alacrity, allowing you to avoid using more until the Duel Ring
-- Pause the game, then queue two concussion grenades on the center turret
-- Unpause; if any turret remains active after both grenades, load the safety save and try again
-- If all three turrets are stunned, take the elevator to the Garage
-- There is a 59.6% chance to stun all three with two grenades. Good luck!
-In the garage, take hallway on right and last door on right
-Loot garage head's desk and supplies (+2; 5 Spikes)
-Return to main area and turn right down the central hallway, then left
-Open the last door on the left to talk to Kandon Ark: 2,2,2
-- Finishes "Inside the Vulkar Base"
-Get the swoop accelerator
-- Watch your health here and medpac if needed
-Return to the exit to Vulkar Base
-Possible save and load before exiting the garage
-- If you have loaded saves an even number of times total prior to this, you'll need to save and load or the turrets will instantly kill you on the way out
-- If you have loaded saves an odd number of times, you should be safe to skip this; you can choose to safety save anyway to be sure
-- If you get both Rancor Juke and Turret Skip without having to reload, and do the recommended reload above, you won't have to save here
-Take first door on right, first door on right, and head back left to exit Vulkar Base 
+- Swap to MC and Enter North Apartments
+  - Make sure Carth follows you, and use Solo Mode to get him in range if he doesn't
+- Inside, activate Solo Mode to control both MC and Carth
+  - As Carth:
+    - Use Security to open apartment on right
+    - Talk to Largo: 1,2 (swaps position with MC)
+      - ***Starts "Largo's Bounty"***
+    - Trigger Sarna's party and loot backpack for Sith Armor
+      - ***Finishes "Invited to a Party"***
+    - Run back in range of the Upper City North
+  - As MC:
+    - Run to second apartment on left
+    - Kill and loot Largo when swapped to his position
+    - Run to door back to Upper City North and exit
+- `Level to 3: Save Skills, Empathy`
+- Run towards Lower City Elevator
+- Carth #2 when prompted (may be after the drunks)
+- Drunks accost you (spam)
+- Near Gorton Colu, Return to Hideout and Transit Back
+  - This sets our transit point for later
+  - ***Finishes "Rapid Transit System"***
+- *Equip MC: Sith Armor*
+- Enter Lower City
 
-**Rescuing Bastila:**
-Return to Hidden Bek base and talk to Gadon Thek
-- Try to avoid using a medpac here as you're full healed at the Swoop Platform
-Successfully win the swoop races
-- Talk to the Race Coordinator before each one
-- Whatever time you get on the first race will be beaten by 0.25s by Redros
-- You'll need to beat Redros's time on the second race, but your swoop accelerates faster
-Kill Brejik using grenades
-- Throw a Poison Grenade first, then Sonic, then Frag
-- He has really high defense, so grenades are the best option
-- The Poison Grenade is guaranteed to hit, and will kill him fairly quickly even if he saves one of the other two grenades
-- The Sonic and Frag grenades will do 10 or 20 damage; if both do 20, he dies immediately; if one does 20, he'll die from poison soon after; if both do 10, the poison will still kill him but it will take 6 seconds longer
-Loot Brejik's corpse and talk to Bastila
-- This takes you back to the apartment hideout
+### Lower City
+- *Equip MC: Combat Suit*
+- After the CS, kill the Vulkar Patrol
+  - Use a frag grenade, then finish up with Carth at close range
+  - Carth gets stuck on these guys if you don't kill them
+- *Stims: Probable Alacrity on MC*
+- Enter East Apartments straight ahead
+- With Carth, use Security to open first apartment on right
+- Kill Matrik: 2
+  - Carth's Power Blast at close range is the best way to kill Matrik
+  - MC can run back to the door to the Lower City during this time
+- When Matrik dies, exit to Lower City
+- Enter Bek Base
+  - Lookout accosts you when you try to enter
+- Activate Solo Mode to leave Carth at entrance
+- Speak with Gadon: 1x10, 3, 2
+- Run MC within range of Lower City, then swap to Carth and leave
+- Swap to MC and run past Vulkar patrol to watch Canderous CS
+- Enter West Apartments and watch Calo Nord CS
+- *Stims: Alacrity on Carth*
+- Kill Selven and the Vulkar patrol:
+  - Use a frag grenade on the Vulkar patrol as soon as they're in sight
+  - Use Carth's Security to open second apartment on right; this may take a couple tries if MC is fighting the Vulkars
+  - Selven's conversation: 3
+  - MC has a very hard time hitting Selven; have him focus on the Vulkars while Carth shoots Selven from close range
+- *Stims: Probable Alacrity on MC*
+- Exit to Lower City
+- *Party: Remove Carth*
+- Enter Undercity
 
-[section=Taris 2]
+### Undercity and Sewers
+- Beggars accost you: 3,1,4
+- Open gate on right to speak to healer: 1,2
+- Avoid rakghouls in pen to speak to outcasts: 2,2
+  - If you get into combat, you'll have to kill the rakghouls, and that's not an easy fight.
+  - ***Starts and Finishes "Infected Outcasts"***
+- Hug the right side of the right ramps to avoid the Igear conversation
+  - This is essential, as we'll use this conversation later for a trick
+- *Party: Add Carth*
+- Kill rakghoul attacking Hendar
+- Mission joins the party
+  - *Party: Keep Mission and Carth when prompted*
+- Enter the Lower Sewers
+- `Level to 4: Str to 19, Save Skills`
+- *Equip MC: Nerve Enhancement Package, Mission's Vibroblade Offhand*
+- *Unequip Carth: Remove Both Blasters to sell later*
+- *Stims: Probable Alacrity on MC*
+- Activate Solo Mode to leave Carth and Mission at ladder
+- Go right, then first door on the left to loot first journal from outcast corpse
+- Go across the hall and open door on left to rescue Zaalbar
+  - *Party: Keep Mission when prompted*
+  - ***Starts "A Rancor in the Sewers"***
+- Bash open footlocker in next room
+- Swap to Mission and use ladder to leave sewers, then immediately reenter
+- *Party: Remove Mission*
+- Take first door on left, straight, first door on left, first door on right
+- Loot second journal from outcast corpse
+- Go back, turn right and use ladder to exit sewers
+- Loot Sith Soldier corpse for rakghoul serum
+- Run back to gate to village
+- *Party: Add Mission*
+- *Stims: Probable Alacrity on MC*
+- Activate Solo Mode
+- Swap to Mission, open the gate, and step just inside as the gate closes itself
+- Swap to MC and run forward to trigger rakghoul skirmish with Canderous's group
+- Ignore this fight and target a rakghoul to the left with a basic attack to move MC
+- Swap to Mission and run forward until just before the last ramp to the left of Igear
+- Swap to MC and loot outcast corpse at back left for last journal
+- Swap to Mission and run forward to trigger Igear's cutscene: 4
+  - This warps the MC to Mission's position
+- Deactivate Solo Mode
+- Talk to Rukil to turn in the journals
+  - ***Starts and Finishes "Rukil's Apprentice"***
+  - ***Starts and Finishes "The Promised Land"***
+- Return to Lower Sewers
+  - Make sure Mission follows you
+- Activate Solo Mode to leave Mission outside of rakghoul range
+- Interact with console to lower force field
+- Enter Upper Sewers
+- *Party: Remove Mission*
+- Take left, then right branch in circular rooms
+- *Stims: Probable Alacrity on MC*
+- Loot pile of bones (+1; 3 Spikes)
+- Rancor Juke to get past the rancor
+  - A safety save is recommended here
+  - Running at the right angle as the rancor approaches you can let you run behind it without it ever being able to attack
+  - You can add the synthesized odor and a frag grenade to the bones instead, but this is slower and we'd like to save our grenades for Davik and Calo
+  - ***Finishes "A Rancor in the Sewers"***
+- Enter the Vulkar Base
+  - ***Optional:*** If you've used a lot of medpacs, there's three in the corpse on the right you can loot for backup
+  - ***Starts "Inside the Vulkar Base"***
 
-**Hideout:**
-Carth and Bastila accost you: 1,1,1 | 2
-- Finishes "The Search for Bastila"
-- Starts "Escaping Taris"
-) Upgrade Prototype Vibroblade with Energy Projector
-Bastila #1 and Carth #3
-- The Bastila conversation can be skipped, but then she'll try to talk to you while you're moving later, so it's best to mash through it quickly here
-- Starts "Bastila"
-> Level to 5: Com/TI to 8, Improved Two-Weapon Fighting
-Carth #4
-Exit the hideout with Bastila
-Twi'lek accosts you
-} Equip two Vibroblades to Bastila
-> Level Bastila to 4: Cha to 16, Save Skills, Burst of Speed
-} In Options -> Gameplay, activate the Auto-Level option for party members; this makes them easier to keep alive when they're active in your party later
-Use Bastila's Burst of Speed to enter the Upper City Cantina
-- Be careful that the MC follows you and doesn't get stuck; try to keep a clear path between him and Bastila until he speeds up his pace
-Inside the Cantina, Canderous accosts you
-- Starts "Purchasing a Droid"
+### Vulkar Base
+- Turn right and head to end of hallway
+- Defense Turret Skip:
+  - Open door to elevator area
+  - Stand in doorframe corner near terminal and make a manual save
+  - If you've loaded saves an *even number of times* (including 0), load the manual save to (hopefully) avoid having to make an extra save later
+  - Loading a save here will also likely duration glitch your Alacrity, allowing you to avoid using more until the Duel Ring
+  - Pause the game, then queue two concussion grenades on the center turret
+  - Unpause; if any turret remains active after both grenades, load the safety save and try again
+  - If all three turrets are stunned, take the elevator to the Garage
+  - There is a 59.6% chance to stun all three with two grenades. Good luck!
+- In the garage, take hallway on right and last door on right
+- Loot garage head's desk and supplies (+2; 5 Spikes)
+- Return to main area and turn right down the central hallway, then left
+- Open the last door on the left to talk to Kandon Ark: 2,2,2
+  - ***Finishes "Inside the Vulkar Base"***
+- Get the swoop accelerator
+  - Watch your health here and medpac if needed
+- Return to the exit to Vulkar Base
+- Possible save and load before exiting the garage
+  - If you have loaded saves an even number of times total prior to this, you'll need to save and load or the turrets will instantly kill you on the way out
+  - If you have loaded saves an odd number of times, you should be safe to skip this; you can choose to safety save anyway to be sure
+  - If you get both Rancor Juke and Turret Skip without having to reload, and do the recommended reload above, you won't have to save here
+- Take first door on right, first door on right, and head back left to exit Vulkar Base 
 
-**The Duel Ring:**
-After the Duel Ring CS, talk to Ajuur with MC
-- Starts "The Duel Ring"
-Then alternate who you talk to Ajuur with each time; Bastila after Duncan, MC after Gerlon, etc.
-You'll have to talk to Ajuur twice between each duel, the second time always as MC
-Use Adrenal Strength in the arena before Ice, Marl, and Twitch
-- If you bought extra stims from Zelka, use Strength before Gerlon also
-*Optional but Recommended:* Use a Concussion Grenade against Twitch at the start; if the 45% stun works, his fight is consistently 2-3 rounds, whereas without it's usually 6-7 rounds (or worse)
-Try to bump your enemies as well; this can cancel or delay their attacks
-*DO NOT* speak to Ajuur after defeating Twitch
-Use Bastila's Burst of Speed to speak to Bendak to setup his fight
-Leave and reenter Upper City Cantina
-- This is needed to trigger the Bendak fight
-Talk to Ajuur with Bastila
-Kill Bendak
-- In the arena, use all three basic adrenals and the Battle Stimulant
-- Bumping Bendak is key here; this keeps his blaster equipped for longer, giving you a +10 attack bonus for Melee vs. Ranged.  
-- If you can keep his blaster equipped long enough, Bendak can die in 4 rounds; once he draws his sword, it's much tougher to hit him.
-- Finishes "The Duel Ring"
-- Starts "Bendak's Bounty"
-Talk to Ajuur twice with MC: 2,2,2 | none
-- This replaces Twitch's reward with an extra copy of Bendak's
-Swap to Bastila
-} Cast Burst of Speed and exit to the Upper City
+### Rescuing Bastila
+- Return to Hidden Bek base and talk to Gadon Thek
+  - Try to avoid using a medpac here as you're full healed at the Swoop Platform
+- Successfully win the swoop races
+  - Talk to the Race Coordinator before each one
+  - Whatever time you get on the first race will be beaten by 0.25s by Redros
+  - You'll need to beat Redros's time on the second race, but your swoop accelerates faster
+- Kill Brejik using grenades
+  - Throw a Poison Grenade first, then Sonic, then Frag
+  - He has really high defense, so grenades are the best option
+  - The Poison Grenade is guaranteed to hit, and will kill him fairly quickly even if he saves one of the other two grenades
+  - The Sonic and Frag grenades will do 10 or 20 damage
+    - If both do 20, he dies immediately
+    - If one does 20, he'll die from poison soon after
+    - If both do 10, the poison will still kill him but it will take 6 seconds longer
+- Loot Brejik's corpse and talk to Bastila
+  - This takes you back to the apartment hideout
 
-**Upper City North:**
-Use Bastila's Burst of Speed to return to South Apartments
-- Again, make sure the MC follows you
-In South Apartments, Transit Back to Upper City North
-Activate Solo Mode
-As Bastila, click the Droid Shop door
-Swap to MC and run him to the elevator to Lower City
-Swap to Bastila and talk to Janice: 2,4,1
-- This swaps MC and Bastila's position
-- Finishes "Purchasing a Droid"
-} Add T3 to party when prompted
-} Unequip T3's armor and shield
-As MC, talk to Janice Nall again: 1
----------------------------------------------------------
-*SHOPPING: Janice Nall*
-**BUY:**
-- 2x Computer Spikes
-**SELL ALL EXCEPT:**  
-- Medpacs
-- Computer Spikes
-- Double-bladed Saber
-- All Grenades
-- All Stims
-End: ~6269 Credits
----------------------------------------------------------
-Deactivate Solo Mode, swap to Bastila, and click the elevator door
-- This warps MC to the elevator for a convo with the Sith guard
-Swap to Bastila and run to the Sith Base, then open it with T3
-Enter the Sith Base as MC
+## Taris 2
 
-**Sith Base:**
-Secretary accosts you: 3,1
-As T3, hack terminal in secretary's desk: 1,1,2,2,2,8,3 (-3; 5 Spikes)
-- If you don't use T3, you won't have enough spikes for Davik's Estate
-Activate Solo Mode; we'll control MC and Bastila simultaneously
-As MC:
-- Run to end of central hall and kill both patrol droids
-- Kill the patrol droid in the right hallway
-As Bastila:
-- Run down right hallway and enter barracks
-- Loot footlocker for passcard to elevator
-- Wait at the next door until MC kills all 3 patrol droids, then open it to fight the assault droid
-Assault Droid fight:
-- Bastila: Use Concussion Grenade, then Flurry Assault Droid
-- MC: Flurry Assault Droid (the NEP protects you from the Concussion Grenade)
-- T3: Shield Disruptor x2 on each blaster turret
-- If you got a random Concussion grenade drop or didn't use the one on Twitch, have T3 use one on the droid as well.
-- With one Concussion, it's a 55% chance to stun; with two it's 79.75%
-- The fight is pretty clean with a stun and a slog without it.  Good luck!
-Enter the elevator
-Sith Governor fight:
-- MC: Sonic Grenade, then Flurry
-- Bastila: Stun x2 (Force power), then Flurry
-- T3: Stun Ray x4
-- T3's Stun Ray has a 25% chance to stun the governor each time
-- Bastila's Stun has only a 15% chance, but it lowers his Defense by 4 each time he saves; when stunned, his defense is lowered by 8 total.  These stack, so if he gets stunned MC should have no problem finishing him off.
-Loot both strongboxes and Sith Governor's corpse for Launch Codes (+3; 8 Spikes)
-Exit the Sith Base with Bastila's Burst of Speed
-- Be careful that MC and T3 follow you here
+### Hideout
+- Carth and Bastila accost you: 1,1,1 | 2
+  - ***Finishes "The Search for Bastila"***
+  - ***Starts "Escaping Taris"***
+- Workbench: Upgrade Prototype Vibroblade with Energy Projector
+- Bastila #1 and Carth #3
+  - The Bastila conversation can be skipped, but then she'll try to talk to you while you're moving later, so it's best to mash through it quickly here
+  - ***Starts "Bastila"***
+- `Level to 5: Com/TI to 8, Improved Two-Weapon Fighting`
+- Carth #4
+- Exit the Hideout
+  - *Party: Add Bastila when prompted*
+- Twi'lek accosts you
+- *Equip Bastila: Two Vibroblades*
+- 'Level Bastila to 4: Cha to 16, Save Skills, Burst of Speed'
+  - Setting Charisma to 16 gives her just enough FP to cast Speed twice  
+- In Options -> Gameplay, activate the Auto-Level option for party members; this makes them easier to keep alive when they're active in your party later
+- Use Bastila's Burst of Speed to enter the Upper City Cantina
+  - Be careful that the MC follows you and doesn't get stuck; try to keep a clear path between him and Bastila until he speeds up his pace
+- Inside the cantina, Canderous accosts you
+  - ***Starts "Purchasing a Droid"***
 
-**Davik's Estate:**
-Open Lower City elevator
-} Remove Bastila and T3 before entering
-- They get stuck on the hostile Vulkars in the Lower City
-Enter Javyar's Cantina and Canderous accosts you: 1
-- Don't accidentally leave before talking to Zax!
-} Add a party member and use Solo Mode to leave them at Canderous
-Talk to Zax: 1,2,3,1x13,2
-- Finishes "Rakghoul Serum"
-- Starts and Finishes "Selven's Bounty" and "Matrik's Bounty"
-- Finishes "Dia's Bounty", "Largo's Bounty", and "Bendak's Bounty"
-*Optional Journal Check: Active Quests should be "Carth", "Bastila", and "Escaping Taris".*
-Swap to party member and talk to Canderous: 2,1
-- Starts "Canderous"
-} Add T3 to party when prompted
-Evil Malak cutscene
-Mash through Davik/Calo conversation
-Talk to Canderous for his intro conversation
-Leave room and take door on right and door immediately on left
-Once in room with guards, switch to T3
-Hack security terminal with T3: 1,2,2,4,3 (-8; 0 Spikes)
-Switch back to MC and enter the hangar
-Calo/Davik fight:
-- This fight ends if we get Calo to <50% Vitality
-- T3: Shield Disruptor x2
-- MC/Canderous: Frag Grenades (2 for MC, 1 for Canderous)
-- He will fall in two rounds unless he saves against all 3 Frag Grenades (a 34.3% chance); if so, a third Shield Disruptor will kill him
-Loot Davik's corpse for cool stuff to sell later
-Board the Ebon Hawk
-- Finishes "Escaping Taris"
-- Starts and Finishes "Taris: Planetary Information"
-- Starts "The Ebon Hawk"
-Watch cool cutscenes and destroy the Sith fighters
+### The Duel Ring
+- After the Duel Ring CS, talk to Ajuur with MC
+  - Starts ***"The Duel Ring"***
+- Then alternate who you talk to Ajuur with each time; Bastila after Duncan, MC after Gerlon, etc.
+- You'll have to talk to Ajuur twice between each duel, the second time always as MC
+- *Stims: Strength on MC in the arena before Ice, Marl, and Twitch*
+  - ***Optional:*** If you bought extra stims from Zelka, *Stims: Strength on MC before Gerlon also*
+  - ***Optional but Recommended:*** Use a Concussion Grenade against Twitch at the start; if the 45% stun works, his fight is consistently 2-3 rounds, whereas without it's usually 6-7 rounds (or worse)
+- Try to bump your enemies as well; this can cancel or delay their attacks
+- *DO NOT* speak to Ajuur after defeating Twitch
+- Use Bastila's Burst of Speed to speak to Bendak to setup his fight
+- Leave and reenter Upper City Cantina
+  - This is needed to trigger the Bendak fight
+- Talk to Ajuur with Bastila
+- Kill Bendak
+  - *Stims: Alacrity, Strength, Stamina, Battle Stim on MC*
+  - Bumping Bendak is key here; this keeps his blaster equipped for longer, giving you a +10 attack bonus for Melee vs. Ranged.  
+  - If you can keep his blaster equipped long enough, Bendak can die in 4 rounds; once he draws his sword, it's much tougher to hit him.
+  - ***Finishes "The Duel Ring"***
+  - ***Starts "Bendak's Bounty"***
+- Talk to Ajuur twice with MC: 2,2,2 | none
+  - This replaces Twitch's reward with an extra copy of Bendak's
+- Swap to Bastila
+- Cast Burst of Speed and exit to the Upper City
 
-[section=Dantooine 1]
+### Upper City North
+- Use Bastila's Burst of Speed to return to South Apartments
+  - Again, make sure the MC follows you
+- In South Apartments, Transit Back to Upper City North
+- Activate Solo Mode
+- As Bastila, click the Droid Shop door
+- Swap to MC and run him to the elevator to Lower City
+- Swap to Bastila and talk to Janice: 2,4,1
+  - This swaps MC and Bastila's position
+  - *Party: Add T3 when prompted*
+  - ***Finishes "Purchasing a Droid"***
+- *Unequip T3: Droid Light Plating Type 1 and Energy Shield Level 1*
+- As MC, talk to Janice Nall again: 1
 
-**Jedi Enclave:**
-} Use Adrenal Alacrity and equip Clothes to MC
-Belaya accosts you
-Speak with the Council
-Watch the dream cutscene
-Carth accosts you
-} Leave party empty when prompted
-- Starts "The Jedi Council"
-} Use Adrenal Alacrity
-Speak with the Council again
-- Finishes "The Jedi Council"
-Go get a sandwich during the training montage
-Talk to Master Zhar twice: 1,1 | 1,1,6,3,2,6,4
-- Starts "Jedi Trials"
-Talk to Master Dorak to become a Jedi Guardian
-> Level 6: Save Skills, Improved Flurry, Burst of Speed and Force Valor
-> Level 7: Persuade to 10, Affect Mind
-Talk to Master Zhar again to construct lightsaber
-Talk to Zhar a fourth time (ugh)
-} Equip Double-bladed Lightsaber and Strength Gauntlets
-Leave the Enclave
+```
+SHOPPING: Janice Nall
+- BUY:
+  - 2x Computer Spikes
+- SELL ALL EXCEPT:
+  - Medpacs
+  - Computer Spikes
+  - Double-bladed Saber
+  - All Grenades
+  - All Stims
+- End: ~6269 Credits
+```
 
-**Dantooine Savannah:**
+- Deactivate Solo Mode, swap to Bastila, and click the elevator door
+  - This warps MC to the elevator for a convo with the Sith guard
+- Swap to Bastila and run to the Sith Base, then open it with T3
+- Enter the Sith Base as MC
+
+### Sith Base
+- Secretary accosts you: 3,1
+- As T3, hack terminal in secretary's desk: 1,1,2,2,2,8,3 (-3; 5 Spikes)
+  - If you don't use T3, you won't have enough spikes for Davik's Estate
+- Activate Solo Mode; we'll control MC and Bastila simultaneously
+- As MC:
+  - Run to end of central hall and kill both patrol droids
+  - Kill the patrol droid in the right hallway
+- As Bastila:
+  - Run down right hallway and enter barracks
+  - Loot footlocker for passcard to elevator
+  - Wait at the next door until MC kills all 3 patrol droids, then open it to fight the assault droid
+- Assault Droid fight:
+  - Bastila: Use Concussion Grenade, then Flurry Assault Droid
+  - MC: Flurry Assault Droid (the NEP protects you from the Concussion Grenade)
+  - T3: Shield Disruptor x2 on each blaster turret
+  - If you got a random Concussion grenade drop or didn't use the one on Twitch, have T3 use one on the droid as well
+  - With one Concussion, it's a 55% chance to stun; with two it's 79.75%
+  - The fight is pretty clean with a stun and a slog without it.  Good luck!
+- Enter the elevator
+- Sith Governor fight:
+  - MC: Sonic Grenade, then Flurry
+  - Bastila: Stun x2 (Force Power), then Flurry
+  - T3: Stun Ray x4
+  - T3's Stun Ray has a 25% chance to stun the governor each time
+  - Bastila's Stun has only a 15% chance, but it lowers his Defense by 4 each time he saves; when stunned, his defense is lowered by 8 total.
+    - These stack, so if he gets stunned MC should have no problem finishing him off.
+- Loot both strongboxes and Sith Governor's corpse for Launch Codes (+3; 8 Spikes)
+- Exit the Sith Base with Bastila's Burst of Speed
+  - Be careful that MC and T3 follow you here
+
+### Davik's Estate
+- Open Lower City elevator
+  - *Party: Remove Bastila and T3 before entering*
+  - They get stuck on the hostile Vulkars in the Lower City
+- Enter Javyar's Cantina and Canderous accosts you: 1
+  - Don't accidentally leave before talking to Zax!
+- *Party: Add T3*
+- Activate Solo Mode to leave T3 at Canderous
+- Talk to Zax: 1,2,3,1x13,2
+  - ***Finishes "Rakghoul Serum"***
+  - ***Starts and Finishes "Selven's Bounty" and "Matrik's Bounty"***
+  - ***Finishes "Dia's Bounty", "Largo's Bounty", and "Bendak's Bounty"***
+  - ***Optional Journal Check: Active Quests should be "Carth", "Bastila", and "Escaping Taris".***
+- Swap to T3 and talk to Canderous: 2,1
+  - *Party: Add T3 when prompted*
+  - ***Starts "Canderous"***
+- Evil Malak cutscene
+- Mash through Davik/Calo conversation
+- Once you gain control, talk to Canderous for his intro conversation
+- Leave room and take door on right and door immediately on left
+- Once in room with guards, swap to T3
+- Hack security terminal with T3: 1,2,2,4,3 (-8; 0 Spikes)
+- Switch back to MC and enter the hangar
+- Calo/Davik fight:
+  - This fight ends if we get Calo to <50% Vitality
+  - T3: Shield Disruptor x2
+  - MC/Canderous: Frag Grenades (2 for MC, 1 for Canderous)
+  - He will fall in two rounds unless he saves against all 3 Frag Grenades (a 34.3% chance); if so, a third Shield Disruptor will kill him
+- Loot Davik's corpse for cool stuff to sell later
+- Board the Ebon Hawk
+  - ***Finishes "Escaping Taris"***
+  - ***Starts and Finishes "Taris: Planetary Information"***
+  - ***Starts "The Ebon Hawk"***
+- Watch cool cutscenes and finish the forced Fighter Skirmish
+
+## Dantooine 1
+
+### Jedi Enclave
+- *Equip MC: Clothes (or Nothing)*
+- ***Optional:*** If you bought extra stims from Zelka, *Stims: Alacrity on MC*
+- Belaya accosts you
+- Speak with the Council
+- Watch the dream cutscene
+- Carth accosts you
+  - *Party: Leave empty when prompted*
+  - ***Starts "The Jedi Council"***
+- *Stims: Alacrity on MC*
+  - This should be your last Alacrity stim
+- Speak with the Council again
+  - ***Finishes "The Jedi Council"***
+- Go get a sandwich during the training montage
+- Talk to Master Zhar twice: 1,1 ... 1,1,6,3,2,6,4
+  - ***Starts "Jedi Trials"***
+- Talk to Master Dorak to become a Jedi Guardian
+- `Level 6: Save Skills, Improved Flurry, Burst of Speed and Force Valor`
+- `Level 7: Persuade to 10, Affect Mind`
+- Talk to Master Zhar again to construct lightsaber
+- Talk to Zhar a fourth time (ugh)
+- *Equip MC: Double-bladed Lightsaber, Strength Gauntlets*
+- Leave the Enclave
+
+### Dantooine Savannah
 
 *Movement Note: Force Jump is now available, and it's the fastest form of movement for Glitchless runs.  Try to line up Force Jumps wherever possible, and otherwise make sure you have Force Speed active.*
 
 *Level Up Note: All level ups from here on out can and should be used as soon you get them, with the important exception of Level 12.  Level ups are listed at the latest point you can get them; due to randomness in killing Force Jump targets, you may and likely will get them earlier.*
 
-Jon accosts you
-- Starts "Mandalorian Raiders"
-Talk to Elise
-- Starts "Missing Companion"
-After Kath Hound CS, take nearest load zone to Matale Grounds
-Run straight through to Grove
-Turn left and head over bridge
-Bolook accosts you: 2,2,2
-- Starts and Finishes "Murdered Settler"
-} Use Adrenal Strength; Cast Force Valor
-Loot the Mandalorian corpse in front of Juhani
-Defeat Juhani and convince her to return to the Jedi
-- During the fight, loot the Mandalorian corpse behind Juhani and use a Battle Stimulant immediately
-Return to Ebon Hawk
-Talk to Zhar to pass the Jedi Trials
-- Finishes "Jedi Trials"
-- Restarts "The Jedi Council"
-Talk to Vandar
-} Leave Bastila in the party when prompted (can't remove her)
-- Refinishes "The Jedi Council"
-- Starts "Investigate Ruins"
-- Starts "Sandral-Matale Feud"
-} Remove Bastila from party and Transit Back
+- Jon accosts you
+  - ***Starts "Mandalorian Raiders"***
+- Talk to Elise
+  - ***Starts "Missing Companion"***
+- After Kath Hound CS, take nearest load zone to Matale Grounds
+- Run straight through to Grove
+- Turn left and head over bridge
+- Bolook accosts you: 2,2,2
+  - ***Starts and Finishes "Murdered Settler"***
+- *Stims/Force: Strength on MC, Cast Force Valor*
+- Loot the Mandalorian corpse in front of Juhani
+- Defeat Juhani and convince her to return to the Jedi
+  - During the fight, loot the Mandalorian corpse behind Juhani and *Stims: Battle Stim on MC immediately*
+- Return to Ebon Hawk
+- Talk to Zhar to pass the Jedi Trials
+  - ***Finishes "Jedi Trials"***
+  - ***Restarts "The Jedi Council"***
+- Talk to Vandar
+  - *Party: Keep Bastila when prompted*
+  - ***Refinishes "The Jedi Council"***
+  - ***Starts "Investigate Ruins"***
+  - ***Starts "Sandral-Matale Feud"***
+- *Party: Remove Bastila*
+- Transit Back to Grove
 
-**Dantooine Ruins:**
-Take nearest exit to Matale Grounds
-Loot Casus Sandral's corpse between the three kath hounds
-- Starts "Dead Settler"
-Exit to Courtyard
-Hug right wall when approaching ruins door to skip a CS
-} Add Mission (and keep Bastila) when prompted inside
-Rakatan Droid accosts you
-Activate Solo Mode; we'll control all three party members here, so try to intersperse these actions
-As MC:
-- Open right hand door
-- Force Jump to droid
-- Interact with console: 3,5,3,3,3,4
-As Bastila:
-- Cast Force Speed
-- Open left hand door
-- Interact with console: 3,5,3,1,1,3
-As Mission:
-- Move towards center door
-- Once MC and Bastila have finished their consoles, approach middle door to open it
+### Dantooine Ruins
+- Take load zone to Matale Grounds
+- Loot Casus Sandral's corpse between the three kath hounds
+  - ***Starts "Dead Settler"***
+- Exit to Courtyard
+- Hug right wall when approaching ruins door to skip a CS
+- *Party: Add Mission, Keep Bastila when prompted inside*
+- Rakatan Droid accosts you
+- Activate Solo Mode; we'll control all three party members here, so try to intersperse these actions
+  - As MC:
+    - Open right hand door
+    - Force Jump to droid
+    - Interact with console: 3,5,3,3,3,4
+  - As Bastila:
+    - Cast Force Speed
+    - Open left hand door
+    - Interact with console: 3,5,3,1,1,3
+  - As Mission:
+    - Move towards center door
+    - Once MC and Bastila have finished their consoles, approach middle door to open it
 - Deactivate Solo Mode and enter the Star Map room
-Star Map: Dantooine
-- Finishes "Investigate Ruins"
-Loot Nemo's corpse as you leave the ruins
+- Star Map: Dantooine
+  - ***Finishes "Investigate Ruins"***
+- Loot Nemo's corpse as you leave the ruins
 
-**Leaving Dantooine:**
-Mission #1-#3: 1 | 1,1,4,1 | 1x13, 2
-Bastila #2 and #3: 2, 1spam both times
-Return to Ebon Hawk
-Lena accosts you after a short delay
-- Starts "Mission's Brother"
-Speak with the council
-- Starts "A Quest for the Star Forge"
-- Starts "Juhani"
-Transit Back, then Return to Ebon Hawk and board
-Canderous #1 and #2: 1x6, 2, 1x4, 3
-) Upgrade Double-bladed Lightsaber with Sigil Crystal
-} Equip Jedi Knight Robe
-Juhani Intro and History #1: spam | spam
-Bastila #4 and #5: 2, 1spam both times
-Carth #6
-Fly to Tatooine
-- Finishes "The Ebon Hawk"
+### Leaving Dantooine
+- Mission #1-#3: 1 ... 1,1,4,1 ... 1x13, 2
+- Bastila #2 and #3: 2, 1spam ... 2, 1spam
+- Return to Ebon Hawk
+- Lena accosts you after a short delay
+  - ***Starts "Mission's Brother"***
+- Speak with the council
+  - Starts ***"A Quest for the Star Forge"***
+  - Starts ***"Juhani"***
+- Transit Back, then Return to Ebon Hawk and board
+- Canderous #1 and #2: 1x6, 2, 1x4, 3
+- Workbench: Upgrade Double-bladed Lightsaber - Add Sigil Crystal
+- *Equip MC: Jedi Knight Robe*
+- Juhani Intro and History #1
+- Bastila #4 and #5: 2, 1spam ... 2, 1spam
+- Carth #6
+- Fly to Tatooine
+  - ***Finishes "The Ebon Hawk"***
 
-[section=Tatooine 1]
+## Tatooine 1
 
 **Docking Bay:**
 Bastila #6 and Carth #6
