@@ -39,7 +39,7 @@ Due to its glitchy nature, QUICKSAVE is banned as well.  Manual and autosaves, h
 
 ### Character Creation
 
-Male Scout - Male and Female characters are comparable timewise; Male is slightly faster, as the NPC for the Invited to a Party quest (Sarna) is closer to the cantina door than that for the female (Yun Genda).  In addition, as a Male the Carth quest completes as soon as you gain access to the Finding Dustil sidequest.
+Male Scout - Male and Female characters are roughly comparable timewise; Male is slightly faster, as the NPC for the Invited to a Party quest (Sarna) is closer to the cantina door than that for the female (Yun Genda).  In addition, as a Male the Carth quest completes as soon as you gain access to the Finding Dustil sidequest, whereas a female must talk to him several more times before his quest completes.  This guide will assume a Male character.
 
 Scout is picked for automatic access to Flurry, Implant Level 2 and Computer Use as a Class Skill.
 
@@ -387,6 +387,7 @@ Notation:
 - *Inventory/Equipment changes are highlighted in italics*
 - **Item Upgrades at a workbench are highlighted in bold**
 - `Shopping trips are highlighted in large code blocks`
+- ***Quest Updates are highlighted in bold and italics***
 
 Conversation Notes: 
 - If no conversation choices are specified, spamming will work (this chooses all 1 options).
@@ -415,90 +416,94 @@ Quest Notes:
 
 ## Endar Spire
 
-**Character Creation:**
-> Male Scout - Custom Character
-> Choose Mullet Man (or not, but Mullet Man is the best)
-> Str to 18, Dex to 12, Con to 12, Int to 10, Cha to 12
-> Computer Use to 4, Treat Injury to 4, Save Rest
-> Initial Feat - Weapon Focus: Melee Weapons
-> Pick a good name!
-> Timer starts when you hit Play!
+### Character Creation
+- Male Scout - Custom Character
+- Choose Mullet Man (or not, but Mullet Man is the best)
+- Str to 18, Dex to 12, Con to 12, Int to 10, Cha to 12
+- Computer Use to 4, Treat Injury to 4, Save Rest
+- Initial Feat - Weapon Focus: Melee Weapons
+- Pick a good name!
+- Timer starts when you hit Play!
 
-**Endar Spire:**
-Trask accosts you (spam)
-- Starts "Attack on the Endar Spire"
-Loot footlocker
-} Equip Short Sword
-Talk to Trask to recruit him
-} Equip second blaster to Trask's offhand
-Switch to Trask and open door
-Switch back to Trask and Carth accosts you
-Switch back to Trask and use security on door
-Kill two Sith Soldiers with Trask's Power Blast as MC runs past
-Loot footlocker in next room
-Cutscene of Sith vs. Republic
-Kill front three Sith Soldiers with frag grenade
-Jedi vs. Sith cutscene
-Loot Jedi for Vibration Cell/Adrenal Strength
-Kill two Sith soldiers with Trask's Power Blast
-Kill front two Sith soldiers on bridge with Trask
-> Level to 2: Save Skills, Two-Weapon Fighting
-Watch poor Trask sacrifice himself
-Enter Starboard Section
+### Command Module
+- Trask accosts you (spam)
+  - ***Starts "Attack on the Endar Spire"***
+- Loot footlocker
+- *Equip MC: Short Sword*
+- Talk to Trask to recruit him
+- *Equip Trask: Blaster Pistol Offhand*
+- Switch to Trask and open door
+- Switch back to Trask and Carth accosts you
+- Switch back to Trask and use Security on door
+- After the CS, kill two Sith Soldiers with Trask's Power Blast as MC runs past
+- Loot footlocker in next room
+- After Sith vs. Republic CS, kill front three Sith Soldiers with frag grenade
+- Jedi vs. Sith cutscene
+  - The Jedi can actually miss, so pray that she doesn't
+- Kill the two Sith soldiers with Trask's Power Blast
+- Loot Jedi for Vibration Cell/Adrenal Strength
+- Kill front two Sith soldiers on bridge with Trask
+- `Level to 2: Save Skills, Two-Weapon Fighting`
+- Watch poor Trask sacrifice himself
+- Enter Starboard Section
 
-**Starboard Section:**
-Loot footlocker in Terminal Room (+5 Spikes; 5 Total)
-Hack terminal console: 2,3 (-4; 1 Spike)
-Loot Sith Commander for Prototype Vibroblade
-Carth accosts you
-Take Escape Pod to Taris
-- Finishes "Attack on the Endar Spire"
+### Starboard Section
+- Loot footlocker in Terminal Room (+5 Spikes; 5 Total)
+- Hack terminal console: 2,3 (-4; 1 Spike)
+- Loot Sith Commander for Prototype Vibroblade
+- Carth accosts you
+- Take Escape Pod to Taris
+  - ***Finishes "Attack on the Endar Spire"***
 
-[section=Taris 1]
+### Taris 1
 
 *Note on Alacrity: We want Adrenal Alacrity to be active on the MC for as much of Taris as possible.  The route obtains 10-11 Alacrities, and we want two leftover when we reach Dantooine. The route notes where Alacrities will usually be used, but you may find it varies slightly, so try it out yourself to get used to it!*
 
-**South Apartments:**
-Carth accosts you: 4,3,2,5,3
-- Starts "The Search for Bastila"
-Loot footlocker for spikes and medpacs (+2; 3 Spikes)
-} Equip Prototype Vibroblade mainhand, Vibroblade offhand, Combat Suit
-} Use Adrenal Alacrity
-Exit apartments (forced to bring Carth)
-Use MC's flurry to kill the Sith Patrol
-Activate Solo Mode and use Carth's Security to open the first door on the right
-Loot Dia's bag with Carth
-- Note whether you get a Computer Spike, Parts, or both
-After Duros accosts you, loot the backpack for grenades and stims
-Speak to and kill Dia with Carth: 1,1,1,2,2,2,1
-- The last 1 is only necessary if both Carth and MC are in the apartment
-- Starts "Dia's Bounty"
-Deactivate Solo Mode
-Larrim accosts you: 1,2,4
----------------------------------------------------------
-*SHOPPING:* Larrim
-**SELL ALL EXCEPT:**
-- 3 Computer Spikes (if you got one from Dia's bag, sell it)
-- Vibroblade
-- Grenades
-- Stims
-**BUY:**
-- 2x Concussion Grenade
-- Battle Stimulant
-End: ~1100 or ~1200 Credits (1100 with only one of Parts or Spike, 1200 with both)
-*There is a small chance (~10%) that you'll be slightly under 1100 or 1200.  If this happens, sell one medpac, as it's important to be above your target for Zelka's stims later.*
----------------------------------------------------------
-Exit to Upper City South
-- Starts "Rapid Transit System"
+### South Apartments
+- Carth accosts you: 4,3,2,5,3
+  - ***Starts "The Search for Bastila"***
+- Loot footlocker for spikes and medpacs (+2; 3 Spikes)
+- *Equip MC: Prototype Vibroblade Mainhand, Vibroblade Offhand, Combat Suit*
+- *Stims: Alacrity on MC*
+- Exit apartments
+  - *Party: Keep Carth when prompted*
+- Use MC's Flurry to kill the Sith Patrol
+- Activate Solo Mode and use Carth's Security to open the first door on the right
+- Loot Dia's bag with Carth
+  - Note whether you get a Computer Spike, Parts, or both
+- After Duros accosts you, loot the backpack for grenades and stims
+- Speak to and kill Dia with Carth: 1,1,1,2,2,2,1
+  - The last 1 is only necessary if both Carth and MC are in the apartment
+  - ***Starts "Dia's Bounty"***
+- Deactivate Solo Mode
+- Larrim accosts you: 1,2,4
 
-**Upper City South:**
-Run to Upper City Cantina and enter it
-- Do Carth #1 when prompted
-- Starts "Carth"
-Activate Solo Mode
-Carth opens door
-Talk to Sarna: 1,1,3,2,1,1,1
-- Starts "Invited to a Party"
+```
+SHOPPING: Larrim
+- SELL ALL EXCEPT:
+  - 3 Computer Spikes (if you got one from Dia's bag, sell it)
+  - Vibroblade
+  - Grenades
+  - Stims
+- BUY
+  - 2x Concussion Grenade
+  - Battle Stimulant
+- End: ~1100 or ~1200 Credits (1100 with only one of Parts or Spike, 1200 with both)
+- Note: There is a small chance (~10%) that you'll be slightly under 1100 or 1200.
+- If this happens, sell one Medpac, as it's important to be above your target for Zelka's stims.
+```
+
+- Talk to Carth for Carth #1 after shopping
+  - ***Starts "Carth"***
+- Exit to Upper City South
+  - ***Starts "Rapid Transit System"***
+
+### Upper City South
+- Run to Upper City Cantina and enter it
+- Activate Solo Mode
+- Carth opens door
+- Talk to Sarna: 1,1,3,2,1,1,1
+  - ***Starts "Invited to a Party"***
 Swap to Carth and leave the Cantina
 Run towards Upper City North
 Activate Solo Mode near the sculpture at the end
