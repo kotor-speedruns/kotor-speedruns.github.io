@@ -51,8 +51,8 @@ Here's some useful external links that can be helpful for KotOR I speedrunning.
 
 - [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu)
 - [Leaderboards](https://www.speedrun.com/kotor1)
-- [Bingo and Randomizer Downloads](https://www.speedrun.com/kotor1/resources)
-- [Randomizer Helper](https://docs.google.com/spreadsheets/d/1KXacPUuyjH_u71wKQwp5PA_JubrDp3C8eoBRTwphyf4/edit#gid=1503305590)
+- [Bingo and Randomizer Downloads](https://www.speedrun.com/kotor1/resources) (Bingo by [indykenobi](https://www.speedrun.com/users/indykenobi), Randomizer by [Lane](https://www.speedrun.com/users/Lane) and [glasnonck](https://www.speedrun.com/users/glasnonck))
+- [Randomizer Helper](https://docs.google.com/spreadsheets/d/1KXacPUuyjH_u71wKQwp5PA_JubrDp3C8eoBRTwphyf4/edit#gid=1503305590) by [glasnonck](https://www.speedrun.com/users/glasnonck)
 - [Walkmesh Visualizer](https://github.com/glasnonck/WalkmeshVisualizer) by [glasnonck](https://www.speedrun.com/users/glasnonck)
 - [KotOR 1 StrategyWiki](https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic)
 
