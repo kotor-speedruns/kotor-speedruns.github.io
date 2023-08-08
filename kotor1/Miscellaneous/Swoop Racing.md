@@ -51,11 +51,8 @@ While most settings are irrelevant to swoops there are a few things you will nee
 KotOR Swoop Racing is quite difficult to understand due to the game giving only a very basic overview of controls and almost nothing as to the mechanics.
 
 1. **Start:** To get the fastest start possible simply spam left click and/or space (I personally do both)
-
 2. **Shifting:** Knowing when to shift is the MOST important thing if you want to get really good times. While the time to hit each of your four shifts varies from track to track generally speaking shifting just before hitting a boost pad will gain you the most speed. While you can shift by pressing space left clicking is more optimal as it will have a slightly faster response time.
-
 3. **Hitting Boosts:** A very common misconception about swoop racing is that the more you swerve to hit boosts the slower you go, however it has absolutely no effect on your speed at all. Additionally due to swoops having a max speed it is pointless to hit the last boost pad on the track if you have hit every other one beforehand.
-
 4. This is not easy by any stretch, so know it can take hours of grinding just to get a leaderboard time. If you do so happen to get a WR you have about 3-8 hours before [wurwilf](https://www.speedrun.com/users/wurwilf) inevitably breaks it so make sure you get your time well below his. He has done this to me three times, the man cannot be stopped.
 
 There are three swoop tracks in KotOR and two IL categories: Single Lap and Planet Circuit (The Swoop Quest). I will be going in order of what I believe to be the easiest to hardest to master.
@@ -64,23 +61,23 @@ There are three swoop tracks in KotOR and two IL categories: Single Lap and Plan
 
 #### Shifts
 
-1. Your first shift will become available to you well before the second boost thus waiting until just before the boost to shift is less than ideal. The most optimal time is shortly after you shift bar maxes out. The way I time it is to wait until the red bar first changes shades (Note: It will not always flash in the order of pink to red it so do not shift as soon as you see dark red).
+- Your first shift will become available to you well before the second boost thus waiting until just before the boost to shift is less than ideal. The most optimal time is shortly after you shift bar maxes out. The way I time it is to wait until the red bar first changes shades (Note: It will not always flash in the order of pink to red it so do not shift as soon as you see dark red).
 
 ![Image showing when to shift into second gear](https://i.imgur.com/N8lBdqx.png)
 
-2. A good indicator of whether you timed your first shift right will be when your second shift is available.  If you get it directly after hitting the third boost, you have a good run going. Use your second shift directly before hitting the fourth boost pad.
+- A good indicator of whether you timed your first shift right will be when your second shift is available.  If you get it directly after hitting the third boost, you have a good run going. Use your second shift directly before hitting the fourth boost pad.
 
 ![Image showing when to shift into third gear](https://i.imgur.com/RkFgbbz.png)
 
 The black part of the boost is where the hitbox is located so wait until the front of your swoop has passed the gold part to shift.
 
-3. To tell if your second shift was good, your third should be available directly after passing this pillar.
+- To tell if your second shift was good, your third should be available directly after passing this pillar.
 
 ![Image showing when fourth gear is available](https://i.imgur.com/YK9jsNl.png)
 
 Use your third shift right before hitting the eighth boost pad.
 
-4. For your final shift, shift directly before hitting the tenth boost pad.
+- For your final shift, shift directly before hitting the tenth boost pad.
 
 #### Lap Video
 
@@ -94,21 +91,19 @@ Use your third shift right before hitting the eighth boost pad.
 
 #### Shifts
 
-1. This can be a very complicated shift to hit as the universal ideal first shift is a two flash, but taking the boost head on only allows you a 1 flash before you hit the boost. In order to obtain a two flash, you will have to precisely position your bike to the right of the boost pad, shift and move left and just barely clip the corner of the boosts hit box
+- This can be a very complicated shift to hit as the universal ideal first shift is a two flash, but taking the boost head on only allows you a 1 flash before you hit the boost. In order to obtain a two flash, you will have to precisely position your bike to the right of the boost pad, shift and move left and just barely clip the corner of the boosts hit box
 
 ![A diagram showing swoop bike positioning for first shift](https://cdn.discordapp.com/attachments/710503109440438323/1116906936747696128/untitled4.png)
 ![An image showing swoop bike positioning for first shift](https://cdn.discordapp.com/attachments/710503109440438323/1116907573447237693/Screenshot_2023-06-09_at_21-51-44_Speedrun_of_SW_KOTOR_Tatooine_Single_Lap_21.22.png)
 
-2. If you timed your boost correctly you should see your indicator flash once or twice before you hit the third boost, then shift directly before the 4th boost.
-
-3. Use your third shift directly before hitting the ninth boost pad.
-
-4. Use your fourth shift directly before hitting the eleventh boost pad. This can take practice, as the tenth and eleventh pads are very close to each other but on opposite sides of the track.
+- If you timed your boost correctly you should see your indicator flash once or twice before you hit the third boost, then shift directly before the 4th boost.
+- Use your third shift directly before hitting the ninth boost pad.
+- Use your fourth shift directly before hitting the eleventh boost pad. This can take practice, as the tenth and eleventh pads are very close to each other but on opposite sides of the track.
 
 #### Lap Video
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/ElC53zwjBIA&t=13s" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/ElC53zwjBIA" frameborder="0"></iframe>
 </div>
 
 ## Taris
@@ -127,11 +122,11 @@ This glitch exploits the Taris script that makes you go faster after each lap. N
 
 #### Shifts
 
-1. Hit your first shift directly after the bar turns red.
-2. Hit your second shift after your indicator flashes twice.
-3. Hold your third shift until right before the first boost.
-4. Your fourth shift may become available before hitting the second boost, but you should hold it until right after you've hit it.
-5. After reaching fourth gear, boosts will no longer work.  So try to just find a line that avoids any obstacles. (Unless you live on the edge like me.)
+- Hit your first shift directly after the bar turns red.
+- Hit your second shift after your indicator flashes twice.
+- Hold your third shift until right before the first boost.
+- Your fourth shift may become available before hitting the second boost, but you should hold it until right after you've hit it.
+- After reaching fourth gear, boosts will no longer work.  So try to just find a line that avoids any obstacles. (Unless you live on the edge like me.)
 
 #### Lap Video
 
@@ -145,10 +140,10 @@ This is the easier of the two planet circuit laps to master. Although sub 23 has
 
 #### Shifts
 
-1. Hold your first shift for three flashes.
-2. Shift directly before the third boost.
-3. There are two options for third shift; when you hit the eighth boost you can either go left or right to hit your 9th. Going left is safer, going right is roughly 50ms faster.
-4. We do not shift to fourth gear on unglitched taris because while it does increase you max speed it actually slows you down.
+- Hold your first shift for three flashes.
+- Shift directly before the third boost.
+- There are two options for third shift; when you hit the eighth boost you can either go left or right to hit your 9th. Going left is safer, going right is roughly 50ms faster.
+- We do not shift to fourth gear on unglitched Taris because while it does increase you max speed it actually slows you down.
 
 #### Lap Video
 
@@ -160,7 +155,7 @@ This is the easier of the two planet circuit laps to master. Although sub 23 has
 
 #### Shifts
 
-1. Once again, there are two methods for first shift.  You can either use the Manaan method, except you're back to shifting after the first flash, or wait until the front of your swoop is clipping with the first line.
+- Once again, there are two methods for first shift.  You can either use the Manaan method, except you're back to shifting after the first flash, or wait until the front of your swoop is clipping with the first line.
 
 ![An image showing when to shift into second gear based on flashes](https://i.imgur.com/lQ4BjH7.png)
 
@@ -168,13 +163,13 @@ Or shift here:
 
 ![An image showing when to shift into second gear based on swoop position](https://i.imgur.com/Wss9LGo.png)
 
-2. While you do get second shift rather early, do not use until right before you hit the third boost.
-3. Shift right before the 8th boost pad.
+- While you do get second shift rather early, do not use until right before you hit the third boost.
+- Shift right before the 8th boost pad.
 
 #### Lap Video
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/o7RxbnUctD8&t=61" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/o7RxbnUctD8" frameborder="0"></iframe>
 </div>
 
 ## Save Files
