@@ -36,7 +36,7 @@ Glitch guides are split into two types:
 | | **Major Glitches** | | | | **Techniques** | |
 |---|---|---|---|---|---|---|
 | [Anywhere Menu Glitch](./Major%20Glitches/Anywhere%20Menu%20Glitch) | [Displaced Load Zone](./Major%20Glitches/Displaced%20Load%20Zone) | [Door Clipping](./Major%20Glitches/Door%20Clipping) | | [Combat Talking](./Techniques/Combat%20Talking) | [Conversation Queue](./Techniques/Conversation%20Queue) | [Damage Stacking](./Techniques/Damage%20Stacking) |
-| [Fake Level Up](./Major%20Glitches/Fake%20Level%20Up) | [Fast Lane](./Major%20Glitches/Fast%20Lane) | | | [Force Skips](./Techniques/Force%20Skips) | [GP Warp](./Techniques/GP%20Warp) | [Item Duplication](./Techniques/Item%20Duplication) |
+| [Fake Level Up](./Major%20Glitches/Fake%20Level%20Up) | [Fast Lane](./Major%20Glitches/Fast%20Lane) | | | [Force Skips](./Techniques/Force%20Skips) | [Gather Party Warp](./Techniques/GP%20Warp) | [Item Duplication](./Techniques/Item%20Duplication) |
 | [Hotshot](./Major%20Glitches/Hotshot) | [The Routine](./Major%20Glitches/The%20Routine) | | | [Map Cutscene Skips](./Techniques/Map%20Cutscene%20Skips) | [Save Buffering](./Techniques/Save%20Buffering) | [Save Teleporting](./Techniques/Save%20Teleporting) |
 | | | | | | [Wired Targeting](./Techniques/Wired%20Targeting) | |
 
