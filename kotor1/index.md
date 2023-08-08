@@ -2,7 +2,7 @@
 
 Welcome to the KotOR I Speedrunning Guides! Here you'll find a wealth of information to assist you with any KotOR I speedrun.  Feel free to jump to a section below:
 - [New to KotOR Speedrunning?](#new-to-kotor-speedrunning)
-- [Speedrun Guides](#speedrun-guides)
+- [Route Guides](#speedrun-guides)
 - [Glitch Guides](#glitch-guides)
 - [Miscellaneous Info](#miscellaneous-info)
 - [Useful Links](#useful-links)
@@ -15,7 +15,7 @@ If you're just beginning your KotOR speedrun journey, the following links will h
 - Our [Getting Started with KotOR Speedrunning](Getting%20Started) guide can help with basic questions, as well as the right settings for your game to streamline the speedrunning process.
 - If you're having trouble running KotOR on Windows 10, this [Windows 10 Guide](./Miscellaneous/Windows%2010) may be helpful as well.
 
-## Speedrun Guides
+## Route Guides
 
 These guides will cover all information relevant to the speedrun of the given category, including a detailed route with specific actions to take to complete the run for full game runs, and general strategy or tips for IL runs.  These guides should be considered your one-stop shop for each category.
 
