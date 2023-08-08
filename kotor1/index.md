@@ -2,7 +2,7 @@
 
 Welcome to the KotOR I Speedrunning Guides! Here you'll find a wealth of information to assist you with any KotOR I speedrun.  Feel free to jump to a section below:
 - [New to KotOR Speedrunning?](#new-to-kotor-speedrunning)
-- [Route Guides](#speedrun-guides)
+- [Route Guides](#route-guides)
 - [Glitch Guides](#glitch-guides)
 - [Miscellaneous Info](#miscellaneous-info)
 - [Useful Links](#useful-links)
