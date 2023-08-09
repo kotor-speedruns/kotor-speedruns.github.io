@@ -407,10 +407,13 @@ Quest Notes:
 - [Taris 2](#taris-2)
 - [Dantooine 1](#dantooine-1)
 - [Tatooine 1](#tatooine-1)
-- [Manaan](#manaan)
-- [Korriban](#korriban)
-- [The Leviathan](#the-leviathan)
+- [Manaan 1](#manaan)
+- [Dantooine 2](#dantooine-2)
 - [Kashyyyk](#kashyyyk)
+- [Tatooine 2](#tatooine-2) 
+- [Manaan 2](#manaan-2)
+- [The Leviathan](#the-leviathan)
+- [Korriban](#korriban)
 - [Lehon](#lehon)
 - [The Star Forge](#the-star-forge)
 
@@ -938,256 +941,272 @@ SHOPPING: Janice Nall
 
 ## Tatooine 1
 
-**Docking Bay:**
-Bastila #6 and Carth #6
-Zaalbar accosts you
-- Starts "Dwindling Supplies"
-Talk to T3 11 times for 11 Computer Spikes (+11; 11 Spikes)
-Leave Ebon Hawk with Bastila
-Czerka Officer accosts you: 1,1,5
-Malare accosts Bastila
-- Starts "Bastila's Mother"
-Talk to Mic'Tunan'Jus Orgu: 1
----------------------------------------------------------
-*SHOPPING: Mic'Tunan'Jus Orgu*
-**BUY:**
-- 4x Life Support Pack
-- 9-10x Advanced Medpac (need at least 7880 credits left after medpacs)
-- Adrenal Strength
-- Bantha Fodder
-**SELL ALL EXCEPT:**
-- Medpacs
-- Computer Spikes
-- Stims
-- Bantha Fodder
-End: ~10971 Credits
----------------------------------------------------------
-Gizka Man accosts you: Hey, free gizka!
-- Starts "The Trouble with Gizka"
-} Remove Bastila from party
-- She gets stuck on the Dark Jedi later
-Enter Anchorhead
+### Docking Bay
+- Bastila #6 and Carth #6
+- Zaalbar accosts you
+  - ***Starts "Dwindling Supplies"***
+- Talk to T3 11 times for 11 Computer Spikes (+11; 11 Spikes)
+- Leave Ebon Hawk
+  - *Party: Add Bastila when prompted*
+- Czerka Officer accosts you: 1,1,5
+  - Affect Mind lets us avoid the fee here
+- Malare accosts Bastila
+  - ***Starts "Bastila's Mother"***
+- Activate Solo Mode
+- As Bastila, click on the Anchorhead door
+- As MC, talk to Mic'Tunan'Jus Orgu: 1
 
-**Anchorhead:**
-Manaa Demknot accosts you
-Enter Czerka Office
-Duros accosts you inside: 1
-Talk to Protocol Officer: 1x10, 3, 2
-- Starts "Sand People"
-Duros accosts you outside: 3,3,3
-Enter Swoop Registration for Tatooine Swoop Races:
-- Motta conversations: 1,3,1spam | race | 1,1,1 | race | 1,1,1 | race | 3
-- Win all three races
-- Talk to Nico as you leave: 1,1,2
-- Starts and Finishes "Tatooine Swoop Races"
-- Starts and Finishes "Signing Nico"
-Autograph seeker accosts you: 2
-Ignore Dark Jedi ambush and enter Cantina
-} Add Bastila to party
-Talk to Helena: 1,3
-} Remove Bastila from party
-Exit Cantina and enter Droid Shop
-Threaten Yuka Laka to buy HK-47: 1,1,1,2,2,4,4,1
-- Threatening him guarantees a 2500 credit price
-- Starts and Finishes "Droid for Sale"
-Talk to HK-47: 2,1
-} Leave party empty when prompted
-Talk to Iziz outside: 1x6, 3
-- Starts "Fair Trade"
-Talk to Gate Guard to exit to Dune Sea
+```
+SHOPPING: Mic'Tunan'Jus Orgu
+- BUY
+  - 4x Life Support Pack
+  - 9-10x Advanced Medpac (need at least 7880 credits left after medpacs)
+  - Adrenal Strength
+  - Bantha Fodder
+- SELL ALL EXCEPT
+  - Medpacs
+  - Computer Spikes
+  - Stims
+  - Bantha Fodder
+- End: ~10971 Credits
+```
 
-**Dune Sea:**
-Marlena the angry wife accosts you
-Talk to Tanis: 1,1,3,1,1
-- Starts and Finishes "Tanis Trapped"
-Loot rubble pile with voice to trigger Gamorrean ambush: 4,1
-- Starts and Finishes "Desert Ambush"
-} Heal with Basic Medpacs, use Adrenal Strength and Battle Stimulant, and cast Force Valor
-Kill and loot Sand People Warrior (not an Elite Warrior) for Sand People Outfit
-Enter Sand People Territory
-} Equip Sand People Outfit
-Run to Sand People Enclave
-- Running diagonally to the left for a little bit at the start avoids a Sand People ambush; if you trigger it, just ignore it
-} Add HK-47 to party before entering Sand People Enclave
-Sand People accost you inside: 1,1 | 1,2,1
-Return to Ebon Hawk and run to Czerka Office
-Talk to Greeta Holda to buy Moisture Vaporators
-Run back to Docking Bay
-} Reequip Jedi Knight Robe
-} Add Mission to party and Transit Back
-Talk to Sand People Guard to return inside
-Sand People Chieftain: 1x7, 2
-Talk to Griff and Jawa to free them
-Leave Sand People Enclave
-} Remove Mission and HK-47 from party
-Enter Eastern Dune Sea
-- *Optional:* Loot the Twi'lek corpse on the way for a Thermal Detonator
+- Run near Sullustan to get accosted about gizka
+  - ***Starts "The Trouble with Gizka"***
+- Swap to Bastila and enter Anchorhead
 
-**Eastern Dune Sea:**
-Run towards Komad to watch Krayt Dragon have a snack
-Talk to Komad and kill him: 1,2,1,1,2,3,1,2
-- Starts "A Desert Hunt"
-> Level to 8: Str to 20, Per to 11, Master Two-Weapon Fighting, Dominate Mind
-} Make sure Force Valor is active before luring the Banthas
-Defeat the four Elite Warriors to escort the Banthas
-- Use your thermal detonator on the pair if you looted it
-Lure the banthas again to kill the Krayt Dragon
-- Finishes "A Desert Hunt"
-Loot tattered equipment pack for Holocron
-Star Map: Tatooine
-- Starts and Finishes "Star Map: Tatooine"
-Ignore Calo on the way out
-Loot the Krayt Dragon for two Krayt Dragon Pearls
-Return to Ebon Hawk from Dune Sea
-Run back through Anchorhead toward Swoop Registration
-Senni Vek accosts you: 4
-- Starts "GenoHaradan"
-Return to Ebon Hawk and board
-Canderous #3: 1x4, 3
-) Upgrade Lightsaber: Add Krayt Dragon Pearl
-Juhani History #2 and Carth #7
-Fly to Manaan
+### Anchorhead
+- *Party: Remove Bastila*
+  - She gets stuck on the Dark Jedi later if you don't
+- Manaa Demknot accosts you
+- Enter Czerka Office
+- Duros accosts you inside: 1
+- Talk to Protocol Officer: 1x10, 3, 2
+  - ***Starts "Sand People"***
+- Duros accosts you outside: 3,3,3
+- Enter Swoop Registration for Tatooine Swoop Races:
+  - Motta conversations: 1,3,1spam | race | 1,1,1 | race | 1,1,1 | race | 3
+  - Win all three races
+    - ***Starts and Finishes "Tatooine Swoop Races"***
+  - Talk to Nico as you leave: 1spam
+    - ***Starts and Finishes "Signing Nico"***
+- Autograph seeker accosts you: 2
+- Ignore Dark Jedi ambush and enter Cantina
+- *Party: Add Bastila*
+- Talk to Helena: 1,3
+- *Party: Remove Bastila*
+- Exit Cantina and enter Droid Shop
+- Threaten Yuka Laka to buy HK-47: 1,1,1,2,2,4,4,1
+  - Threatening him guarantees a 2500 credit price
+  - ***Starts and Finishes "Droid for Sale"***
+- Talk to HK-47: 2,1
+- *Party: Leave empty when prompted*
+- Talk to Iziz outside: 1x6, 3
+  - ***Starts "Fair Trade"***
+- Talk to Gate Guard to exit to Dune Sea
 
-[section=Manaan 1]
+### Dune Sea
+- Marlena the angry wife accosts you
+- Talk to Tanis: 1,1,3,1,1
+  - ***Starts and Finishes "Tanis Trapped"***
+- Loot rubble pile with voice to trigger Gamorrean ambush: 4,1
+  - ***Starts and Finishes "Desert Ambush"***
+- *Stims/Force/Medpacs: Basic Medpacs, Force Valor, Strength and Battle Stim on MC*
+- Kill and loot Sand People Warrior (not an Elite Warrior) for Sand People Outfit
+- Enter Sand People Territory
+- *Equip MC: Sand People Outfit*
+- Run to Sand People Enclave
+  - Running diagonally to the left for a little bit at the start avoids a Sand People ambush; I count 20 steps, then straight to the enclave
+- *Party: Add HK-47 before entering Sand People Enclave*
+- Sand People accost you inside: 1,1 | 1,2,1
+- Return to Ebon Hawk and run to Czerka Office
+- Talk to Greeta Holda to buy Moisture Vaporators
+- Run back to Docking Bay
+- *Equip MC: Jedi Knight Robe*
+- *Party: Add Mission*
+- Talk to Sand People Guard to return inside
+- Sand People Chieftain: 1x7, 2
+- Talk to Griff and Jawas to free them
+- Leave Sand People Enclave
+- *Party: Remove Mission and HK-47*
+- Enter Eastern Dune Sea
+  - ***Optional:*** Loot the Twi'lek corpse on the way for a Thermal Detonator
 
-**Docking Bay:**
-Carth #8
-- Finishes "Carth"
-Leave Ebon Hawk with Carth
-Sith and Republic Soldier CS: 4
-Jordo accosts Carth
-- Starts "Finding Dustil"
-Talk to Selkath Merchant: 3 (+6; 17 Spikes)
----------------------------------------------------------
-*SHOPPING: Selkath Merchant*
-**BUY:**
-- 6x Computer Spikes
-- 7x Parts
-- All 20 Hyper Stimulants
-End: ~2151 Credits
----------------------------------------------------------
-Talk to Nubassa: 3,2,1
-- Finishes "The Trouble with Gizka"
-Enter West Central
+### Eastern Dune Sea
+- Run towards Komad to watch Krayt Dragon have a snack
+- Talk to Komad and kill him: 1,2,1,1,2,3,1,2
+  - ***Starts "A Desert Hunt"***
+- `Level to 8: Str to 20, Per to 11, Master Two-Weapon Fighting, Dominate Mind`
+- *Force: Cast Force Valor*
+- Defeat the four Elite Warriors to escort the Banthas
+  - Use your thermal detonator on the pair if you looted it
+- Lure the banthas again to kill the Krayt Dragon
+  - ***Finishes "A Desert Hunt"***
+- Loot the Krayt Dragon for two Krayt Dragon Pearls
+- Loot tattered equipment pack for Holocron
+- Star Map: Tatooine
+  - ***Starts and Finishes "Star Map: Tatooine"***
+- Ignore Calo on the way out
+- Return to Ebon Hawk from Dune Sea
+- Run back through Anchorhead toward Swoop Registration
+- Senni Vek accosts you: 4
+  - ***Starts "GenoHaradan"***
+- Return to Ebon Hawk and board
+- Canderous #3: 1x4, 3
+- Workbench: Upgrade Double-bladed Lightsaber - Add Krayt Dragon Pearl
+- Juhani History #2 and Carth #7
+- Fly to Manaan
 
-**Ahto City:**
-Talk to Port Authority: 1,3
-- We use Affect Mind to avoid the fee here
-Enter Ahto West
-Activate Solo Mode and leave Carth at entrance
-Nilko Bwaas accosts you; then talk to him
-- Starts "Republic Hiring Mercenaries"
-Shaelas accosts you
-- Starts "Missing Selkath"
-Swap to Carth and go back to West Central
-} Remove Carth from party
-Run to East Central
-Sith and Republic soldier CS
-Talk to Hulas
-- Starts "GenoHaradan: Zuulan"
-- Starts "GenoHaradan: Lorgal"
-Talk to Roland Wann: 3, 1spam
-- Starts and Finishes "Republic Embassy"
-- Starts "Star Map: Manaan"
-- Starts "Mission for the Republic"
-Use console to kill Lorgal (-7; 10 Spikes)
-Talk to Hulas: 1x8, 2
-- Finishes "GenoHaradan: Lorgal"
-- Starts "GenoHaradan: Ithorak"
-- Starts "GenoHaradan: Rulan"
-- Starts "GenoHaradan: Vorn"
-Enter Ahto East
+## Manaan 1
 
-**Swoop Races:**
-Rude Sith lady accosts you: 2
-Talk to Vek: 1,1
-Talk to Queedle: 1,1,1,1,2
-- Starts "Manaan Swoop Races"
-Return to Ebon Hawk and Transit Back to reload
-Talk to Queedle: 1,3
-Talk to Swoop Coordinator and win all 3 swoop races
-- Mash all conversations except the last, which is 3
-- Finishes "Manaan Swoop Races"
-Return to Ebon Hawk and leave
-Fly to Dantooine
-- There's a random chance to get a fighter skirmish here; if you do, eliminate them as quickly as you can
+### Docking Bay
+- Carth #8
+  - ***Finishes "Carth"***
+- Leave Ebon Hawk
+  - *Party: Add Carth when prompted*
+- Sith and Republic Soldier CS: 4
+- Jordo accosts Carth near Selkath merchant
+  - ***Starts "Finding Dustil"***
+- Talk to Selkath Merchant: 3 (+6; 17 Spikes)
 
-[section=Dantooine 2]
+```
+SHOPPING: Selkath Merchant
+- BUY:
+  - 6x Computer Spikes
+  - 7x Parts
+  - All 20 Hyper Stimulants
+- End: ~2151 Credits
+```
 
-**Dantooine Savannah:**
-Talk to Crattis Yurkal in the alcove on the right
----------------------------------------------------------
-*SHOPPING: Aratech Mercantile*
-**BUY:**
-- Breath Mask
-- CNS Strength Enhancer
-- +/-1, +/-3 and +/-5 Pazaak Cards
-End: ~351 Credits
----------------------------------------------------------
-} Equip Breath Mask and CNS Strength Enhancer
-Deesra accosts you in enclave
-} Cast Valor as you exit to Courtyard
-- This attempts to duration glitch it
-Take closest entry to Matale Grounds
-Eliminate first Mandalorian raider
-- You don't need to kill the Duros here
-Enter nearest Grove load zone
-Run/Force Jump through Grove to Sandral Grounds
+- Talk to Nubassa: 3,2,1
+  - ***Finishes "The Trouble with Gizka"***
+- Enter West Central
 
-**Sandral-Matale Feud**
-Talk to security droid: 4
-Enter Sandral Estate
-Nurik and Rahasia both accost you
-- Finishes "Dead Settler"
-Exit estate
-} Add T3 to party
-Reenter Sandral Estate through side door
-Bash down door with mine in front
-Talk to Shen: 1,1,2,3
-Use Solo Mode to leave T3 next to Shen
-As MC, take last door on left and run through room with patrol droids
-- Make sure Force Valor is active here
-Open first door on left and talk to Rahasia: 1
-Swap to T3 and talk to Shen: 1
-Mash conversation outside to complete the quest
-- If you fail the first Persuade check, Valor was not active and you'll receive less XP and credits, which negatively affects your shopping on Kashyyyk
-- Finishes "Sandral-Matale Feud"
+### Ahto City
+- Talk to Port Authority: 1,3
+  - Affect Mind allows us to avoid the fee here
+- Enter Ahto West
+- Activate Solo Mode
+- As Carth, open the door to West Central
+- As MC:
+  - Nilko Bwaas accosts you at cantina entrance
+  - Talk to Nilko Bwaas
+    - ***Starts "Republic Hiring Mercenaries"***
+  - Run towards Shaelas until he accosts you
+    - ***Starts "Missing Selkath"***
+- Swap to Carth and go back to West Central
+- *Party: Remove Carth*
+- Run to East Central
+- Sith and Republic soldier CS
+- Talk to Hulas
+  - ***Starts "GenoHaradan: Zuulan"***
+  - ***Starts "GenoHaradan: Lorgal"***
+- Talk to Roland Wann: 3, 1spam
+  - ***Starts and Finishes "Republic Embassy"***
+  - ***Starts "Star Map: Manaan"***
+  - ***Starts "Mission for the Republic"***
+- Use console to kill Lorgal (-7; 10 Spikes)
+- Talk to Hulas: 1x8, 2
+  - ***Finishes "GenoHaradan: Lorgal"***
+  - ***Starts "GenoHaradan: Ithorak"***
+  - ***Starts "GenoHaradan: Rulan"***
+  - ***Starts "GenoHaradan: Vorn"***
+- Enter Ahto East
 
-**Mandalorian Raiders:**
-} Remove T3 from Party
-> Level to 9: Per to 12, Knight Speed
-} Cast Knight Speed to make sure you get the extra attack per round
-Run to Mandalorian Raider group
-} Use one of each Hyper Stim and Force Valor if needed
-Kill only the center Mandalorian
-- You don't need to kill the Mando on the right or the Duros here
-Loot footlocker near swoop bikes for frag mines
-Kill the kath hounds around C8-42
-Talk to C8-42: 1,1,1,1,1,2,1
-Enter the Grove and kill the Mandalorian furthest from the Sandral Grounds
-- Again, you don't need to kill the Duros or the other Mandalorian
-Return to Sandral Grounds, then reenter Grove
-- This spawns the last Mandalorian group
-Sherruk accosts you; kill Sherruk
-- You don't have to kill any of his minions, not even the other Mandalorians
-- No less than seven other people will be shooting at you, so keep a close eye on your health, and use Life Support Packs as needed
+### Swoop Races
+- Rude Sith lady accosts you: 2
+- Talk to Vek: 1,1
+- Talk to Queedle: 1,1,1,1,2
+  - ***Starts "Manaan Swoop Races"***
+- Return to Ebon Hawk and Transit Back to reload
+- Talk to Queedle: 1,3
+- Talk to Swoop Coordinator and win all 3 swoop races
+  - Mash all conversations except the last, which is 3
+  - ***Finishes "Manaan Swoop Races"***
+- Return to Ebon Hawk and leave
+- Fly to Dantooine
+  - There's a random chance to get a fighter skirmish here; if you do, eliminate them as quickly as you can
+- Exit the Ebon Hawk
+  - *Party: Leave empty when prompted*
 
-**Leaving Dantooine:**
-Run/Force Jump to Matale Grounds
-Run/Force Jump to Zuulan's speeder
-Hack Zuulan's speeder to make Zuulan accost you: 2 (-1; 9 Spikes)
-Kill Zuulan's droids first, then ignore his bribe and kill Zuulan
-Return to the Ebon Hawk and exit the Enclave again
-Talk to Jon
-- Finishes "Mandalorian Raiders"
-Talk to Elise
-- Finishes "Missing Companion"
-Return to Ebon Hawk and board
-Canderous #4: 1x4, 3
-Juhani History #3
-Fly to Kashyyyk
+## Dantooine 2
 
-[section=Kashyyyk]
+### Dantooine Savannah
+
+- Talk to Crattis Yurkal in the alcove on the right
+
+```
+SHOPPING: Aratech Mercantile
+- BUY:
+  - Breath Mask
+  - CNS Strength Enhancer
+  - +/-1, +/-3 and +/-5 Pazaak Cards
+- End: ~351 Credits
+```
+
+- *Equip MC: Breath Mask and CNS Strength Enhancer*
+- Deesra accosts you in enclave
+- *Force: Cast Force Valor right before you exit to Courtyard*
+  - This attempts to duration glitch Valor
+- Take closest load zone to Matale Grounds
+- Eliminate first Mandalorian raider
+  - You don't need to kill the Duros here
+- Enter nearest Grove load zone
+- Run/Force Jump through Grove to Sandral Grounds
+
+### Sandral-Matale Feud
+- Talk to security droid: 4
+- Enter Sandral Estate
+- Nurik and Rahasia both accost you
+  - ***Finishes "Dead Settler"***
+- Exit estate
+- *Party: Add T3*
+- Reenter Sandral Estate through side door
+- Bash down door with mine in front
+- Talk to Shen: 1,1,2,3
+- Activate Solo Mode to leave T3 next to Shen
+- As MC, take last door on left and run through room with patrol droids
+  - Make sure Force Valor is active here
+- Open first door on left and talk to Rahasia: 1
+- Swap to T3 and talk to Shen: 1
+- Mash conversation outside to complete the quest
+  - If you fail the first Persuade check, Valor was not active and you'll receive less XP and credits, which negatively affects your shopping on Kashyyyk
+  - ***Finishes "Sandral-Matale Feud"***
+
+### Mandalorian Raiders
+- *Party: Remove T3*
+- `Level to 9: Per to 12, Knight Speed`
+- Run to Mandalorian Raider group
+- *Stims/Force: Each Hyper Stim on MC, Cast Knight Speed, Cast Force Valor if needed*
+  - Make sure you cast Knight Speed to gain the extra attack per round
+- Kill only the center Mandalorian
+  - You don't need to kill the Mando on the right or the Duros here
+- Kill the kath hounds around C8-42
+- Talk to C8-42: 1,1,1,1,1,2,1
+- Enter the Grove and kill the Mandalorian furthest from the Sandral Grounds
+  - Again, you don't need to kill the Duros or the other Mandalorian
+- Return to Sandral Grounds, then reenter Grove
+  - This spawns the last Mandalorian group
+- Sherruk accosts you; kill Sherruk
+  - You don't have to kill any of his minions, not even the other Mandalorians
+  - No less than seven other people will be shooting at you, so keep a close eye on your health, and use Life Support Packs as needed
+
+### Leaving Dantooine
+- Run/Force Jump to Matale Grounds
+- Run/Force Jump to Zuulan's speeder
+- Hack Zuulan's speeder to make Zuulan accost you: 2 (-1; 9 Spikes)
+- Kill Zuulan's droids first, then spam his convo and kill Zuulan
+- Return to the Ebon Hawk and exit the Enclave again
+- Talk to Jon
+  - ***Finishes "Mandalorian Raiders"***
+- Talk to Elise
+  - ***Finishes "Missing Companion"***
+- Return to Ebon Hawk and board
+- Canderous #4: 1x4, 3
+- Juhani History #3
+- Fly to Kashyyyk
+
+## Kashyyyk
 
 **Great Walkway:**
 Leave Ebon Hawk with no party
