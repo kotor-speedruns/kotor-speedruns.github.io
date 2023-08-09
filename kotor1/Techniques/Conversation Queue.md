@@ -48,3 +48,5 @@ One notable benefit of a Conversation Queue is the ability to easily bypass load
 ## Related Glitches
 
 * [Combat Talking](<Combat Talking>)
+
+***Have a suggestion or correction? Contribute to this guide [here](https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/kotor1/Techniques/Conversation%20Queue.md)!***
