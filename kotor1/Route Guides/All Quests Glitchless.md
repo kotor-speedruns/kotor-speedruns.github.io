@@ -1170,7 +1170,8 @@ SHOPPING: Aratech Mercantile
 - Open first door on left and talk to Rahasia: 1
 - Swap to T3 and talk to Shen: 1
 - Mash conversation outside to complete the quest
-  - If you fail the first Persuade check, Valor was not active and you'll receive less XP and credits, which negatively affects your shopping on Kashyyyk
+  - If the first Persuade check fails, Valor was not active and the 75% chance to pass failed
+    - The quest still finishes but you get less XP and credits, which negatively affects your shopping on Korriban
   - ***Finishes "Sandral-Matale Feud"***
 
 ### Mandalorian Raiders
