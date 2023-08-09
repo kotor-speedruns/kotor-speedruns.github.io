@@ -109,3 +109,5 @@ As a general rule of thumb, Save Teleports are sometimes useful at the end of th
 ## Related Glitches
 
 * [Save Buffer](<Save Buffering>)
+
+***Have a suggestion or correction? Contribute to this guide [here](https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/kotor1/Techniques/Save%20Teleporting.md)!***
