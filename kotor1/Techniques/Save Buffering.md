@@ -138,3 +138,5 @@ As you progress in the game, Quick Saves take longer and longer to complete.  Wh
 
 * [Save Teleporting](<Save Teleporting>)
 * [Gather Party Warps](<GP Warp>)
+
+***Have a suggestion or correction? Contribute to this guide [here](https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/kotor1/Techniques/Save%20Buffering.md)!***
