@@ -67,3 +67,5 @@ However, in theory, any trigger that can be skipped using a [Soft Buffer](<Save 
 ## Related Glitches
 
 * [Soft Buffer](<Save Buffering#soft-buffers>)
+
+***Have a suggestion or correction? Contribute to this guide [here](https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/kotor1/Techniques/Force%20Skips.md)!***
