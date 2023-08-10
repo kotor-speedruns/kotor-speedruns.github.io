@@ -1209,54 +1209,55 @@ SHOPPING: Aratech Mercantile
 
 ## Kashyyyk
 
-**Great Walkway:**
-Leave Ebon Hawk with no party
-Janos Wertka accosts you
-Czerka guard accosts you: 4
-Exit to Great Walkway
-Czerka patrol accosts you: 5
-Run/Force Jump to Wookiee Village
-- Be careful not to Force Jump backwards
-- One way to avoid that is to queue a Flurry on your target, then immediately cancel combat and use default action to Force Jump
-- Try to kill the targets you Force Jump to; this can also avoid backwards jumps, and the extra XP can help you get level ups earlier
-Wookiee Guard accosts you
-Talk with Chuundar
-- Starts "A Chieftain in Need"
-Once in the Wookiee Village, Return to Ebon Hawk and Transit Back
-- This sets our transit point for later
-Run/Force Jump back through Great Walkway
-Talk to Gorwooken to enter Shadowlands: 2
+### Great Walkway
+- Leave Ebon Hawk
+  - *Party: Leave empty when prompted*
+- Janos Wertka accosts you
+- Czerka guard accosts you: 4
+- Exit to Great Walkway
+- Czerka patrol accosts you: 5
+- Run/Force Jump to Wookiee Village
+  - Be careful not to Force Jump backwards
+  - One way to avoid that is to queue a Flurry on your target, then immediately cancel combat and use default action to Force Jump
+  - Try to kill the targets you Force Jump to; this can also avoid backwards jumps, and the extra XP can help you get level ups earlier
+- Wookiee Guard accosts you
+- Talk with Chuundar
+  - ***Starts "A Chieftain in Need"***
+- Once in the Wookiee Village, Return to Ebon Hawk and Transit Back
+  - This sets our transit point for later
+- Run/Force Jump back through Great Walkway
+- Talk to Gorwooken to enter Shadowlands: 2
 
-**Upper Shadowlands:**
-Watch Jolee kill some katarns
-Take left path until Czerka Captain accosts you: 1,1,1,1,2
-- Starts "Tach Poaching"
-Talk to first guard: 1,1,3,1,1
-Hack that guard's emitter
-Talk to another guard: 1,1,1
-Hack that guard's emitter
-- Starts and Finishes "Jolee's Request"
-- Finishes "Tach Poaching"
-Head back and loot Wookiee corpse for bolt casing
-- Starts "A Wookiee Lost"
-Return and talk to Jolee by his house: 1,3,1spam
-- Starts "Star Map: Kashyyyk"
-} Leave Jolee in the party when prompted
-Loot the broken droid for its head: 2
-- Starts "Honest Debt"
-Loot Wookiee corpse slightly past Jolee's house
-} Use one of each Hyper Stim and Force Valor
-Talk to Grarwwaar
-Defeat Rulan's first two forms
-Chase the tach and talk to it to kill Rulan permanently
-- You will likely need to defeat the katarn nearby to be able to talk to the fake tach
-- The Rulan-tach tends to stay still near the center of the clearing; the others move around more and run towards the back if you kill the katarns
-Run/Force Jump to Force Field
-- Kill and loot a tach for its gland on the way
-Bypass force field: 1,2
+### Upper Shadowlands
+- Watch Jolee kill some katarns
+- Take left path until Czerka Captain accosts you: 1,1,1,1,2
+  - ***Starts "Tach Poaching"***
+- Talk to first guard: 1,1,3,1,1
+- Hack that guard's emitter
+- Talk to another guard: 1,1,1
+- Hack that guard's emitter
+  - ***Starts and Finishes "Jolee's Request"***
+  - ***Finishes "Tach Poaching"***
+- Head back and loot Wookiee corpse for bolt casing
+  - ***Starts "A Wookiee Lost"***
+- Return and talk to Jolee by his house: 1,3,1spam
+  - *Party: Keep Jolee when prompted*
+  - ***Starts "Star Map: Kashyyyk"***
+- Loot the broken droid for its head: 2
+  - ***Starts "Honest Debt"***
+- Loot Wookiee corpse slightly past Jolee's house
+- *Stims/Force: All Hyper Stims on MC, Cast Force Valor (Knight Speed should already be active)*
+- Talk to Grarwwaar
+- Defeat Rulan's first two forms
+- Chase the tach and talk to it to kill Rulan permanently
+  - You will likely need to defeat the katarn nearby to be able to talk to the fake tach
+  - The Rulan-tach tends to stay still near the center of the clearing; the others move around more and run towards the back if you kill the katarns
+- Run/Force Jump to Force Field
+  - Kill and loot a tach for its gland on the way
+- Bypass force field: 1,2
 
-**Lower Shadowlands:**
-Ignore Mandalorians attacking Grrwahrr
+### Lower Shadowlands
+- Ignore Mandalorians attacking Grrwahrr
 } Unequip Jolee's lightsaber when you reach the first set of Wookiee corpses
 Swap to Jolee and trigger and kill first Mandalorian group
 - Jolee can cast Valor to aid the MC; he won't do much on his own
