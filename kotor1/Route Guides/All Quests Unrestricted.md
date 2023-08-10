@@ -1,9 +1,10 @@
-[center]**[big][big]Star Wars: Knights of the Old Republic[/big]
+# Star Wars: Knights of the Old Republic - All Quests Unrestricted Guide 
 
-All Quests Guide v4.0: Male Scoundrel -> Jedi Guardian Route[/big]**[/center]
+### v4.0: Male Scoundrel -> Jedi Guardian Route
 
-[center]Route by @indykenobi, with help from @R4NG3 and @ChaosDrifting[/center]
-[center]Guide by @indykenobi[/center]
+*Route by @indykenobi, with help from @R4NG3 and @ChaosDrifting*
+
+*Guide by @indykenobi*
 
 This route completes all 100 main and side quests in the game with no restrictions. Dark side or light side conclusions are chosen based on overall speed for the route. This guide will cover the character creation and leveling choices, as well as reasoning for each quest's chosen completion and a detailed route.
 
