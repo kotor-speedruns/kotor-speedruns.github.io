@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic - All Quests Glitchless Guide 
 
-### v3.2: Male Scout -> Jedi Guardian Route
+### v3.3: Male Scout -> Jedi Guardian Route
 
 *Route and Guide by [indykenobi](https://www.speedrun.com/users/indykenobi)*
 
@@ -1643,7 +1643,7 @@ SHOPPING: Czerka Store
 
 **Sith Academy:**
 
-*This section has very complicated movement. See a video of it [here](https://www.youtube.com/watch?v=fzMREqa531A), but note the video talks to Adrenas at the end because it used an old Yuthura conversation.  The updated version spams Yuthura and doesn't have to talk to Adrenas at all.*
+*This section has very complicated movement. See a video of it [here](https://www.youtube.com/watch?v=fzMREqa531A), but note the video talks to Adrenas at the end because it used an old Yuthura conversation.  The updated version spams the last Yuthura convo and doesn't have to talk to Adrenas at all.*
 
 - Uthar convenes the students
   - ***Starts "The Way of the Sith"***
@@ -1674,7 +1674,7 @@ SHOPPING: Czerka Store
   - Swap to Carth and target Yuthura
   - Swap twice to Juhani and run as far up the ramp and hall as possible
   - Yuthura's convo starts: 1,1,1,1
-    - Finishes "The Double-Double Cross" 
+    - ***Finishes "The Double-Double Cross"***
   - Swap to Carth and target door to Uthar's room
   - Swap twice to Juhani and run down hall towards Mekel and Dustil
   - Swap to Carth and loot footlocker
@@ -1767,130 +1767,147 @@ SHOPPING: Czerka Store
 
 ### Lehon
 
-**Warrior Rakata:**
-Watch cutscenes and shoot down Sith fighters
-Talk with party on crashed Ebon Hawk
-- Starts "Trapped on a Nameless World"
-Exit Ebon Hawk alone
-Rakatan Warriors accost you; run past them and avoid combat
-} At the load zone, use one of each Hyper/Echani Stim and Knight Valor
-Exit to Temple Exterior
-Trigger Mandalorian Ambush at pillar to right of temple
-Kill Mandalorian Captain and loot his head
-- You need to get out of the center of the circle ASAP, or you may get Adhesive Grenaded
-- Starts "Invisible Mandalorians"
-Run/Force Jump to South Beach
-Return to Ebon Hawk and run to North Beach
-- Make sure you avoid those initial Rakatan Warriors again
-In North Beach, Rakatan Warriors accost you
-Talk to the One, then exit the compound
-- Be careful not to cast Force Speed while leaving; this skips a cutscene!
-> Level to 15: Per to 18, Master Speed
-Talk to Warleader Garn: 1,1,3
-- Finishes "Invisible Mandalorians"
-Return to and betray the One: 3
-Avoid combat and talk to the Elder Warrior
-- If you get into combat, do a large loop around the arena until you exit combat
-Loot ship parts in opposite cell
-Run/Force Jump to exit compound
-- You can chain Force Jumps here if you one-shot the Rakata and select the next target quickly
+### Warrior Rakata
+- Watch cutscenes and defeat the forced Fighter Skirmish
+- Party accosts you on crashed Ebon Hawk
+  - ***Starts "Trapped on a Nameless World"***
+- Exit Ebon Hawk
+  - *Party: Leave empty when prompted*
+- Rakatan Warriors accost you; run past them and avoid combat
+- At the load zone to Temple Exterior, *Stims/Force: All Hyper/Echani Stims on MC, Cast Knight Valor*
+- Exit to Temple Exterior
+- Trigger Mandalorian Ambush at pillar to right of temple
+- Kill Mandalorian Captain and loot his head
+  - You need to get out of the center of the circle ASAP, or you may get Adhesive Grenaded
+  - You don't have to kill any other Mandalorian
+  - ***Starts "Invisible Mandalorians"***
+- Run/Force Jump to South Beach
+- Return to Ebon Hawk and run to North Beach
+  - Make sure you avoid those initial Rakatan Warriors again
+- In North Beach, Rakatan Warriors accost you
+- Talk to the One, then exit the compound
+  - Be careful not to cast Knight Speed while leaving; this skips a cutscene!
+- `Level to 15: Per to 18, Master Speed`
+- Talk to Warleader Garn: 1,1,3
+  - ***Finishes "Invisible Mandalorians"***
+- Return to and betray the One: 3
+- Avoid combat and talk to the Elder Warrior
+  - If you get into combat, do a large loop around the arena until you exit combat
+- Loot ship parts in opposite cell
+- Run/Force Jump to exit compound
+  - You can chain Force Jumps here if you one-shot the Rakata and select the next target quickly
 
-**Ancient Temple:**
-Run/Force Jump back to Central Beach, then Transit Back to South Beach
-Watch the poor gizka die
-Run/Force Jump to enter Elder Compound
-Elder Rakata accost you
-Go left and enter first room to talk to Researcher Ll'awa: 1x11, 3
-- Starts "Rakatan Research"
-Run/Force Jump back to Temple Exterior
-- Try to leave one of the Wild Rancors alive, but just barely.  If you kill both, two more Rancors will spawn
-Begin the Rakatan ritual to enter the temple
-Jaw-dropping cutscene!
-Activate Solo Mode inside temple to leave Juhani and Jolee at entrance
-Run/Force Jump to temple basement in back
-} Cast Knight Valor while entering
-Kill both guard droids in basement
-Solve floor puzzle with the following path (an H shape, starting from the reset tile)
-http://i.imgur.com/CF497Fm.png
-Speak to basement computer: 1,1,1,2,1,2
-- Note this is a subtly different conversation than Any% runs!
-Return to main floor and activate Solo Mode
-Run/Force Jump to front of temple and enter Massive Door
-} Cast Force Resistance while entering
-Enter Temple Summit
-Speak to and defeat Darth Waifu
-Choose to remain true to the light side
-- This is required, as the Dark Side ending does not complete "Juhani"
-- It's also faster, since we don't have to bring Bastila to the Star Forge
-- Finishes "Trapped on a Nameless World"
-- Finishes "Juhani"
-Use computer terminal to lower disruptor field
-- Finishes "A Quest for the Star Forge"
+### Ancient Temple
+- Run/Force Jump back to Central Beach, then Transit Back to South Beach
+- Watch the poor gizka die
+- Run/Force Jump to enter Elder Compound
+  - *Party: Add T3 before entering*
+- Elder Rakata accost you
+- Activate Solo Mode to leave T3 at the entrance
+- Go left and enter first room to talk to Researcher Ll'awa: 1x11, 3
+  - ***Starts "Rakatan Research"***
+- Run into the back right corner as MC
+- Swap to T3 and exit to South Beach
+- *Party: Remove T3*
+- Run/Force Jump back to Temple Exterior
+  - Try to leave one of the Wild Rancors alive, but just barely
+  - If you kill both, two more Rancors will spawn next time you're here
+- Begin the Rakatan ritual to enter the temple
+- Jaw-dropping cutscene!
+- Activate Solo Mode inside temple to leave Juhani and Jolee at entrance
+- Run/Force Jump to temple basement in back
+- *Force: Cast Knight Valor while entering*
+- Kill both guard droids in basement
+- Solve floor puzzle with the following path ([an H shape](http://i.imgur.com/CF497Fm.png), starting from the reset tile)
+- Speak to basement computer: 1,1,1,2,1,2
+  - Note this is a subtly different conversation than Any% runs!
+- Return to Main Floor and activate Solo Mode
+- Run/Force Jump to front of temple and enter Massive Door
+- *Force: Cast Force Resistance while entering*
+- Enter Temple Summit
+- Speak to and defeat Darth Waifu
+- Choose to remain true to the light side
+  - This is required, as the Dark Side ending does not complete "Juhani"
+  - It's also faster, since we don't have to bring Bastila to the Star Forge
+  - ***Finishes "Trapped on a Nameless World"***
+  - ***Finishes "Juhani"***
+- Use computer terminal to lower disruptor field
+  - ***Finishes "A Quest for the Star Forge"***
 
-**Leaving Lehon:**
-Run/Force Jump back to Elder Compound
-- Be careful that Jolee and Juhani follow you in this section
-- If you can get them past the rancor you left alive without killing it, you avoid spawning two extra rancors that you have to kill while leaving
-Talk to Researcher Ll'awa: 3
-- Finishes "Rakatan Research"
-Run/Force Jump back to Ebon Hawk
-The party all talks to you at once
-Repair hyperdrive on the Ebon Hawk
-Canderous #9: 1,1,1,3
-*Optional Journal Check: Active quests should be "Canderous" and "Bastila".*
-> Level to 16: Str to 22, Per to 19, Master Valor
-- There is a small chance you won't have level 16 available here if you haven't killed enough enemies via Force Jumps.  Take it as soon as you can.
-Fly to the Star Forge
+### Leaving Lehon
+- Run/Force Jump back to Elder Settlement
+  - Be careful that Jolee and Juhani follow you in this section
+  - If you can get them past the rancor you left alive without killing it, you avoid spawning two extra rancors that you have to kill while leaving
+- Activate Solo Mode to leave Juhani/Jolee at the entrance of the Elder Settlement
+- Talk to Researcher Ll'awa: 3
+  - Finishes "Rakatan Research"
+- Put MC in the same corner, then swap to Jolee/Juhani to leave
+- Run/Force Jump back to Ebon Hawk
+  - Be very careful that the party comes with you
+  - You can feel free to eliminate any rancors, as you won't come back this way again
+- The party all talks to you at once
+- Repair hyperdrive on the Ebon Hawk
+- Canderous #9: 1,1,1,3
+- ***Optional Journal Check: Active quests should be "Canderous" and "Bastila".***
+- `Level to 16: Str to 22, Per to 19, Master Valor`
+  - There is a small chance you won't have level 16 available here if you haven't killed enough enemies via Force Jumps.  Take it as soon as you can.
+- Fly to the Star Forge
 
-[section=Star Forge]
+### The Star Forge
 
-**Deck One:**
-Watch the dramatic cutscene
-} Cast Master Speed as soon as you load into the Ebon Hawk
-Canderous #10
-- Finishes "Canderous"
-- This is easy to forget, so don't forget this!
-Two exciting cutscenes
-} Use one of each Echani/Hyper Stim immediately after the droid CS
-Go right and the door explodes on you
-- You can pass these droids by running into the space between them; they'll part after a moment.  You can also try to one shot one of them with Flurry to pass immediatelythen 
-Continue along path, Force Jumping where possible
-Jedi get wrecked by Sith CS
-} Cast Master Valor right before entering Deck 2
+### Deck One
+- Watch the dramatic cutscene
+- *Force: Cast Master Speed as soon as you load into the Ebon Hawk*
+- Canderous #10
+  - ***Finishes "Canderous"***
+  - This is easy to forget, so don't forget this!
+- Exit the Ebon Hawk
+  - *Party: Leave empty when prompted*  
+- Jedi vs. Sith CS
+- Run through two doors until the Malak/Droid CS
+- *Stims: All Echani/Hyper Stims on MC immediately after the droid CS*
+- Go right and the door explodes on you
+- Pass the next two droids by running into the space between them
+  - They'll part after a moment, allowing you past.
+  - You can also try to one shot one of them with Flurry to pass immediately
+- Continue along path, Force Jumping where possible
+- Jedi get wrecked by Sith CS
+- *Force: Cast Master Valor right before entering Deck Two*
 
-**Deck Two:**
-Another exciting cutscene
-} Cast Force Resistance at first door
-Take left path, then turn left
-Hack computer terminal: 1,1,5 (-7; 0 Spikes)
-Take elevator to Command Center
+### Deck Two
+- Another exciting cutscene
+- *Force: Cast Force Resistance at first door*
+- Take right path, then turn left
+- Hack computer terminal: 1,1,5 (-7; 0 Spikes)
+- Go back and straight to take elevator to Command Center
 
-**Command Center:**
-Yet another exciting cutscene
-Run/Force Jump until the Dark Jedi seal the door
-Defeat three dark Jedi to unseal the door
-} Recast Master Speed at the next door
-Darth Waifu encounter
-- All conversations can be mashed, as you have enough Persuade to pass the Persuade check
-- Be careful not to spam default action during a conversation; this will skip a phase (a glitch!)
-- Finishes "Bastila"
-- Starts "The Final Confrontation"
-Still yet another exciting cutscene
-Head towards Viewing Platform
-Yet still yet another exciting cutscene yet
-After droids finish spawning, bash through door and exit to Viewing Platform
+### Command Center
+- Yet another exciting cutscene
+- Run/Force Jump until the Dark Jedi seal the door
+- Defeat three Dark Jedi to unseal the door
+- *Force: Recast Master Speed at the next door*
+- Darth Waifu encounter
+  - All conversations can be mashed, as you have enough Persuade to pass the Persuade check
+  - Be careful not to spam default action during a conversation; this will skip a phase (a glitch!)
+  - ***Finishes "Bastila"***
+  - ***Starts "The Final Confrontation"***
+- Still yet another exciting cutscene
+- Head towards Viewing Platform
+- Yet still yet another exciting cutscene yet
+- After droids finish spawning, bash through door and exit to Viewing Platform
 
-**Viewing Platform:**
-} If your stims wore off (or wear off during the fight), use any Hyper/Echani Stims you have left
-} Make sure Master Speed/Valor are active; Force Resistance is less important but can help
-Darth Malak fight:
-- Hit him until he runs to trigger the Dead Jedi CS
-- Use a medpac before that CS starts if necessary
-- Use Drain Life to release the remaining seven Dead Jedi
-- Kill Malak once and for all
-- Finishes "The Final Confrontation"
+### Viewing Platform
+- *Stims: If your stims wore off (or wear off during the fight), use any Hyper/Echani Stims you have left*
+- *Force: Make sure Master Speed/Valor are active; Force Resistance is less important but can help*
+- Darth Malak fight:
+  - Hit him until he runs to trigger the Dead Jedi CS
+  - Use a medpac before that CS starts if necessary
+  - Use Drain Life to release the remaining seven Dead Jedi
+  - Kill Malak once and for all
+  - ***Finishes "The Final Confrontation"***
 
 ## Complete Quest List
+
 This is a list of all the quests in the game, as well as the alignment we complete them with, if applicable.
 
 **Endar Spire:**
@@ -2014,6 +2031,10 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - A Quest for the Star Forge
 
 ## Version History
+
+**v3.3 (August 2023)**
+- Reformat for the transfer from SRC to GitHub.
+- Minor corrections and updates.
 
 **v3.2 (September 2022)**
 - On Korriban, Rogue Droid is now destroyed, while Renegade Sith are saved.
