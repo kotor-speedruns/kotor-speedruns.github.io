@@ -44,13 +44,13 @@ This route skips Jedi training on Dantooine, instead using [Coordinate Warps](<.
 This run requires one of two disguises in order to unequip the Envirosuit for the underwater sections of Manaan.  You have a choice of whether to obtain the Sith Armor from the North Apartments on Taris, or the Sand People Outfit from an Elite Warrior on Tatooine.  The differences are as follows:
 
 **Sand People Outfit:**
-- Ideally 7 seconds faster
+- Ideally 10 seconds faster
 - Requires [Lower City DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>)
 - See a Sand Person underwater
 
 **Sith Armor:**
 - Skips the Lower City DLZ
-- While possibly 7 seconds slower, the volatilty of DLZs means you may not lose any time
+- While possibly 10 seconds slower, the volatilty of DLZs means you may not lose any time
 - Don't see a Sand Person underwater
 
 You'll need to decide ahead of time which outfit to obtain, as the first route difference based on this choice is less than 2 minutes into the run.  If you feel confident in your ability to get the [Lower City DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>) within 5 seconds, consider the Sand People Outfit; otherwise (or if you just want one less [DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>) to worry about), go for the Sith Armor.
