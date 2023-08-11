@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic - Any% Unrestricted Guide
 
-### v10.2: Male/Female Scoundrel Route
+### v9.8: Male/Female Scoundrel Route
 
 *Written by [Lane](https://www.speedrun.com/users/Lane) and [indykenobi](https://www.speedrun.com/users/indykenobi)*
 
@@ -725,21 +725,20 @@ SHOPPING: Zelka Forn
 
 ## Version History  
 
-**v10.2 (August 2023)**
+**v9.8 (August 2023)**
 - Implemented Neo Hotshots
 - Updated the Save Setup section for Neo Hotshots
 - New strategy for exiting the Vulkar Base
 - More detailed strategy for the Malak fight
 - Added backup strat for failing the Malak AMG
-- Cheekily adjusted some version numbers (Blaster Build for 10.0!)
 
-**v10.1 (June 2023)**
+**v9.7 (June 2023)**
 - Removed the obsolete Scout route
 - Removed Optional Gadon GP
 - Made Bastila Landing Pad GP the default
 - Made Calo Nord AMG the default
   
-**v10.0 (June 2023)**
+**v9.6 (June 2023)**
 - Added indy's optional "No Save Method" in Run Setup
 - Updated a few minor notation things
 - Changed character build to reflect the Blaster route
