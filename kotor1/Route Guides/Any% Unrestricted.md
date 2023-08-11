@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic - Any% Unrestricted Guide
 
-### v9.8: Male/Female Scoundrel Route
+### v10.0: Male/Female Scoundrel Route
 
 *Written by [Lane](https://www.speedrun.com/users/Lane) and [indykenobi](https://www.speedrun.com/users/indykenobi)*
 
@@ -725,7 +725,7 @@ SHOPPING: Zelka Forn
 
 ## Version History  
 
-**v9.8 (August 2023)**
+**v10.0 (August 2023)**
 - Implemented Neo Hotshots
 - Updated the Save Setup section for Neo Hotshots
 - New strategy for exiting the Vulkar Base
