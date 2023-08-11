@@ -2,57 +2,107 @@
 
 ### v4.0: Male Scoundrel -> Jedi Guardian Route
 
-*Route by @indykenobi, with help from @R4NG3 and @ChaosDrifting*
+*Route by [indykenobi](https://www.speedrun.com/users/indykenobi), with help from [R4NG3](https://www.speedrun.com/users/R4NG3) and [ChaosDrifting](https://www.speedrun.com/users/ChaosDrifting)*
 
-*Guide by @indykenobi*
+*Guide by [indykenobi](https://www.speedrun.com/users/indykenobi)*
 
-This route completes all 100 main and side quests in the game with no restrictions. Dark side or light side conclusions are chosen based on overall speed for the route. This guide will cover the character creation and leveling choices, as well as reasoning for each quest's chosen completion and a detailed route.
+This route completes all 100 main and side quests in the game with no restrictions.  Timing begins upon clicking “PLAY” after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and there are frequent load screens.
 
-If you need assistance with the glitches used in the game, I recommended the Major Glitch and Technique guides.  You can either review those guides ahead of time, or use the hyperlinks in the guide below to consult the more detailed material when necessary.  You can also join the KotOR Speedrunning Discord and ask questions if you have them!
+Dark side or light side quest conclusions are chosen based on overall speed for the route. This guide will cover the character creation and leveling choices, as well as reasoning for each quest’s chosen completion and a detailed route.
+
+If you need assistance with the glitches used in the game, I recommend the [Glitch Guides](../#glitch-guides).  You can either review those guides ahead of time, or use the hyperlinks in the guide below to consult the more detailed material when necessary.  You can also join the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu) and ask questions if you have them!
+
+**Table of Contents:**
+- [Category Rules](#category-rules)
+  - [All Quests Category](#all-quests-category)
+  - [Unrestricted Ruleset](#unrestricted-ruleset)
+- [Character Build](#character-build)
+  - [Character Creation](#character-creation)
+  - [Leveling Plan](#leveling-plan)
+- [Equipment Plan](#equipment-plan)
+  - [Weapons Used](#weapons-used)
+- [Credit Route](#credit-route)
+- [Route Overview](#route-overview)
+  - [Planet Route](#planet-route)
+  - [Route Outline](#route-outline)
+- [Detailed Route](#detailed-route)
+- [Complete Quest List](#complete-quest-list)
+- [Version History](#version-history)
+ 
+## Category Rules
 
 **REMEMBER to show yourself restarting the game at the beginning of each attempt.**
 
-[section=Character Build]
+### All Quests Category
 
-***Character Creation
----------------------------***
+For All Quests runs, you must complete the game with either ending on any difficulty, and complete all 100 quests. Completing a quest is defined as any of the following three conditions:
+
+1. The quest appears in the "Completed Quests" section of the journal.
+2. If the quest is entirely removed from the journal when completed, it must appear in the "Active Quests" section of the journal first.
+3. If a quest is completed but then becomes active again, it must be completed again.
+
+Out of the 100 quests, 91 of them can at some point be moved to the "Completed Quests" section of the Journal and thus satisfy condition 1.  
+
+The quest "The Jedi Council" is (with the current route) the only quest that reactivates and thus falls under condition 3.  It is completed both times by satisfying condition 2, as the quest is never placed in the Completed Quests section of the Journal.  The following eight quests are removed entirely from the Journal instead of becoming Completed Quests, and thus must satisfy condition 2:
+- Invited to a Party
+- The Jedi Council (for both completions)
+- The Ebon Hawk
+- Sunry's Story
+- Elora, Sunry's Wife
+- Gluupor, the Rodian
+- Ignus, the Hotel Owner
+- Firith Me, the Pazaak Player
+
+The final quest is the last one in the game, "The Final Confrontation".  The game actually never bothers to update that quest at any point after giving it to you, so for the purposes of the speedrun it is considered to be complete when Malak is defeated (when the timer stops).
+
+### Unrestricted Ruleset
+
+All glitches are allowed in Unrestricted; however, all KotOR speedruns ban the following:
+- Abusing the windowed nature of the game to teleport a character (including Super Save Teleports)
+- Severe underclocking of one's monitor to increase Save Teleport distance
+- Abusing the load removal to excessively pause the timer
+- Loading saves created prior to the run
+- Use of mods or other external tools to modify the software in any way 
+
+## Character Build
+
+### Character Creation
 
 Choosing a male character is faster in two places: starting the "Invited to a Party" quest on Taris requires going further into the Upper City Cantina as a female MC, and you have to do 4 additional conversations with Carth to complete his quest.  This guide will assume a male MC.
 
 Scoundrel is picked for access to Sneak Attack, which is a key part of our combat build.
 
 **Initial Attributes**
-18 Str
-8 Dex
-14 Con
-8 Int
-14 Wis
-10 Cha
+- 18 Str
+- 8 Dex
+- 14 Con
+- 8 Int
+- 14 Wis
+- 10 Cha
 
 Our attributes are chosen here for two reasons: 18 Strength is to maximize our damage and melee weapons for maximum damage. The points in Constitution and Wisdom are to increase the corresponding saving throws, while the 10 in Charisma opens up a couple extra Persuade checks on Kashyyyk, and gives us one extra net Persuade point.
 
 **Initial Skills**
-Persuade - 4
-Security - 4
-Save the rest
+* Persuade - 4
+* Security - 4
+* Save the rest
 
-Security is used for a skip on Endar Spire, as well as opening Selven's apartment on Taris. Persuade is our main skill and what we will be dumping points into during the [Fake Level Ups](b6452) (or FLUs) later on in the run, so that we can take some conversational shortcuts.
+Security is used for a skip on Endar Spire, as well as opening Selven's apartment on Taris. Persuade is our main skill and what we will be dumping points into during the [Fake Level Ups](<../Major Glitches/Fake Level Ups>) (or FLUs) later on in the run, so that we can take some conversational shortcuts.
 
 **Initial Feat** - Weapon Focus: Melee Weapons
 
 Weapon Focus: Melee Weapons gives us a +1 on our combat rolls with melee weapons, translating to every attack having an additional 5% chance to hit.  Since actually hitting is the only thing that can hold back our combat build, we need every bit of extra attack we can get.
 
-***Leveling Plan
--------------------***
+### Leveling Plan
 
-It is important to note that, due to the side effects of [Hotshots](iarwc), our character frequently reverts to a previous level.  Hence for most of Taris we are level 2, and generally stay at level 5 or 6 until Korriban.
+It is important to note that, due to the side effects of [Hotshots](<../Major Glitches/Hotshot>), our character frequently reverts to a previous level.  Hence for most of Taris we are level 2, and generally stay at level 5 or 6 until Korriban.
 
-https://i.imgur.com/va8K9X2.png
+![A chart showing what Feats, Powers, and Skills to take at each level](https://i.imgur.com/va8K9X2.png)
 
-There are multiple [FLUs](b6452) in the five levels we do manually:
-- At Level 2, we do the [Sneak Attack FLU](b6452#ch9Sneak_Attack_FLU) to get Sneak Attack IX and Master Two-Weapon Fighting, as well as 10 Persuade.
-- At Level 4, we do the [Master Speed FLU](b6452#ch10Master_Speed_FLU) to get Master Critical Strike and Master Speed, and bump our Persuade to 12.
-- At Level 5, we do the [Master Valor FLU](b6452#ch11Master_Valor_FLU) to get Weapon Focus: Lightsaber and Master Valor, and bump our Persuade to 14.
+There are multiple [FLUs](<../Major Glitches/Fake Level Ups>) in the five levels we do manually:
+- At Level 2, we do the [Sneak Attack FLU](<../Major Glitches/Fake Level Ups#sneak-attack-flu>) to get Sneak Attack IX and Master Two-Weapon Fighting, as well as 10 Persuade.
+- At Level 4, we do the [Master Speed FLU](<../Major Glitches/Fake Level Ups#master-speed-flu>) to get Master Critical Strike and Master Speed, and bump our Persuade to 12.
+- At Level 5, we do the [Master Valor FLU](<../Major Glitches/Fake Level Ups#master-valor-flu>) to get Weapon Focus: Lightsaber and Master Valor, and bump our Persuade to 14.
 
 Additional Notes:
 - We choose Master Critical Strike over Master Flurry because our weapons have a high base chance to crit, so the damage potential is higher with Critical Strike despite getting one fewer attack per round.
@@ -60,13 +110,14 @@ Additional Notes:
 - Our Force Powers are fairly straightforward; Affect Mind is actually skippable, but it does have minor benefits and selecting it keeps our Force Power menus as clean as possible.
 - 14 Persuade, 10 Charisma, and Master Valor are enough to guarantee all Persuade checks for the entire run, since we max out at level 10.
 
-[section=Equipment Plan]
+## Equipment Plan
 
 **Head: Breath Mask** - Bought from Crattis Yurkal, Dantooine
 - Gives us Immunity: Poison, which is protection against the Force powers Slow, Affliction and Plague.
 
 **Gloves: Strength Gauntlets** - Found on Taris, Sith Governor's corpse
 - These basic gloves give us +1 Strength and are equipped after Taris.  They bring our Strength without stims to 20, bumping our strength mod to +5 (without stims) for the entire midgame.
+
 **Gloves: GenoHaradan Power Gloves** - Received on Manaan from Hulas
 - The reward for killing Ithorak, +4 Strength is only bested by the Dominator Gauntlets, which cost way too much for the marginal upgrade.  These are equipped on the Leviathan for Korriban and the endgame.
 
@@ -75,73 +126,72 @@ Additional Notes:
 
 **Belt: Adrenaline Amplifier** - Found on Taris, Sith Governor's corpse
 - This belt helps our Reflex save a little in the midgame.  It's the most useful belt we come across on Taris, which isn't saying much.
-**Belt: Nerve Amplifier Belt ** - Found on Tatooine, Chewed Twi'Lek corpse
+
+**Belt: Nerve Amplifier Belt** - Found on Tatooine, Chewed Twi'Lek corpse
 - This gives us Immunity: Mind-Affecting, further solidying our defense against the ways of the Sith.
 
-***Weapons Used
--------------------***
+### Weapons Used
 
 **1. Vibrosword** - Purchased on Taris, 132 Credits
+- *Equipped: Mainhand (Taris)*
 - This is better than a vibroblade on Taris, and we use its purchase from Larrim to trigger the Credit Underflow glitch so we can buy sufficient stims for the Duel Ring.
-*Equipped: Mainhand (Taris)*
 
 **2. Prototype Vibroblade** - Found on Endar Spire, Sith Commander corpse
+- *Equipped: Offhand (Taris)*
 - A slightly improved vibroblade, it's readily available, free, and as a balanced offhand weapon helps our chance to hit throughout Taris.
-*Equipped: Offhand (Taris)*
 
 **3. Sanasiki's Blade** - Purchased on Dantooine, 7000 Credits
-*Equipped: Mainhand (Dantooine), Offhand (Kashyyyk through Star Forge)*
+- *Equipped: Mainhand (Dantooine), Offhand (Kashyyyk through Star Forge)*
 - This is the best melee weapon we have early access to without venturing to Yavin. When fully upgraded, this has a 50% chance to crit with Master Critical Strike, and serves as a balanced offhand weapon.  It's in the mainhand on Dantooine so we get three attacks with it through Master Speed; after Dantooine we have enough crystals for the Lightsaber to be preferred in the mainhand.
 
 **4: Lightsaber** - Built on Dantooine during Jedi Trials
-*Equipped: Offhand (Dantooine), Mainhand (Kashyyyk through Star Forge)*
+- *Equipped: Offhand (Dantooine), Mainhand (Kashyyyk through Star Forge)*
 - Since we now skip the Ritual Beast on Kashyyyk, the lightsaber we build during our training is our main weapon for the rest of the game.  We'll add a Sigil Crystal and a Krayt Dragon Pearl to boost our damage, but more importantly our attack.  Having this also enables Force Jump for the entire game.
 
-
-[section=Credits Route]
+## Credit Route
 
 Overall the credit route is quite lenient; there are at least 1000 credits extra at the tightest point after Taris.  There are also only two complicated shopping trips; the first is with Larrim when we use Credit Underflow to go negative, while the second is selling many duplicated items to Janice Nall.
 
 **1. Larrim on Taris (Credit Underflow)**
-*Sell*: 2 Vibroblades, Ion Blaster
-*Buy*: Vibrosword, Vibroblade, Confirm Vibrosword (-76 Credits left)
-*Buy*: Battle Stimulant (-186 Credits left)
+- *Sell*: 2 Vibroblades, Ion Blaster
+- *Buy*: Vibrosword, Vibroblade, Confirm Vibrosword (-76 Credits left)
+- *Buy*: Battle Stimulant (-186 Credits left)
 
 **2. Zelka Forn on Taris**
-*Buy*: 6x Adrenal Alacrity, 7x Adrenal Strength (-836 Credits left)
+- *Buy*: 6x Adrenal Alacrity, 7x Adrenal Strength (-836 Credits left)
 
 **3. Igear on Taris**
-*Buy*: Vibration Cell (102 Credits left)
+- *Buy*: Vibration Cell (102 Credits left)
 
-**4. Janice Noll on Taris**
-*Keep*: All Computer Spikes, 13 parts, 1 Strength Gauntlets, 1 Adrenaline Amplifier, All Stims, 1 Energy Projector, 1 Durasteel Bonding Alloy, 1 Vibration Cell
-*Sell*: Everything Else (11830 Credits left)
+**4. Janice Nall on Taris**
+- *Keep*: All Computer Spikes, 13 parts, 1 Strength Gauntlets, 1 Adrenaline Amplifier, All Stims, 1 Energy Projector, 1 Durasteel Bonding Alloy, 1 Vibration Cell
+- *Sell*: Everything Else (11830 Credits left)
 
 **5. Crattis Yurkal on Dantooine**
-*Buy*: Sanasiki's Blade, Breath Mask, +/-3, +/-5 (4530 Credits left)
+- *Buy*: Sanasiki's Blade, Breath Mask, +/-3, +/-5 (4530 Credits left)
 
 **6. Eli Gand on Kashyyyk**
-*Buy*: Hyper Battle Stimulant, Hyper-Adrenal Strength (5830 Credits left)
+- *Buy*: Hyper Battle Stimulant, Hyper-Adrenal Strength (5830 Credits left)
 
 **7. Mic'Tunan'Jus Orgu on Tatooine**
-*Buy*: Bantha Fodder (5829 Credits left)
+- *Buy*: Bantha Fodder (5829 Credits left)
 
 **8. Junix Nard on Tatooine**
-*Buy*: All Paazak Cards
-*Note*: The fastest way to do this also involves buying the Hair Trigger that's in the middle, which we can and do afford (3859 Credits left)
+- *Buy*: All Paazak Cards
+- *Note*: The fastest way to do this also involves buying the Hair Trigger that's in the middle, which we can and do afford (3859 Credits left)
 
 **9. Selkath Merchant on Manaan**
-*Buy*: 5x Hyper Battle Stimulant, 5x Hyper Adrenal Strength (2109 Credits left)
+- *Buy*: 5x Hyper Battle Stimulant, 5x Hyper Adrenal Strength (2109 Credits left)
 
 Our main sources of credits are selling items to Janice, which is most of our twice-duplicated inventory.  We also use credits from quest rewards, particularly the Taris Duel Ring, Dantooine sidequests and the Manaan Swoop Races.
 
-[section=Route Overview]
+## Route Overview
 
-***Planet Route
--------------------***
+### Planet Route
+
 Taris -> Dantooine -> Kashyyyk -> Tatooine 1 -> (Manaan 1 -> Tatooine 2 -> Manaan 2) -> Leviathan -> Korriban -> Unknown Planet -> Star Forge
 
-The planets in parentheses are traveled between using [Hotshots](iarwc); Tatooine 2 includes several cleanup [Hotshots](iarwc), which start on Tatooine and warp to Manaan, Kashyyyk, Tatooine, and Manaan again in quick succession.  Both Leviathan and Korriban include a side trip to parts of Manaan to cleanup some quests.
+The planets in parentheses are traveled between using [Hotshots](<../Major Glitches/Hotshot>); Tatooine 2 includes several cleanup [Hotshots](<../Major Glitches/Hotshot>), which start on Tatooine and warp to Manaan, Kashyyyk, Tatooine, and Manaan again in quick succession.  Both Leviathan and Korriban include a side trip to parts of Manaan to cleanup some quests.
 
 The GenoHaradan sidequests are the main routing constraint in the midgame.  These sidequests alone give the following restrictions:
 - Before visiting Manaan, you must trigger the GenoHaradan quests by getting either the Kashyyyk, Tatooine, or Korriban maps and then visiting Senni Vek on that planet.
@@ -151,15 +201,15 @@ The GenoHaradan sidequests are the main routing constraint in the midgame.  Thes
 
 Other planet route notes:
 - Korriban does not require two visits if you get its Star Map last, since then you can do the Premium Merchant quest at that time. The Premium Merchant quest is only available after the Leviathan.
-- Kashyyyk could be done in one visit if done after Manaan 1; however, skipping Rulan lets us reach the Lower Shadowlands more quickly, and there is a convenient [Coordinate Warp](iarwc#ch7Coordinate_Warping) to go back for Rulan from the Manaan Sith Base.
+- Kashyyyk could be done in one visit if done after Manaan 1; however, skipping Rulan lets us reach the Lower Shadowlands more quickly, and there is a convenient [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to go back for Rulan from the Manaan Sith Base.  It also streamlines the "Sunry Murder Trial" questline on Manaan to have Jolee for Manaan 1.
 - Tatooine could be done in one visit if done after Manaan 1; however, it is faster to visit Senni Vek on Tatooine, even though we do Kashyyyk first.  Senni Vek is quite out of the way on Kashyyyk.
 
 
-***Route Outline
--------------------***
+### Route Outline
 
 **0. Endar Spire**
 - Obtain Plot Armor via the Spire DLZ and a Hotshot
+
 **1. Taris 1**
 - Sneak Attack FLU
 - Bounties for Dia and Largo
@@ -168,6 +218,7 @@ Other planet route notes:
 - Bounty for Matrik and Vulkar Base DLZ
 - Coordinate Warp in Vulkar Base to get Swoop Accelerator
 - Rescue Bastila
+
 **2. Taris 2**
 - Inventory Dupe from Hideout
 - Autosave Hotshot to Lower City
@@ -179,7 +230,8 @@ Other planet route notes:
 - Turn in bounty rewards to Zax
 - Recruit T3 and Canderous
 - AMG to steal the Ebon Hawk and escape Taris
-**3. Dantooine 1**
+
+**3. Dantooine**
 - Undergo Jedi Training to become a Padawan
 - Master Speed FLU
 - Enclave DLZ
@@ -192,6 +244,7 @@ Other planet route notes:
 - Kill Sherruk
 - Lena accosts Mission
 - Master Valor FLU
+
 **4. Kashyyyk**
 - Enter the Shadowlands
 - Find the Bowcaster Bolt Casing
@@ -204,6 +257,7 @@ Other planet route notes:
 - Confront Eli with the recording
 - Find the Star Map in the Lower Shadowlands
 - Defeat the Mandalorian Hunters
+
 **4. Tatooine 1**
 - Buy Sharina's Wraid Plate
 - Swoop Skip for Tatooine Swoops
@@ -218,6 +272,7 @@ Other planet route notes:
 - Trigger the GenoHaradan bounty quests
 - Order Sasha off your ship
 - Finish Jolee's and Carth's backstories
+
 **5. Manaan 1**
 - Jordo and Carth meet
 - Sell Gizka to Nubassa
@@ -227,6 +282,7 @@ Other planet route notes:
 - Speak to Nilko Bwaas and Shaelas
 - Kill Ithorak and enter the Sith Base
 - Transit Point Storage to the Dune Sea
+
 **6. Tatooine 2**
 - Hack Vorn's droid to attack him
 - Vaporator Skip and give a Pearl to the Chieftain
@@ -238,7 +294,8 @@ Other planet route notes:
 - Give Czerka the Chieftain's gaffi stick
 - Give Griff the tach gland and have him ditch you
 - Reconcile Bastila and her mother
-**8. Manaan 2**
+
+**7. Manaan 2**
 - Turn in Ithorak's bounty to Hulas
 - Investigate Sunry's case and find the secret recording
 - Turn in the Data Module and take the Submersible
@@ -246,13 +303,15 @@ Other planet route notes:
 - Tell Shaelas about his daughter
 - Tell Nilko Bwaas about the mercenaries
 - Show the recording at Sunry's trial
-**9. The Leviathan**
+
+**8. The Leviathan**
 - Set the flag for Dantooine's destruction
 - Skip the prison break segment via a Coordinate Warp
 - Coordinate Warp in the bridge to reach the hangar
 - Defeat Darth Malak to escape
 - Learn HK-47's true identity
-**10. Korriban**
+
+**9. Korriban**
 - Glitched Jagi's Challenge with Canderous
 - Tell Lurze Kesh you won't help him
 - Visit Mika Dorin's premium shop
@@ -274,27 +333,28 @@ Other planet route notes:
 - Gain entrance to Naga Sadow's tomb and find the Star Map
 - Kill Uthar and spare Yuthura
 - Kill Xor and his minions
-**11. Lehon**
+
+**10. Lehon**
 - Defeat the Mandalorian leader and give his head to Warleader Garn
 - Speak with Researcher Ll'awa in the Elder Rakatan Compound
 - GP Warp to enter the temple
 - Defeat Bastila and stay true to the light side
 - Turn in genetic data to the Elder Rakata
 - Repair the Ebon Hawk and locate the Star Forge
-**12. Star Forge**
+
+**11. Star Forge**
 - Finish Canderous's backstory
 - Defeat and redeem Bastila
 - Defeat Darth Malak
 
-
-[section=Detailed Route]
+## Detailed Route
 
 A full route of all actions to take to complete the run follows.  First, some general notes:
 
 **Save File Notes:**
 - *This run should start with no saved games at all.*  Saving in a new slot is slightly faster, and for one strat we *MUST* save in a new slot to avoid breaking a [Fast Lane](imbom).
 - All necessary Hard Saves are noted in **bold**, along with the slot to save in.  Most saves will be in new slots, particularly after Kashyyyk.  
-- When performing a [Hotshot](iarwc), you can always save in the first slot, with one noted exception on Taris at the start.
+- When performing a [Hotshot](<../Major Glitches/Hotshot>), you can always save in the first slot, with one noted exception on Taris at the start.
 - This route ends up using **19** total save slots.
 
 **Quest Notes:**
@@ -315,7 +375,7 @@ QL - Quick Load
 QS/QL - Quick Save then immediately Quick Load
 AMG - [Anywhere Menu Glitch](d4jq8)
 DLZ - [Displaced Load Zone](f0aia)
-FLU - [Fake Level Up](b6452)
+FLU - [Fake Level Up](<../Major Glitches/Fake Level Ups>)
 GP Warp - [Gather Party Warp](77xef)
 
 [section=Endar Spire]
@@ -344,7 +404,7 @@ Obtain Plot Armor (minimum Vitality of 1)
 - During or immediately after the load, press Alt+F4 to activate [AMG](d4jq8)
 - When the cutscene starts, [use the Options menu](d4jq8#ch4Control_During_Cutscenes) to make a **Manual Save in New Slot (Slot 1)**
 - Load Slot 1 and activate [AMG](d4jq8) on the load
-- Perform a [Quick Save Hotshot](iarwc#ch4Quick_Save_Hotshots) to return to the Command Module
+- Perform a [Quick Save Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to return to the Command Module
 - Repeat the [Endar Spire DLZ](f0aia#ch6Endar_Spire_DLZ) to reenter the Starboard Section
 In the Options Menu, re-enable V-Sync
 Loot footlocker in Terminal Room
@@ -363,7 +423,7 @@ Carth accosts you: 4,3,2,5,3
 Loot the footlocker for computer spikes
 Exit the Hideout with Carth
 Immediately after the load, [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip Sith Raid cutscene
-[Sneak Attack FLU](b6452#ch9Sneak_Attack_FLU)
+[Sneak Attack FLU](<../Major Glitches/Fake Level Ups>#ch9Sneak_Attack_FLU)
 As Carth, use Security to open the first apartment on the right
 As MC, trigger the [Credit Underflow](d4jq8#ch6Credit_Underflow) glitch
 - Activate [AMG](d4jq8) via QS
@@ -447,7 +507,7 @@ As Carth, run back to hall and click on exit door
 Swap to MC and loot Largo for Energy Projector
 Swap back to Carth and wait until he opens the door
 **Manual Save in Slot 1**
-[Coordinate Warp](iarwc#ch7Coordinate_Warping) to Upper City Cantina via [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) using Slot 3
+[Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Upper City Cantina via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) using Slot 3
 
 **The Duel Ring:**
 Vs. Deadeye Duncan:
@@ -509,10 +569,10 @@ Vs. Bendak Starkiller:
 Immediately after Bendak dies, activate [AMG](d4jq8) via QS
 When the announcer starts talking, [use the Options menu](d4jq8#ch4Control_During_Cutscenes) to make a **Manual Save in Slot 3**
 Load Slot 1 and exit the apartments to get an Autosave in Upper City North
-Load Slot 2 and [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) from Upper City Cantina to South Apartments
+Load Slot 2 and [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) from Upper City Cantina to South Apartments
 - QS in South Apartments, then load Slot 3
-- Activate [AMG](d4jq8) on the load, then perform the [QS Hotshot](iarwc#ch4Quick_Save_Hotshots)
-[Transit Point Storage](iarwc#ch8Transit_Point_Storage) to warp to Upper City North's default spawn
+- Activate [AMG](d4jq8) on the load, then perform the [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
+[Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>) to warp to Upper City North's default spawn
 } Use Adrenal Strength
 **Manual Save in Slot 3**
 Disable V-Sync to perform the [Sith Base DLZ](f0aia#ch7Sith_Base_DLZ)
@@ -528,7 +588,7 @@ Governor accosts you
 Use [Wired Targeting](41875#ch3Quick_Wired_Targeting_Combat) to kill the Governor
 Loot the right strongbox for Computer Spikes and Durasteel Bonding Alloy
 Loot the Governor for Launch Codes, Strength Gauntlets, and Adrenaline Amplifier
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Upper City North using Slot 3 
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Upper City North using Slot 3 
 Add Carth to the party
 } Use Adrenal Alacrity on Carth
 Run Carth to the elevator so Sith Soldier accosts you
@@ -544,7 +604,7 @@ Enter Apartments with Carth and activate [AMG](d4jq8) on the load
 With Carth, use Security on apartment to right
 Matrik accosts you: 2
 As MC, kill Matrik via Sneak Attack
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) back to Lower City using your pop-up
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to Lower City using your pop-up
 [Vulkar Door Clip DLZ](f0aia#ch9Vulkar_Base_DLZ)
 - Disable V-Sync and activate Solo Mode
 - Run Carth slightly forward, then swap to MC and [Conversation Queue](n9hoc) to Carth
@@ -569,7 +629,7 @@ As MC, kill Matrik via Sneak Attack
 -- Finishes "A Rancor in the Sewers"
 - Open the door ahead and run right down the hall
 ---------------------------------------------------------
-***Alternate Strat: [QS Hotshot](iarwc#ch4Quick_Save_Hotshots)***
+***Alternate Strat: [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)***
 *This strat is consistent and only slightly slower than a good [Sewers DLZ](f0aia#ch10Sewers_DLZ).*
 - Disable V-Sync and use an Alacrity on MC
 - Kill the Vulkar Guard behind the first door
@@ -580,18 +640,18 @@ As MC, kill Matrik via Sneak Attack
 - Swap to Carth, enter the Sewers, and activate [AMG](d4jq8) on the load
 - As Carth, run forward and open the door to the rancor
 -- Finishes "A Rancor in the Sewers"
-- As soon as the door begins to open, [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) back to the Vulkar Base using your pop-up
+- As soon as the door begins to open, [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to the Vulkar Base using your pop-up
 ---------------------------------------------------------
 Run past the patrol droid and turrets and enter the Vulkar Garage
 - You may need to kill the patrol droid if Carth gets stuck too far from the Garage Load Zone
 **Manual Save in Slot 1**
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to South Apartments using Slot 2
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to South Apartments using Slot 2
 Transit Back to UCS and activate [AMG](d4jq8) on the load
-[Coordinate Warp](iarwc#ch7Coordinate_Warping) to Vulkar Garage via [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) using Slot 1
+[Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Vulkar Garage via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) using Slot 1
 - If you set the transit point correctly, you don't have to move Carth at all
 As Carth, loot the prototype accelerator
 Activate [AMG](d4jq8) via QS and talk to Kandon Ark
-- [Use the Options menu](d4jq8#ch4Control_During_Cutscenes) to [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Upper City North using Slot 3
+- [Use the Options menu](d4jq8#ch4Control_During_Cutscenes) to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Upper City North using Slot 3
 
 **Swoop Platform:**
 Enter the Lower City with Carth
@@ -623,7 +683,7 @@ Bastila #1 and Carth #2
 - Begins "Bastila"
 [Full Inventory Dupe](hioyc#ch3Full_Inventory_Duplication) via the [AMG](d4jq8) method
 Activate [AMG](d4jq8) on the load and immediately [Map CS Skip](rb685) to open the map
-[Transit Point Storage](iarwc#ch8Transit_Point_Storage) to warp to the Lower City's default spawn point
+[Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>) to warp to the Lower City's default spawn point
 [Hard Buffer](t5kyf#ch3Hard_Buffers) to skip extortion CS
 Add Carth to party and enter the Lower City Apartments
 - Adding Carth adds a copy of your inventory to your inventory
@@ -686,11 +746,11 @@ Remove Mission from the party
 Re-enter the Lower Sewers by the nearby entrance
 [Save Teleport](5dagb) through first two doors and take first door on left
 Loot the third journal from the outcast corpse
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to South Apartments using Slot 2
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to South Apartments using Slot 2
 Add Mission to party and Transit Back
 Activate [AMG](d4jq8) via QS and talk to Rukil
 - Mash the conversation until the outcasts begin walking out of the gate
-- [Use the Options menu](d4jq8#ch4Control_During_Cutscenes) to [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Javyar's Cantina using Slot 4
+- [Use the Options menu](d4jq8#ch4Control_During_Cutscenes) to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Javyar's Cantina using Slot 4
 - Finishes "Rukil's Apprentice"
 - Finishes "The Promised Land"
 
@@ -703,7 +763,7 @@ Activate Solo Mode and swap to Mission
 Talk to Zax: 1,3,3,1x13,2
 - Finishes "Rakghoul Serum"
 - Finishes five bounty quests: Dia, Largo, Selven, Bendak, and Matrik
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Upper City North using Slot 3
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Upper City North using Slot 3
 Swap to Mission and use Adrenal Alacrity
 Talk to Janice: 2,4,1
 - Finishes "Purchasing a Droid"
@@ -722,7 +782,7 @@ Talk to Janice again: 1
 - 1 Vibration Cell
 End: 11830 Credits
 ---------------------------------------------------------
-Activate [AMG](d4jq8) via Manual Save (Slot 1) to [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) back to Javyar's Cantina
+Activate [AMG](d4jq8) via Manual Save (Slot 1) to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to Javyar's Cantina
 - The only active quests now should be "Bastila", "Carth", and "Escaping Taris"
 Talk to Canderous: 2,1
 - Begins "Canderous"
@@ -774,7 +834,7 @@ Swap to Canderous and talk to Master Zhar
 Swap to MC and talk to Master Zhar again: 1,1,6,3,2,6,4
 Swap to Canderous and talk to Master Dorak to become a Jedi Guardian
 > Level 3: Save Skills, Medium Armor Proficiency, Force Valor and Affect Mind
-[Master Speed FLU](b6452#ch10Master_Speed_FLU)
+[Master Speed FLU](<../Major Glitches/Fake Level Ups>#ch10Master_Speed_FLU)
 Swap to Canderous and talk to Master Zhar
 - Begins "Jedi Trials"
 Swap to MC and use Workbench to fully upgrade Sanasiki's Blade
@@ -809,7 +869,7 @@ Kill the Mandalorian to the left via Force Jump
 - You do not need to kill the Duros or the Mandalorian on the right
 [Soft Buffer](t5kyf#ch4Soft_Buffers) to skip the Juhani fight
 Talk to Juhani to redeem her
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Jedi Enclave using Slot 2
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Jedi Enclave using Slot 2
 Talk to Master Zhar
 - Finishes "Jedi Trials"
 - Rebegins "The Jedi Council"
@@ -819,7 +879,7 @@ Talk to Master Vandar
 - Begins "Investigate Ruins"
 - Begins "Sandral-Matale Feud"
 Remove Bastila from party
-Activate [AMG](d4jq8) via a Manual Save (Slot 1) to [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) back to the Grove
+Activate [AMG](d4jq8) via a Manual Save (Slot 1) to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to the Grove
 
 **Dantooine Ruins:**
 Run/Force Jump to Matale Grounds
@@ -840,7 +900,7 @@ Enable V-Sync and activate [AMG](d4jq8) via QS
 Swap to Mission and [GP Warp](77xef#ch3AMG_GP_Warps) to move MC to the exit
 Talk to Mission three times: 1 | 1,1,4,1 | 1x13,2
 **Manual Save in Slot 4**
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Sandral Grounds using Slot 3
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Sandral Grounds using Slot 3
 
 **Sidequest Cleanup:**
 Deactivate Solo Mode
@@ -876,13 +936,13 @@ Kill Sherruk
 - You don't have to kill anyone except Sherruk
 
 **Leaving Dantooine:**
-Immediately after Sherruk dies, [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Jedi Enclave using Slot 2
+Immediately after Sherruk dies, [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Jedi Enclave using Slot 2
 Talk to Master Vandar
 - Begins "A Quest for the Star Forge"
 - Begins "Juhani"
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Ruins using Slot 4
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Ruins using Slot 4
 Exit the Ruins and [AMG](d4jq8) on the load
-[Autosave Hotshot](iarwc#ch5Autosave_Hotshots) to Courtyard by re-entering the Ruins
+[Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) to Courtyard by re-entering the Ruins
 Talk to Elise
 - Finishes "Missing Companion"
 Talk to Jon
@@ -891,7 +951,7 @@ Add Juhani and Mission to party and RtEH
 Run forward slightly to have Lena accost Mission
 - Begins "Mission's Brother"
 Juhani #1 and #2
-[Master Valor FLU](b6452#ch11Master_Valor_FLU)
+[Master Valor FLU](<../Major Glitches/Fake Level Ups>#ch11Master_Valor_FLU)
 Juhani #3
 Board the Ebon Hawk
 - Finishes "The Ebon Hawk"
@@ -902,7 +962,7 @@ Bastila #2 and #3: 2,1spam for both
 Carth #3
 Quick Save before using the Galaxy Map!
 Fly to Tatooine with a [Map CS Skip](rb685) to RtEH
-Activate [AMG](d4jq8) on the load to [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) back to Ebon Hawk
+Activate [AMG](d4jq8) on the load to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to Ebon Hawk
 Bastila #4 and #5: 2,1spam for both
 Carth #4
 Fly to Kashyyyk with a [Map CS Skip](rb685)
@@ -929,7 +989,7 @@ Add Juhani and exit to the Great Walkway
 QS, then reenter the Landing Pad and activate [AMG](d4jq8) on the load
 Position Juhani in a specific spot
 https://i.imgur.com/BfgfArb.png
-[Coordinate Warp](iarwc#ch7Coordinate_Warping) back to the Great Walkway via [QS Hotshot](iarwc#ch4Quick_Save_Hotshots)
+[Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) back to the Great Walkway via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
 After loading, activate [AMG](d4jq8) via QS
 Swap to MC and [GP Warp](77xef#ch3AMG_GP_Warps) Juhani to the Shadowlands elevator
 **Manual Save in Slot 3**
@@ -980,7 +1040,7 @@ Swap to MC after the convo, move behind Freyyr and attack him again
 Finish moving Juhani and wait for the Journal Icon to pop-up in the top left
 - When the icon shows, Freyyr is dead and we can continue
 As Juhani, activate [AMG](d4jq8) via QS and run forward to trigger the first Mandalorian ambush
-- [Use the Options menu](d4jq8#ch4Control_During_Cutscenes) to [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to the Great Walkway using Slot 3
+- [Use the Options menu](d4jq8#ch4Control_During_Cutscenes) to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to the Great Walkway using Slot 3
 As you cancel the menus, the elevator convo should trigger; use it to go to Upper Shadowlands: 1
 **Manual Save in Slot 3**
 Cast Master Speed, then move to the right of Gorwooken and speak to him: 1
@@ -997,7 +1057,7 @@ Activate [AMG](d4jq8) on the load, then [AMG Skip](d4jq8#ch4Control_During_Cutsc
 As MC, talk to Eli Gand
 - Finishes "Honest Debt"
 If Juhani and Jolee warped to MC, you'll have to run one of them back to the Ebon Hawk
-Activate [AMG](d4jq8) via a Manual Save, then [Coordinate Warp](iarwc#ch7Coordinate_Warping) back to Lower Shadowlands via [QS Hotshot](iarwc#ch4Quick_Save_Hotshots)
+Activate [AMG](d4jq8) via a Manual Save, then [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) back to Lower Shadowlands via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
 
 **Lower Shadowlands:**
 *From now to the end of the run, [Save Teleporting](5dagb) is the preferred form of movement.*
@@ -1019,7 +1079,7 @@ As soon as the CS ends, kill the Mandalorian Commander
 - It is easy to get stunned in this battle, but if you're close enough you can still attack the commander by queueing a combat action immediately after swapping to MC
 Loot the Mandalorian Commander for his helmet
 - Finishes "Hidden Hunters"
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to the Ebon Hawk using Slot 2
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to the Ebon Hawk using Slot 2
 Bastila #6, Carth #5
 Fly to Tatooine with a [Map CS Skip](rb685)
 - Add Bastila to the party during the [Map CS Skip](rb685)
@@ -1060,7 +1120,7 @@ Enter Swoop Registration
 Activate [AMG](d4jq8) via QS and talk to Motta: 1,3,1spam
 - Begins "Signing Nico"
 - Begins "Tatooine Swoop Races"
-Perform [Swoop Skip](iarwc#ch9Swoop_Skips) three times
+Perform [Swoop Skip](<../Major Glitches/Hotshot#swoop-skips>) three times
 - After the first two skips, clear menus and activate [AMG](d4jq8) via QS, then talk to Motta: 2,1
 - Finishes "Tatooine Swoop Races"
 After the last skip, talk to Nico
@@ -1111,7 +1171,7 @@ Talk to Tanis after he accosts you: 1,1,3,1,1
 Loot talking rubble in swoop crash area to trigger Gamorrean ambush: 4,1
 - Finishes "A Desert Ambush"
 RtEH and Transit Back to create a transit point
-- We will use this for [Transit Point Storage](iarwc#ch8Transit_Point_Storage) later
+- We will use this for [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>) later
 [Save Teleport](5dagb) to skip trigger and enter the Eastern Dune Sea
 - *Suggested Memory Reset #3 on the Autosave*
 [Soft Buffer](t5kyf#ch4Soft_Buffers) from entrance to Komad
@@ -1138,7 +1198,7 @@ Activate [AMG](d4jq8) via QS, then click the Star Map and [AMG Skip](d4jq8#ch4Co
 - You may need to skip over Manaa Demknot's convo again if you [Save Teleported](5dagb) to skip it earlier
 - Begins "GenoHaradan"
 [Save Teleport](5dagb) forward once into a small dead end, then RtEH
-- This helps position us for a [Coordinate Warp](iarwc#ch7Coordinate_Warping) later
+- This helps position us for a [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) later
 Board the Ebon Hawk
 - You may want to cast Master Speed to make your [Save Teleports](5dagb) more manageable here
 Run forward until Zaalbar accosts you
@@ -1156,7 +1216,7 @@ Hear the three sets of footsteps, then return to the hold to evict Sasha: 3,3,1,
 - QS/QL between each conversation to advance to the next
 - Finishes "Carth"
 Fly to Manaan with a [Map CS Skip](rb685) to RtEH
-Activate [AMG](d4jq8) on the load to [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) back to Ebon Hawk
+Activate [AMG](d4jq8) on the load to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to Ebon Hawk
 Fly to Manaan again with a [Map CS Skip](rb685)
 - Add Carth to the party before you RtEH
 
@@ -1199,10 +1259,10 @@ Enter Ahto East with a party member
 [Soft Buffer](t5kyf#ch4Soft_Buffers) to skip the rude Sith toll lady
 Talk to Vek inside the swoop area
 Talk to Queedle: 1x4,2 | QS/QL | 1,3
-Perform [Swoop Skip](iarwc#ch9Swoop_Skips) three times
+Perform [Swoop Skip](<../Major Glitches/Hotshot#swoop-skips>) three times
 - After each skip, press Escape once to clear the menu and IMMEDIATELY press Alt+F4 to activate [AMG](d4jq8)
 - After the swoop victory dance CS starts, [AMG Skip](d4jq8#ch4Control_During_Cutscenes) it via [Force Skip](8fp02)
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Manaan Docking Bay using Slot 7
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Manaan Docking Bay using Slot 7
 Transit Back to return to the West Central transit point
 - *Suggested Memory Reset #4 on the Autosave*
 Enter Ahto West
@@ -1242,7 +1302,7 @@ When the CS ends, use the shuttle to reach the Manaan Sith Base
 After the Manual Save, use the [Fast Lane](imbom) to RtEH
 QS, then load the Anchorhead save (Slot 4)
 Talk to the Gate Guard to get the Dune Sea Autosave
-QL and activate [AMG](d4jq8) on the load to perform [Transit Point Storage](iarwc#ch8Transit_Point_Storage)
+QL and activate [AMG](d4jq8) on the load to perform [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>)
 
 [section=Tatwoine]
 
@@ -1269,8 +1329,8 @@ Talk to the Chieftain: 1x11, 3
 Talk to Griff and the imprisoned Jawa
 
 **Warping Segment:**
-[Offset Hotshot](iarwc#ch6Offset_Hotshots) to Anchorhead using Slot 4
-- This needs to be a [Offset Hotshot](iarwc#ch6Offset_Hotshots) so that HK and Mission spawn at the exit to the Dune Sea
+[Offset Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) to Anchorhead using Slot 4
+- This needs to be a [Offset Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) so that HK and Mission spawn at the exit to the Dune Sea
 Activate Solo Mode and use HK-47 to talk to Iziz
 - This swaps HK's position with MC's
 - Finishes "Fair Trade"
@@ -1279,16 +1339,16 @@ https://i.imgur.com/O1RtV4j.png
 **Manual Save in Slot 1**
 Swap to Mission and talk to the Gate Guard to enter the Dune Sea
 QS, then load the Anchorhead save in Slot 1
-[AMG](d4jq8) on the load to [Coordinate Warp](iarwc#ch7Coordinate_Warping) to Dune Sea via [QS Hotshot](iarwc#ch4Quick_Save_Hotshots)
-- This puts HK-47 in the right place for the next [Coordinate Warp](iarwc#ch7Coordinate_Warping)
+[AMG](d4jq8) on the load to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Dune Sea via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
+- This puts HK-47 in the right place for the next [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>)
 [Save Teleport](5dagb) to position Mission in this spot
 https://i.imgur.com/RobinnA.png
-[Coordinate Warp](iarwc#ch7Coordinate_Warping) to Manaan Sith Base via [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) using Slot 9
+[Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Manaan Sith Base via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) using Slot 9
 - If Mission spawns near MC, she wasn't in the right spot.  QS, then load the Dune Sea save to reposition and try again
 As Mission, talk to Shasa: 3
 - Don't go near the door or you'll warp the party to you!
 Swap to HK-47 and loot the Data Module
-[Coordinate Warp](iarwc#ch7Coordinate_Warping) via [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Upper Shadowlands using Slot 3
+[Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Upper Shadowlands using Slot 3
 As HK-47, loot the Wookiee Corpse, then [Save Teleport](5dagb) right next to the Rulan-Wookiee
 Swap to MC, cast Master Speed, and use Hyper Strength and Hyper Battle Stim
 Swap back to HK and talk to the Wookiee to start the Rulan fight
@@ -1298,18 +1358,18 @@ Swap back to HK and talk to the Wookiee to start the Rulan fight
 - When you get knocked back after the terentatek phase, QS/QL to freeze the Rulan-tach in place
 Cast Master Speed, then after a delay, talk to and kill the Rulan-tach
 [Save Teleport](5dagb) as MC until you're just past the fog patch on the ground
-- This sets up a later [Coordinate Warp](iarwc#ch7Coordinate_Warping)
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Czerka Office using Slot 5
+- This sets up a later [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>)
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Czerka Office using Slot 5
 Talk to Czerka Protocol Officer: 1,2,2
 - Finishes "Sand People"
 Remove Mission and HK-47, add Bastila to party
 Talk to Griff twice, then QS/QL and Greeta Holda accosts you
 - Finishes "Mission's Brother"
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Tatooine Cantina using Slot 6
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Tatooine Cantina using Slot 6
 Talk to Helena
 - Finishes "Bastila's Mother"
 Remove Bastila from Party
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to East Central using Slot 2
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to East Central using Slot 2
 
 [section=Manaan 2]
 
@@ -1380,10 +1440,10 @@ Activate [AMG](d4jq8) on the load
 Use the Detention Console to free the party
 Loot your inventory from the right hand locker
 **Manual Save in New Slot (Slot 11)**
-Prison Block [Coordinate Warp](iarwc#ch7Coordinate_Warping):
-- [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Upper Shadowlands using Slot 10
+Prison Block [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>):
+- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Upper Shadowlands using Slot 10
 - Don't clear menus after the load; instead QS, open the Options menu, press Enter, and select OK
-- This [Coordinate Warps](iarwc#ch7Coordinate_Warping) back to Prison Block via an abbreviated [QS Hotshot](iarwc#ch4Quick_Save_Hotshots)
+- This [Coordinate Warps](<../Major Glitches/Hotshot#coordinate-warping>) back to Prison Block via an abbreviated [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
 - If you positioned MC correctly after killing Rulan, you don't need to reposition before the warp back
 Swap to Carth or Bastila and [Save Teleport](5dagb) up ramp
 - If you get to the door with no CS, run backwards a little to trigger Canderous's convo
@@ -1393,7 +1453,7 @@ Take the elevator to the Command deck: 2
 
 **Command Deck:**
 [AMG](d4jq8) on the load into Command Deck
-Use the elevator controls to [Autosave Hotshot](iarwc#ch5Autosave_Hotshots) to the Command Deck
+Use the elevator controls to [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) to the Command Deck
 - Instead of going through a load zone, first position MC so the controls are targeted
 - Once on the load game menu, unpause and use Default Action to select 1 go to Prison Block
 Cast Master Speed
@@ -1401,12 +1461,12 @@ Go through first door on right and bash down opposite door to enter the Bridge
 - The Dark Jedi here can stun you with Force Whirlwind, so be fast and lucky
 Inside the Bridge, [Save Teleport](5dagb) either Carth or Bastila to the far left corner of the room
 - This positions them so that the next warp places them OoB
-Leviathan Bridge [Coordinate Warp](iarwc#ch7Coordinate_Warping):
-- [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Sea Floor using Slot 10
+Leviathan Bridge [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>):
+- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Sea Floor using Slot 10
 - Don't clear menus after the load; instead QS, open the Options menu, press Enter, and select OK
-- This [Coordinate Warps](iarwc#ch7Coordinate_Warping) back to Leviathan Bridge via an abbreviated [QS Hotshot](iarwc#ch4Quick_Save_Hotshots)
+- This [Coordinate Warps](<../Major Glitches/Hotshot#coordinate-warping>) back to Leviathan Bridge via an abbreviated [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
 Swap to the party member on the bridge and hack the computer console: 1,2
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Ahto West using Slot 8
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Ahto West using Slot 8
 Talk to Shaelas: 2,1spam
 - Finishes "Missing Selkath"
 Talk to Nilko Bwaas: 2,1spam
@@ -1414,9 +1474,9 @@ Talk to Nilko Bwaas: 2,1spam
 [Save Teleport](5dagb) to the Prison and talk to the Selkath Warden to complete Sunry's Trial: 4,1 | 1
 - Finishes "Sunry's Trial"
 - Finishes the five witness sidequests
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Prison Block using Slot 11
-- *Suggested Memory Reset #6 during the [Hotshot](iarwc)*
-- Can reset after the QS in Prison Block, then load slot 1 to finish the [Hotshot](iarwc)
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Prison Block using Slot 11
+- *Suggested Memory Reset #6 during the [Hotshot](<../Major Glitches/Hotshot>)*
+- Can reset after the QS in Prison Block, then load slot 1 to finish the [Hotshot](<../Major Glitches/Hotshot>)
 Use the elevator controls to reach the Hangar: 3
 
 **Hangar:**
@@ -1534,11 +1594,11 @@ Thalia May accosts you: 1,3,1,3
 - Finishes "Renegade Sith"
 Position MC on left side of mouth of passage to back of cave
 https://i.imgur.com/Zt52j4W.png
-- This is for a later [Coordinate Warp](iarwc#ch7Coordinate_Warping)
+- This is for a later [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>)
 **Manual Save in New Slot (Slot 13)**
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to East Central using Slot 2
-- *Suggested Memory Reset #7 during the [Hotshot](iarwc)*
-- Can reset after the QS in East Central, then load Slot 13 to finish the [Hotshot](iarwc)
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to East Central using Slot 2
+- *Suggested Memory Reset #7 during the [Hotshot](<../Major Glitches/Hotshot>)*
+- Can reset after the QS in East Central, then load Slot 13 to finish the [Hotshot](<../Major Glitches/Hotshot>)
 Roland Wann accosts you
 - Finishes "Mission for the Republic"
 Activate [AMG](d4jq8) via QS, then open the embassy door and [AMG Skip](d4jq8#ch4Control_During_Cutscenes) the CS via QS/QL
@@ -1546,7 +1606,7 @@ Talk to Hulas: 1,1,1,3,1,1,2,1
 - Finishes "GenoHaradan: Zuulan"
 - Finishes "GenoHaradan: Vorn"
 - Finishes "GenoHaradan"
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Valley of the Dark Lords using Autosave
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Valley of the Dark Lords using Autosave
 
 [section=Korriban 2]
 
@@ -1567,7 +1627,7 @@ Ajunta Pall accosts you: 1,1,1,4,1,1,1,1
 Interact with the Sith Statue: 1
 Run to the exit until Ajunta Pall accosts you: 3
 - Finishes "The Sword of Ajunta Pall"
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Valley of the Dark Lords using Autosave
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Valley of the Dark Lords using Autosave
 Swap to T3 and [Save Teleport](5dagb) to Lashowe
 Kill the tukata as MC via Critical Strike
 - While this fight happens, click on the door to the Tomb of Tulak Hord with T3
@@ -1581,13 +1641,13 @@ Interact with the console, then after the dialog option [AMG Skip](d4jq8#ch4Cont
 Jorak Uln's fun quiz: 1,1,5,6,4,3,2,1
 - Begins "The Hermit in the Hills"
 Swap to T3 and position him in front of the sarcophagus
-[Coordinate Warp](iarwc#ch7Coordinate_Warping) to Tomb of Marka Ragnos via [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) using Slot 14
+[Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Tomb of Marka Ragnos via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) using Slot 14
 Use the load in to [Combat Talk](upcnj) to the rogue assassin droid
 - This may fail if the MC is in combat with the first droid in the hallway; if so, retry [Combat Talking](upcnj) again
 Destroy the rogue assassin droid
 - You do not have to kill any other droids
-[Offset Hotshot](iarwc#ch6Offset_Hotshots) to Sith Academy using Slot 12
-- This must be an [Offset Hotshot](iarwc#ch6Offset_Hotshots) to spawn T3 near Uthar
+[Offset Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) to Sith Academy using Slot 12
+- This must be an [Offset Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) to spawn T3 near Uthar
 
 **Tomb of Naga Sadow:**
 Activate [AMG](d4jq8) via QS, then swap to T3 and talk to Uthar: 5,6,6,2,2
@@ -1597,9 +1657,9 @@ Activate [AMG](d4jq8) via QS, then swap to T3 and talk to Uthar: 5,6,6,2,2
 When you start walking away, [AMG Skip](d4jq8#ch4Control_During_Cutscenes) the CS via [Force Skip](8fp02)
 Talk to Uthar again to reach the Tomb of Naga Sadow: 3
 Uthar accosts you inside the tomb: 4
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Shyrack Caves using Slot 13
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Shyrack Caves using Slot 13
 Add Juhani to the party; you don't have to move her if you were positioned correctly when you made this save
-[Coordinate Warp](iarwc#ch7Coordinate_Warping) back to Tomb of Naga Sadow via [QS Hotshot](iarwc#ch4Quick_Save_Hotshots)
+[Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) back to Tomb of Naga Sadow via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
 Activate [AMG](d4jq8) via QS, then swap to Juhani and move towards the door to trigger the Star Map CS
 - [AMG Skip](d4jq8#ch4Control_During_Cutscenes) the CS via QS/QL
 - Finishes "Star Map: Korriban"
@@ -1622,7 +1682,7 @@ Board the Ebon Hawk
 **Manual Save in New Slot (Slot 15)**
 [Save Teleport](5dagb) to the Galaxy Map
 Fly to Lehon with a [Map CS Skip](rb685)
-Activate [AMG](d4jq8) on the load to [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) back to the Ebon Hawk
+Activate [AMG](d4jq8) on the load to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to the Ebon Hawk
 QS with Galaxy Map targeted, then fly to Lehon and activate [AMG](d4jq8) on the load
 If the Fighter Skirmish triggers:
 - Press Alt+F4 again to gain control
@@ -1644,11 +1704,11 @@ Activate [AMG](d4jq8) via QS while [Save Teleporting](5dagb) to trigger the Mand
 - When the Mandalorian Commander spawns, [AMG Skip](d4jq8#ch4Control_During_Cutscenes) the CS via [Force Skip](8fp02) by casting Master Valor
 Kill the commander and his minion, then loot the commander
 **Manual Save in New Slot (Slot 17)**
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to North Beach using Slot 16
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to North Beach using Slot 16
 [Save Teleport](5dagb) towards compound until Warrior Rakata accost you
 Activate [AMG](d4jq8) on the load, and when The One starts speaking, [AMG Skip](d4jq8#ch4Control_During_Cutscenes) the CS via [Force Skip](8fp02)
 - Begins "Trapped on a Nameless World"
-Activate [AMG](d4jq8) with a Manual Save (Slot 1) to immediately [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) back to North Beach
+Activate [AMG](d4jq8) with a Manual Save (Slot 1) to immediately [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to North Beach
 Talk to Warleader Garn: 1,1,3
 - Finishes "Invisible Mandalorians"
 
@@ -1664,7 +1724,7 @@ Enter the Elder Settlement and activate [AMG](d4jq8) on the load if it isn't alr
 [Save Teleport](5dagb) to speak to Researcher Ll'awa: 1x11, 3
 - Begins "Rakatan Research"
 **Manual Save in New Slot (Slot 18)**
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Temple Exterior using Slot 17
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Temple Exterior using Slot 17
 Add Canderous and Juhani to party
 Canderous #5
 - Don't forget this conversation or you won't be able to finish Canderous's quest!
@@ -1686,7 +1746,7 @@ Deactivate V-Sync and perform the [Temple Entry DLZ](f0aia#ch16Temple_Entry_DLZ)
 -- Finishes "A Quest for the Star Forge"
 - Swap to Juhani and move her two steps backward from where she is facing
 - Swap to Canderous and do the same
-- [Coordinate Warp](iarwc#ch7Coordinate_Warping) to Temple Main Floor via [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) using the Autosave
+- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Temple Main Floor via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) using the Autosave
 - As Canderous, open the door to the Catacombs
 - Swap to MC and Cast Master Speed
 - Swap back to Canderous and enter the Catacombs
@@ -1721,14 +1781,14 @@ Deactivate V-Sync and perform the [Temple Entry DLZ](f0aia#ch16Temple_Entry_DLZ)
 ---------------------------------------------------------
 
 **Leaving Lehon:**
-[QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Elder Settlement using Slot 18
+[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Elder Settlement using Slot 18
 Talk to Researcher Ll'awa: 3
 - Finishes "Rakatan Research"
 [Fast Lane](imbom) via Slot 2 to RtEH
 - *Suggested Memory Reset #9 on the first QS*
 - QS, then reset the game, then load Slot 2 to [Fast Lane](imbom)
 Activate [AMG](d4jq8) via QS, then [Save Teleport](5dagb) forward to trigger the party CS
-- [Use the Options Menu](d4jq8#ch4Control_During_Cutscenes) to [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to the Ebon Hawk using Slot 15
+- [Use the Options Menu](d4jq8#ch4Control_During_Cutscenes) to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to the Ebon Hawk using Slot 15
 Fly to Star Forge
 Use the load to [Free Look AMG](d4jq8#ch5Free_Look_AMGs) the formerly unskippable CS
 
@@ -1771,11 +1831,11 @@ Deck 2 Double [GP Warp](77xef#AMG_GP_Warps):
 Enter the Command Center
 
 **Command Center:**
-Command Center [Coordinate Warp](iarwc#ch7Coordinate_Warping):
+Command Center [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>):
 - Activate [AMG](d4jq8) on or immediately after the load
-- [Use the Options Menu](d4jq8#ch4Control_During_Cutscenes) to [QS Hotshot](iarwc#ch4Quick_Save_Hotshots) to Deck 1 using Slot 19
+- [Use the Options Menu](d4jq8#ch4Control_During_Cutscenes) to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Deck 1 using Slot 19
 - Don't clear menus after the load; instead QS, open the Options menu, press Enter, and select OK
-- This [Coordinate Warps](iarwc#ch7Coordinate_Warping) back to Command Center via an abbreviated [QS Hotshot](iarwc#ch4Quick_Save_Hotshots)
+- This [Coordinate Warps](<../Major Glitches/Hotshot#coordinate-warping>) back to Command Center via an abbreviated [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
 Activate [AMG](d4jq8) via QS, then swap to Jolee and open the nearby door
 - When it starts, [AMG Skip](d4jq8#ch4Control_During_Cutscenes) the Bastila CS via [Force Skip](8fp02)
 - Allow Master Speed to actually be cast
@@ -1810,11 +1870,12 @@ When he starts running to a Jedi popsicle, activate [AMG](d4jq8) via QS
 - Finishes "The Final Confrontation"
 Timing ends when the mouse disappears on the black screen after the load
 
-[section=Complete Quest List]
+## Complete Quest List
 This is a list of all the quests in the game, as well as the alignment we complete them with, if applicable.
 
 **Endar Spire:**
 - Attack on the Endar Spire
+
 **Taris:**
 - Rapid Transit System
 - Largo's Bounty - Dark
@@ -1834,6 +1895,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Dia's Bounty - Dark
 - Escaping Taris
 - Taris: Planetary Information
+
 **Dantooine:**
 - Jedi Trials
 - The Jedi Council
@@ -1844,6 +1906,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Missing Companion
 - Investigate Ruins
 - GenoHaradan: Zuulan
+
 **Korriban:**
 - Premium Merchant
 - Enter the Sith Academy
@@ -1859,6 +1922,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Hermit in the Hills - Dark
 - Star Map: Korriban
 - The Way of the Sith - Light
+
 **Manaan:**
 - Republic Embassy
 - GenoHaradan: Lorgal - Dark
@@ -1874,6 +1938,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Firith Me the Pazaak Player
 - Gluupor the Rodian
 - Ignus the Hotel Owner
+
 **Kashyyyk:**
 - Honest Debt
 - Tach Poaching
@@ -1883,6 +1948,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Chieftain in Need - Dark
 - A Wookiee Lost
 - GenoHaradan: Rulan - Dark
+
 **Tatooine:**
 - Tanis Trapped - Dark
 - Desert Ambush
@@ -1896,11 +1962,13 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Tatooine Swoop Racing
 - Signing Nico
 - Fair Trade
+
 **Unknown World/Star Forge:**
 - Invisible Mandalorians
 - Trapped on a Nameless World - Light
 - Rakatan Research
 - The Final Confrontation
+
 **Party Quests:**
 - Jagi's Challenge
 - Carth
@@ -1913,6 +1981,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Juhani
 - Finding Dustil - Light
 - Canderous
+
 **Intergalactic Quests:**
 - The Ebon Hawk
 - Pazaak Rules
@@ -1925,7 +1994,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - A Quest for the Star Forge
 - Yavin Space Station
 
-[section=Version History]
+## Version History
 
 **v4.0 (January 2023)**
 - Completely new planet route: Taris -> Dantooine -> Kashyyyk -> Tatooine 1 -> Manaan 1 -> Tatooine 2 -> Manaan 2 -> Leviathan -> Korriban -> Lehon -> Star Forge
@@ -1937,6 +2006,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Skips a Tatooine revisit thanks to Hulas skip
 - Several improved coordinate warps
 - New FLU for Master Valor on Dantooine
+
 **v3.0 (February 2022)**
 - New Taris route utilizing Autosave Hotshot, Transit Point Storage, and many new DLZs.
 - Added Dantooine Enclave DLZ
@@ -1945,6 +2015,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Cut out unnecessary Bastila and Jolee dialogue
 - Updated Korriban route where we kill the cave Tarentatek and the Rogue Droid
 - More hotshot/coordinate warp optimizations
+
 **[v2.2](https://web.archive.org/web/20220419164323/https://www.speedrun.com/kotor1/guide/2setw) (January 2021)**
 - Updated credit route to more clearly reflect one's pazaak choice
 - Tweaked the character build to remove the pointless Computer Use points
@@ -1953,6 +2024,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Added hacking with T3 in the Taris Sith Base
 - Added two optional DLZs to Lehon
 - Added improved Bastila strats on the Star Forge
+
 **v2.1 (December 2020)**
 - Fixed a couple quests that wouldn't complete
 - Tweaked build to use Master Critical Strike and Bacca's Ceremonial Blade
@@ -1963,12 +2035,15 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Moved the last Manaan and Tatooine visits before the Tomb of Naga Sadow
 - Added small skips with Ithorak and Vorn
 - Added swoop skips on Tatooine and Manaan
+
 **v2.0 (November 2020)**
 - Completely new route employing AMG and Hotshots
 - New character build using Scoundrel and Sneak Attack IX
 - Seriously this is completely different (lol)
+
 **[v1.1](https://web.archive.org/web/20200420153516/https://www.speedrun.com/kotor1/guide/2setw) (June 2019)**
 - Changed route on Lehon to include the door clip
+
 **[v1.0](https://web.archive.org/web/20170804152913/https://www.speedrun.com/kotor1/guide/2setw) (January 2017)**
 - Uploaded initial guide with route including:
   - Soldier -> Jedi Guardian: Two-Weapon Fighting/Flurry character build
