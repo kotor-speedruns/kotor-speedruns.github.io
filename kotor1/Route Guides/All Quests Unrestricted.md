@@ -349,36 +349,59 @@ Other planet route notes:
 
 ## Detailed Route
 
-A full route of all actions to take to complete the run follows.  First, some general notes:
+This section will describe all the actions you'll need to take for the All Quests Unrestricted run.
 
-**Save File Notes:**
-- *This run should start with no saved games at all.*  Saving in a new slot is slightly faster, and for one strat we *MUST* save in a new slot to avoid breaking a [Fast Lane](imbom).
-- All necessary Hard Saves are noted in **bold**, along with the slot to save in.  Most saves will be in new slots, particularly after Kashyyyk.  
+Notation:
+- `Level ups are highlighted in code block`
+- *Inventory/Equipment changes are highlighted in italics*
+- **Item Upgrades at a workbench are highlighted in bold**
+- `Shopping trips are highlighted in large code blocks`
+- ***Quest Updates are highlighted in bold and italics***
+
+Abbreviations:
+* MC - Stands for Main Character, your player character
+* CS - Cutscene
+* QS - Quick Save
+* QL - Quick Load
+* QS/QL - Quick Save then immediately Quick Load
+* AMG - [Anywhere Menu Glitch](<../Major Glitches/Anywhere Menu Glitch>)
+* DLZ - [Displaced Load Zone](<../Major Glitches/Displaced Load Zone>)
+* FLU - [Fake Level Up](<../Major Glitches/Fake Level Ups>)
+* GP Warp - [Gather Party Warp](<../Techniques/GP Warp>)
+
+Save File Notes:
+- *This run should start with no saved games at all.*  Saving in a new slot is slightly faster, and for one strat we *MUST* save in a new slot to avoid breaking a [Fast Lane](<../Major Glitches/Fast Lane>).
 - When performing a [Hotshot](<../Major Glitches/Hotshot>), you can always save in the first slot, with one noted exception on Taris at the start.
 - This route ends up using **19** total save slots.
 
-**Quest Notes:**
-- It is generally noted where a quest begins and finishes. If it finishes at the same time it begins, it is only noted as "Finished". 
-- Notes that read "Bastila #1" or similar are steps in conversation side quests with that particular party member. With a few noted exceptions, these are all spammable conversations.
-
-**Conversation Notes:**
-- If no conversation choices are specified, spamming will work.
+Conversation Notes: 
+- If no conversation choices are specified, spamming will work (this chooses all 1 options).
+- A ... indicates a break in the conversation, such as changing who you're talkng to or having to talk to the NPC again
+- A * indicates a variable answer, such as in reciting the Sith Code.
 - A #xY indicates repeat that option Y times, as in Gadon Thek's first conversation.
+- Notes that read "Bastila #1" or similar are steps in conversation side quests with that particular party member.  With a few noted exceptions, these are all spammable conversations.
 
-**Notation and Abbreviations:**
-> indicates a level up to be done
-} indicates an inventory/equipment action to be done
-MC - Stands for Main Character, your player character
-CS - Cutscene
-QS - Quick Save
-QL - Quick Load
-QS/QL - Quick Save then immediately Quick Load
-AMG - [Anywhere Menu Glitch](d4jq8)
-DLZ - [Displaced Load Zone](f0aia)
-FLU - [Fake Level Up](<../Major Glitches/Fake Level Ups>)
-GP Warp - [Gather Party Warp](77xef)
+Quest Notes:
+- It is generally noted where a quest begins and finishes.
+- Specific alignments for all quests are shown in the quest list at the end.
 
-[section=Endar Spire]
+**Jump to a Section:**
+- [Endar Spire](#endar-spire)
+- [Early Duel Ring](#early-duel-ring)
+- [The Search for Bastila](#the-search-for-bastila)
+- [Escaping Taris](#escaping-taris)
+- [Dantooine](#dantooine)
+- [Kashyyyk](#kashyyyk)
+- [Tatooine 1](#tatooine-1)
+- [Manaan 1](#manaan)
+- [Tatooine 2](#tatooine-2) 
+- [Manaan 2](#manaan-2)
+- [The Leviathan](#the-leviathan)
+- [Korriban](#korriban)
+- [Lehon](#lehon)
+- [The Star Forge](#the-star-forge)
+
+## Endar Spire
 
 **Pre-Run Setup:**
 Set the following special Options:
@@ -1193,7 +1216,7 @@ Activate [AMG](d4jq8) via QS, then click the Star Map and [AMG Skip](d4jq8#ch4Co
 - Finishes "Star Map: Tatooine"
 
 **The Ebon Hawk:**
-[Fast Lane](imbom) via Slot 6 (last slot) to Return to the Ebon Hawk
+[Fast Lane](<../Major Glitches/Fast Lane>) via Slot 6 (last slot) to Return to the Ebon Hawk
 [Save Teleport](5dagb) into Anchorhead and past the Czerka Office until Senni Vek accosts you: 4
 - You may need to skip over Manaa Demknot's convo again if you [Save Teleported](5dagb) to skip it earlier
 - Begins "GenoHaradan"
@@ -1294,12 +1317,12 @@ Remove Jolee and Juhani from party
 [Save Teleport](5dagb) down hall until Vek accosts you
 Activate [AMG](d4jq8) via QS and speak to droid: 1,1
 - When droid starts walking, use [CS Movement](d4jq8#ch4Control_During_Cutscenes) to [Save Teleport](5dagb) into the Sith Hangar
-- Before the CS ends, prepare a [Fast Lane](imbom) by activating [AMG](d4jq8) via QS 
+- Before the CS ends, prepare a [Fast Lane](<../Major Glitches/Fast Lane>) by activating [AMG](d4jq8) via QS 
 - Use blind mouse movement to open the map, click Transit Back, and close the map
 When the CS ends, use the shuttle to reach the Manaan Sith Base
 **Manual Save in New Slot (Slot 9)**
 - Do *NOT* use the keyboard for this or you'll break the transit pop-up!
-After the Manual Save, use the [Fast Lane](imbom) to RtEH
+After the Manual Save, use the [Fast Lane](<../Major Glitches/Fast Lane>) to RtEH
 QS, then load the Anchorhead save (Slot 4)
 Talk to the Gate Guard to get the Dune Sea Autosave
 QL and activate [AMG](d4jq8) on the load to perform [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>)
@@ -1403,7 +1426,7 @@ Activate [AMG](d4jq8) via QS, then open the door and [AMG Skip](d4jq8#ch4Control
 [Save Teleport](5dagb) through next five doors, then loot the Envirosuit from the floor
 [Save Teleport](5dagb) through next two doors, then the door straight ahead and take the airlock to the Sea Floor
 QS then **Manual Save in New Slot (Slot 10)**
-[Fast Lane](imbom) using Slot 1 to RtEH
+[Fast Lane](<../Major Glitches/Fast Lane>) using Slot 1 to RtEH
 } Unequip and Re-equip Sith Armor, then Transit Back
 - The Sith Armor overwrites the Scuba Suit, allowing full movement underwater
 [Save Teleport](5dagb) until survivor accosts you
@@ -1415,13 +1438,13 @@ Click on the force field and mash the convo, then click the force field again an
 As the force field fades, activate [AMG](d4jq8) via QS
 - When the scientists start talking to you, [AMG Skip](d4jq8#ch4Control_During_Cutscenes) the convo via [Force Skip](8fp02)
 Take the airlock to the Hrakert Rift
-[Fast Lane](imbom) using Slot 1 to RtEH
+[Fast Lane](<../Major Glitches/Fast Lane>) using Slot 1 to RtEH
 } Unequip and Re-equip Sith Armor, then Transit Back
 [Save Teleport](5dagb) to and use the Kolto Control Console: 1,2,4,2,5,4,5,2,5
 [Save Teleport](5dagb) to Manaan Star Map
 - If you go past the trigger, run backwards until the CS starts
 - Finishes "Star Map: Manaan"
-[Fast Lane](imbom) using Slot 1 to RtEH, then board the Hawk
+[Fast Lane](<../Major Glitches/Fast Lane>) using Slot 1 to RtEH, then board the Hawk
 [Save Teleport](5dagb) to Galaxy Map and fly to Korriban
 Use the load screen to [Free Look AMG](d4jq8#ch5Free_Look_AMGs) the Leviathan Intro CS
  
@@ -1669,7 +1692,7 @@ Talk to and kill Uthar: 5,1spam
 Yuthura accosts you: 1
 Defeat Yuthura and spare her: 3,2
 - Finishes "The Way of the Sith"
-[Fast Lane](imbom) via Slot 2 to RtEH
+[Fast Lane](<../Major Glitches/Fast Lane>) via Slot 2 to RtEH
 Cast Master Speed before the Xor CS
 Kill Xor, then kill his minions
 - If you kill Xor last, he may softlock before the final convo
@@ -1784,9 +1807,9 @@ Deactivate V-Sync and perform the [Temple Entry DLZ](f0aia#ch16Temple_Entry_DLZ)
 [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Elder Settlement using Slot 18
 Talk to Researcher Ll'awa: 3
 - Finishes "Rakatan Research"
-[Fast Lane](imbom) via Slot 2 to RtEH
+[Fast Lane](<../Major Glitches/Fast Lane>) via Slot 2 to RtEH
 - *Suggested Memory Reset #9 on the first QS*
-- QS, then reset the game, then load Slot 2 to [Fast Lane](imbom)
+- QS, then reset the game, then load Slot 2 to [Fast Lane](<../Major Glitches/Fast Lane>)
 Activate [AMG](d4jq8) via QS, then [Save Teleport](5dagb) forward to trigger the party CS
 - [Use the Options Menu](d4jq8#ch4Control_During_Cutscenes) to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to the Ebon Hawk using Slot 15
 Fly to Star Forge
