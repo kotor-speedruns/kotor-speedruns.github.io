@@ -5,8 +5,8 @@
 **Table of Contents**
 - [Introduction](#introduction)
 - [How to Play](#how-to-play)
+  - [In Browser](#in-browser)
   - [Bingosync](#bingosync)
-  - [Downloadable HTML Page](#downloadable-html-page)
 - [Basic Rules](#basic-rules)
 - [Choosing a Row](#choosing-a-row)
 - [Task Notes](#task-notes)
@@ -19,13 +19,15 @@ The purpose of a bingo run is to take a 5x5 grid of 25 different tasks and compl
 
 There are two ways to play KotOR Bingo:
 
+### In Browser
+
+We host KotOR Bingo as part of a GitHub repository.  Click for the [board generator](https://kotor-speedruns.github.io/kotor-bingo/kotor-bingo.html)!  This can be used for solo play, or for races using the "Set Seed" field.  This version will always have the most up-to-date task list, so this is the recommended method for bingo.
+
 ### Bingosync
 
-KotOR Bingo is now available at [Bingosync](https://bingosync.com/)!  Just visit the webpage and select "Star Wars: Knights of the Old Republic" as your game.  Once you have the room set up, you can share it with others for races or just play the board yourself!
+KotOR Bingo is also available at [Bingosync](https://bingosync.com/)!  Just visit the webpage and select "Star Wars: Knights of the Old Republic" as your game.  Once you have the room set up, you can share it with others for races or just play the board yourself!  
 
-### Downloadable HTML Page
-
-You can also choose to download and extract the KotOR bingo files from the [Resources tab on SRC](https://www.speedrun.com/kotor1/resources).  Running kotor-bingo.html will bring up a webpage that contains a bingo card.  A specific seed can be set, or you can generate completely random cards.
+*Note:* The tasklist associated to Bingosync may be out of date compared to the GitHub version above.
 
 Whichever method you choose, once you've got the bingo app downloaded and ready to go, you're ready to start your run.
 
