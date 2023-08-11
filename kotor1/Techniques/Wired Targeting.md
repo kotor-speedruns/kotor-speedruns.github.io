@@ -52,7 +52,7 @@ Some important notes about Wired Targeting:
 Attacking a non-hostile Target Object is the main use of Wired Targeting in speedruns.  Often times, this is used in situations where the enemy is initially non-hostile (such as for a cutscene or conversation).  By making a Quick Save next to the non-hostile enemy, and then causing them to become hostile, Wired Targeting can be quickly used to attack the non-hostile version of the enemy.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/PGX0CiR-mFM" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/9WFNZu4QC2A" frameborder="0"></iframe>
 </div>
 
 Some additional details about attacking with Wired Targeting:
