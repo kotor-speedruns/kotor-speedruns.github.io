@@ -614,36 +614,37 @@ SHOPPING: Zelka Forn
 
 ## The Search for Bastila
 
-**The Sith Base:**
-Immediately after Bendak dies, activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-When the announcer starts talking, [use the Options menu](<../Major Glitches/Anywhere Menu Glitch>#ch4Control_During_Cutscenes) to make a **Hard Save in Slot 3**
-Load Slot 1 and exit the apartments to get an Autosave in Upper City North
-Load Slot 2 and [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) from Upper City Cantina to South Apartments
-- QS in South Apartments, then load Slot 3
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load, then perform the [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
-[Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>) to warp to Upper City North's default spawn
-} Use Adrenal Strength
-**Hard Save in Slot 3**
-Disable V-Sync to perform the [Sith Base DLZ](f0aia#ch7Sith_Base_DLZ)
-Secretary accosts you: 3,1
-} Use Adrenal Alacrity
-- We use this here so it is *not* active outside the Sith Base
-Run to end of main hall, turn right through door, and take first door on right
-Loot footlocker for Sith Passcard
-Open the door and immediately [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) the assault droid CS
-Enter the elevator
-Open the door and [Open Buffer](<../Techniques/Save Buffering#open-buffers>) until you have a QS behind the governor
-Governor accosts you
-Use [Wired Targeting](41875#ch3Quick_Wired_Targeting_Combat) to kill the Governor
-Loot the right strongbox for Computer Spikes and Durasteel Bonding Alloy
-Loot the Governor for Launch Codes, Strength Gauntlets, and Adrenaline Amplifier
-[QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Upper City North using Slot 3 
-Add Carth to the party
-} Use Adrenal Alacrity on Carth
-Run Carth to the elevator so Sith Soldier accosts you
-Enter Lower City with Carth
+### The Sith Base
+- Immediately after Bendak dies, activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
+- Warping to Upper City North:
+  - When the announcer starts talking, [use the Options menu](<../Major Glitches/Anywhere Menu Glitch#accessing-menus>) to make a **Hard Save in Slot 3**
+  - Load Slot 1 and exit the apartments to get an Autosave in Upper City North
+  - Load Slot 2 and [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) from Upper City Cantina to South Apartments
+    - QS in South Apartments, then load Slot 3
+    - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load, then perform the [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
+  - [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>) to warp to Upper City North's default spawn
+- *Stims: Strength on MC
+- **Hard Save in Slot 3**
+- Disable V-Sync to perform the [Sith Base DLZ](f0aia#ch7Sith_Base_DLZ)
+- Secretary accosts you: 3,1
+- *Stims: Alacrity on MC*
+  - We use this here so it is *not* active outside the Sith Base
+- Run to end of main hall, turn right through door, and take first door on right
+- Loot footlocker for Sith Passcard
+- Open the door and immediately [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) the assault droid CS
+- Enter the elevator
+- Open the door and [Open Buffer](<../Techniques/Save Buffering#open-buffers>) until you have a QS behind the governor
+- Governor accosts you
+- Use [Wired Targeting](<../Techniques/Wired Targeting#quick-wired-targeting-combat>) to kill the Governor
+- Loot the right strongbox for Computer Spikes and Durasteel Bonding Alloy
+- Loot the Governor for Launch Codes, Strength Gauntlets, and Adrenaline Amplifier
+- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Upper City North using Slot 3 
+- *Party: Add Carth*
+- *Stims: Alacrity on Carth*
+- Run Carth to the elevator so Sith Soldier accosts you
+- Enter Lower City with Carth
 
-**Lower City:**
+### Lower City
 [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) the gang war CS with MC
 Activate Solo Mode
 As Carth, open apartment door straight ahead
