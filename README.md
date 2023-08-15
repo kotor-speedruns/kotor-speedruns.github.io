@@ -4,4 +4,4 @@ Welcome to the KotOR Speedrunning Guides landing page. This page is temporary, a
 
 | | Choose a Game | |
 |---|---|---|
-| [![KotOR 1 Logo](https://i.imgur.com/8was9yJ.png)](./kotor1/) | | [![KotOR 2 Logo](https://i.imgur.com/XP8FH1H.png)](./kotor2/) |
+| [![KotOR 1 Logo](https://i.imgur.com/iCLtkLG.png)](./kotor1/) | | [![KotOR 2 Logo](https://i.imgur.com/XP8FH1H.png)](./kotor2/) |
