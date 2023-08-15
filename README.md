@@ -1,6 +1,6 @@
 # KotOR Speedrun Guides
 
-Welcome to the KotOR Speedrunning Guides landing page!  This is your source for all speedrun guides for the entire Knights of the Old Republic series.  We have guides for every speedrun categories, as well as individual guides for specific glitches and even some more random information as well!
+Welcome to the KotOR Speedrunning Guides!  This is your source for all speedrun guides for the entire Knights of the Old Republic series.  We have guides for every speedrun category, as well as individual guides for specific glitches and even some more random information as well!
 
 
 | | Choose a Game | |
