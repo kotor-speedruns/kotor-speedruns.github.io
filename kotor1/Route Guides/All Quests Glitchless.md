@@ -9,7 +9,9 @@ This route completes all 100 main and side quests in the game without the benefi
 Dark side or light side quest conclusions are chosen based on overall speed for the route.  This guide will cover the character creation and leveling choices, as well as reasoning for each quest's chosen completion and a detailed route.
 
 **Table of Contents**
-- [Glitchless Ruleset](#glitchless-ruleset)
+- [Category Rules](#category-rules)
+  - [All Quests Category](#all-quests-category)
+  - [Glitchless Ruleset](#glitchless-ruleset)
 - [Character Build](#character-build)
   - [Character Creation](#character-creation)
   - [Leveling Plan](#leveling-plan)
@@ -25,9 +27,33 @@ Dark side or light side quest conclusions are chosen based on overall speed for 
 - [Complete Quest List](#complete-quest-list)
 - [Version History](#version-history)
 
-## Glitchless Ruleset
+## Category Rules
 
 **REMEMBER to show yourself restarting the game at the beginning of each attempt.**
+
+### All Quests Category
+
+For All Quests runs, you must complete the game with either ending on any difficulty, and complete all 100 quests. Completing a quest is defined as any of the following three conditions:
+
+1. The quest appears in the "Completed Quests" section of the journal.
+2. If the quest is entirely removed from the journal when completed, it must appear in the "Active Quests" section of the journal first.
+3. If a quest is completed but then becomes active again, it must be completed again.
+
+Out of the 100 quests, 91 of them can at some point be moved to the "Completed Quests" section of the Journal and thus satisfy condition 1.  
+
+The quest "The Jedi Council" is (with the current route) the only quest that reactivates and thus falls under condition 3.  It is completed both times by satisfying condition 2, as the quest is never placed in the Completed Quests section of the Journal.  The following eight quests are removed entirely from the Journal instead of becoming Completed Quests, and thus must satisfy condition 2:
+- Invited to a Party
+- The Jedi Council (for both completions)
+- The Ebon Hawk
+- Sunry's Story
+- Elora, Sunry's Wife
+- Gluupor, the Rodian
+- Ignus, the Hotel Owner
+- Firith Me, the Pazaak Player
+
+The final quest is the last one in the game, "The Final Confrontation".  The game actually never bothers to update that quest at any point after giving it to you, so for the purposes of the speedrun it is considered to be complete when Malak is defeated (when the timer stops).
+
+### Glitchless Ruleset
 
 All glitches are banned, with the exception of the following:
 - Fast text (unavoidable without restarting the game frequently)
