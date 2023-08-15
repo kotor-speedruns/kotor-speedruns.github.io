@@ -1646,7 +1646,7 @@ SHOPPING: Selkath Merchant
 - Swap to MC and talk to Yuthura: 3,5,2,3,1,1
   - ***Finishes "Enter the Sith Academy"***
 
-**Sith Academy:**
+### Sith Academy
 - Immediately after the load, [Force Skip](<../Techniques/Force Skips>) the Uthar convo
 - Talk to Lashowe: 1x7,3,4
   - ***Begins "Aiding Lashowe"***
