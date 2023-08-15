@@ -5,7 +5,7 @@ Welcome to the KotOR Speedrunning Guides landing page!  This is your source for 
 
 | | Choose a Game | |
 |---|---|---|
-| [![KotOR 1 Logo](https://i.imgur.com/iCLtkLG.png)](./kotor1/) | | [![KotOR 2 Logo](https://i.imgur.com/XP8FH1H.png)](./kotor2/) |
+| [![KotOR 1 Logo](https://i.imgur.com/GLMzhXC.png)](./kotor1/) | | [![KotOR 2 Logo](https://i.imgur.com/XP8FH1H.png)](./kotor2/) |
 
 
 These guides are community owned and maintained; if you'd like to contribute to the project, [join our discord](http://discord.gg/Q2uPRVu) and check out our [GitHub repo](https://github.com/kotor-speedruns/kotor-speedruns.github.io)!
