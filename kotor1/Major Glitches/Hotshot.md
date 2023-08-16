@@ -178,9 +178,11 @@ This is an enhancement of the original method below that avoids going to the Mai
 4. Open the Options Menu behind the Load Game Menu via hotkey ('O' by default).
 5. Use the mouse to select the Hotshot Current save.
 6. Press 'Enter'.  One of two things will happen:
+
 *Success: The title of the save changes to "QUICKSAVE".*
 7. Cancel the pop-up and load the QUICKSAVE save.
 8. After the load, close any residual menus by hitting Escape several times.
+
 *Failure: The title of the save remains "Hotshot Current".*
 9. Cancel the pop-up, then press Escape once.
 10. Use the mouse to select any save **except** the Hotshot Current save.
@@ -203,13 +205,15 @@ This was the original form of Hotshot, and is slower and more complicated than a
 5. Press Enter. This will open the Save Game menu behind the Main Menu.
 6. Using the up and down arrow-keys, (↑ ↓) navigate to your Hotshot Current save in the hidden Save Game menu.  If the save is in your first slot, press ↓ once; in the second slot, press ↓ twice, etc.
 7. With the mouse, click "Load Game" in the Main Menu.  One of two things will happen:
+   
 *Success: The title of the Hotshot Current save changes to "QUICKSAVE".*
-8. Use the mouse to load the QUICKSAVE save.
-9. After the load, close any residual menus by hitting Escape several times.
+9. Use the mouse to load the QUICKSAVE save.
+10. After the load, close any residual menus by hitting Escape several times.
+
 *Failure: The title of the save remains "Hotshot Current".*
-10. Use the mouse to click Cancel.
-11. Press ↑, then ↓.  This reselects the Hotshot Current save in the hidden Save Menu.
-12. Repeat step 7 to try the Hotshot again.
+11. Use the mouse to click Cancel.
+12. Press ↑, then ↓.  This reselects the Hotshot Current save in the hidden Save Menu.
+13. Repeat step 7 to try the Hotshot again.
 
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/lrLvyqCaxF8" frameborder="0"></iframe>
