@@ -95,7 +95,7 @@ This method aborts a level up as soon as it begins, which avoids having to selec
 4. If you are granted a Feat, press Enter to clear that menu.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/T0RAPh9grcI" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/qbafqgl15F4" frameborder="0"></iframe>
 </div>
 
 These steps will put you back at the Character Screen with a Level Up available and the Quit dialog up, just where you started.  The FLUs currently used in speedruns are mostly done with Skele FLU levels.
@@ -119,7 +119,7 @@ This method uses the menu glitch to swap to a party member during the Level Up p
 5. Finish the level up.  You should not assign skill points, but you can and should select any prerequisite Feats or Powers to set up the Final Level.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/HgLHYXGBX10" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/huHJDSefEkY" frameborder="0"></iframe>
 </div>
 
 This will put you back on the Character screen with your SC active and no menu glitch.  To continue a FLU, swap back to the TC and exit the menu to [AMG](<Anywhere Menu Glitch>) again.  If this is your Final Level, you can swap to the TC and perform the Final Level.
@@ -203,7 +203,7 @@ Each example lists the FLU's end goal, starting and ending level, and Intermedia
 **Used In:** All Unrestricted speedruns
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/jeZaUj481jg" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/5TAQS5XGg4w" frameborder="0"></iframe>
 </div>
 
 **Starting Level:** 2
@@ -234,7 +234,7 @@ Each example lists the FLU's end goal, starting and ending level, and Intermedia
 **Used In:** [All Quests](<../Route Guides/All Quests Unrestricted>)
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/WOjitboM8Og" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/qPqJ4est_Fw" frameborder="0"></iframe>
 </div>
 
 **Starting Level:** 4
@@ -254,7 +254,7 @@ Each example lists the FLU's end goal, starting and ending level, and Intermedia
 **Used In:** [All Quests](<../Route Guides/All Quests Unrestricted>)
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/HYztjzs6rSY" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/gWu0VB4dyJ4" frameborder="0"></iframe>
 </div>
 
 **Starting Level:** 5
@@ -296,7 +296,7 @@ These two FLUs were once used in speedruns but have since been obsoleted.  While
 **Obtains:** 512 Unused Skill Points
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/y81B_CIkEp0" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/KCRQJiAfVhY" frameborder="0"></iframe>
 </div>
 
 **Starting Level:** 3
