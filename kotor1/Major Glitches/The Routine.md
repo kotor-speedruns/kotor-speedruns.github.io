@@ -24,7 +24,7 @@
   - [Routine Preparation](#routine-preparation)
 - [How To](#how-to)
 - [Duplicating Star Maps](#duplicating-star-maps)
-- [Use in Any%](#use-in-any)
+  - [Use in Any%](#use-in-any)
 - [Other Uses](#other-uses)
 - [Related Glitches](#related-glitches)
 
