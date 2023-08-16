@@ -180,13 +180,13 @@ This is an enhancement of the original method below that avoids going to the Mai
 6. Press 'Enter'.  One of two things will happen:
 
 *Success: The title of the save changes to "QUICKSAVE".*
-7. Cancel the pop-up and load the QUICKSAVE save.
-8. After the load, close any residual menus by hitting Escape several times.
+- Cancel the pop-up and load the QUICKSAVE save.
+- After the load, close any residual menus by hitting Escape several times.
 
 *Failure: The title of the save remains "Hotshot Current".*
-9. Cancel the pop-up, then press Escape once.
-10. Use the mouse to select any save **except** the Hotshot Current save.
-11. Repeat steps 5 and 6 to try again.
+- Cancel the pop-up, then press Escape once.
+- Use the mouse to select any save **except** the Hotshot Current save.
+- Repeat steps 5 and 6 to try again.
 
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/MopY7hFezDk" frameborder="0"></iframe>
@@ -207,13 +207,13 @@ This was the original form of Hotshot, and is slower and more complicated than a
 7. With the mouse, click "Load Game" in the Main Menu.  One of two things will happen:
    
 *Success: The title of the Hotshot Current save changes to "QUICKSAVE".*
-9. Use the mouse to load the QUICKSAVE save.
-10. After the load, close any residual menus by hitting Escape several times.
+- Use the mouse to load the QUICKSAVE save.
+- After the load, close any residual menus by hitting Escape several times.
 
 *Failure: The title of the save remains "Hotshot Current".*
-11. Use the mouse to click Cancel.
-12. Press ↑, then ↓.  This reselects the Hotshot Current save in the hidden Save Menu.
-13. Repeat step 7 to try the Hotshot again.
+- Use the mouse to click Cancel.
+- Press ↑, then ↓.  This reselects the Hotshot Current save in the hidden Save Menu.
+- Repeat step 7 to try the Hotshot again.
 
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/lrLvyqCaxF8" frameborder="0"></iframe>
@@ -223,8 +223,8 @@ This was the original form of Hotshot, and is slower and more complicated than a
 
 - Hard Save Hotshots have two unique uses over other Hotshot methods:
 
-1. Spawning OoB party members at the Teleport save location, rather than the MC's location.
-2. [Swoop Skips](#swoop-skips) can only be done with either a Hard Save Hotshot or an [HSS Hotshot](#hss-hotshots), as you cannot load a save in the swoop race modules (and they do not have Autosaves).
+  1. Spawning OoB party members at the Teleport save location, rather than the MC's location.
+  2. [Swoop Skips](#swoop-skips) can only be done with either a Hard Save Hotshot or an [HSS Hotshot](#hss-hotshots), as you cannot load a save in the swoop race modules (and they do not have Autosaves).
 
 - Notice that Hard Save Hotshots are not entirely consistent.  It may take several tries for the Hotshot Current save to change to QUICKSAVE, though that is unusual.
 - It is important for the [AMG](<Anywhere Menu Glitch>) to be done via Quick Save in the Destination Module.  We need to store the Teleport save in a Quick Save for the Hotshot to work.
