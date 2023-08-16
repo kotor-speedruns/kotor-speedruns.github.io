@@ -112,7 +112,7 @@ HSS Hotshots, also called Neo Hotshots, are always consistent and the fastest wa
 8. After the load, close any residual menus by hitting Escape several times.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/G0dSTu6agio" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/qXWG5ZnPD1Q" frameborder="0"></iframe>
 </div>
 
 **Additional Notes:**
@@ -187,7 +187,7 @@ This is an enhancement of the original method below that avoids going to the Mai
 11. Repeat steps 5 and 6 to try again.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/OLWy83_2Mjw" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/MopY7hFezDk" frameborder="0"></iframe>
 </div>
 
 ### Via Main Menu
@@ -237,7 +237,7 @@ To perform a Coordinate Warp:
 3. Hotshot using your preferred method to your Teleport save, which contains the location you wish to warp your party members to.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/oFrCsuC3D8A" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/QFl1q-pR7Ik" frameborder="0"></iframe>
 </div>
 
 **Additional Notes:**
@@ -292,7 +292,7 @@ Swoop Skips are a method for exiting swoop races early in [All Quests](<../Route
 7. Perform either version of [Hard Save Hotshot](#hard-save-hotshots) with the Hard Save you just made to warp out of the swoop module.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/KoSZF0df-Dg" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/krsRCyxffIk" frameborder="0"></iframe>
 </div>
 
 Swoop Skips must use either [HSS Hotshots](#hss-hotshots) or [Hard Save Hotshots](#hard-save-hotshots), as attempting to load a save made in a swoop race module crashes the game.  Also note when skipping the Manaan swoop races, you will need to skip the cutscene after the race immediately after the Hotshot, whereas in Tatooine this cutscene does not start until you talk to Motta again.
