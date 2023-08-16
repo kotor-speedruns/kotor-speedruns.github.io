@@ -87,7 +87,7 @@ The Galaxy Map Method is the simplest method for inventory duping, but can only 
 5. Add one or more party members to duplicate your inventory.  
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/DsEyd42Byx8" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/bHsLCVxx9Mg" frameborder="0"></iframe>
 </div>
 
 Every party member added in this way will add one copy of your initial inventory to your current inventory.  For example, adding four party members will give you five copies (your one initial item plus four duplicated copies) of every single item you started with, including Quest Items.
@@ -104,7 +104,7 @@ The [AMG](<../Major Glitches/Anywhere Menu Glitch>) method is more flexible, as 
 5. Add one or more party members to duplicate your inventory that many times.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/TOT_PTewLAA" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/7zGpu-QikI0" frameborder="0"></iframe>
 </div>
 
 **Warning!** As with the previous method, if you add a party member when initially leaving the Ebon Hawk or Hideout, you can delete your inventory instead of duplicating it.
