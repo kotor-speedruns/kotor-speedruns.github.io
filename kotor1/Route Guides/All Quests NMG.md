@@ -1,58 +1,107 @@
-[center]**[big][big]Star Wars: Knights of the Old Republic[/big]
+# Star Wars: Knights of the Old Republic - All Quests No Major Glitches Guide 
 
-All Quests - No Major Glitches Guide v1.0: Male Scout -> Jedi Guardian Route[/big]**[/center]
+### v1.0: Male Scout -> Jedi Guardian Route
 
-[center]Route and Guide by indykenobi and BinksMagnus[/center]
+*Route and Guide by [indykenobi](https://www.speedrun.com/users/indykenobi) and [BinksMagnus](https://www.speedrun.com/users/BinksMagnus)*
 
-This route completes all 100 main and side quests in the game with no restrictions.  Dark side or light side conclusions are chosen based on overall speed for the route.  This guide will cover the character creation and leveling choices, as well as reasoning for each quest's chosen completion and a detailed route.
+This route completes all 100 main and side quests in the game without the use of major glitches.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and there are frequent load screens. 
+
+Dark side or light side quest conclusions are chosen based on overall speed for the route.  This guide will cover the character creation and leveling choices, as well as reasoning for each quest's chosen completion and a detailed route.
+
+If you need assistance with the glitches used in the game, I recommend the [Glitch Guides](https://kotor-speedruns.github.io/kotor1/#glitch-guides) for Techniques.  You can either review those guides ahead of time, or use the hyperlinks in the guide below to consult the more detailed material when necessary.  You can also join the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu) and ask questions if you have them!
+
+**Table of Contents:**
+- [Category Rules](#category-rules)
+  - [All Quests Category](#all-quests-category)
+  - [NMG Ruleset](#nmg-ruleset)
+- [Character Build](#character-build)
+  - [Character Creation](#character-creation)
+  - [Leveling Plan](#leveling-plan)
+- [Equipment Plan](#equipment-plan)
+- [Credit Route](#credit-route)
+- [Alignment Route](#alignment-route)
+  - [Alignment Shifts](#alignment-shifts)
+  - [Quest Alignment Choices](#quest-alignment-choices)  
+- [Route Overview](#route-overview)
+  - [Planet Route](#planet-route)
+  - [Route Outline](#route-outline)
+- [Detailed Route](#detailed-route)
+- [Complete Quest List](#complete-quest-list)
+- [Version History](#version-history)
+
+## Category Rules
 
 **REMEMBER to show yourself restarting the game at the beginning of each attempt.**
 
-[section=No Major Glitches Rules]
+### All Quests Category
+
+For All Quests runs, you must complete the game with either ending on any difficulty, and complete all 100 quests. Completing a quest is defined as any of the following three conditions:
+
+1. The quest appears in the "Completed Quests" section of the journal.
+2. If the quest is entirely removed from the journal when completed, it must appear in the "Active Quests" section of the journal first.
+3. If a quest is completed but then becomes active again, it must be completed again.
+
+Out of the 100 quests, 91 of them can at some point be moved to the "Completed Quests" section of the Journal and thus satisfy condition 1.  
+
+The quest "The Jedi Council" is (with the current route) the only quest that reactivates and thus falls under condition 3.  It is completed both times by satisfying condition 2, as the quest is never placed in the Completed Quests section of the Journal.  The following eight quests are removed entirely from the Journal instead of becoming Completed Quests, and thus must satisfy condition 2:
+- Invited to a Party
+- The Jedi Council (for both completions)
+- The Ebon Hawk
+- Sunry's Story
+- Elora, Sunry's Wife
+- Gluupor, the Rodian
+- Ignus, the Hotel Owner
+- Firith Me, the Pazaak Player
+
+The final quest is the last one in the game, "The Final Confrontation".  The game actually never bothers to update that quest at any point after giving it to you, so for the purposes of the speedrun it is considered to be complete when Malak is defeated (when the timer stops).
+
+### NMG Ruleset
+
+**REMEMBER to show yourself restarting the game at the beginning of each attempt.**
 
 The No Major Glitches (NMG) rule set is a middle-ground between Unrestricted and Glitchless.
 
-The following glitches and tricks are banned in NMG:
-- [Fake Level Up](https://www.speedrun.com/kotor1/guide/b6452)
-- [Menu Glitch](https://www.speedrun.com/kotor1/guide/d4jq8) including AMG
-- [Fast Lane](https://www.speedrun.com/kotor1/guide/imbom)
-- [Hotshot](https://www.speedrun.com/kotor1/guide/iarwc) and [Coordinate Warp](https://www.speedrun.com/kotor1/guide/iarwc#ch4Coordinate_Warping)
-- [Full Inventory Duping](https://www.speedrun.com/kotor1/guide/hioyc#ch3Method_2_Full_Inventory_Dupe)
-- [Door Clipping](https://www.speedrun.com/kotor1/guide/dyi4i)
-Note: [Door Clipping](https://www.speedrun.com/kotor1/guide/dyi4i) includes [GP Warps](https://www.speedrun.com/kotor1/guide/77xef) that bypass locked doors.
+The following glitches and tricks are banned in NMG speedruns:
+- [Fake Level Up](<../Major Glitches/Fake Level Up>)
+- [Menu Glitch](<../Major Glitches/Anywhere Menu Glitch>) including AMG
+- [Fast Lane](<../Major Glitches/Fast Lane>)
+- All varieties of [Hotshot](<../Major Glitches/Hotshot>)
+- [Full Inventory Duping](<../Major Glitches/Item Duplication#full-inventory-duplication>)
+- [Door Clipping](<../Major Glitches/Door Clipping>)
+*Note:* [Door Clipping](<../Major Glitches/Door Clipping>) includes [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) that [bypass locked doors](<../Major Glitches/Door Clipping#gather-party-warp-clips>).
 
 These glitches and tricks are allowed:
-- [Save Buffers](https://www.speedrun.com/kotor1/guide/t5kyf) of all types
-- [Save Teleports](https://www.speedrun.com/kotor1/guide/5dagb)
-- [Map CS Skips](https://www.speedrun.com/kotor1/guide/rb685)
-- [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj)
-- [Force Skips](https://www.speedrun.com/kotor1/guide/8fp02)
-- [Wired Targeting](https://www.speedrun.com/kotor1/guide/41875)
-- [Single Item Duping](https://www.speedrun.com/kotor1/guide/hioyc#ch2Method_1_Single_Item_Duplication)
-- [GP Warps](https://www.speedrun.com/kotor1/guide/77xef) that do not bypass locked doors.
+- [Save Buffers](<../Techniques/Save Buffering>) of all types
+- [Save Teleports](<../Techniques/Save Teleporting>)
+- [Map CS Skips](<../Techniques/Map Cutscene Skips>)
+- [Combat Talking](<../Techniques/Combat Talking>)
+- [Force Skips](<../Techniques/Force Skips>)
+- [Wired Targeting](<../Techniques/Wired Targeting>)
+- [Single Item Duping](<../Techniques/Item Duplication#single-item-duplication>)
+- [Damage Stacking](<../Techniques/Damage Stacking>)
+- [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) that do not bypass locked doors.
 
-[section=Character Build]
+## Character Build
 
-***Character Creation
----------------------------***
+### Character Creation
 
-Male Scout - We choose Male because Male characters can complete Carth's quest without romancing him, and do not need to romance Bastila to complete her quest. Female characters would need to talk to Carth several more times and would have different dialogue at various points.
+Male Scout - Choosing a Male character is faster in two places: starting the "Invited to a Party" quest on Taris requires going further into the Upper City Cantina as a Female MC, and you have to do 4 additional conversations with Carth to complete his quest.  This guide will assume a Male MC.
 
 Scout is picked for automatic access to Flurry, Implant Level 2 and Computer Use as a Class Skill.
 
 **Initial Attributes**
-18 Str
-12 Dex
-12 Con
-10 Int
-8 Wis
-12 Cha
+- 18 Str
+- 12 Dex
+- 12 Con
+- 10 Int
+- 8 Wis
+- 12 Cha
 
 **Initial Skills**
-Computer Use - 4
-Security - 1
-Treat Injury - 4
-Save the rest
+* Computer Use - 4
+* Security - 1
+* Treat Injury - 4
+* Save the rest
 
 **Initial Feat** - Weapon Focus: Melee Weapons
 
@@ -62,12 +111,11 @@ For skills, we need will use Computer Use to help save on spikes throughout the 
 
 We choose Weapon Focus: Melee for the attack boost on Taris, in particular the fights with Selven, the Dueling Ring, and everything in the Sith Base. We choose it over Two-Weapon Fighting because it takes longer to select, so at level 2 it's faster to pick Two-Weapon Fighting. Since character creation isn't timed, this is optimal, and since you only have one melee weapon equipped on the Endar Spire there is no additional point at which you would benefit from it by taking Two-Weapon Fighting at Creation.
 
-***Leveling Plan
--------------------***
+### Leveling Plan
 
-https://i.imgur.com/QPItut4.png
+![A chart showing what Feats, Powers, and Skills to take at each level](https://i.imgur.com/QPItut4.png)
 
-Our main plan is to combine Master Speed with Master Flurry and a double-bladed lightsaber for five attacks per round in the late game.  Master Two-Weapon Fighting, Weapon Focus, stims and lightsaber crystals give us enough attack that we can reliably hit even with the attack penalties.
+Our main plan is to combine Master Speed with Master Flurry and a Double-Bladed Lightsaber for five attacks per round in the late game.  Master Two-Weapon Fighting, Weapon Focus, stims and lightsaber crystals give us enough attack that we can reliably hit even with the attack penalties.
 
 - We take Empathy at level 3 to gain a small boost to Persuade and Treat Injury; no other feat is as useful at that level.
 - Implant Level 2 is granted for free at Level 4, allowing us to equip the Nerve Enhancement Package.
@@ -81,7 +129,7 @@ Our main plan is to combine Master Speed with Master Flurry and a double-bladed 
 
 For skills, the 10 points in Intelligence allow us to get up to 8 net Computer Use, saving 2 spikes per hacking with our MC.  6 in Treat Injury helps us preserve some medpacs and increases survivability. Persuade helps us shortcut some quests and bypass some fights, and we max this out as soon as we become a Jedi.  We keep putting points in Persuade because as we level because we need more Persuasion to continue to pass important Persuade checks.
 
-[section=Equipment Plan]
+## Equipment Plan
 
 **Implant: Nerve Enhancement Package** - Bought on Taris, Zelka's Shop (500 Credits)
 - A convenient source of Immunity: Mind-Affecting, protecting us from a host of Dark Jedi abilities and other status effects that slow us down.
@@ -98,46 +146,46 @@ For skills, the 10 points in Intelligence allow us to get up to 8 net Computer U
 **Belt: CNS Strength Enhancer** - Bought on Dantooine, Crattis Yurkal's shop (8500 Credits)
 - A belt that gives +2 Strength and +2 to all saving throws helps on both offense and defense.
 
-**Weapon: Double-bladed Lightsaber** - Found on Taris, Brejik's corpse
+**Weapon: Double-Bladed Lightsaber** - Found on Taris, Brejik's corpse
 - We borrow Bastila's lightsaber for the bulk of the game.  This allows us to use Force Jump, as well as maximize the effects of the Solari and Krayt Dragon Pearls that we place into it.  It's also free, which reduces the strain on the credit route quite a bit compared to the alternatives.
+- Crystals Used:
+    - Sigil Crystal: Placed after Dantooine 1, used for +1 Attack (and a small damage boost)
+    - Krayt Dragon Pearl: Placed after Tatooine 1, gives a huge +3 Attack as well as +2 Energy damage
+    - Solari Crystal: The best crystal in the game and the reason we want to be Light-aligned in endgame. Replaces Sigil after Lehon, gives +3 Attack, +3 Physical damage, and +1d8 damage vs. Dark Side enemies, which the final three major combat encounters happen to put us against.
 
-Sigil Crystal: Placed after Dantooine 1, used for +1 Attack
-Krayt Dragon Pearl: Placed after Tatooine 1, gives +3 Attack and +2 Energy damage
-Solari Crystal: The best crystal in the game and the reason we want to be Light aligned in endgame. Replaces Sigil after Lehon, gives +3 Attack, +3 Physical damage, and +1d8 damage vs. Dark Side enemies, which the final three major combat encounters happen to put us against.
-
-[section=Credits Route]
+## Credit Route
 
 The major purchases made during the run are the CNS Strength Enhancer, HK-47, and a large amount of adrenal stims and medpacs for fights.  The credit route is extremely tight early on and stops being a concern after Manaan 1.
 
 **1. Larrim on Taris**
-*Sell*: Unneeded Items to reach about 1276 Credits
-*Buy:* 2x Concussion Grenade and Battle Stimulant (≥1000 Credits)
+- *Sell*: Unneeded Items to reach about 1276 Credits
+- *Buy:* 2x Concussion Grenade and Battle Stimulant (≥1000 Credits)
 
 **2. Zelka Forn on Taris**
-*Buy*: Nerve Enhancement Package, 5x Adrenal Alacrity, 5x Adrenal Strength, Medpacs
+- *Buy*: Nerve Enhancement Package, 5x Adrenal Alacrity, 5x Adrenal Strength, Medpacs
 
 **3. Janice Nall on Taris**
-*Sell*: Unneeded Items to reach about 6400 Credits
+- *Sell*: Unneeded Items to reach about 6400 Credits
 
 **4. Crattis Yurkal on Dantooine**
-*Buy*: CNS Strength Enhancer, Breath Mask, 3x Adrenal Alacrity, 1x Adrenal Strength, 1x Adrenal Stamina, +/- Pazaak Cards
+- *Buy*: CNS Strength Enhancer, Breath Mask, 3x Adrenal Alacrity, 1x Adrenal Strength, 1x Adrenal Stamina, +/- Pazaak Cards
 
 **5. Mic'Tunan'Jus Orgu on Tatooine**
-*Sell*: Unneeded Items to reach about 4800 Credits
-*Buy*: Bantha Fodder, ~15x Advanced Medpacs
+- *Sell*: Unneeded Items to reach about 4800 Credits
+- *Buy*: Bantha Fodder, ~15x Advanced Medpacs
 
 **6. Junix Nard on Tatooine**
-*Buy*: Pazaak Cards (3650 Credits)
+- *Buy*: Pazaak Cards (3650 Credits)
 
 **7. Selkath Merchant on Manaan**
-*Sell*: Racing Bonds to reach about 4500 Credits
-*Buy*: 7x Parts, 5x All Hyper Stims (≥500 Credits)
+- *Sell*: Racing Bonds to reach about 4500 Credits
+- *Buy*: 7x Parts, 5x All Hyper Stims (≥500 Credits)
 
 **8. Eli Gand on Kashyyyk**
-*Buy*: ~20x Advanced Medpac
+- *Buy*: ~20x Advanced Medpac
 
 **9. Czerka Store on Korriban**
-*Buy*: All Echani and Hyper Stims, Medpacs if needed
+- *Buy*: All Echani and Hyper Stims, Medpacs if needed
 
 Notice that we sell as much as possible to Janice Nall on Taris; shops on Taris give 40% of item value for sell prices, compared to 25% off of Taris, so we maximize our credits that way.
 
@@ -146,28 +194,23 @@ In addition to selling items, other major sources of credits include:
 - Taris Bounty and Rakghoul Serum rewards
 - Manaan Swoop Races
 
-[section=Alignment Route]
-
-***Alignment in KotOR
------------------------------***
+## Alignment Route
 
 Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher numbers are Light, lower numbers are Dark. Shifts in alignment are determined by a matrix; every alignment-shifting action is classified as Light or Dark, and then assigned a level (either Low, Mid, or High). The player character can be aligned as Very Dark, Dark, Neutral, Light, or Very Light. The more opposed your alignment and the action's classification, the more drastic your shift in alignment; for example, a Light-aligned character performing a High Dark action will have a large shift, while a Dark character performing a High Dark action will have a smaller shift.
 
-***Alignment Route
-------------------------***
+### Alignment Shifts
 
 Here's the full list of alignment actions that happen during the run; there are 46 total shifts, of which exactly 27 are dark and 16 are light:
 
-https://i.imgur.com/5bM09nI.png
+![A table showing alignment shifts for the run](https://i.imgur.com/5bM09nI.png)
 
-The alignment route is fairly specific, as we need to be Light aligned to use the Solari Crystal on the Star Forge, and we don't achieve a Light alignment until our very last alignment shift on Lehon.
+The alignment route is quite lenient, since we no longer try to equip the Solari crystal until after Lehon, when we get a massive infusion of light side points when we choose to renounce our former identity.
 
 The ending for the run is the light side ending; see below.
 
-***Alignment Choices in Quests
-------------------------------------------***
+### Quest Alignment Choices
 
-In general, every quest outcome is chosen to get the fastest time, regardless of alignment.
+In general, every quest outcome is chosen to get the fastest time, regardless of alignment. Some notes on some non-intuitive choices:
 
 **1. Dia's Bounty - Dark**
 - We kill Dia on Taris because it's faster than Persuading Holdan to drop the bounty, since you'd have to talk to Zax twice in that case, then Transit Back and talk to Dia.
@@ -211,10 +254,10 @@ In general, every quest outcome is chosen to get the fastest time, regardless of
 **14. Trapped on a Nameless World - Light**
 - We stay true to the Light Side on Lehon because otherwise the "Juhani" quest does not complete.  It also makes the Star Forge faster in the NMG rule set, since we would otherwise have to bring Bastila through the Star Forge with us.
 
-[section=Route Overview]
+## Route Overview
 
-***Planet Route
--------------------***
+### Planet Route
+
 Taris -> Dantooine 1 -> Tatooine 1 -> Manaan 1 -> Dantooine 2 -> Kashyyyk -> Tatooine 2 -> Manaan 2 -> Leviathan -> Korriban -> Unknown Planet -> Star Forge
 
 Some planets require at least two visits, such as:
@@ -232,8 +275,7 @@ Tatooine could be done in a single visit if our route was different, but since w
 
 This route does not visit Yavin space station, and therefore does not get the Baragwin Assault Blade or the Advanced Bio-Stabilizer Mask.  But we save time by not having to visit Suvam three times.
 
-***Route Outline
--------------------***
+### Route Outline
 
 **1. Taris 1**
 - Obtain the Sith Armor from Sarna's Party
@@ -243,6 +285,7 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 - Turn in Promised Land Journals
 - Get Swoop Accelerator from Vulkar Base
 - Rescue Bastila
+
 **2. Taris 2**
 - The Duel Ring and Bendak's Bounty
 - Recruit T3
@@ -250,12 +293,14 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 - Sell Rakghoul Serum to Zax and get bounty rewards
 - Recruit Canderous
 - Steal the Ebon Hawk and escape Taris
+
 **3. Dantooine 1**
 - Buy the CNS Strength Enhancer
 - Become a Jedi Padawan
 - Ignore the murder of Calder Nettic
 - Redeem Juhani to the light side
 - Find the Star Map in the ancient ruins
+
 **4. Tatooine 1**
 - Win the Tatooine Swoop Races and get Nico a better contract
 - Win a Pazaak Game
@@ -266,11 +311,13 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 - Kill Komad Fortuna and the Krayt Dragon
 - Find the Star Map and Bastila's Father's holocron
 - Trigger the GenoHaradan bounty quests
+
 **5. Manaan 1**
 - Finish Carth's backstory
 - Sell gizka to Nubassa
 - Begin the GenoHaradan bounties and kill Lorgal
 - Win the Manaan Swoop Races
+
 **6. Dantooine 2**
 - Give Nurik Sandral evidence of his son's death
 - Reconcile the Sandrals and Matales
@@ -278,6 +325,7 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 - Kill the Mandalorian Raiders
 - Kill Zuulan
 - Speak to Elise and Jon
+
 **7. Kashyyyk**
 - Speak with Eli Gand
 - Reach the Shadowlands
@@ -292,6 +340,7 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 - Defeat the Mandalorian Hunters
 - Side with Chuundar
 - Expose Eli Gand
+
 **8. Tatooine 2**
 - Buy Sharina's wraid plate
 - Reconcile Bastila and her mother
@@ -302,6 +351,7 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 - Finish Griff's sidequest with the tach glands
 - Get the Sand People reward from Czerka
 - Get Iziz's reward
+
 **9. Manaan 2**
 - Kill Ithorak and enter the Sith Base
 - Find the Data Module
@@ -312,11 +362,13 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 - Be acquitted at your trial
 - Give Nilko and Shaelas the information they seek
 - Investigate the Sunry Murder Trial fully
+
 **10. The Leviathan**
 - As Mission, rescue the party
 - Obtain a space suit to reach the bridge
 - Defeat Darth Malak to escape
 - Learn HK-47's true identity
+
 **11. Korriban**
 - Encounter Xor
 - Speak to Jagi with Canderous
@@ -336,6 +388,7 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 - Gain entrance to Naga Sadow's tomb and find the Star Map
 - Kill Uthar and spare Yuthura
 - Finish Juhani's backstory and kill Xor
+
 **12. Lehon**
 - Defeat the Mandalorian leader and give his head to Warleader Garn
 - Betray the One and rescue the Elder Warrior
@@ -345,12 +398,13 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 - Defeat Bastila and stay true to the light side
 - Turn in genetic data to the Elder Rakata
 - Repair the Ebon Hawk and locate the Star Forge
+
 **13. Star Forge**
 - Finish Canderous's backstory
 - Defeat and redeem Bastila
 - Defeat Darth Malak
 
-[section=Detailed Route]
+## Detailed Route
 
 This section will describe all the actions you'll need to take for the All Quests NMG run.
 
@@ -1817,11 +1871,12 @@ Darth Malak fight:
 - You can split the Jedi between MC and the others to save a little movement
 - Kill Malak once and for all
 
-[section=Complete Quest List]
+## Complete Quest List
 This is a list of all the quests in the game, as well as the alignment we complete them with, if applicable.
 
 **Endar Spire:**
 - Attack on the Endar Spire
+
 **Taris:**
 - Rapid Transit System
 - Largo's Bounty - Dark
@@ -1841,6 +1896,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Dia's Bounty - Dark
 - Escaping Taris
 - Taris: Planetary Information
+
 **Dantooine:**
 - Jedi Trials
 - The Jedi Council
@@ -1851,6 +1907,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Missing Companion
 - Investigate Ruins
 - GenoHaradan: Zuulan - Dark
+
 **Korriban:**
 - Premium Merchant
 - Enter the Sith Academy - Dark
@@ -1866,6 +1923,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Hermit in the Hills - Dark
 - Star Map: Korriban
 - The Way of the Sith - Light
+
 **Manaan:**
 - Republic Embassy
 - GenoHaradan: Lorgal - Dark
@@ -1881,6 +1939,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Firith Me the Pazaak Player
 - Gluupor the Rodian
 - Ignus the Hotel Owner
+
 **Kashyyyk:**
 - Honest Debt - Light
 - Tach Poaching
@@ -1890,6 +1949,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Chieftain in Need - Dark
 - A Wookiee Lost
 - GenoHaradan: Rulan - Dark
+
 **Tatooine:**
 - Tanis Trapped - Dark
 - Desert Ambush
@@ -1903,11 +1963,13 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Tatooine Swoop Racing
 - Signing Nico
 - Fair Trade
+
 **Unknown World/Star Forge:**
 - Invisible Mandalorians
 - Trapped on a Nameless World - Light
 - Rakatan Research
 - The Final Confrontation
+
 **Party Quests:**
 - Jagi's Challenge
 - Carth - Light
@@ -1920,6 +1982,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Juhani
 - Finding Dustil - Light
 - Canderous
+
 **Intergalactic Quests:**
 - The Ebon Hawk
 - Pazaak Rules
@@ -1931,18 +1994,21 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - GenoHaradan
 - A Quest for the Star Forge
 
-[section=Version History]
+## Version History
 
 **v1.0 (August 2022)**
 - Finalized detailed route
 - Added instructions to replace Sigil Crystal with Solari Crystal after Lehon because that's important
 - Minor optimizations and corrections
+
 **v0.3 (August 2022)**
 - Modified methods of GenoHaradan assassinations to save about 40 seconds
--- Deleted Adum Larp shopping as a result
+- Deleted Adum Larp shopping as a result
+
 **v0.2 (August 2022)**
 - Minor data corrections
 - Added Markdown links for instances of glitches
+
 **v0.1 (August 2022)**
 - Uploaded initial guide with complete alignment route, credit route, detailed route; route includes:
   - Scout -> Jedi Guardian: Two-Weapon Fighting/Flurry character build
