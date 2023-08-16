@@ -79,7 +79,7 @@ Once you are in the correct module and have the correct party members in your pa
 - Load the Quick Save from the Load Game menu to complete the glitch.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/50-SdtxMBgU" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/t6HBXnZdwno" frameborder="0"></iframe>
 </div>
 
 **Additional Notes:**
@@ -115,7 +115,7 @@ The Routine is not used in [All Quests](<../Route Guides/All Quests Unrestricted
 The [Any%](<../Route Guides/Any%25 Unrestricted>) speedrun uses the Routine three times to obtain the Kashyyyk Star Map four times.  The Kashyyyk Map is chosen because there is a convenient Coordinate Warp from the Czerka Landing Pad that gets us very close to the Star Map in the Lower Shadowlands.  Recruiting Jolee on Kashyyyk also allows us to skip Juhani on Dantooine, saving time there.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/N2xK6V7fJCc" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/z-9vaqIEFVw" frameborder="0"></iframe>
 </div>
 
 The general steps for the Kashyyyk Star Map duplication:
