@@ -38,7 +38,7 @@ Save Teleporting is a method of movement that employs a Quick Save, and allows y
 To Save Teleport, simply hold both mouse buttons down to run forward (the keyboard will not work for this), then press the Quick Save button.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/OKibv5D4l4k" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/PgYR0FK10YI" frameborder="0"></iframe>
 </div>
 
 While single Save Teleports can be useful, chaining Save Teleports is most effective when using them for movement.
@@ -82,7 +82,7 @@ Combining these two ideas within a specific route can lead to very specific move
 * Talk to the guard
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/F3aFcTBDQrM" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/y18o7TyvWDk" frameborder="0"></iframe>
 </div>
 
 This takes the thinking and guesswork out of Save Teleport movement, allowing you to focus on the execution and streamlining your movement as much as possible.
