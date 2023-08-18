@@ -451,175 +451,184 @@ Quest Notes:
 
 ## Endar Spire
 
-**Character Creation:**
-> Male Scout – Custom Character
-> Str to 18, Dex to 12, Con to 12, Int to 10, Cha to 12
-> Computer Use to 4, Security to 1, Treat Injury to 4, Save the rest
-> Initial Feat – Weapon Focus: Melee Weapons
-> Pick a good name!
-> Timer starts when you hit Play!
+### Character Creation
+- Male Scout – Custom Character
+- Str to 18, Dex to 12, Con to 12, Int to 10, Cha to 12
+- Computer Use to 4, Security to 1, Treat Injury to 4, Save the rest
+- Initial Feat – Weapon Focus: Melee Weapons
+- Pick a good name!
+- Timer starts when you hit Play!
 
-**Endar Spire:**
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) past Intro CS
-Loot footlocker
-} Equip Short Sword
-Trask conversation twice (spam)
-} Equip Blaster Pistol to Trask's Offhand
-Use security on door
-Kill two Sith Soldiers
-Loot footlocker in next room
-Cutscene of Sith vs. Republic
-Kill front three Sith Soldiers with frag grenade
-Jedi vs. Sith cutscene
-Loot Jedi for Vibration Cell/Adrenal Strength
-Kill two Sith soldiers
-Kill front two Sith soldiers on bridge
-> Level to 2: Save skills, Two-Weapon Fighting
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) past Trask's death scene
-Enter Starboard Section
+### Command Module
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Intro CS
+- Loot footlocker
+- *Equip MC: Short Sword*
+- Trask conversation twice (spam)
+- *Equip Trask: Blaster Pistol Offhand*
+- Use security on door
+- Kill two Sith Soldiers
+- Loot footlocker in next room
+- Cutscene of Sith vs. Republic
+- Kill front three Sith Soldiers with frag grenade
+- Jedi vs. Sith cutscene
+- Loot Jedi for Vibration Cell/Adrenal Strength
+- Kill two Sith soldiers
+- Kill front two Sith soldiers on bridge
+- `Level to 2: Save Skills, Two-Weapon Fighting`
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Trask's death scene
+- Enter Starboard Section
 
-**Starboard Section:**
-Loot footlocker in Terminal Room
-Hack terminal console: 2,3
-Loot Sith Commander for Prototype Vibroblade
-Carth talks to you
-Take Escape Pod to Taris
+### Starboard Section
+- Loot footlocker in Terminal Room
+- Hack terminal console: 2,3
+- Loot Sith Commander for Prototype Vibroblade
+- Carth talks to you
+- Take Escape Pod to Taris
 
 ## Taris 1
 
 *Note on Alacrity: We want Adrenal Alacrity to be active on the MC for as much of Taris as possible.  The route obtains 5 Alacrities on Taris, and with Duration Glitch and good movement you should be able to reach Dantooine with 2 remaining.*
 
 **South Apartments:**
-} Use the stims hotkey to use two stims:
-- Once (for Adrenal Alacrity) before the dream CS
-- Once (for Adrenal Strength) before the waking up CS in the Hideout
-Carth talks to you: 1,1,1,5,3
-Loot footlocker for spikes and medpacs (+2; 3 Spikes)
-} Equip Combat Suit, Prototype Vibroblade mainhand, Vibroblade offhand
-Exit the apartment (forced to bring Carth)
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) past Sith Raid cutscene
-Use Security on the first door on the right
-Speak to and kill Dia: 1,1,1,2,2,2,1
-- Starts “Dia’s Bounty”
-Loot Dia’s Bag
-Larrim accosts you: 1,2,4
----------------------------------------------------------
-*SHOPPING:* Larrim
-**SELL ALL EXCEPT:**
-- 3 Computer Spikes (sell down to 3)
-- Vibroblade
-- Grenades
-- Stims
-**BUY:**
-- Battle Stimulant
-- Concussion Grenade (Buy 2x if you can do so without going below 1000 credits, this will depend on what you got in Dia’s Bag)
-End: ≥ 1000 Credits
----------------------------------------------------------
-Exit to Upper City South
-- Starts “Rapid Transit System”
+- *Stims: Use Hotkey for Alacrity before vision CS*
+- *Stims: Use Hotkey for Strength before Hideout CS*
+- Carth talks to you: 1,1,1,5,3
+- Loot footlocker for spikes and medpacs (+2; 3 Spikes)
+- *Equip MC: Combat Suit, Prototype Vibroblade Mainhand, Vibroblade Offhand*
+- Exit the apartment
+  - *Party: Keep Carth when prompted*
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Sith Raid cutscene
+- Use Security on the first door on the right
+- Speak to and kill Dia: 1,1,1,2,2,2,1
+  - ***Starts “Dia’s Bounty”***
+- Loot Dia’s Bag
+- Larrim accosts you: 1,2,4
 
-**Upper City South:**
-Run to Upper City Cantina
-- Do Carth #1 when prompted (mash 1)
-- Starts “Carth”
-Enter Upper City Cantina
-Activate Solo Mode
-Carth opens door
-MC talks to Sarna: 1,1,3,2,1,1,1
-- Starts “Invited to a Party”
-Swap to Carth and leave the Cantina
-Run towards Upper City North
-Activate Solo Mode
-With MC, open door to Medical Clinic
-With Carth, open door to Upper City North
-MC talks to Zelka: 1,1,1,3
-- Starts “Rakghoul Serum”
----------------------------------------------------------
-*SHOPPING: Zelka Forn*
-**BUY:**
-- Nerve Enhancement Package
-- 5x Adrenal Alacrity
-- 5x Adrenal Strength
-- If you have extra credits buy medpacs
-End: <40 Credits
----------------------------------------------------------
-Gurney accosts you: 1,3,4
-¤ Swap to Carth and Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC
-Enter Upper City North
+```
+SHOPPING: Larrim
+- SELL ALL EXCEPT:
+  - 3 Computer Spikes (sell down to 3)
+  - Vibroblade
+  - Grenades
+  - Stims
+- BUY:
+  - Battle Stimulant
+  - Concussion Grenade
+    - Buy 2x if you can do so without going below 1000 credits
+    - This depends on what you got in Dia’s Bag
+- End: ≥ 1000 Credits
+```
 
-**Upper City North:**
-Run straight across to Upper City North Apartments
-} Use Adrenal Alacrity on Carth (4 Alacrity remain) before entering Apartments with MC
-Activate Solo Mode
-As Carth:
-- Use Security to open the first door on the right
-- Talk to Largo: 1,2 (swaps position with MC)
-- Trigger Sarna’s party and loot backpack for Sith Armor
-- Finishes “Invited to a Party”
-As MC:
-- Run to second apartment on left
-- Kill and loot Largo when swapped to his position
-- Run to door back to Upper City North
-- ¤ Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp Carth
-Exit to Upper City North
-Activate Solo Mode
-} Equip Sith Armor to Carth
-With Carth, run down street to right until it narrows
-¤ With MC, Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp Carth
-- The cutscene to enter the Lower City will play and warp MC there
-Return to Hideout and Transit Back
-Enter Lower City
+- Exit to Upper City South
+  - ***Starts “Rapid Transit System”***
 
-**Lower City:**
-} Unequip Sith Armor from Carth
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) past Vulkar/Bek CS
-Enter Lower City East Apartments straight ahead
-Use Security to open first apartment on right
-Kill Matrik: 1,2
-Exit to Lower City
-Enter Bek Base
-Activate Solo Mode to leave Carth at the entrance
-Speak with Gadon: 1x10,3,2
-Exit Bek Base with Carth
-¤ With Carth, [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) Canderous CS and enter West Apartments
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) Calo Nord CS
-With MC, run to second apartment on right and use Security on the door
-With Carth, while MC is opening door, use a Frag Grenade and Power Blast to kill Vulkars down the hall
-Kill Selven: 3
-> Level to 3: Treat Injury to 6, Empathy
-Talk to Carth #2
-Exit to Lower City
-} Remove Carth from party
-Enter Undercity
+### Upper City South
+- Run to Upper City Cantina
+  - Do Carth #1 when prompted (mash 1)
+  - ***Starts “Carth”***
+- Enter Upper City Cantina
+- Activate Solo Mode
+- Carth opens door
+- MC talks to Sarna: 1,1,3,2,1,1,1
+  - ***Starts “Invited to a Party”***
+- Swap to Carth and leave the Cantina
+- Run towards Upper City North
+- Activate Solo Mode near sculpture at far end
+- With MC, open door to Medical Clinic
+- With Carth, open door to Upper City North
+- MC talks to Zelka: 1,1,1,3
+  - ***Starts “Rakghoul Serum”***
 
-**Undercity and Sewers:**
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip beggar CS
-} Add Carth to party
-Activate Solo Mode
-With MC
-- Open gate on right and speak to healer: 1,2
-- Avoid rakghouls in pen to speak to outcasts: 2,2
-    - ¤ If you get into combat with the rakghouls, use [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj) to speak to the outcasts
-- Starts and Finishes “Infected Outcasts”
-With Carth
-- Open elevator door behind him
-- ¤ Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC
-Deactivate Solo Mode
-Kill rakghoul attacking Hendar
-Mission joins the party
-Approach Lower Sewers entrance, loot Rubble
+```
+SHOPPING: Zelka Forn
+- BUY: 
+  - Nerve Enhancement Package
+  - 5x Adrenal Alacrity
+  - 5x Adrenal Strength
+  - If you have extra credits, buy medpacs
+- End: <40 Credits
+```
+
+- Gurney accosts you: 1,3,4
+- Swap to Carth and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
+  - Remember, all [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) in this run should be [Buffered GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) 
+- Enter Upper City North
+
+### Upper City North
+- Run straight across to Upper City North Apartments
+- *Stims: Alacrity on Carth before entering Apartments with MC*
+- Activate Solo Mode
+- As Carth:
+  - Use Security to open the first door on the right
+  - Talk to Largo: 1,2 (swaps position with MC)
+  - Trigger Sarna’s party and loot backpack for Sith Armor
+  - ***Finishes “Invited to a Party”***
+- As MC:
+  - Run to second apartment on left
+  - Kill and loot Largo when swapped to his position
+  - Run to door back to Upper City North
+  - [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth
+- Exit to Upper City North
+- Activate Solo Mode
+- *Equip Carth: Sith Armor*
+- With Carth, run down street to right until it narrows
+- With MC, [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth
+  - The cutscene to enter the Lower City will play and warp MC there
+- Return to Hideout and Transit Back
+  - This sets our transit point for later
+- Enter Lower City
+
+### Lower City
+- *Unequip Carth: Remove Sith Armor*
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Vulkar/Bek CS
+- Enter Lower City East Apartments straight ahead
+- Use Security to open first apartment on right
+- Kill Matrik: 1,2
+- Exit to Lower City
+- Enter Bek Base
+- Activate Solo Mode to leave Carth at the entrance
+- Speak with Gadon: 1x10,3,2
+- Exit Bek Base with Carth
+- With Carth, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Canderous CS and enter West Apartments
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Calo Nord CS
+- With MC, run to second apartment on right and use Security on the door
+- With Carth, while MC is opening door, use a Frag Grenade and Power Blast to kill Vulkars down the hall
+  - This gets them out of the way and helps hit our XP threshhold
+- Kill Selven: 3
+- `Level to 3: Treat Injury to 6, Empathy`
+- Carth #2
+- Exit to Lower City
+- *Party: Remove Carth*
+- Enter Undercity
+
+### Undercity and Sewers
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip beggar CS
+- *Party: Add Carth*
+- Activate Solo Mode
+- With MC:
+  - Open gate on right and speak to healer: 1,2
+  - Avoid rakghouls in pen to speak to outcasts: 2,2
+    - If you get into combat with the rakghouls, use [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj) to speak to the outcasts
+  - ***Starts and Finishes “Infected Outcasts”***
+- With Carth:
+  - Open elevator door behind him
+  - [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
+- Deactivate Solo Mode
+- Kill rakghoul attacking Hendar
+- Mission joins the party
+- Approach Lower Sewers entrance, loot Rubble
 ---------------------------------------------------------
-***Optional Strat: Lower Sewers [GP Warp](https://www.speedrun.com/kotor1/guide/77xef)***
-*This strat optimizes movement and saves at least 10 seconds, but can be risky as you’re trying to [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) while MC is being attacked.*
+***Optional Strat: Lower Sewers [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)***
+*This strat optimizes movement and saves at least 10 seconds, but can be risky as you’re trying to [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) while MC is being attacked.*
 - Activate Solo Mode
 - As MC
--- ¤ Run west and [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) Canderous CS
+-- ¤ Run west and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Canderous CS
 -- Run to and loot Outcast Corpse for a Promised Land journal
 -- Run to the back of Canderous’s group
 -- MC needs to be in the green area
 https://i.imgur.com/DtlUjcO.png
 - As Mission/Carth
--- ¤ Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC
+-- ¤ [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
 } As MC, use Adrenal Alacrity (3 Alacrity remaining) and enter Lower Sewers
 - Run forward, then activate Solo Mode to leave Carth and Mission to kill rakghouls
 - As MC, go right then first door on the left to loot second journal from Outcast Corpse
@@ -630,7 +639,7 @@ https://i.imgur.com/DtlUjcO.png
 } Equip Nerve Enhancement Package, Mission’s Vibroblade to MC offhand
 - Bash open footlocker in next room
 - With Mission, interact with the Force Field Terminal and mash the cutscene
-¤ Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) with Mission to warp MC
+¤ [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) with Mission to warp MC
 - Add Zaalbar to the party
 -- Note: If any rakghouls survived, you may have to enter Upper Sewers to change party members
 } Equip Vibroblade x2 to Zaalbar
@@ -647,10 +656,10 @@ https://i.imgur.com/DtlUjcO.png
 - Bash open footlocker in next room
 - With Mission, interact with ladder to warp the party
 - Activate Solo Mode
-¤ As MC, run west and [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) Canderous CS
+¤ As MC, run west and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Canderous CS
 - Loot second journal from Outcast Corpse
 - Run to the back of Canderous’s group (see image above for where to stand)
-- ¤ As Mission/Zaalbar, Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC
+- ¤ As Mission/Zaalbar, [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
 } MC refreshes Adrenal Alacrity (3 Alacrity remaining)
 - Enter Lower Sewers
 - Throw Frag Grenade at rakghouls
@@ -669,24 +678,24 @@ Turn journals in to Rukil
 - Starts and Finishes “Rukil’s Apprentice”
 - Starts and Finishes “The Promised Land”
 MC runs into corner to the east
-- In Undercity [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) map shown above, MC must be in red
-¤ Mission/Zaalbar Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC
+- In Undercity [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) map shown above, MC must be in red
+¤ Mission/Zaalbar [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
 Finish killing rakghouls if they’re still alive
 Unequip Mission, remove Mission and Zaalbar from party
 Enter Lower Sewers
 Note: make sure MC has enough Vitality to tank some hits from the Gamorreans waiting down there
 Run to Upper Sewers
 ---------------------------------------------------------
-***Optional Strat: Upper Sewers [GP Warp](https://www.speedrun.com/kotor1/guide/77xef)***
+***Optional Strat: Upper Sewers [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)***
 *This strat saves about 10 seconds in the Vulkar Garage but can be finicky. Using it is personal preference.*
 - Add Carth to the party
 - Activate Solo Mode
 - As Carth, open door behind you to Lower Sewers
 - As MC, run through sewers and kill the Malfunctioning Droid
-¤ Quickly swap to Carth and Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to teleport MC to end of the sewers
+¤ Quickly swap to Carth and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to teleport MC to end of the sewers
 - Queue up Flurry on the Vulkar Guards, then swap back to Carth
 - Run through sewers to the same point as before
-¤ Swap to MC and Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp Carth to the end of sewers
+¤ Swap to MC and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth to the end of sewers
 - Use Carth to open the door that leads to the rancor
 -- Finishes “Rancor in the Sewers”
 - Enter Vulkar Base
@@ -717,7 +726,7 @@ As Carth (or as MC if no Carth):
 As MC:
 - Kill both Vulkars in the central hallway
 - Continue past mines and take last door on left
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip Kandon Ark fight
+¤ [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Kandon Ark fight
 - Get the swoop accelerator
 - Talk to Kandon Ark
 - This will teleport you outside the Vulkar base
@@ -726,13 +735,13 @@ As MC:
 Return to Hidden Bek Base
 Talk to Carth #3
 Talk to Zaerdra and Gadon Thek
-¤ After talking to Gadon, [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip the Ithorian CS at swoop track
+¤ After talking to Gadon, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Ithorian CS at swoop track
 Talk to the Race Coordinator to complete Race One
 - Do not shift into the top gear for these swoop races; it’s faster by roughly a second to stay in fourth gear.
 - Whatever time you get on this race will be beaten by 0.25s by Redros
 Talk to the Race Coordinator to complete Race Two
 - You’ll need to beat Redros’s time on the second race, but your swoop accelerates faster than before
-¤ After two panels of the Ithorian’s conversation, [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip the Brejik fight
+¤ After two panels of the Ithorian’s conversation, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Brejik fight
 - Click twice then immediately spam QS
 Talk to Bastila
 - If you miss the previous buffer, you can use [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj) to talk to Bastila and skip the Brejik fight
@@ -749,7 +758,7 @@ Talk to Bastila #1
 - Starts “Bastila”
 Talk to Carth #4
 Leave Apartment with Bastila
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip Canderous’s friend accosting you
+¤ [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Canderous’s friend accosting you
 > Level Bastila to 4: Charisma to 16, Save Skills, Burst of Speed
 - Increasing her Charisma to 16 gives her just enough Force Points to cast Burst of Speed twice
 > Level MC to 5: Computer Use to 8, Improved Two-Weapon Fighting
@@ -810,18 +819,18 @@ Swap to T3/Zaalbar and interact with the Elevator
 - This warps the MC to Zaalbar and T3
 --- ¤ *T3 using [Save Teleports](https://www.speedrun.com/kotor1/guide/5dagb) is about as fast RTA as Bastila with Burst of Speed at this point*
 ¤ Go to the Sith Base
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) the door opening cutscene
+¤ [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) the door opening cutscene
 } Use Adrenal Strength on Zaalbar (0 remain)
 Enter Sith Base
 
 **Sith Base:**
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip secretary conversation
+¤ [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip secretary conversation
 - If you miss, the conversation is 3,1
 Kill both patrol droids at the end of the first hallway
 Take right hallway and kill patrol droid
 Defeat Sith soldiers in barracks
 Loot footlocker for passcard with T3
-¤ As T3, [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip Assault Droid intro CS
+¤ As T3, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Assault Droid intro CS
 Assault droid fight
 - Pause and use a Concussion Grenade on Assault Droid with T3
 - MC attacks Assault Droid with Flurry
@@ -853,7 +862,7 @@ Talk to Canderous: 2
 - Starts “Canderous”
 Add T3 to party when prompted
 Malak CS
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) after load-in to skip the Davik/Calo fight
+¤ [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) after load-in to skip the Davik/Calo fight
 ¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) with T3 to the security terminal: 1,2,2,4,3 (-8; 0 Spikes)
 ¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) with T3 to the Ebon Hawk
 ¤ Board the Ebon Hawk, then use a [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685) to Return to Ebon Hawk
@@ -867,7 +876,7 @@ Malak CS
 **Jedi Enclave:**
 *Note: The game dumps memory after Taris, so your [Save Teleports](https://www.speedrun.com/kotor1/guide/5dagb) become significantly weaker for a while. Movement with Alacrity/Burst of Speed is faster.*
 Follow Bastila to Jedi Council
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip Belaya’s conversation
+¤ [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Belaya’s conversation
 ¤ [Open Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch5Open_Buffers) into the Council conversation
 - This lets you skip the first text faster than usual, saving a few seconds
 } Use an Adrenal Alacrity before the dream CS (1 remain)
@@ -894,7 +903,7 @@ End: ~0 Credits
 } Remove Carth from the party
 ¤ [Open Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch5Open_Buffers) into the council conversation
 - Swap to Canderous as the buffer ends
-¤ IMMEDIATELY AFTER this conversation, [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip training montage
+¤ IMMEDIATELY AFTER this conversation, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip training montage
 - This conversation is seven 1s; I count those seven, then click twice
 - As Master Vrook says, "I can only hope you prove up to the task...", click to skip the text and IMMEDIATELY AFTER, QS to start buffering
 - If you get the QS, but fail the load, kill the program, reopen, and reload the save
@@ -968,7 +977,7 @@ Star Map: Dantooine
 - Finishes “Investigate Ruins”
 Loot Nero's corpse for Robe and Sigil crystal
 Exit Ruins
-- If one of your party members doesn't follow, use a [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to get them out quickly
+- If one of your party members doesn't follow, use a [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to get them out quickly
 
 **Leaving Dantooine:**
 Talk with Mission three times: 1 | 1,1,4,1 | 1x13,2
@@ -1091,7 +1100,7 @@ Loot tattered equipment pack for Holocron
 Star Map: Tatooine
 - Finishes “Star Map: Tatooine”
 Loot Rubble for swag Violet Crystal
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) Calo Nord fight on the way out
+¤ [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Calo Nord fight on the way out
 Return to Dune Sea
 Return to Ebon Hawk and exit to Anchorhead
 - There may be a Sand People Warrior that followed you to this area that you’ll have to kill
@@ -1248,7 +1257,7 @@ Talk to Eli Gand
 
 **Great Walkway:**
 ¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) past the Wookiee Guard that blocks you from the Shadowlands elevator
-¤ Use T3 to Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC to Shadowlands elevator
+¤ Use T3 to [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC to Shadowlands elevator
 Use elevator
 - The Autosave that happens here is a good place to reset for memory leaks
 
@@ -1304,7 +1313,7 @@ With MC
 Defeat and loot Mandalorian Captain
 - Finishes “Hidden Hunters”
 ¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) back to Upper Shadowlands
-¤ Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp Jolee to you if he didn't follow
+¤ [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Jolee to you if he didn't follow
 
 **Wookiee Politics:**
 Activate Solo Mode
@@ -1421,14 +1430,14 @@ With MC
 - Make sure MC is at full health in front of the steam hallway
 ¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) to the end of the hall
 - Open door, interact with Computer Terminal: 1,2,2,4,scroll down and click (-4; 7 Spikes)
-¤ With Jolee, Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC back to lobby
+¤ With Jolee, [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC back to lobby
 With MC
 - Go through door behind secretary, go down hall
 - Ignore Dark Jedi, open door on left
 - Go straight then left in the hallway, let Selkath open door
 - Open next door, then open door around corner to the left
 - Talk to Sasha: 1,1,1,1,2
-¤ With Jolee, Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC back to lobby
+¤ With Jolee, [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC back to lobby
 Exit to Ahto City
 
 **Ahto City:**
@@ -1511,9 +1520,9 @@ Carth's old mentor CS
 Talk to the crew: 1,1,1,2
 - Starts “Captured by the Leviathan”
 Mash through being tortured
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) at the end of the CS with Mission
+¤ [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) at the end of the CS with Mission
 - As CS fades out on Carth, there is a window between when this CS ends and the next with Mission begins
-- During this window, mash QS and [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers)
+- During this window, mash QS and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>)
 - If the cutscene initiates but you got a QS in, kill the game process in Task Manager or Alt-F4 and load the QS
 - If you didn’t get a QS, mash the cutscene
 Turn left to the end of the hall
@@ -1797,7 +1806,7 @@ Return to main floor
 Activate Solo Mode
 Run up the ramp and out of the room
 Swap to other party member
-¤ Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC and enter Temple Summit
+¤ [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC and enter Temple Summit
 - Alternately, go back to the entrance and enter the Massive Door, enter Temple Summit
 Speak to and defeat Darth Waifu
 Choose to remain true to the light
@@ -1841,18 +1850,18 @@ Exit the Ebon Hawk
 Go right, then left
 - To get past the two frozen assault droids, click on the distant door and watch the wonders of KotOR pathing
 - While waiting for the first hostile pair of droids, use a Hyper Alacrity to preserve the effects of Speed
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) past Jedi vs. Sith CS
+¤ [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Jedi vs. Sith CS
 Recast Knight Speed
 Cast Knight Valor as you enter Deck 2
 
 **Deck Two:**
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) past fight trigger
+¤ [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past fight trigger
 Take left path, then right, then turn left
 Hack computer terminal: 1,1,5
 Return and take elevator to Command Deck
 
 **Command Center:**
-¤ Immediately after loading, [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip Bastila/Malak CS
+¤ Immediately after loading, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Bastila/Malak CS
 Run/Force Jump until double doors
 } Use rest of Hyper Stim Suite and Speed/Valor if needed
 ¤ [Open Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch5Open_Buffers) into the triple Dark Jedi fight
