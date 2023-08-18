@@ -22,7 +22,7 @@ title: KotOR Speedrunning Guides
 email: kotorsr@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Your source for all speedrun guides for the entire Knights of the Old Republic series. We have guides for every speedrun category, as well as individual guides for specific glitches and even some more random information as well!
-baseurl: "/test-pages/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://kotor-speedruns.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kotor-speedruns
 
