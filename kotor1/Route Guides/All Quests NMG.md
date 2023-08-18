@@ -408,34 +408,48 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 
 This section will describe all the actions you'll need to take for the All Quests NMG run.
 
-**Credit Route notes:**
-Credit values are only generally noted where they are important.  You shouldn't have credit issues if you stick with the route as written, and after Manaan Swoop Racing you're so rich that your credit count is irrelevant.
+### Crash Awareness
 
-**Quest Notes:**
-It is generally noted where a quest begins and finishes.  If it finishes at the same time it begins, it is only noted as "Finished".  Quests resolved with a specific alignment are noted "- Light" or "- Dark".
-Notes that read "Bastila #1" or similar are steps in conversation side quests with that particular party member.  With a few noted exceptions, these are all spammable conversations.
+KotOR has a significant memory leak associated with the Quick Save feature, which is used heavily in this speedrun and is what allows a significant portion of NMG's glitches to work. It is recommended to speedrun with the Task Manager open in order to monitor Memory usage and also to close the game at several points. It is recommended to close and restart the game around 1400-1450 MB of memory used, as the game will crash unpredictably between 1500 and 1600 MB. This is a very small margin, and being aware of your memory usage is a vital component of finishing runs and getting good times.
 
-**Notation:**
-¤ indicates a glitch or trick to be done
-> indicates a level up to be done
-} indicates an inventory/equipment action to be done
-MC - Stands for Main Character, your player character
-CS - Cutscene
-QS - Quick Save
-QL - Quick Load
-QS/QL - Quick Save then immediately Quick Load
-[GP Warp](https://www.speedrun.com/kotor1/guide/77xef) - Gather Party Warp
+### Guide Notation
 
-**Conversation Notes:**
-If no conversation choices are specified, spamming will work.
-A | indicates a break in the conversation.  You have to talk to the person again.
-A X indicates a variable answer, such as in reciting the Sith Code.
-A #xY indicates repeat that option Y times, as in Gadon Thek's first conversation.
+Notation:
+- `Level ups are highlighted in code block`
+- *Inventory/Equipment changes are highlighted in italics*
+- **Item Upgrades at a workbench are highlighted in bold**
+- `Shopping trips are highlighted in large code blocks`
+- ***Quest Updates are highlighted in bold and italics***
 
-**Crash Awareness**
-KotOR has a significant memory leak associated with the Quicksave feature, which is used heavily in this speedrun and is what allows a significant portion of NMG's glitches to work. It is recommended to speedrun with the Task Manager open in order to monitor Memory usage and also to close the game at several points. It is recommended to close and restart the game around 1400-1450 MB of memory used, as the game will crash unpredictably between 1500 and 1600 MB. This is a very small margin, and being aware of your memory usage is a vital component of finishing runs and getting good times.
+Conversation Notes: 
+- If no conversation choices are specified, spamming will work (this chooses all 1 options).
+- A ... indicates a break in the conversation, such as changing who you're talkng to or having to talk to the NPC again
+- A * indicates a variable answer, such as in reciting the Sith Code.
+- A #* indicates a Persuade check that may fail.
+- A #xY indicates repeat that option Y times, as in Gadon Thek's first conversation.
+- Notes that read "Bastila #1" or similar are steps in conversation side quests with that particular party member.  With a few noted exceptions, these are all spammable conversations.
 
-[section=Endar Spire]
+Quest Notes:
+- It is generally noted where a quest begins and finishes.
+- Specific alignments for all quests are shown in the quest list at the end.
+
+**Jump to a Section:**
+- [Endar Spire](#endar-spire)
+- [Taris 1](#taris-1)
+- [Taris 2](#taris-2)
+- [Dantooine 1](#dantooine-1)
+- [Tatooine 1](#tatooine-1)
+- [Manaan 1](#manaan)
+- [Dantooine 2](#dantooine-2)
+- [Kashyyyk](#kashyyyk)
+- [Tatooine 2](#tatooine-2) 
+- [Manaan 2](#manaan-2)
+- [The Leviathan](#the-leviathan)
+- [Korriban](#korriban)
+- [Lehon](#lehon)
+- [The Star Forge](#the-star-forge)
+
+## Endar Spire
 
 **Character Creation:**
 > Male Scout – Custom Character
@@ -471,7 +485,7 @@ Loot Sith Commander for Prototype Vibroblade
 Carth talks to you
 Take Escape Pod to Taris
 
-[section=Taris 1]
+## Taris 1
 
 *Note on Alacrity: We want Adrenal Alacrity to be active on the MC for as much of Taris as possible.  The route obtains 5 Alacrities on Taris, and with Duration Glitch and good movement you should be able to reach Dantooine with 2 remaining.*
 
@@ -725,7 +739,7 @@ Talk to Bastila
 - Bastila will loot Brejik’s nonexistent corpse, so you still get her lightsaber and Brejik’s equipment
 - This warps you back to the apartment hideout
 
-[section=Taris 2]
+## Taris 2
 
 **Upper City:**
 Carth and Bastila accost you: 1,1,1 | 2
@@ -848,7 +862,7 @@ Malak CS
 - Starts “The Ebon Hawk”
 - The [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685) skips the cutscenes between Taris and Dantooine as well as the fighter skirmish
 
-[section=Dantooine 1]
+## Dantooine 1
 
 **Jedi Enclave:**
 *Note: The game dumps memory after Taris, so your [Save Teleports](https://www.speedrun.com/kotor1/guide/5dagb) become significantly weaker for a while. Movement with Alacrity/Burst of Speed is faster.*
@@ -982,7 +996,7 @@ Bastila #6: 2,1 spam
 - ¤ [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685) again
 - Add Bastila during the second [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685)
 
-[section=Tatooine 1]
+## Tatooine 1
 
 **Docking Bay:**
 Czerka Officer conversation: 1,1,5
@@ -1097,7 +1111,7 @@ Juhani #3
 Carth #7
 ¤ Travel to Manaan with one [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685)
 
-[section=Manaan 1]
+## Manaan 1
 
 **Docking Bay:**
 Turn around and Board Ebon Hawk
@@ -1164,7 +1178,7 @@ Return to Ebon Hawk
 Fly to Dantooine
 Possible Fighter Skirmish
 
-[section=Dantooine 2]
+## Dantooine 2
 
 **Dantooine Savannah:**
 ¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb)/[Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) past Deesra
@@ -1216,7 +1230,7 @@ Return to Ebon Hawk and board
 Juhani #4
 ¤ Travel to Kashyyyk with a [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685)
 
-[section=Kashyyyk]
+## Kashyyyk
 
 **Landing Port:**
 Janos Wertka accosts you
@@ -1327,7 +1341,7 @@ Talk to T3 8 times (+8; 11 Spikes)
 Travel to Tatooine, no [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685)
 Possible Fighter Skirmish
 
-[section=Tatooine 2]
+## Tatooine 2
 
 **Anchorhead:**
 Jolee #1
@@ -1381,7 +1395,7 @@ Jolee #2
 Fly to Manaan, no [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685)
 Possible Fighter Skirmish
 
-[section=Manaan 2]
+## Manaan 2
 
 **Sith Base:**
 Jolee #3: 1,1,3
@@ -1490,7 +1504,7 @@ Return to Ebon Hawk, board
 Juhani #7
 Fly to Korriban, no [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685)
 
-[section=Leviathan]
+## The Leviathan
 
 **Detention Block:**
 Carth's old mentor CS
@@ -1572,7 +1586,7 @@ Talk to the party on the ship
 - Starts and Finishes “HK-47”
 Sleeping CS
 
-[section=Korriban]
+## Korriban
 
 **Dreshdae:**
 Canderous #1 and #2: 1x6,3,1x5,3
@@ -1732,7 +1746,7 @@ Travel to Lehon, [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685) puts
 Travel to Lehon
 Possible Fighter Skirmish
 
-[section=Lehon]
+## Lehon
 
 *You can take Level 15 as soon as you get it. Getting Level 16 is unlikely unless you've killed a lot of extra enemies.*
 > Level to 15: Persuade to 18, Master Speed
@@ -1813,7 +1827,7 @@ Go back to Central Beach
 Repair hyperdrive on the Ebon Hawk
 Fly to the Star Forge
 
-[section=Star Forge]
+## The Star Forge
 
 **Deck One:**
 Watch the dramatic cutscene
