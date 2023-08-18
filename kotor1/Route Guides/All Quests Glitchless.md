@@ -720,7 +720,7 @@ SHOPPING: Zelka Forn
 ## Taris 2
 
 ### Hideout
-- Carth and Bastila accost you: 1,1,1 | 2
+- Carth and Bastila accost you: 1,1,1 ... 2
   - ***Finishes "The Search for Bastila"***
   - ***Starts "Escaping Taris"***
 - Workbench: Upgrade Prototype Vibroblade with Energy Projector
@@ -761,7 +761,7 @@ SHOPPING: Zelka Forn
   - If you can keep his blaster equipped long enough, Bendak can die in 4 rounds; once he draws his sword, it's much tougher to hit him.
   - ***Finishes "The Duel Ring"***
   - ***Starts "Bendak's Bounty"***
-- Talk to Ajuur twice with MC: 2,2,2 | none
+- Talk to Ajuur twice with MC: 2,2,2 ... none
   - This replaces Twitch's reward with an extra copy of Bendak's
 - Swap to Bastila
 - Cast Burst of Speed and exit to the Upper City
@@ -1011,7 +1011,7 @@ SHOPPING: Mic'Tunan'Jus Orgu
   - ***Starts "Sand People"***
 - Duros accosts you outside: 3,3,3
 - Enter Swoop Registration for Tatooine Swoop Races:
-  - Motta conversations: 1,3,1spam | race | 1,1,1 | race | 1,1,1 | race | 3
+  - Motta conversations: 1,3,1spam ... race ... 1,1,1 ... race ... 1,1,1 ... race ... 3
   - Win all three races
     - ***Starts and Finishes "Tatooine Swoop Races"***
   - Talk to Nico as you leave: 1spam
@@ -1044,7 +1044,7 @@ SHOPPING: Mic'Tunan'Jus Orgu
 - Run to Sand People Enclave
   - Running diagonally to the left for a little bit at the start avoids a Sand People ambush; I count 20 steps, then straight to the enclave
 - *Party: Add HK-47 before entering Sand People Enclave*
-- Sand People accost you inside: 1,1 | 1,2,1
+- Sand People accost you inside: 1,1 ... 1,2,1
 - Return to Ebon Hawk and run to Czerka Office
 - Talk to Greeta Holda to buy Moisture Vaporators
 - Run back to Docking Bay
@@ -1326,7 +1326,7 @@ SHOPPING: Aratech Mercantile
 - Run and Force Jump back to the Landing Platform
 - Janos Wertka accosts you after the slavery CS: 1,3
 - *Party: Add Canderous*
-- Canderous #5 and #6: 1x4, 2 | 1x4, 2
+- Canderous #5 and #6: 1x4, 2 ... 1x4, 2
 - Run towards the Great Walkway until Jagi accosts Canderous
   - ***Starts "Jagi's Challenge"***
 - Turn around and talk to Eli Gand
@@ -1362,7 +1362,7 @@ SHOPPING: Junix Nard
 - End: ~1451 Credits
 ```
 
-- Talk to Furko Nellis twice: 1,1,2,2 | 1,1,1
+- Talk to Furko Nellis twice: 1,1,2,2 ... 1,1,1
   - ***Starts "Pazaak Rules"***
 - Win the game of Pazaak
   - Use all 10 +/- Cards as sidedeck
@@ -1444,7 +1444,7 @@ SHOPPING: Junix Nard
 ### Sunry's Investigation
 
 - Selkath police arrest you: 1
-- Prison and first trial: 1x5, 3, 1 | 1,1,1
+- Prison and first trial: 1x5, 3, 1 ... 1,1,1
 - Swap to Juhani and talk to Judge Shelkar: 2
   - Bastila joins your party here; make sure you control Juhani, as she has Force Speed active
   - ***Starts "Sunry's Murder Trial"***
@@ -1521,7 +1521,7 @@ SHOPPING: Junix Nard
 ### Sunry's Murder Trial
 - Roland Wann accosts you
   - ***Finishes "Mission for the Republic"***
-- Selkath police arrest you (again): 2 | 3,1,2
+- Selkath police arrest you (again): 2 ... 3,1,2
 - Run towards Nilko Bwaas and Activate Solo Mode when he's in range
 - As MC, target Nilko Bwaas
 - Swap to Jolee and *Force: Cast Burst of Speed*
