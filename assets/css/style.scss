@@ -1,0 +1,85 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  // background-color: var(--kotor-bg)
+  background-color: black;
+}
+
+// .markdown-body h1, .markdown-body h2 {
+//   border-bottom: 1px solid var(--kotor-fg-dark);
+// }
+
+h1, h2, h3, h4, p, ul, li  {
+  //color: var(--kotor-fg-light);
+  color: white;
+}
+
+a:link, a:visited {
+  color: var(--kotor-fg-light);
+  // text-decoration: underline
+}
+
+a:hover, a:active {
+  color: var(--kotor-selected)
+}
+
+.container-lg {
+  background-color: var(--kotor-bg);
+  border-radius: 5px;
+  border-color: var(--kotor-fg-dark);
+  border-style: solid;
+  border-width: 2px;
+  padding-bottom: 16px;
+  padding-top: 16px;
+}
+
+.markdown-body .highlight pre, .markdown-body pre, .highlight {
+  border-radius: 15px;
+}
+
+.highlight {
+  background-color: transparent;
+}
+
+// Code blocks style 1
+// .highlight pre {
+//   background-color: rgb(28, 30, 31)!important;
+//   color: rgb(206, 202, 195)!important;
+// }
+
+// Code blocks style 2
+.highlight pre {
+  background-color: black!important;
+  color: white!important;
+  border-color: var(--kotor-fg-dark);
+  border-style: solid;
+  border-width: 2px;
+}
+
+// Code blocks style 3
+// .highlight pre {
+//   background-color: black!important;
+//   color: var(--kotor-fg-light)!important;
+//   border-color: var(--kotor-menu);
+//   border-style: solid;
+//   border-width: 2px;
+// }
+
+// Code blocks styel 4
+// .highlight pre {
+//   background-color: black!important;
+//   color: var(--kotor-selected)!important;
+//   border-color: var(--kotor-fg-dark);
+//   border-style: solid;
+//   border-width: 2px;
+// }
+
+table, th, td {
+  text-align: center;
+  background-color: var(--kotor-bg);
+  color: var(--kotor-fg-light);
+  border-color: var(--kotor-fg-dark)!important;
+}

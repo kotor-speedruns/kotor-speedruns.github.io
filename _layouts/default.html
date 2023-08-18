@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {%- seo -%}
+    {% assign dirs = page.url | split: "/"%}
+    {% for game in dirs limit:1 offset:1 %}
+      {% if game == "kotor1"%}
+      <link rel="stylesheet" href="{{ "/assets/css/kotor1.css" | relative_url }}">
+      {% elsif game == "kotor2"%}
+      <link rel="stylesheet" href="{{ "/assets/css/kotor2.css" | relative_url }}">
+      {% else %}
+      <link rel="stylesheet" href="{{ "/assets/css/kotor0.css" | relative_url }}">
+      {% endif %}
+      {% else %}
+      <link rel="stylesheet" href="{{ "/assets/css/kotor0.css" | relative_url }}">
+    {% endfor %}
+      
+    
+  </head>
+
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+
+      
+      <p><a href="/test-pages/">KSR</a></p>
+      
+
+      {{ content }}
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+
+</html>
