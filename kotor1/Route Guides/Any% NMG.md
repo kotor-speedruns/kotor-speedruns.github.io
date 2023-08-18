@@ -818,7 +818,7 @@ SHOPPING: Mic'Tunan'Jus Orgu
       - Force Jump/Flurry to the remaining pair to finish those two off
       - Keep a close eye on your health and medpac as needed
     - Lure banthas with fodder again
-    - Talk to Komad Fortuna: 1 | 1
+    - Talk to Komad Fortuna: 1 ... 1
     - Loot chewed Twi'lek corpse for Nerve Amplifier Belt
     - Star Map: Tatooine
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Calo Nord fight (and possibly Krayt Death trigger)
