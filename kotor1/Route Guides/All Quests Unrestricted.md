@@ -731,7 +731,7 @@ SHOPPING: Zelka Forn
 ## Escaping Taris
 
 ### Lower City
-- Carth and Bastila accost you: 1,1,1 | 2
+- Carth and Bastila accost you: 1,1,1 ... 2
   - ***Finishes "The Search for Bastila"***
   - ***Begins "Escaping Taris"***
 - Bastila #1 and Carth #2
@@ -1579,7 +1579,7 @@ SHOPPING: Selkath Merchant
   - ***Finishes "Missing Selkath"***
 - Talk to Nilko Bwaas: 2,1spam
   - ***Finishes "Republic Hiring Mercenaries"***
-- [Save Teleport](<../Techniques/Save Teleporting>) to the Prison and talk to the Selkath Warden to complete Sunry's Trial: 4,1 | 1
+- [Save Teleport](<../Techniques/Save Teleporting>) to the Prison and talk to the Selkath Warden to complete Sunry's Trial: 4,1 ... 1
   - ***Finishes "Sunry Murder Trial"***
   - ***Finishes "Elora, Sunry's Wife", "Gluupor, the Rodian", "Firith Me, the Pazaak Player", "Ignus, the Hotel Owner", and "Sunry's Story"***
 - [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Prison Block using Slot 11
@@ -1680,7 +1680,7 @@ SHOPPING: Selkath Merchant
 - Swap to Carth, deactivate Solo Mode, and enter the interrogation room
 - Sith Interrogator accosts you: 1,2
   - ***Begins "The Mandalorian Weapons Cache"***
-- Use the console to interrogate the Mandalorian: 5,1,4,5,4,1,1 | 3
+- Use the console to interrogate the Mandalorian: 5,1,4,5,4,1,1 ... 3
   - ***Finishes "The Mandalorian Weapons Cache"***
 - [Save Teleport](<../Techniques/Save Teleporting>) to the exit to the Valley of the Dark Lords
   - Make sure your party follows you; if one of them doesn't move at all, they're glitched out
