@@ -1,5 +1,9 @@
 import re
 import os
+import json
+from urllib.request import urlretrieve
+
+imgur_conversion_table = json.load(open("imgur-conversions.json"))
 
 os.chdir(os.path.dirname(os.getcwd()))
 
@@ -15,6 +19,6 @@ for root, dirs, files in os.walk(os.getcwd(), topdown=False):
             if len(urls) > 0:
                 print(f"Found {len(urls)} urls in {path}")
                 for url in urls:
-                    print(f"\t{url}")
+                    urlretrieve(url, f"/assets/images/imgur-dump/{url[-11:]}")
             file.close()
     
