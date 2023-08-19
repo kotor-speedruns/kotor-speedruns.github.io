@@ -616,30 +616,31 @@ SHOPPING: Zelka Forn
 - Deactivate Solo Mode
 - Kill rakghoul attacking Hendar
 - Mission joins the party
-- Approach Lower Sewers entrance, loot Rubble
----------------------------------------------------------
-***Optional Strat: Lower Sewers [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)***
-*This strat optimizes movement and saves at least 10 seconds, but can be risky as you’re trying to [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) while MC is being attacked.*
+- Approach Lower Sewers entrance
 - Activate Solo Mode
-- As MC
--- ¤ Run west and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Canderous CS
--- Run to and loot Outcast Corpse for a Promised Land journal
--- Run to the back of Canderous’s group
--- MC needs to be in the green area
-https://i.imgur.com/DtlUjcO.png
-- As Mission/Carth
--- ¤ [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
-} As MC, use Adrenal Alacrity (3 Alacrity remaining) and enter Lower Sewers
+- Click on the nearby rubble with Carth and Mission
+- As MC:
+  - Run west and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Canderous CS
+  - Run to and loot Outcast Corpse for a Promised Land journal
+    - *Stims: Probable Alacrity on MC*
+- ***Optional Strat: [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)***
+    - *This strat optimizes movement and saves at least 10 seconds, but can be risky as you’re trying to [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) while MC is being attacked.*
+    - *To perform this strat:*
+      - Run MC to the back of Canderous’s group, in the [green area](https://i.imgur.com/DtlUjcO.png)
+      - Swap to Mission or Carth and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
+    - *To skip this strat:*
+      - Run MC in range of the Lower Sewers, then swap to Carth or Mission and enter
 - Run forward, then activate Solo Mode to leave Carth and Mission to kill rakghouls
 - As MC, go right then first door on the left to loot second journal from Outcast Corpse
 - Put Mission near the Force Field Terminal
-- Rescue Zaalbar; add only Mission to party when prompted
--- Starts “A Rancor in the Sewers”
-> Level to 4: Strength to 19, Save Skills
-} Equip Nerve Enhancement Package, Mission’s Vibroblade to MC offhand
+- Rescue Zaalbar
+  - *Party: Keep Mission when prompted*
+  - ***Starts “A Rancor in the Sewers”***
+- `Level to 4: Strength to 19, Save Skills`
+- *Equip MC: Nerve Enhancement Package, Mission's Vibroblade Offhand*
 - Bash open footlocker in next room
 - With Mission, interact with the Force Field Terminal and mash the cutscene
-¤ [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) with Mission to warp MC
+- [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) with Mission to warp MC
 - Add Zaalbar to the party
 -- Note: If any rakghouls survived, you may have to enter Upper Sewers to change party members
 } Equip Vibroblade x2 to Zaalbar
