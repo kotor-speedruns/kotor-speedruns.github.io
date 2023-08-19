@@ -1,6 +1,13 @@
 {% assign dirs = page.url | split: "/"%}
 {% assign game = dirs[1] %}
 
+{% assign p_title = page.name | split: "." | first %}
+{% if p_title == "index" %}
+    {% assign p_title = "" %}
+{% else %}
+    {% assign p_title = p_title | prepend: " | " %}
+{% endif %}
+
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
@@ -8,7 +15,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {%- seo -%}
+    <title>KotOR Speedrun Guides{{ p_title }}</title>
     {% if game == "kotor1" %}
     <link rel="stylesheet" href="{{ "/assets/css/kotor1.css" | relative_url }}">
     {% elsif game == "kotor2" %}
@@ -56,6 +63,7 @@
         </div>
     </div>
     <div class="container-lg px-3 my-5 markdown-body">
+        <p>{{p_title | inspect}}</p>
         {{ content }}
     </div>
     <!-- <div class="footer">
