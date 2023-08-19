@@ -113,7 +113,23 @@ We choose Weapon Focus: Melee for the attack boost on Taris, in particular the f
 
 ### Leveling Plan
 
-![A chart showing what Feats, Powers, and Skills to take at each level](https://i.imgur.com/QPItut4.png)
+| Level | Feat | Power | Skills |
+|---|---|---|---|
+| 1 | Weapon Focus: Melee Weapons, (Flurry) | | Com to 4, TI to 4, Sec to 1 |
+| 2 | Two-Weapon Fighting | | Save all Skills |
+| 3 | Empathy | | TI to 6 |
+| 4 | (Implant 2, Uncanny Dodge) | | Save all Skills |
+| 5 | Improved Two-Weapon Fighting | | Com to 8 |
+| 6 | Improved Flurry | Burst of Speed, Force Valor | Save all Skills |
+| 7 | | Affect Mind | Per to 10 |
+| 8 | Master Two-Weapon Fighting | Dominate Mind | Per to 11 |
+| 9 | | Knight Speed | Per to 12 |
+| 10 | | Knight Valor | Per to 13 |
+| 11 | Master Flurry | Force Resistance | Per to 14 |
+| 12 | Weapon Focus: Lightsaber | Drain Life | Per to 15 |
+| 13 | | Energy Resistance | Per to 16 |
+| 14 | Weapon Specialization: Lightsaber | Improved Energy Resistance | Per to 17 |
+| 15 | | Master Speed | Per to 18 |
 
 Our main plan is to combine Master Speed with Master Flurry and a Double-Bladed Lightsaber for five attacks per round in the late game.  Master Two-Weapon Fighting, Weapon Focus, stims and lightsaber crystals give us enough attack that we can reliably hit even with the attack penalties.
 
