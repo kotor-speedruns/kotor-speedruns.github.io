@@ -139,6 +139,19 @@ table, th, td {
     height: 100%;
 }
 
+@media screen and (max-width: 480px) {
+    .navbar {
+        height: 50px;
+    }
+    .navbar_section p {
+        font-size: 36px;
+    }
+    .navbar_section embed, .navbar_section img {
+        padding: 5px;
+    }
+}
+
+
 .footer {
     background-color: black;
     border-top: 1px;
@@ -176,5 +189,5 @@ table, th, td {
 }
 
 img.med {
-    height: 50vh;
+    max-height: 50vh;
 }
