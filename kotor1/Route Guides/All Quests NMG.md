@@ -1202,7 +1202,7 @@ SHOPPING: Selkath Merchant
 
 ## Dantooine 2
 
-### Dantooine Savannah
+### Sandral-Matale Feud
 - [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) past Deesra
 - Exit to Courtyard
   - *Force: Cast Force Valor while exiting to Duration Glitch it*
@@ -1228,6 +1228,8 @@ SHOPPING: Selkath Merchant
   - Make sure Valor is active on MC first; it should be if you duration glitched correctly
 - Mash conversation outside
   - ***Finishes “Sandral-Matale Feud”***
+ 
+### Mandalorian Raiders
 - *Party: Remove Canderous*
 - Go to Mandalorian Raider group
 - *Stims: Hyper Stim Suite on MC*
