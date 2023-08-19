@@ -760,7 +760,7 @@ SHOPPING: Zelka Forn
 - Canderous accosts you
   - ***Starts “Purchasing a Droid”***
 
-**The Duel Ring:**
+### The Duel Ring
 - Watch the Dueling Ring CS
   - This is required to spawn Bendak
 - Talk to Ajuur, and again twice between each duel
@@ -783,7 +783,7 @@ SHOPPING: Zelka Forn
   - This replaces Twitch’s reward with an extra copy of Bendak’s
 - Exit to Upper City South
 
-**Upper City North:**
+### Upper City North
 - Run back to South Apartments
 - Transit Back
 - Activate Solo Mode
@@ -1009,118 +1009,122 @@ SHOPPING: Aratech Mercantile
 
 ## Tatooine 1
 
-**Docking Bay:**
-Czerka Officer conversation: 1,1,5
-Run back and forth for a minute until you trigger the Twi’lek that starts Bastila’s quest
-Twi’lek accosts you
-- Starts “Bastila’s Mother”
-} Remove Bastila from the party
-Talk to Mic’Tunan’Jus Orgu
----------------------------------------------------------
-*SHOPPING: Mic'Tunan'Jus Orgu*
-**BUY:**
-- 15x Advanced Medpacs
-- Bantha Fodder
-**SELL ALL EXCEPT:**
-- Medpacs
-- Computer Spikes
-- Stims
-- Bantha Fodder
-End: ~4800 Credits
----------------------------------------------------------
-Gizka man accosts you
-- Starts “The Trouble with Gizka”
-Enter Anchorhead
+### Docking Bay:
+- Czerka Officer conversation: 1,1,5
+- Run towards Mic'Tunan'Jus Orgu until Malare accosts Bastila
+  - ***Starts “Bastila’s Mother”***
+- Activate Solo Mode
+- As Bastila, click the Anchorhead door
+- Swap to MC and talk to Mic’Tunan’Jus Orgu
 
-**Anchorhead:**
-Manaa Demknot accosts you
-Enter Czerka Office
-¤ [Force Skip](https://www.speedrun.com/kotor1/guide/8fp02) Duros CS
-Czerka Protocol Officer: 1x10,3,2
-- Starts “Sand People”
-Enter Swoop Registration
-Talk to Motta and win races: 1,3,1 spam ... race ... spam ... race ... spam ... race ... 3
-- Starts “Signing Nico”
-- Starts and Finishes “Tatooine Swoop Races”
-Talk to Nico: spam
-- Finishes “Signing Nico”
-¤ Exit Swoop track and [Force Skip](https://www.speedrun.com/kotor1/guide/8fp02) a fan encounter
-¤ [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) or [Save Teleport](<../Techniques/Save Teleporting>) to skip the Dark Jedi fight
-} Add Bastila to the party, enter Cantina
-Talk to Junix Nard
----------------------------------------------------------
-*SHOPPING: Junix Nard*
-**BUY:**
-- 2x +/-2, +/-3, +/-4 Cards
-End: ~3650 Credits
----------------------------------------------------------
-*Take note of how many credits you have after purchasing the necessary cards.*
-Beat Furko Nellis in Pazaak
-- Finishes “Pazaak Rules”
-Talk to Helena: 1,3
-} Remove Bastila from the party
-Exit Cantina
-Enter Droid Shop
-Talk to Yuka Laka to buy HK-47
-- This conversation changes based on how many credits you have
--- More than 4000 Credits: 1,1,1,2,1,1,3,4,1
--- Less than 4000 Credits: 1,1,1,2,1,1,2,3,1
-- Starts and Finishes "Droid for Sale"
-Talk to HK-47: 2,1
-Leave party empty when prompted
-Talk to Iziz outside: 1x6, 3
-- Starts "Fair Trade"
-Talk to Gate Guard to exit to Dune Sea
+```
+SHOPPING: Mic'Tunan'Jus Orgu
+- BUY:
+  - 15x Advanced Medpacs
+  - Bantha Fodder
+- SELL ALL EXCEPT:
+  - Medpacs
+  - Computer Spikes
+  - Stims
+  - Bantha Fodder
+- End: ~4800 Credits
+```
 
-**Dune Sea:**
-¤ [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the angry wife CS
-Talk to Tanis: 1,1,3,1,1
-- Starts and Finishes “Tanis Trapped”
-Loot rubble pile with voice to trigger Gamorrean ambush: 4,1
-- Starts and Finishes "Desert Ambush"
-Heal, cast Burst of Speed and Force Valor
-} Optionally, equip an Energy Shield
-Kill Sand People Warrior for Sand People Outfit
-¤ [Save Teleport](<../Techniques/Save Teleporting>) or [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) past the void trigger in front of Eastern Dune Sea
-Enter Eastern Dune Sea from out of bounds
+- Gizka man accosts you
+  - ***Starts “The Trouble with Gizka”***
+- Swap to Bastila and enter Anchorhead
 
-**Eastern Dune Sea:**
-*Note: Starting around here, [Save Teleporting](<../Techniques/Save Teleporting>) with no movement speed enhancements is about as fast RTA as Burst of Speed*
-¤ [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the anonymous hunter’s death CS
-Talk to Komad: 1,2,1,1,2,3,1,2
-Kill Komad
-¤ [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the anonymous hunter’s death CS on the way out
-Approach banthas, cast Force Valor, Burst of Speed
-} Use Alacrity, Strength, Stamina, Battle Stim
-Interact with banthas
-Defeat Elite Sand People Warriors
-Interact with banthas, watch Krayt Dragon CS
-- Starts “Star Map: Tatooine”
-- Finishes “A Desert Hunt”
-Loot the Krayt Dragon for 2x Krayt Dragon Pearl
-Loot tattered equipment pack for Holocron
-Star Map: Tatooine
-- Finishes “Star Map: Tatooine”
-Loot Rubble for swag Violet Crystal
-¤ [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Calo Nord fight on the way out
-Return to Dune Sea
-Return to Ebon Hawk and exit to Anchorhead
-- There may be a Sand People Warrior that followed you to this area that you’ll have to kill
-Go south
-Senni Vek accosts you
-Return to Ebon Hawk and board
-Zaalbar accosts you
-> Level 8: Strength to 20, Persuade to 11, Dominate Mind
-} Upgrade Double-Bladed Lightsaber: Krayt Dragon Pearl
-Inspect cargo hold
-- Starts “Dwindling Supplies”
-Run to the three points where you hear footsteps, then back to the cargo hold
-Talk to Sasha: 3,3,1,1
-- Finishes “Dwindling Supplies”
-- Starts and Finishes “Strange Stowaway”
-Juhani #3
-Carth #7
-¤ Travel to Manaan with one [Map CS Skip](<../Techniques/Map Cutscene Skips>)
+### Anchorhead
+- *Party: Remove Bastila*
+- Manaa Demknot accosts you
+- Enter Czerka Office
+- [Force Skip](<../Techniques/Force Skips>) Duros CS
+- Talk to Czerka Protocol Officer: 1x10,3,2
+  - ***Starts “Sand People”***
+- Exit to Anchorhead and enter Swoop Registration
+- Talk to Motta and win races: 1,3,1 spam ... race ... spam ... race ... spam ... race ... 3
+  - ***Starts “Signing Nico”***
+  - ***Starts and Finishes “Tatooine Swoop Races”***
+- Talk to Nico
+  - ***Finishes “Signing Nico”***
+- Exit to Anchorhead and [Force Skip](<../Techniques/Force Skips>) a fan encounter
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) or [Save Teleport](<../Techniques/Save Teleporting>) to skip the Dark Jedi fight
+- Enter the Cantina
+- *Party: Add Bastila*
+- Talk to Junix Nard
+
+```
+SHOPPING: Junix Nard
+- BUY:
+  - 2x +/-2, +/-3, +/-4 Cards
+- End: ~3650 Credits
+- Take note of how many credits you have after purchasing the necessary cards
+```
+
+- Beat Furko Nellis in Pazaak: 1,1,2,2
+  - Use all of your +/- cards as your sidedeck
+  - ***Finishes “Pazaak Rules”***
+- Talk to Helena: 1,3
+- *Party: Remove Bastila*
+- Exit to Anchorhead and Enter Droid Shop
+- Talk to Yuka Laka to buy HK-47
+  - This conversation changes based on how many credits you have
+    - More than 4000 Credits: 1,1,1,2,1,1,3,4,1
+    - Less than 4000 Credits: 1,1,1,2,1,1,2,3,1
+  - ***Starts and Finishes "Droid for Sale"***
+- Talk to HK-47: 2,1
+  - *Party: Leave empty when prompted*
+- Talk to Iziz outside: 1x6, 3
+  - ***Starts "Fair Trade"***
+- Talk to Gate Guard to exit to Dune Sea
+
+### Dune Sea
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the angry wife CS
+- Tanis accosts you; then talk to Tanis: 1,1,3,1,1
+  - ***Starts and Finishes “Tanis Trapped”***
+- Loot rubble pile with voice to trigger Gamorrean ambush: 4,1
+  - ***Starts and Finishes "Desert Ambush"***
+- [Save Teleport](<../Techniques/Save Teleporting>) or [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) past the void trigger in front of Eastern Dune Sea
+- Enter Eastern Dune Sea from out of bounds
+
+### Eastern Dune Sea
+
+*Note: At this point, [Save Teleporting](<../Techniques/Save Teleporting>) with no movement speed enhancements is about as fast RTA as Burst of Speed*
+
+- [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the anonymous hunter’s death CS
+- Talk to and kill Komad Fortuna: 1,2,1,1,2,3,1,2
+- [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the anonymous hunter’s death CS on the way out
+- *Force/Stims: Cast Force Valor, Alacrity, Strength, Stamina, Battle Stim on MC right before banthas*
+- Talk to a bantha
+- Defeat Elite Sand People Warriors via Force Jump and Improved Flurry
+- Interact with banthas, watch Krayt Dragon CS
+  - ***Starts “Star Map: Tatooine”***
+  - ***Finishes “A Desert Hunt”***
+- Loot the Krayt Dragon for 2x Krayt Dragon Pearl
+- Loot tattered equipment pack for Holocron
+- Star Map: Tatooine
+  - ***Finishes “Star Map: Tatooine”***
+- ***Optional:*** Loot rubble for swag Violet Crystal
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Calo Nord fight
+- Return to Dune Sea
+- Return to Ebon Hawk and exit to Anchorhead
+- Run through Anchorhead until Senni Vek accosts you: 4
+- Return to Ebon Hawk and board
+
+### Ebon Hawk
+- Zaalbar accosts you
+  - ***Starts “Dwindling Supplies”***
+- `Level 8: Strength to 20, Persuade to 11, Dominate Mind`
+- **Workbench: Double-Bladed Lightsaber - Add Krayt Dragon Pearl (and optional Violet Crystal)**
+- Inspect supplies in cargo hold
+- Run to the three points where you hear footsteps, then back to the cargo hold
+- Talk to Sasha: 3,3,1,1
+  - ***Finishes “Dwindling Supplies”***
+  - ***Starts and Finishes “Strange Stowaway”***
+- Juhani #3
+- Carth #7
+- Fly to Manaan
+  - Use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
 
 ## Manaan 1
 
@@ -1322,7 +1326,7 @@ Activate Solo Mode
 Talk to Gorwooken
 - ¤ May have to use [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj) to get him to talk to you
 Chuundar accosts you and kicks you out of Chieftain’s Hall
-¤ [Force Skip](https://www.speedrun.com/kotor1/guide/8fp02) a brief cutscene as you exit
+¤ [Force Skip](<../Techniques/Force Skips>) a brief cutscene as you exit
 } Remove Jolee from the party
 Exit the Wookiee Village
 Disable V-Sync
@@ -1367,6 +1371,9 @@ Talk to Helena: 1,2,1,1
 Enter Dune Sea
 
 **Dune Sea:**
+- Heal, cast Burst of Speed and Force Valor
+} Optionally, equip an Energy Shield
+Kill Sand People Warrior for Sand People Outfit
 } Equip Sand People Clothing
 Enter Sand People Territory
 } Use Hyper Stim Suite
@@ -1644,7 +1651,7 @@ Talk to Yuthura Ban: 3,5,2,3,1,1
 - Finishes "Entering the Sith Academy"
 
 **Sith Academy:**
-¤ [Force Skip](https://www.speedrun.com/kotor1/guide/8fp02) to delay Uthar conversation
+¤ [Force Skip](<../Techniques/Force Skips>) to delay Uthar conversation
 Talk to Lashowe: 1x8, 4
 Speak with Uthar Wynn and students
 Speak to Yuthura: 1,1,1,1,5,2,7,6
@@ -1774,7 +1781,7 @@ Go to North Beach
 Rakatan Warriors accost you
 Talk to the One
 Leave the compound
-¤ [Force Skip](https://www.speedrun.com/kotor1/guide/8fp02) a brief cutscene as you exit
+¤ [Force Skip](<../Techniques/Force Skips>) a brief cutscene as you exit
 Talk to Warleader Garn: 1,1,3
 - Finishes “Invisible Mandalorians”
 Return to and betray the One: 3
@@ -1847,7 +1854,7 @@ TALK TO CANDEROUS
 - Completes “Canderous”
 Optional Journal check: only active quest should be “Bastila”
 Exit the Ebon Hawk
-¤ [Force Skip](https://www.speedrun.com/kotor1/guide/8fp02) Jedi vs. Sith CS
+¤ [Force Skip](<../Techniques/Force Skips>) Jedi vs. Sith CS
 ¤ [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Assault Droid CS and spawn
 Go right, then left
 - To get past the two frozen assault droids, click on the distant door and watch the wonders of KotOR pathing
