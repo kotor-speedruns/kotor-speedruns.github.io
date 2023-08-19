@@ -18,7 +18,7 @@ for root, dirs, files in os.walk(os.getcwd(), topdown=False):
             content = file.read()
             urls = re.findall('https?://i.imgur.com/[\da-zA-Z]{7}\.png', content)
             if len(urls) > 0:
-                print(f"Found {len(urls)} urls in {path}")
+                print(f"Found {len(urls)} imgur links in {path}")
                 for url in urls:
                     urlretrieve(url, f"assets/images/imgur-dump/{url[-11:]}")
                 file.seek(0)
