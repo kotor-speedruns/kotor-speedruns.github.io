@@ -27,6 +27,16 @@
                 <p>KSR</p>
             </a>
         </div><div class="navbar_section" style="text-align: right;">
+            {% assign file = page.url | split: "/" | compact | last %}
+            {% if page.url == "/"%}
+            <a href="https://github.com/kotor-speedruns/kotor-speedruns.github.io">
+                <img class="svg" src="{{ "/assets/images/github.svg" | relative_url }}">
+            </a>
+            {% else %}
+            <a href="https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/{{ page.path }}">
+                <img class="svg" src="{{ "/assets/images/github.svg" | relative_url }}">
+            </a>
+            {% endif %}
             {% if game == "kotor1" %}
             <a href="https://www.speedrun.com/kotor1">
                 <img class="svg" src="{{ "/assets/images/SRC.svg" | relative_url }}">
