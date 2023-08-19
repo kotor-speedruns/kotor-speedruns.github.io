@@ -108,9 +108,7 @@ table, th, td {
 
 .navbar_section embed, .navbar_section img {
     max-height: 85%!important;
-    padding-left: 1vmax;
-    padding-right: 1vmax;
-    padding-bottom: 0.4vmax;
+    max-width: 55px!important;
 }
 
 .navbar_section p {
@@ -139,16 +137,14 @@ table, th, td {
     height: 100%;
 }
 
-@media screen and (max-width: 480px) {
-    .navbar {
-        height: 50px;
-    }
-    .navbar_section p {
-        font-size: 36px;
-    }
-    .navbar_section embed, .navbar_section img {
-        padding: 5px;
-    }
+.navbar {
+    height: 50px;
+}
+.navbar_section p {
+    font-size: 36px;
+}
+.navbar_section embed, .navbar_section img {
+    padding: 5px;
 }
 
 
