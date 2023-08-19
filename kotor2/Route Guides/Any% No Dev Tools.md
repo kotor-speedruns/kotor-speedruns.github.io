@@ -35,7 +35,7 @@ We choose Dueling over Two-Weapon Fighting because our chance to hit is too low 
 
 [big]***Leveling Plan***[/big]
 
-https://i.imgur.com/AojS9fj.png
+/assets/images/imgur-dump/AojS9fj.png
 
 Our main combat plan is lots of Strength, Master Dueling, Master Critical Strike, and Master Speed, using the an upgraded vibroblade/lightsaber.  This gives us three attacks per round with a 40% chance to crit on each attack; with decent luck on the few fights we do, many fights will be one round long.  Dueling and Critical Strike also maximize our chances to hit people, so it's relatively consistent even without good luck on crits.
 
@@ -111,7 +111,7 @@ Alignment in KotOR II is a sliding scale from 0 to 100, initialized at 50; highe
 
 Here is the current alignment route used in the run:
 
-https://i.imgur.com/8fHVfyz.png
+/assets/images/imgur-dump/8fHVfyz.png
 
 The most important point in this route is obtaining Opo Chano's droid mechanic credentials.  There are two options: either threaten him, or pay off his debt.  The former option, at that point in the route, loses 4 alignment points, while the latter gains two points.  By getting enough LSP elsewhere in the run, we can take the -4 hit from this, which lets us save the Self-Sustaining Droid Unit for breaking down into components, rather than having to be sold for credits to pay this debt.
 
@@ -342,7 +342,7 @@ Citadel Station
 ¤ Clip through wall into Ithorian hangar
 - This clip is pretty finicky; this image shows one setup that works, with Kreia spawned on the other side of the wall
 
-https://i.imgur.com/QwhgV11.png
+/assets/images/imgur-dump/QwhgV11.png
 
 Kill the attacking thugs
 - While doing so, Kreia activates information terminal outside hangar: 2
@@ -739,7 +739,7 @@ After reentering the Academy area, go through two more doors
 ¤ Save Teleport to skip Darth Sion
 - This is a fairly precise teleport, and needs Speed to be worn off
 - Use this image to help you line up the teleport:
-https://i.imgur.com/7BiYzRV.png
+/assets/images/imgur-dump/7BiYzRV.png
 
 **Trayus Core:**
 ¤ Hard buffer past CS in the Core
