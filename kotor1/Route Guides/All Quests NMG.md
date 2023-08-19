@@ -68,7 +68,7 @@ The following glitches and tricks are banned in NMG speedruns:
 - All varieties of [Hotshot](<../Major Glitches/Hotshot>)
 - [Full Inventory Duping](<../Major Glitches/Item Duplication#full-inventory-duplication>)
 - [Door Clipping](<../Major Glitches/Door Clipping>)
-*Note:* [Door Clipping](<../Major Glitches/Door Clipping>) includes [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) that [bypass locked doors](<../Major Glitches/Door Clipping#gather-party-warp-clips>).
+  - *Note:* [Door Clipping](<../Major Glitches/Door Clipping>) includes [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) that [bypass locked doors](<../Major Glitches/Door Clipping#gather-party-warp-clips>).
 
 These glitches and tricks are allowed:
 - [Save Buffers](<../Techniques/Save Buffering>) of all types
