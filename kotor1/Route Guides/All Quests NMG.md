@@ -1128,70 +1128,77 @@ SHOPPING: Junix Nard
 
 ## Manaan 1
 
-**Docking Bay:**
-Turn around and Board Ebon Hawk
-Exit Ebon Hawk, add Carth to your party
-Carth #8
-- Finishes “Carth”
-Having a party member skips a Selkath announcement after the first door
-¤ [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Sith/Republic soldier conversation
-- If you miss this, the conversation is just: 4
-Jordo accosts you
-- Starts “Finding Dustil”
-Talk to Selkath Merchant: 3
----------------------------------------------------------
-*SHOPPING: Selkath Merchant*
-**SELL:**
-- Racing Bonds until you have ~4500 Credits
--- This should only take a few seconds of mashing Enter + NumPad Enter
-**BUY:**
-- 7x Parts
-- All 20 Hyper Stims
-END: >500 Credits
-*Need to end with at least 500 Credits to loan to Queedle*
----------------------------------------------------------
-Talk to Nubassa: 3,2,2
-- Finishes “The Trouble with Gizka”
-Enter West Central Ahto City
+*Note: You should now be [Save Teleporting](<../Techniques/Save Teleporting>) for movement everywhere.  Do not use Alacrity or Speed unless specifically noted.*
 
-**Ahto City:**
-Talk to Port Authority: 1,3
-Enter Ahto West
-Activate Solo Mode
-With Carth, open door behind you
-With MC, go to Cantina area
-Nilko Bwaas accosts you, then talk to him
-- Starts “Republic Hiring Mercenaries”
-Shaelas accosts you
-- Starts “Missing Selkath”
-Swap to Carth and return to West Central
-} Remove Carth from party
-Go to East Central
-¤ [Save Teleport](<../Techniques/Save Teleporting>) past or [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the confrontation between Sith and Republic soldiers
-Talk to Hulas
-- Starts “GenoHaradan: Zuulan” and “GenoHaradan: Lorgal”
-Talk to Roland Wann: 3,1 spam
-- Starts and Finishes “Republic Embassy”
-- Starts “Star Map: Manaan”
-- Starts “Mission for the Republic”
-Use the console to kill Lorgal (-7; 4 Spikes)
-Talk to Hulas: 1x8,2
-- Finishes “GenoHaradan: Lorgal”
-- Starts “GenoHaradan: Ithorak”, “GenoHaradan: Rulan”, and “GenoHaradan: Vorn”
-Enter Ahto East
-¤ [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) past the Sith Lady
-- If you fail this, the conversation is: 2
-Talk to Vek
-Talk to Queedle: 1,1,1,1,2
-- Starts “Manaan Swoop Races”
-Return to Ebon Hawk and Transit Back to reload the area
-Talk to Queedle: 1,3
-Talk to Swoop Coordinator and win 3 swoop races
-Mash all conversations except after the third race: 3
-- Finishes “Manaan Swoop Races”
-Return to Ebon Hawk
-Fly to Dantooine
-Possible Fighter Skirmish
+### Docking Bay
+- Turn around and Board Ebon Hawk
+- Exit Ebon Hawk, add Carth to your party
+- Carth #8
+  - ***Finishes “Carth”***
+- Having a party member skips a Selkath announcement after the first door
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Sith/Republic soldier conversation
+  - If you miss this, the conversation is just: 4
+- Jordo accosts you near the Selkath Merchant
+  - ***Starts “Finding Dustil”***
+- Talk to Selkath Merchant: 3
+
+```
+SHOPPING: Selkath Merchant
+- SELL:
+  - Racing Bonds until you have ~4500 Credits
+    - This should only take a few seconds of mashing Enter + NumPad Enter
+- BUY
+  - 7x Parts
+  - All 20 Hyper Stims
+- END: At least 500 Credits
+- Need to end with at least 500 Credits to loan to Queedle
+```
+
+- Talk to Nubassa: 3,2,2
+  - ***Finishes “The Trouble with Gizka”***
+- Enter West Central Ahto City
+
+### Ahto City
+- Talk to Port Authority: 1,3
+- Enter Ahto West
+- Activate Solo Mode
+- As Carth, open door behind you
+- As MC, enter the cantina so Nilko Bwaas accosts you
+- Talk to Nilko Bwaas
+  - ***Starts “Republic Hiring Mercenaries”***
+- Run towards Shaelas until he accosts you
+  - ***Starts “Missing Selkath”***
+- Swap to Carth and return to West Central
+- *Party: Remove Carth*
+- Go to East Central
+- [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the confrontation between Sith and Republic soldiers
+- Talk to Hulas
+  - ***Starts “GenoHaradan: Zuulan”***
+  - ***Starts “GenoHaradan: Lorgal”***
+- Talk to Roland Wann: 3,1 spam
+  - ***Starts and Finishes “Republic Embassy”***
+  - ***Starts “Star Map: Manaan”***
+  - ***Starts “Mission for the Republic”***
+- Use the console to kill Lorgal (-7; 4 Spikes)
+- Talk to Hulas: 1x8,2
+  - ***Finishes “GenoHaradan: Lorgal”***
+  - ***Starts “GenoHaradan: Ithorak”***
+  - ***Starts “GenoHaradan: Rulan”***
+  - ***Starts “GenoHaradan: Vorn”***
+- Enter Ahto East
+- [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) past the Sith Lady
+  - If you fail this, the conversation is: 2
+- Talk to Vek
+- Talk to Queedle: 1,1,1,1,2 ... QS/QL ... 1,3
+  - ***Starts “Manaan Swoop Races”***
+- *Force: Cast Burst of Speed*
+  - This makes the post-swoop race CS faster
+- Talk to Swoop Coordinator and win 3 swoop races
+  - Mash all conversations except after the third race: 3
+  - ***Finishes “Manaan Swoop Races”***
+- Return to Ebon Hawk
+- Fly to Dantooine
+  - Possible Fighter Skirmish
 
 ## Dantooine 2
 
