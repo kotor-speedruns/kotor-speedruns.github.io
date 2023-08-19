@@ -1,3 +1,6 @@
+{% assign dirs = page.url | split: "/"%}
+{% assign game = dirs[1] %}
+
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
@@ -6,10 +9,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {%- seo -%}
-    {% assign dirs = page.url | split: "/"%}
-    {% if dirs[1] == "kotor1"%}
+    {% if game == "kotor1" %}
     <link rel="stylesheet" href="{{ "/assets/css/kotor1.css" | relative_url }}">
-    {% elsif dirs[1] == "kotor2"%}
+    {% elsif game == "kotor2" %}
     <link rel="stylesheet" href="{{ "/assets/css/kotor2.css" | relative_url }}">
     {% else %}
     <link rel="stylesheet" href="{{ "/assets/css/kotor0.css" | relative_url }}">
@@ -25,6 +27,19 @@
                 <p>KSR</p>
             </a>
         </div><div class="navbar_section" style="text-align: right;">
+            {% if game == "kotor1" %}
+            <a href="https://www.speedrun.com/kotor1">
+                <img class="svg" src="{{ "/assets/images/SRC.svg" | relative_url }}">
+            </a>
+            {% elsif game == "kotor2" %}
+            <a href="https://www.speedrun.com/kotor2">
+                <img class="svg" src="{{ "/assets/images/SRC.svg" | relative_url }}">
+            </a>
+            {% else %}
+            <a href="https://www.speedrun.com/series/kotor">
+                <img class="svg" src="{{ "/assets/images/SRC.svg" | relative_url }}">
+            </a>
+            {% endif %}
             <a href="http://discord.gg/Q2uPRVu">
                 <img class="svg" src="{{ "/assets/images/discord.svg" | relative_url }}">
             </a>
