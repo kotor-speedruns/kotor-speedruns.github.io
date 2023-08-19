@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 body {
-  // background-color: var(--kotor-bg)
-  background-color: black;
+    // background-color: var(--kotor-bg)
+    background-color: black;
 }
 
 // .markdown-body h1, .markdown-body h2 {
@@ -13,35 +13,36 @@ body {
 // }
 
 h1, h2, h3, h4, p, ul, li  {
-  //color: var(--kotor-fg-light);
-  color: white;
+    //color: var(--kotor-fg-light);
+    color: white;
 }
 
 a:link, a:visited {
-  color: var(--kotor-fg-light);
-  // text-decoration: underline
+    color: var(--kotor-fg-light);
+    // text-decoration: underline
 }
 
 a:hover, a:active {
   color: var(--kotor-selected)
 }
 
-.container-lg {
-  background-color: var(--kotor-bg);
-  border-radius: 5px;
-  border-color: var(--kotor-fg-dark);
-  border-style: solid;
-  border-width: 2px;
-  padding-bottom: 16px;
-  padding-top: 16px;
+.container-lg, .container-xl, .container-md {
+    background-color: var(--kotor-bg);
+    border-radius: 5px;
+    border-color: var(--kotor-fg-dark);
+    border-style: solid;
+    border-width: 2px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    margin-top: 4vw!important;
 }
 
 .markdown-body .highlight pre, .markdown-body pre, .highlight {
-  border-radius: 15px;
+    border-radius: 15px;
 }
 
 .highlight {
-  background-color: transparent;
+    background-color: transparent;
 }
 
 // Code blocks style 1
@@ -78,8 +79,45 @@ a:hover, a:active {
 // }
 
 table, th, td {
-  text-align: center;
-  background-color: var(--kotor-bg);
-  color: var(--kotor-fg-light);
-  border-color: var(--kotor-fg-dark)!important;
+    text-align: center;
+    background-color: var(--kotor-bg);
+    color: var(--kotor-fg-light);
+    border-color: var(--kotor-fg-dark)!important;
+}
+
+.navbar { 
+    margin-right: auto;
+    margin-left: auto; 
+    background-color: var(--kotor-bg);
+    border-color: var(--kotor-fg-dark);
+    border-style: solid;
+    border-width: 2px;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    padding-bottom: 0px;
+    position: fixed;
+    top:0;
+    width: 100%;
+    z-index:100;
+}
+
+.navbar img {
+    max-height: 100%!important;
+    position: absolute!important;
+}
+
+.navbar p {
+    font-size: 2vw;
+    font-family: monospace;
+    font-style: italic;
+    font-weight: bolder;
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: var(--kotor-selected);
+}
+
+.navbar a:hover {
+    text-decoration: none;
 }
