@@ -97,7 +97,7 @@ Weapon Focus: Melee Weapons gives us a +1 on our combat rolls with melee weapons
 
 It is important to note that, due to the side effects of [Hotshots](<../Major Glitches/Hotshot>), our character frequently reverts to a previous level.  Hence for most of Taris we are level 2, and generally stay at level 5 or 6 until Korriban.
 
-![A chart showing what Feats, Powers, and Skills to take at each level](https://i.imgur.com/va8K9X2.png)
+![A chart showing what Feats, Powers, and Skills to take at each level](/assets/images/imgur-dump/va8K9X2.png)
 
 There are multiple [FLUs](<../Major Glitches/Fake Level Ups>) in the five levels we do manually:
 - At Level 2, we do the [Sneak Attack FLU](<../Major Glitches/Fake Level Ups#sneak-attack-flu>) to get Sneak Attack IX and Master Two-Weapon Fighting, as well as 10 Persuade.
@@ -1064,7 +1064,7 @@ SHOPPING: Eli Gand
 - Exit to the Great Walkway
 - QS, then reenter the Landing Pad and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
 - Use the pop-up to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Juhani to the Great Walkway via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
-  - Position Juhani in a [specific spot](https://i.imgur.com/BfgfArb.png) first
+  - Position Juhani in a [specific spot](/assets/images/imgur-dump/BfgfArb.png) first
 - After loading, activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - Swap to MC and [GP Warp](<../Techniques/GP Warp#amg-gp-warps>) Juhani to the Shadowlands elevator
 - **Hard Save in Slot 3**
@@ -1437,13 +1437,13 @@ SHOPPING: Selkath Merchant
 - Activate Solo Mode and use HK-47 to talk to Iziz
   - This swaps HK's position with MC's
   - ***Finishes "Fair Trade"***
-- Put HK in this [specific location](https://i.imgur.com/O1RtV4j.png)
+- Put HK in this [specific location](/assets/images/imgur-dump/O1RtV4j.png)
 - **Hard Save in Slot 1**
 - Swap to Mission and talk to the Gate Guard to enter the Dune Sea
 - QS, then load the Anchorhead save in Slot 1
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Mission and HK to Dune Sea via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
   - This puts HK-47 in the right place for the next [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>)
-- [Save Teleport](<../Techniques/Save Teleporting>) to position Mission in a [specific spot](https://i.imgur.com/RobinnA.png)
+- [Save Teleport](<../Techniques/Save Teleporting>) to position Mission in a [specific spot](/assets/images/imgur-dump/RobinnA.png)
 - [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Manaan Sith Base via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) using Slot 9
   - If Mission spawns near MC, she spawned OoB in the Sith Base
   - QS, then load the Dune Sea save to reposition Mission
@@ -1704,7 +1704,7 @@ SHOPPING: Selkath Merchant
 - [Save Teleport](<../Techniques/Save Teleporting>) back across the bridge and take the left path to the Sith Students
 - Thalia May accosts you: 1,3,1,3
   - ***Finishes "Renegade Sith"***
-- [Position MC](https://i.imgur.com/Zt52j4W.png) on left side of mouth of passage to back of cave
+- [Position MC](/assets/images/imgur-dump/Zt52j4W.png) on left side of mouth of passage to back of cave
   - This is for a later [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>)
 - **Hard Save in New Slot (Slot 13)**
 - [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to East Central using Slot 2

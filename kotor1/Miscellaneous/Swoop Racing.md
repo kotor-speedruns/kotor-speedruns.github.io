@@ -50,17 +50,17 @@ There are three swoop tracks in KotOR and two IL categories: Single Lap and Plan
 
 - Your first shift will become available to you well before the second boost thus waiting until just before the boost to shift is less than ideal. The most optimal time is shortly after you shift bar maxes out. The way I time it is to wait until the red bar first changes shades (Note: It will not always flash in the order of pink to red it so do not shift as soon as you see dark red).
 
-![Image showing when to shift into second gear](https://i.imgur.com/N8lBdqx.png)
+![Image showing when to shift into second gear](/assets/images/imgur-dump/N8lBdqx.png)
 
 - A good indicator of whether you timed your first shift right will be when your second shift is available.  If you get it directly after hitting the third boost, you have a good run going. Use your second shift directly before hitting the fourth boost pad.
 
-![Image showing when to shift into third gear](https://i.imgur.com/RkFgbbz.png)
+![Image showing when to shift into third gear](/assets/images/imgur-dump/RkFgbbz.png)
 
 The black part of the boost is where the hitbox is located so wait until the front of your swoop has passed the gold part to shift.
 
 - To tell if your second shift was good, your third should be available directly after passing this pillar.
 
-![Image showing when fourth gear is available](https://i.imgur.com/YK9jsNl.png)
+![Image showing when fourth gear is available](/assets/images/imgur-dump/YK9jsNl.png)
 
 Use your third shift right before hitting the eighth boost pad.
 
@@ -144,11 +144,11 @@ This is the easier of the two planet circuit laps to master. Although sub 23 has
 
 - Once again, there are two methods for first shift.  You can either use the Manaan method, except you're back to shifting after the first flash, or wait until the front of your swoop is clipping with the first line.
 
-![An image showing when to shift into second gear based on flashes](https://i.imgur.com/lQ4BjH7.png)
+![An image showing when to shift into second gear based on flashes](/assets/images/imgur-dump/lQ4BjH7.png)
 
 Or shift here:
 
-![An image showing when to shift into second gear based on swoop position](https://i.imgur.com/Wss9LGo.png)
+![An image showing when to shift into second gear based on swoop position](/assets/images/imgur-dump/Wss9LGo.png)
 
 - While you do get second shift rather early, do not use until right before you hit the third boost.
 - Shift right before the 8th boost pad.

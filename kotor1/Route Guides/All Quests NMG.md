@@ -113,7 +113,7 @@ We choose Weapon Focus: Melee for the attack boost on Taris, in particular the f
 
 ### Leveling Plan
 
-![A chart showing what Feats, Powers, and Skills to take at each level](https://i.imgur.com/QPItut4.png)
+![A chart showing what Feats, Powers, and Skills to take at each level](/assets/images/imgur-dump/QPItut4.png)
 
 Our main plan is to combine Master Speed with Master Flurry and a Double-Bladed Lightsaber for five attacks per round in the late game.  Master Two-Weapon Fighting, Weapon Focus, stims and lightsaber crystals give us enough attack that we can reliably hit even with the attack penalties.
 
@@ -202,7 +202,7 @@ Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher n
 
 Here's the full list of alignment actions that happen during the run; there are 46 total shifts, of which exactly 27 are dark and 16 are light:
 
-![A table showing alignment shifts for the run](https://i.imgur.com/5bM09nI.png)
+![A table showing alignment shifts for the run](/assets/images/imgur-dump/5bM09nI.png)
 
 The alignment route is quite lenient, since we no longer try to equip the Solari crystal until after Lehon, when we get a massive infusion of light side points when we choose to renounce our former identity.
 
@@ -626,7 +626,7 @@ SHOPPING: Zelka Forn
 -- Run to and loot Outcast Corpse for a Promised Land journal
 -- Run to the back of Canderous’s group
 -- MC needs to be in the green area
-https://i.imgur.com/DtlUjcO.png
+/assets/images/imgur-dump/DtlUjcO.png
 - As Mission/Carth
 -- ¤ [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
 } As MC, use Adrenal Alacrity (3 Alacrity remaining) and enter Lower Sewers
@@ -1800,7 +1800,7 @@ With MC, go to the temple basement in the back
 Enter the Basement
 Kill both droids in the basement
 Solve the floor puzzle with the following path (an H shape, starting from the reset tile)
-https://i.imgur.com/CF497Fm.png
+/assets/images/imgur-dump/CF497Fm.png
 Speak to basement computer: 1,1,1,2,1,2
 Return to main floor
 Activate Solo Mode

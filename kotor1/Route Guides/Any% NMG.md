@@ -76,7 +76,7 @@ We choose Weapon Focus: Melee for the attack boost on Taris, in particular the f
 
 ### Leveling Plan
 
-![A chart detailing what feats, powers, and skills to take at each level](https://i.imgur.com/wTRPaP0.png)
+![A chart detailing what feats, powers, and skills to take at each level](/assets/images/imgur-dump/wTRPaP0.png)
 
 Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flurry, and Knight Speed, using Bastila's Double-bladed Lightsaber as our main weapon.  This gives us multiple attacks that will deal as much damage as possible; we need as many attacks as we can get, since our chance to hit will be relatively low.  We are not guaranteed to hit level 11 in the run, but if we do it's best to just Auto-Level to get the +1 Attack bonus; we don't really need any additional skills or Force Powers at that point.  Other notes:
 
@@ -159,7 +159,7 @@ Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher n
 
 Here is the alignment route used in the run:
 
-![A chart showing all alignment shifts in the speedrun route](https://i.imgur.com/LFOrTDv.png)
+![A chart showing all alignment shifts in the speedrun route](/assets/images/imgur-dump/LFOrTDv.png)
 
 *Snitching on Kel Algwinn is for some reason hardcoded to always give -5 alignment; similarly, rescuing the hopefuls from Shaardan is hardcoded to give +3 alignment.*
 
@@ -789,8 +789,8 @@ SHOPPING: Mic'Tunan'Jus Orgu
     - As Bastila, stand in a fairly precise position in front of the Krayt Dragon
       - We use Bastila to block the Krayt so it ends up in a specific spot
       - Use these pictures to help you line it up
-![An image showing Bastila's positioning for Krayt Skip](https://i.imgur.com/wWAiCqs.png)
-![Another angle of Bastila's positioning for Krayt Skip](https://i.imgur.com/GGjL3bL.png)
+![An image showing Bastila's positioning for Krayt Skip](/assets/images/imgur-dump/wWAiCqs.png)
+![Another angle of Bastila's positioning for Krayt Skip](/assets/images/imgur-dump/GGjL3bL.png)
     - Swap to MC and QS
     - Run out of the cave to trigger the CS where the Krayt Dragon eats you
     - After the CS but before the pop-up indicating your death, QS
@@ -1111,7 +1111,7 @@ SHOPPING: Czerka Shop
 - *Stims/Force: Hyper Stim Suite on MC, Cast Knight Speed and Knight Valor*
 - Kill both guard droids in basement
 - Solve floor puzzle with the following path (an H shape, starting from the reset tile)
-![Image showing the H-shaped solution to the Catacombs floor puzzle](http://i.imgur.com/CF497Fm.png)
+![Image showing the H-shaped solution to the Catacombs floor puzzle](/assets/images/imgur-dump/CF497Fm.png)
 - Speak to basement computer: 1,1,2,1,2
 - Return to main floor
 - Activate Solo Mode

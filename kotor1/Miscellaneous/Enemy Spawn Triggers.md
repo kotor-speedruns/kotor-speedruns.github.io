@@ -19,29 +19,29 @@ This repository will be used to store Spawn Trigger (encounter) maps of various 
 
 ### Taris Lower City
 
-![Image showing spawn triggers in Lower City](https://i.imgur.com/BLjTJ8g.png)
+![Image showing spawn triggers in Lower City](/assets/images/imgur-dump/BLjTJ8g.png)
  
 ### Taris Lower City Apartments (Selven)
 
-![Image showing spawn triggers in Selven's Apartments](https://i.imgur.com/LkRVLak.png)
+![Image showing spawn triggers in Selven's Apartments](/assets/images/imgur-dump/LkRVLak.png)
 
 ### Taris Lower City Apartments (Matrik)
 
-![Image showing spawn triggers in Matrik's Apartments](https://i.imgur.com/4atxZCM.png)
+![Image showing spawn triggers in Matrik's Apartments](/assets/images/imgur-dump/4atxZCM.png)
 
 ### Taris Lower Sewers
 
-![Image showing spawn triggers in Lower Sewers](https://i.imgur.com/ABMKNXb.png)
+![Image showing spawn triggers in Lower Sewers](/assets/images/imgur-dump/ABMKNXb.png)
 
 ### Taris Vulkar Base Garage
 
-![Image showing spawn triggers in Vulkar Garage](https://i.imgur.com/OvsR4a2.png)
+![Image showing spawn triggers in Vulkar Garage](/assets/images/imgur-dump/OvsR4a2.png)
 
 ## Kashyyyk
 
 ### The Great Walkway
 
-![Image showing spawn triggers in Great Walkway](https://i.imgur.com/PBSuIBE.png)
+![Image showing spawn triggers in Great Walkway](/assets/images/imgur-dump/PBSuIBE.png)
 
 *Notes:*
 - These triggers do not comprise of all the mobs on this module, just most of them.
@@ -50,14 +50,14 @@ This repository will be used to store Spawn Trigger (encounter) maps of various 
 
 ### Upper Shadowlands
 
-![Image showing spawn triggers in Upper Shadowlands](https://i.imgur.com/NLKZMgi.png)
+![Image showing spawn triggers in Upper Shadowlands](/assets/images/imgur-dump/NLKZMgi.png)
 
 *Note:*
 - These aren't actually Encounters, but default triggers with a waypoint attached to it that happens to spawn some katarn. 
 
 ### Lower Shadowlands
 
-![Image showing spawn triggers in Lower Shadowlands](https://i.imgur.com/96qFxC9.png)
+![Image showing spawn triggers in Lower Shadowlands](/assets/images/imgur-dump/96qFxC9.png)
 
 *Note:*
 - It has come to my attention that the red encounter may be slightly too high.
@@ -66,30 +66,30 @@ This repository will be used to store Spawn Trigger (encounter) maps of various 
 
 ### Valley of the Dark Lords
 
-![Image showing spawn triggers in Valley of the Dark Lords](https://i.imgur.com/BEOqFze.png)
+![Image showing spawn triggers in Valley of the Dark Lords](/assets/images/imgur-dump/BEOqFze.png)
 
 *Note:* 
 - Shyrack spawns.
 
 ### Shyrack Caves
 
-![Image showing spawn triggers in Shyrack Caves](https://i.imgur.com/tTUbo6G.png)
+![Image showing spawn triggers in Shyrack Caves](/assets/images/imgur-dump/tTUbo6G.png)
 
 *Note:*
 - This cave has to be the most liberal use of the encounter system in this game I've seen. They mostly spawn shyrack and shyrack swarms, however 1 kinrath spawn exist for some reason (hot pink). There are additional trigger based spawns that are more complicated (mapping pending).
 
 ### Tombs of Ajunta Pall and Tulak Hord
 
-![Image showing spawn triggers in Tombs of Ajunta Pall and Tulak Hord](https://i.imgur.com/cLyjWW2.png)
+![Image showing spawn triggers in Tombs of Ajunta Pall and Tulak Hord](/assets/images/imgur-dump/cLyjWW2.png)
 
 ### Tomb of Naga Sadow
 
-![Image showing spawn triggers in Tomb of Naga Sadow](https://i.imgur.com/C37iYMF.png)
+![Image showing spawn triggers in Tomb of Naga Sadow](/assets/images/imgur-dump/C37iYMF.png)
 
 ## Leviathan
 
 ### Command Deck
-![Image showing spawn triggers in Command Deck of Leviathan](https://i.imgur.com/JRTBSJ6.png)
+![Image showing spawn triggers in Command Deck of Leviathan](/assets/images/imgur-dump/JRTBSJ6.png)
 
 *Note:*
 - These triggers are only activated after the Saul Karath sequence (but not if he is skipped). When ever a trigger is entered a sith trooper is spawned at the nearest location of corresponding color and is set to run towards the PC. I don't believe this stacks, meaning that once a trooper of one "color" is spawned another of the same color wont spawn until it is killed. This only includes the spawning of the sith troopers, the dark jedi spawn via an area script that is un-skippable.
@@ -98,7 +98,7 @@ This repository will be used to store Spawn Trigger (encounter) maps of various 
 
 ### Deck 1
 
-![Image showing spawn triggers in Deck 1 of Star Forge](https://i.imgur.com/nNYyfTL.png)
+![Image showing spawn triggers in Deck 1 of Star Forge](/assets/images/imgur-dump/nNYyfTL.png)
 
 *Notes:*
 - Droid Spawns
@@ -107,7 +107,7 @@ This repository will be used to store Spawn Trigger (encounter) maps of various 
 
 ### Deck 2
 
-![Image showing spawn triggers in Deck 2 of Star Forge](https://i.imgur.com/jyDs9wP.png)
+![Image showing spawn triggers in Deck 2 of Star Forge](/assets/images/imgur-dump/jyDs9wP.png)
 
 *Notes:*
 - These are the Triggers for the horde spawning mechanisms. The horde script is always running in this module.
@@ -115,7 +115,7 @@ This repository will be used to store Spawn Trigger (encounter) maps of various 
 - Every time the PC enters into an orange "Spawn Reset" trigger the current wave resets back to one, starting the spawn sequence over again (only if the spawn sequence has already been started). *The Magenta "Half-Reset" is functionally different from the orange counter part, however in what way is currently not known.
 - Finally, if the PC enters a red "Spawn Stop" trigger, the horde sequence deactivates until the PC steps into another green trigger.
 
-![Image showing spawn triggers in the Computer Room of Deck 2](https://i.imgur.com/0KwdcH0.png)
+![Image showing spawn triggers in the Computer Room of Deck 2](/assets/images/imgur-dump/0KwdcH0.png)
 
 *Notes:*
 - This is the bottom right corner of deck 2; the computer room. 
@@ -123,7 +123,7 @@ This repository will be used to store Spawn Trigger (encounter) maps of various 
 
 ### Deck 3
 
-![Image showing spawn triggers in Deck 3 of Star Forge](https://i.imgur.com/CDE5vZh.png)
+![Image showing spawn triggers in Deck 3 of Star Forge](/assets/images/imgur-dump/CDE5vZh.png)
 
 *Note:* 
 - The second half of this deck (Bastila/Droid Machines) has been cut off.
