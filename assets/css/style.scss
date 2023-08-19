@@ -100,24 +100,60 @@ table, th, td {
     top:0;
     width: 100%;
     z-index:100;
+    margin-left: 0;
+    margin-right: 0;
 }
 
-.navbar img {
+
+.navbar_section embed, .navbar_section img {
     max-height: 100%!important;
-    position: absolute!important;
+    padding-left: 1vmax;
+    padding-right: 1vmax;
+    padding-bottom: 0.1vmax;
+    padding-top: 0.5vmax;
 }
 
-.navbar p {
-    font-size: 2.5vmax;
+.navbar_section p {
+    font-size: 2vmax;
     font-family: monospace;
     font-style: italic;
     font-weight: bolder;
     padding-top: 0px;
+    padding-left: 1vmax;
+    padding-right: 1vmax;
     margin-top: 0px;
     margin-bottom: 0px;
     color: var(--kotor-selected);
+    margin-left: 0;
+    margin-right: 0;
+    display: inline;
+    position: fixed;
 }
 
 .navbar a:hover {
     text-decoration: none;
 }
+
+.navbar_section {
+    display: inline-block;
+    width: 50%;
+    height: 2.5vmax;
+}
+
+.footer {
+    background-color: black;
+    border-top: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-color: var(--kotor-fg-dark);
+    border-style: solid;
+    width: 100%;
+}
+
+.footer li {
+    display: inline;
+    padding-left: 3vw;
+    padding-right: 3vw;
+}
+

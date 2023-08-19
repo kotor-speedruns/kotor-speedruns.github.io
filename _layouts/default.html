@@ -20,12 +20,26 @@
 
 <body>
     <div class="navbar">
-        <!-- <p><a href="/"><img src="{{ "/assets/images/logo_temp.png" | relative_url }}" alt="KotOR Speedrun Guides Homepage"></a></p> -->
-        <a href="/"><p>KSR</p></a>
+        <div class="navbar_section">
+            <a href="/">
+                <p>KSR</p>
+            </a>
+        </div><div class="navbar_section" style="text-align: right;">
+            <a href="http://discord.gg/Q2uPRVu">
+                <img class="svg" src="{{ "/assets/images/discord.svg" | relative_url }}">
+            </a>
+        </div>
     </div>
     <div class="container-lg px-3 my-5 markdown-body">
         {{ content }}
     </div>
+    <!-- <div class="footer">
+        <ul>
+            <li><a href="http://discord.gg/Q2uPRVu">KotOR Discord</a></li>
+            <li><a href="https://www.speedrun.com/">KotOR Speedrun.com</a></li>
+            <li><a href="/about/">About</a></li>
+        </ul>
+    </div> -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>
         anchors.add();
