@@ -655,115 +655,87 @@ SHOPPING: Zelka Forn
 - `Level to 4: Strength to 19, Save Skills`
 - *Equip MC: Nerve Enhancement Package, Mission's Vibroblade Offhand*
 - Bash open footlocker in next room
-- With Mission, interact with the Force Field Terminal and mash the cutscene
+- As Mission, interact with the Force Field Terminal and mash the cutscene
 - [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) with Mission to warp MC
-- Add Zaalbar to the party
--- Note: If any rakghouls survived, you may have to enter Upper Sewers to change party members
-} Equip Vibroblade x2 to Zaalbar
-- MC runs left, take first door on left, then first on right
----------------------------------------------------------
-*If you choose not to use the above strat:*
-- Enter Lower Sewers
-- Activate Solo Mode and leave Mission by the ladder
-- Go right, open first door on left and loot first journal from Outcast Corpse
-- Free Zaalbar and add him to party
-> Level to 4: Strength to 19, Save Skills
-} Equip Nerve Enhancement Package, Mission’s Vibroblade to MC offhand
-} Equip Vibroblade x2 to Zaalbar
-- Bash open footlocker in next room
-- With Mission, interact with ladder to warp the party
+- *Party: Add Zaalbar*
+  - *Note: If any rakghouls survived, you may have to enter Upper Sewers to change party members*
+- *Equip Zaalbar: Vibroblade Mainhand and Vibroblade Offhand*
+- As MC, run left, take first door on left, then first on right
+- Loot third journal from Outcast Corpse
+- Turn right and use ladder to exit sewers
 - Activate Solo Mode
-¤ As MC, run west and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Canderous CS
-- Loot second journal from Outcast Corpse
-- Run to the back of Canderous’s group (see image above for where to stand)
-- ¤ As Mission/Zaalbar, [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
-} MC refreshes Adrenal Alacrity (3 Alacrity remaining)
+- As MC, loot Sith Soldier for rakghoul serum
+- As MC, run to Rukil while Mission & Zaalbar kill rakghouls
+- Turn journals in to Rukil
+  - ***Starts and Finishes “Rukil’s Apprentice”***
+  - ***Starts and Finishes “The Promised Land”***
+- As MC, run into corner to the east, in the [red area](https://i.imgur.com/DtlUjcO.png)
+- Mission/Zaalbar [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
+- Finish killing rakghouls if they’re still alive
+- *Unequip Mission: Remove all but clothes*
+- *Party: Remove Mission and Zaalbar*
 - Enter Lower Sewers
-- Throw Frag Grenade at rakghouls
-- Swap to Mission and deactivate Force Field
--- Zaalbar and MC should finish off rakghouls as she does this
--- The rakghouls need to die as this route has multiple very stringent XP checkpoints
-- Activate Solo Mode, leave Mission and Zaalbar at the Upper Sewer access
-- MC runs past the Force Field Terminal, through first door on left, then first door on right
----------------------------------------------------------
-Loot third journal from Outcast Corpse
-Turn right and use ladder to exit sewers
-Activate Solo Mode
-MC loots Sith Soldier for rakghoul serum
-MC runs to Rukil while Mission & Zaalbar kill rakghouls
-Turn journals in to Rukil
-- Starts and Finishes “Rukil’s Apprentice”
-- Starts and Finishes “The Promised Land”
-MC runs into corner to the east
-- In Undercity [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) map shown above, MC must be in red
-¤ Mission/Zaalbar [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
-Finish killing rakghouls if they’re still alive
-Unequip Mission, remove Mission and Zaalbar from party
-Enter Lower Sewers
-Note: make sure MC has enough Vitality to tank some hits from the Gamorreans waiting down there
-Run to Upper Sewers
----------------------------------------------------------
-***Optional Strat: Upper Sewers [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)***
-*This strat saves about 10 seconds in the Vulkar Garage but can be finicky. Using it is personal preference.*
-- Add Carth to the party
-- Activate Solo Mode
-- As Carth, open door behind you to Lower Sewers
-- As MC, run through sewers and kill the Malfunctioning Droid
-¤ Quickly swap to Carth and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to teleport MC to end of the sewers
-- Queue up Flurry on the Vulkar Guards, then swap back to Carth
-- Run through sewers to the same point as before
-¤ Swap to MC and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth to the end of sewers
-- Use Carth to open the door that leads to the rancor
--- Finishes “Rancor in the Sewers”
-- Enter Vulkar Base
-Note: while running Carth to the point where he’ll be warped, listen closely for an audio cue that indicates a Journal Update. For some reason, the MC can decide to open the door back to the sewers and get snacked on by the rancor.
----------------------------------------------------------
-*If you choose not to use the above strat:*
-- Run through left tunnel, then take right tunnel
-- Kill the Malfunctioning Droid
-¤ Juke past the rancor and enter the VUlkar Base
---- Try to run always at a 90 degree angle from the rancor’s pursuit
---- Or, loot the bones and add a Frag Grenade and some Synthesized Odor, this is slower
-- Enter the Vulkar Base
----------------------------------------------------------
+  - *Note: Make sure MC has enough Vitality to tank some hits from the Gamorreans waiting down there*
+- Run to Upper Sewers
+- ***Optional Strat: Upper Sewers [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)***
+  - *This strat saves about 10 seconds in the Vulkar Garage but can be finicky. Using it is personal preference.*
+  - *To perform this strat:*
+    - *Party: Add Carth*
+    - Activate Solo Mode
+    - As Carth, open door behind you to Lower Sewers
+    - As MC, run through sewers and kill the Malfunctioning Droid
+    - Quickly swap to Carth and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to teleport MC to end of the sewers
+    - Queue up Flurry on the Vulkar Guards, then swap back to Carth
+    - Run through sewers to the same point as before
+    - Swap to MC and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth to the end of sewers
+    - Use Carth to open the door that leads to the rancor
+      - ***Finishes “Rancor in the Sewers”***
+    - Enter Vulkar Base
+  - *If you choose not to use the above strat:*
+    - Run through left tunnel, then take right tunnel
+    - Kill the Malfunctioning Droid
+    - Juke past the rancor and enter the Vulkar Base
+      - Try to run always at a 90 degree angle from the rancor’s pursuit
+      - Or, loot the bones and add a Frag Grenade and some Synthesized Odor, this is 20s slower
+    - Enter the Vulkar Base
 
-**Vulkar Base:**
-Kill the patrol droid
-Defense turret skip
-- Open the door to elevator area
-- Stand in doorframe corner near terminal and QS
-- Throw 2 Concussion Grenades (use Carth if present) at center turret
-- If any turret remains unstunned, QL and try again
-- If all three turrets are stunned, take the elevator to the Garage
-- If MC is alone, you can try to reach the garage with only 2 turrets stunned. There’s a 25% chance the remaining turret will miss you.
-Activate Solo Mode (if Carth is present)
-As Carth (or as MC if no Carth):
-- Take hallway on right and enter last door on right
-- Loot Garage Head’s Desk for keycard and supplies for Computer Spikes (+2; 5 Spikes)
-As MC:
-- Kill both Vulkars in the central hallway
-- Continue past mines and take last door on left
-¤ [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Kandon Ark fight
-- Get the swoop accelerator
-- Talk to Kandon Ark
-- This will teleport you outside the Vulkar base
+### Vulkar Base
+- Kill the patrol droid
+- Defense Turret Skip:
+  - Open the door to elevator area
+  - Stand in doorframe corner near terminal and QS
+  - Throw 2 Concussion Grenades (use Carth if present) at center turret
+  - If any turret remains unstunned, QL and try again
+  - If all three turrets are stunned, take the elevator to the Garage
+  - If MC is alone, you can try to reach the garage with only 2 turrets stunned. There’s a 25% chance the remaining turret will miss you.
+- Activate Solo Mode (if Carth is present)
+- As Carth (or as MC if no Carth):
+  - Take hallway on right and enter last door on right
+  - Loot Garage Head’s Desk for keycard and supplies for Computer Spikes (+2; 5 Spikes)
+- As MC:
+  - Kill both Vulkars in the central hallway
+  - Continue past mines and take last door on left
+  - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Kandon Ark fight
+  - Get the swoop accelerator
+  - Talk to Kandon Ark
+    - This will teleport you outside the Vulkar base
 
-**Rescuing Bastila:**
-Return to Hidden Bek Base
-Talk to Carth #3
-Talk to Zaerdra and Gadon Thek
-¤ After talking to Gadon, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Ithorian CS at swoop track
-Talk to the Race Coordinator to complete Race One
-- Do not shift into the top gear for these swoop races; it’s faster by roughly a second to stay in fourth gear.
-- Whatever time you get on this race will be beaten by 0.25s by Redros
-Talk to the Race Coordinator to complete Race Two
-- You’ll need to beat Redros’s time on the second race, but your swoop accelerates faster than before
-¤ After two panels of the Ithorian’s conversation, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Brejik fight
-- Click twice then immediately spam QS
-Talk to Bastila
-- If you miss the previous buffer, you can use [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj) to talk to Bastila and skip the Brejik fight
-- Bastila will loot Brejik’s nonexistent corpse, so you still get her lightsaber and Brejik’s equipment
-- This warps you back to the apartment hideout
+### Rescuing Bastila
+- Return to Hidden Bek Base
+- Carth #3
+- Talk to Zaerdra and Gadon Thek
+- After the load screen, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Ithorian CS at swoop track
+- Talk to the Race Coordinator to complete Race One
+  - Do not shift into the top gear for these swoop races; it’s faster by roughly a second to stay in fourth gear.
+  - Whatever time you get on this race will be beaten by 0.25s by Redros
+- Talk to the Race Coordinator to complete Race Two
+  - You’ll need to beat Redros’s time on the second race, but your swoop accelerates faster than before
+- After two panels of the Ithorian’s conversation, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Brejik fight
+  - Click twice then immediately start the buffer
+- Talk to Bastila
+  - If you miss the previous buffer, you can use [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj) to talk to Bastila and skip the Brejik fight
+  - Bastila will loot Brejik’s nonexistent corpse, so you still get her lightsaber and Brejik’s equipment
+  - This warps you back to the Hideout
 
 ## Taris 2
 
