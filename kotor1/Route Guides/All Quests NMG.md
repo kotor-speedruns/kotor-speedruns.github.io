@@ -894,11 +894,11 @@ SHOPPING: Aratech Mercantile
 - End: ~0 Credits
 ```
 
-- [Single Item Dupe](<../Techniques/Item Duplication#animation-duping>) the CNS Strength Enhancer twice
+- [Single Item Dupe](<../Techniques/Item Duplication#animation-duping>) the CNS Strength Enhancer
   - Have Carth and Canderous use Alacrity
-  - This gives you three total CNS Strength Enhancers
-  - This also should equip one CNS to MC
-- *Unequip Carth and Canderous: Remove all but clothing*
+  - Using two party members gives you three total CNS Strength Enhancers
+  - This should also end with CNS equipped to MC
+- *Unequip Carth and Canderous: Remove all but Clothing*
 - *Party: Remove Carth*
 - [Open Buffer](<../Techniques/Save Buffering#open-buffers>) into the council conversation
   - Swap to Canderous as the buffer ends
@@ -912,7 +912,7 @@ SHOPPING: Aratech Mercantile
 - Swap to MC and talk to Master Zhar again: 1,1,6,3,2,6,4
 - Swap to Canderous and talk to Master Dorak to become a Jedi Guardian
 - `Level to 6: Save Skills, Improved Flurry, Burst of Speed and Force Valor`
-- `Level 7: Persuade to 10, Affect Mind`
+- `Level to 7: Persuade to 10, Affect Mind`
 - *Force: Cast Burst of Speed*
 - Deactivate Solo Mode
 - Swap to Canderous and talk to Master Zhar
