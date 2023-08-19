@@ -153,6 +153,12 @@ table, th, td {
     }
 }
 
+@media screen and (max-height: 300px) { //The the navbar covers more than a 6th of the page
+    .navbar, .navbar p {
+        position: absolute;
+    }
+}
+
 .footer {
     background-color: black;
     border-top: 1px;
