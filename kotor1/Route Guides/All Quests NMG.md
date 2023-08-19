@@ -1202,55 +1202,59 @@ SHOPPING: Selkath Merchant
 
 ## Dantooine 2
 
-**Dantooine Savannah:**
-¤ [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) past Deesra
-Exit to Courtyard
-Take closest entry to Matale Grounds
-Cast Force Valor, kill the Mandalorian raider
-- You don’t need to kill the Duros
-Enter the nearby entrance to Grove
-Enter Sandral Grounds ahead
-Speak to Security Droid: 4
-Enter Sandral Estate
-Nurik accosts you
-- Finishes “Dead Settler”
-Rahasia accosts you
-Exit estate
-} Add Canderous to party
-Re-enter estate through the side door
-Destroy patrol droid on left
-Bash down door around the corner with mine in front of it
-Talk to Shen: 1,1,2,3
-Activate Solo Mode, leave Canderous next to Shen
-As MC, take last door on left and run through room with patrol droids
-Open first door on left and talk to Rahasia
-Cast Force Valor, swap to Canderous and talk to Shen
-Mash conversation outside
-- Finishes “Sandral-Matale Feud”
-Remove Canderous from the party
-Go to Mandalorian Raider group
-} Use Hyper Stim Suite (4 remain), cast Knight Valor
-- Hyper Stim Suite is Hyper Alacrity, Hyper Strength, Hyper Stamina, and Hyper Battle Stim
-- In late game, you will replace Hyper Battle Stim with Echani Battle Stims
-Kill both Mandalorians
-¤ [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj) to speak with C8-42: 1x5,2,1
-Enter the Grove
-Kill both Mandalorians
-Enter Sandral Grounds, then re-enter the Grove
-Talk to and kill Sherruk
-Go to Matale Grounds
-Interact with Zuulan’s Speeder: 2 (-1; 3 Spikes)
-Zuulan accosts you, kill him
-Return to Ebon Hawk
-Go back to Courtyard
-Talk to Jon
-- Finishes “Mandalorian Raiders”
-Talk to Elise
-- Finishes “Missing Companion”
-Return to Ebon Hawk and board
-> Level to 9: Persuade to 12, Knight Speed
-Juhani #4
-¤ Travel to Kashyyyk with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
+### Dantooine Savannah
+- [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) past Deesra
+- Exit to Courtyard
+  - *Force: Cast Force Valor while exiting to Duration Glitch it*
+- Take closest entry to Matale Grounds
+- Kill the Mandalorian after a brief CS
+  - You don’t need to kill the Duros
+- Enter the nearby entrance to Grove
+- Enter Sandral Grounds ahead
+- Speak to Security Droid: 4
+- Enter Sandral Estate
+- Nurik and Rahasia accost you
+  - ***Finishes “Dead Settler”***
+- Exit estate
+- *Party: Add Canderous*
+- Re-enter estate through the side door
+- Destroy patrol droid on left
+- Bash down door around the corner with mine in front of it
+- Talk to Shen: 1,1,2,3
+- Activate Solo Mode, leave Canderous next to Shen
+- As MC, take last door on left and run through room with patrol droids
+- Open first door on left and talk to Rahasia
+- Swap to Canderous and talk to Shen
+  - Make sure Valor is active on MC first; it should be if you duration glitched correctly
+- Mash conversation outside
+  - ***Finishes “Sandral-Matale Feud”***
+- *Party: Remove Canderous*
+- Go to Mandalorian Raider group
+- *Stims: Hyper Stim Suite on MC*
+  - Hyper Stim Suite is Hyper Alacrity, Hyper Strength, Hyper Stamina, and Hyper/Echani Battle Stim
+- Kill the center Mandalorian
+  - You don't need to kill the other Mando or the Duros
+- [Combat Talking](<../Techniques/Combat Talking>) to speak with C8-42: 1x5,2,1
+- Enter the Grove
+- Kill the further Mandalorian
+  - Again, you don't need to kill the other Mando or the Duros
+- Enter Sandral Grounds, then re-enter the Grove
+  - This spawns Sherruk in the Grove
+- Sherruk accosts you; kill Sherruk
+- Go to Matale Grounds
+- Interact with Zuulan’s Speeder: 2 (-1; 3 Spikes)
+- Zuulan accosts you, kill him
+- Return to Ebon Hawk
+- Go back to Courtyard
+- Talk to Jon
+  - ***Finishes “Mandalorian Raiders”***
+- Talk to Elise
+  - ***Finishes “Missing Companion”***
+- Return to Ebon Hawk and board
+- `Level to 9: Persuade to 12, Knight Speed`
+- Juhani #4
+- Fly to Kashyyyk
+  - Use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to the Ebon Hawk
 
 ## Kashyyyk
 
