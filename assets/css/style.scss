@@ -102,17 +102,17 @@ table, th, td {
     z-index:100;
     margin-left: 0;
     margin-right: 0;
-    height: 3vmax;
+    height: 50px;
 }
 
 
 .navbar_section embed, .navbar_section img {
     max-height: 85%!important;
     max-width: 55px!important;
+    padding: 5px;
 }
 
 .navbar_section p {
-    font-size: 2vmax;
     font-family: monospace;
     font-style: italic;
     font-weight: bolder;
@@ -125,6 +125,7 @@ table, th, td {
     margin-right: 0;
     display: inline;
     position: fixed;
+    font-size: 36px;
 }
 
 .navbar a:hover {
@@ -137,16 +138,11 @@ table, th, td {
     height: 100%;
 }
 
-.navbar {
-    height: 50px;
+@media screen and (max-width: 280px) { // For all you galaxy fold users
+    .navbar_section embed, .navbar_section img {
+        max-width: 40px!important;
+    }
 }
-.navbar_section p {
-    font-size: 36px;
-}
-.navbar_section embed, .navbar_section img {
-    padding: 5px;
-}
-
 
 .footer {
     background-color: black;
