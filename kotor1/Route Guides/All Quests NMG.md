@@ -120,12 +120,12 @@ We choose Weapon Focus: Melee for the attack boost on Taris, in particular the f
 | 3 | Empathy | | TI to 6 |
 | 4 | (Implant 2, Uncanny Dodge) | | Save all Skills |
 | 5 | Improved Two-Weapon Fighting | | Com to 8 |
-| 6 | Improved Flurry | Burst of Speed, Force Valor | Save all Skills |
+| 6 | Improved Flurry, (Force Jump) | Burst of Speed, Force Valor | Save all Skills |
 | 7 | | Affect Mind | Per to 10 |
 | 8 | Master Two-Weapon Fighting | Dominate Mind | Per to 11 |
 | 9 | | Knight Speed | Per to 12 |
 | 10 | | Knight Valor | Per to 13 |
-| 11 | Master Flurry | Force Resistance | Per to 14 |
+| 11 | Master Flurry, (Improved Force Jump) | Force Resistance | Per to 14 |
 | 12 | Weapon Focus: Lightsaber | Drain Life | Per to 15 |
 | 13 | | Energy Resistance | Per to 16 |
 | 14 | Weapon Specialization: Lightsaber | Improved Energy Resistance | Per to 17 |
