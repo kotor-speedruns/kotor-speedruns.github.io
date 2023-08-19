@@ -34,7 +34,7 @@ a:hover, a:active {
     border-width: 2px;
     padding-bottom: 16px;
     padding-top: 16px;
-    margin-top: 4vw!important;
+    margin-top: 5vmax!important;
 }
 
 .markdown-body .highlight pre, .markdown-body pre, .highlight {
@@ -108,7 +108,7 @@ table, th, td {
 }
 
 .navbar p {
-    font-size: 2vw;
+    font-size: 2.5vmax;
     font-family: monospace;
     font-style: italic;
     font-weight: bolder;

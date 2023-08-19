@@ -7,17 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {%- seo -%}
     {% assign dirs = page.url | split: "/"%}
-    {% for game in dirs limit:1 offset:1 %}
-    {% if game == "kotor1"%}
+    {% if dirs[1] == "kotor1"%}
     <link rel="stylesheet" href="{{ "/assets/css/kotor1.css" | relative_url }}">
-    {% elsif game == "kotor2"%}
+    {% elsif dirs[1] == "kotor2"%}
     <link rel="stylesheet" href="{{ "/assets/css/kotor2.css" | relative_url }}">
     {% else %}
     <link rel="stylesheet" href="{{ "/assets/css/kotor0.css" | relative_url }}">
     {% endif %}
-    {% else %}
-    <link rel="stylesheet" href="{{ "/assets/css/kotor0.css" | relative_url }}">
-    {% endfor %}
 
 
 </head>
