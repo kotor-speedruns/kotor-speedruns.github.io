@@ -22,7 +22,7 @@ for root, dirs, files in os.walk(os.getcwd(), topdown=False):
                 for url in urls:
                     urlretrieve(url, f"assets/images/imgur-dump/{url[-11:]}")
                 file.seek(0)
-                new_content = re.sub('https?://i.imgur.com/', 'assets/images/imgur-dump/')
+                new_content = re.sub('https?://i.imgur.com/', '/assets/images/imgur-dump/', content)
                 file.truncate(0)
                 file.write(new_content)
             file.close()
