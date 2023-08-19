@@ -102,15 +102,15 @@ table, th, td {
     z-index:100;
     margin-left: 0;
     margin-right: 0;
+    height: 3vmax;
 }
 
 
 .navbar_section embed, .navbar_section img {
-    max-height: 100%!important;
+    max-height: 85%!important;
     padding-left: 1vmax;
     padding-right: 1vmax;
-    padding-bottom: 0.1vmax;
-    padding-top: 0.5vmax;
+    padding-bottom: 0.4vmax;
 }
 
 .navbar_section p {
@@ -118,7 +118,6 @@ table, th, td {
     font-family: monospace;
     font-style: italic;
     font-weight: bolder;
-    padding-top: 0px;
     padding-left: 1vmax;
     padding-right: 1vmax;
     margin-top: 0px;
@@ -137,7 +136,7 @@ table, th, td {
 .navbar_section {
     display: inline-block;
     width: 50%;
-    height: 2.5vmax;
+    height: 100%;
 }
 
 .footer {
