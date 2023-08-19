@@ -455,7 +455,7 @@ Quest Notes:
 - [Taris 2](#taris-2)
 - [Dantooine 1](#dantooine-1)
 - [Tatooine 1](#tatooine-1)
-- [Manaan 1](#manaan)
+- [Manaan 1](#manaan-1)
 - [Dantooine 2](#dantooine-2)
 - [Kashyyyk](#kashyyyk)
 - [Tatooine 2](#tatooine-2) 
