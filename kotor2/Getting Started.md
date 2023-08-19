@@ -143,4 +143,4 @@ In both cases, omit the quotes and be sure to capitalize correctly.  This should
 
 ### Running on Windows 10
 
-If you're having trouble getting KotOR to run on Windows 10, you can try using [this guide](<kotor1/Miscellaneous/Windows 10>).
+If you're having trouble getting KotOR to run on Windows 10, you can try using [this guide](<../kotor1/Miscellaneous/Windows 10>).
