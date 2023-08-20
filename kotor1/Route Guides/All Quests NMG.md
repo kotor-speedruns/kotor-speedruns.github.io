@@ -624,7 +624,7 @@ SHOPPING: Zelka Forn
 - With MC:
   - Open gate on right and speak to healer: 1,2
   - Avoid rakghouls in pen to speak to outcasts: 2,2
-    - If you get into combat with the rakghouls, use [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj) to speak to the outcasts
+    - If you get into combat with the rakghouls, use [Combat Talking](<../Techniques/Combat Talking>) to speak to the outcasts
   - ***Starts and Finishes “Infected Outcasts”***
 - With Carth:
   - Open elevator door behind him
@@ -733,7 +733,7 @@ SHOPPING: Zelka Forn
 - After two panels of the Ithorian’s conversation, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Brejik fight
   - Click twice then immediately start the buffer
 - Talk to Bastila
-  - If you miss the previous buffer, you can use [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj) to talk to Bastila and skip the Brejik fight
+  - If you miss the previous buffer, you can use [Combat Talking](<../Techniques/Combat Talking>) to talk to Bastila and skip the Brejik fight
   - Bastila will loot Brejik’s nonexistent corpse, so you still get her lightsaber and Brejik’s equipment
   - This warps you back to the Hideout
 
@@ -1285,90 +1285,86 @@ SHOPPING: Eli Gand
 ### Upper Shadowlands
 - [Save Teleport](<../Techniques/Save Teleporting>) to skip Katarn spawn
 - Watch Jolee kill katarns
-- Go to the intersection
-- Activate Solo Mode
+- Activate Solo Mode at the fork
 - As T3, [Save Teleport](<../Techniques/Save Teleporting>) next to Jolee’s house
-- With MC
-- Loot Wookiee Corpse for bolt casing
--- Starts “A Wookiee Lost”
-- Czerka Captain: 1,1,1,1,2
--- Starts “Tach Poaching”
-- Talk to first guard: 1,1,3,1,1
-- Hack that guard's emitter
-- Talk to another guard: 1spam
-- Hack that guard's emitter
--- Starts and Finishes "Jolee's Request"
--- Finishes "Tach Poaching"
-Swap to T3 and talk to Jolee by his house: 1,1,1,2,3,1,1,1,1,1
-- Starts "Star Map: Kashyyyk"
-} Remove T3 from party when prompted
-Note: As you go through the Shadowlands, kill and loot 3 tachs for 3 Tach Glands
-Interact with broken droid just past Jolee’s house: 1,2
-Loot Wookiee corpse slightly past Jolee's house
-} Use Hyper Stim Suite, cast Speed and Valor
-Talk to Grarwwaar
-Defeat Rulan's first two forms
-Chase the tach and talk to it to kill Rulan permanently
-- You may need to defeat the katarn nearby to be able to talk to the tach
-Go to the Force Field 
-Bypass force field: 1,2
-- Starts “Chieftain in Need”
+- As MC:
+  - Loot Wookiee Corpse for bolt casing
+    - ***Starts “A Wookiee Lost”***
+  - Czerka Captain accosts you: 1,1,1,1,2
+    - ***Starts “Tach Poaching”***
+  - Talk to first guard: 1,1,3,1,1
+  - Hack that guard's emitter
+  - Talk to another guard: 1spam
+  - Hack that guard's emitter
+    - ***Starts and Finishes "Jolee's Request"***
+    - ***Finishes "Tach Poaching"***
+  - Kill a nearby tach and loot for gland
+- Swap to T3 and talk to Jolee by his house: 1,3,1spam
+  - ***Starts "Star Map: Kashyyyk"***
+- *Party: Keep Jolee when prompted*
+- Loot broken droid just past Jolee’s house: 2
+- Loot Wookiee corpse slightly down right fork
+- *Stims/Force: Hyper Stim Suite on MC, Cast Knight Speed*
+- Rulan Fight:
+  - Talk to Grarwwaar
+  - *Force: Cast Force Valor* when you're knocked back from the Jolee form
+  - QS/QL when you're knocked back from the terentatek form
+    - This freezes the Rulan-tach in place
+  - Talk to and kill the Rulan-tach
+- While MC fights Rulan, have Jolee [Save Teleport](<../Techniques/Save Teleporting>) to the Force Field 
+  - Make sure you've looted a Tach Gland and killed the Rulan-tach, then...
+- Bypass force field: 1,2
+  - ***Starts “Chieftain in Need”***
 
-**Lower Shadowlands:**
-Activate Solo Mode
-*Note: Jolee will warp to you at various points*
-¤ [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) or [Save Teleport](<../Techniques/Save Teleporting>) to skip the Mandalorians fighting the Wookiee CS
-Talk to and fight Freyyr
-Freyyr: 2, kill him
-Go to Star Map Computer: 1,3,1x5,4,1,1,4,1,4,1
-- Finishes “Star Map: Kashyyyk”
-> Level to 10: Persuade to 13, Knight Valor
-Unequip MC’s lightsaber, spawn and defeat Mandalorians nearby (usually 2nd group)
-Return to first cluster of Wookiee corpses, defeat Mandalorians
-Activate Solo Mode
-With Jolee, loot Mandalorians
-With MC
-- Kill kinraths if they spawn
-- Interact with speeders
-Defeat and loot Mandalorian Captain
-- Finishes “Hidden Hunters”
-¤ [Save Teleport](<../Techniques/Save Teleporting>) back to Upper Shadowlands
-¤ [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Jolee to you if he didn't follow
+### Lower Shadowlands
+- Activate Solo Mode
+  - *Note: Jolee will warp to you at various points*
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>)/[Save Teleport](<../Techniques/Save Teleporting>) to skip the Mandalorians fighting the Wookiee CS
+- Talk to and fight Freyyr
+- Freyyr: 2, kill him
+- Go to Star Map Computer: 1,3,1x5,4,1,1,4,1,4,1
+  - Finishes “Star Map: Kashyyyk”
+- `Level to 10: Persuade to 13, Knight Valor`
+- *Unequip MC: Remove Double-Bladed Lightsaber*
+- Trigger Mandalorian ambush and kill them
+- Return to first cluster of Wookiee corpses, defeat Mandalorians
+- Activate Solo Mode
+- As Jolee, loot Mandalorians
+- As MC:
+  - Kill kinraths if they spawn
+  - Interact with speeders
+- Defeat and loot Mandalorian Captain
+  - ***Finishes “Hidden Hunters”***
+- [Save Teleport](<../Techniques/Save Teleporting>) back to Upper Shadowlands
+  - [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Jolee to you if he didn't follow
 
-**Wookiee Politics:**
-Activate Solo Mode
-Talk to Gorwooken
-- ¤ May have to use [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj) to get him to talk to you
-Chuundar accosts you and kicks you out of Chieftain’s Hall
-¤ [Force Skip](<../Techniques/Force Skips>) a brief cutscene as you exit
-} Remove Jolee from the party
-Exit the Wookiee Village
-Disable V-Sync
-- This helps with a Quicksave spam coming up
-Talk to the Wookiee Guard: 2
-Talk to Chuundar: 1,1,2,1,2
-- Finishes “A Wookiee Lost”
-- Finishes “Chieftain in Need”
-Spam QS on the fadeout after Chuundar says "No matter how helpful they may have been..."
-} Leave your party empty when prompted
-QL after you’re kicked out of the village
-Two things can happen here
-- The QL can return to the Party Select menu - this means you've failed the trick
--- If this happens, [Save Teleport](<../Techniques/Save Teleporting>) back to the Landing Port
-- The QL can return you to Chieftain's Hall
--- If this happens, Return to Ebon Hawk
-Wookie Enslavement cutscene warps you to Janos: 1,3
-Re-enable V-Sync
-Talk to Eli Gand
-- Finishes “Honest Debt”
-> Level to 11: Persuade to 14, Master Flurry, Drain Life
-Transit Back, Return to Ebon Hawk and board
-Juhani #5 and #6
-¤ Travel to Tatooine, [Map CS Skip](<../Techniques/Map Cutscene Skips>) puts you back on Kashyyyk
-Board Ebon Hawk
-Talk to T3 8 times (+8; 11 Spikes)
-Travel to Tatooine, no [Map CS Skip](<../Techniques/Map Cutscene Skips>)
-Possible Fighter Skirmish
+### Wookiee Politics
+- Activate Solo Mode
+- [Save Teleport](<../Techniques/Save Teleporting>) to return to elevator and talk to Gorwooken
+  - If you're in combat, you can use [Combat Talking](<../Techniques/Combat Talking>) to get him to talk to you
+- Chuundar accosts you and kicks you out of Chieftain’s Hall
+- [Force Skip](<../Techniques/Force Skips>) a brief cutscene as you exit
+- *Party: Remove Jolee*
+- Exit the Wookiee Village
+- Talk to the Wookiee Guard: 2
+- Talk to Chuundar: 1,1,2,1,1
+  - Hover your mouse over the Map icon
+  - ***Finishes “A Wookiee Lost”***
+  - ***Finishes “Chieftain in Need”***
+- IMMEDIATELY after Chuundar stops talking, [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
+- Wookie Enslavement CS warps you to Janos: 1,3
+- Talk to Eli Gand
+  - Finishes ***“Honest Debt”***
+- `Level to 11: Persuade to 14, Master Flurry, Drain Life`
+- Transit Back, Return to Ebon Hawk and board
+  - There is just a narrow window to Return to Ebon Hawk before you're booted out to the Great Walkway
+- Juhani #5 and #6
+- Fly to Tatooine:
+  - [Map CS Skip](<../Techniques/Map Cutscene Skips>) puts you back on Kashyyyk
+  - Reboard Ebon Hawk
+  - Talk to T3 8 times (+8; 11 Spikes)
+  - Fly to Tatooine
+    - Possible Fighter Skirmish
 
 ## Tatooine 2
 
@@ -1800,7 +1796,7 @@ Talk to Warleader Garn: 1,1,3
 - Finishes “Invisible Mandalorians”
 Return to and betray the One: 3
 Go to the Elder Warrior and talk to him
-¤ If you are in combat he won’t talk to you, so use [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj)
+¤ If you are in combat he won’t talk to you, so use [Combat Talking](<../Techniques/Combat Talking>)
 Loot the Ship Parts
 Leave the compound and go towards Central Beach
 Once you reach Central Beach, Transit Back
