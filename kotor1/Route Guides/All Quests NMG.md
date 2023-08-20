@@ -1448,90 +1448,99 @@ SHOPPING: Eli Gand
   - Run left in the hallway and continue straight
   - When you reach a room with windows, turn right and open door
   - Make sure MC is at full health in front of the steam hallway
-¤ [Save Teleport](<../Techniques/Save Teleporting>) to the end of the hall
-- Open door, interact with Computer Terminal: 1,2,2,4,scroll down and click (-4; 7 Spikes)
-¤ With Jolee, [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC back to lobby
-With MC
-- Go through door behind secretary, go down hall
-- Ignore Dark Jedi, open door on left
-- Go straight then left in the hallway, let Selkath open door
-- Open next door, then open door around corner to the left
-- Talk to Sasha: 1,1,1,1,2
-¤ With Jolee, [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC back to lobby
-Exit to Ahto City
+- [Save Teleport](<../Techniques/Save Teleporting>) to the end of the hall
+  - Open door, hack wall terminal: 1,2,2,4,scroll down and click (-4; 7 Spikes)
+- Swap to Jolee and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) MC back to lobby
+- As MC:
+  - Go through door behind secretary, go down hall
+  - Ignore Dark Jedi, open door on left
+  - Go straight then left in the hallway, let Selkath open door
+  - Open next door, then open door around corner to the left
+  - Talk to Sasha: 1,1,1,1,2
+- Swap to Jolee and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) MC back to lobby
+- Exit to Ahto City
 
-**Ahto City:**
-Selkath arrest you: 1
-Prison and first trial: 1x5,3,1 ... spam
-Remove Bastila from party
-Go towards West Central
-Elora accosts Jolee
-- Starts “Sunry’s Murder Trial”
-Activate Solo Mode
-As MC
-- Go back to courtroom
-¤ [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the conversation, mash if you fail
-- Speak to center judge
-As Jolee, deactivate Solo Mode and speak to Selkath Guard
-Swap to MC and enter jail
-Speak to Sunry: 1,4
-- Starts “Sunry’s Story”
-Remove Jolee from party, go to East Central Ahto
-Talk to Hulas: 1x6,2,1
-- Finishes “GenoHaradan”, “GenoHaradan: Ithorak”, “GenoHaradan: Rulan”, “GenoHaradan: Vorn”, and “GenoHaradan: Zulan”
-> Level to 12: Strength to 21, Persuade to 15, Weapon Focus: Lightsaber, Force Resistance
-Enter the hotel, talk to Ignus: 1,2,3,3
-- Starts “Ignus the Hotel Owner”
-Talk to Firith Me
-- Starts “Firith Me the Pazaak Player”
-- Starts “Elora, Sunry’s Wife”
-Talk to Gluupor: 1,3,1
-- Starts “Gluupor the Rodian”
-¤ [Save Teleport](<../Techniques/Save Teleporting>) past or [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the Mysterious Man on the way out
-Talk to Roland Wann
-Enter Republic Computer Room
-Hack Republic archives: 2,2,3 (-4; 3 Spikes)
-Take Submersible to Hrakert Rift
+### Ahto City
+- Selkath arrest you: 1
+- Prison and first trial: 1x5,3,1 ... spam
+- *Party: Remove Bastila*
+- Go towards West Central until Elora accosts Jolee
+  - ***Starts “Sunry’s Murder Trial”***
+- Activate Solo Mode
+- As MC:
+  - Go back to courtroom
+  - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the conversation, mash if you fail
+  - Speak to center judge
+- Swap to Jolee and deactivate Solo Mode and speak to Selkath Guard
+- Swap to MC and talk to Sunry: 1,4
+  - ***Starts “Sunry’s Story”***
+- *Party: Remove Jolee*
+- [Save Teleport](<../Techniques/Save Teleporting>) to East Central
+- Talk to Hulas: 1x6,2,1
+  - ***Finishes "GenoHaradan: Zuulan"***
+  - ***Finishes "GenoHaradan: Vorn"***
+  - ***Finishes "GenoHaradan: Rulan"***
+  - ***Finishes "GenoHaradan: Ithorak"***
+  - ***Finishes "GenoHaradan"***
+- `Level to 12: Strength to 21, Persuade to 15, Weapon Focus: Lightsaber, Force Resistance`
+- Enter the hotel, talk to Ignus: 1,2,3,3
+  - ***Starts “Ignus the Hotel Owner”***
+- Talk to Firith Me
+  - ***Starts “Firith Me the Pazaak Player”***
+  - ***Starts “Elora, Sunry’s Wife”***
+- Talk to Gluupor: 1,3,1
+  - ***Starts “Gluupor the Rodian”***
+- [Save Teleport](<../Techniques/Save Teleporting>) past or [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the Mysterious Man on the way out
+- Talk to Roland Wann
+- Enter Republic Computer Room
+- Hack Republic archives: 2,2,3 (-4; 3 Spikes)
+- Take Submersible to Hrakert Rift
 
-**Hrakert Rift:**
-Open door ahead, Mercenary accosts you
-Go down hall, open first door on right
-Open first door on right in the hall with droids
-Go straight until the assault droid, then left
-Loot Environment Suit, turn right
-Loot Footlocker in this room for Sonic Emitter, then run down hall to the left
-} Adrenal Alacrity (1 remain) Cast Knight Speed
-Go through airlock
-Survivor accosts you
-¤ [Sonic Buffer](<../Techniques/Save Buffering#soft-buffers>) the survivor’s death cutscene
-Run left to the airlock on the left side of the next structure
-Go through door ahead of you, survivors lock you in
-Talk to survivors: 3
-¤ [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the CS after the force field comes down
-- If you fail, mash
-Loot Footlocker for 2 Computer Spikes (+2; 5 Spikes)
-Go through airlock, refresh Knight Speed and Alacrity (0 remaining) if needed
-Hack kolto control panel: 1,2,4,2,5,4,5,2,5
-Manaan Star Map
-- Finishes “Star Map: Manaan”
-Re-enter station through airlock on right
-Wave at Darth Bandon as you run past him
-Return to surface
+### Hrakert Rift
+- Open door ahead, Mercenary accosts you
+- Go down hall, open first door on right
+- Open first door on right in the hall with droids
+- Go straight until the assault droid, then left
+- Loot Environment Suit, turn right
+- Loot Footlocker in this room for Sonic Emitter, then run down hall to the left
+- *Stims/Force: Alacrity on MC, Cast Knight Speed*
+- Go through airlock
+- Survivor accosts you
+- [Sonic Buffer](<../Techniques/Save Buffering#sonic-buffers>) the survivor’s death cutscene
+- Run left to the airlock on the left side of the next structure
+- Go through door ahead of you, scientists lock you in
+- Talk to scientists: 3
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the CS after the force field comes down
+  - If you fail, mash the long scientist convo
+- Loot Footlocker for 2 Computer Spikes (+2; 5 Spikes)
+- *Stims: Alacrity on MC, Cast Knight Speed*
+- Exit through airlock
+- Hack kolto control panel: 1,2,4,2,5,4,5,2,5
+- Manaan Star Map
+  - ***Finishes “Star Map: Manaan”***
+- Re-enter station through airlock on right
+- Wave at Darth Bandon as you run past him
+- Return to surface
 
-**Ahto City:**
-Roland Wann accosts you
-- Finishes “Mission for the Republic”
-Selkath arrest you: 2
-Second trial: 3,1,2
-Nilko Bwaas: 2,1 spam
-- Finishes “Republic Hiring Mercenaries”
-Shaelas: 2,1 spam
-- Finishes “Missing Selkath”
-Talk to Selkath Warden: 3,1 ... 1
-- Finishes “Sunry’s Murder Trial”, “Ignus the Hotel Owner”, “Firith Me the Pazaak Player”, “Elora, Sunry’s Wife”, “Gluupor the Rodian”
-Return to Ebon Hawk, board
-Juhani #7
-Fly to Korriban, no [Map CS Skip](<../Techniques/Map Cutscene Skips>)
+### Ahto City
+- Roland Wann accosts you
+  - ***Finishes “Mission for the Republic”***
+- Selkath arrest you: 2
+- Second trial: 3,1,2
+- Nilko Bwaas: 2,1 spam
+  - ***Finishes “Republic Hiring Mercenaries”***
+- Shaelas: 2,1 spam
+  - ***Finishes “Missing Selkath”***
+- Talk to Selkath Warden: 3,1 ... 1
+  - ***Finishes "Sunry's Murder Trial"***
+  - ***Finishes "Elora, Sunry's Wife***
+  - ***Finishes "Gluupor, the Rodian***
+  - ***Finishes "Firith Me, the Pazaak Player***
+  - ***Finishes "Ignus, the Hotel Owner***
+  - ***Finishes "Sunry's Story***
+- Return to Ebon Hawk and board
+- Juhani #7
+- Fly to Korriban
 
 ## The Leviathan
 
