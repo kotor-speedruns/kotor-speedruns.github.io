@@ -1368,60 +1368,58 @@ SHOPPING: Eli Gand
 
 ## Tatooine 2
 
-**Anchorhead:**
-Jolee #1
-Leave Ebon Hawk
-Enter Anchorhead
-Talk to Sharina
-- Starts and Finishes “Middleman”
-Go to Cantina
-} Add Bastila to the party
-Talk to Helena: 1,2,1,1
-} Remove Bastila from the party
-Enter Dune Sea
+### Anchorhead
+- Jolee #1
+- Leave Ebon Hawk
+  - *Party: Leave empty when prompted*
+- Enter Anchorhead
+- Talk to Sharina
+  - ***Starts and Finishes “Middleman”***
+- Enter the cantina
+- *Party: Add Bastila*
+- Talk to Helena
+  - ***Finishes "Bastila's Mother"***
+- *Party: Remove Bastila*
+- Enter Dune Sea
 
-**Dune Sea:**
-- Heal, cast Burst of Speed and Force Valor
-} Optionally, equip an Energy Shield
-Kill Sand People Warrior for Sand People Outfit
-} Equip Sand People Clothing
-Enter Sand People Territory
-} Use Hyper Stim Suite
-Kill Vorn’s droid, interact with it: 1,4 (-7; 0 Parts)
-Kill Vorn
-} Add HK-47 to the party
-Enter the Sand People Enclave
+### Dune Sea
+- [Save Teleport](<../Techniques/Save Teleporting>) past right side of Sandcrawler
+- *Stims/Force: Hyper Stim Suite on MC, Cast Knight Speed and Knight Valor*
+- Kill Sand People Warrior for Sand People Outfit
+- Enter Sand People Territory
+- *Equip MC: Sand People Outfit*
+- Defeat Vorn’s droid and hack it: 1,4,4 (-7; 0 Parts)
+- After the CS, [Save Teleport](<../Techniques/Save Teleporting>) to Sand People Enclave entrance
+  - You don't actually have to kill Vorn
+- *Party: Add HK-47*
+- Enter the Sand People Enclave
 
-**Sand People Enclave:**
-Guard accosts you: 1,1 ... 1,2,1
-You’re kicked out of the Enclave
-} Equip Jedi Knight Robe to MC, remove HK-47 from party
-Return to Ebon Hawk
-Enter Anchorhead
-Enter Czerka Office
-Talk to Greeta Holda
-Return to the Docking Bay
-} Add Mission and HK-47 to the party, Transit Back
-Speak to Guard: 1
-Sand People Chieftain: 1x11,3
-- Starts and Finishes “Worthy of History”
-Talk to Griff
-Talk to Jawas
-Exit Sand People Enclave
-} Remove HK-47 and Mission from party, Return to Ebon Hawk
-Go to Czerka Office
-Talk to Griff twice
-Return to Ebon Hawk, Transit Back
-Greeta Holda accosts you
-- Finishes “Mission’s Brother”
-Talk to Czerka Protocol Officer
-- Finishes “Sand People”
-Exit to Anchorhead, talk to Iziz
-- Finishes “Fair Trade”
-Return to Ebon Hawk and board
-Jolee #2
-Fly to Manaan, no [Map CS Skip](<../Techniques/Map Cutscene Skips>)
-Possible Fighter Skirmish
+### Sand People Enclave
+- Guard accosts you: 1,1 ... 1,2,1
+- Return to Ebon Hawk
+- Enter Anchorhead and the Czerka Office
+- Talk to Greeta Holda to buy Moisture Vaporators
+- Return to the Docking Bay
+- *Equip MC: Jedi Knight Robe*
+- *Party: Add Mission*
+- Transit Back and talk to Guard: 1
+- Report to Sand People Chieftain: 1x11,3
+  - ***Starts and Finishes “Worthy of History”***
+- Talk to Griff and the Jawas
+- Exit Sand People Enclave
+- *Party: Remove HK-47 and Mission*
+- Return to Ebon Hawk and enter Czerka Office
+- Talk to Griff twice, then QS/QL
+- Greeta Holda accosts you
+  - ***Finishes “Mission’s Brother”***
+- Talk to Czerka Protocol Officer: 1,2,2
+  - ***Finishes “Sand People”***
+- Exit to Anchorhead, [Save Teleport](<../Techniques/Save Teleporting>) to talk to Iziz
+  - ***Finishes “Fair Trade”***
+- Return to Ebon Hawk and board
+- Jolee #2
+- Fly to Manaan
+  - Possible Fighter Skirmish
 
 ## Manaan 2
 
