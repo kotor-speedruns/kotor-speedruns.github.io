@@ -1260,34 +1260,35 @@ SHOPPING: Selkath Merchant
 
 ## Kashyyyk
 
-**Landing Port:**
-Janos Wertka accosts you
-Talk to Eli Gand
-- Starts “Honest Debt”
----------------------------------------------------------
-*SHOPPING: Eli Gand*
-**BUY:**
-- ~20-25x Advanced Medpac
-*These Medpacs should last you to the end of the run*
-*You'll have the chance to buy more later if you run low or want to be cautious*
----------------------------------------------------------
-¤ Force Buffer Czerka Guard
-} Add T3 to party, enter Great Walkway
+### Great Walkway
+- Janos Wertka accosts you
+- Talk to Eli Gand
+  - ***Starts “Honest Debt”***
 
-**Great Walkway:**
-¤ [Save Teleport](<../Techniques/Save Teleporting>) past the Wookiee Guard that blocks you from the Shadowlands elevator
-¤ Use T3 to [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC to Shadowlands elevator
-Use elevator
-- The Autosave that happens here is a good place to reset for memory leaks
+```
+SHOPPING: Eli Gand
+- BUY:
+  - ~20-25x Advanced Medpac
+  - These Medpacs should last you to the end of the run
+  - You'll have the chance to buy more later if you run low or want to be cautious
+```
 
-**Upper Shadowlands:**
-¤ [Save Teleport](<../Techniques/Save Teleporting>) to skip Katarn spawn
-- If they spawn, kill them
-Watch Jolee kill katarns
-Go to the intersection
-Activate Solo Mode
-Position T3 next to Jolee’s house
-With MC
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) Czerka Guard conversation
+- *Party: Add T3*
+- Enter Great Walkway
+- Activate Solo Mode to leave T3 at the Landing Port entrance
+- As MC, [Save Teleport](<../Techniques/Save Teleporting>) past the Wookiee Guard that blocks you from the Shadowlands elevator
+- Swap to T3 and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) MC to Shadowlands elevator
+- As MC, enter the elevator
+  - The Autosave that happens here is a good place to reset for memory leaks
+
+### Upper Shadowlands
+- [Save Teleport](<../Techniques/Save Teleporting>) to skip Katarn spawn
+- Watch Jolee kill katarns
+- Go to the intersection
+- Activate Solo Mode
+- As T3, [Save Teleport](<../Techniques/Save Teleporting>) next to Jolee’s house
+- With MC
 - Loot Wookiee Corpse for bolt casing
 -- Starts “A Wookiee Lost”
 - Czerka Captain: 1,1,1,1,2
