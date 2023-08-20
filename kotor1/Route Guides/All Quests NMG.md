@@ -1423,28 +1423,31 @@ SHOPPING: Eli Gand
 
 ## Manaan 2
 
+*Note: your saves are getting so big by this point that it may be extremely difficult to buffer anything from now on, but turning V-Sync Off makes it much easier. Due to the time required to toggle V-Sync off and on again, many cutscenes that can be buffered will be easier/faster to just mash through, but longer ones will be worth toggling for.*
+
 **Sith Base:**
-Jolee #3: 1,1,3
-- Finishes “Jolee Bindo”
-Leave Ebon Hawk and add Jolee to your party
-Vek accosts you: 1,1,2
-Speak to Ithorak: 1
-Kill Ithorak
-Enter Sith Hangar
-¤ [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) a Selkath announcement as you enter
-Take shuttle to Sith Base
-Go through first door on right
-¤ [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the secretary CS
-- *Note: your saves are getting so big by this point that it may be extremely difficult to buffer anything from now on, but turning V-Sync Off makes it much easier. Due to the time required to toggle V-Sync off and on again, many cutscenes that can be buffered will be easier/faster to just mash through, but longer ones will be worth toggling for.*
-Activate Solo Mode
-With Jolee, open the door in front of the desk
-With MC
-- Go through the door behind the secretary, open first door on the left, then open first door on left
-- QS as you can be stunned in the next room
-- Open door and loot Data Module from broken droid
-- Run left in the hallway and continue straight
-- When you reach a room with windows, turn right and open door
-- Make sure MC is at full health in front of the steam hallway
+
+  
+- Leave Ebon Hawk
+  - *Party: Add Jolee when prompted*
+- Jolee #3: 1,1,3
+  - ***Finishes “Jolee Bindo”***
+- Vek accosts you
+- *Force: Cast Knight Speed and Valor*
+- Speak to and Kill Ithorak: 1
+- Enter Sith Hangar
+  - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) a Selkath announcement as you enter
+- Take shuttle to Sith Base
+- Go through first door on right
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the secretary CS
+- Activate Solo Mode
+- As Jolee, open the door in front of the desk
+- As MC:
+  - Go through the door behind the secretary, open first door on the left, then open first door on left
+  - Open door and loot Data Module from broken droid
+  - Run left in the hallway and continue straight
+  - When you reach a room with windows, turn right and open door
+  - Make sure MC is at full health in front of the steam hallway
 ¤ [Save Teleport](<../Techniques/Save Teleporting>) to the end of the hall
 - Open door, interact with Computer Terminal: 1,2,2,4,scroll down and click (-4; 7 Spikes)
 ¤ With Jolee, [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC back to lobby
