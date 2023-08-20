@@ -1544,85 +1544,95 @@ SHOPPING: Eli Gand
 
 ## The Leviathan
 
-**Detention Block:**
-Carth's old mentor CS
-Talk to the crew: 1,1,1,2
-- Starts “Captured by the Leviathan”
-Mash through being tortured
-¤ [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) at the end of the CS with Mission
-- As CS fades out on Carth, there is a window between when this CS ends and the next with Mission begins
-- During this window, mash QS and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>)
-- If the cutscene initiates but you got a QS in, kill the game process in Task Manager or Alt-F4 and load the QS
-- If you didn’t get a QS, mash the cutscene
-Turn left to the end of the hall
-Loot the Footlocker in this room for keycard
-¤ [Save Teleport](<../Techniques/Save Teleporting>) or [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) a Sith Heavy Trooper spawn in the main hallway
-Go to Detention Cells, interact with Computer Terminal
-Open locker on the right to get your gearAuto-Level Carth and Bastila
-} Equip MC with Double Bladed Lightsaber, CNS Strength Enhancer, Jedi Knight Robe, GenoHaradan Power Gloves, Breath Mask, Nerve Enhancement Package
-¤ [Save Teleport](<../Techniques/Save Teleporting>) or [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the Sith Heavy Trooper spawn and a Canderous CS
-Enter Elevator: 2
+### Detention Block
+- Carth's old mentor CS
+- Talk to the crew: 1,1,1,2
+  - ***Starts “Captured by the Leviathan”***
+- Mash through being tortured
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) at the end of the CS with Mission
+  - As CS fades out on Carth, there is a window between when this CS ends and the next with Mission begins
+  - During this window, mash QS and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>)
+  - If the cutscene initiates but you got a QS in, kill the game process in Task Manager or Alt-F4 and load the QS
+  - If you didn’t get a QS, mash the cutscene
+- As Mission:
+  - Turn left to the end of the hall and take door on left
+  - Loot the Footlocker in this room for keycard
+  - [Save Teleport](<../Techniques/Save Teleporting>) to Detention Cells
+  - Use the terminal to free your party
+- As MC again, loot righthand locker for your inventory
+- *Equip MC:*
+  - *Nerve Enhancement Package*
+  - *Breath Mask*
+  - *GenoHaradan Power Gloves*
+  - *Jedi Knight Robe*
+  - *CNS Strength Enhancer*
+  - *Double-bladed Lightsaber*
+- `Auto-Level Carth and Bastila`
+- [Save Teleport](<../Techniques/Save Teleporting>) past a Canderous CS
+- Take the elevator to the command deck: 2
+
+**Command Deck:**
 
 *In the bridge section, you have to keep Carth and Bastila close to you in order to leave through the Bridge Storage door. Do your best to make sure they don't wander off, as that can and will lose you a lot of time. You can choose to manually save and reload that save; this sometimes helps.*
 
-**Command Deck:**
-Turn right, then left, killing Sith Troopers as needed to make Carth and Bastila follow you
-Open second door on left
-Bash open Armory door on far side of this room
-Loot the Space Suit on the far side of the Armory
-Safety save in the first room before opening door
-Open door on the far side of the hall and run through, bash open the door, and go through
-- If anyone is stunned or debuffed, QL to avoid Duration Glitched negative status effects
-Open the Inner Airlock Door
-Interact with the next door and immediately QS/QL for spacewalk skip
-Once on the other side
-- Cast Knight Speed
-- Cast Burst of Speed on Bastila
-- Carth uses Hyper Adrenal Alacrity
+- Turn right, then left, killing Sith Troopers as needed to make Carth and Bastila follow you
+- Open second door on left
+- Bash open Armory door on far side of this room
+- Loot the Space Suit on the far side of the Armory
+- Safety save in the first room before opening door
+- Open door on the far side of the hall and run through, bash open the door, and go through
+  - If MC gets stunned or debuffed, QL to avoid Duration Glitched negative status effects
+- Open the Inner Airlock Door
+- Spacewalk Skip:
+  - Move so that the outer airlock door is targeted
+  - Click to open and immediately QS once
+  - QL and you should spawn with the airlock open and no Space Suit
+- Reach the far airlock
+- *Force: Cast Knight Speed, Cast Burst of Speed with Bastila, Hyper Alacrity on Carth*
 - Activate Solo Mode
-Have Carth and Bastila go through the door on the right
-- Tuck them in the corner to attempt to deaggro them
-- The goal is to have them stay close enough to the exit while you do Saul Karath skip
-Swap back to MC and run up to bridge door
-¤ Saul Karath skip
-- Before attempting, you may want to make a hard save for safety; you can softlock here.
-- This trick is a save buffer, but the timing is quite precise
-¤ Open Bridge Door and QS twice
-- Load immediately
-- If the trick works, the bridge door will be open, the fight will not start, and Bastila and Carth will be in your party.
-- If Bastila and Carth are not in your party, you've softlocked.
-- If your last QS was too late, your game will crash when you load.
-Once successful, hack bridge terminal: 1,2
-¤ [Save Teleport](<../Techniques/Save Teleporting>) to the exit
-- Bastila and Carth may be dead; if they’re still on the farther half of the room that’s fine
-- If they died closer to the bridge, you’ll have ot kill the five soldiers
-} Medpac everyone as need in the Command Deck
-Kill the Sith Soldier nearby to the left
-QS/QL to get party to follow
-Take left path and loop around outside back to elevator
-- If you are quick, it's possible to skip killing the two guards right outside the elevator
-- If either Carth or Bastila aggros on them, you'll likely have to kill them
-- Or you can use Solo Mode and [Save Teleports](<../Techniques/Save Teleporting>) to try to get everyone into the elevator
-Take the elevator to the Hangar: 3
+- Have Carth and Bastila go through the door on the right
+  - Tuck them in the corner to attempt to deaggro them
+  - The goal is to have them stay close enough to the exit while you do Saul Karath skip
+- Swap back to MC and run up to bridge door
+- Saul Karath Skip
+  - Before attempting, you may want to make a hard save for safety; you can softlock here.
+  - This trick is a save buffer, but the timing is quite precise
+  - Open Bridge Door and QS twice
+  - Load immediately
+  - If the trick works, the bridge door will be open, the fight will not start, and Bastila and Carth will be in your party.
+  - If Bastila and Carth are not in your party, you've softlocked.
+  - If your last QS was too late, your game will crash when you load.
+- Once successful, hack bridge terminal: 1,2
+- [Save Teleport](<../Techniques/Save Teleporting>) to the exit
+  - Bastila and Carth may be dead; if they’re still on the farther half of the room that’s fine
+  - If they died closer to the bridge, you’ll have to kill the five soldiers
+- *Heal: Medpac party as needed*
+- *Force: Cast Knight Speed with MC*
+- Kill the Sith Soldier nearby to the left
+- QS/QL to get party to follow
+- Take left path and loop around outside back to elevator
+  - If you are quick, it's possible to skip killing the two guards right outside the elevator
+  - If either Carth or Bastila aggros on them, you'll likely have to kill them
+  - Or you can use Solo Mode and [Save Teleports](<../Techniques/Save Teleporting>) to try to get everyone into the elevator
+- Take the elevator to the Hangar: 3
 
-**Hangar:**
-Activate Solo Mode
-Move straight through to the Darth Malak CS
-} Cast Knight Speed, Force Valor, and use Hyper Stim Suite before CS
-Darth Malak accosts you
-Plot twist!
-Darth Malak accosts you again: 1,1,1,1,2,1,4,1
-Darth Malak fight, part one
-After being Whirlwinded:
-- Recast Knight Speed and Force Valor
-Darth Malak fight, part two
-Bastila sacrifices herself, sort of
-- Finishes “Captured by the Leviathan”
-Leave with Carth through blast doors on left
-Fighter Skirmish
-Talk to the party on the ship
-- Starts and Finishes “HK-47”
-Sleeping CS
+### Hangar
+- Activate Solo Mode
+- Move straight through to the Darth Malak CS
+- *Stims/Force: Hyper Stim Suite on MC, Cast Knight Speed and Knight Valor*
+- Darth Malak accosts you
+- Plot twist!
+- Darth Malak accosts you again: 1,1,1,1,2,1,4,1
+- Darth Malak fight, part one
+- *Force: Recast Knight Speed and Force Valor*
+- Darth Malak fight, part two
+- Bastila sacrifices herself, sort of
+  - ***Finishes “Captured by the Leviathan”***
+- Leave with Carth through blast doors on left
+- Shoot down the forced Fighter Skirmish
+- Talk to the party on the ship
+  - ***Starts and Finishes “HK-47”***
+- Vision CS
 
 ## Korriban
 
