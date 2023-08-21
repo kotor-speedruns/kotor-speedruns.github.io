@@ -1,16 +1,15 @@
-[center][big]***The Dev Character
-----------------------------***[/big][/center]
+# The Dev Character
+
 
 ***STEAM/ASPYR ONLY***
 
-[section=Description]
-In KotOR 1 and the legacy versions of KotOR 2, there is no error handling for loading a save where there is no module present for the destination module. For whatever reason, the steam/aspyr build does handle this scenario. Whenever you attempt to load into a module that does not exist on the save, this version will happily generate that module, and along with it a new Main Character: The Dev Character.
+In KotOR 1 and the legacy versions of KotOR 2, there is no error handling for loading a save where there is no module present for the destination module. For whatever reason, the Steam/Aspyr build does handle this scenario. Whenever you attempt to load into a module that does not exist on the save, this version will happily generate that module, and along with it a new Main Character: The Dev Character.
 
-[section=How To]
+## How To Preform
 There are two ways the dev character can be obtained:
 
 **Saving in a module with the include-in-save flag set to false**
-This occurs when by various innocuous means (i.e. [AMG](rnx0w)) you mange to gain control in a module that does get included in the save. Such as the swoop minigames, or a turret section. By saving in there and then forcing the game to load such a save, the dev character will be acquired, because the game is loading a module with no data.
+This occurs when by various innocuous means (i.e. an [Anywhere Menu Glitch](rnx0w)) you mange to gain control in a module that does get included in the save. Such as the swoop minigames, or a turret section. By saving in there and then forcing the game to load such a save, the dev character will be acquired, because the game is loading a module with no data.
 An example of this process using Telos Swoops (Courtesy of 30cents):
 https://www.youtube.com/watch?v=raw-Y2hrWIE
 
