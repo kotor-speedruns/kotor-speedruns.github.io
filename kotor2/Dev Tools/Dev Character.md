@@ -7,6 +7,7 @@
 
 ## Description
 ***STEAM/ASPYR ONLY***
+
 In KotOR 1 and the legacy versions of KotOR 2, there is no error handling for loading a save where there is no module present for the destination module. For whatever reason, the Steam/Aspyr build does handle this scenario. Whenever you attempt to load into a module that does not exist on the save, this version will happily generate that module, and along with it a new Main Character: The Dev Character.
 
 ## How To
