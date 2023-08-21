@@ -90,7 +90,7 @@ For skills, we will use Computer Use to help save on spikes throughout the run, 
 
 ### Leveling Plan
 
-![A chart showing what Feats, Powers, and Skills to take at each level](https://i.imgur.com/zkfxxkl.png)
+![A chart showing what Feats, Powers, and Skills to take at each level](/assets/images/imgur-dump/zkfxxkl.png)
 
 Our main plan is to combine Master Speed with Master Flurry and a double-bladed lightsaber for five attacks per round in the late game.  Master Two-Weapon Fighting, Weapon Focus: Lightsaber, stims and lightsaber crystals give us enough attack that we can reliably hit even with the attack penalties.
 
@@ -188,12 +188,12 @@ Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher n
 
 Here's the full list of alignment shifts that happen during the run; there are 46 total shifts, of which 27 are dark and 19 are light:
 
-![A table showing alignment shifts for the first half of the run](https://i.imgur.com/xufZ2IT.png)
-![A table showing alignment shifts for the second half of the run](https://i.imgur.com/fQRl5Sf.png)
+![A table showing alignment shifts for the first half of the run](/assets/images/imgur-dump/xufZ2IT.png)
+![A table showing alignment shifts for the second half of the run](/assets/images/imgur-dump/fQRl5Sf.png)
 
 If you're more of a visual learner, you can see the overall alignment in chart form here:
 
-![A line chart showing overall alignment throughout the run](https://i.imgur.com/1M41pKo.png)
+![A line chart showing overall alignment throughout the run](/assets/images/imgur-dump/1M41pKo.png)
 
 The alignment route is quite lenient, since we no longer try to equip the Solari crystal until after Lehon, when we get a massive infusion of light side points when we choose to renounce our former identity.
 
@@ -1844,7 +1844,7 @@ SHOPPING: Czerka Store
 - Run/Force Jump to temple basement in back
 - *Force: Cast Knight Valor while entering*
 - Kill both guard droids in basement
-- Solve floor puzzle with the following path ([an H shape](http://i.imgur.com/CF497Fm.png), starting from the reset tile)
+- Solve floor puzzle with the following path ([an H shape](/assets/images/imgur-dump/CF497Fm.png), starting from the reset tile)
 - Speak to basement computer: 1,1,1,2,1,2
   - Note this is a subtly different conversation than Any% runs!
 - Return to Main Floor and activate Solo Mode

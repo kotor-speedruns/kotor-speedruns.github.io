@@ -1,3 +1,13 @@
+{% assign dirs = page.url | split: "/"%}
+{% assign game = dirs[1] %}
+
+{% assign p_title = page.name | split: "." | first %}
+{% if p_title == "index" %}
+    {% assign p_title = "" %}
+{% else %}
+    {% assign p_title = p_title | prepend: " | " %}
+{% endif %}
+
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
@@ -5,11 +15,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {%- seo -%}
-    {% assign dirs = page.url | split: "/"%}
-    {% if dirs[1] == "kotor1"%}
+    <title>KotOR Speedrun Guides{{ p_title }}</title>
+    {% if game == "kotor1" %}
     <link rel="stylesheet" href="{{ "/assets/css/kotor1.css" | relative_url }}">
-    {% elsif dirs[1] == "kotor2"%}
+    {% elsif game == "kotor2" %}
     <link rel="stylesheet" href="{{ "/assets/css/kotor2.css" | relative_url }}">
     {% else %}
     <link rel="stylesheet" href="{{ "/assets/css/kotor0.css" | relative_url }}">
@@ -20,12 +29,49 @@
 
 <body>
     <div class="navbar">
-        <!-- <p><a href="/"><img src="{{ "/assets/images/logo_temp.png" | relative_url }}" alt="KotOR Speedrun Guides Homepage"></a></p> -->
-        <a href="/"><p>KSR</p></a>
+        <div class="navbar_section">
+            <a href="/">
+                <p>KSR</p>
+            </a>
+        </div><div class="navbar_section" style="text-align: right;">
+            {% assign file = page.url | split: "/" | compact | last %}
+            {% if page.url == "/"%}
+            <a href="https://github.com/kotor-speedruns/kotor-speedruns.github.io">
+                <img class="svg" src="{{ "/assets/images/github.svg" | relative_url }}">
+            </a>
+            {% else %}
+            <a href="https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/{{ page.path }}">
+                <img class="svg" src="{{ "/assets/images/github.svg" | relative_url }}">
+            </a>
+            {% endif %}
+            {% if game == "kotor1" %}
+            <a href="https://www.speedrun.com/kotor1">
+                <img class="svg" src="{{ "/assets/images/SRC.svg" | relative_url }}">
+            </a>
+            {% elsif game == "kotor2" %}
+            <a href="https://www.speedrun.com/kotor2">
+                <img class="svg" src="{{ "/assets/images/SRC.svg" | relative_url }}">
+            </a>
+            {% else %}
+            <a href="https://www.speedrun.com/series/kotor">
+                <img class="svg" src="{{ "/assets/images/SRC.svg" | relative_url }}">
+            </a>
+            {% endif %}
+            <a href="http://discord.gg/Q2uPRVu">
+                <img class="svg" src="{{ "/assets/images/discord.svg" | relative_url }}">
+            </a>
+        </div>
     </div>
     <div class="container-lg px-3 my-5 markdown-body">
         {{ content }}
     </div>
+    <!-- <div class="footer">
+        <ul>
+            <li><a href="http://discord.gg/Q2uPRVu">KotOR Discord</a></li>
+            <li><a href="https://www.speedrun.com/">KotOR Speedrun.com</a></li>
+            <li><a href="/about/">About</a></li>
+        </ul>
+    </div> -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>
         anchors.add();

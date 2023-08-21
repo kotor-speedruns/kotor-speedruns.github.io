@@ -499,7 +499,7 @@ SHOPPING: Zelka Forn
 - [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Bastila to the Great Walkway
   - Place Bastila behind the southernmost Czerka guard next to the Great Walkway exit
 
-![Image showing Bastila's position for the Coordinate Warp](https://i.imgur.com/BfgfArb.png)
+![Image showing Bastila's position for the Coordinate Warp](/assets/images/imgur-dump/BfgfArb.png)
 
   - This will spawn Bastila slightly more than halfway to the Shadowlands elevator
 - Swap to MC and [GP Warp](<../Techniques/GP Warp>) to warp Bastila to the Shadowlands elevator

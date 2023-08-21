@@ -100,24 +100,101 @@ table, th, td {
     top:0;
     width: 100%;
     z-index:100;
+    margin-left: 0;
+    margin-right: 0;
+    height: 50px;
 }
 
-.navbar img {
-    max-height: 100%!important;
-    position: absolute!important;
+
+.navbar_section embed, .navbar_section img {
+    max-height: 85%!important;
+    max-width: 55px!important;
+    padding: 5px;
 }
 
-.navbar p {
-    font-size: 2.5vmax;
+.navbar_section p {
     font-family: monospace;
     font-style: italic;
     font-weight: bolder;
-    padding-top: 0px;
+    padding-left: 1vmax;
+    padding-right: 1vmax;
     margin-top: 0px;
     margin-bottom: 0px;
     color: var(--kotor-selected);
+    margin-left: 0;
+    margin-right: 0;
+    display: inline;
+    position: fixed;
+    font-size: 36px;
 }
 
 .navbar a:hover {
     text-decoration: none;
+}
+
+.navbar_section {
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+}
+
+@media screen and (max-width: 290px) { // For all you galaxy fold users
+    .navbar_section embed, .navbar_section img {
+        max-width: 40px!important;
+    }
+}
+
+@media screen and (max-width: 260px) { // For werid tiny screens
+    .navbar_section embed, .navbar_section img {
+        max-width: 15vw!important;
+    }
+    .navbar, .navbar p {
+        position: absolute;
+    }
+}
+
+@media screen and (max-height: 300px) { //The the navbar covers more than a 6th of the page
+    .navbar, .navbar p {
+        position: absolute;
+    }
+}
+
+.footer {
+    background-color: black;
+    border-top: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-color: var(--kotor-fg-dark);
+    border-style: solid;
+    width: 100%;
+}
+
+.footer li {
+    display: inline;
+    padding-left: 3vw;
+    padding-right: 3vw;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
+}
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.med {
+    max-height: 50vh;
 }

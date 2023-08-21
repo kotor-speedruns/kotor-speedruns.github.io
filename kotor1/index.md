@@ -58,6 +58,6 @@ Here's some useful external links that can be helpful for KotOR I speedrunning.
 
 ## Contribute
 
-This guide repository is community owned and maintained.  If you would like to contribute a guide, make a correction to an existing guide, or help edit this repository, feel free to make a pull request.  Each guide has (or will have) a convenient link at the bottom that leads to the source file for ease of access.
+This guide repository is community owned and maintained.  If you would like to contribute a guide, make a correction to an existing guide, or help edit this repository, feel free to make a pull request.  Each guide has a convenient link at the top that leads to the source file for ease of access.
 
 Contact [Lane](https://www.speedrun.com/users/Lane), [indykenobi](https://www.speedrun.com/users/indykenobi), or another moderator on the KotOR Speedrun Discord if you have any questions.

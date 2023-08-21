@@ -1,17 +1,4 @@
-<style>
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
-  height: 0;
-}
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
+
 
 # Displaced Load Zone
 
@@ -129,7 +116,7 @@ Each section below will include the modules the DLZ goes from and to, location(s
 This is the preferred location for this DLZ, as it can be done without recruiting Trask.  However, it is less consistent than the Doorframe location below.
 
 **Visual Cues:**  
-![Rubble Visual Cues](https://i.imgur.com/xp3PEKU.png)  
+![Rubble Visual Cues](/assets/images/imgur-dump/xp3PEKU.png)  
 
 *Male:* Inside of right leg even with right side of fourth black oval from right  
 *Female:* Outside of right leg even with small black line to right of fourth black oval  
@@ -149,7 +136,7 @@ This location for the DLZ is extremely consistent, to the point where disabling 
 This location is at the end of the first hall to the right, near the feet of a Republic soldier's corpse.  While this is technically closer than the rubble location, the visual cues are much worse, and thus this location is not preferred.
 
 **Visual Cues:**  
-![Republic Corpse Visual Cues](https://i.imgur.com/Y5kq8K2.png)  
+![Republic Corpse Visual Cues](/assets/images/imgur-dump/Y5kq8K2.png)  
 *Male:* Right leg centered on corpse's heel  
 *Female:* Right ankle even with left edge of orange patch on corpse leg  
 **Video Clip:**  
