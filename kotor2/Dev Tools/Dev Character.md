@@ -16,7 +16,7 @@ This occurs when by various innocuous means (i.e. an [Anywhere Menu Glitch](../M
 This occurs when performing the [Hotshot](../Major%20Glitches/Hotshot) glitch to a destination that either hasn't yet been explored by the original save or was deleted from the original save. This could be done in it's most simple form by saving outside of a module that you will be going to for the first time, entering this new module, and then [hotshotting](../Major%20Glitches/Hotshot) to this destination (As shown in the below video). This could also be done by saving in a location that will be deleted (such as the damaged Ebon Hawk) and then [hotshotting](../Major%20Glitches/Hotshot))back their later in the game.
 [Example(Courtesy of 30cents)](https://www.youtube.com/watch?v=TkfQiiSWClE&feature=emb_imp_woyt)
 
-[section=Benefits]
+## Benefits
 - **Killblaster:** The Dev Character comes equipped with a blaster that instantly kills any enemy provided they hit them. (NOTE: there is a 5% chance of missing, due to critical fails)
 - **Lightsaber:** The Dev Character is equipped with a lightsaber which is useful for efficiently bashing doors/containers and performing force-jumps
 - **Force Power Suite:** The Dev Character possesses a suite of force powers including, but not limited to, Force speed, Revitalize, Force Storm, Force Jump, a variety of Buffs, and heal
