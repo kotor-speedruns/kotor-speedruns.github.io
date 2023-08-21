@@ -1,6 +1,6 @@
 # KotOR II Speedrun Guides
 
-Welcome to the KotOR II Speedrunning Guides landing page. This page is temporary, and will be updated to something much cooler in the future...
+Welcome to the KotOR II Speedrunning Guides landing page. This wiki is currently still being updated
 
 - [New to KotOR Speedrunning?](#new-to-kotor-speedrunning)
 - [Route Guides](#route-guides)
