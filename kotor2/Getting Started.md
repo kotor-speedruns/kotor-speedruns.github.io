@@ -42,9 +42,9 @@ The different pages have links to the other relevant pages; so if you're just lo
 **Q:** What category and ruleset should I learn first?
 
 
-**A:** The easiest category to start with would be Any% under either the Glitchless or All Planets rulesets.  Any% Glitchless is easy to pick up and provides good menuing practice, but doesn't introduce any of the tricks that are staples of KotOR speedrunning.  All Planets is a good category for beginners, as it uses Save Buffers and other common glitches, but the harder/more complicated tricks such as Hotshots, DLZs and the Routine are banned.  Any% is the preferred starting category versus All Quests because it's significantly more straightforward (and shorter).
+**A:** The easiest category to start with would be Any% under either the Glitchless or All Planets rulesets.  Any% Glitchless is easy to pick up and provides good menuing practice, but doesn't introduce any of the tricks that are staples of KotOR speedrunning.  All Planets is a good category for beginners, as it uses Hotshots and other common glitches.  Any% is generally an easier category to learn versus Max Quests because it's significantly more straightforward and much shorter.
 
-**Q:** What is this about In-Game Time?
+**Q:** What is In-Game Time?
 
 
 **A:** Because different computers have different hardware, load times for many PC games varies from system to system.  In order to remove this complication, we remove load times from the timing for KotOR speedruns.  This is achieved through a load-removal tool in Livesplit, thanks to glasnonck.  For any runs except races, In-Game Time (IGT) is what matters.
@@ -52,12 +52,13 @@ The different pages have links to the other relevant pages; so if you're just lo
 **Q:** How long is this speedrun?
 
 
-**A:** This depends on the category you choose to run.  The approximate "good" times for the most common speedruns are:
+**A:** This depends on the category you choose to run. The approximate "good" times(as of date of writing) for the most common speedruns are:
 
 - Any% Unrestricted: ~0:25 IGT, ~0:30 RTA
-- Any% All Planets: ~1:20 IGT, ~1:32 RTA
-- Any% Glitchless: ~2:00 IGT, ~2:05 RTA 
-- All Quests Unrestricted: ~1:45 IGT, ~2:05 RTA
+- Any% Glitchless: ~2:20 IGT, ~2:25 RTA
+- Any% No Dev Tools: ~1:00 IGT, ~1:05 RTA
+- All Planets Unrestricted: ~1:05 IGT, ~1:25 RTA
+- Max Quests Unrestricted: ~1:45 IGT, ~2:05 RTA
 There are also Individual Level runs (such as Swoop Racing or Pazaak) which range from a handful of seconds to a few minutes.
 
 **Q:** What should I focus on to improve my time most quickly?
@@ -134,7 +135,7 @@ Depending on your setup, you may wish to run KotOR in Windowed Mode.  In order t
 
 In both cases, omit the quotes and be sure to capitalize correctly.  This should cause the game to open in a window the next time you run it. Sometimes you may need to press "ALT+Enter" to force the game to switch views after this setting is in place.
 
-## Other Common KotOR Issues
+## Other Common Issues
 
 ### Stuck After Combat
 
