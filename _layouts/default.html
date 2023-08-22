@@ -31,34 +31,34 @@
     <div class="navbar">
         <div class="navbar_section">
             <a href="/">
-                <p  title="Home">KSR</p>
+                <p title="Home">KSR</p>
             </a>
         </div><div class="navbar_section" style="text-align: right;">
             {% assign file = page.url | split: "/" | compact | last %}
             {% if page.url == "/"%}
             <a href="https://github.com/kotor-speedruns/kotor-speedruns.github.io">
-                <img class="svg" src="{{ "/assets/images/github.svg" | relative_url }}" title="Contribute">
+                <img class="svg" src="{{ "/assets/images/github.svg" | relative_url }}" title="Contribute" alt="Github Page">
             </a>
             {% else %}
             <a href="https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/{{ page.path }}">
-                <img class="svg" src="{{ "/assets/images/github.svg" | relative_url }}" title="Contribute">
+                <img class="svg" src="{{ "/assets/images/github.svg" | relative_url }}" title="Contribute" alt="Github Page">
             </a>
             {% endif %}
             {% if game == "kotor1" %}
             <a href="https://www.speedrun.com/kotor1">
-                <img class="svg" src="{{ "/assets/images/SRC.svg" | relative_url }}" title="Leaderboards">
+                <img class="svg" src="{{ "/assets/images/SRC.svg" | relative_url }}" title="Leaderboards" alt="Kotor 1 Leaderboards">
             </a>
             {% elsif game == "kotor2" %}
             <a href="https://www.speedrun.com/kotor2">
-                <img class="svg" src="{{ "/assets/images/SRC.svg" | relative_url }}" title="Leaderboards">
+                <img class="svg" src="{{ "/assets/images/SRC.svg" | relative_url }}" title="Leaderboards" alt="Kotor 2 Leaderboards">
             </a>
             {% else %}
             <a href="https://www.speedrun.com/series/kotor">
-                <img class="svg" src="{{ "/assets/images/SRC.svg" | relative_url }}" title="Leaderboards">
+                <img class="svg" src="{{ "/assets/images/SRC.svg" | relative_url }}" title="Leaderboards" alt="Kotor Series Leaderboards">
             </a>
             {% endif %}
             <a href="http://discord.gg/Q2uPRVu">
-                <img class="svg" src="{{ "/assets/images/discord.svg" | relative_url }}" title="Discord">
+                <img class="svg" src="{{ "/assets/images/discord.svg" | relative_url }}" title="Discord" alt="Join our Discord Server!">
             </a>
         </div>
     </div>
