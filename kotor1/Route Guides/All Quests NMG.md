@@ -218,7 +218,50 @@ Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher n
 
 Here's the full list of alignment actions that happen during the run; there are 46 total shifts, of which exactly 27 are dark and 16 are light:
 
-![A table showing alignment shifts for the run](https://i.imgur.com/5bM09nI.png)
+| Aligned | Action | Type | Delta | New |
+|---|---|---|---|---|
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Threaten Dia about Holdan | Low Dark | -2 | 48 |
+| Neutral | Kill Dia | Low Dark | -2 | 46 |
+| Neutral | Kill Largo | Low Dark | -2 | 44 |
+| Neutral | Kill the Infected Outcasts | Low Dark | -2 | 42 |
+| Neutral | Give Rukil the Promised Land journals | High Light | +6 | 48 |
+| Neutral | Agree to a death match with Bendak Starkiller | Low Dark | -2 | 46 |
+| Neutral | Threaten Ajuur for more credits | Low Dark | -2 | 44 |
+| Neutral | Threaten Janice Nall for T3 | Low Dark | -4 | 40 |
+| Neutral | Sell the Rakghoul Serum to Zax | Low Dark | -2 | 38 |
+| Dark | Threaten Yuka Laka for HK-47 | Low Dark | -1 | 37 |
+| Dark | Kill Tanis | Mid Dark | -2 | 35 |
+| Dark | Kill Komad Fortuna | Low Dark | -1 | 34 |
+| Dark | Order Sasha off your ship | Mid Dark | -2 | 32 |
+| Dark | Lie to Nubassa about the gizka | Low Dark | -1 | 31 |
+| Dark | Kill Lorgal via the console | Low Dark | -1 | 30 |
+| Dark | Loan Queedle money for his swoop bike | Mid Light | +6 | 36 |
+| Dark | Try to refuse Queedle's return of the loan | Low Light | +4 | 40 |
+| Neutral | Give Casus's journal to Nurik for free | Low Light | +2 | 42 |
+| Neutral | Refuse reward from Shen and Rahasia | Low Light | +2 | 44 |
+| Neutral | Kill Zuulan | Low Dark | -2 | 42 |
+| Neutral | Kill Rulan | Low Dark | -2 | 40 |
+| Neutral | Kill Freyyr | High Dark | -6 | 34 |
+| Dark | | Low Dark | -1 | 33 |
+| Dark | Kashyyyk Star Map Quiz | Low Light | +4 | 37 |
+| Dark | | Low Dark | -1 | 36 |
+| Dark | Report Freyyr's death to Chuundar | High Dark | -4 | 32 |
+| Dark | Tell Matton not to kill Eli | High Light | +8 | 40 |
+| Neutral | Buy Sharina's wraid plate for half price | Low Dark | -2 | 38 |
+| Dark | Kill Vorn | Low Dark | -1 | 37 |
+| Dark | Kill Ithorak | Low Dark | -1 | 36 |
+| Dark | Persuade Yuthura to let you join the Sith Academy | Low Dark | -1 | 35 |
+| Dark | Persuade Kel Algwinn to return to the Jedi | Hardcoded | +3 | 38 |
+| Dark | Use serum on the Mandalorian prisoner | Hardcoded | -3 | 35 |
+| Dark | Use serum on the Mandalorian prisoner again | Hardcoded | -3 | 32 |
+| Dark | Give Dustil evidence of Uthar's betrayal | High Light | +8 | 40 |
+| Neutral | Disable assassination protocol in rogue droid | Mid Light | +4 | 44 |
+| Neutral | Give dark answers during Jorak Uln's quiz | Mid Dark | -4 | 40 |
+| Neutral | Spare Yuthura Ban | Mid Light | +4 | 44 |
+| Neutral | | Low Light | +2 | 46 |
+| Neutral | Remain true to the Light Side on Lehon | High Light | +6 | 52 |
+| Neutral | | Highest Light | +10 | 62 |
 
 The alignment route is quite lenient, since we no longer try to equip the Solari crystal until after Lehon, when we get a massive infusion of light side points when we choose to renounce our former identity.
 
