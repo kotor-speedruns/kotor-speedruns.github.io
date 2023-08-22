@@ -51,7 +51,7 @@ a:hover, a:active {
 
 table, th, td {
     text-align: center;
-    background-color: var(--kotor-bg);
+    //background-color: var(--kotor-bg);
     color: var(--kotor-fg-light);
     border-color: var(--kotor-fg-dark)!important;
 }
@@ -173,3 +173,12 @@ img.med {
 .markdown-body table {
     display: ruby block;
 }
+
+// tr {
+//     background-color: var(--kotor-bg-alt)!important
+// }
+
+// tr:nth-child(odd) {
+//     background-color: var(--kotor-bg)!important;
+// }
+
