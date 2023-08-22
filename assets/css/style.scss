@@ -198,3 +198,7 @@ table, th, td {
 img.med {
     max-height: 50vh;
 }
+
+.markdown-body table {
+    display: ruby block;
+}
