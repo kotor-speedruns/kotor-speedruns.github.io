@@ -68,7 +68,7 @@ We choose 'Weapon Focus: Melee Weapons' for the attack boost before getting our 
 
 [section=Levelling Plan]
 
-https://i.imgur.com/kF0vnG7.png
+/assets/images/imgur-dump/kF0vnG7.png
 
 You will notice attributes and skills aren't listed here. This is because when we level up, all skills/attribute points will use the 'Recommended' option (Strength/Treat Injury respectively).
 
@@ -256,7 +256,7 @@ Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher n
 
 Here is the alignment route used in the run:
 
-https://i.imgur.com/2qpCjC6.png
+/assets/images/imgur-dump/2qpCjC6.png
 
 Our alignment is very important in this run, every alignment shift in the route was carefully planned to bring us through the run, not only as fast as possiblem, but also so that by the time we get to Korriban we have the perfect alignment for the Sith Tomb. 
 
@@ -1030,7 +1030,7 @@ Follow along the path drawn on the map below as you make your way through this s
 * *Kreia is Orange.*
 * *Cannoks are Red X's.*
 
-https://i.imgur.com/S8bZeNi.png
+/assets/images/imgur-dump/S8bZeNi.png
 
 Run to your left and cast Force Valor to kill the first Cannok at #5.
 Loot the Cannok.
@@ -1613,7 +1613,7 @@ Once on Goto's Yacht, follow the map below for the fastest path:
 
 * *Make sure Visas stays cloaked for the first portion. If she gets detected it can be hard to continue. Consider making a safety save before performing these steps.*
 
-https://i.imgur.com/9xRcnWm.png
+/assets/images/imgur-dump/9xRcnWm.png
 
 1. + \ Auto Level Up, cast Knight Speed then interact with the terminal: 1,4,2,2
 2. Speak to the Utility Droid: 1
@@ -1712,7 +1712,7 @@ Mouse spam until in control of MC.
 + Cast Knight Speed.
 Run through the Ravager following the map below for placing Proton Cores.
 
-https://i.imgur.com/UuvBiNL.png
+/assets/images/imgur-dump/UuvBiNL.png
 
 The Green line represents our run to the Bridge to confront Nihilus.
 The Red line represents the final run through the Ravager after we have defeated Nihilus.

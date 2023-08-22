@@ -102,19 +102,17 @@ table, th, td {
     z-index:100;
     margin-left: 0;
     margin-right: 0;
-    height: 3vmax;
+    height: 50px;
 }
 
 
 .navbar_section embed, .navbar_section img {
     max-height: 85%!important;
-    padding-left: 1vmax;
-    padding-right: 1vmax;
-    padding-bottom: 0.4vmax;
+    max-width: 55px!important;
+    padding: 5px;
 }
 
 .navbar_section p {
-    font-size: 2vmax;
     font-family: monospace;
     font-style: italic;
     font-weight: bolder;
@@ -127,6 +125,7 @@ table, th, td {
     margin-right: 0;
     display: inline;
     position: fixed;
+    font-size: 36px;
 }
 
 .navbar a:hover {
@@ -139,18 +138,26 @@ table, th, td {
     height: 100%;
 }
 
-@media screen and (max-width: 480px) {
-    .navbar {
-        height: 50px;
-    }
-    .navbar_section p {
-        font-size: 36px;
-    }
+@media screen and (max-width: 290px) { // For all you galaxy fold users
     .navbar_section embed, .navbar_section img {
-        padding: 5px;
+        max-width: 40px!important;
     }
 }
 
+@media screen and (max-width: 260px) { // For werid tiny screens
+    .navbar_section embed, .navbar_section img {
+        max-width: 15vw!important;
+    }
+    .navbar, .navbar p {
+        position: absolute;
+    }
+}
+
+@media screen and (max-height: 300px) { //The the navbar covers more than a 6th of the page
+    .navbar, .navbar p {
+        position: absolute;
+    }
+}
 
 .footer {
     background-color: black;

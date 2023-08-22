@@ -64,7 +64,7 @@ We choose Weapon Focus: Melee Weapons for the attack boost on Taris; we pick it 
 
 ### Leveling Plan
 
-![A chart detailing what skills, powers, and feats to select at each level](https://i.imgur.com/TXzJ0hy.png)
+![A chart detailing what skills, powers, and feats to select at each level](/assets/images/imgur-dump/TXzJ0hy.png)
 
 Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flurry, and Knight Speed, using Bastila's Double-bladed Lightsaber as our main weapon.  This gives us multiple attacks that will deal as much damage as possible; we need as many attacks as we can get, since our chance to hit will be relatively low.  Other notes:
 
@@ -150,7 +150,7 @@ Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher n
 
 Here is the alignment route used in the run:
 
-![A chart showing all alignment shifts during the run](https://i.imgur.com/HqdJBBd.png)
+![A chart showing all alignment shifts during the run](/assets/images/imgur-dump/HqdJBBd.png)
 
 *Snitching on Kel Algwinn is for some reason hardcoded to always give -5 alignment; similarly, rescuing the hopefuls from Shaardan is hardcoded to give +3 alignment.*
 
@@ -958,7 +958,7 @@ SHOPPING: Eli Gand
   - Make sure you save a full set of stims for the Star Forge!
 - Kill both guard droids in basement
 - Solve floor puzzle with the following path (an H shape, starting from the reset tile)
-![An image of the H-shaped solution to the catacombs floor puzzle](http://i.imgur.com/CF497Fm.png)
+![An image of the H-shaped solution to the catacombs floor puzzle](/assets/images/imgur-dump/CF497Fm.png)
 - Speak to basement computer: 1,1,2,1,2
 - Return to main floor
 - Activate Solo Mode
