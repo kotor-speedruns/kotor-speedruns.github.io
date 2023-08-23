@@ -92,11 +92,11 @@ For skills, we will use Computer Use to help save on spikes throughout the run, 
 
 | Level | Feat | Power | Skills |
 |---| :--- | :--- | :--- |
-| 1 | Weapon Focus: Melee Weapons, *Flurry* | | Com to 4, TI to 4, Save Rest |
+| 1 | Weapon Focus: Melee Weapons, *Flurry* | | Com to 4, TI to 4, Save 4 |
 | 2 | Two-Weapon Fighting | | Save All |
 | 3 | Empathy | | Save All |
 | 4 | *Implant 2, Uncanny Dodge* | | Save All |
-| 5 | Improved Two-Weapon Fighting | | Com to 8, TI to 8 |
+| 5 | Improved Two-Weapon Fighting | | Com to 8, TI to 8, Save Rest |
 | 6 | Improved Flurry, *Force Jump* | Burst of Speed, Force Valor | Save All |
 | 7 | | Affect Mind | Per to 10 |
 | 8 | Master Two-Weapon Fighting | Dominate Mind | Per to 11 |
@@ -206,7 +206,7 @@ Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher n
 Here's the full list of alignment shifts that happen during the run; there are 46 total shifts, of which 27 are dark and 19 are light:
 
 | Aligned | Action | Type | Delta | New |
-|---|---|---|---|---|
+|---| :--- | :--- |---|---|
 | Neutral | Game Start | -- | 50 | 50 |
 | Neutral | Threaten Dia about Holdan | Low Dark | -2 | 48 |
 | Neutral | Kill Dia | Low Dark | -2 | 46 |
