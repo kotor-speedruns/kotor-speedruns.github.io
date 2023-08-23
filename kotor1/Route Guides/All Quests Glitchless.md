@@ -90,7 +90,24 @@ For skills, we will use Computer Use to help save on spikes throughout the run, 
 
 ### Leveling Plan
 
-![A chart showing what Feats, Powers, and Skills to take at each level](/assets/images/imgur-dump/zkfxxkl.png)
+| Level | Feat | Power | Skills |
+|---| :--- | :--- | :--- |
+| 1 | Weapon Focus: Melee Weapons, *Flurry* | | Com to 4, TI to 4, Save Rest |
+| 2 | Two-Weapon Fighting | | Save All |
+| 3 | Empathy | | Save All |
+| 4 | *Implant 2, Uncanny Dodge* | | Save All |
+| 5 | Improved Two-Weapon Fighting | | Com to 8, TI to 8 |
+| 6 | Improved Flurry, *Force Jump* | Burst of Speed, Force Valor | Save All |
+| 7 | | Affect Mind | Per to 10 |
+| 8 | Master Two-Weapon Fighting | Dominate Mind | Per to 11 |
+| 9 | | Knight Speed | Per to 12 |
+| 10 | | Knight Valor | Per to 13 |
+| 11 | Master Flurry, *Improved Force Jump* | Force Resistance | Per to 14 |
+| 12 | Weapon Focus: Lightsaber | Drain Life | Per to 15 |
+| 13 | | Energy Resistance | Per to 16 |
+| 14 | Weapon Specialization: Lightsaber | Improved Energy Resistance | Per to 17 |
+| 15 | | Master Speed | Per to 18 |
+| 16 | | Master Valor | Per to 19 |
 
 Our main plan is to combine Master Speed with Master Flurry and a double-bladed lightsaber for five attacks per round in the late game.  Master Two-Weapon Fighting, Weapon Focus: Lightsaber, stims and lightsaber crystals give us enough attack that we can reliably hit even with the attack penalties.
 
@@ -188,8 +205,55 @@ Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher n
 
 Here's the full list of alignment shifts that happen during the run; there are 46 total shifts, of which 27 are dark and 19 are light:
 
-![A table showing alignment shifts for the first half of the run](/assets/images/imgur-dump/xufZ2IT.png)
-![A table showing alignment shifts for the second half of the run](/assets/images/imgur-dump/fQRl5Sf.png)
+| Aligned | Action | Type | Delta | New |
+|---|---|---|---|---|
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Threaten Dia about Holdan | Low Dark | -2 | 48 |
+| Neutral | Kill Dia | Low Dark | -2 | 46 |
+| Neutral | Kill Largo | Low Dark | -2 | 44 |
+| Neutral | Spare the drunks | Low Light | 2 | 46 |
+| Neutral | Kill the Infected Outcasts | Low Dark | -2 | 44 |
+| Neutral | Give Rukil the Promised Land journals | High Light | +6 | 50 |
+| Neutral | Agree to a death match with Bendak Starkiller | Low Dark | -2 | 48 |
+| Neutral | Threaten Ajuur for more credits | Low Dark | -2 | 46 |
+| Neutral | Threaten Janice Nall for T3 | Low Dark | -4 | 42 |
+| Neutral | Sell the Rakghoul Serum to Zax | Low Dark | -2 | 40 |
+| Neutral | Threaten Yuka Laka for HK-47 | Low Dark | -2 | 38 |
+| Dark | Kill Tanis | Mid Dark | -2 | 36 |
+| Dark | Kill Komad Fortuna | Low Dark | -1 | 35 |
+| Dark | Lie to Nubassa about the gizka | Low Dark | -1 | 34 |
+| Dark | Kill Lorgal via the console | Low Dark | -1 | 33 |
+| Dark | Loan Queedle money for his swoop bike | Mid Light | +6 | 39 |
+| Dark | Try to refuse Queedle's return of the loan | Low Light | +4 | 43 |
+| Neutral | Give Casus's journal to Nurik for free | Low Light | +2 | 45 |
+| Neutral | Refuse reward from Shen and Rahasia | Low Light | +2 | 47 |
+| Neutral | Kill Zuulan | Low Dark | -2 | 45 |
+| Neutral | Kill Rulan | Low Dark | -2 | 43 |
+| Neutral | Kill Freyyr | High Dark | -6 | 37 |
+| Dark | | Low Dark | -1 | 36 |
+| Dark | Kashyyyk Star Map Quiz | Low Light | +4 | 40 |
+| Dark | | Low Dark | -2 | 38 |
+| Dark | Report Freyyr's death to Chuundar | High Dark | -4 | 34 |
+| Dark | Tell Matton not to kill Eli | High Light | +8 | 42 |
+| Neutral | Buy Sharina's wraid plate for half price | Low Dark | -2 | 40 |
+| Neutral | Kill Vorn | Low Dark | -2 | 38 |
+| Dark | Order Sasha off your ship | Mid Dark | -2 | 36 |
+| Dark | Kill Ithorak | Low Dark | -1 | 35 |
+| Dark | Prevent Carth from killing Saul | Low Light | +4 | 39 |
+| Dark | Tell Shaardan not to kill the hopefuls | Low Light | +4 | 43 |
+| Neutral | Persuade Yuthura to admit you to the Sith Academy | Low Dark | -2 | 41 |
+| Neutral | Persuade Kel Algwinn to return to the Jedi | Hardcoded | +3 | 44 |
+| Neutral | Give Dustil evidence of Uthar's betrayal | High Light | +6 | 50 |
+| Neutral | Use serum on the Mandalorian prisoner | Hardcoded | -3 | 47 |
+| Neutral | Use serum on the Mandalorian prisoner again | Hardcoded | -3 | 44 |
+| Neutral | Give dark answers during Jorak Uln's quiz | Mid Dark | -4 | 40 |
+| Neutral | Tell the Sith renegades they're free | High Light | +6 | 46 |
+| Neutral | Spare Yuthura Ban | Mid Light | +4 | 50 |
+| Neutral | Profess your faith in Bastila | Low Light | +2 | 52 |
+| Neutral | | Low Light | +2 | 54 |
+| Neutral | Remain true to the Light Side on Lehon | High Light | +6 | 60 |
+| Neutral | | Highest Light | +10 | 70 |
+| Light | Tell Malak that you serve the light | Low Light | +1 | 71 |
 
 If you're more of a visual learner, you can see the overall alignment in chart form here:
 
