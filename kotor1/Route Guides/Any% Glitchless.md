@@ -168,21 +168,18 @@ Here is the alignment route used in the run:
 | Neutral | Game Start | -- | 50 | 50 |
 | Neutral | Save the alien informant | Low Light | +2 | 52 |
 | Neutral | Persuade the drunks not to fight | Low Light | +2 | 54 |
-| Neutral | Game Start | -- | 50 | 50 |
-| Neutral | Game Start | -- | 50 | 50 |
-| Neutral | Game Start | -- | 50 | 50 |
-| Neutral | Game Start | -- | 50 | 50 |
-| Neutral | Game Start | -- | 50 | 50 |
-| Neutral | Game Start | -- | 50 | 50 |
-| Neutral | Game Start | -- | 50 | 50 |
-| Neutral | Game Start | -- | 50 | 50 |
-| Neutral | Game Start | -- | 50 | 50 |
-| Neutral | Game Start | -- | 50 | 50 |
-| Neutral | Game Start | -- | 50 | 50 |
-| Neutral | Game Start | -- | 50 | 50 |
-
-
-![A chart showing all alignment shifts during the run](/assets/images/imgur-dump/HqdJBBd.png)
+| Neutral | Give 20 credits to the beggars | Low Light | +2 | 56 |
+| Neutral | Threaten Janice Nall to get T3 | Mid Dark | -4 | 52 |
+| Neutral | Rescue the Duros from the Sith Base | Low Light | +2 | 54 |
+| Neutral | Tell Shaardan not to kill the hopefuls | Low Light | +2 | 56 |
+| Neutral | Try to Persuade Shaardan to spare the hopefuls | Low Light | +2 | 58 |
+| Neutral | Succeed in Persuading Shaardan | Hardcoded | +3 | 61 |
+| Light | Snitch on Kel Algwinn to Uthar Wynn | Hardcoded | -5 | 56 |
+| Neutral | Spare Yuthura Ban | Mid Light | +4 | 60 |
+| Light | Persuade Carth not to kill Saul | Low Light | +2 | 62 |
+| Light |  | Low Light | +1 | 63 |
+| Light | Stay true to the Light Side on Lehon | High Light | 4 | 67 |
+| Light |  | Highest Light | 5 | 72 |
 
 *Snitching on Kel Algwinn is for some reason hardcoded to always give -5 alignment; similarly, rescuing the hopefuls from Shaardan is hardcoded to give +3 alignment.*
 
