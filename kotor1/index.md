@@ -43,21 +43,29 @@ Glitch guides are split into two types:
 ## Miscellaneous Info
 
 - [Enemy Spawn Triggers](./Miscellaneous/Enemy%20Spawn%20Triggers)
-- [The Guide to KotOR Bingo](./Miscellaneous/KotOR%20Bingo)
+
 
 ## Useful Links
 
 Here's some useful external links that can be helpful for KotOR I speedrunning.
 
+### General Links
 - [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu)
 - [Leaderboards](https://www.speedrun.com/kotor1)
-- [Bingo and Randomizer Downloads](https://www.speedrun.com/kotor1/resources) (Bingo by [indykenobi](https://www.speedrun.com/users/indykenobi), Randomizer by [Lane](https://www.speedrun.com/users/Lane) and [glasnonck](https://www.speedrun.com/users/glasnonck))
-- [Randomizer Helper](https://docs.google.com/spreadsheets/d/1KXacPUuyjH_u71wKQwp5PA_JubrDp3C8eoBRTwphyf4/edit#gid=1503305590) by [glasnonck](https://www.speedrun.com/users/glasnonck)
-- [Walkmesh Visualizer](https://github.com/glasnonck/WalkmeshVisualizer) by [glasnonck](https://www.speedrun.com/users/glasnonck)
 - [KotOR 1 StrategyWiki](https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic)
+- [Walkmesh Visualizer](https://github.com/glasnonck/WalkmeshVisualizer) by [glasnonck](https://www.speedrun.com/users/glasnonck)
+
+### KotOR Bingo by [indykenobi](https://www.speedrun.com/users/indykenobi)
+- [Bingo Card Generator](https://kotor-speedruns.github.io/kotor-bingo/kotor-bingo.html)
+- [KotOR Bingo on Bingosync](https://bingosync.com/)
+- [The Guide to KotOR Bingo](./Miscellaneous/KotOR%20Bingo)
+
+### KotOR Randomizer by [Lane](https://www.speedrun.com/users/Lane) and [glasnonck](https://www.speedrun.com/users/glasnonck)
+- [Randomizer Download](https://www.speedrun.com/kotor1/resources)
+- [Randomizer Helper](https://docs.google.com/spreadsheets/d/1KXacPUuyjH_u71wKQwp5PA_JubrDp3C8eoBRTwphyf4/edit#gid=1503305590) by [glasnonck](https://www.speedrun.com/users/glasnonck)
 
 ## Contribute
 
-This guide repository is community owned and maintained.  If you would like to contribute a guide, make a correction to an existing guide, or help edit this repository, feel free to make a pull request.  Each guide has a convenient link at the top that leads to the source file for ease of access.
+This guide repository is community owned and maintained.  If you would like to contribute a guide, make a correction to an existing guide, or help edit this repository, feel free to make a pull request.  Each guide has a convenient <img src="/assets/images/github.svg" alt="GitHub Logo" width="32" height="32"> link at the top that leads to the source file for ease of access.
 
-Contact [Lane](https://www.speedrun.com/users/Lane), [indykenobi](https://www.speedrun.com/users/indykenobi), or another moderator on the KotOR Speedrun Discord if you have any questions.
+Contact [Lane](https://www.speedrun.com/users/Lane), [indykenobi](https://www.speedrun.com/users/indykenobi), or another moderator on the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu) if you have any questions.
