@@ -64,7 +64,20 @@ We choose Weapon Focus: Melee Weapons for the attack boost on Taris; we pick it 
 
 ### Leveling Plan
 
-![A chart detailing what skills, powers, and feats to select at each level](/assets/images/imgur-dump/TXzJ0hy.png)
+| Level | Feats | Powers | Skills |
+| --- | :--- | :--- | :--- |
+| 1 | Weapon Focus: Melee Weapons, *Flurry* | | Com to 4, Stealth to 1, TI to 4, Save Rest |
+| 2 | Two-Weapon Fighting | | | Save All |
+| 3 | Empathy | | TI to 6, Save Rest |
+| 4 | *Implant 2* | | TI to 7, Save Rest |
+| 5 | Improved Two-Weapon Fighting | Burst of Speed, Force Valor | Save All |
+| 6 | | Affect Mind | Per to 9, TI to 8 |
+| 7 | Improved Flurry | Dominate Mind | Per to 10 |
+| 8 | | Energy Resistance | TI to 9 |
+| 9 | | Knight Speed | TI to 10 |
+| 10 | Master Two-Weapon Fighting | Knight Valor | Per to 11 |
+| 11 | Master Flurry | Force Resistance | Per to 12 |
+| 12 | | Drain Life | Per to 13 |
 
 Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flurry, and Knight Speed, using Bastila's Double-bladed Lightsaber as our main weapon.  This gives us multiple attacks that will deal as much damage as possible; we need as many attacks as we can get, since our chance to hit will be relatively low.  Other notes:
 
@@ -149,6 +162,25 @@ We get most of our credits for the Korriban shopping trip from selling the Cardi
 Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher numbers are Light, lower numbers are dark.  Shifts in alignment are determined by a matrix; every alignment-shifting action is classified as Light or Dark, and then assigned a level (either Low, Mid, or High).  The player character (Revan) can either be aligned as Very Dark, Dark, Neutral, Light, or Very Light.  The more opposed your alignment and the action's classification, the more drastic your shift in alignment; for example, a Light-aligned character performing a High Dark action will have a large shift, while a Dark character performing a High Dark action will have a smaller shift.
 
 Here is the alignment route used in the run:
+
+| Aligned | Action | Type | Delta | New |
+| --- | :--- | :--- | --- | --- |
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Save the alien informant | Low Light | +2 | 52 |
+| Neutral | Persuade the drunks not to fight | Low Light | +2 | 54 |
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Game Start | -- | 50 | 50 |
+
 
 ![A chart showing all alignment shifts during the run](/assets/images/imgur-dump/HqdJBBd.png)
 
