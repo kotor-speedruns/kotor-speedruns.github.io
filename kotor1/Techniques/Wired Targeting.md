@@ -70,5 +70,3 @@ Some effects include:
 ## Technical Details
 
 Every object in a module has a unique ID number between 1 and 65535.  The ID of the object the Player is currently targeting is being constantly updated.  However, when the game is loaded in there is a brief period of time before the ID is updated again.  During this time the player can interact with the Object that has that ID with default action, even if they are nowhere near it.  This will cause the PC to attempt to interact with whatever that object is as if it were the old object (e.g. attacking a non-hostile object).
-
-***Have a suggestion or correction? Contribute to this guide [here](https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/kotor1/Techniques/Wired%20Targeting.md)!***
