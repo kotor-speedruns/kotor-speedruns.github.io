@@ -34,7 +34,7 @@ A GP Warp requires at least two party members, which we will call the Warping Me
 6. Click the dialog option to trigger the warp.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/F1dwmEQunHE" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/YVBe0PbfRtQ" frameborder="0"></iframe>
 </div>
 
 The [AMG](<../Major Glitches/Anywhere Menu Glitch>) method of GP Warps allows party members to move even after triggering the GP dialog.  This can be convenient, as enemies will not attack when moving in this state.  Even the Triggering Member can move by using the Flourish Weapon hotkey while moving forward, but only if a melee weapon is equipped.

@@ -54,7 +54,9 @@ For this method, you need one party member with the item to be duped equipped, a
 8. Select the slot that the duped item equips to, then press escape.
 9. Exit the menu and Quick Save, then Quick Load to make the duplication permanent.
 
-*Video forthcoming*
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/mFJa16v_98Y" frameborder="0"></iframe>
+</div>
 
 This method is useful as it does not require any animation item, but it is also a more difficult menu.  This method only dupes one copy of the item, but it can then be repeated as many times as desired.
 

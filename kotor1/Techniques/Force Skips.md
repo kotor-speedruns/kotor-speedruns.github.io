@@ -17,7 +17,7 @@ A Force Skip uses an instant-use item or Force power to cancel a conversation or
 To perform a Force Skip, just use the hotkey for Friendly Force Power (default: 4) to use a Force power at the same time the conversation starts.  The Force power will be used but the conversation will not start, and you will be able to continue and move normally.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/wNvUvdQ9CM8" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/V5rpgsk2940" frameborder="0"></iframe>
 </div>
 
 The Force power used must activate instantly, at the beginning of its animation.  Force Speed or Force Valor are examples that work, while Heal would not work.  In practice, Force Speed is almost always used, since that is the default Force power for the speedrun routes when entering a new area.
@@ -31,7 +31,7 @@ Finally, not all triggers are skippable using a Force Skip, even if they occur u
 A [Soft Buffer](<Save Buffering#soft-buffers>) is really just an easy way to time a Force Skip.  The save buffer enters the cutscene trigger and delays it, so that the Force Skip can skip the trigger immediately after the buffer.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/wI2d0mIXuC0" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/fDNW1ldQkqw" frameborder="0"></iframe>
 </div>
 
 See the guide on [Soft Buffer](<Save Buffering#soft-buffers>) for more information.

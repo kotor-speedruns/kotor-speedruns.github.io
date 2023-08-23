@@ -60,7 +60,7 @@ This method can be inconsistent; depending on the cutscene and how long your Qui
 Soft Buffers are done by activating an instant-use item or power after the final Quick Save.  The most common method is to use a friendly force power such as Speed or Valor.  Pressing the Friendly Force Power button twice will cancel the Force Power being cast, but the buffer will still succeed.  This is slightly faster than watching the animation from successfully casting the Force Power, and also saves the Force Points from casting it.  
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/wI2d0mIXuC0" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/fDNW1ldQkqw" frameborder="0"></iframe>
 </div>
 
 Soft Buffers are generally faster than Hard Buffers and are quite consistent; you can spam the Force power during the final Quick Save and the buffer will succeed.  However, not every trigger can be cancelled with a Soft Buffer.  In addition, for the entirety of Taris, you do not have access to a Force power with which to use a Soft Buffer.
