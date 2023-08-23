@@ -97,7 +97,14 @@ Weapon Focus: Melee Weapons gives us a +1 on our combat rolls with melee weapons
 
 It is important to note that, due to the side effects of [Hotshots](<../Major Glitches/Hotshot>), our character frequently reverts to a previous level.  Hence for most of Taris we are level 2, and generally stay at level 5 or 6 until Korriban.
 
-![A chart showing what Feats, Powers, and Skills to take at each level](/assets/images/imgur-dump/va8K9X2.png)
+| Level | Feats | Powers | Skills |
+| --- | :--- | :--- | :--- |
+| 1 | Weapon Focus: Melee Weapons | | Per to 4, Sec to 4, Save 4 |
+| FLU (17) | Master Two-Weapon Fighting, *Sneak Attack IX* | | Per to 10 |
+| 3 | Medium Armor Proficiency | Force Valor, Affect Mind | Save All |
+| FLU (20) | Master Critical Strike | Master Speed | Per to 12 |
+| FLU (15) | Weapon Focus: Lightsaber | Master Valor | Per to 14 |
+| 6-9 | Auto-Level | | |
 
 There are multiple [FLUs](<../Major Glitches/Fake Level Ups>) in the five levels we do manually:
 - At Level 2, we do the [Sneak Attack FLU](<../Major Glitches/Fake Level Ups#sneak-attack-flu>) to get Sneak Attack IX and Master Two-Weapon Fighting, as well as 10 Persuade.

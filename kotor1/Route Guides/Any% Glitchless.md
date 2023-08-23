@@ -64,7 +64,20 @@ We choose Weapon Focus: Melee Weapons for the attack boost on Taris; we pick it 
 
 ### Leveling Plan
 
-![A chart detailing what skills, powers, and feats to select at each level](/assets/images/imgur-dump/TXzJ0hy.png)
+| Level | Feats | Powers | Skills |
+| --- | :--- | :--- | :--- |
+| 1 | Weapon Focus: Melee Weapons, *Flurry* | | Com to 4, Stealth to 1, TI to 4, Save Rest |
+| 2 | Two-Weapon Fighting | | | Save All |
+| 3 | Empathy | | TI to 6, Save Rest |
+| 4 | *Implant 2* | | TI to 7, Save Rest |
+| 5 | Improved Two-Weapon Fighting | Burst of Speed, Force Valor | Save All |
+| 6 | | Affect Mind | Per to 9, TI to 8 |
+| 7 | Improved Flurry | Dominate Mind | Per to 10 |
+| 8 | | Energy Resistance | TI to 9 |
+| 9 | | Knight Speed | TI to 10 |
+| 10 | Master Two-Weapon Fighting | Knight Valor | Per to 11 |
+| 11 | Master Flurry | Force Resistance | Per to 12 |
+| 12 | | Drain Life | Per to 13 |
 
 Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flurry, and Knight Speed, using Bastila's Double-bladed Lightsaber as our main weapon.  This gives us multiple attacks that will deal as much damage as possible; we need as many attacks as we can get, since our chance to hit will be relatively low.  Other notes:
 
@@ -150,7 +163,23 @@ Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher n
 
 Here is the alignment route used in the run:
 
-![A chart showing all alignment shifts during the run](/assets/images/imgur-dump/HqdJBBd.png)
+| Aligned | Action | Type | Delta | New |
+| --- | :--- | :--- | --- | --- |
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Save the alien informant | Low Light | +2 | 52 |
+| Neutral | Persuade the drunks not to fight | Low Light | +2 | 54 |
+| Neutral | Give 20 credits to the beggars | Low Light | +2 | 56 |
+| Neutral | Threaten Janice Nall to get T3 | Mid Dark | -4 | 52 |
+| Neutral | Rescue the Duros from the Sith Base | Low Light | +2 | 54 |
+| Neutral | Tell Shaardan not to kill the hopefuls | Low Light | +2 | 56 |
+| Neutral | Try to Persuade Shaardan to spare the hopefuls | Low Light | +2 | 58 |
+| Neutral | Succeed in Persuading Shaardan | Hardcoded | +3 | 61 |
+| Light | Snitch on Kel Algwinn to Uthar Wynn | Hardcoded | -5 | 56 |
+| Neutral | Spare Yuthura Ban | Mid Light | +4 | 60 |
+| Light | Persuade Carth not to kill Saul | Low Light | +2 | 62 |
+| Light |  | Low Light | +1 | 63 |
+| Light | Stay true to the Light Side on Lehon | High Light | 4 | 67 |
+| Light |  | Highest Light | 5 | 72 |
 
 *Snitching on Kel Algwinn is for some reason hardcoded to always give -5 alignment; similarly, rescuing the hopefuls from Shaardan is hardcoded to give +3 alignment.*
 

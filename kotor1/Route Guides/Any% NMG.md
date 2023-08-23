@@ -76,7 +76,18 @@ We choose Weapon Focus: Melee for the attack boost on Taris, in particular the f
 
 ### Leveling Plan
 
-![A chart detailing what feats, powers, and skills to take at each level](/assets/images/imgur-dump/wTRPaP0.png)
+| Level | Feats | Powers | Skills |
+| --- | :--- | :--- | :--- |
+| 1 | Weapon Focus: Melee Weapons, *Flurry* | | Com to 4, Sec to 1, TI to 4, Save 2 |
+| 2 | Two-Weapon Fighting | | Save All |
+| 3 | Empathy | | TI to 6, Save Rest |
+| 4 | Improved Two-Weapon Fighting | Burst of Speed, Force Valor | Save All |
+| 5 | | Affect Mind | Save All |
+| 6 | Improved Flurry | Dominate Mind | Per to 9 |
+| 7 | | Stun Droid | Per to 10 |
+| 8 | | Disable Droid | Per to 11 |
+| 9 | Master Two-Weapon Fighting | Knight Speed | Per to 12 |
+| 10 | Master Flurry | Knight Valor | Per to 13 |
 
 Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flurry, and Knight Speed, using Bastila's Double-bladed Lightsaber as our main weapon.  This gives us multiple attacks that will deal as much damage as possible; we need as many attacks as we can get, since our chance to hit will be relatively low.  We are not guaranteed to hit level 11 in the run, but if we do it's best to just Auto-Level to get the +1 Attack bonus; we don't really need any additional skills or Force Powers at that point.  Other notes:
 
@@ -159,7 +170,24 @@ Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher n
 
 Here is the alignment route used in the run:
 
-![A chart showing all alignment shifts in the speedrun route](/assets/images/imgur-dump/LFOrTDv.png)
+| Aligned | Action | Type | Delta | New |
+| --- | :--- | :--- | --- | --- |
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Rescue merchant from bounty hunters | Low Light | +2 | 52 |
+| Neutral | Give merchant credits to pay his debt | Mid Light | +4 | 56 |
+| Neutral | Save the alien informant | Low Light | +2 | 58 |
+| Neutral | Agree to kill Gadon Thek | Low Dark | -2 | 56 |
+| Neutral | Threaten Janice Nall to get T3-M4 | Mid Dark | -4 | 52 |
+| Neutral | Tell Shaardan not to kill the hopefuls | Low Light | +2 | 54 |
+| Neutral | Try to Persuade Shaardan to spare the hopefuls | Low Light | +2 | 56 |
+| Neutral | Succeed in Persuading Shaardan | Hardcoded | +3 | 59 |
+| Neutral | Persuade Yuthura to admit you to the academy | Low Dark | -2 | 57 |
+| Neutral | Persuade Sith Thugs to leave you alone | Mid Light | +4 | 61 |
+| Light | Snitch on Kel Algwinn to Uthar Wynn | Hardcoded | -5 | 56 |
+| Neutral | Spare Yuthura Ban | Mid Light | +4 | 60 |
+| Light |  | Low Light | +2 | 62 |
+| Light | Stay true to the Light Side on Lehon | High Light | 4 | 66 |
+| Light |  | Highest Light | 5 | 71 |
 
 *Snitching on Kel Algwinn is for some reason hardcoded to always give -5 alignment; similarly, rescuing the hopefuls from Shaardan is hardcoded to give +3 alignment.*
 
