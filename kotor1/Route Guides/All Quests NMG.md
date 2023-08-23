@@ -114,7 +114,7 @@ We choose Weapon Focus: Melee for the attack boost on Taris, in particular the f
 ### Leveling Plan
 
 | Level | Feat | Power | Skills |
-|---|---|---|---|
+|---| :--- | :--- | :--- |
 | 1 | Weapon Focus: Melee Weapons, (Flurry) | | Com to 4, TI to 4, Sec to 1 |
 | 2 | Two-Weapon Fighting | | Save all Skills |
 | 3 | Empathy | | TI to 6 |
@@ -219,7 +219,7 @@ Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher n
 Here's the full list of alignment actions that happen during the run; there are 46 total shifts, of which exactly 27 are dark and 16 are light:
 
 | Aligned | Action | Type | Delta | New |
-|---|---|---|---|---|
+|---| :--- | :--- |---|---|
 | Neutral | Game Start | -- | 50 | 50 |
 | Neutral | Threaten Dia about Holdan | Low Dark | -2 | 48 |
 | Neutral | Kill Dia | Low Dark | -2 | 46 |
