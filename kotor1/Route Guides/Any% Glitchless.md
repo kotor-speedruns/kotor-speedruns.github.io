@@ -67,7 +67,7 @@ We choose Weapon Focus: Melee Weapons for the attack boost on Taris; we pick it 
 | Level | Feats | Powers | Skills |
 | --- | :--- | :--- | :--- |
 | 1 | Weapon Focus: Melee Weapons, *Flurry* | | Com to 4, Stealth to 1, TI to 4, Save Rest |
-| 2 | Two-Weapon Fighting | | | Save All |
+| 2 | Two-Weapon Fighting | | Save All |
 | 3 | Empathy | | TI to 6, Save Rest |
 | 4 | *Implant 2* | | TI to 7, Save Rest |
 | 5 | Improved Two-Weapon Fighting | Burst of Speed, Force Valor | Save All |
