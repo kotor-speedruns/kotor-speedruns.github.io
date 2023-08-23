@@ -41,7 +41,7 @@ As it turns out 3C-FD was used during the development of the game to test variou
 Courtesy of 30cents:
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/watch?v=JHRHF9ZwNTM" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/JHRHF9ZwNTM" frameborder="0"></iframe>
 </div>
 
 ## Uses
