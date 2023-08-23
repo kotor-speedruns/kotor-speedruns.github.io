@@ -210,3 +210,7 @@ tr {
 tr:nth-child(odd) {
     background-color: var(--kotor-bg) !important;
 }
+
+img {
+    background-color: transparent!important;
+}
