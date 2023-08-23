@@ -8,21 +8,31 @@ body {
     background-color: black;
 }
 
-h1, h2, h3, h4, p, ul, li  {
+h1,
+h2,
+h3,
+h4,
+p,
+ul,
+li {
     //color: var(--kotor-fg-light);
     color: white;
 }
 
-a:link, a:visited {
+a:link,
+a:visited {
     color: var(--kotor-fg-light);
     // text-decoration: underline
 }
 
-a:hover, a:active {
-  color: var(--kotor-selected)
+a:hover,
+a:active {
+    color: var(--kotor-selected)
 }
 
-.container-lg, .container-xl, .container-md {
+.container-lg,
+.container-xl,
+.container-md {
     background-color: var(--kotor-bg);
     border-radius: 5px;
     border-color: var(--kotor-fg-dark);
@@ -30,35 +40,40 @@ a:hover, a:active {
     border-width: 2px;
     padding-bottom: 16px;
     padding-top: 16px;
-    margin-top: 5vmax!important;
+    margin-top: 5vmax !important;
 }
 
-.markdown-body .highlight pre, .markdown-body pre, .highlight {
+.markdown-body .highlight pre,
+.markdown-body pre,
+.highlight {
     border-radius: 15px;
 }
 
 .highlight {
     background-color: transparent;
 }
+
 // Code blocks style 2
 .highlight pre {
-  background-color: black!important;
-  color: white!important;
-  border-color: var(--kotor-fg-dark);
-  border-style: solid;
-  border-width: 2px;
+    background-color: black !important;
+    color: white !important;
+    border-color: var(--kotor-fg-dark);
+    border-style: solid;
+    border-width: 2px;
 }
 
-table, th, td {
+table,
+th,
+td {
     text-align: center;
     // background-color: var(--kotor-bg);
     color: var(--kotor-fg-light);
-    border-color: var(--kotor-fg-dark)!important;
+    border-color: var(--kotor-fg-dark) !important;
 }
 
-.navbar { 
+.navbar {
     margin-right: auto;
-    margin-left: auto; 
+    margin-left: auto;
     background-color: var(--kotor-bg);
     border-color: var(--kotor-fg-dark);
     border-style: solid;
@@ -68,18 +83,19 @@ table, th, td {
     border-left: 0px;
     padding-bottom: 0px;
     position: fixed;
-    top:0;
+    top: 0;
     width: 100%;
-    z-index:100;
+    z-index: 100;
     margin-left: 0;
     margin-right: 0;
     height: 50px;
 }
 
 
-.navbar_section embed, .navbar_section img {
-    max-height: 85%!important;
-    max-width: 55px!important;
+.navbar_section embed,
+.navbar_section img {
+    max-height: 85% !important;
+    max-width: 55px !important;
     padding: 5px;
 }
 
@@ -109,23 +125,34 @@ table, th, td {
     height: 100%;
 }
 
-@media screen and (max-width: 290px) { // For all you galaxy fold users
-    .navbar_section embed, .navbar_section img {
-        max-width: 40px!important;
+@media screen and (max-width: 290px) {
+
+    // For all you galaxy fold users
+    .navbar_section embed,
+    .navbar_section img {
+        max-width: 40px !important;
     }
 }
 
-@media screen and (max-width: 260px) { // For werid tiny screens
-    .navbar_section embed, .navbar_section img {
-        max-width: 15vw!important;
+@media screen and (max-width: 260px) {
+
+    // For werid tiny screens
+    .navbar_section embed,
+    .navbar_section img {
+        max-width: 15vw !important;
     }
-    .navbar, .navbar p {
+
+    .navbar,
+    .navbar p {
         position: absolute;
     }
 }
 
-@media screen and (max-height: 300px) { //The the navbar covers more than a 6th of the page
-    .navbar, .navbar p {
+@media screen and (max-height: 300px) {
+
+    //The the navbar covers more than a 6th of the page
+    .navbar,
+    .navbar p {
         position: absolute;
     }
 }
@@ -149,10 +176,12 @@ table, th, td {
 
 .video-container {
     position: relative;
-    padding-bottom: 56.25%; /* 16:9 */
+    padding-bottom: 56.25%;
+    /* 16:9 */
     height: 0;
 }
-  .video-container iframe {
+
+.video-container iframe {
     position: absolute;
     top: 0;
     left: 0;
@@ -175,10 +204,9 @@ img.med {
 }
 
 tr {
-    background-color: var(--kotor-bg-alt)!important
+    background-color: var(--kotor-bg-alt) !important
 }
 
 tr:nth-child(odd) {
-    background-color: var(--kotor-bg)!important;
+    background-color: var(--kotor-bg) !important;
 }
-
