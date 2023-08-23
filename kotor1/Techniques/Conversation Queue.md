@@ -37,5 +37,3 @@ Finally, Conversation Queue is extremely useful on platforms where [Save Bufferi
 ## Related Glitches
 
 * [Combat Talking](<Combat Talking>)
-
-***Have a suggestion or correction? Contribute to this guide [here](https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/kotor1/Techniques/Conversation%20Queue.md)!***
