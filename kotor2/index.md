@@ -21,7 +21,7 @@ These guides will cover all information relevant to the speedrun of the given ca
 |---|---|---|
 | [Any% Unrestricted](./Route%20Guides/Any%25%20Unrestricted) | [Any% No Dev Tools](./Route%20Guides/Any%25%20No%20Dev%20Tools) | [Any% Glitchless](./Route%20Guides/Any%25%20Glitchless) | 
 | [Max Quests Unrestricted](./Route%20Guides/Max%20Quests%20Unrestricted) | | [Max Quests Glitchless](./Route%20Guides/Max%20Quests%20Glitchless) | 
-| [All Planets](./Route%20Guides/All%20Planets%20Unrestricted) | | | 
+| [All Planets Unrestricted](./Route%20Guides/All%20Planets%20Unrestricted) | | | 
 
 **Video Tutorials**
 - [Any% Unrestricted](./Video%20Tutorials/Any%25%20Unrestricted)
@@ -36,18 +36,12 @@ Glitch guides are split into three types:
 - **Major Glitches:** These glitches are considered major due to their ability to either significantly sequence-break the game, or completely bypass the usual rules of normal gameplay (i.e., Fake Level Ups bypassing normal character construction rules). Major Glitches are only legal in the Unrestricted Ruleset and No Dev Tools rulesets.
 - **Techniques:** These glitches are not considered major; while they have useful effects, those effects are either minor or limited, so that they augment normal gameplay rather than bypass it completely. Techniques are legal in both the No Major Glitches and Unrestricted Rulesets.
 
-**REFORMAT ME**!!!
-
 | | **Major Glitches** | | | | **Techniques** | |
 |---|---|---|---|---|---|---|
 | [Anywhere Menu Glitch](./Major%20Glitches/Anywhere%20Menu%20Glitch) | [Displaced Load Zone](./Major%20Glitches/Displaced%20Load%20Zone) | [Door Clipping](./Major%20Glitches/Door%20Clipping) | | Combat Talking | Conversation Queue | Damage Stacking |
-| Fake Level Up |  | | | | [Revive Your Party Warp](./Techniques/RYP%20Warp) | |
-| [Hotshot](./Major%20Glitches/Hotshot) | | | | | [Save Buffering](./Techniques/Save%20Buffering) | [Save Teleporting](./Techniques/Save%20Teleporting) |
-| | | | | | [Wired Targeting](./Techniques/Wired%20Targeting) | |
-
-**Dev Tools**
-- [3C-FD](./Dev%20Tools/3C-FD)
-- [Dev Character](./Dev%20Tools/Dev%20Character)
+| Fake Level Up | [Hotshot](./Major%20Glitches/Hotshot) | | | | [Revive Your Party Warp](./Techniques/RYP%20Warp) | |
+| | **Dev Tools** | | | | [Save Buffering](./Techniques/Save%20Buffering) | [Save Teleporting](./Techniques/Save%20Teleporting) |
+| [3C-FD](./Dev%20Tools/3C-FD) | [Dev Character](./Dev%20Tools/Dev%20Character) | | | | [Wired Targeting](./Techniques/Wired%20Targeting) | |
 
 ## Useful Links
 
@@ -55,14 +49,14 @@ Here's some useful external links that can be helpful for KotOR I speedrunning.
 
 - [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu)
 - [Leaderboards](https://www.speedrun.com/kotor2)
-- [Bingo and Randomizer Downloads](https://www.speedrun.com/kotor2/resources) (Bingo by [30Cents](https://www.speedrun.com/users/30Cents), Randomizer by [Lane](https://www.speedrun.com/users/Lane))
 - [Walkmesh Visualizer](https://github.com/glasnonck/WalkmeshVisualizer) by [glasnonck](https://www.speedrun.com/users/glasnonck)
+- [Bingo and Randomizer Downloads](https://www.speedrun.com/kotor2/resources) (Bingo by [30Cents](https://www.speedrun.com/users/30Cents), Randomizer by [Lane](https://www.speedrun.com/users/Lane))
 
 ## Contribute
 
 This guide repository is community owned and maintained.  If you would like to contribute a guide, make a correction to an existing guide, or help edit this repository, feel free to make a pull request.  Each guide has a convenient link at the top that leads to the source file for ease of access.
 
-Contact [Lane](https://www.speedrun.com/users/Lane), [indykenobi](https://www.speedrun.com/users/indykenobi), or another moderator on the KotOR Speedrun Discord if you have any questions.
+Contact [Lane](https://www.speedrun.com/users/Lane), [indykenobi](https://www.speedrun.com/users/indykenobi), or another moderator on the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu) if you have any questions.
 
 
 
