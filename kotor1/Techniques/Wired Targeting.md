@@ -57,7 +57,7 @@ The only current use of Wired Targeting in speedruns is to kill the Sith Governo
 
 ### Other Applications
 
-Wired Targeting is much more versatile than just killing a non-hostile enemy, however.  The following video demonstrates additional uses of this glitch, which are not currently speedrun relevant:
+Wired Targeting is much more versatile than just killing a non-hostile enemy, however.  The following video (courtesy of [Lane](https://www.speedrun.com/users/Lane)) demonstrates additional uses of this glitch, which are not currently speedrun relevant:
 
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/1IvyiP4Mahw" frameborder="0"></iframe>

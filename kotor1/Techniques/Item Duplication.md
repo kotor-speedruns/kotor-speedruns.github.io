@@ -35,7 +35,7 @@ For this method, you will need an item or items that create a character animatio
 7. Quick Save and Quick Load to finish the glitch.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/O8SVacA62FU" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/eEhWgm7AORY" frameborder="0"></iframe>
 </div>
 
 When using multiple party members, it is often wise to activate Solo Mode to prevent party members from adjusting their position and breaking the animation.  Only one item can be duped at a time with this method, and the game favors the last slot equipped to.  While any animation item can be used, energy shields are objectively the most economic choice, as they themselves can be duped.

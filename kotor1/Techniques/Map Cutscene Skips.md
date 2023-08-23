@@ -18,7 +18,7 @@ To perform a Map CS Skip, you must first make sure that under the Feedback menu,
 Before a cutscene starts, you will often be able to see the cursor briefly while the rest of the screen is blacked out.  While the cursor is visible, click any menu button in the top right corner of the screen; while the button is not visible, it is still active.  The best menu to open is almost always the Map screen, which is the second button from the right; however, even if you click a different menu button, you can then move to the Map menu from there.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/ZXtDHlM7u_0" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/zy-u-9jkM3s" frameborder="0"></iframe>
 </div>
 
 Once the menu is open, you can use it as normal, including saving, changing equipment, and in some places, modifying your party or returning to the Ebon Hawk.  Most often you will be Returning to the Ebon Hawk to skip a cutscene or other trigger.
