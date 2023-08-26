@@ -1,11 +1,31 @@
-**[center]Star Wars: Knights of the Old Republic II - The Sith Lords
-All Planets (Unrestricted)
-Route by @RedMage08 and @30Cents
-Guide by @Redmage08 and @R4ng3
-Many Thanks to @indykenobi for  formatting[/center]**
+# Star Wars: Knights of the Old Republic II - All Planets Unrestricted Guide
 
-This route defeats Kreia on Malachor V as fast as possible, while obtaining every Force Form and visiting Master Vash to pay respects. Timing begins upon clicking "PLAY" after character creation and ends when Kreia begins speaking after her final phase of battle. A load-removal tool and auto-splitter is available for LiveSplit thanks to @glasnonck and @XeroHR (No Windows 11 support ATM); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the detailed route for the run, as well as an alternate route for Citadel station, which is slower but skips a sub-pixelperfect glitch.
+### v1.1: 
+
+All Planets (Unrestricted)
+Route and Guide by [RedMage](https://www.speedrun.com/users/redmage08) and [30Cents](https://www.speedrun.com/users/30Cents)[/center]**
+
+This route defeats Kreia on Malachor V as fast as possible, while obtaining every Force Form and visiting Master Vash to pay respects. Timing begins upon clicking "PLAY" after character creation and ends when Kreia begins speaking after her final phase of battle. 
+A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the detailed route for the run, as well as an alternate route for Citadel station, which is slower but skips a sub-pixelperfect glitch.
+
+
 Finally, if you have additional questions, you can check out the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu). There's a bunch of friendly folks there willing to answer questions!
+
+**Table of Contents**
+- [Unrestricted Ruleset](#unrestricted-ruleset)
+- [Guide Organization](#guide-organization)
+
+## Unrestricted Ruleset
+
+**REMEMBER to show yourself restarting the game at the beginning of each attempt.**
+
+All glitches are allowed in Unrestricted; however, all KotOR II speedruns ban the following:
+- Abusing the windowed nature of the game to teleport a character (including Super Save Teleports)
+- Severe underclocking of one's monitor to increase Save Teleport distance
+- Abusing the load removal to excessively pause the timer
+- Loading saves created prior to the run
+- Use of mods or other external tools to modify the software in any way 
+
 
 
 **Guide Key
