@@ -39,7 +39,7 @@ This method can be inconsistent; depending on the cutscene and how long your Qui
 
 ## Uses
 
-Save Buffers are used in all glitched speedruns to perform important skips.
+Save Buffers are used in all glitched speedruns to perform important skips, which will be listed here later.
 
 ## Related Glitches
 
