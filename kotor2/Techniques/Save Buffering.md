@@ -7,6 +7,10 @@
   - [Via Load Menu](#via-load-menu)
   - [Via Quick Load](#via-quick-load)
 - [Uses](#uses)
+- [Avoiding Buffering Pitfalls](#avoiding-buffering-pitfalls)
+  - [Fade In Never Stops](#fade-in-never-stops)
+  - [Missing a Save Buffer](#missing-a-save-buffer)
+  - [Late Game Buffers](#late-game-buffers)
 - [Related Glitches](#related-glitches)
 
 ## Description
@@ -40,6 +44,22 @@ This method can be inconsistent; depending on the cutscene and how long your Qui
 ## Uses
 
 Save Buffers are used in all glitched speedruns to perform important skips, which will be listed here later.
+
+## Avoiding Buffering Pitfalls
+
+Note that KotOR II does not suffer from the same Quick Save memory leak that KotOR I does, so you do not need to monitor memory usage during a KotOR II speedrun.
+
+### Fade In Never Stops
+
+If you begin a Save Buffer and move past the trigger, but the fade-in doesn't stop, you most likely [Save Teleported](<Save Teleporting>) over the trigger.  This skips the trigger with the important difference that *the trigger is still active*.  If you are going to pass by that area again, you will need to buffer the trigger again when you return.  If you won't revisit that area, you can continue without worrying.
+
+### Missing a Save Buffer
+
+If you miss a Save Buffer, you can Quick Load after the trigger executes to go back and skip the trigger.  This is sometimes necessary or helpful; other times it's better to just continue, even if you miss the Save Buffer.  In other cases, it may be faster to use the T(r)ask Manager to kill the program, then reload the game and load the Quick Save.
+
+### Late Game Buffers
+
+As you progress in the game, Quick Saves take longer and longer to complete.  While this has beneficial effects, such as [Save Teleporting](<Save Teleporting>), it also makes Save Buffers much more difficult to perform.  With a large enough save file, the window for canceling the trigger can be partly or entirely skipped by the Save screen.  For any Save Buffer that is essential, disabling V-Sync will increase the frame rate of the game and thus decrease the time it takes to Quick Save, making late-game buffers much easier to perform.
 
 ## Related Glitches
 
