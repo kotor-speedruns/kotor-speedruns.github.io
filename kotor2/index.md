@@ -43,7 +43,7 @@ Glitch guides are split into three types:
 
 ## Useful Links
 
-Here's some useful external links that can be helpful for KotOR I speedrunning.
+Here's some useful external links that can be helpful for KotOR II speedrunning.
 
 - [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu)
 - [Leaderboards](https://www.speedrun.com/kotor2)
