@@ -19,6 +19,7 @@ To save teleport, simply hold both mouse buttons down to run forward, then press
 *Notes:* 
 - You will get more distance from a Save Teleport if Force Speed and Adrenal Alacrity are NOT active.  Sometimes it is better to let these buffs wear off and Save Teleport for movement, particularly later in the run.
 - Save Teleports become more effective as you get further into the game.  Generally speaking, they are ineffective on Peragus and Citadel Station, and start to become useful on Telos Surface.  During the late game, they can be quite powerful.
+- **Warning!** Save Teleporting into a mine can crash your game.  Be sure to aim your teleports so that they end just before or just after the mine.
 
 ## Uses
 
