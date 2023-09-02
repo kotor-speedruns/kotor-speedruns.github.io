@@ -528,7 +528,7 @@ If you decide to do this route, all other sections of the run are identical to t
 - Activate AMG on the load screen
 - Unpause, then when CS starts, cancel popup and QS/QL
 - *Force: Cast Master Speed*
-- Talk to Jana Lorso twice: 2 | mash 1
+- Talk to Jana Lorso twice: 2 \| mash 1
 - **Make a Hardsave**
 - Activate Solo Mode
 - Exit Czerka as MC

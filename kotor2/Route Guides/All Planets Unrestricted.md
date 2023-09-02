@@ -15,7 +15,7 @@ Finally, if you have additional questions, you can check out the [KotOR Speedrun
 ¤ This symbol represents a glitch to be performed.
 —¤ Three dashes and a ¤ represents more detailed information on the glitch above it
 > A greater than sign represents the level up
-| A vertical bar represents a break in a conversation; you’d need to talk to that character for each set of numbers shown
+\| A vertical bar represents a break in a conversation; you’d need to talk to that character for each set of numbers shown
 ÷ A division symbol represents a choice in route 
 
 **Planet Route
@@ -81,11 +81,11 @@ Character creation does not matter very much in this route. We utilize a glitch 
 **~!**Timer starts when you hit Play**!~**
 
 
-#PROLOUGE|PERAGUS
+#PROLOUGE\|PERAGUS
 ¤ QS once loaded then hard save
 - Mash then skip Prologue: 2
 ¤ [Anywhere Menu Glitch or AMG](https://www.speedrun.com/kotor2/guide/rnx0w)
---¤ Mash until MC is out of Kolto tank | QS/QL
+--¤ Mash until MC is out of Kolto tank \| QS/QL
 ¤ [Hotshot](https://www.speedrun.com/kotor2/guide/y4rma) back to Prologue Ebon Hawk
 - Loot cylinder
 - Hack terminal
@@ -105,11 +105,11 @@ Character creation does not matter very much in this route. We utilize a glitch 
 ¤ [Open buffer](https://www.speedrun.com/kotor2/guide/kij8n) Kreia dialogue to open door during dialogue
 - Use Administration level computer
 > Level up
---- Skip skills | Force Speed
+--- Skip skills \| Force Speed
 ¤ AMG then go into Atton's detention room
 --¤ Mash a bit then QS/QL when the force field goes down
 ¤ QS to clear fade in
-- Talk to 3C: 9 | Alert me when Sion arrives
+- Talk to 3C: 9 \| Alert me when Sion arrives
 ¤ QS/QL to skip cutscene fight with droids
 ¤ QS to clear fade in
 - Talk to Kreia: 3,1
@@ -183,7 +183,7 @@ https://cdn.discordapp.com/attachments/728504417476804639/1062172972313493504/im
 - Use computer with Atton
 - Make a hard save in front of droid with MC
 - Talk to B4-D4 with MC
-- Chodo Habat 3 times: 1spam | 1spam | 1spam
+- Chodo Habat 3 times: 1spam \| 1spam \| 1spam
 ¤ Hotshot back to Hangar Bay Autosave
 - Enter transportation shuttle
 - Mash conversation
@@ -198,8 +198,8 @@ https://cdn.discordapp.com/attachments/728504417476804639/1062172972313493504/im
 - Use Kreia to trigger Thugs
 - Shoot thugs
 - Talk to droid: 2spam
-¤ AMG during load screen | QS/QL to skip
-- Jana Lorso: 2 | 1spam
+¤ AMG during load screen \| QS/QL to skip
+- Jana Lorso: 2 \| 1spam
 - Hard Save in front of Lorso
 - Leave Czerka office
 - Hard Save
@@ -225,7 +225,7 @@ https://cdn.discordapp.com/attachments/1018669374904741978/1018669591972565022/u
 - Use Kreia to fly to Telos surface
  
 #TELOS - SURFACE
-¤ AMG during load screen | QS/QL to skip cutscene
+¤ AMG during load screen \| QS/QL to skip cutscene
 ¤ [Save Teleport](https://www.speedrun.com/kotor2/guide/59jkl) South east then north
 --¤ From this point on, save teleports will be your primary method
 of movement for most of the run until further notice
@@ -318,17 +318,17 @@ https://cdn.discordapp.com/attachments/728504417476804639/1062174664559960165/im
 - Terminal: 2,1,1,2
 - Exit as MC
 - Return to Ebon Hawk
-¤ AMG on load in | QS/QL
+¤ AMG on load in \| QS/QL
 - Fly to Nar Shaddaa
 ¤ AMG QS/QL or Hard Buffer to skip Nar Shaddaa cutscene
 
 #NAR SHADDAA
 - Exit Ebon Hawk
 ¤ AMG | QS/QL Quello
-¤ Hard Buffer or AMG Exchange Thugs
+¤ Hard \Buffer or AMG Exchange Thugs
 ¤ AMG peasant asking for money(Can be done with Thugs if you are speed)
 - Enter docks
-¤ AMG during load |  Hard Save/Hard Load Hanharr cutscene
+¤ AMG during load \|  Hard Save/Hard Load Hanharr cutscene
 - Run to warehouse
 - Open door and add T3
 ¤ Hotshot to Polar Academy Ramp Save
@@ -343,7 +343,7 @@ https://cdn.discordapp.com/attachments/728504417476804639/1062178165679718441/im
 ¤ Hotshot back to Docks with 3C in party
 - Use 3C to enter Refugee Landing Pad
 - Re-enter docks
-- Talk to 3C 1 | 2
+- Talk to 3C 1 \| 2
 - Hard save
 ¤ Hotshot to first Prologue Ebon Hawk save
 - Skip tutorial: 2
@@ -365,7 +365,7 @@ https://cdn.discordapp.com/attachments/728504417476804639/1062178165679718441/im
 - Enter Tienn Tubb's shop
 - Droid: 3
 - Tien Tubb
-¤ AMG on Load in to G0T0's yacht | QS/QL to skip cutscene
+¤ AMG on Load in to G0T0's yacht \| QS/QL to skip cutscene
 - Hard Save
 - Load first Docks save near center terminal
 ¤ Hotshot to first Prologue Ebon Hawk Save
@@ -412,11 +412,11 @@ https://cdn.discordapp.com/attachments/728504417476804639/1062180525424508958/im
 ¤ Save teleport back to Ebon Hawk
 
 #DXUN
-¤ AMG on Load in | QS/QL
+¤ AMG on Load in \| QS/QL
 - HARD SAVE on Ebon Hawk
 --- This hardsave is mission critical for the run
 - Fly to Onderon
-¤ AMG on Load | QS/QL
+¤ AMG on Load \| QS/QL
 - Select Onderon again on the map to exit orbit
 - Exit ship with Kreia/T3
 - Solo Mode
@@ -467,7 +467,7 @@ https://cdn.discordapp.com/attachments/728504417476804639/1062180525424508958/im
 - Solo Mode
 - Politics : 4
 - Save teleport to Western Square
-¤ AMG on Load in | QS/QL
+¤ AMG on Load in \| QS/QL
 - Talk to Thug to the right of the Rodian
 - Re-enter Merchant Quarter
 - Solo Mode
@@ -498,12 +498,12 @@ https://cdn.discordapp.com/attachments/728504417476804639/1062180525424508958/im
 - Kill Thug leader and Loot body
 - Exit Cantina
 - Dhagon
-¤ AMG on Load in | QS/QL to skip
+¤ AMG on Load in \| QS/QL to skip
 ¤ Hotshot to Ebon Hawk save from before Dxun
 
 #DXUN 2
 - Exit and Re-enter
-¤ AMG on Load in | Do not skip cutscene immediately
+¤ AMG on Load in \| Do not skip cutscene immediately
 --¤ Mash T3's dialogue and wait for the next cutscene to trigger
 --¤ After that cutscene triggers you can QS/QL to skip it
 - Leave Hawk - No Party members
@@ -539,7 +539,7 @@ https://cdn.discordapp.com/attachments/728504417476804639/1062181800165777489/im
 - Watch cutscene
 - Talk to Tobin
 - Watch cutscene
-¤ Activate AMG | Kill Beast
+¤ Activate AMG \| Kill Beast
 ¤ QS/QL to skip cutscene
 - Run into palace room and trigger Kavarr
 - Mash
@@ -576,11 +576,11 @@ https://cdn.discordapp.com/attachments/728504417476804639/1062182395454947418/im
 - Loot mercs in the room with Disciple
 ¤ Hotshot to Khoonda Plains
 - Go to the Crystal Caves
-¤ AMG | QS/QL to skip CS
+¤ AMG \| QS/QL to skip CS
 - Solo Mode
 - Save Vrook
 - Swap to Disciple and Leave
-¤ AMG during load | QS/QL to skip Azkul
+¤ AMG during load \| QS/QL to skip Azkul
 - Enter Khoonda
 - Admin: 5
 - Zherron: 4,1,2,3
@@ -609,8 +609,8 @@ https://cdn.discordapp.com/attachments/728504417476804639/1062182483308859402/im
 - Run to Atris
 - Kill Atris with blaster
 - Mash 1
-¤ AMG | QS/QL Citadel CS
-¤ AMG | QS/QL Mandalore cutscene
+¤ AMG \| QS/QL Citadel CS
+¤ AMG \| QS/QL Mandalore cutscene
 - Run to Residential East
 - Enter Entertainment Module 81
 - Run to elevator/trigger Mandalore dialogue
@@ -618,7 +618,7 @@ https://cdn.discordapp.com/attachments/728504417476804639/1062182483308859402/im
 - Talk to Mandalore again
 
 #RAVAGER
-¤ AMG | QS/QL long cutscene
+¤ AMG \| QS/QL long cutscene
 [quote]÷ OPTION 1
 [---If you are NOT doing the DLZ, and did NOT do the DLZ on Telos----]
 ¤ Hotshot to Czerka Save
@@ -727,7 +727,7 @@ https://cdn.discordapp.com/attachments/728504417476804639/1062183114127974410/im
 ¤ Hotshot back to Malachor
 - Use G0-T0 to enter nearby Loading Zone
 ¤ Hotshot to Start of Ravager
-¤ AMG | QS/QL the beginning Ravager cutscene again
+¤ AMG \| QS/QL the beginning Ravager cutscene again
 - Position G0-T0 underneath North door frame
 https://cdn.discordapp.com/attachments/728504417476804639/1062183270109949962/image.png
 ¤ Hotshot back to Malachor
