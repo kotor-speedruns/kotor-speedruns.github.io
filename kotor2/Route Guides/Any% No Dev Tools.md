@@ -231,7 +231,7 @@ Hack administration computer
   - Persuade to 3
   - Weapon Focus: Melee Weapons
   - Force Speed
-Talk to Atton: 5,1x8,2,1,3,1 | 1spam
+Talk to Atton: 5,1x8,2,1,3,1 \| 1spam
 Hack administration computer: 2,2,1spam
 
 **Hangar Level:**
@@ -511,7 +511,7 @@ Mash all text until the end of the Jedi Council CS
 Talk to Party: 1,1,3,3,3,1,1
 ¤ After loading, Hard Buffer to skip Bao-Dur cutscenes
 Fly to Onderon
-Atton freaks out: 2 | 2,4,1
+Atton freaks out: 2 \| 2,4,1
 Leave the Ebon Hawk; Set Party to T3, Kreia
 
 [center][big]***----------------------------
@@ -562,7 +562,7 @@ Once you've finished all of this, swap to T3 and enter the camp
 
 **Sith Ambush:**
 Talk to Mandalorian Commander: 2,3
-Talk to Zuka twice: 2 | 1spam
+Talk to Zuka twice: 2 \| 1spam
 Talk to Mandalore: 1,1,1,2,1
 When prompted, swap out T3 for Handmaiden
 > Level to 7:
@@ -645,7 +645,7 @@ Defeat Visas
 Talk to Visas/Atton/Handmaiden: 1,1,3,1,1
 } Equip Lightsaber in secondary weapon slot
 - If you don't have one, talk to Bao-Dur to construct one
-- Bao-Dur: 1,1 | 4,4,2
+- Bao-Dur: 1,1 \| 4,4,2
 - Since we only use this for Force Jump/Defense, it can be a Short Lightsaber or Double-Bladed.
 } Swap Weapon to Lightsaber
 Fly to Dantooine

@@ -480,7 +480,7 @@ https://cdn.discordapp.com/attachments/808151224842977353/814374460253274112/unk
 2. Take the second left path all the way to the end (the purple path) and loot the footlocker there.  
 - You may get trapped by various monsters, bop them a few times and keep trying to move so they will get out of your way.
 3. Head to the console at #2: 1 2 3 1 4 4 4 2 1 2 2
-4. Now run to the Training Room at #5 and activate the console twice: 1 | 1 3 3-
+4. Now run to the Training Room at #5 and activate the console twice: 1 \| 1 3 3-
 5. Run to the other end at #6, press 1 and loot Vash’s body, then console: 2 1 1 2
 6. Exit the academy with either Bao-Dur or Atton. (You don't need to activate the Sion cutscene, map to be updated later)
 
@@ -558,7 +558,7 @@ https://cdn.discordapp.com/attachments/808151224842977353/813297903187263498/unk
 - Swap to T3, and exit back to the Mandalorian Camp.
 
 Talk to the Mandalorian Captain: 2 3
-Talk to Zuka: 1 1 4 (to get 1k credits) | 1
+Talk to Zuka: 1 1 4 (to get 1k credits) \| 1
 Talk to Mandalore (1 spam)
 
 Sith Ambush Fight: 
@@ -676,7 +676,7 @@ Ending Credits: 2k (required for talking to Kaalah-Nah, DO NOT talk to Kaalah-Na
 
 Trigger the cutscene with MC next to Geeda: 2 (to make one of them jump off a cliff, yahoo!)
 Run from the encounter and head inside the Cantina (neon signs).
-Talk to Kaalah-Nah: 4 | 1 1
+Talk to Kaalah-Nah: 4 \| 1 1
 
 Leave the bar, and run to the Docks.  After the cutscene, turn on solo mode and run to Vogga.
 Guard: 3 

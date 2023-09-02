@@ -158,7 +158,7 @@ Dantooine->Telos->Ravager->Malachor
 - Use 3C to go to cockpit and end prologue
  
 **PERAGUS:**
-¤ AMG | Mash until you're out of the kolto tank | QS/QL to skip CS
+¤ AMG \| Mash until you're out of the kolto tank \| QS/QL to skip CS
 ¤ Hotshot back to Ebon Hawk
 - Cast force speed (Shift+4, 4)
 - Mash exit 2-4 times to exit the hotshot menus
@@ -186,11 +186,11 @@ Dantooine->Telos->Ravager->Malachor
 - Run towards Atton
 - Mash first conversation
 ¤ AMG and open door to Atton
---- Mash until Atton's prison cell is lowered | QS/QL to skip CS
+--- Mash until Atton's prison cell is lowered \| QS/QL to skip CS
 - Find 3C
 --- Destroy droids in way: 3
 - Make save before talking to C3
-- C3:7 | Cheat me to T3
+- C3:7 \| Cheat me to T3
 - Make another hard save before you are cheated to the Hangar Bay
  
 **HANGAR BAY**
@@ -210,7 +210,7 @@ Dantooine->Telos->Ravager->Malachor
 - Hotshot to administration level save before talking to 3C
  
 **ADMINISTRATION LEVEL:**
-- C3: 11 | Have to scroll down and press with mouse
+- C3: 11 \| Have to scroll down and press with mouse
 - Talk to Atton 
 - Turn off V-sync
 ¤ DLZ to Fuel Depot
@@ -251,7 +251,7 @@ Dantooine->Telos->Ravager->Malachor
 - Run forward
 - Mash Kreia
 - Make sure to be far enough in the hallway before talking to 3C
-- C3:8 | Alert me when Darth Sion arrives
+- C3:8 \| Alert me when Darth Sion arrives
 - Switch to killblaster
 - Trigger HK-47 fight
 - HK: 3spam
@@ -289,7 +289,7 @@ Dantooine->Telos->Ravager->Malachor
 --- Kill the last trooper as fast as possible and prevent any from entering the Hawk
  
 **EBON HAWK:**
-- First dialogue: 6,2 | 4,3,3
+- First dialogue: 6,2 \| 4,3,3
 - Run back to Kreia
 --- It is important to fully explore the Galactic History with Kreia
 - Kreia: 2x5,3,1,1,3,2,1,2,1,3x3,2,1,1,4,3,2,1x6,3,3
@@ -437,7 +437,7 @@ Dantooine->Telos->Ravager->Malachor
  
 [Section=Telos Surface]
 **TELOS SURFACE:**
-¤ AMG | QS/QL to skip cutscene
+¤ AMG \| QS/QL to skip cutscene
 --- Hard buffering can also be used but is less reliable in my opinion
 - Add 3C
 - 3C: 1
@@ -497,7 +497,7 @@ Dantooine->Telos->Ravager->Malachor
 [Section=Polar Academy:]
  
 **POLAR ACADEMY:**
-¤ Hard Buffer or AMG | QS/QL this cutscene
+¤ Hard Buffer or AMG \| QS/QL this cutscene
 - Talk to middle HK: 3spam
 - Kill middle HK and loot
 - Enter academy LZ
@@ -507,7 +507,7 @@ Dantooine->Telos->Ravager->Malachor
 - More mashing
 - Turn around and go to where Atton/Kreia are being held
 - Open door to Kreia/Atton
-- Kreia: 1,7,3 | 
+- Kreia: 1,7,3
 - Bao'Dur: 1,3,1
 - Move towards T3
 ¤ AMG QS/QL T3 dialogue
@@ -577,7 +577,7 @@ Dantooine->Telos->Ravager->Malachor
 **EBON HAWK:**
 ¤ AMG QS/QL Crewmate Ebon Hawk cutscene
 - Fly to Onderon
-¤ AMG on load in | QS/QL
+¤ AMG on load in \| QS/QL
 - Press Onderon again on the map 
 - Add T3 and Kreia when you leave
  
@@ -624,7 +624,7 @@ Dantooine->Telos->Ravager->Malachor
 - Repeat one more time
 --- Make sure to not cast the force power too early
 --- You need to make sure the Mandalorians enter combat first
-- Mandalore: 1spam | 2
+- Mandalore: 1spam \| 2
 - Sith ambush
 - Activate Solo mode
 - Use Kreia to kill the pack near where you start
@@ -681,14 +681,14 @@ Dantooine->Telos->Ravager->Malachor
 --- QS to mash through the cutscene/dialogue until it's through
 - Nikko
 - Mash Dhagon/Rikken dialogues
-- Riiken: 1 | KILL HIM
+- Riiken: 1 \| KILL HIM
 - Beast Master: 1 
 - Enter Merchant Quarter
 - Talk to Anda to turn in quest
 - Enter Cantina
 - Solo Mode
 - Duros Captain: 1spam
-- Bakkel | Kill and Loot
+- Bakkel \| Kill and Loot
 ¤ Combat Talk Xaart: 1,1,1,2,1,1
 - Exit cantina
 - Dhagon 
@@ -887,9 +887,9 @@ Dantooine->Telos->Ravager->Malachor
 - Solo Mode
 - Door guard: 1spam
 - Kaalah-nah: 4
-- Kaalah-nah: 1,1 | 3,1,1
+- Kaalah-nah: 1,1 \| 3,1,1
 - Goredi with MC
-- Dahnis: 1 | Atton needs to be close by
+- Dahnis: 1 \| Atton needs to be close by
 - S4-C8: 2,1,2,2,1spam
 ¤ AMG QS/QL champ cutscene
 - The Champ: 2,1spam
@@ -910,7 +910,7 @@ Dantooine->Telos->Ravager->Malachor
 - Use T3 on nearby Terminal: 4,1
 - T3 to Pylon 2: 2,1,2,1,1
 - Enter the nearby apartments with the MC
-- Lunar Shadow Crewmen: 1spam| 4
+- Lunar Shadow Crewmen: 1spam\| 4
 - Bith Scientist
 - Equip C3 with Killblaster
 - Loot Twi'lek corpse with 3C
@@ -929,7 +929,7 @@ Dantooine->Telos->Ravager->Malachor
 - Add 3C
 --- Make sure 3C is in the middle of the room right next to Telos Surface LZ
 ¤ Hotshot back to docks
-¤ AMG and trigger Hanharr cutscene near Landing pad LZ | QS/QL to cancel
+¤ AMG and trigger Hanharr cutscene near Landing pad LZ \| QS/QL to cancel
 - Exit docks and reenter docks
 - C3: 1
 - C3: 2
@@ -941,7 +941,7 @@ Dantooine->Telos->Ravager->Malachor
 - Enter Refugee Landing Pad with Atton
  
 **REFUGEE LANDING PAD:**
-- Keion: 1spam | Buy HK Chassis
+- Keion: 1spam \| Buy HK Chassis
 - Talk to droid next to Keion
 ¤  Hotshot to Dantooine Enclave to add Kreia
 ¤  Hotshot back to Nar Shadaa again
@@ -994,7 +994,7 @@ Dantooine->Telos->Ravager->Malachor
 **POLAR ACADEMY:**
 - Change difficulty to Difficult as handmaiden
 - Get yeeted by Atris then change difficulty to easy
-- Shoot Atris with killblaster | She flees
+- Shoot Atris with killblaster \| She flees
 - Shoot Atris again
  
 **TELOS STATION:**
@@ -1042,7 +1042,7 @@ Dantooine->Telos->Ravager->Malachor
  
 **DEPTHS:**
 ¤ Hotshot to Ravager
---¤ AMG | QS/QL the cutscene again
+--¤ AMG \| QS/QL the cutscene again
 - Position Visas underneath North doorframe
 ¤ Hotshot back to Malachor Depths
 - Trigger CS with Visas outside Academy entrance
