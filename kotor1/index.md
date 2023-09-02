@@ -64,6 +64,29 @@ Here's some useful external links that can be helpful for KotOR I speedrunning.
 - [Randomizer Download](https://www.speedrun.com/kotor1/resources)
 - [Randomizer Helper](https://docs.google.com/spreadsheets/d/1KXacPUuyjH_u71wKQwp5PA_JubrDp3C8eoBRTwphyf4/edit#gid=1503305590) by [glasnonck](https://www.speedrun.com/users/glasnonck)
 
+## Current Records
+
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Player</th>
+            <th>LRT</th>
+            <th>RTA</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr id="k1AnyU"     ><td>Any% Unrestricted</td></tr>
+        <tr id="k1AnyNMG"   ><td>Any% NMG</td></tr>
+        <tr id="k1AnyG"     ><td>Any% Glitchless</td></tr>
+        <tr id="k1ASM"      ><td>All Star Maps</td></tr>
+        <tr id="k1AQU"      ><td>All Quests Unrestricted</td></tr>
+        <tr id="k1AQNMG"    ><td>All Quests NMG</td></tr>
+        <tr id="k1AQG"      ><td>All Quests Glitchless</td></tr>
+    </tbody>
+</table>
+<script src="{{ "/scripts/currentRecords.js" | relative_url }}"></script>
+
 ## Contribute
 
 This guide repository is community owned and maintained.  If you would like to contribute a guide, make a correction to an existing guide, or help edit this repository, feel free to make a pull request.  Each guide has a convenient <img src="/assets/images/github.svg" alt="GitHub Logo" width="16" height="16"> link at the top that leads to the source file for ease of access.

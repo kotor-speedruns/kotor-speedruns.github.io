@@ -31,12 +31,10 @@ const catIds = {
 };
 
 async function get_record(uri, tr) {
-    res = await fetch(uri, {cache: "no-store"});
+    res = await fetch(uri);
     response = await res.json();
     
     run = response['data']['runs'][0]['run'];
-
-    console.log(run);
 
     player_uri = run['players'][0]['uri'];
     LRT = run['times']['realtime_noloads_t'];
@@ -48,27 +46,34 @@ async function get_record(uri, tr) {
     player = p_response['data']['names']['international'];
 
     tdPlayer = document.createElement("td");
-    tdPlayer.append(player);
+    aPlayerlink = document.createElement("a");
+    aPlayerlink.setAttribute("href", `https://www.speedrun.com/users/${player}`);
+    aPlayerlink.append(player);
+    tdPlayer.append(aPlayerlink);
+
     tdLRT = document.createElement("td");
-    tdLRT.append(new Date(LRT * 1000).toISOString().slice(11, 19));
+    aLRTlink = document.createElement("a");
+    aLRTlink.setAttribute("href", link);
+    aLRTlink.append(new Date(LRT * 1000).toISOString().slice(11, 19));
+    tdLRT.append(aLRTlink);
+
     tdRTA = document.createElement("td");
-    tdRTA.append(new Date(RTA * 1000).toISOString().slice(11, 19));
-    tdLink = document.createElement("td");
-    aLink = document.createElement("a");
-    aLink.setAttribute("href", link);
-    aLink.append("link");
-    tdLink.append(aLink);
+    aRTAlink = document.createElement("a");
+    aRTAlink.setAttribute("href", link);
+    aRTAlink.append(new Date(RTA * 1000).toISOString().slice(11, 19));
+    tdRTA.append(aRTAlink);
 
     tr.append(tdPlayer);
     tr.append(tdLRT);
     tr.append(tdRTA);
-    tr.append(tdLink);
 }
 
 async function leaderboards() {
     for (id in catIds) {
         tr = document.getElementById(id);
-        await get_record(`https://www.speedrun.com/api/v1/leaderboards/${catIds[id]}`, tr);
+        if (tr){
+            await get_record(`https://www.speedrun.com/api/v1/leaderboards/${catIds[id]}`, tr);
+        }
     }
 }
 leaderboards();
