@@ -50,6 +50,29 @@ Here's some useful external links that can be helpful for KotOR II speedrunning.
 - [Walkmesh Visualizer](https://github.com/glasnonck/WalkmeshVisualizer) by [glasnonck](https://www.speedrun.com/users/glasnonck)
 - [Bingo and Randomizer Downloads](https://www.speedrun.com/kotor2/resources) (Bingo by [30Cents](https://www.speedrun.com/users/30Cents), Randomizer by [Lane](https://www.speedrun.com/users/Lane))
 
+## Current Records
+
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Player</th>
+            <th>LTR</th>
+            <th>RTA</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr id="k2AnyU"     ><td>Any% Unrestricted</td></tr>
+        <tr id="k2AnyNDT"   ><td>Any% NDT</td></tr>
+        <tr id="k2AnyG"     ><td>Any% Glitchless</td></tr>
+        <tr id="k2AP"       ><td>All Planets</td></tr>
+        <tr id="k2MQU"      ><td>Max Quests Unrestricted</td></tr>
+        <tr id="k2MQNDT"    ><td>Max Quests NDT</td></tr>
+        <tr id="k2MQG"      ><td>Max Quests Glitchless</td></tr>
+    </tbody>
+</table>
+<script src="{{ "/scripts/currentRecords.js" | relative_url }}"></script>
+
 ## Contribute
 
 This guide repository is community owned and maintained.  If you would like to contribute a guide, make a correction to an existing guide, or help edit this repository, feel free to make a pull request.  Each guide has a convenient <img src="/assets/images/github.svg" alt="GitHub Logo" width="16" height="16"> link at the top that leads to the source file for ease of access.
