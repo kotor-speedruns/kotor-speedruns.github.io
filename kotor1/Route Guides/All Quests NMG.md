@@ -134,6 +134,7 @@ We choose Weapon Focus: Melee for the attack boost on Taris, in particular the f
 
 Our main plan is to combine Master Speed with Master Flurry and a Double-Bladed Lightsaber for five attacks per round in the late game.  Master Two-Weapon Fighting, Weapon Focus, stims and lightsaber crystals give us enough attack that we can reliably hit even with the attack penalties.
 
+**Notes on Feats and Powers:**
 - We take Empathy at level 3 to gain a small boost to Persuade and Treat Injury; no other feat is as useful at that level.
 - Implant Level 2 is granted for free at Level 4, allowing us to equip the Nerve Enhancement Package.
 - We reach level 5 on Taris so that we can be as strong as possible for the Bendak and Sith Base fights.  Level 6 is saved for when we become a Jedi so we can take Speed, Valor, and Affect Mind before leaving Dantooine.
@@ -143,7 +144,12 @@ Our main plan is to combine Master Speed with Master Flurry and a Double-Bladed 
 - Force Resistance can be used on Star Forge to help protect against hostile Force Powers, particularly on Deck 2.
 - Dominate Mind allows us to pass Persuade checks on Czerka guards on Kashyyyk and Lashowe on Korriban.  Affect Mind allows us to access Manaan, Tatooine and Kashyyyk without paying the docking fee, among other things.
 
-For skills, the 10 points in Intelligence allow us to get 4 net Computer Use, saving 1 spike per hacking with our MC.  This smooths out the spike route on Taris.  8 in Treat Injury helps us preserve some medpacs and increases survivability. Persuade helps us shortcut some quests and bypass some fights, and we max this out as soon as we become a Jedi.  We keep putting points in Persuade because as we level because we need more Persuasion to continue to pass important Persuade checks, all the way through sparing Bastila on the Star Forge.
+**Notes on Skills and Attributes:**
+- The 10 points in Intelligence allow us to get 4 net Computer Use, saving 1 spike per hacking with our MC and smoothing out the spike route on Taris.
+- The 1 point in Stealth causes a Stealth Field Generator to spawn in the first footlocker on Endar Spire, which we then sell for 40 extra credits, netting us a extra concussion grenade.
+- The 1 point in Security is for a skip on the Endar Spire, and to open a couple apartments on Taris.
+- 12 Charisma, along with maxing Persuade and Force Valor guarantees passing every Persuade check in the game.  We keep putting points in Persuade because as we level because we need more Persuasion to continue to pass important Persuade checks, all the way through sparing Bastila on the Star Forge.
+- 8 in Treat Injury helps us preserve some medpacs and increases survivability.  4 in TI is usually enough to get through Taris; if desired, you can take more points in TI at each level on Taris to be very slightly safer.
 
 ## Equipment Plan
 
@@ -2120,12 +2126,14 @@ This is a list of all the quests in the game, as well as the alignment we comple
 
 **v1.2 (September 2023)**
 - Uses Damage Stacking in the Duel Ring
-- Tweaked character build to stay at 4 Com
-- Save the students and destroy the droid on Korriban
-- Reordered Valley of the Dark Lords
 - New strats in Tatooine 1 and Dantooine 2
-- Streamlined credit route through Manaan 1
+- Save the students and destroy the droid on Korriban
+- Reordered Valley of the Dark Lords to group combat together and save stims
 - Moved Pazaak, HK-47, and Iziz to Tatooine 2
+- Added the silly Vorn skip
+- Streamlined credit route through Manaan 1
+- Tweaked character build to stay at 4 Com
+- Updated alignment route
 
 **v1.1 (August 2023)**
 - Reformat to migrate to GitHub
