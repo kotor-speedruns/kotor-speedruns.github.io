@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic - All Quests No Major Glitches Guide 
 
-### v1.0: Male Scout -> Jedi Guardian Route
+### v1.2: Male Scout -> Jedi Guardian Route
 
 *Route and Guide by [indykenobi](https://www.speedrun.com/users/indykenobi) and [BinksMagnus](https://www.speedrun.com/users/BinksMagnus)*
 
@@ -116,13 +116,13 @@ We choose Weapon Focus: Melee for the attack boost on Taris, in particular the f
 
 | Level | Feat | Power | Skills |
 |---| :--- | :--- | :--- |
-| 1 | Weapon Focus: Melee Weapons, *Flurry* | | Com to 4, TI to 4, Sec to 1, Save 2 |
+| 1 | Weapon Focus: Melee Weapons, *Flurry* | | Com to 4, Stealth to 1, Sec to 1, TI to 4 |
 | 2 | Two-Weapon Fighting | | Save All |
-| 3 | Empathy | | TI to 6 |
+| 3 | Empathy | | Save All |
 | 4 | *Implant 2, Uncanny Dodge* | | Save All |
-| 5 | Improved Two-Weapon Fighting | | Com to 8 |
+| 5 | Improved Two-Weapon Fighting | | Save All |
 | 6 | Improved Flurry, *Force Jump* | Burst of Speed, Force Valor | Save All |
-| 7 | | Affect Mind | Per to 10 |
+| 7 | | Affect Mind | Per to 10, TI to 8 |
 | 8 | Master Two-Weapon Fighting | Dominate Mind | Per to 11 |
 | 9 | | Knight Speed | Per to 12 |
 | 10 | | Knight Valor | Per to 13 |
@@ -136,15 +136,14 @@ Our main plan is to combine Master Speed with Master Flurry and a Double-Bladed 
 
 - We take Empathy at level 3 to gain a small boost to Persuade and Treat Injury; no other feat is as useful at that level.
 - Implant Level 2 is granted for free at Level 4, allowing us to equip the Nerve Enhancement Package.
-- We reach level 5 on Taris so that we can be as strong as possible for the Duel Ring sidequest after rescuing Bastila.  Level 6 is saved for when we become a Jedi so we can take Speed, Valor, and Affect Mind before leaving Dantooine.
+- We reach level 5 on Taris so that we can be as strong as possible for the Bendak and Sith Base fights.  Level 6 is saved for when we become a Jedi so we can take Speed, Valor, and Affect Mind before leaving Dantooine.
 - For Feats, we stack everything we can that improves our chance to hit; Master Flurry, Master Two-Weapon Fighting, and Weapon Focus/Specialization: Lightsaber are the key feats we get.
 - Force Speed is the key to our combat build and early movement; Master Speed is critical to get as many attacks in as possible.
 - Force Valor helps us out on pretty much every key fight starting with the Elite Sand People Warriors and going all the way up to Darth Malak.
 - Force Resistance can be used on Star Forge to help protect against hostile Force Powers, particularly on Deck 2.
 - Dominate Mind allows us to pass Persuade checks on Czerka guards on Kashyyyk and Lashowe on Korriban.  Affect Mind allows us to access Manaan, Tatooine and Kashyyyk without paying the docking fee, among other things.
-- If you happen to reach Level 16 (which is unlikely without a lot of extra kills), the power to take is Master Valor.
 
-For skills, the 10 points in Intelligence allow us to get up to 8 net Computer Use, saving 2 spikes per hacking with our MC.  6 in Treat Injury helps us preserve some medpacs and increases survivability. Persuade helps us shortcut some quests and bypass some fights, and we max this out as soon as we become a Jedi.  We keep putting points in Persuade because as we level because we need more Persuasion to continue to pass important Persuade checks.
+For skills, the 10 points in Intelligence allow us to get 4 net Computer Use, saving 1 spike per hacking with our MC.  This smooths out the spike route on Taris.  8 in Treat Injury helps us preserve some medpacs and increases survivability. Persuade helps us shortcut some quests and bypass some fights, and we max this out as soon as we become a Jedi.  We keep putting points in Persuade because as we level because we need more Persuasion to continue to pass important Persuade checks, all the way through sparing Bastila on the Star Forge.
 
 ## Equipment Plan
 
@@ -175,34 +174,33 @@ For skills, the 10 points in Intelligence allow us to get up to 8 net Computer U
 The major purchases made during the run are the CNS Strength Enhancer, HK-47, and a large amount of adrenal stims and medpacs for fights.  The credit route is extremely tight early on and stops being a concern after Manaan 1.
 
 **1. Larrim on Taris**
-- *Sell*: Unneeded Items to reach about 1276 Credits
-- *Buy:* 2x Concussion Grenade and Battle Stimulant (≥1000 Credits)
+- *Sell*: Unneeded Items to reach about 1194 Credits
+- *Buy:* 2x Concussion Grenade and Battle Stimulant (~908 Credits)
 
 **2. Zelka Forn on Taris**
-- *Buy*: Nerve Enhancement Package, 5x Adrenal Alacrity, 5x Adrenal Strength, Medpacs
+- *Buy*: Nerve Enhancement Package, 5x Adrenal Alacrity, 2x Adrenal Strength (~58 Credits)
 
-**3. Janice Nall on Taris**
-- *Sell*: Unneeded Items to reach about 6400 Credits
+**3. Kebla Yurt on Taris**
+- *Buy*: Concussion Grenade (~28 Credits)
 
-**4. Crattis Yurkal on Dantooine**
-- *Buy*: CNS Strength Enhancer, Breath Mask, 3x Adrenal Alacrity, 1x Adrenal Strength, 1x Adrenal Stamina, +/- Pazaak Cards
+**4. Janice Nall on Taris**
+- *Sell*: Unneeded Items to reach about 6072 Credits
 
-**5. Mic'Tunan'Jus Orgu on Tatooine**
-- *Sell*: Unneeded Items to reach about 4800 Credits
-- *Buy*: Bantha Fodder, ~15x Advanced Medpacs
+**5. Crattis Yurkal on Dantooine**
+- *Buy*: CNS Strength Enhancer, Breath Mask, 3x Adrenal Alacrity, 1x Adrenal Strength, 1x Adrenal Stamina, +/-3, +/-5 Pazaak Cards (~22 Credits)
 
-**6. Junix Nard on Tatooine**
-- *Buy*: Pazaak Cards (3650 Credits)
+**6. Mic'Tunan'Jus Orgu on Tatooine**
+- *Sell*: Unneeded Items to reach about 6538 Credits
+- *Buy*: 4x Life Support Packs, ~14x Advanced Medpacs, Adrenal Strength, Bantha Fodder (~4767 Credits)
 
 **7. Selkath Merchant on Manaan**
-- *Sell*: Racing Bonds to reach about 4500 Credits
-- *Buy*: 7x Parts, 5x All Hyper Stims (≥500 Credits)
+- *Buy*: 7x Parts, 5x All Hyper Stims (~447 Credits)
 
-**8. Eli Gand on Kashyyyk**
-- *Buy*: ~20x Advanced Medpac
+**8. Junix Nard on Tatooine**
+- *Buy*: All Pazaak Cards, Hair Trigger (~7797 Credits)
 
 **9. Czerka Store on Korriban**
-- *Buy*: All Echani and Hyper Stims, Medpacs if needed
+- *Buy*: All Echani and Hyper Stims (~1200 Credits)
 
 Notice that we sell as much as possible to Janice Nall on Taris; shops on Taris give 40% of item value for sell prices, compared to 25% off of Taris, so we maximize our credits that way.
 
@@ -227,11 +225,11 @@ Here's the full list of alignment actions that happen during the run; there are 
 | Neutral | Kill Largo | Low Dark | -2 | 44 |
 | Neutral | Kill the Infected Outcasts | Low Dark | -2 | 42 |
 | Neutral | Give Rukil the Promised Land journals | High Light | +6 | 48 |
-| Neutral | Agree to a death match with Bendak Starkiller | Low Dark | -2 | 46 |
-| Neutral | Threaten Ajuur for more credits | Low Dark | -2 | 44 |
-| Neutral | Threaten Janice Nall for T3 | Low Dark | -4 | 40 |
-| Neutral | Sell the Rakghoul Serum to Zax | Low Dark | -2 | 38 |
-| Dark | Threaten Yuka Laka for HK-47 | Low Dark | -1 | 37 |
+| Neutral | Agree to kill Gadon Thek | Low Dark | -2 | 46 |
+| Neutral | Agree to a death match with Bendak Starkiller | Low Dark | -2 | 44 |
+| Neutral | Threaten Ajuur for more credits | Low Dark | -2 | 42 |
+| Neutral | Threaten Janice Nall for T3 | Low Dark | -4 | 38 |
+| Dark | Sell the Rakghoul Serum to Zax | Low Dark | -1 | 37 |
 | Dark | Kill Tanis | Mid Dark | -2 | 35 |
 | Dark | Kill Komad Fortuna | Low Dark | -1 | 34 |
 | Dark | Order Sasha off your ship | Mid Dark | -2 | 32 |
@@ -243,26 +241,25 @@ Here's the full list of alignment actions that happen during the run; there are 
 | Neutral | Refuse reward from Shen and Rahasia | Low Light | +2 | 44 |
 | Neutral | Kill Zuulan | Low Dark | -2 | 42 |
 | Neutral | Kill Rulan | Low Dark | -2 | 40 |
+| Dark | | Low Dark | -2 | 38 |
+| Dark | Kashyyyk Star Map Quiz | Low Light | +4 | 42 |
+| Neutral | | Low Dark | -2 | 40 |
 | Neutral | Kill Freyyr | High Dark | -6 | 34 |
-| Dark | | Low Dark | -1 | 33 |
-| Dark | Kashyyyk Star Map Quiz | Low Light | +4 | 37 |
-| Dark | | Low Dark | -1 | 36 |
-| Dark | Report Freyyr's death to Chuundar | High Dark | -4 | 32 |
-| Dark | Tell Matton not to kill Eli | High Light | +8 | 40 |
-| Neutral | Buy Sharina's wraid plate for half price | Low Dark | -2 | 38 |
-| Dark | Kill Vorn | Low Dark | -1 | 37 |
+| Dark | Report Freyyr's death to Chuundar | High Dark | -4 | 30 |
+| Dark | Tell Matton not to kill Eli | High Light | +8 | 38 |
+| Dark | Buy Sharina's wraid plate for half price | Low Dark | -2 | 37 |
 | Dark | Kill Ithorak | Low Dark | -1 | 36 |
-| Dark | Persuade Yuthura to let you join the Sith Academy | Low Dark | -1 | 35 |
-| Dark | Persuade Kel Algwinn to return to the Jedi | Hardcoded | +3 | 38 |
-| Dark | Use serum on the Mandalorian prisoner | Hardcoded | -3 | 35 |
-| Dark | Use serum on the Mandalorian prisoner again | Hardcoded | -3 | 32 |
-| Dark | Give Dustil evidence of Uthar's betrayal | High Light | +8 | 40 |
-| Neutral | Disable assassination protocol in rogue droid | Mid Light | +4 | 44 |
-| Neutral | Give dark answers during Jorak Uln's quiz | Mid Dark | -4 | 40 |
-| Neutral | Spare Yuthura Ban | Mid Light | +4 | 44 |
-| Neutral | | Low Light | +2 | 46 |
-| Neutral | Remain true to the Light Side on Lehon | High Light | +6 | 52 |
-| Neutral | | Highest Light | +10 | 62 |
+| Dark | Threaten to kill Shasa | High Dark | -4 | 32 |
+| Dark | Persuade Kel Algwinn to return to the Jedi | Hardcoded | +3 | 35 |
+| Dark | Give Dustil evidence of Uthar's betrayal | High Light | +8 | 43 |
+| Neutral | Use serum on the Mandalorian prisoner | Hardcoded | -3 | 40 |
+| Neutral | Use serum on the Mandalorian prisoner again | Hardcoded | -3 | 37 |
+| Dark | Give dark answers during Jorak Uln's quiz | Mid Dark | -2 | 35 |
+| Neutral | Tell the renegade Sith that they're free | High Light | +8 | 43 |
+| Neutral | Spare Yuthura Ban | Mid Light | +4 | 47 |
+| Neutral | | Low Light | +2 | 49 |
+| Neutral | Remain true to the Light Side on Lehon | High Light | +6 | 55 |
+| Neutral | | Highest Light | +10 | 65 |
 
 The alignment route is quite lenient, since we no longer try to equip the Solari crystal until after Lehon, when we get a massive infusion of light side points when we choose to renounce our former identity.
 
@@ -297,22 +294,22 @@ In general, every quest outcome is chosen to get the fastest time, regardless of
 - We kill Freyyr because it's faster overall for a variety of reasons. We avoid having to kill the Ritual Beast, we avoid having to fight Chuundar and his lackeys, Gorwooken will take us straight to Chuundar as we exit the Shadowlands, and we avoid having to complete Wookiee Lost the normal way as it auto-completes instead when Chuundar kicks us out of the village.
 
 **9. Star Map: Kashyyyk - Dark** 
-- We give the "correct" answers during the Star Map quiz on Kashyyyk because it's faster than giving Light Side answers and having to fight the Defense Droids.  Ironically, because we have Dark alignment while this is happening and the second answer causes a Light Side shift, this entire conversation results in a net Light Side shift of +2 despite the fact that we're giving mostly "Dark Side" answers.
+- We give the "correct" answers during the Star Map quiz on Kashyyyk because it's faster than giving Light Side answers and having to fight the Defense Droids.  Ironically, because we have exactly 40 alignment when this is happening and the second answer causes a Light Side shift, this entire conversation results in no net alignment shift, despite the fact that we're giving mostly "Dark Side" answers.
 
-**10. Korriban Sidequests and Prestige** 
-- Many of the Korriban choices are made because we can only turn in five prestige points before Uthar stops accepting other quests.  Choosing the Dark Mandalorian Weapons Cache, Light Doubting Sith, Neutral Ajunta Pall's Sword, and Light Rogue Droid allows those sidequests to be completed without talking to Uthar; this leaves only five quests (Code of the Sith, Hermit in the Hills, Renegade Sith, Aiding Lashowe, and Double-Double Cross) that require getting a prestige point from Uthar.  The only other possibility is Light Renegade Sith and Dark Rogue Droid, but that requires killing the terentatek at the back of the Shyrack Caves, which is too far out of the way.
-
-**11. Finding Dustil - Light** 
-- Choosing to give Dustil the evidence of Uthar's treachery is just barely slower, but prevents having to fight him, and we have to go into Uthar's Room anyways.
-
-**12. Hermit in the Hills - Dark** 
-- Choosing the Dark Hermit in the Hills completion is faster and prevents having to fight Jorak Uln, who's actually kind of a pain.
-
-**13. Middleman - Dark**
+**10. Middleman - Dark**
 - We give Sharina half the credits she asks for because it's faster to mash through the cutscene than it is to select dialogue.
 
+**11. Korriban Sidequests and Prestige** 
+- Many of the Korriban choices are made because we can only turn in five prestige points before Uthar stops accepting other quests.  Choosing the Dark Mandalorian Weapons Cache, Light Doubting Sith, Neutral Ajunta Pall's Sword, and Light Renegade Sith allows those sidequests to be completed without talking to Uthar; this leaves only five quests (Code of the Sith, Hermit in the Hills, Rogue Droid, Aiding Lashowe, and Double-Double Cross) that require getting a prestige point from Uthar.  The only other possibility is Neutral Renegade Sith and Light Rogue Droid, but that gives less experience, which risks not having Master Speed for the Star Forge.  In addition, the animations for repairing the droid take a surprisingly long time.
+
+**12. Finding Dustil - Light** 
+- Choosing to give Dustil the evidence of Uthar's treachery is just barely slower, but prevents having to fight him, and we have to go into Uthar's Room anyways.
+
+**13. Hermit in the Hills - Dark** 
+- Choosing the Dark Hermit in the Hills completion is faster and prevents having to fight Jorak Uln, who's actually kind of a pain.
+
 **14. Trapped on a Nameless World - Light**
-- We stay true to the Light Side on Lehon because otherwise the "Juhani" quest does not complete.  It also makes the Star Forge faster in the NMG rule set, since we would otherwise have to bring Bastila through the Star Forge with us.
+- We stay true to the Light Side on Lehon because otherwise the "Juhani" quest does not complete.  It also makes the Star Forge faster in the NMG ruleset, since we would otherwise have to bring Bastila through the Star Forge with us.
 
 ## Route Overview
 
@@ -363,9 +360,6 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 
 **4. Tatooine 1**
 - Win the Tatooine Swoop Races and get Nico a better contract
-- Win a Pazaak Game
-- Buy HK-47
-- Speak with Iziz about his kin
 - Deal with Tanis in the Dune Sea
 - Deal with the Gamorrean Ambush
 - Kill Komad Fortuna and the Krayt Dragon
@@ -404,7 +398,10 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 **8. Tatooine 2**
 - Buy Sharina's wraid plate
 - Reconcile Bastila and her mother
-- Kill Vorn
+- Win a Pazaak Game
+- Buy HK-47
+- Speak with Iziz about his kin
+- Hack Vorn's droid so the game thinks he's dead
 - Peacefully resolve the Sand People attacks
 - Gain access to Sand People history
 - Rescue the Jawa prisoners and Griff
@@ -416,7 +413,7 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 - Kill Ithorak and enter the Sith Base
 - Find the Data Module
 - Convince the Selkath youths to abandon the Sith
-- Turn in the GenoHaradan bounties
+- Turn in the GenoHaradan bounties and let Hulas go
 - Turn in the Data Module and take the Submersible
 - Locate the Star Map underwater
 - Be acquitted at your trial
@@ -431,20 +428,20 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 
 **11. Korriban**
 - Encounter Xor
-- Speak to Jagi with Canderous
+- Finish Jagi's Challenge with Canderous
 - Refuse to work with Lurze Kesh
 - Visit Mika Dorin's premium shop
 - Inflitrate the Sith Academy
 - Redeem Kel Algwinn to the light side
-- Interrogate the Mandalorian
 - Recite the Sith Code
-- Help both Uthar and Yuthura with their plots
+- Help Yuthura with her plot and tell her about Uthar's plot
 - Give Dustil proof of Uthar's treachery
-- Kill the Sith students in the Shyrack Caves
+- Interrogate the Mandalorian
 - Find Ajunta Pall's Sword
-- Deactivate the assassination protocol on the rogue droid
-- Kill Lashowe for the holocron
 - Pass Jorak Uln's quiz
+- Kill Lashowe for the holocron
+- Destroy the rogue assassin droid
+- Kill the terentatek to free the Sith students in the Shyrack Caves
 - Gain entrance to Naga Sadow's tomb and find the Star Map
 - Kill Uthar and spare Yuthura
 - Finish Juhani's backstory and kill Xor
@@ -2120,6 +2117,15 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - A Quest for the Star Forge
 
 ## Version History
+
+**v1.2 (September 2023)**
+- Uses Damage Stacking in the Duel Ring
+- Tweaked character build to stay at 4 Com
+- Save the students and destroy the droid on Korriban
+- Reordered Valley of the Dark Lords
+- New strats in Tatooine 1 and Dantooine 2
+- Streamlined credit route through Manaan 1
+- Moved Pazaak, HK-47, and Iziz to Tatooine 2
 
 **v1.1 (August 2023)**
 - Reformat to migrate to GitHub
