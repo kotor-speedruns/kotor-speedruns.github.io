@@ -550,56 +550,60 @@ Quest Notes:
 
 ## Taris 1
 
-*Note on Alacrity: We want Adrenal Alacrity to be active on the MC for as much of Taris as possible.  The route obtains 5 Alacrities on Taris, and with Duration Glitch and good movement you should be able to reach Dantooine with 2 remaining.*
+*Note on Alacrity: We want Adrenal Alacrity to be active on the MC for as much of Taris as possible.  The route obtains 6 Alacrities on Taris, and with Duration Glitch and good movement you should be able to reach Dantooine with 1 remaining.*
 
-**South Apartments:**
-- *Stims: Use Hotkey for Alacrity before vision CS*
-- *Stims: Use Hotkey for Strength before Hideout CS*
+### South Apartments
 - Carth talks to you: 1,1,1,5,3
+- *Stims: Alacrity on MC*
+  - We used to do this before the sleepy time CS but this lets your Alacrity last until just before the Lower Sewers
 - Loot footlocker for spikes and medpacs (+2; 3 Spikes)
 - *Equip MC: Combat Suit, Prototype Vibroblade Mainhand, Vibroblade Offhand*
 - Exit the apartment
   - *Party: Keep Carth when prompted*
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Sith Raid cutscene
-- Use Security on the first door on the right
-- Speak to and kill Dia: 1,1,1,2,2,2,1
-  - ***Starts “Dia’s Bounty”***
-- Loot Dia’s Bag
-- Larrim accosts you: 1,2,4
+- Swap to Carth and use Security on the first door on the right
+- Swap to MC and approach Larrim until he accosts you: 1,2,4
 
 ```
 SHOPPING: Larrim
 - SELL ALL EXCEPT:
-  - 3 Computer Spikes (sell down to 3)
-  - Vibroblade
+  - Computer Spikes
   - Grenades
   - Stims
 - BUY:
-  - Battle Stimulant
-  - Concussion Grenade
-    - Buy 2x if you can do so without going below 1000 credits
-    - This depends on what you got in Dia’s Bag
-- End: ≥ 1000 Credits
+  - Concussion Grenade x2
+  - Battle Stimulant  
+- End: ~908 Credits
 ```
 
+- Swap to Carth and talk to Dia
+- Swap back to MC before the convo starts: 1,1,1,2,2,2
+  - This keeps MC in the hallway and Carth near Dia
+  - ***Starts “Dia’s Bounty”***
+- Kill Dia with Carth's Power Blast
+- Swap to MC and open door to Upper City South
+- Once Dia is dead, use MC to [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth
+  - Remember, all [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) in this run should be [Buffered GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) 
+- As Carth, talk to MC
+  - ***Starts “Carth”*** 
 - Exit to Upper City South
   - ***Starts “Rapid Transit System”***
 
 ### Upper City South
-- Run to Upper City Cantina
-  - Do Carth #1 when prompted (mash 1)
-  - ***Starts “Carth”***
-- Enter Upper City Cantina
+- Run to and enter Upper City Cantina
 - Activate Solo Mode
-- Carth opens door
-- MC talks to Sarna: 1,1,3,2,1,1,1
+- As MC, talk to Gurney
+- Swap to Carth and open exit door
+- Swap to MC and talk to Sarna: 1,1,3,2,1,1,1
+  - If you are too slow and talk to Gurney, exit the convo with 5
   - ***Starts “Invited to a Party”***
 - Swap to Carth and leave the Cantina
+- Swap to MC and QS/QL to fix party following AI
 - Run towards Upper City North
 - Activate Solo Mode near sculpture at far end
-- With MC, open door to Medical Clinic
-- With Carth, open door to Upper City North
-- MC talks to Zelka: 1,1,1,3
+- As MC, open door to Medical Clinic
+- Swap to Carth and open door to Upper City North
+- Swap to MC and talk to Zelka: 1,1,1,3
   - ***Starts “Rakghoul Serum”***
 
 ```
@@ -607,36 +611,35 @@ SHOPPING: Zelka Forn
 - BUY: 
   - Nerve Enhancement Package
   - 5x Adrenal Alacrity
-  - 5x Adrenal Strength
-  - If you have extra credits, buy medpacs
-- End: <40 Credits
+  - 2x Adrenal Strength
+- End: ~58 Credits
 ```
 
-- Gurney accosts you: 1,3,4
+- Run towards exit until Gurney accosts you: 1,3,4
 - Swap to Carth and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
-  - Remember, all [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) in this run should be [Buffered GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) 
 - Enter Upper City North
 
 ### Upper City North
+- Swap to MC and QS/QL to fix following AI
 - Run straight across to Upper City North Apartments
 - *Stims: Alacrity on Carth before entering Apartments with MC*
 - Activate Solo Mode
 - As Carth:
   - Use Security to open the first door on the right
-  - Talk to Largo: 1,2 (swaps position with MC)
-  - Trigger Sarna’s party and loot backpack for Sith Armor
-  - ***Finishes “Invited to a Party”***
+  - Talk to Largo but swap to MC before convo: 1,2 (keeps Carth near Largo)
+  - Kill and loot Largo
 - As MC:
   - Run to second apartment on left
-  - Kill and loot Largo when swapped to his position
+  - After Carth talks to Largo, trigger Sarna’s party
+    - ***Finishes “Invited to a Party”***
+  - Loot backpack for Sith Armor
   - Run to door back to Upper City North
-  - [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth
 - Exit to Upper City North
 - Activate Solo Mode
 - *Equip Carth: Sith Armor*
-- With Carth, run down street to right until it narrows
-- With MC, [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth
-  - The cutscene to enter the Lower City will play and warp MC there
+- As Carth, run down street to right until it narrows
+- Swap to MC and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth
+  - The cutscene with the Sith guard will play and warp MC to the Lower City elevator as well
 - Return to Hideout and Transit Back
   - This sets our transit point for later
 - Enter Lower City
@@ -646,37 +649,54 @@ SHOPPING: Zelka Forn
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Vulkar/Bek CS
 - Enter Lower City East Apartments straight ahead
 - Use Security to open first apartment on right
-- Kill Matrik: 1,2
-- Exit to Lower City
-- Enter Bek Base
+- Kill Matrik with Carth's Power Blast: 1,2
+- As MC, open door to Lower City and exit when Matrik is dead
+- Enter Bek Base (mash the lookout's convo)
 - Activate Solo Mode to leave Carth at the entrance
-- Speak with Gadon: 1x10,3,2
+- Zaerdra accosts you; talk to Gadon: 1x10,3,2
 - Exit Bek Base with Carth
-- With Carth, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Canderous CS and enter West Apartments
+- As Carth, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Canderous CS and enter West Apartments
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Calo Nord CS
 - With MC, run to second apartment on right and use Security on the door
 - With Carth, while MC is opening door, use a Frag Grenade and Power Blast to kill Vulkars down the hall
   - This gets them out of the way and helps hit our XP threshhold
-- Kill Selven: 3
-- `Level to 3: Treat Injury to 6, Empathy`
-- Carth #2
+- Activate Solo Mode
+- Kill Selven with Carth's Power Blast: 3
+- Swap to MC and open door to Lower City
+- When Selven dies, GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth
 - Exit to Lower City
 - *Party: Remove Carth*
 - Enter Undercity
 
-### Undercity and Sewers
+### Undercity and The Promised Land
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip beggar CS
+- Run near gate to Infected Outcasts
 - *Party: Add Carth*
+- `Level to 3: Save Skills, Empathy`
 - Activate Solo Mode
-- With MC:
-  - Open gate on right and speak to healer: 1,2
-  - Avoid rakghouls in pen to speak to outcasts: 2,2
-    - If you get into combat with the rakghouls, use [Combat Talking](<../Techniques/Combat Talking>) to speak to the outcasts
+- Swap to Carth and click on Gendar
+- Swap to MC and open gate and run left until an infected outcast is targeted
+- Swap to Carth and run past Gendar so you don't talk to him
+- Swap to MC and click on an infected outcast
+- Swap to Carth and run forward until the convo happens: 2,2
   - ***Starts and Finishes “Infected Outcasts”***
-- With Carth:
-  - Open elevator door behind him
-  - [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
+- As Carth, click on any outcast villager near the far wall
+- Swap to MC and exit the gate
+  - If the healer accosts you, heal fully: 1,2
+- As MC, click on an outcast beggar in front of the Lower City elevator
+- Swap to Carth and move near the back corner, anywhere in the [red area](https://i.imgur.com/DtlUjcO.png)
+- Swap to MC and open the Lower City elevator
+  - Make sure you do this before you talk to the outcast beggar or you'll trigger the cutscene you buffered earlier
+- As MC, [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth
+- Swap to Carth and loot the Sith Soldier for rakghoul serum
+- As Carth, queue Power Blasts on several rakghouls
+  - We want him to kill some rakghouls if possible so we hit level 5 before the Bendak fight
+- Swap to MC and run towards Igear until he accosts you: 4
+  - Heal Carth with medpacs as needed; the Rakghoul Fiend can hurt him badly
+  - Igear's convo warps Carth to you
+  - Carth will likely run towards the village gate, as he is still targeting a rakghoul
 - Deactivate Solo Mode
+- Swap to Carth and trigger the Hendar cutscene
 - Kill rakghoul attacking Hendar
 - Mission joins the party
 - Approach Lower Sewers entrance
@@ -685,100 +705,85 @@ SHOPPING: Zelka Forn
 - As MC:
   - Run west and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Canderous CS
   - Run to and loot Outcast Corpse for a Promised Land journal
-    - *Stims: Probable Alacrity on MC*
-- ***Optional Strat: [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)***
-    - *This strat optimizes movement and saves at least 10 seconds, but can be risky as you’re trying to [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) while MC is being attacked.*
-    - *To perform this strat:*
-      - Run MC to the back of Canderous’s group, in the [green area](https://i.imgur.com/DtlUjcO.png)
-      - Swap to Mission or Carth and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
-    - *To skip this strat:*
-      - Run MC in range of the Lower Sewers, then swap to Carth or Mission and enter
-- Run forward, then activate Solo Mode to leave Carth and Mission to kill rakghouls
-- As MC, go right then first door on the left to loot second journal from Outcast Corpse
-- Put Mission near the Force Field Terminal
-- Rescue Zaalbar
-  - *Party: Keep Mission when prompted*
-  - ***Starts “A Rancor in the Sewers”***
-- `Level to 4: Strength to 19, Save Skills`
-- *Equip MC: Nerve Enhancement Package, Mission's Vibroblade Offhand*
-- Bash open footlocker in next room
-- As Mission, interact with the Force Field Terminal and mash the cutscene
-- [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) with Mission to warp MC
-- *Party: Add Zaalbar*
-  - *Note: If any rakghouls survived, you may have to enter Upper Sewers to change party members*
-- *Equip Zaalbar: Vibroblade Mainhand and Vibroblade Offhand*
-- As MC, run left, take first door on left, then first on right
-- Loot third journal from Outcast Corpse
-- Turn right and use ladder to exit sewers
+  - Run to the back of Canderous’s group, in the [green area](https://i.imgur.com/DtlUjcO.png)
+  - Swap to Mission or Carth and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
+- *Stims: Probable Alacrity on MC*
+- Enter the Lower Sewers as MC
+- Run forward and open the first door
 - Activate Solo Mode
-- As MC, loot Sith Soldier for rakghoul serum
-- As MC, run to Rukil while Mission & Zaalbar kill rakghouls
-- Turn journals in to Rukil
+- Attack the first rakghoul group as MC
+- Swap to Carth and run up to the rakghouls and queue Power Blasts
+  - We want him close by to get the +10 Ranged on Melee attack bonus
+  - Keep an eye on MC and Carth's health during this entire sewers section
+- Swap to Mission and run backward to the exit ladder
+- Once the rakghouls are dead, move MC and Carth in concert:
+  - As MC, open left door (to the Force Field)
+  - Swap to Carth, open right door, then click on next door on left
+  - Swap to MC and go through next door, then through left door, then click on the next door on right
+  - Swap to Carth and loot outcast corpse for a journal
+  - Swap to MC and click the next door
+    - If MC got stuck attacking Gamorreans, click the previous door above
+  - Swap to Carth, open the door across the hall, then open the door to free Zaalbar
+    - *Party: Keep Mission when prompted (Carth is removed)*
+    - ***Starts “A Rancor in the Sewers”***
+  - As MC, loot the outcast corpse for the final journal
+  - Swap to Mission and use the ladder to exit the sewers     
+- Activate Solo Mode to leave Mission at the sewers
+- As MC, enter the outcast village and talk to Rukil to turn in the journals
   - ***Starts and Finishes “Rukil’s Apprentice”***
   - ***Starts and Finishes “The Promised Land”***
-- As MC, run into corner to the east, in the [red area](https://i.imgur.com/DtlUjcO.png)
-- Mission/Zaalbar [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
-- Finish killing rakghouls if they’re still alive
-- *Unequip Mission: Remove all but clothes*
-- *Party: Remove Mission and Zaalbar*
-- Enter Lower Sewers
-  - *Note: Make sure MC has enough Vitality to tank some hits from the Gamorreans waiting down there*
-- Run to Upper Sewers
-- ***Optional Strat: Upper Sewers [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)***
-  - *This strat saves about 10 seconds in the Vulkar Garage but can be finicky. Using it is personal preference.*
-  - *To perform this strat:*
-    - *Party: Add Carth*
-    - Activate Solo Mode
-    - As Carth, open door behind you to Lower Sewers
-    - As MC, run through sewers and kill the Malfunctioning Droid
-    - Quickly swap to Carth and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to teleport MC to end of the sewers
-    - Queue up Flurry on the Vulkar Guards, then swap back to Carth
-    - Run through sewers to the same point as before
-    - Swap to MC and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth to the end of sewers
-    - Use Carth to open the door that leads to the rancor
-      - ***Finishes “Rancor in the Sewers”***
-    - Enter Vulkar Base
-  - *If you choose not to use the above strat:*
-    - Run through left tunnel, then take right tunnel
-    - Kill the Malfunctioning Droid
-    - Juke past the rancor and enter the Vulkar Base
-      - Try to run always at a 90 degree angle from the rancor’s pursuit
-      - Or, loot the bones and add a Frag Grenade and some Synthesized Odor, this is 20s slower
-    - Enter the Vulkar Base
+- Run back to the village gate, anywhere in the [green area](https://i.imgur.com/DtlUjcO.png)
+- Swap to Mission and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
+- Enter the Lower Sewers and use the terminal to lower the force field
+- Enter the Upper Sewers
 
 ### Vulkar Base
+- *Party: Remove Mission and Add Carth*
+- Make sure MC and Carth are healthy through this section
+  - `Auto-Level Carth` to heal him when needed
+  - For MC, you can `Level to 4: Strength to 19, Save Skills` to heal when needed
+  - If either gets low on health after that, use medpacs as needed
+  - After level 4, *Equip MC: Nerve Enhancement Package, Mission's Vibroblade Offhand*
+- Activate Solo Mode
+- As MC, click to open first door
+- Swap to Carth and click to open door behind you to Lower Sewers
+- Swap to MC and run through sewers until you find the Malfunctioning Droid; kill it
+- Swap to Carth and when the droid is dead, [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to teleport MC to end of the sewers
+- Clear combat, then queue up Flurry on the Vulkar Guards
+- Swap to Carth and run through sewers to the same point as before, just past the gas mine
+- Swap to MC and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth to the end of sewers
+- As Carth, open the door that leads to the rancor
+  - ***Finishes “Rancor in the Sewers”***
+- Swap to MC and enter Vulkar Base  
 - Kill the patrol droid
 - Defense Turret Skip:
   - Open the door to elevator area
-  - Stand in doorframe corner near terminal and QS
-  - Throw 2 Concussion Grenades (use Carth if present) at center turret
-  - If any turret remains unstunned, QL and try again
+  - Stand in doorframe corner near terminal and QS/QL
+  - Pause after loading and have both MC and Carth throw a Concussion Grenade at center turret
   - If all three turrets are stunned, take the elevator to the Garage
-  - If MC is alone, you can try to reach the garage with only 2 turrets stunned. There’s a 25% chance the remaining turret will miss you.
-- Activate Solo Mode (if Carth is present)
-- As Carth (or as MC if no Carth):
-  - Take hallway on right and enter last door on right
-  - Loot Garage Head’s Desk for keycard and supplies for Computer Spikes (+2; 5 Spikes)
-- As MC:
-  - Kill both Vulkars in the central hallway
-  - Continue past mines and take last door on left
-  - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Kandon Ark fight
-  - Get the swoop accelerator
-  - Talk to Kandon Ark
-    - This will teleport you outside the Vulkar base
+  - If two turrets are stunned, you can choose to risk reaching the elevator
+    - MC has a 25% chance to dodge the insta-kill shot; Carth has only a 5% chance to dodge
+  - Otherwise, QL and try the stun again
+- Once in the garage, Activate Solo Mode
+- As MC, target a Vulkar in the central hallway
+- Swap to Carth and take hallway on right
+- As Carth, enter last door on right and loot Garage Head’s Desk and Supplies (+2; 5 Spikes)
+- Swap to MC and turn left past the mines
+- As MC, open the last door on the left and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Kandon Ark fight
+- As MC, get the swoop accelerator, then talk to Kandon Ark
+  - This will teleport you outside the Vulkar base
 
 ### Rescuing Bastila
 - Return to Hidden Bek Base
-- Carth #3
-- Talk to Zaerdra and Gadon Thek
+- Talk to Zaerdra, then Gadon Thek accosts you
 - After the load screen, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Ithorian CS at swoop track
-- Talk to the Race Coordinator to complete Race One
+- Talk to the Race Coordinator to complete [Race One](<../Miscellaneous/Swoop Racing#planet-circuit-lap-1>)
   - Do not shift into the top gear for these swoop races; it’s faster by roughly a second to stay in fourth gear.
   - Whatever time you get on this race will be beaten by 0.25s by Redros
-- Talk to the Race Coordinator to complete Race Two
+- Talk to the Race Coordinator again to complete [Race Two](<../Miscellaneous/Swoop Racing#planet-circuit-lap-2>)
   - You’ll need to beat Redros’s time on the second race, but your swoop accelerates faster than before
-- After two panels of the Ithorian’s conversation, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Brejik fight
-  - Click twice then immediately start the buffer
+- Immediately after the Ithorian’s conversation, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Brejik fight
+  - Click twice, then immediately start the buffer
 - Talk to Bastila
   - If you miss the previous buffer, you can use [Combat Talking](<../Techniques/Combat Talking>) to talk to Bastila and skip the Brejik fight
   - Bastila will loot Brejik’s nonexistent corpse, so you still get her lightsaber and Brejik’s equipment
@@ -790,44 +795,83 @@ SHOPPING: Zelka Forn
 - Carth and Bastila accost you: 1,1,1 ... 2
   - ***Finishes “The Search for Bastila”***
   - ***Starts “Escaping Taris”***
+- **Workbench: Upgrade Prototype Vibroblade - Add Energy Projector and Vibration Cell**
 - Bastila #1
   - ***Starts “Bastila”***
-- Carth #4
+- Carth #2
 - Leave the Apartment
   - *Party: Add Bastila when prompted*
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Canderous’s friend accosting you
 - `Level Bastila to 4: Charisma to 16, Save Skills, Burst of Speed`
   - Increasing her Charisma to 16 gives her just enough Force Points to cast Burst of Speed twice
-- `Level MC to 5: Computer Use to 8, Improved Two-Weapon Fighting`
 - *Force: Cast Burst of Speed as Bastila*
   - Use Bastila’s Burst of Speed for movement for the next little while
 - Exit to Upper City South
   - *Force: Cast Burst of Speed* as you leave Apartments to Duration Glitch it
-- Run to Upper City Cantina and enter
-- Canderous accosts you
-  - ***Starts “Purchasing a Droid”***
+- Run towards Upper City Cantina until you're outside the Equipment Emporium
+- Activate Solo Mode
+- As MC, click the door to Kebla's shop
+- Swap to Bastila and click the cantina door
+- Swap to MC and talk to Kebla Yurt
+
+```
+SHOPPING: Kebla Yurt
+- BUY:
+  - Concussion Grenade
+- End: 28 Credits
+```
+
+- Swap to Bastila and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
+- Enter the Cantina  
+
 
 ### The Duel Ring
-- Watch the Dueling Ring CS
-  - This is required to spawn Bendak
-- Talk to Ajuur, and again twice between each duel
+- *Unequip MC: Remove Mission's Vibroblade*
+- Single Item Dupe the Prototype Vibroblade via menu method to prep for [Damage Stacking](<../Techniques/Damage Stacking>)
+- Use the following menu to perform [Damage Stacking](<../Techniques/Damage Stacking>) four times:
+  - As MC, open the mainhand weapon menu, highlight none, then cycle menus (Previous Menu, then Next Menu)
+  - Swap to Bastila, open the offhand weapon menu, highlight the Prototype Vibroblade, then cycle menus
+  - Swap to MC, open the offhand weapon menu, then immediately press Escape to exit that menu
+  - Swap to Bastila, open the mainhand weapon menu, highlight None and press Enter
+  - Open the Bastila's mainhand weapon menu again, highlight Mission's Vibroblade, and press Enter
+    - That finishes one stack; to reset for the next, equip a Prototype Vibroblade to both Bastila and MC's mainhands
+    - After the fourth stack, leave Mission's Vibroblade on Bastila and equip the Prototype Vibroblade to MC 
+      - MC's weapon stats should read 20-29 damage with a +18 to hit
+      - Leave MC's offhand empty; we want to avoid the dual wielding penalty for this section
+- Swap to Bastila and ensure Burst of Speed is active, then run forward until Canderous accosts you
+  - ***Starts “Purchasing a Droid”***
+- Swap to Bastila and run through left archway until the Dueling Ring CS starts
+  - This CS is required to spawn Bendak
+- Swap to Bastila and talk to Ajuur to start the first duel
   - ***Starts “The Dueling Ring”***
-- *Stims: Strength on MC in the arena before Ice, Marl, and Twitch* (2 Strength remaining).
-  - If you looted a random one & have more than 1 Battle Stimulant, use 1 on Twitch (1 Battle remaining).
+- The Dueling Ring:
+  - Start Deadeye, Ice, and Twitch's duels by swapping to Bastila, talking to Ajuur, then swapping to MC and talking to Ajuur again
+  - Start Gerlon and Marl's duels by running to Ajuur as MC and talking to him twice
+  - For each duel, run up to your opponent and use Flurry; you do not need to use bumping
+  - With the [Damage Stacking](<../Techniques/Damage Stacking>), Deadeye and Gerlon are one-round fights, while Marl and Twitch are two rounds (unless you auto-miss)
+  - Ice is typically one round, but could be two if you have low damage rolls
+  - *Stims: Strength on MC in the arena for Ice and Twitch*
+  - As soon as it is available, `Level MC to 5: Save Skills, Improved Two-Weapon Fighting`
 - DO NOT talk to Ajuur after defeating Twitch
-- Buy Garouk’s Pazaak Deck: 2,3
-  - ***Starts “Pazaak Rules”***
-- Speak to Bendak
+- Swap to Bastila, cast Burst of Speed, and talk to Bendak
 - Leave and reenter Upper City Cantina
-  - This is needed to trigger the Bendak fight
-- Talk to Ajuur
+  - This is needed to trigger the Bendak fight, but clears the [Damage Stacking](<../Techniques/Damage Stacking>)
+- *Equip MC: Prototype Vibroblade Offhand (should still have a Prototype Vibroblade Mainhand)*
+- *Equip Bastila: Vibroblade Offhand (should still have Mission's Vibroblade Mainhand*
+- Activate Solo Mode to leave MC at the door
+- As Bastila, talk to Ajuur
 - Kill Bendak
   - *Stims: Alacrity, Strength, and Battle Stimulant on MC*
-  - Bumping Bendak can keep his blaster equipped, giving you a better chance to hit
+  - Use bumping to keep Bendak's blaster equipped as long as possible
+    - This keeps the +10 Ranged on Melee attack bonus active
+    - Without this bonus, Bendak is very difficult to hit
+    - If he draws his sword, you can try to bait him into drawing his blaster again by running away, but this is inconsistent
+  - With proper bumping and decent damage rolls, this is a 3-4 round fight
   - ***Finishes “The Dueling Ring”***
   - ***Starts “Bendak’s Bounty”***
-- Talk to Ajuur twice: 1,2,2 ... mash
+- Talk to Ajuur twice: 2,2,2 ... mash
   - This replaces Twitch’s reward with an extra copy of Bendak’s
+- Swap to Bastila and either wait for MC to be in range or [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
 - Exit to Upper City South
 
 ### Upper City North
@@ -836,72 +880,81 @@ SHOPPING: Zelka Forn
 - Activate Solo Mode
 - As Bastila, run through Upper City North to Janice Nall’s shop
 - Talk to Janice: 2,4,1
-  - *Party: Remove Bastila, Add T3 and Zaalbar when prompted*
+  - *Party: Add T3 and Keep Bastila when prompted*
   - ***Finishes “Purchasing a Droid”***
-- Activate Solo Mode
-- Swap to T3 and Zaalbar quickly just to make sure they don't move
-- *Unequip T3: Remove all but the Stun Ray and Shield Disruptor*
-- Talk to Janice Nall again: 1
+- *Unequip T3: Remove Energy Shield Level 1 and Droid Light Plating Type I*
+- As MC, talk to Janice Nall again: 1
 
 ```
 SHOPPING: Janice Nall
 - SELL ALL EXCEPT: 
   - Medpacs
   - Computer Spikes
-  - Stims
   - Double-Bladed Lightsaber
-  - 2 Concussion Grenades, 2 Sonic Grenades
-- End: ~6400 Credits
+  - Concussion Grenade
+  - Stims
+- End: ~6072 Credits
 ```
 
-- Swap to T3/Zaalbar and interact with the Elevator
-  - This warps the MC to Zaalbar and T3
-- As T3, [Save Teleport](<../Techniques/Save Teleporting>) to Sith Base entrance
+- Deactivate Solo Mode
+- Swap to Bastila and click the elevator door
+  - This triggers a conversation with the Sith Guard: 1
+  - The conversation warps the MC to Bastila and T3
+- Swap to T3 and [Save Teleport](<../Techniques/Save Teleporting>) to Sith Base entrance
   - This is about as fast RTA as Bastila with Burst of Speed at this point
-- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) the door opening CS
-- *Stims: Strength on Zaalbar*
-- Enter Sith Base
+  - Make sure Bastila and MC are following
+- As T3, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) the door opening CS
+- Enter Sith Base with Bastila
 
 ### Sith Base
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip secretary conversation
-  - If you miss, the conversation is 3,1
-- Kill both patrol droids at the end of the first hallway
-- Take right hallway and kill patrol droid
-- Defeat Sith soldiers in barracks
-- Loot footlocker for passcard with T3
-- As T3, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Assault Droid intro CS
+  - This is important to help MC and T3 follow Bastila
+- As Bastila, open first door, then door at the end of that hall, then door on the right and attack the patrol droid there
+- Swap to MC and destroy the first two patrol droids, then [Save Teleport](<../Techniques/Save Teleporting>) past Bastila and open door on right
+- As MC, queue Flurry on the left two Sith Soldiers
+- Swap to Bastila and attack the right Sith Soldier in the barracks
+- Swap to T3 and [Save Teleport](<../Techniques/Save Teleporting>) to loot the footlocker in the barracks
+- As T3, [Save Teleport](<../Techniques/Save Teleporting>) to the door to the assault droid
+- Once the soldiers are dead, open the door and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Assault Droid intro CS
 - Assault Droid Fight:
-  - Pause and use a Concussion Grenade on Assault Droid with T3
-  - MC attacks Assault Droid with Flurry
-  - Zaalbar attacks Assault Droid with Improved Power Strike
-  - T3 can use his Shield Disruptor to take out the Blaster Turrets (two shots each)
-- Enter the elevator
+  - Pause after the load and swap to Bastila
+  - Bastila: Concussion Grenade, then Flurry x3 on Assault Droid
+  - MC: Flurry x4 on Assault Droid
+  - T3: Shield Disruptor x2 on right blaster turret, then Disruptor x2 on the left blaster turret
+    - Make sure you use at most 4 Shield Disruptor charges during this fight 
+  - The grenade has a 55% chance to stun the assault droid, which makes the fight much quicker
+  - T3 may also be stunned by the grenade; if this happens, you can use MC/Bastila to clean up the turrets after the droid is destroyed 
+- After all three enemies are destroyed, enter the elevator
 - QS in case of death/bad luck
 - Sith Governor Fight:
-  - MC: Sonic Grenade, then Flurry
-  - Zaalbar: Concussion Grenade (or Sonic if you don’t have one), then Improved Power Strike
-  - T3: Stun Ray spam
-  - Prayge
+  - MC: Flurry x4
+  - Bastila: Stun x2, Flurry x2
+  - T3: Stun Ray x4
+  - Bastila's Stun lowers the Governor's defense by 4 even if he saves, and an additional 4 if the 15% chance to stun actually lands
+  - Each Stun Ray shot from T3 has a 25% chance to stun the governor
+  - MC will deal most of the damage, particularly once the governor is stunned
+  - Keep queueing Stun Rays as T3 until the governor is stunned
+  - If you didn't use all 4 Shield Disruptor shots earlier, you can use some here after the Governor is stunned, but be sure to save 6 shots
 - Loot both strongboxes and Sith Governor’s corpse for Launch Codes (+3; 8 Spikes)
   - If Governor is stunned and seems likely to die, T3 can loot the boxes during the fight
-- Exit the Sith Base
+- Leave the governor's office as T3
+- QS/QL to fix party following AI, then [Save Teleport](<../Techniques/Save Teleporting>) with T3 to exit the Sith Base
 
 ### Davik's Estate
-- *Party: Remove Zaalbar*
 - [Save Teleport](<../Techniques/Save Teleporting>) with T3 to the Lower City
-- [Save Teleport](<../Techniques/Save Teleporting>) to Javyar’s Cantina
+- QS/QL to fix party following AI, then [Save Teleport](<../Techniques/Save Teleporting>) to Javyar’s Cantina
 - Canderous accosts you: 1
-- Activate Solo Mode to leave MC with Canderous
+- Activate Solo Mode to leave party with Canderous
 - As T3, Talk to Zax: 1,2,3,1x14,2
   - ***Finishes “Rakghoul Serum”***
   - ***Starts and Finishes “Selven’s Bounty” and “Matrik’s Bounty”***
   - ***Finishes “Dia’s Bounty”, “Largo’s Bounty”, and “Bendak’s Bounty”***
-- ***Optional Journal Check: Active Quests should be "Carth", "Bastila", "Pazaak Rules", and "Escaping Taris"***
+- ***Optional Journal Check: Active Quests should be "Carth", "Bastila", and "Escaping Taris"***
 - Talk to Canderous: 2,1
   - *Party: Add T3 when prompted*
   - ***Starts “Canderous”***
-- Malak CS
-- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) after load-in to skip the Davik/Calo fight
+- Watch Malak and Saul CS on the Leviathan
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) after load screen to skip the Davik/Calo fight
 - As T3, [Save Teleport](<../Techniques/Save Teleporting>) to the security terminal: 1,2,2,4,3 (-8; 0 Spikes)
 - As T3, [Save Teleport](<../Techniques/Save Teleporting>) to the Ebon Hawk
   - You'll need to swap back to T3 when you enter the hangar
@@ -910,7 +963,6 @@ SHOPPING: Janice Nall
   - ***Finishes “Escaping Taris”***
   - ***Starts and Finishes “Taris: Planetary Information”***
   - ***Starts “The Ebon Hawk”***
-  
 
 ## Dantooine 1
 
