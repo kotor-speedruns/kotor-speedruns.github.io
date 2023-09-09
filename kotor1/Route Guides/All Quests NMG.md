@@ -795,7 +795,7 @@ SHOPPING: Zelka Forn
 - Carth and Bastila accost you: 1,1,1 ... 2
   - ***Finishes “The Search for Bastila”***
   - ***Starts “Escaping Taris”***
-- **Workbench: Upgrade Prototype Vibroblade - Add Energy Projector and Vibration Cell**
+- **Workbench: Prototype Vibroblade - Add Energy Projector and Vibration Cell**
 - Bastila #1
   - ***Starts “Bastila”***
 - Carth #2
@@ -978,7 +978,6 @@ SHOPPING: Janice Nall
 - Carth accosts you
   - *Party: Remove T3, Add Carth when prompted*
   - ***Starts “The Jedi Council”***
-- Carth accosts you again, if he doesn't talk to him anyways: Carth #5
 - Talk to Crattis Yurkal in the alcove on the right
 
 ```
@@ -989,8 +988,8 @@ SHOPPING: Aratech Mercantile
   - 3x Adrenal Alacrity
   - 1x Adrenal Stamina
   - 1x Adrenal Strength
-  - All +/- Pazaak Cards
-- End: ~0 Credits
+  - +/-3 and +/-5 Pazaak Cards
+- End: ~22 Credits
 ```
 
 - [Single Item Dupe](<../Techniques/Item Duplication#animation-duping>) the CNS Strength Enhancer
@@ -998,24 +997,26 @@ SHOPPING: Aratech Mercantile
   - Using two party members gives you three total CNS Strength Enhancers
   - This should also end with CNS equipped to MC
 - *Unequip Carth and Canderous: Remove all but Clothing*
-- *Party: Remove Carth*
+- As Carth, talk to MC for Carth #3
+- Belaya briefly accosts you in the atrium
+  - This is a much shorter conversation than the one you buffered earlier
 - [Open Buffer](<../Techniques/Save Buffering#open-buffers>) into the council conversation
-  - Swap to Canderous as the buffer ends
+  - Swap to a party member as the buffer ends
 - IMMEDIATELY AFTER this conversation, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip training montage
   - The council conversation is seven 1s; I count those seven, then click twice
   - As Master Vrook says, "I can only hope you prove up to the task...", click to skip the text and IMMEDIATELY AFTER, QS to start buffering
   - If you get the QS, but fail the load, kill the program, reopen, and load the QS
   - If you miss the QS, it's faster to kill the program and try again
   - ***Finishes "The Jedi Council"***
-- Swap to Canderous and talk to Master Zhar: 1,1
+- Swap to Carth or Canderous and talk to Master Zhar: 1,1
 - Swap to MC and talk to Master Zhar again: 1,1,6,3,2,6,4
-- Swap to Canderous and talk to Master Dorak to become a Jedi Guardian
+- Swap to Carth or Canderous and talk to Master Dorak to become a Jedi Guardian
 - `Level to 6: Save Skills, Improved Flurry, Burst of Speed and Force Valor`
-- `Level to 7: Persuade to 10, Affect Mind`
+- `Level to 7: Persuade to 10, TI to 8, Affect Mind`
 - *Force: Cast Burst of Speed*
-- Deactivate Solo Mode
-- Swap to Canderous and talk to Master Zhar
-} *Party: Remove Canderous*
+- Swap to Carth or Canderous and talk to Master Zhar
+- *Party: Remove Canderous and Carth*
+  - You may have to move the party member near Master Dorak a little towards the training room to be able to do this
 - Talk to Master Zhar once more
 - Talk to droid and exit enclave
   - *Force: Cast Burst of Speed as you exit for Duration Glitch*
@@ -1030,11 +1031,11 @@ SHOPPING: Aratech Mercantile
   - ***Starts “Missing Companion”***
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip kath hound spawn
 - Run to closer entrance to Matale Grounds
-- Run through Matale Grounds to Grove
-- Run left, Bolook accosts you: 2,2,2
+- Run straight through Matale Grounds to Grove
+- Run left to the bridge, where Bolook accosts you: 2,2,2
   - ***Starts and Finishes “Murdered Settler”***
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Juhani fight
-- Loot the Mandalorian corpses near Juhani (2 Battle Stims)
+- Loot the Mandalorian corpses near Juhani
 - Talk to Juhani to redeem her
 - Return to Ebon Hawk (RtEH)
 - Talk to Master Zhar
@@ -1046,6 +1047,7 @@ SHOPPING: Aratech Mercantile
   - ***Starts “Investigate Ruins”***
   - ***Starts “Sandral-Matale Feud”***
 - *Party: Remove Bastila*
+  - You can't remove her when prompted during Vandar's conversation
 - Transit Back to Grove
 
 ### Dantooine Ruins
@@ -1058,7 +1060,7 @@ SHOPPING: Aratech Mercantile
 - Enter the Ruins
 - *Party: Add Mission, Keep Bastila when prompted*
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip ancient droid conversation
-- Activate Solo Mode; do the following actions simultaneously:
+- Activate Solo Mode; intersperse the following actions:
 - As MC:
   - Open right hand door
   - Force Jump to guardian droid
@@ -1076,13 +1078,13 @@ SHOPPING: Aratech Mercantile
   - If done right, you will end up in front of the Star Map without having to watch the CS
 - Star Map: Dantooine
   - ***Finishes “Investigate Ruins”***
+- Talk with Mission three times: 1 ... 1,1,4,1 ... 1x13,2
+- Bastila #2 and #3: 2,1 spam both times 
 - Loot Nero's corpse for Robe and Sigil crystal
 - Exit Ruins
   - If one of your party members doesn't follow, use a [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to get them out quickly
 
 ### Leaving Dantooine
-- Talk with Mission three times: 1 ... 1,1,4,1 ... 1x13,2
-- Bastila #2 and #3: 2,1 spam both times
 - Return to Ebon Hawk
 - Lena accosts you after a short delay
   - ***Starts “Mission’s Brother”***
@@ -1093,16 +1095,15 @@ SHOPPING: Aratech Mercantile
   - ***Finishes “The Ebon Hawk”***
 - *Equip MC: Double-Bladed Lightsaber, Jedi Knight Robe, Strength Gauntlets, Breath Mask*
 - **Workbench: Double-Bladed Lightsaber - Add Sigil Crystal**
-- Juhani #1 and #2: spam
+- Juhani #1 and #2: spam both
 - Bastila #4 and #5: 2,1 spam both times
-- Carth #6
-- Fly to Tatooine
-  - [Map CS Skip](<../Techniques/Map Cutscene Skips>) once to Return to Ebon Hawk
+- Carth #4
+- Fly to Tatooine and use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) after the load to Return to Ebon Hawk
 - Reboard Ebon Hawk
 - Talk to T3 11 times (+11; 11 Spikes)
 - Bastila #6: 2,1 spam
-- Fly to Tatooine
-  - [Map CS Skip](<../Techniques/Map Cutscene Skips>) again
+- Carth #5
+- Fly to Tatooine and use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) again
     - *Party: Add Bastila*
     - Return to Ebon Hawk to spawn on Tatooine
 
