@@ -1119,122 +1119,119 @@ SHOPPING: Aratech Mercantile
 
 ```
 SHOPPING: Mic'Tunan'Jus Orgu
-- BUY:
-  - 15x Advanced Medpacs
-  - Bantha Fodder
 - SELL ALL EXCEPT:
-  - Medpacs
   - Computer Spikes
   - Stims
+- BUY:
+  - 4x Life Support Pack
+  - ~14x Advanced Medpac (stay above 4800 credits)
+  - 1x Adrenal Strength
   - Bantha Fodder
-- End: ~4800 Credits
+- End: ~4768 Credits
 ```
 
-- Gizka man accosts you
+- Run towards the Sullustan until he accosts you
   - ***Starts “The Trouble with Gizka”***
 - Swap to Bastila and enter Anchorhead
 
 ### Anchorhead
 - *Party: Remove Bastila*
-- Manaa Demknot accosts you
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Manaa Demknot conversation
 - Enter Czerka Office
-- [Force Skip](<../Techniques/Force Skips>) Duros CS
+- Immediately [Force Skip](<../Techniques/Force Skips>) the Duros CS
 - Talk to Czerka Protocol Officer: 1x10,3,2
   - ***Starts “Sand People”***
 - Exit to Anchorhead and enter Swoop Registration
-- Talk to Motta and win races: 1,3,1 spam ... race ... spam ... race ... spam ... race ... 3
+- Talk to Motta and win three [swoop races](<../Miscellaneous/Swoop Racing#tatooine>): 1,3,1 spam ... race ... spam ... race ... spam ... race ... 3
   - ***Starts “Signing Nico”***
   - ***Starts and Finishes “Tatooine Swoop Races”***
 - Talk to Nico
   - ***Finishes “Signing Nico”***
-- Exit to Anchorhead and [Force Skip](<../Techniques/Force Skips>) a fan encounter
-- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) or [Save Teleport](<../Techniques/Save Teleporting>) to skip the Dark Jedi fight
+- Exit to Anchorhead and immediately [Force Skip](<../Techniques/Force Skips>) a fan encounter
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Dark Jedi fight
 - Enter the Cantina
-- *Party: Add Bastila*
-- Talk to Junix Nard
-
-```
-SHOPPING: Junix Nard
-- BUY:
-  - 2x +/-2, +/-3, +/-4 Cards
-- End: ~3650 Credits
-- Take note of how many credits you have after purchasing the necessary cards
-```
-
-- Beat Furko Nellis in Pazaak: 1,1,2,2
-  - Use all of your +/- cards as your sidedeck
-  - ***Finishes “Pazaak Rules”***
+- *Party: Add Bastila and T3*
 - Talk to Helena: 1,3
-- *Party: Remove Bastila*
-- Exit to Anchorhead and Enter Droid Shop
-- Talk to Yuka Laka to buy HK-47
-  - This conversation changes based on how many credits you have
-    - More than 4000 Credits: 1,1,1,2,1,1,3,4,1
-    - Less than 4000 Credits: 1,1,1,2,1,1,2,3,1
-  - ***Starts and Finishes "Droid for Sale"***
-- Talk to HK-47: 2,1
-  - *Party: Leave empty when prompted*
-- Talk to Iziz outside: 1x6, 3
-  - ***Starts "Fair Trade"***
+- Exit to Anchorhead
 - Talk to Gate Guard to exit to Dune Sea
 
 ### Dune Sea
+- Activate Solo Mode to leave Bastila and T3 at the Anchorhead gate
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the angry wife CS
-- Tanis accosts you; then talk to Tanis: 1,1,3,1,1
+- Run towards Tanis until you can click on him
+- Swap to Bastila and *Force: Cast Burst of Speed*
+- Swap back to MC and talk to Tanis: 1,1,3,1,1
   - ***Starts and Finishes “Tanis Trapped”***
-- Loot rubble pile with voice to trigger Gamorrean ambush: 4,1
+- Swap to Bastila and T3 and stop their movement
+  - For some reason, they start running towards MC when Tanis is killed
+- Swap to MC and run straight towards the nearby corpse until the rubble to its left touches the left side of your screen
+  - Don't get too close or you'll trigger a Sand People ambush
+- Swap to Bastila and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC to the Eastern Dune Sea entrance
+- As MC, run into the Eastern Dune Sea to trigger the cutscene that prevents you from entering
+  - This warps Bastila and MC to you  
+- Swap to Bastila and loot rubble pile with voice to trigger Gamorrean ambush: 4,1
   - ***Starts and Finishes "Desert Ambush"***
-- [Save Teleport](<../Techniques/Save Teleporting>) or [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) past the void trigger in front of Eastern Dune Sea
-- Enter Eastern Dune Sea from out of bounds
+- Swap to T3 or MC and trigger the Eastern Dune Sea CS to warp Bastila back
+- As MC, [Save Teleport](<../Techniques/Save Teleporting>) or [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) past the trigger in front of Eastern Dune Sea
+- Enter Eastern Dune Sea from the back of the load zone
 
 ### Eastern Dune Sea
 
-*Note: At this point, [Save Teleporting](<../Techniques/Save Teleporting>) with no movement speed enhancements is about as fast RTA as Burst of Speed*
-
-- [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the anonymous hunter’s death CS
+- Run towards Komad until MC can click one of the boundary beacons
+- Click the beacon, then Activate Solo Mode
+- Swap to Bastila and *Force: Cast Burst of Speed*
+- Run towards the dewbacks and click one with Bastila
+- Swap back to MC and [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the anonymous hunter’s death CS
+- *Stims/Heal: Alacrity, Strength, Stamina, Battle Stim on MC, use Advanced Medpac(s)*
 - Talk to and kill Komad Fortuna: 1,2,1,1,2,3,1,2
-- [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the anonymous hunter’s death CS on the way out
-- *Force/Stims: Cast Force Valor, Alacrity, Strength, Stamina, Battle Stim on MC right before banthas*
-- Talk to a bantha
-- Defeat Elite Sand People Warriors via Force Jump and Improved Flurry
-- Interact with banthas, watch Krayt Dragon CS
+- While MC kills Komad, swap to Bastila and lure the bantha once he is dead
+- Sand People Fight:
+  - Pause after the CS to setup
+  - As Bastila, queue Stun on the middle warrior
+  - As T3, queue Shield Disruptor x4 on the rightmost warrior
+  - As MC, queue Force Jump (Default Attack) and three Flurries on middle warrior
+  - Swap to Bastila and unpause
+  - After Bastila uses her Stun, run slightly towards the left two warriors and queue Stun on both
+  - Swap to MC; the middle warrior should be dead, so Force Jump to the left warriors and queue Flurries on both
+  - Swap to T3 and clear any basic attacks, then queue at least two more Shield Disruptors on his warrior
+  - Swap to Bastila and run to the nearest bantha
+  - Once MC and T3 finish off the warriors, Deactivate Solo Mode and lure the bantha again with Bastila
+- The Krayt Dragon dies to poor Komad's mines
   - ***Starts “Star Map: Tatooine”***
   - ***Finishes “A Desert Hunt”***
-- Loot the Krayt Dragon for 2x Krayt Dragon Pearl
+- Swap to MC and loot the Krayt Dragon for 2x Krayt Dragon Pearl
+  - If you forget this, you cannot complete the "Worthy of History" sidequest!
+- ***Optional:*** Loot rubble for swag Violet Crystal
 - Loot tattered equipment pack for Holocron
 - Star Map: Tatooine
   - ***Finishes “Star Map: Tatooine”***
-- ***Optional:*** Loot rubble for swag Violet Crystal
+- `Level 8: Strength to 20, Persuade to 11, Dominate Mind` 
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Calo Nord fight
-- Return to Dune Sea
-- Return to Ebon Hawk and exit to Anchorhead
-- Run through Anchorhead until Senni Vek accosts you: 4
+- Run to Sand People Territory and Return to Ebon Hawk
+- Enter Anchorhead and run through until Senni Vek accosts you: 4
 - Return to Ebon Hawk and board
 
 ### Ebon Hawk
 - Zaalbar accosts you
   - ***Starts “Dwindling Supplies”***
-- `Level 8: Strength to 20, Persuade to 11, Dominate Mind`
 - **Workbench: Double-Bladed Lightsaber - Add Krayt Dragon Pearl (and optional Violet Crystal)**
 - Inspect supplies in cargo hold
 - Run to the three points where you hear footsteps, then back to the cargo hold
 - Talk to Sasha: 3,3,1,1
   - ***Finishes “Dwindling Supplies”***
   - ***Starts and Finishes “Strange Stowaway”***
-- Juhani #3
-- Carth #7
-- Fly to Manaan
-  - Use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
+- Carth #6, #7, and #8
+  - QS/QL between each to advance his conversation
+  - ***Finishes “Carth”***
+- Fly to Manaan and use a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
+  - *Party: Add Carth*
+  - Return to Ebon Hawk to spawn on Manaan
 
 ## Manaan 1
 
-*Note: You should now be [Save Teleporting](<../Techniques/Save Teleporting>) for movement everywhere.  Do not use Alacrity or Speed unless specifically noted.*
+*Note: At this point, [Save Teleports](<../Techniques/Save Teleporting>) with no movement speed enhancements is barely faster RTA than Burst of Speed.  Use them for movement, and do not use Alacrity or Speed unless specifically noted.*
 
 ### Docking Bay
-- Turn around and Board Ebon Hawk
-- Exit Ebon Hawk, add Carth to your party
-- Carth #8
-  - ***Finishes “Carth”***
 - Having a party member skips a Selkath announcement after the first door
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Sith/Republic soldier conversation
   - If you miss this, the conversation is just: 4
@@ -1244,17 +1241,14 @@ SHOPPING: Junix Nard
 
 ```
 SHOPPING: Selkath Merchant
-- SELL:
-  - Racing Bonds until you have ~4500 Credits
-    - This should only take a few seconds of mashing Enter + NumPad Enter
-- BUY
+- BUY:
   - 7x Parts
   - All 20 Hyper Stims
-- END: At least 500 Credits
-- Need to end with at least 500 Credits to loan to Queedle
+- END: ~447 Credits (need 400 minimum)
 ```
 
-- Talk to Nubassa: 3,2,2
+- Talk to Nubassa: 3,2,1
+  - This gets you over 500 credits for Queedle's loan
   - ***Finishes “The Trouble with Gizka”***
 - Enter West Central Ahto City
 
@@ -1480,6 +1474,27 @@ SHOPPING: Eli Gand
 - Talk to Helena
   - ***Finishes "Bastila's Mother"***
 - *Party: Remove Bastila*
+- Talk to Junix Nard
+
+```
+SHOPPING: Junix Nard
+- BUY:
+  - 2x +/-2, +/-3, +/-4 Cards
+- End: ~3650 Credits
+- Take note of how many credits you have after purchasing the necessary cards
+```
+
+- Beat Furko Nellis in Pazaak: 1,1,2,2
+  - Use all of your +/- cards as your sidedeck
+  - ***Finishes “Pazaak Rules”***
+- Exit the Cantina and enter the Droid Shop
+- Talk to Yuka Laka to buy HK-47: 1,1,1,2,1,2
+  - We pay full price for HK because he's worth it (and it's the shortest conversation)
+  - ***Starts and Finishes "Droid for Sale"***
+- Talk to HK-47
+  - *Party: Leave empty when prompted*
+- Talk to Iziz outside: 1x6, 3
+  - ***Starts "Fair Trade"***
 - Enter Dune Sea
 
 ### Dune Sea
