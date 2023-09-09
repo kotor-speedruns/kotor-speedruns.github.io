@@ -1192,10 +1192,11 @@ SHOPPING: Mic'Tunan'Jus Orgu
   - As MC, queue Force Jump (Default Attack) and three Flurries on middle warrior
   - Swap to Bastila and unpause
   - After Bastila uses her Stun, run slightly towards the left two warriors and queue Stun on both
-  - Swap to MC; the middle warrior should be dead, so Force Jump to the left warriors and queue Flurries on both
+  - Swap to MC; the middle warrior should be nearly dead, so finish him, then Force Jump to the left warriors and queue Flurries on both
   - Swap to T3 and clear any basic attacks, then queue at least two more Shield Disruptors on his warrior
-  - Swap to Bastila and run to the nearest bantha
-  - Once MC and T3 finish off the warriors, Deactivate Solo Mode and lure the bantha again with Bastila
+    - This Elite Warrior will die to 6 Shield Disruptors; if you run out, you used too many in the Taris Sith Base
+  - Swap to Bastila, Deactivate Solo Mode, and run to the nearest bantha
+  - Once MC and T3 finish off the warriors, lure the bantha again with Bastila
 - The Krayt Dragon dies to poor Komad's mines
   - ***Starts “Star Map: Tatooine”***
   - ***Finishes “A Desert Hunt”***
