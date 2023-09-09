@@ -1257,34 +1257,43 @@ SHOPPING: Selkath Merchant
 - Talk to Port Authority: 1,3
 - Enter Ahto West
 - Activate Solo Mode
-- As Carth, open door behind you
-- As MC, enter the cantina so Nilko Bwaas accosts you
+- Swap to Carth and open door behind you
+- Swap to MC and enter the cantina so Nilko Bwaas accosts you
 - Talk to Nilko Bwaas
   - ***Starts “Republic Hiring Mercenaries”***
-- Run towards Shaelas until he accosts you
+- [Save Teleport](<../Techniques/Save Teleporting>) towards Shaelas until he accosts you
   - ***Starts “Missing Selkath”***
 - Swap to Carth and return to West Central
 - *Party: Remove Carth*
-- Go to East Central
+- [Save Teleport](<../Techniques/Save Teleporting>) to East Central
 - [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the confrontation between Sith and Republic soldiers
 - Talk to Hulas
   - ***Starts “GenoHaradan: Zuulan”***
   - ***Starts “GenoHaradan: Lorgal”***
-- Talk to Roland Wann: 3,1 spam
+- *Party: Add T3*
+- Activate Solo Mode and swap to T3
+- [Save Teleport](<../Techniques/Save Teleporting>) into Republic Embassy
+- Click to talk to Roland Wann, but swap to MC before the convo: 3,1 spam
+  - This keeps MC near Hulas and T3 in the embassy
   - ***Starts and Finishes “Republic Embassy”***
   - ***Starts “Star Map: Manaan”***
   - ***Starts “Mission for the Republic”***
-- Use the console to kill Lorgal (-7; 4 Spikes)
+- As T3, use the console to kill Lorgal (-5; 6 Spikes)
+  - Using T3 saves three spikes compared to using MC
+- [Save Teleport](<../Techniques/Save Teleporting>) back towards Hulas and MC
+- *Party: Remove T3 once he is in range*
 - Talk to Hulas: 1x8,2
   - ***Finishes “GenoHaradan: Lorgal”***
   - ***Starts “GenoHaradan: Ithorak”***
   - ***Starts “GenoHaradan: Rulan”***
   - ***Starts “GenoHaradan: Vorn”***
-- Enter Ahto East
+- [Save Teleport](<../Techniques/Save Teleporting>) to enter Ahto East
 - [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) past the Sith Lady
   - If you fail this, the conversation is: 2
 - Talk to Vek
 - Talk to Queedle: 1,1,1,1,2 ... QS/QL ... 1,3
+  - This requires 500 credits, which you should have unless you bought too many medpacs on Tatooine
+  - This also prevents having to talk to Hukta Jax between races two and three
   - ***Starts “Manaan Swoop Races”***
 - *Force: Cast Burst of Speed*
   - This makes the post-swoop race CS faster
@@ -1293,65 +1302,74 @@ SHOPPING: Selkath Merchant
   - ***Finishes “Manaan Swoop Races”***
 - Return to Ebon Hawk
 - Fly to Dantooine
-  - Possible Fighter Skirmish
+  - Possible Fighter Skirmish; destroy them as fast as you can if you get them
 
 ## Dantooine 2
 
 ### Sandral-Matale Feud
 - [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) past Deesra
 - Exit to Courtyard
-  - *Force: Cast Force Valor while exiting to Duration Glitch it*
+  - *Force: Cast Force Valor just before exiting to Duration Glitch it*
 - Take closest entry to Matale Grounds
 - Kill the Mandalorian after a brief CS
   - You don’t need to kill the Duros
 - Enter the nearby entrance to Grove
 - Enter Sandral Grounds ahead
 - Speak to Security Droid: 4
-- Enter Sandral Estate
-- Nurik and Rahasia accost you
+- *Party: Add T3*
+- Enter Sandral Estate (see [this video](https://www.youtube.com/watch?v=wC-hcqDZkfE))
+- [Force Skip](<../Techniques/Force Skips>) Nurik's convo then talk to him
+  - Actually allow the Burst of Speed to be cast for this section
+  - This breaks the script that causes Rahasia to talk to you and leaves the front door open
   - ***Finishes “Dead Settler”***
-- Exit estate
-- *Party: Add Canderous*
-- Re-enter estate through the side door
-- Destroy patrol droid on left
-- Bash down door around the corner with mine in front of it
-- Talk to Shen: 1,1,2,3
-- Activate Solo Mode, leave Canderous next to Shen
-- As MC, take last door on left and run through room with patrol droids
+- Activate Solo Mode and swap to T3
+- Save Teleport through the door, then use Security to unlock the door with a mine in front of it
+- Swap to MC and click on the right door
+- Swap to T3 and to talk to Shen Matale, then swap to MC before the convo: 1,1,1,1
+- Destroy the two patrol droids with Improved Flurry
+  - They're 1-2 rounds and give a good chunk of experience
+  - This guarantees level 9 and Knight Speed before Sherruk
 - Open first door on left and talk to Rahasia
-- Swap to Canderous and talk to Shen
+- Swap to T3 and talk to Shen
   - Make sure Valor is active on MC first; it should be if you duration glitched correctly
 - Mash conversation outside
   - ***Finishes “Sandral-Matale Feud”***
  
 ### Mandalorian Raiders
-- *Party: Remove Canderous*
-- Go to Mandalorian Raider group
+- *Party: Remove T3*
+- Force Speed should have worn off; leave it off
+- [Save Teleport](<../Techniques/Save Teleporting>) over bridge and near Mandalorian Raider group
 - *Stims: Hyper Stim Suite on MC*
   - Hyper Stim Suite is Hyper Alacrity, Hyper Strength, Hyper Stamina, and Hyper/Echani Battle Stim
 - Kill the center Mandalorian
   - You don't need to kill the other Mando or the Duros
+- [Save Teleport](<../Techniques/Save Teleporting>) past the grove entrance
 - [Combat Talking](<../Techniques/Combat Talking>) to speak with C8-42: 1x5,2,1
-- Enter the Grove
-- Kill the further Mandalorian
+- `Level to 9: Persuade to 12, Knight Speed`
+- *Force: Cast Knight Speed*
+- Enter the Grove and kill the further Mandalorian
+  - Don't Force Jump to him; use Flurry and you have a decent chance to one-shot him
   - Again, you don't need to kill the other Mando or the Duros
 - Enter Sandral Grounds, then re-enter the Grove
   - This spawns Sherruk in the Grove
 - Sherruk accosts you; kill Sherruk
-- Go to Matale Grounds
-- Interact with Zuulan’s Speeder: 2 (-1; 3 Spikes)
-- Zuulan accosts you, kill him
+  - Keep a close eye on your health here, use Life Support Packs if needed
+  - Sherruk is usually a two-round fight
+- Run/Force Jump via kath hounds to Matale Grounds
+  - If Speed is active, it's faster to run than [Save Teleport](<../Techniques/Save Teleporting>)
+  - [Save Teleport](<../Techniques/Save Teleporting>) once Speed wears off
+- Interact with Zuulan’s Speeder: 2 (-1; 5 Spikes)
+- Destroy Zuulan's patrol droids first
+  - You can't kill Zuulan until they're dead
+  - Zuulan accosts you, then kill him
 - Return to Ebon Hawk
-- Go back to Courtyard
+- [Save Teleport](<../Techniques/Save Teleporting>) back to Courtyard
 - Talk to Jon
   - ***Finishes “Mandalorian Raiders”***
 - Talk to Elise
   - ***Finishes “Missing Companion”***
 - Return to Ebon Hawk and board
-- `Level to 9: Persuade to 12, Knight Speed`
-- Juhani #4
-- Fly to Kashyyyk
-  - Use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to the Ebon Hawk
+- Fly to Kashyyyk and use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to the Ebon Hawk
 
 ## Kashyyyk
 
