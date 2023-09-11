@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic - All Quests No Major Glitches Guide 
 
-### v1.2: Male Scout -> Jedi Guardian Route
+### v2.0: Male Scout -> Jedi Guardian Route
 
 *Route and Guide by [indykenobi](https://www.speedrun.com/users/indykenobi) and [BinksMagnus](https://www.speedrun.com/users/BinksMagnus)*
 
@@ -1989,7 +1989,7 @@ SHOPPING: Czerka Store
 - Talk to the One
   - ***Begins "Trapped on a Nameless World***
 - Leave the compound
-- [Force Skip](<../Techniques/Force Skips>) a brief cutscene as you exit
+- [Force Skip](<../Techniques/Force Skips>) a brief cutscene after the load
 - Talk to Warleader Garn: 1,1,3
   - ***Finishes “Invisible Mandalorians”***
 - Return to and betray the One: 3
@@ -2003,14 +2003,22 @@ SHOPPING: Czerka Store
 - [Save Teleport](<../Techniques/Save Teleporting>) towards the Elder Compound
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the Gizka cutscene if you can
   - This is extremely difficult with saves this long.  Consider disabling V-Sync temporarily.
-- Enter Elder Compound, speak to Elders
-- Run left and take the first right, speak to Researcher Ll’awa: 1x11,3
+- Rakatan Hologram accosts you outside the compound
+- *Party: Add T3*
+- Enter the compound and the elders accost you
+- Activate Solo Mode
+- Swap to T3 and open the exit door
+- Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) to the left, then through the first archway on the right
+- Talk to Researcher Ll’awa: 1x11,3
   - ***Starts “Rakatan Research”***
-- [Save Teleport](<../Techniques/Save Teleporting>) to leave the compound and return to Temple Exterior
+- Run into the corner closest to the door, then swap to T3 and leave the compound
+- *Party: Remove T3*
+- [Save Teleport](<../Techniques/Save Teleporting>) back to Temple Exterior
 - Approach the Rakata to begin the entrance ritual and be joined by Juhani and Jolee
 - As the CS finishes and you run towards the Temple, QS in the window between this CS ending and the load screen
-  - It's easiest to spam QS
-  - Once the load screen happens, close the game from the Task Manager
+  - It's easiest to just spam QS
+  - If you can Alt+F4 on the load screen, you can quit that way
+  - Otherwise, close the game from the Task Manager
 - Load the QS
 - *Party: Remove Jolee, Add Canderous*
 - Enter the Temple
@@ -2021,13 +2029,15 @@ SHOPPING: Czerka Store
 - Kill both droids in the basement
 - Solve the floor puzzle with [an H shape](https://i.imgur.com/CF497Fm.png)
 - Talk to basement computer: 1,1,1,2,1,2
-- Return to main floor and activate Solo Mode
-- As MC, run up the ramp and out of the room with the droids
+- [Save Teleport](<../Techniques/Save Teleporting>) to return to the main floor
+- Activate Solo Mode
+- As MC, [Save Teleport](<../Techniques/Save Teleporting>) up the ramp and out of the room with the droids
 - Swap party members twice
 - [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC to Temple Summit
   - This warp is much easier if you disable V-Sync first
-  - Alternately, go back to the entrance and open the Massive Door
+  - Alternately, [Save Teleport](<../Techniques/Save Teleporting>) back to the entrance and open the Massive Door
 - Enter Temple Summit
+  - *Force: Cast Force Resistance before entering*
 - Talk to and defeat Darth Waifu
 - Choose to remain true to the light
   - This is required, as the Dark Side ending does not complete the “Juhani” quest
@@ -2048,13 +2058,13 @@ SHOPPING: Czerka Store
 - As MC, talk to Researcher Ll’awa: 3
   - ***Finishes “Rakatan Research”***
 - Run into the corner of the room nearest the door, swap characters and leave
-- [Save Teleport](<../Techniques/Save Teleporting>) back to Central Beach
+- [Save Teleport](<../Techniques/Save Teleporting>) back through Temple Exterior to Central Beach
 - As soon as you reach Central Beach, swap to Canderous and board the Ebon Hawk
   - Canderous teleports to be there for the CS outside the Ebon Hawk, but stays in your party
 
 *Note: The game deletes a ton of midgame data here, so your [Save Teleports](<../Techniques/Save Teleporting>) are now ineffective. It's fastest to use Force Speed and Force Jump for movement from here on out.*
 
-- **Workbench: Upgrade Double-bladed Lightsaber: Replace Sigil with Solari**
+- **Workbench: Double-bladed Lightsaber - Replace Sigil with Solari**
 - Repair hyperdrive on the Ebon Hawk
 - `Level to 15: Persuade to 18, Master Speed`
 - Talk to Canderous: 1,1,1,1,3
@@ -2068,7 +2078,7 @@ SHOPPING: Czerka Store
 - *Force: Cast Master Speed*
 - TALK TO CANDEROUS
   - ***Completes “Canderous”***
-- ***Optional Journal check: The only active quest should be “Bastila”***
+- ***Optional Journal Check: The only active quest should be “Bastila”***
 - Exit the Ebon Hawk
 - [Force Skip](<../Techniques/Force Skips>) Jedi vs. Sith CS
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) at the second ramp to skip Assault Droid CS and spawn
@@ -2078,15 +2088,19 @@ SHOPPING: Czerka Store
 - Run/Force Jump past two more sets of hostile droids
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Jedi vs. Sith CS on ramp down
 - *Force: Recast Master Speed*
-- *Stims/Force: Hyper Strength, Stamina, and Echani Battle Stim on MC, Cast Knight Valor as you enter Deck 2*
+- Take the right path to open the door to Deck 2
+- *Stims/Force: Hyper Strength, Stamina, and Echani Battle Stim on MC, Cast Knight Valor*
+- Enter Deck 2
 
 ### Confronting Bastila
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past fight trigger
+- ***Optional Indy Skip: [Save Teleport](<../Techniques/Save Teleporting>) over the enemy spawn trigger***
 - *Force: Cast Force Resistance*
   - This protects against stray Force Powers from Dark Jedi
-- Take left path, then right, then turn left
+- At the first junction go right, then turn left and enter door on left
 - Hack computer terminal: 1,1,5
 - Return and take elevator to Command Deck
+  - Keep an eye out for helpful Force Jumps here
 - Immediately after loading, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Bastila/Malak CS
 - Run/Force Jump until double doors
 - *Force: Ensure Master Speed and Knight Valor are active*
@@ -2119,8 +2133,9 @@ SHOPPING: Czerka Store
 - Hit him until he triggers the Dead Jedi CS
 - Use Drain Life/Disable Droid with MC/Jolee/Juhani to release the remaining seven Dead Jedi
   - You can split the Jedi between MC and the others to save a little movement
-- Kill Malak once and for all
-
+  - If Malak used Force Breach, recast Master Speed once the Jedi are released
+- Kill Malak once and for all!
+ 
 ## Complete Quest List
 This is a list of all the quests in the game, as well as the alignment we complete them with, if applicable.
 
@@ -2166,9 +2181,9 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - The Double-Cross
 - A Doubting Sith - Light
 - The Double-Double-Cross
-- Renegade Sith
+- Renegade Sith - Light
 - The Sword of Ajunta Pall
-- Rogue Droid - Light
+- Rogue Droid
 - Aiding Lashowe
 - Hermit in the Hills - Dark
 - Star Map: Korriban
@@ -2205,7 +2220,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Desert Ambush
 - A Desert Hunt - Dark
 - Star Map: Tatooine
-- Droid for Sale - Dark
+- Droid for Sale
 - GenoHaradan: Vorn - Dark
 - Worthy of History
 - Middleman - Dark
@@ -2222,8 +2237,8 @@ This is a list of all the quests in the game, as well as the alignment we comple
 
 **Party Quests:**
 - Jagi's Challenge
-- Carth - Light
-- Bastila - Light
+- Carth
+- Bastila
 - Mission's Brother
 - Bastila's Mother
 - HK-47
@@ -2246,9 +2261,10 @@ This is a list of all the quests in the game, as well as the alignment we comple
 
 ## Version History
 
-**v1.2 (September 2023)**
+**v2.0 (September 2023)**
 - Uses Damage Stacking in the Duel Ring
 - New strats in Tatooine 1 and Dantooine 2
+- New strats in Manaan Sith Base
 - Save the students and destroy the droid on Korriban
 - Reordered Valley of the Dark Lords to group combat together and save stims
 - Moved Pazaak, HK-47, and Iziz to Tatooine 2
