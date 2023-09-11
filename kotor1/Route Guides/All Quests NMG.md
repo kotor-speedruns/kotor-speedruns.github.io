@@ -1111,6 +1111,8 @@ SHOPPING: Aratech Mercantile
 
 ## Tatooine 1
 
+*Note on Level Ups: There is never a reason to save a level up for the rest of the run.  Take your level ups as soon as you can; they are listed in the latest place you could get them.*
+
 ### Docking Bay:
 - Czerka Officer conversation: 1,1,5
 - Run towards Mic'Tunan'Jus Orgu until Malare accosts Bastila
@@ -1795,22 +1797,27 @@ SHOPPING: Junix Nard
 *Note: From here through Lehon, your [Save Teleports](<../Techniques/Save Teleporting>) may be too large and unwieldy to use effectively.  Casting Knight Speed will make it easier to control them but reduce the distance they cover, so use Speed sparingly and only in tight quarters.*
 
 ### Dreshdae
+- Jolee #1-#3: 1spam ... 1spam ... 1,1,3
+  - QS/QL between each conversation
+  - ***Finishes "Jolee Bindo"***
 - Canderous #1 and #2: 1x6,3,1x5,3
-- Leave the Ebon Hawk with Canderous and Juhani
+- Leave the Ebon Hawk
+  - *Party: Add Canderous and Juhani when prompted*
 - Ziagrom accosts you
   - ***Starts “Premium Merchant”***
-- Run backwards slightly then forwards
+- Run backwards slightly, then forwards
 - Xor accosts Juhani
   - ***Starts “Threat from Xor”***
-- *Force: Cast Knight Valor*
 - Glitched Jagi's Challenge:
-  - QS for Safety
+  - *Force: Cast Knight Valor* 
+  - QS for safety
   - Run backwards slightly, then forwards
   - Jagi accosts Canderous
     - ***Starts "Jagi's Challenge"***
   - Immediately when the conversation ends, talk to Jagi again
-    - This window is very small, try mashing Default Action during the first convo
-    - Alternately, it can be helpful to try to pause and then talk to him again
+    - This window to start the second conversation is very small; the best way is to pause and then talk to Jagi and unpause
+    - The best way to do this is to get to Jagi's last line of dialog, then click and IMMEDIATELY pause the game
+    - The convo is three 1s, then click five times to get to the last line: *"I shall be waiting for you there, Canderous."*
   - Jagi's 2nd convo: 2,2,2,2,2,2,2
     - You have to finish this conversation before Jagi walks out of range or the conversation will end early and the quest won't complete
     - ***Finishes “Jagi’s Challenge”***
@@ -1829,17 +1836,18 @@ SHOPPING: Czerka Store
   - 5x Hyper Adrenal Alacrity
   - 5x Hyper Adrenal Strength
   - 5x Hyper Adrenal Stamina
-- Optional: Buy 10x Life Support Pack if you think you need them
+  - Optional: Buy extra Life Support Packs if you're low on medpacs, though you shouldn't need them
 ```
 
 - Talk to Lurze Kesh: 1,1,1,3,2
   - ***Starts and Finishes "Unfinished Business"***
 - Exit towards Sith Academy
 - Activate Solo Mode
-- As Carth/Juhani, open door to Dreshdae
-- As MC, talk to Sith Soldier at academy door: 2
+- Swap to Carth/Juhani and open the door back to Dreshdae
+- Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) to talk to Sith Soldier at academy door: 2
   - ***Starts "Entering the Sith Academy"***
-- Reenter Dreshdae
+- [Save Teleport](<../Techniques/Save Teleporting>) back towards Dreshdae
+- Swap to Carth/Juhani to reenter Dreshdae
 - Talk to Mika Dorin
   - You don't have to buy anything
   - ***Finishes "Premium Merchant"***
@@ -1852,17 +1860,11 @@ SHOPPING: Czerka Store
 - Run back to the center to trigger Uthar Wynn greeting the students
 - Speak to Yuthura: 1,1,1,1,5,2,7,6
 - Activate Solo Mode
-- Leave Juhani with Yuthura
-- [Save Teleport](<../Techniques/Save Teleporting>) Carth to central chamber next to Uthar
-- As MC, talk to Kel Algwinn: 1x6,2,1
-- `Level to 13: Persuade to 16, Energy Resistance`
-- [Save Teleport](<../Techniques/Save Teleporting>) MC to Interrogation Room
-- Interrogator accosts you: 1,2
-  - ***Starts “The Mandalorian Weapons Cache”***
-- Interact with Console: 5,1,4,5,4,1,1
-- Interrogator accosts you again: 3
-  - ***Finishes “The Mandalorian Weapons Cache”***
-- Swap to Carth and talk to Uthar: 3,1,3,3,2,3,4,4,X,4
+- Leave Carth with Yuthura
+- Swap to Juhani and [Save Teleport](<../Techniques/Save Teleporting>) near Dustil Onasi
+- Swap to MC and talk to Kel Algwinn: 1x6,2,1
+  - ***Finishes "A Doubting Sith"***
+- [Save Teleport](<../Techniques/Save Teleporting>) MC to talk to Uthar: 3,1,3,3,2,3,4,4,X,4
   - The X is a variable answer based on one of three questions he asks after the Sith Code
   - Use the following answers:
     - It is our passion that fuels the Force: 1. True
@@ -1870,100 +1872,108 @@ SHOPPING: Czerka Store
     - Victory by any means is desirable: 2. False
   - ***Finishes “The Code of the Sith”***
   - ***Starts “The Double-Double Cross”***
-- Swap to Juhani, talk to Yuthura: 1,1,2,2
-- Swap to MC and go to Uthar’s Room
-- Loot the Footlocker in front of the door
-- Plant the device on the bed
-  - ***Finishes “The Double-Cross”***
-- As MC, talk to Dustil
-  - ***Finishes “Finding Dustil”***
-- Move each character individually to the Valley of the Dark Lords entrance
-- Talk to Adrenas: 2,1
+- [Save Teleport](<../Techniques/Save Teleporting>) MC up the ramp and click on the Interrogation Room door
+- Swap to Carth and talk to Yuthura: 1,1,1,1
   - Finishes ***“The Double-Double Cross”***
+- Swap to MC and enter Uthar's room
+- Loot the footlocker for evidence and a Frag Grenade
+- Place the device under the bed
+  - ***Finishes “The Double-Cross”***
+- Swap to Juhani and talk to Dustil
+  - ***Finishes “Finding Dustil”***
+- Swap to Carth and Deactivate Solo Mode
+- As Carth, run towards cage until interrogator accosts you: 1,2
+  - This warps your party to you
+  - ***Starts “The Mandalorian Weapons Cache”***
+- Swap to MC and use the console: 5,1,4,1
+  - ***Finishes “The Mandalorian Weapons Cache”*** 
+- [Save Teleport](<../Techniques/Save Teleporting>) to the Valley of the Dark Lords entrance
+  - Make sure Carth and Juhani follow you
+  - If one of them isn't moving, they're likely glitched out; [Save Teleport](<../Techniques/Save Teleporting>) as that character instead.
 - Exit to Valley of the Dark Lords
 
 ### Valley of the Dark Lords
 - *Party: Remove Carth and Juhani*
-- Enter Shyrack Caves
-- Take first two right turns
-- Sith students accost you: 4
-- *Stims/Force: Hyper Stim Suite on MC, Cast Knight Speed and Knight Valor
-- Kill all three Sith students
-  - ***Starts “Renegade Sith”***
-- Leave Shyrack Caves
-- Enter Tomb of Ajunta Pall (first tomb on right)
-- Go forward, bashing down doors
-- Give Frag Grenade to Obelisk
+- [Save Teleport](<../Techniques/Save Teleporting>) to the Tomb of Ajunta Pall
+- Inside, *Force: Cast Knight Speed*
+  - We need to break down some doors
+- Give the Frag Grenade to the obelisk
   - [Force Skip](<../Techniques/Force Skips>) the CS after the obelisk explodes
 - Loot the sarcophagus
 - Ajunta Pall accosts you: 1,1,1,4,1spam
 - Place notched sword in the statue: 1
-- Talk to Ajunta Pall: 2
+- Ajunta Pall accosts you as you leave: 3
   - ***Starts and Finishes “The Sword of Ajunta Pall”***
-- As you leave the tomb, Shaardan accosts you: 1,1,3
-  - This can be [Soft Buffered](<../Techniques/Save Buffering#soft-buffers>) but will be difficult with the size of your saves
-- Go across the Valley to the Tomb of Marka Ragnos
-- Enter the Tomb of Marka Ragnos
-- Force Jump/Flurry to eliminate all the droids
-- *Equip MC: GenoHaradan Stealth Unit*
-- Open last door to repair droid: 2,2,2,3,4,2,6,6,5,1,3,2,2
-  - ***Starts and Finishes “Rogue Droid”***
-- *Equip MC: CNS Strength Enhancer and Double-Bladed Lightsaber*
-- Go back down the hall and enter the Valley
-- *Stims/Force: Hyper Stim Suite on MC if it has expired, Cast Knight Valor and Knight Speed*
-- Lashowe accosts you
+- [Save Teleport](<../Techniques/Save Teleporting>) back toward the entrance until Shaardan accosts you: 1,1,3
+  - This can be [Soft Buffered](<../Techniques/Save Buffering#soft-buffers>), but it is difficult with the size of your saves
+- Exit to Valley of the Dark Lords and enter the Tomb of Tulak Hord
+- [Save Teleport](<../Techniques/Save Teleporting>) to the slowest console in history: 1
+  - You may have to kill some tukatas, as they are very good at blocking the hallway
+  - It is possible but quite difficult to [skip the tukata spawns](<../Miscellaneous/Enemy Spawn Triggers#korriban>) with [Save Teleports](<../Techniques/Save Teleporting>)
+- Go through the next door to get caught by Jorak Uln: 1,1,5,6,4,3,2,1
+  - ***Starts “The Hermit in the Hills”***
+- [Save Teleport](<../Techniques/Save Teleporting>) back to the exit
+  - *Force: Cast Knight Speed and Knight Valor as you leave*
+- *Stims: Hyper-Stim Suite on MC*
+- Run towards Lashowe until she accosts you
 - Kill tukatas and Lashowe
   - Lashowe's interruption: 2,3
 - Loot Lashowe for holocron
-- Enter the Tomb of Tulak Hord
-- `Level to 14: Persuade to 17, Weapon Specialization: Lightsaber, Improved Energy Resistance`
-- Go down the hall to the left, you may have to kill tukatas if they block you
-  - [Save Teleporting](<../Techniques/Save Teleporting>) in this hallway can skip some tukata spawns
-- Interact with the extremely slow console, enter hallway to get caught
-- Jorak Uln: 1,1,5,6,4,3,2,1
-  - ***Starts “The Hermit in the Hills”***
-- Leave the tomb and return to the Academy
+- `Level to 13: Persuade to 16, Energy Resistance`  
+- Enter the Tomb of Marka Ragnos
+- Force Jump/Flurry to eliminate all the droids
+  - Try to Force Jump to Mark III droids, as you're more likely to one-shot them
+- Open the door at the top and destroy the rogue assassin droid
+  - ***Starts "Rogue Droid"***
+- [Save Teleport](<../Techniques/Save Teleporting>) back to the exit
+- [Save Teleport](<../Techniques/Save Teleporting>) to enter Shyrack Caves
+- [Save Teleport](<../Techniques/Save Teleporting>) to the back of the cave
+- Kill the terentatek
+  - You can bump the terentatek to try to prevent it from knocking you back
+- [Save Teleport](<../Techniques/Save Teleporting>) back across the bridge and take the left path to the Sith Students
+- Thalia May accosts you: 1,3,1,3
+  - ***Starts and Finishes "Renegade Sith"***
+- [Save Teleport](<../Techniques/Save Teleporting>) back to the exit and enter the academy
 
 ### Tomb of Naga Sadow
-Talk to Uthar: 3,1,6,6,2,2
+- Talk to Uthar: 5,6,5,2,2
   - ***Finishes “Aiding Lashowe”***
   - ***Finishes “The Hermit in the Hills”***
-  - ***Finishes “Renegade Sith”***
+  - ***Finishes “Rogue Droid”***
 - Return to and talk to Uthar: 3
 - Uthar in the tomb: 4
-- Approach door using Default Action, let it open
+- Approach door using Default Action and let it open fully while running backwards
 - [Save Teleport](<../Techniques/Save Teleporting>) forward to skip a Wraid spawn trigger
-  - This keeps the hallways clear
+  - This keeps the hallways clear, but isn't essential
 - Go down the right hall and open the door
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) a cutscene that closes the door behind you
-  - If the door closes, interact with the Lever near the far terentatek
+  - If the door closes, pull the lever near the far terentatek
 - Loot the Cold Grenade from the far obelisk
 - Loot the Skeletal Human Remains for Solari Crystal
 - Go back to the intersection and turn right
-- Open the door, use Cold Grenade to freeze acid pool
+- Open the door and use Cold Grenade to freeze the acid pool
 - Star Map: Korriban
   - ***Finishes “Star Map: Korriban”***
 - Loot Sith Statue for Sith Lightsaber
 - *Force: Cast Knight Speed and Knight Valor if necessary*
 - Talk to and kill Uthar: 5,1
-- Yuthura accosts you; defeat and spare her: 3,2
+- Yuthura accosts you; defeat and spare her: 1 ... fight ... 3,2
   - Sparing Yuthura prevents the Academy from going hostile
   - ***Finishes “The Way of the Sith”***
 - [Save Teleport](<../Techniques/Save Teleporting>) back to the Academy
-- Once inside, turn around and leave
+- Once inside, turn around and exit back to the valley
 - *Party: Add Juhani*
+- *Force/Stims: Hyper Stim Suite on MC, Cast Knight Speed*
 - Return to Ebon Hawk and kill Xor and his cronies
+  - Make sure you don't kill Xor last, as that can softlock the quest
   - ***Finishes “Threat from Xor”***
+- `Level to 14: Persuade to 17, Weapon Specialization: Lightsaber, Improved Energy Resistance`
 - Board Ebon Hawk
-- Fly to Lehon
-  - [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
-  - Fly to Lehon again
+- Fly to Lehon and use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
+- Reboard the Ebon Hawk and fly to Lehon again
     - Possible Fighter Skirmish
 
 ## Lehon
-
-*You can take Level 15 as soon as you get it.*
-- `Level to 15: Persuade to 18, Master Speed`
 
 ### Warrior Rakata
 - Exit Ebon Hawk
@@ -2046,6 +2056,7 @@ Talk to Uthar: 3,1,6,6,2,2
 
 - **Workbench: Upgrade Double-bladed Lightsaber: Replace Sigil with Solari**
 - Repair hyperdrive on the Ebon Hawk
+- `Level to 15: Persuade to 18, Master Speed`
 - Talk to Canderous: 1,1,1,1,3
   - Don't forget this or you can't complete his quest!
 - Fly to the Star Forge
