@@ -804,6 +804,8 @@ SHOPPING: Zelka Forn
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Canderous’s friend accosting you
 - `Level Bastila to 4: Charisma to 16, Save Skills, Burst of Speed`
   - Increasing her Charisma to 16 gives her just enough Force Points to cast Burst of Speed twice
+- In Options -> Gameplay, activate the Auto-Level option for party members
+  - This is important mainly for bulk later on, but also to automatically raise T3's Com and Security for certain actions
 - *Force: Cast Burst of Speed as Bastila*
   - Use Bastila’s Burst of Speed for movement for the next little while
 - Exit to Upper City South
@@ -1497,13 +1499,14 @@ SHOPPING: Selkath Merchant
 ```
 SHOPPING: Junix Nard
 - BUY:
-  - 2x +/-2, +/-3, +/-4 Cards
-- End: ~3650 Credits
-- Take note of how many credits you have after purchasing the necessary cards
+  - All Pazaak Cards
+  - This is most quickly done by spamming through the Hair Trigger as well
+- End: ~7797 Credits
 ```
 
-- Beat Furko Nellis in Pazaak: 1,1,2,2
+- Beat Furko Nellis in Pazaak: 1,1,2,1,1
   - Use all of your +/- cards as your sidedeck
+  - If you lose a game, you don't have to reload to save credits
   - ***Finishes “Pazaak Rules”***
 - Exit the Cantina and enter the Droid Shop
 - Talk to Yuka Laka to buy HK-47: 1,1,1,2,1,2
@@ -1517,7 +1520,8 @@ SHOPPING: Junix Nard
 
 ### Dune Sea
 - [Save Teleport](<../Techniques/Save Teleporting>) past right side of Sandcrawler
-- *Stims/Force: Hyper Stim Suite on MC, Cast Knight Speed and Knight Valor*
+- *Stims/Force: Hyper Stamina, Strength, Battle Stim on MC, Cast Knight Speed*
+  - We don't use Hyper Alacrity to save it for the underwater segments of Manaan
 - Kill Sand People Warrior for Sand People Outfit
 - Enter Sand People Territory
 - *Equip MC: Sand People Outfit*
@@ -1526,13 +1530,15 @@ SHOPPING: Junix Nard
   - You don't actually have to kill Vorn
 - *Party: Add HK-47*
 - Enter the Sand People Enclave
+  - QS/QL outside the enclave first
+  - If the first guard is hostile, exit and reenter the enclave
 
 ### Sand People Enclave
 - Guard accosts you: 1,1 ... 1,2,1
 - Return to Ebon Hawk
 - Enter Anchorhead and the Czerka Office
 - Talk to Greeta Holda to buy Moisture Vaporators
-- Return to the Docking Bay
+- [Save Teleport](<../Techniques/Save Teleporting>) back to the Docking Bay
 - *Equip MC: Jedi Knight Robe*
 - *Party: Add Mission*
 - Transit Back and talk to Guard: 1
@@ -1543,14 +1549,13 @@ SHOPPING: Junix Nard
 - *Party: Remove HK-47 and Mission*
 - Return to Ebon Hawk and enter Czerka Office
 - Talk to Griff twice, then QS/QL
-- Greeta Holda accosts you
+- Greeta Holda accosts you after the load
   - ***Finishes “Mission’s Brother”***
 - Talk to Czerka Protocol Officer: 1,2,2
   - ***Finishes “Sand People”***
-- Exit to Anchorhead, [Save Teleport](<../Techniques/Save Teleporting>) to talk to Iziz
+- Exit to Anchorhead and [Save Teleport](<../Techniques/Save Teleporting>) to talk to Iziz
   - ***Finishes “Fair Trade”***
 - Return to Ebon Hawk and board
-- Jolee #2
 - Fly to Manaan
   - Possible Fighter Skirmish
 
@@ -1560,109 +1565,120 @@ SHOPPING: Junix Nard
 
 **Sith Base:**
 - Leave Ebon Hawk
-  - *Party: Add Jolee when prompted*
-- Jolee #3: 1,1,3
-  - ***Finishes “Jolee Bindo”***
+  - *Party: Add T3 when prompted*
 - Vek accosts you
 - *Force: Cast Knight Speed and Valor*
-- Speak to and Kill Ithorak: 1
-- Enter Sith Hangar
-  - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) a Selkath announcement as you enter
-- Take shuttle to Sith Base
-- Go through first door on right
-- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the secretary CS
+- Accost and kill Ithorak: 1
 - Activate Solo Mode
-- As Jolee, open the door in front of the desk
-- As MC:
-  - Go through the door behind the secretary, open first door on the left, then open first door on left
-  - Open door and loot Data Module from broken droid
-  - Run left in the hallway and continue straight
-  - When you reach a room with windows, turn right and open door
-  - Make sure MC is at full health in front of the steam hallway
-- [Save Teleport](<../Techniques/Save Teleporting>) to the end of the hall
-  - Open door, hack wall terminal: 1,2,2,4,scroll down and click (-4; 7 Spikes)
-- Swap to Jolee and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) MC back to lobby
-- As MC:
-  - Go through door behind secretary, go down hall
-  - Ignore Dark Jedi, open door on left
-  - Go straight then left in the hallway, let Selkath open door
-  - Open next door, then open door around corner to the left
-  - Talk to Sasha: 1,1,1,1,2
-- Swap to Jolee and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) MC back to lobby
+- While MC kills Ithorak, control T3:
+  - [Save Teleport](<../Techniques/Save Teleporting>) to open the outer door to the Sith Hangar
+  - Click on the inner door and swap to MC for a couple seconds
+    - This skips a Selkath announcement
+  - Swap back to T3 and [Save Teleport](<../Techniques/Save Teleporting>) to take the shuttle to the Sith Base
+- `Level to 11: Persuade to 14, Master Flurry, Force Resistance`
+- Activate Solo Mode inside
+- As MC, open door on left, then click next door
+- Swap to T3 and click on right door
+- Swap back to MC and use the panel outside the further Flow Control door, then go inside and use the wall panel
+  - This warps T3 to you
+- As MC, click the second Flow Control door
+- Swap to T3 and click the outer door
+- Swap to MC and click the third Flow Control door
+- Swap to T3 and [Save Teleport](<../Techniques/Save Teleporting>) back towards the way you came in
+- As T3, click the closed door at the end of that hall
+- Swap to MC and go through the last Flow Control door, then turn left and go through two doors
+- Follow the long hall to the end and let the Selkath Apprentice open the door
+  - If the apprentice doesn't move, you [Save Teleported](<../Techniques/Save Teleporting>) past the trigger that starts him
+  - Just run back until you hit the trigger
+- Open the dormitory door and have Shasa accost you: 3
+- Swap to T3 and [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the secretary CS
+  - This buffer is most easily done by disabling V-Sync first
+  - When you enter the room while buffering, the game will warp MC to that room and swap your control to him
+  - Keep buffering until you control MC, then finish the buffer
+  - Re-enable V-Sync afterwards if you need to
+- As MC, click the door behind the desk
+- Swap to T3 and click the exit door to Ahto West
+- Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) through the left door
+- As MC, take the next door on the left and loot Data Module from the broken droid
+- Swap to T3 and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) MC back to lobby
 - Exit to Ahto City
 
 ### Ahto City
 - Selkath arrest you: 1
-- Prison and first trial: 1x5,3,1 ... spam
-- *Party: Remove Bastila*
-- Go towards West Central until Elora accosts Jolee
+- Prison and first trial: 1x5,3,1 ... 1,1,1
+- Swap to T3 and click the center judge, then swap back to MC before the convo starts: 2
   - ***Starts “Sunry’s Murder Trial”***
-- Activate Solo Mode
-- As MC:
-  - Go back to courtroom
-  - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the conversation, mash if you fail
-  - Speak to center judge
-- Swap to Jolee and deactivate Solo Mode and speak to Selkath Guard
-- Swap to MC and talk to Sunry: 1,4
-  - ***Starts “Sunry’s Story”***
-- *Party: Remove Jolee*
-- [Save Teleport](<../Techniques/Save Teleporting>) to East Central
+- *Party: Remove T3 and Bastila*
+- [Save Teleport](<../Techniques/Save Teleporting>) through West Central back to East Central
 - Talk to Hulas: 1x6,2,1
   - ***Finishes "GenoHaradan: Zuulan"***
   - ***Finishes "GenoHaradan: Vorn"***
   - ***Finishes "GenoHaradan: Rulan"***
   - ***Finishes "GenoHaradan: Ithorak"***
   - ***Finishes "GenoHaradan"***
-- `Level to 12: Strength to 21, Persuade to 15, Weapon Focus: Lightsaber, Force Resistance`
-- Enter the hotel, talk to Ignus: 1,2,3,3
+- [Save Teleport](<../Techniques/Save Teleporting>) to the junction near the hotel and embassy
+- *Party: Add T3*
+- Activate Solo Mode
+- Swap to T3 and click the outer hotel door
+- Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) to talk to Roland Wann
+- Swap to T3 and click the inner hotel door
+- Swap to MC and click the door to the Computer Archives
+- Swap to T3 and talk to Ignus: 1,2,3,3
   - ***Starts “Ignus the Hotel Owner”***
-- Talk to Firith Me
+- As T3, hack the Republic Archives: 2,2,3 (-2; 3 Spikes)
+- As T3, [Save Teleport](<../Techniques/Save Teleporting>) to open the first door to the submersible, then click the second door
+- Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) to talk to Gluupor: 1,3,1
+  - ***Starts “Gluupor the Rodian”***
+- As MC, [Save Teleport](<../Techniques/Save Teleporting>) to talk to Firith Me
   - ***Starts “Firith Me the Pazaak Player”***
   - ***Starts “Elora, Sunry’s Wife”***
-- Talk to Gluupor: 1,3,1
-  - ***Starts “Gluupor the Rodian”***
-- [Save Teleport](<../Techniques/Save Teleporting>) past or [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the Mysterious Man on the way out
-- Talk to Roland Wann
-- Enter Republic Computer Room
-- Hack Republic archives: 2,2,3 (-4; 3 Spikes)
-- Take Submersible to Hrakert Rift
+- Swap to T3 and take submersible to Hrakert Station
 
 ### Hrakert Rift
 - Open door ahead, Mercenary accosts you
-- Go down hall, open first door on right
-- Open first door on right in the hall with droids
-- Go straight until the assault droid, then left
-- Loot Environment Suit, turn right
-- Loot Footlocker in this room for Sonic Emitter, then run down hall to the left
-- *Stims/Force: Alacrity on MC, Cast Knight Speed*
+- [Save Teleport](<../Techniques/Save Teleporting>) through next three doors
+- Open first door on right in the hall with patrol droids
+- [Save Teleport](<../Techniques/Save Teleporting>) straight through five doors
+- Loot Envirosuit and go through one more door
+- Loot footlocker in this room for Sonic Emitter, then [Save Teleport](<../Techniques/Save Teleporting>) down hall to the left
+- *Stims/Force: Hyper Alacrity on MC, Cast Knight Speed*
 - Go through airlock
+  - While underwater, [Save Teleports](<../Techniques/Save Teleporting>) are not effective
 - Survivor accosts you
 - [Sonic Buffer](<../Techniques/Save Buffering#sonic-buffers>) the survivor’s death cutscene
 - Run left to the airlock on the left side of the next structure
-- Go through door ahead of you, scientists lock you in
-- Talk to scientists: 3
-- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the CS after the force field comes down
-  - If you fail, mash the long scientist convo
-- Loot Footlocker for 2 Computer Spikes (+2; 5 Spikes)
-- *Stims: Alacrity on MC, Cast Knight Speed*
+  - Use the Sonic Emitter from the Inventory menu to kill firaxan sharks
+- [Save Teleport](<../Techniques/Save Teleporting>) through door ahead of you
+- Interact with the Force Field twice (mash both convos)
+- While the Force Field drops, [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the scientist convo
+  - If you fail, mash the long scientist convo; reloading the save here can still have the Force Field active, forcing you to bash it down
+- Loot footlocker for 2 Computer Spikes (+2; 5 Spikes)
+- *Stims: Hyper Alacrity on MC, Cast Knight Speed*
 - Exit through airlock
 - Hack kolto control panel: 1,2,4,2,5,4,5,2,5
 - Manaan Star Map
   - ***Finishes “Star Map: Manaan”***
+- `Level to 12: Strength to 21, Persuade to 15, Weapon Focus: Lightsaber, Drain Life` 
 - Re-enter station through airlock on right
-- Wave at Darth Bandon as you run past him
-- Return to surface
+- [Save Teleport](<../Techniques/Save Teleporting>) back to the submersible to return to the surface
+  - Mash Darth Bandon's interruption, then [Save Teleport](<../Techniques/Save Teleporting>) past him
 
 ### Ahto City
 - Roland Wann accosts you
   - ***Finishes “Mission for the Republic”***
-- Selkath arrest you: 2
+- Exit the embassy and let the Selkath arrest you: 2
 - Second trial: 3,1,2
-- Nilko Bwaas: 2,1 spam
+- [Save Teleport](<../Techniques/Save Teleporting>) to central area and Activate Solo Mode
+- As MC, [Save Teleport](<../Techniques/Save Teleporting>) to click on Nilko Bwaas
+- Swap to T3 and [Save Teleport](<../Techniques/Save Teleporting>) to prison guard
+- Nilko's convo happens: 2,1 spam
   - ***Finishes “Republic Hiring Mercenaries”***
-- Shaelas: 2,1 spam
+- As MC, talk to Shaelas: 2,1 spam
   - ***Finishes “Missing Selkath”***
-- Talk to Selkath Warden: 3,1 ... 1
+- Swap to T3 and talk to Selkath Guard
+- Swap to MC and enter the prison to talk to Sunry: 1,1,4
+  - ***Starts "Sunry's Story*** 
+- Talk to Selkath Warden: 4,1 ... 1
   - ***Finishes "Sunry's Murder Trial"***
   - ***Finishes "Elora, Sunry's Wife***
   - ***Finishes "Gluupor, the Rodian***
@@ -1670,21 +1686,23 @@ SHOPPING: Junix Nard
   - ***Finishes "Ignus, the Hotel Owner***
   - ***Finishes "Sunry's Story***
 - Return to Ebon Hawk and board
-- Juhani #7
+- Juhani #3-#7
+  - You don't have to QS/QL inbetween, just mash all five convos
 - Fly to Korriban
 
 ## The Leviathan
 
 ### Detention Block
 - Carth's old mentor CS
-- Talk to the crew: 1,1,1,2
+- Choose Mission to rescue the party: 1,1,1,2
   - ***Starts “Captured by the Leviathan”***
 - Mash through being tortured
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) at the end of the CS with Mission
   - As CS fades out on Carth, there is a window between when this CS ends and the next with Mission begins
   - During this window, mash QS and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>)
+  - If your first QS is too early, you'll never switch to Mission and load as MC stuck in your cell.  This is a softlock, so load the Autosave.
   - If the cutscene initiates but you got a QS in, kill the game process in Task Manager or Alt-F4 and load the QS
-  - If you didn’t get a QS, mash the cutscene
+  - If you didn’t get a QS, mash the cutscene  
 - As Mission:
   - Turn left to the end of the hall and take door on left
   - Loot the Footlocker in this room for keycard
@@ -1698,64 +1716,71 @@ SHOPPING: Junix Nard
   - *Jedi Knight Robe*
   - *CNS Strength Enhancer*
   - *Double-bladed Lightsaber*
-- `Auto-Level Carth and Bastila`
 - [Save Teleport](<../Techniques/Save Teleporting>) past a Canderous CS
 - Take the elevator to the command deck: 2
 
 **Command Deck:**
 
-*In the bridge section, you have to keep Carth and Bastila close to you in order to leave through the Bridge Storage door. Do your best to make sure they don't wander off, as that can and will lose you a lot of time. You can choose to manually save and reload that save; this sometimes helps.*
+*In the bridge section, you have to keep Carth and Bastila close to you in order to leave through the Bridge Storage door. Do your best to make sure they don't wander off, as that can and will lose you a lot of time. You can choose to QS/QL to reset their following AI; this sometimes helps.*
 
-- Turn right, then left, killing Sith Troopers as needed to make Carth and Bastila follow you
-- Open second door on left
-- Bash open Armory door on far side of this room
-- Loot the Space Suit on the far side of the Armory
-- Safety save in the first room before opening door
-- Open door on the far side of the hall and run through, bash open the door, and go through
+- *Force: Cast Knight Speed*
+  - We do this to bash down doors more quickly
+- QS/QL to fix party following AI
+- Turn right and run/[Save Teleport](<../Techniques/Save Teleporting>) past the guard at the end of the hall as you turn left
+  - He will almost always activate his shield, then throw a grenade, giving you enough time to get past
+  - If he shoots instead, he'll aggro Carth/Bastila and you'll need to kill him
+- Take the hall on the left and quickly bash open the armory door on the right
+- Loot the Space Suit just inside on the left side
+- Bash down the door on the far side of the room, then take the door on the left
+- QS, then open the door across the hall 
+- Run through, bash open the door, and go through
   - If MC gets stunned or debuffed, QL to avoid Duration Glitched negative status effects
+  - If party members are debilitated, those will be removed when starting the spacewalk
 - Open the Inner Airlock Door
 - Spacewalk Skip:
-  - Move so that the outer airlock door is targeted
-  - Click to open and immediately QS once
+  - Move so that the you're right next to the outer airlock door
+  - Click to open the door and immediately QS once
   - QL and you should spawn with the airlock open and no Space Suit
-- Reach the far airlock
-- *Force: Cast Knight Speed, Cast Burst of Speed with Bastila, Hyper Alacrity on Carth*
+- [Save Teleport](<../Techniques/Save Teleporting>) to the far airlock
 - Activate Solo Mode
-- Have Carth and Bastila go through the door on the right
-  - Tuck them in the corner to attempt to deaggro them
-  - The goal is to have them stay close enough to the exit while you do Saul Karath skip
-- Swap back to MC and run up to bridge door
-- Saul Karath Skip
+- As Bastila and Carth, [Save Teleport](<../Techniques/Save Teleporting>) through the door on the right and stand in the near corners
+  - This attempts to de-aggro them from the Sith Soldiers and place them near the exit
+- Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) up the ramp to the bridge door
+- Saul Karath Skip:
   - Before attempting, you may want to make a hard save for safety; you can softlock here.
   - This trick is a save buffer, but the timing is quite precise
-  - Open Bridge Door and QS twice
-  - Load immediately
-  - If the trick works, the bridge door will be open, the fight will not start, and Bastila and Carth will be in your party.
-  - If Bastila and Carth are not in your party, you've softlocked.
-  - If your last QS was too late, your game will crash when you load.
+  - Open Bridge Door and spam QS twice, then load immediately
+  - If the trick works, the bridge door will be open, the fight will not start, and Bastila and Carth will be in your party
+  - If Bastila and Carth are not in your party, you've softlocked
+  - If your last QS was too late, your game will crash when you load
+  - You can also choose to disable V-Sync for this buffer; this makes it easier to load the final QS
 - Once successful, hack bridge terminal: 1,2
-- [Save Teleport](<../Techniques/Save Teleporting>) to the exit
-  - Bastila and Carth may be dead; if they’re still on the farther half of the room that’s fine
-  - If they died closer to the bridge, you’ll have to kill the five soldiers
+- [Save Teleport](<../Techniques/Save Teleporting>) to the exit and enter the Command Deck
+  - Bastila and Carth may be in combat or even dead, but they should still be close enough to the door to exit
+  - If one of them died too far from the exit, you’ll have to kill the five soldiers
 - *Heal: Medpac party as needed*
 - *Force: Cast Knight Speed with MC*
 - Kill the Sith Soldier nearby to the left
-- QS/QL to get party to follow
+  - He will almost always aggro Carth/Bastila, so it's best to just eliminate him
+- Swap to a party member and QS/QL to fix following AI
 - Take left path and loop around outside back to elevator
   - If you are quick, it's possible to skip killing the two guards right outside the elevator
-  - If either Carth or Bastila aggros on them, you'll likely have to kill them
+  - If any party member aggros on them, you'll likely have to kill them
   - Or you can use Solo Mode and [Save Teleports](<../Techniques/Save Teleporting>) to try to get everyone into the elevator
 - Take the elevator to the Hangar: 3
 
 ### Hangar
 - Activate Solo Mode
-- Move straight through to the Darth Malak CS
-- *Stims/Force: Hyper Stim Suite on MC, Cast Knight Speed and Knight Valor*
+- [Save Teleport](<../Techniques/Save Teleporting>) to skip a Canderous CS outside the elevator
+- At the door at the top of the ramp, *Stims/Force: Hyper Stim Suite on MC, Cast Knight Speed*
+  - Make sure Knight Valor is the active power in your buff menu
+- [Save Teleport](<../Techniques/Save Teleporting>) through the next room and down the ramp
 - Darth Malak accosts you
-- Plot twist!
+- After this convo but before the next CS loads, *Force: Cast Knight Valor*
+- Spoilers CS... plot twist!
 - Darth Malak accosts you again: 1,1,1,1,2,1,4,1
 - Darth Malak fight, part one
-- *Force: Recast Knight Speed and Force Valor*
+- *Stims/Force: Hyper Strength, Stamina, Battle Stim on MC, Recast Knight Speed and Knight Valor*
 - Darth Malak fight, part two
 - Bastila sacrifices herself, sort of
   - ***Finishes “Captured by the Leviathan”***
