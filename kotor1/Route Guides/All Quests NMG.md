@@ -1375,28 +1375,19 @@ SHOPPING: Selkath Merchant
 
 ### Great Walkway
 - Janos Wertka accosts you
-- Talk to Eli Gand
-  - ***Starts “Honest Debt”***
-
-```
-SHOPPING: Eli Gand
-- BUY:
-  - ~20-25x Advanced Medpac
-  - These Medpacs should last you to the end of the run
-  - You'll have the chance to buy more later if you run low or want to be cautious
-```
-
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) Czerka Guard conversation
 - *Party: Add T3*
 - Enter Great Walkway
 - Activate Solo Mode to leave T3 at the Landing Port entrance
 - As MC, [Save Teleport](<../Techniques/Save Teleporting>) past the Wookiee Guard that blocks you from the Shadowlands elevator
-- Swap to T3 and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) MC to Shadowlands elevator
+- ***Optional:*** Swap to T3 and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) MC to Shadowlands elevator
+  - This saves some time but is finicky to get quickly
+  - If you want to skip it, just [Save Teleport](<../Techniques/Save Teleporting>) all the way to the elevator
 - As MC, enter the elevator
-  - The Autosave that happens here is a good place to reset for memory leaks
 
 ### Upper Shadowlands
 - [Save Teleport](<../Techniques/Save Teleporting>) to skip Katarn spawn
+  - Run straight forward and Teleport as you hit the vines
 - Watch Jolee kill katarns
 - Activate Solo Mode at the fork
 - As T3, [Save Teleport](<../Techniques/Save Teleporting>) next to Jolee’s house
@@ -1412,9 +1403,10 @@ SHOPPING: Eli Gand
     - ***Starts and Finishes "Jolee's Request"***
     - ***Finishes "Tach Poaching"***
   - Kill a nearby tach and loot for gland
+    - This can be done while hacking the sonic emitters above
 - Swap to T3 and talk to Jolee by his house: 1,3,1spam
   - ***Starts "Star Map: Kashyyyk"***
-- *Party: Keep Jolee when prompted*
+- *Party: Keep Jolee when prompted (T3 is removed)*
 - Loot broken droid just past Jolee’s house: 2
 - Loot Wookiee corpse slightly down right fork
 - *Stims/Force: Hyper Stim Suite on MC, Cast Knight Speed*
@@ -1425,31 +1417,39 @@ SHOPPING: Eli Gand
     - This freezes the Rulan-tach in place
   - Talk to and kill the Rulan-tach
 - While MC fights Rulan, have Jolee [Save Teleport](<../Techniques/Save Teleporting>) to the Force Field 
-  - Make sure you've looted a Tach Gland and killed the Rulan-tach, then...
-- Bypass force field: 1,2
+- *Force: Cast Knight Speed on MC*
+  - This duration glitches Speed for the fights in the Lower Shadowlands
+- Make sure you've looted a Tach Gland and killed the Rulan-tach, then bypass force field with Jolee: 1,2
   - ***Starts “Chieftain in Need”***
 
 ### Lower Shadowlands
 - Activate Solo Mode
-  - *Note: Jolee will warp to you at various points*
-- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>)/[Save Teleport](<../Techniques/Save Teleporting>) to skip the Mandalorians fighting the Wookiee CS
-- Talk to and fight Freyyr
-- Freyyr: 2, kill him
-- Go to Star Map Computer: 1,3,1x5,4,1,1,4,1,4,1
-  - Finishes “Star Map: Kashyyyk”
-- `Level to 10: Persuade to 13, Knight Valor`
-- *Unequip MC: Remove Double-Bladed Lightsaber*
-- Trigger Mandalorian ambush and kill them
-- Return to first cluster of Wookiee corpses, defeat Mandalorians
-- Activate Solo Mode
-- As Jolee, loot Mandalorians
-- As MC:
-  - Kill kinraths if they spawn
-  - Interact with speeders
-- Defeat and loot Mandalorian Captain
+- *Unequip MC: Remove Double-bladed Lightsaber*
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Mandalorians fighting the Wookiee CS
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the first Mandalorian ambush
+  - Buffer into the space between the Wookiee corpses
+- [Save Teleport](<../Techniques/Save Teleporting>) to Star Map Computer: 1,3,1x5,5,1,4,1,4,1
+  - Try to let a viper kinrath hit you as you pass by them; this puts you in combat and delays the second Mandalorian ambush
+  - ***Finishes “Star Map: Kashyyyk”***
+- [Save Teleport](<../Techniques/Save Teleporting>) back to the second set of Wookiee corpses to trigger that ambush
+- *Equip MC: Double-bladed Lightsaber*
+- Kill all three Mandalorians as MC
+- `Level MC to 10: Persuade to 13, Knight Valor`
+- While MC kills the Mandalorians, [Save Teleport](<../Techniques/Save Teleporting>) with Jolee to the Mandalorian swoop bikes
+- Swap to MC and loot the Mandalorian closest to the viper kinrath for the Swoop Signal Device
+- Swap to Jolee and use the swoop bike to summon the Mandalorian Captain
+- Kill all three Mandalorians
+- While MC kills the Mandalorians, [Save Teleport](<../Techniques/Save Teleporting>) with Jolee to Freyyr
+- Swap to MC and loot the Mandalorian 
   - ***Finishes “Hidden Hunters”***
-- [Save Teleport](<../Techniques/Save Teleporting>) back to Upper Shadowlands
-  - [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Jolee to you if he didn't follow
+- Swap to Jolee and talk to Freyyr to fight him
+- While MC fights Freyyr, [Save Teleport](<../Techniques/Save Teleporting>) with Jolee to the Upper Shadowlands entrance
+  - When Freyyr accosts you, convo is 2, then swap to MC and *Stims: Basic Strength and Basic Battle Stim*
+  - Do NOT recast Knight Speed for Freyyr's second phase; we need to keep it off for [Save Teleports](<../Techniques/Save Teleporting>) now
+- Once Freyyr is dead, use Jolee to [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
+  - This is a tough [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) since our saves are long
+  - You can learn where to [Save Teleport](<../Techniques/Save Teleporting>) Jolee from, or temporarily disable V-Sync to make this easier
+- Exit to Upper Shadowlands
 
 ### Wookiee Politics
 - Activate Solo Mode
@@ -1465,24 +1465,23 @@ SHOPPING: Eli Gand
   - ***Finishes “A Wookiee Lost”***
   - ***Finishes “Chieftain in Need”***
 - IMMEDIATELY after Chuundar stops talking, [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
-- Wookie Enslavement CS warps you to Janos: 1,3
+  - If you wait too long, the game forces you to the Great Walkway and you cannot fast travel
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the Wookiee Enslavement CS
 - Talk to Eli Gand
   - Finishes ***“Honest Debt”***
-- `Level to 11: Persuade to 14, Master Flurry, Drain Life`
-- Transit Back, Return to Ebon Hawk and board
+- Transit Back and Return to Ebon Hawk
   - There is just a narrow window to Return to Ebon Hawk before you're booted out to the Great Walkway
-- Juhani #5 and #6
-- Fly to Tatooine:
-  - [Map CS Skip](<../Techniques/Map Cutscene Skips>) puts you back on Kashyyyk
-  - Reboard Ebon Hawk
-  - Talk to T3 8 times (+8; 11 Spikes)
-  - Fly to Tatooine
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the Wookiee Enslavement CS again
+- Board the Ebon Hawk
+- Fly to Tatooine and use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the Wookiee Enslavement CS one final time
+- Reboard Ebon Hawk
+- Fly to Tatooine again
     - Possible Fighter Skirmish
 
 ## Tatooine 2
 
 ### Anchorhead
-- Jolee #1
 - Leave Ebon Hawk
   - *Party: Leave empty when prompted*
 - Enter Anchorhead
