@@ -2,6 +2,10 @@
 # KotOR Speedrun Guides Project
 
 This is the main repository for the KotOR Speedruns community guides, hosted at https://kotor-speedruns.github.io/
+- [Contributing](#contributing)
+- [Local Dev Set-up](#local-dev-set-up)
+- [Useful Links](#useful-links)
+- [Contact](#contact)
 
 The goal of this project is to provide a centralized place for referencing KotOR Speedrun routes, glitches, techniques, set-up, and other information. We previously hosted these guides on speedrun.com, though after recent changes to the website, and frequent source control frustrations we felt it best to move to a more controlled environment like GitHub. 
 
