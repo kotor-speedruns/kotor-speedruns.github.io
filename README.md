@@ -66,6 +66,24 @@ Editing locally is fantastic for making complicated changes quickly, and using y
 ##### Command Line
 Learning to use the git CLI (command line interface) is a very useful skill. First step is to install it in your terminal of choice. I'll be using `bash` hosted on WSL for this example, but `cmd` and `powershell` both work fine. 
 
+First you need to install git onto your terminal of choice. See the [Git Getting Started Guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to install git for your platform. (You may also want to do [Git First Time Set-up](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) so that you can correctly connect to GitHub)
+
+Once git is installed we need to clone the repository. On the main reposity page hit the "Code" drop down to get the clone link (HTTPS should be fine).
+
+![Alt text](assets\images\Readme\github-clone.png)
+
+Open your terminal and navigate to the directory you want to clone the repository (such as documents, etc). If git is installed correctly you should be able to run the following command:
+```
+git clone <CLONE LINK HERE>
+```
+
+This will download the repository to your computer for editing. 
+
+Now we need to switch to the branch you created. This can be done with
+```
+git switch <YOUR BRANCH NAME>
+```
+
 ### Making Pull Requests
 
 ## Local Dev Set-up
