@@ -23,7 +23,7 @@ If you're a member of our community, then we can add your account as a contribut
 
 After you've been added as a contributer to this project, your first step will be to create a new branch. This can be done by selecting the branch drop-down, and typing the name of your new branch where it says "Find or create a branch..."
 
-![The Create Branch Drop-down on Github](assets\images\Readme\github-branching.png)
+![The Create Branch Drop-down on Github](assets/images/Readme/github-branching.png)
 
 Select "Create branch: \<your branch name\> from 'main'"
 
@@ -32,11 +32,11 @@ If you aren't a member of our community, welcome! While we won't be handing out 
 
 To make a fork you slect the drop down next to the fork count in the upper right of the main page and select "Create a new fork"
 
-![Alt text](assets\images\Readme\github-fork1.png)
+![Alt text](assets/images/Readme/github-fork1.png)
 
 Next you can name your fork whatever you'd like and change the description if you chose, though this isn't too important. All that matters is you Copy from the main branch and select "Create fork"
 
-![Alt text](assets\images\Readme\github-fork2.png)
+![Alt text](assets/images/Readme/github-fork2.png)
 
 ### Editing your Source
 Now that you have your own personal source to work with, you can begin to make edits. Now there are several different ways you can chose to edit your source.
@@ -52,13 +52,13 @@ Using the online editor is pretty straight-forward. Use the file tree to navigat
 
 Select the pencil icon in the upper right of the guide page.
 
-![Alt text](assets\images\Readme\github-edit.png)
+![Alt text](assets/images/Readme/github-edit.png)
 
 You can also optionally explore the github.dev experience the drop-down next to the edit button offers, if you like.
 
 After you've made your edits, click the green "Commit changes..." button in the upper right corner. Replace the Commit message with a brief description of what you did. Finally, click the green "Commit changes" button.
 
-![Alt text](assets\images\Readme\github-commit.png)
+![Alt text](assets/images/Readme/github-commit.png)
 
 Make sure you're commiting to your branch or fork. The second option to Create a new branch with these changes is useful for small, quick changes.
 
@@ -73,7 +73,7 @@ First you need to install git onto your terminal of choice. See the [Git Getting
 
 Once git is installed we need to clone the repository. On the main reposity page hit the "Code" drop down to get the clone link (HTTPS should be fine).
 
-![Alt text](assets\images\Readme\github-clone.png)
+![Alt text](assets/images/Readme/github-clone.png)
 
 Open your terminal and navigate to the directory you want to clone the repository (such as documents, etc). If git is installed correctly you should be able to run the following command:
 ```
@@ -115,11 +115,11 @@ So you're all done making changes on your branch or fork, and you want it to be 
 
 To do this open the "Pull requests" tab in the GitHub Repository, and select the green "New Pull Request" button (there may be a handy "Compare & pull request" button if you're logged in, which may save a few steps).
 
-![Alt text](assets\images\Readme\github-pr.png)
+![Alt text](assets/images/Readme/github-pr.png)
 
 Now if you're working on a fork, you want to select "compare across forks". If you're just on a branch simply select the compare drop down, and select the branch you want to compare. Then you can select the green "Create pull request" button.
 
-![Alt text](assets\images\Readme\github-pr-compare.png)
+![Alt text](assets/images/Readme/github-pr-compare.png)
 
 Once you've created the pull request you can use the UI to title it, add a description, add comments, etc. After which another community member (usually indy or myself) will take a look at the request, and either approve or request changes.
 
