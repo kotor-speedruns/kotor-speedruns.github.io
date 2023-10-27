@@ -120,9 +120,32 @@ Now if you're working on a fork, you want to select "compare across forks". If y
 Once you've created the pull request you can use the UI to title it, add a description, add comments, etc. After which another community member (usually indy or myself) will take a look at the request, and either approve or request changes.
 
 ## Local Dev Set-up
+In order to run the website locally you need to [install Jekyll](https://jekyllrb.com/docs/installation/).
 
+With Jekyll installed in your terminal of choice, navigate to the directory where the repository is located.
 
-## Important Links
+run
+```
+bundle install
+```
+To automatically install all of the Ruby Gems for the website.
 
+Finally, run
+```
+bundle exec jekyll serve
+```
+To spin up the website, which will then become accessible at http://127.0.0.1:4000/
+
+Any changes made to the source during this will automatically be reflected in the website (usually after a no-cache refresh `Ctrl+F5`).
+
+Hit `Ctrl+C` in the terminal to stop the website.
+
+## Useful Links
+- [Guide Website](https://kotor-speedruns.github.io/)
+- [GitHub Markdown Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Markdown Table of Contents Generator](https://luciopaiva.com/markdown-toc/)
+- [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu)
+- [Leaderboards](https://www.speedrun.com/kotor1)
 
 ## Contact
+If you have any questions Lane can be reached on Discord @lane_d, and indy @indykenobi. 
