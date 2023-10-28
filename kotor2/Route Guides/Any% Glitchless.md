@@ -1,6 +1,6 @@
-[center]**[big][big]Star Wars: Knights of the Old Republic II - The Sith Lords[/big]
+# Star Wars: Knights of the Old Republic II - The Sith Lords - Any% Glitchless Guide
 
-Glitchless Any% Guide v2.0: Female Jedi Guardian Route[/big]**[/center]
+## v2.1: Female Jedi Guardian Route (Light Side)
 
 *I want to credit 30cents for his initial route for KOTOR 2 Glitchless.  This would not have been done without his intial work on the route!  I also want to credit ChaosDrifter for helping me with much of the calculations and theory crafting into the category improvements.*
 
@@ -8,7 +8,19 @@ This route defeats Darth Traya on Malachor V as fast as possible without the use
 
 If you have additional questions, you can check out the KotOR Speedrunning Discord which is linked on the game's sidebar on speedrun.com.  There's a bunch of friendly folks there willing to answer questions!
 
-[section=Glitchless Rules]
+**Table of Contents:**
+- [Glitchless Rulset](glitchless-ruleset)
+- [General Tips](general-tips)
+- [Character Build](character-build)
+  - [Character Creation](character-creation)
+  - [Leveling Plan](leveling-plan)
+- [Equipment Plan](equipment-plan)
+- [Credit Route](credit-route)
+- [Alignment Route](alignment-route)
+- [Route Overview](route-overview)
+- [Detailed Route](detailed-route)
+
+## Glitchless Ruleset
 
 All glitches are banned, with the exception of the following:
 - Fast text (unavoidable without restarting the game frequently)
@@ -20,7 +32,7 @@ Due to its glitchy nature, QUICKSAVE is banned as well.  Manual and autosaves, h
 
 No mods are allowed to be used (Yes, this also includes the restoration mod!)
 
-[section=General Tips]
+## General Tips
 - If running on any monitor over 60fps, underclock it to 60 FPS exactly (if not done, your game will randomly hang during combat)
 - Unbind your quicksave key!  You can do this by setting the Quicksave key (default F4) to the Quickload Key (default F5) then setting the Quickload key back to F5.
 - Learn how to swap abilities easily.  Shift + # swaps the ability.(e.g shift+1 swaps from Critical Strike to Flurry, and shift+4 swaps force powers)
@@ -29,7 +41,9 @@ No mods are allowed to be used (Yes, this also includes the restoration mod!)
 - Once you understand the fundamentals from these notes, make your own copy of the notes and modify them to your own use.  These notes are made detailed for a new player, and once you become more experienced you will need less of these notes.
 - Remember to have fun!
 
-[section=Character Build]
+## Character Build
+
+### Character Creation
 
 We begin the game as a Jedi Guardian primarily because of Force Jump, and its combat focued skills.  Female characters are chosen because instead of Handmaiden (which you attain as a Male character), you get Disciple.  Having Handmaiden incurs extra cutscenes with Atris at the end of the game.
 
@@ -55,7 +69,7 @@ Treat Injury (TI) will be our main skill, since there are no strict skill requir
 
 We choose Weapon Focus: Melee Weapons for the attack boost before getting our lightsaber; we pick it over Two-Weapon Fighting because Weapon Focus takes longer to select, so at level 2 it's faster to pick Two-Weapon Fighting.  Since character creation isn't timed, this is optimal.
 
-[section=Leveling Plan]
+### Leveling Plan
 
 https://cdn.discordapp.com/attachments/808151224842977353/812840691394674718/unknown.png
 
@@ -86,7 +100,7 @@ Other notes:
 - Force Armor is taken, at late game we get Force Enlightenment and it gains the benefits of Force Speed, Valor, and Force Armor all at once.  Force Armor is delayed as much as possible for easy access to Force Speed.
 - Breath Control is attained for free during the Jek Jek Tarr section on Nar Shaddaa.  It makes us immune to poison, but we don't use it in this run at all.
 
-[section=Equipment Plan]
+## Equipment Plan
 
 A special note on KOTOR 2 is that many of the drops/containers you loot are randomized.  The base items here are all guarenteed items, but it is possible you may obtain items in your run that are more optimal to equip before getting the guaranteed items listed below (or could possibly be better!).
 
@@ -102,12 +116,10 @@ Obtained from dead mercenary in the Enclave Ruins
 Obtained from Sith Lord at Freedon Nadd’s Tomb
 - This is used for the +3 Strength; which gives us a lot of damage and accuracy.
 
-*Body: Ossus Keeper Robe OR Jal Shey's Armor*
-Reward from Queen Talia during Onderon 2, Jal Shey's Armor obtained from Geeda
+*Body: Jal Shey's Armor*
+Obtained from Geeda
 - At the beginning, we only have easy access to the Mining Outfit that gives us +1 defense.  
 - We use the Jal Shey Armor (bought from Geeda) then for its defense and dexterity bonus.  
-- Later on, we swap to the Ossus Keeper Robe for more force point pool, and for better resistance against Sion/Traya’s force powers.
-- Beginners can opt to keep Jal Shey's Armor, as it provides more defense for the late game.
 
 *Main Hand Weapon: Single Lightsaber*
 Crafted by Bao-Dur after Dantooine
@@ -142,7 +154,7 @@ The majority of our equipment is attained in Nar Shaddaa, with the exception of 
 4. +Wisdom: Gives us better saving throws for the endgame, where Nihilus, Sion, and Traya use force powers against us.
 5. +Defense:  Makes others less likely to hit us.  Nice stat, since we tend to run through areas with large amounts of enemies.
 
-[section=Credits Route]
+## Credit Route
 
 We do anywhere from 6-8 shopping trips during the run; the credit route branches depending on if you find better weapons to buy early game on Telos Station.  Our shopping is as follows:
 
@@ -184,7 +196,7 @@ The guarenteed items we sell are as follows:
 3. Benok's Blaster.  Sells for ~780 and is used to help fund stim needs.
 4. Lightsaber (or double-sided lightsaber).  Sells for ~680 and is used to help bribe Kaalah-Nah.
 
-[section=Alignment Route]
+## Alignment Route
 
 Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher numbers are Light, lower numbers are dark.  Shifts in alignment are determined by a matrix; every alignment-shifting action is classified as Light or Dark, and then assigned a level (either Low, Mid, or High).  The player character (The Exile) can either be aligned as Very Dark, Dark, Neutral, Light, or Very Light.  The more opposed your alignment and the action's classification, the more drastic your shift in alignment; for example, a Light-aligned character performing a High Dark action will have a large shift, while a Dark character performing a High Dark action will have a smaller shift.
 
@@ -198,7 +210,7 @@ Other than obtaining Mira, most of our decisions are done with the intention of 
 
 Getting Visas to spawn requires either 25/75 alignment (high dark/light, respectively), or 50 total alignment shifts.  We go for the 50 total alignment points, since it is much easier to attain while taking the most efficient path.  After attaining Visas, our alignment doesn't matter anymore.
 
-[section=Route Overview]
+## Route Overview
 
 The order in which we visit planets is as follows:
 
@@ -209,7 +221,7 @@ The reasoning for the middle planets:
 - We do Dxun and Onderon 1 since we have a better weapon, and to unlock Geeda’s guaranteed wares that require Dantooine and Onderon 1 to be completed. 
 - Nar Shaddaa is done last, as there are some combat intensive segments that require the use of frag mines (from Dxun) for Atton and Mira, and we want to do the prior planets to unlock Geeda’s upgraded wares, which is crucial for our build.
 
-[section=Detailed Route]
+## Detailed Route
 
 This section will describe all the actions you'll need to take for the Glitchless Any% run.
 
@@ -225,9 +237,26 @@ A -> indicates a secondary part to the conversation.  This is different from -> 
 A #xY indicates repeat that option Y times, as in HK-50's first conversation.
 A #x- indicates the rest of this conversation uses that particular number, generally used to indicate conversation spam not using 1 (e.g Saedie's conversation)
 
-[section=Prologue]
+**Jump to a Section:**
+- [Prologue](prologue)
+- [Peragus](peragus)
+- [Telos](telos)
+- [Korriban](korriban)
+- [Dantooine](dantooine)
+- [Dxun](dxun)
+- [Onderon 1](onderon-1)
+- [Nar Shaddaa](nar-shaddaa)
+- [Onderon 2](onderon-2)
+  - [Tomb of Freedon Nadd](tomb-of-freedon-nadd)
+  - [Onderon Palace](onderon-palace)
+- [Jedi Masters](jedi-masters)
+- [Ravager](ravager)
+- [Malachor V](malachor-v)
+- [Version History](version-history)
 
-**Character Creation:**
+## Prologue
+
+### Character Creation
 > Female Jedi Guardian - Custom Character
 > Str to 18, Dex to 14, Con to 14, Wis to 10
 > Treat Injury to 4
@@ -235,7 +264,7 @@ A #x- indicates the rest of this conversation uses that particular number, gener
 > Pick a good name!
 > Hit Play!
 
-**Ebon Hawk:**
+### Ebon Hawk
 Spam 1 to start the prologue
 Loot container for a spike
 Use the console (spam) to the open door to Main Hold
@@ -243,9 +272,9 @@ Loot the droid for parts
 Break the footlocker for 2 Computer Spikes
 Head back into the cockpit to skip the rest of the prologue: 2
 
-[section=Peragus]
+## Peragus
 
-** Administration Level **
+### Administration Level
 Mouse spam through the kolto cutscene (parts of it are skippable)
 Go to the console in the medical room: 4 3 6
 Run into the room and loot the corpse
@@ -260,12 +289,12 @@ Head to the administration console, 1 spam
 Run to the prison to free Atton: 1 spam through everything (to avoid Carth cutscene)
 Head back to the administration console: 2-
 
-**Fuel Depot - T3 Section**
+### Fuel Depot - T3 Section
 Open the middle door using security, and head to the console: 1 1 2 2
 Head over to the Fuel Depot (left door when going down the ramp), and head to the console in the next area: 3 1 2
 T3 gets zapped and control transitions to MC
 
-** Mining Tunnels **
+### Mining Tunnels
 Atton talks to you again: 1 spam
 Run to the mining tunnels (the room right before the room with the locker).  
 When Atton talks to you: 4 (to skip any further conversations until the end)
@@ -275,21 +304,21 @@ Continue on through the mining tunnels.  Loot all corpses on the way, and only t
 - You'll want to watch for an alacrity when looting corpses.  If you get an alacrity here, use it once your Force Speed runs off.
 At the fuel depot, talk to the console: 2 1 2, then take the path to the right and make your way through to the next section (Loot the last corpse on your way).
 
-HK-50: 5 1x9 2 
+HK-50: 7
 Loot the maintenance officer for some more items.
 Run through and break the console (you do not need to actually hit this): 6
 Loot the footlocker for a Space Suit, and try to have Force Speed (or Alacrity) up when entering space.
 Enjoy the long Harbinger docking cutscene!
 Enter the dormitories.
 
-** Dormitory **
+### Dormitory
 Turn on Force Speed, Run through the dormitories. Ignore all corpses until the end, where there are 3 corpses.  Loot them all, then at the console (make sure you hit the console): 3
 Talk to Kreia when she opens the door: 3
 Mash 1 through the talk with Atton, and when HK-50 reappears: 3 4
 Have Kreia/MC use a sonic/ion grenade.  Afterwards, turn on solo mode and run MC to the door while Kreia and Atton finish off HK-50.  
 Loot HK-50 (do not miss this!), then proceed to the Harbinger.
 
-** Harbinger **
+### Harbinger
 Turn on solo mode, have MC break the door to the left, and swap to Kreia.  1 spam through the first convo.
 Head to the bridge as Kreia to the console: 1 1 2
 Break the next door as MC and run to the next area.
@@ -300,7 +329,7 @@ Watch the long cutscene with Sion and Kreia, then open the room straight ahead.
 Break and loot the footlocker closest to the console for a vibroblade, then interact with the console (1 spam)
 Run back and turn left, and make your way to the next area (interact with the console on the way).  After the Kreia/Sion Cutscene: 4
 
-** Fuel Depot (pt 2) **
+### Fuel Depot (pt 2)
 Turn on solo mode, then talk to T3: 3 1
 Equip the Mining outfit and an energy shield.  Turn on the energy shield and run through all 3 of the mines around the ground floor (the mines are located inside the vents).  
 If you get a level, hold off on it until you need healing.  After leveling, heal with medpacks as needed.
@@ -311,17 +340,17 @@ You’ll be going through 6 mines that deal either 15 or 7 damaage, so make sure
 Console: 3, and bash open the door inside the room.  Run through and enter the Ebon Hawk for the turret minigame.
 Afterwards, spam 1 for the cutscene with Kreia
 
-** Ebon Hawk **
-Cutscene with Atton/Kreia: 6 2 -> 4 4 
-Run and talk to Kreia: 2x5 3 1 1 3 2 1 2 1 3 3 3 2 1 1 4 3 2 1x6 3 3
+### Ebon Hawk
+Cutscene with Atton/Kreia: 6,2 -> 4,4 
+Run and talk to Kreia: 2,5,3,1,1,3,2,1,2,1,3,3,3,2,1,4,3,2,1x6,3,3
 - Yes, this is a long conversation, but this gives us 5 alignment points for later.
 Talk to Atton: 1 spam
 Fly to Telos.
 
-[section=Telos]
+## Telos
 
-** Citadel Station** 
-Get arrested: 3 2 1
+### Citadel Station
+Get arrested: 1x-
 1 spam through the next set of dialogues, kill fake Batu Rem. (use Critical Hit, try to face him in back of Atton for sneak attacks)
 When officers come in, spam 1.
 1 spam through the next dialog, then spam 2 (Get out + I don't want to talk about this).
@@ -405,7 +434,7 @@ Once done, return back to Chodo.
 After talking to Chodo as MC, run and transition to the Docks (2 1).
 1 spam through the cutscene, talk to the Ithorian, use the console twice, and leave the area.
 
-** Telos Surface **
+### Telos Surface
 
 Mouse spam through the cutscene (1 spam).  Bring Kreia with you when promted.
 Turn on solo mode and run MC through the entire area.  
@@ -419,7 +448,7 @@ Run past the Twilek, and use Force Valor before starting the fight: 4
 
 Afterwards, turn on solo mode and run MC to the entrance of the Military Base
 
-** Military Base**
+### Military Base
 
 * This is one of the most difficult segments, as Bao-Dur has a lot of chances to get stunned and lose a lot of time, so make your way through the area quick.  If he gets stunned, keep the energy shield and medpac going as needed. Beginners may want to make a manual save at the beginning*
 
@@ -450,7 +479,7 @@ Swap to MC and activate the Hangar Doors.  (You may want to make a manual save h
 Head to where the giant droid is and throw 4 Ion Grenades at the droid to kill it (if not dead, use only regular attacks to kill the droid)
 After the droid is dead, head to the ship to leave the Military Base.
 
-** Polar Academy **
+### Polar Academy
 
 HK-50s accost you: 4 (spam it to cast Force Speed as well), and run away to the hidden door.
 Handmaiden talks to you: 2 
@@ -462,7 +491,7 @@ Head to the Hangar Bay.  Talk to T3 on the way (1 spam)
 } Equip Vibroswords (or the better weapon if bought), Plasma Torch to MC
 Leave the Polar Academy to the Ebon Hawk.
 
-[section=Korriban]
+## Korriban
 
 More cutscenes to 1 spam through.  
 After the council cutscene: 1 3 1.  Then spam 1 through the rest.
@@ -486,7 +515,7 @@ https://cdn.discordapp.com/attachments/808151224842977353/814374460253274112/unk
 
 Make your way back to the Ebon Hawk (use an alacrity since you likely won't have any more Force), and fly to Dantooine.
 
-[section=Dantooine]
+## Dantooine
 
 Leave the Ebon Hawk and take Kreia with you.
 Make your way to Khoonda.  Solo mode to leave Kreia at the door, and head to a small room on the right to talk to Adum Larp.
@@ -529,7 +558,7 @@ Azkul talks to you (again): 5 3, to get 1k credits and skip the battle
 Vrook: 9 (teaches you Ataru force form)
 Afterwards, exit to the Ebon Hawk and fly to Onderon.
 
-[section=Dxun]
+## Dxun
 
 Atton and Kreia: 2 3 4 4 1
 Talk to T3 for spikes: 6 2- until it exits the convo.
@@ -570,7 +599,7 @@ Sith Ambush Fight:
 - Head to the entrance, and kill any sith that has low HP.  If the combat doesn't end, just keep wailing on the Sith Assassins still left.
 - Exit combat after - after a couple of seconds, Mandalore will say to move out (Take Kreia with you)
 
-[section=Onderon 1]
+## Onderon 1
 
 Mash through cutscenes and hug the left wall to avoid the square cutscene.  
 Debaters talk: 4
@@ -613,7 +642,7 @@ Ending Credits: ~5k (~10k if you sold the Mandalorian Assault Rifle early)
 Talk to the Mandalorian Guide: 1
 Fly to Nar Shaddaa.
 
-[section=Nar Shaddaa]
+## Nar Shaddaa
 
 *This planet requires you to be precise with convos, especially when spawning the Exchange cutscene.  If the conversation with Sasquesh is done wrong, you will never get the cutscene and your run ends there.*
 
@@ -700,12 +729,12 @@ Take MC to the docks (if you get the Atton cutscene just 1 spam through it).  In
 
 *Note that if you still have Fast Text, you MUST make a manual save reload your game here or else you will softlock later on with Zez*
 
-** Atton Section **
+### Atton Section
 
 Twin Suns Fight: Auto level Atton, and place 4-5 Average Frag Mines under him.  Run both of them through it and they should die instantly.
 Be careful of positioning, as if they’re separated the frag mines may miss one of them.
 
-** Mira Section **
+### Mira Section
 
 1 spam through the many cutscenes and run Mira through the Jekk Jekk Tarr to the Private Area.   
 
@@ -724,7 +753,7 @@ Run with MC towards the pen.
 
 Make sure you have 5 average frag mines looted from Hanharr/the corpse.
 
-** T3 Section **
+### T3 Section
 1 spam through even more cutscenes (yawn)
 Auto Level T3, and talk to C7-E3, then talk to C6-E3.
 Use all 5 frag mines before talking to C7 again to kill him. 
@@ -732,46 +761,54 @@ Run through to the puzzle: 4 5 2 1
 Run back the way you came and leave the warehouse ignoring HK-50s.
 (You might want to make a manual save in case you mess up the next dialog)
 
-** Goto's Yacht **
+### Goto's Yacht
 
 Be careful with this next dialog.
 1 spam through the cutscene with Atton and Mira.  
-Second cutscene will ask to change the codes, then to bring two characters to Goto’s Yacht.  Bring Mira + Visas (1 -> 1 5 6)
+Tien Tubb: 1,1 -> 5,6
 
-Manual Level Visas (do this for all levels she can get):
-	> Skills - Recommended
-	> Attribute - Strength
-	> Feats - Stealth Run, Improved Two-Handed Fighting
-	> Force Powers - Knight Speed, Force Valor (Knight Valor if you have an extra level), Force Deflection
+Once on Goto's Yacht, follow the map below for the fastest path:
+* *Make sure Visas stays cloaked for the first portion. If she gets detected it can be hard to continue. Consider making a safety save before performing these steps.*
 
-Follow the map below for the path you should take:
 
-*If Visas gets detected, this is very bad.  You'll want Mira out of combat so she can talk to droids.  Consider making a safety save before performing these steps. *
 
-https://cdn.discordapp.com/attachments/808151224842977353/813303810884763698/unknown.png
+![Goto's Yacht route map](https://i.imgur.com/4zB34vc.png/)
 
-1.  Turn on Solo Mode, swap to Visas, and interact with the terminal: 1 4 2 2
-2.  Then talk to the droid: 1
-3. Cast Force Speed, use an Alacrity, then turn on Stealth Mode.  
-4. Bring Visas to the first droid (in dark red).  You will swap places with Mira (Visas now is at the start)
-5. Bring Visas to the second droid (path in orange).  Now Visas swaps again with Mira (Visas ends up at 4, Mira at 7)
-6. Run Mira to #13 (Make sure to give her an alacrity and equip a energy shield) (path in purple)
-7. Break the plasteel cylinder in the corner once reaching the bridge for the droid authorization codes.
-8. Left Console: 3 1 1 1 2 2 5 3 5 1 4 3 6
-9. Run Visas to #6 (path in brown), defeat the droids at #5
-10.  As MC, go backwards to the console (1 3) to get the codes.
-11. Run Mira back to #13.  On the way, use Mira to recover 5 deadly mines, which will be used for a later fight.  
-12. While Mira recovers mines, run MC or Visas to the entrance at #1. 
-} Unequip Mira's Plasma Torch.
-13. Use the Right Console: 1 2 2 2
-14. Left Console: 3 1 1 1 5 3 6
-15. Exit with MC or Visas
 
-Zez-Kai-El: 1x4 3 1-
+1. `+ \` Manual Level Visas (do this for all levels she can get):
+	`>` Skills - Recommended
+	`>` Attributes - Strength
+	`>` Feats - Stealth Run, Improved Two-Weapon Fighting
+	`>` Force Powers - Knight Speed, Force Valor
+	- *Auto Level Up if there are any more levels.*
+3. Cast Knight Speed then interact with the terminal: 1,4,2,2
+4. Speak to the Utility Droid: 1
+5. Activate 1x Alacrity, then turn on Stealth (Default Hotkey: 'G').
+6. Follow the Blue line to the first Red X
+7. Activate Psuedo-Stim Set and Force Valor, open the door in front of you.
+8. Destroy the Maintenance Droid, followed by all 6 Turrets.
+9. Open the door to free MC
+10. Cast Knight Speed when in control of MC, run backwards to the console to get 'Access Code - Power Distribution': 1,3
+11. `\` Activate 1x Alacrity stim, activate Shield. Run Mira along the Orange line to #14.
+12. Once you bash the door to the Bridge, bash the Plasteel Cylinder in the right corner for 'Access Code - Droid Controller'.
+13. Access the Bridge Command Console at #15: 3,1,1,1,2,2,4,1,4,3,5
+  - *Sometimes the previous selections don't work, in that case it will likely be: 3,1,1,1,2,2,5,1,4,3,5.*
+13. Head back to #14 and recover all 5 Deadly Frag Mines, which we will be using for a later fight.
+14. While Mira recovers mines, run MC to #1 (Green line).
+  - *We will need to cast Knight Speed as MC.*
+  - *It takes between 4 and 5 seconds to recover 1 Mine.*
+15. `}` Unequip Mira's Plasma Torch.
+16. Access Primary Power System: 1,2,2,2
+17. Access Bridge Command Console: 1,5,3,5
+18. `\ \` Exit Goto's Yacht.
+
+
+Goto on Ebon Hawk: 1x4
+Zez-Kai Ell: 1x4,3,1,1
 
 Afterwards, head back to the ship, go through the cutscenes, and fly to Dxun again.
 
-[section=Onderon 2]
+## Onderon 2
 
 Exit the ship without bringing anyone.
 Talk to the Mandalorian guide to enter the camp: 2
@@ -780,7 +817,7 @@ Talk to the Mandalorian guide to enter the camp: 2
 Convo: 1 1 1 3 4 6
 - This brings Visas, Mandalore, and Disciple with you to the tomb of Freedon Nadd.  You want Mandalore/Disciple because they can soak hits for the fight later, which is very dangerous for Visas.
 
-** Tomb of Freedon Nadd **
+### Tomb of Freedon Nadd
 
 You should have Visas/Mandalore/Disciple in your party.  
 > Auto level all of them up.
@@ -809,19 +846,22 @@ Afterwards, loot the Sith for the Power Gauntlets.  Run to the sarcophagus to lo
 *YOU MUST UNEQUIP VISAS BEFORE TALKING TO XARGA AGAIN OR ELSE YOUR RUN ENDS HERE*
 } Unequip Visas's lightsabers, helmet, and MC's armband.
 
-** Onderon Palace **
+### Onderon Palace
 Convo: 3 3
 
-Take Atton with you (first selectable character).
+Take T3-M4 with you.
 
 Spam 1 through the entry dialogue.
 } Equip enhanced lightsaber on mainhand + Freedon Nadd's saber offhand, Sith Gauntlets, Power Implant, Jal Shey Armor, and Targeting Visor to MC.
 
 Swap to Shi'en form here, and make your way to the palace.
 
-Inside the palace, run forward, then turn on solo mode after the doors close.
-Run MC through the path to your right, to the second to last door.  Spam Kavar's cutscene.
-Talk to Kadron: 1 1 3
+Inside the palace, run forward, then turn on solo mode after the door closes.
+Run MC through the path to your right (facing away from the now closed door) to the first door on your right.  
+Open this door and loot the Museum Treasure to the left for Crystal, Pontite.
+Head back out and follow the path to the second to last door where Kavar will greet you.
+Spam Kavar's dialog. Head through the now open door further to find Captain Kadron.
+Talk to Kadron: 1,1,3
 
 Swap to Kreia, auto-level her, turn on your energy shield on her, and use an alacrity.
 } Equip the Plasma Torch (or a lightsaber if you forgot to unequip the Plasma Torch earlier)
@@ -832,38 +872,41 @@ Run her on the opposite direction MC took (left side), dodging the mines and ene
 
 At the end of the set, talk to Kiph on the console (manual save before this if you are new):
 
-Kiph: 1 1 1 1  
+Kiph: 1,1,1
 After pressing the last 1, get ready to IMMEDIATELY PAUSE the game when the conversation ends.  You will swap places with MC.  Have MC click on the console, then unpause and it should open the console.
 - If not done correctly, you will need to kill all the enemies in the room with MC.
 
-If done right, use the console commands: 2 4
-Swap to Atton and enter the now opened room.
+If done right, use the console commands: 2,4
+Swap to T3-M4 and enter the now opened room.
 
-Start the beast fight, have Atton run back to bring MC/Kreia into the room.
-Swap to MC, cast Knight Speed (use a strength/battle stim) and kill the beast.
+Start the beast fight, have T3 run back to bring MC/Kreia into the room.
+Swap to MC, cast Knight Speed, activate a strength stim and kill the Drexyl Larva.
 
-Spam 2 through this next cutscene. 
+Spam 2 through this next cutscene.
+Turn around and talk to T3 and upgrade our main lightsaber, replacing Crystal, Nextor with Crystal, Pontite.
 Run forwards to watch Kavar pwn the attackers.
 Run forwards again to watch Talia and Vaklu fight, then 1 spam to start the fight against Vaklu.  Cast Knight Speed again and kill him.
 
-Vaklu and crew convo: 2 1 -> 1
-Talk to Kavar:  1x4 3
+Vaklu and crew convo: 2,1 -> 1
+Talk to Kavar:  1x4,3
 
 Kavar will teach you Juyo form.  Swap to this whenever you have control of MC again.
 
 Go through more cutscenes and you'll end up in the jungle again with Visas (1 spam)
 Enter the ship, watch more cutscenes, and fly to Dantooine.
 
-[section=Endgame + Ravager]
+## Jedi Masters
 
 Head to the Jedi Enclave for a whole truckload of cutscenes.  Mash 1 through all the cutscenes til you get back to the Ebon Hawk.
 
-Atton: 1 1 1 3 3
+Atton: 1,1,1,3,3
 Disciple: 5
 
 After a whole bunch of cutscenes, you’ll be back in the Hidden Base.  
 Run to Atris's area, and use Force Enlightenment (2 force powers up) before talking to Atris
-Atris: 5.  Fight her, then press 3 to kill her.
+Atris: 5
+Kill Atris
+Atris: 1x-
 
 After even more cutscenes (spam 1 through all of it), you’ll be back on Telos Station. 
 Run to the Docks (turn on solo mode throughout each area transition).
@@ -872,9 +915,7 @@ In the next cutscene with the Admiral, mash 1.
 
 Enjoy the bathroom break cutscene with Mandalore and his crew.  You can mouse spam when Visas comes into the cutscene.
 
-** Ravager **
-
-*Experienced players should swap to the Ossus Keeper Robes for more force powers.  For new players, you may want to keep the Jal Shey Robes as they provide more defenses when running through the rest of the game.*
+## Ravager
 
 Run through the Ravager (turn on solo mode) and follow the map below on placing the Proton Cores.
 
@@ -889,26 +930,27 @@ Afterwards, run back the way you came and follow the red line when back in the f
 
 After the third proton core, go to the Missile Bay Room (6), head to the console, 1 spam, then get the spare missile.  Then exit the Ravager.
 
-[section=Malachor V]
+## Malachor V
 
 Follow the maps below.  You’ll want to kill the Storm Beasts with Force Jumps while making your way through the area for Remote’s safety later.
 
-** As MC: ** 
-https://cdn.discordapp.com/attachments/808151224842977353/813309890449768448/unknown.png
-https://cdn.discordapp.com/attachments/808151224842977353/813309984036356106/unknown.png
+### MC:
+<br>
+https://cdn.discordapp.com/attachments/808151224842977353/813309890449768448/unknown.png <br>
+https://cdn.discordapp.com/attachments/808151224842977353/813309984036356106/unknown.png <br>
 
 In the second area, kill the 3 Storm Beasts near each other.
 In the large area marked #5, use Force Enlightenment to kill the large Storm Beast.  It should die in 1-2 hits.
 
 Head to the entrance to Traya Academy, then go through more cutscenes til the second fight with Hanharr.
 
-Hanharr 2: 
+### Hanharr 2
 - Plant all 5 Deadly Mines and run Hanharr through them.  
 - He should die instantly, but if not then put on blasters just rapid fire him to death.  
 
 Spam 1 after the fight.
 
-** As Remote: **
+### Remote
 
 *Be careful, as you generally only have 3 repair kits.*
 
@@ -939,9 +981,18 @@ Cast Force Enlightment again and hit her.  Heal up as needed, as the floating li
 
 Time ends on the last hit on Traya, GG!
 
-[section=Version History]
+## Version History
 
-**v2.0 (Feburary 2021) **
+### v2.1 (October 2023)
+- Updated dialog for first HK-47 Encounter.
+- Updated dialog for Telos Station fast travels.
+- New Goto's Yacht route found by Ninko (saves ~1 minute)
+- Bringing T3-M4 to Sky Ramp/Palace instead of Atton (to upgrade lightsaber).
+- Palace route changed to loot 'Crystal Pontite'.
+- Due to looting in the Palace we no longer receive the Ossus Keeper Robes.
+- Updated dialog for endgame Atris Fight (saves 25 seconds).
+
+### v2.0 (Feburary 2021)
 - Massive reroute from 30's initial route to incorporate more consistent equipment strategies.  
 - No longer relies on RNG shops on Telos/Dantooine, incorporate Geeda/Oondar's shop on Nar Shaddaa
 - Alignment Reroute to get a total of 50 alignment points to spawn Visas, rather than 75 alignment to spawn Visas
@@ -951,7 +1002,7 @@ Time ends on the last hit on Traya, GG!
 - Skip grinding encounters on Dxun to only kill the neccessary enemies.
 - Skip killing the thug group on Nar Shaddaa in exchange for the Geeda/Oondar sidequests.
 
-** v1.0 **
+### v1.0
 - 30's initial routing of this category.  See guide here: https://docs.google.com/document/d/1fuTbSMHweYhmztRxE5-IlEfH2Yv9jwXpnOJLgxDEA-Y/edit
 
 *The rest is, as they say, history...*
