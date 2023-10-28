@@ -16,14 +16,15 @@ for root, dirs, files in os.walk(os.getcwd(), topdown=False):
             path = os.path.join(root, name)
             file = open(path, "r+")
             content = file.read()
-            urls = re.findall('https?://i.imgur.com/[\da-zA-Z]{7}\.png', content)
+            urls = re.findall("https?://i.imgur.com/[\da-zA-Z]{7}\.png", content)
             if len(urls) > 0:
                 print(f"Found {len(urls)} imgur links in {path}")
                 for url in urls:
                     urlretrieve(url, f"assets/images/imgur-dump/{url[-11:]}")
                 file.seek(0)
-                new_content = re.sub('https?://i.imgur.com/', '/assets/images/imgur-dump/', content)
+                new_content = re.sub(
+                    "https?://i.imgur.com/", "/assets/images/imgur-dump/", content
+                )
                 file.truncate(0)
                 file.write(new_content)
             file.close()
-    
