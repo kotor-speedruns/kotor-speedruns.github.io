@@ -402,6 +402,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Heal MC.
 - Head towards the Cargo Hold.
 - Use Security to open the Cargo Hold.
+- Open the locker on the right (this is why we looted Kreia's corpse in the main hold.)
 - Speak to 3C-FD.
 - Put T3 at the Outer Garage door and go into solo mode. ( + )
 - \ As 3C-FD, head back into the Main Hold and use the Security Console: 1,2,1,2,5
@@ -434,7 +435,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Kreia accosts you: Mouse spam
 - Open the Door.
 - Spam 1 through Atton Dialog until you have control of MC again.
-- Use the Console: 2x- -> 2x-
+- Use the Console: 2,2,2 -> 2,2,2,2
 
 ### Fuel Depot - T3 Section
   - *Do not click your mouse until you can see T3 or your game will crash!*
@@ -554,7 +555,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
   - Now we have quite a lengthy conversation with Kreia so it is a good idea when learning to make a save here just incase you make a mistake, this will give us +8 LSP, if not done correctly you will not be able to finish Korriban.
 - Speak to Kreia: 2x7,1,3,1x10,4,3,2,1x6,2,1 (+8 LSP)
 - Now run back to the Cockpit and speak to Atton: 1x- (+1 LSP)
-- Use the Galaxy Map and select Telos.
+- Use the Galaxy Map and select Telos. (1 left)
 
 ## Telos
 - Telos is the reason our run is named 'Max Quests' instead of 'All Quests', due to there being the Czerka vs Ithorian routes, here you will have the option to complete either of the two routes. The Czerka Route completes 1 (ONE) extra quest compared to the Ithorian Route, thus your run will end with a total of 104 completed quests, where the Ithorian route will end with 103.
@@ -1810,7 +1811,7 @@ https://i.imgur.com/UuvBiNL.png
 - Follow the maps below. You’ll want to kill the Storm Beasts with Force Jumps while making your way through the area, this will make it safer for the Remote later.
 - If they don't die on first hit with a force jump then continue on and don't worry about it, just be cautious when floating around as the Remote.
 
-**MC**
+### MC
 https://cdn.discordapp.com/attachments/808151224842977353/813309890449768448/unknown.png
 https://cdn.discordapp.com/attachments/808151224842977353/813309984036356106/unknown.png
 
@@ -1820,13 +1821,13 @@ https://cdn.discordapp.com/attachments/808151224842977353/813309984036356106/unk
 
 - Head to the entrance to Trayus Academy, mouse spam through cutscenes until the fight with Hanharr.
 
-**Mira**
+### Mira
 - Plant all 5 Deadly Frag Mines and run Hanharr through them.
 - Hanharr should die instantly, but if not then you can just launch grenades at him.
 - Hanharr: 1,1,1
   - *Don't click your mouse once the screen starts to fade black.*
 
-**Remote**
+### Remote
   - *Be careful, as you don't have a lot of Repair Kits.*
 - All Damaged Console's: 1,1
 - Be careful not to get trapped in the third ship.
@@ -1835,7 +1836,7 @@ https://cdn.discordapp.com/attachments/808151224842977353/813309984036356106/unk
 https://cdn.discordapp.com/attachments/808151224842977353/813310621835722762/unknown.png
 https://cdn.discordapp.com/attachments/808151224842977353/813310695470661682/unknown.png
 
-**Trayus Academy**
+### Trayus Academy
 - Afterwards, you'll be in the Trayus Academy as MC. Mouse spam dialog where applicable Follow the maps outlined below:
 
 https://cdn.discordapp.com/attachments/808151224842977353/813310858276503552/unknown.png
@@ -1844,14 +1845,14 @@ https://cdn.discordapp.com/attachments/808151224842977353/813310920792473610/unk
 - You will be running through a lot of enemies in here, make sure to keep an eye on MC's HP and heal as needed.
 - Keep Knight Speed active as much as possible.
 
-**Sion**
+### Sion
 - Sion stops you: 8
 - Immediately pause (spacebar), activate Hyper Stim set.
 - You'll need to bring Sion's HP to 1 a total of 4 times.
 - 1 spam through his dialog after each phase.
 - Once he's dead, head to the Trayus Core.
 
-**Traya**
+### Traya
 - Cast Force Enlightment before proceeding.
 - Traya: 4,4
 - First Phase, Force Jump to her as she has a small chance of using stunning Force Abilities on you, this should tank her and be able to avoid it.
@@ -1860,11 +1861,11 @@ https://cdn.discordapp.com/attachments/808151224842977353/813310920792473610/unk
 - Immediately pause as all buffs were ended at the end of the first phase.
 - Activate whatever Hyper stims you have left plus regular stims of the others.
 - Cast Force Enlightment again and hit her. Heal up as needed, as the floating lightsabers hurt.
-
 - Time ends on the last hit on Traya, GG!
 
-[section=Version History]
-**v2.0 (Some thanks extended to 30Cents, February 2023-FINISHED?)**
+## Version History
+
+### v2.0 (Some thanks extended to 30Cents, February 2023-FINISHED?)
 - Added looting Kreia's corpse during the Prologue for the Locker Key.
 - Added looting the Locker in the Cargo Hold for an extra Computer Spike.
 - Updated 'Prologue' route.
@@ -1876,15 +1877,15 @@ https://cdn.discordapp.com/attachments/808151224842977353/813310920792473610/unk
 - Credits Route and Shopping Trip updated for Dantooine - Adum Larp.
 - Update to Atris fight dialog in endgame (saves 35 seconds over previous iteration).
 
-**v1.7 (January 2023)**
+### v1.7 (January 2023)
 - Sped up Prologue by choosing to Skip the Prologue instead of using the Galaxy Map to select Peragus. (Thanks to 30cents)
 
-**v1.6 (November 2022)**
+### v1.6 (November 2022)
 - Added new quest ‘Fuel Sabotage: Bonus Mission’ that was unknown to the community.
 - Total quests for Czerka Route is now 104 Quests.
 - Total quests for Ithorian Route is now 103 Quests.
 
-**v1.5 (September 2022)**
+### v1.5 (September 2022)
 - Re-named to Max Quests Glitchless (due to the realization that Czerka and Ithorians on Telos have a different number of quests).
 - Added 2 hidden Pazaak Quests which come from some dialog with Atton.
 - Czerka Route made the main route for Telos Station with 103 Quests completed at end of run.
@@ -1893,7 +1894,7 @@ https://cdn.discordapp.com/attachments/808151224842977353/813310920792473610/unk
 - Moved Korriban to after Nar Shaddaa 1.
 - Updated the alignment route to be exactly 75 for the Sith Tomb on Korriban.
 
-**v1.0 (August 2022)**
+### v1.0 (August 2022)
 - (Formerly Named) All Quests Glitchless.
 - 100 Total Quests in the (Ithorian) Route.
 - Ithorian Route (later found to contain 1 less quest than Czerka Route.
