@@ -1581,10 +1581,11 @@ Buy:
 
 ### Sky Ramp
 - 1x-
-- `=` Take Atton with you.
+- `=` Take T3-M4 with you.
+  - *We will use T3 to add the Pontite Crystal to our Lightsaber.*
 - 1x-
 - Cast Knight Speed.
-- Auto Level Up Kreia and Atton.
+- Auto Level Up Kreia and T3-M4.
 - Enter Sky Ramp
 - Equip MC: Sith Power Gauntlets, MC's Armband, Upgraded Lightsaber (Mainhand), Freedon Nadd's Short Lightsaber (Offhand)
 - Run through to the Palace, keep Knight Speed active as you go.
@@ -1596,7 +1597,9 @@ Buy:
 - Mouse spam Captain Bostuco's obvious realization that we have made it to the Palace.
 - Run forward to trigger dialog with Colonel Tobin: 1,1
 - Mouse spam until in control of MC.
-- `+` Cast Knight Speed and take MC down the path to the right, facing away from the now closed door, all the way down to the second to last door.
+- `+` Cast Knight Speed and take MC down the path to the right, facing away from the now closed door.
+- Open the first door on the right, enter the room, turn left and loot the container for 'Crystal, Pontite'.
+- Exit that room and head down to the second to last door on the right where Kavar will greet you.
 - Kavar: 1x-
 - Run in to Captain Kadron and speak to him.
 - Captain Kadron: 1,1,3
@@ -1614,17 +1617,19 @@ Buy:
 - Kiph: 1,1,1 (pause)  `\ \`
 - Click on the console as MC.
 - Console: 2,4  `\ \`
-- Run Atton towards Tobin to trigger dialog, spam through it.
-- When back in control of Atton run him backwards to bring MC and Kreia in.  `\`
+- Run T3-M4 towards Tobin to trigger dialog, spam through it.
+- When back in control of T3, run him backwards to bring MC and Kreia in.  `\`
 - Cast Knight Speed, activate 1x Strength Stim.
-- Defeat the Drexl Larva.
+- Defeat the Drexyl Larva.
 - Mouse spam fight cutscene: 2
-- Cast Knight Speed, run forward, mouse spam through Kavar killing Vaklu Soldiers.
+- Cast Knight Speed
+- Talk to T3-M4 and Upgrade Lightsaber (Replace Crystal, Nextor with Crystal, Pontite)
+- Run forward into the throme room, mouse spam through Kavar killing Vaklu Soldiers.
 - Run forward to Talia and Valku: 1x-
 - Cast Knight Speed and kill Vaklu.
 - Vaklu / Talia: 2,1 -> 1
 - Speak to Kavar: 1x4, 3
-- Mouse spam until in control of MC, then switch to Shien Form (1 up) for rest of the run.
+- Mouse spam until in control of MC, then switch force form to Shien (1 up).
 - Wait for load screen back to Jungle Landing on Dxun, cast Knight Speed as soon as you see MC.
 - Visas speaks to you: 1x-
 - Enter the Ebon Hawk.
@@ -1693,39 +1698,33 @@ Buy:
 
 ### Goto's Yacht
 Once on Goto's Yacht, follow the map below for the fastest path:
-NEW GOTOS YACHT ROUTE TO COME FOR VERSION 2.0
 * *Make sure Visas stays cloaked for the first portion. If she gets detected it can be hard to continue. Consider making a safety save before performing these steps.*
-NOTE THIS IS THE OLD MAP
 
 
 
-![Goto's Yacht route map](https://i.imgur.com/9xRcnWm.png/)
+![Goto's Yacht route map](https://i.imgur.com/4zB34vc.png/)
 
 
 1. `+ \` Auto Level Up, cast Knight Speed then interact with the terminal: 1,4,2,2
 2. Speak to the Utility Droid: 1
 3. Activate 1x Alacrity, then turn on Stealth (Default Hotkey: 'G').
-4. Follow the Red line to #4 to bring Visas to the first droid: 1 
-* *You will swap places with Mira.*
-* *Visas will be back at the start.*
-* *Wait for Visas' Lightsabers to close before continuing.*
-5. Follow the Orange line to #7 to bring Visas to the second droid: 1
-* *Visas and Mira swap places again. Visas will be at #4, Mira will be at #7.*
-6. `\` Activate 1x Alacrity stim, activate Shield. Run Mira along the Purple line to #13.
-7. Once you bash the door to the Bridge, bash the Plasteel Cylinder in the right corner for 'Access Code - Droid Controller'.
-8. Access the Bridge Command Console: 3,1,1,1,2,2,5,3,5,1,4,3,6
-* *Sometimes the previous selections doesn't work, in that case it will likely be: 3,1,1,1,2,2,5,3,1,1,4,3,6.*
-* *This is swapping the last 5 for a 1, not sure why it does this only sometimes, but at least it is easy to get around.*
-9. `\` Cast Knight Speed, run Visas along the Green line to #6. Activate Psuedo Stim set on the way (and Force Valor), defeat the droids at #5.
-* *Safety Save before opening the door to #6 as the game can crash here.*
-10. Cast Knight Speed when in control of MC, run backwards to the console to get 'Access Code - Power Distribution': 1,3
-11. `+` Run Mira back to #13. On the way, recover 5 Deadly Frag Mines, which we will be using for a later fight.
-12. While Mira recovers mines, run MC #1.
-* *It takes between 4 and 5 seconds to recover 1 Mine.*
-`}` Unequip Mira's Plasma Torch.
-13. Access Primary Power System: 1,2,2,2
-14. Access Bridge Command Console: 3,1,1,1,5,3,6
-15. `\ \` Exit Goto's Yacht.
+4. Follow the Blue line to the first Red X
+5. Activate Psuedo-Stim Set and Force Valor, open the door in front of you.
+6. Destroy the Maintenance Droid, followed by all 6 Turrets.
+7. Open the door to free MC
+8. Cast Knight Speed when in control of MC, run backwards to the console to get 'Access Code - Power Distribution': 1,3
+9. `\` Activate 1x Alacrity stim, activate Shield. Run Mira along the Orange line to #14.
+10. Once you bash the door to the Bridge, bash the Plasteel Cylinder in the right corner for 'Access Code - Droid Controller'.
+11. Access the Bridge Command Console at #15: 3,1,1,1,2,2,4,1,4,3,5
+  - *Sometimes the previous selections don't work, in that case it will likely be: 3,1,1,1,2,2,5,1,4,3,5.*
+12. Head back to #14 and recover all 5 Deadly Frag Mines, which we will be using for a later fight.
+13. While Mira recovers mines, run MC to #1 (Green line).
+  - *We will need to cast Knight Speed as MC.*
+  - *It takes between 4 and 5 seconds to recover 1 Mine.*
+14. `}` Unequip Mira's Plasma Torch.
+15. Access Primary Power System: 1,2,2,2
+16. Access Bridge Command Console: 1,5,3,5
+17. `\ \` Exit Goto's Yacht.
 
 ### Finish Nar Shaddaa
 - G0-T0 on Ebon Hawk: 1x4
@@ -1794,9 +1793,6 @@ NOTE THIS IS THE OLD MAP
 ### Ravager
   - *We can mouse spam once we see Visas.*
 - Mouse spam until in control of MC.
-
-  - *Experienced players should swap to the Ossus Keeper Robes as they give us `+`2 Charisma, `+`4 Wisdom and `+`4 Intelligence. For new players, it is recommended to keep the Jal Shey Neophyte Armor equipped as they provide more defense, this will help you use less Medpacs for the rest of the game.*
-
 - `+` Cast Knight Speed.
 - Run through the Ravager following the map below for placing Proton Cores.
 
@@ -1908,6 +1904,10 @@ NOTE THIS IS THE OLD MAP
 - Credits Route and Shopping Trip updated for Telos Station - Samhan Dobo.
 - Credits Route and Shopping Trip updated for Telos Station - Dendis Dobo.
 - Credits Route and Shopping Trip updated for Dantooine - Adum Larp.
+- T3-M4 taken to Sky Ramp/Palace instead of Atton.
+- Pontite Crystal looted in the Palace on Onderon.
+- Due to looting in the Palace we no longer get Ossus Keeper Robes.
+- New Goto's Yacht route (saves ~1 minute).
 - Update to Atris fight dialog in endgame (saves 35 seconds over previous iteration).
 
 ### v1.7 (January 2023)
