@@ -74,25 +74,27 @@ Treat Injury (TI) will be our main skill, since there are no strict skill requir
 We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsaber; we pick it over 'Two-Weapon Fighting' since this feat takes longer to select and character creation isn't timed. This will in turn result in our first level up being faster than if we chose 'Two-Weapon Fighting' now. 
 
 ### Leveling Plan
+<br>
 
-| Level | Feats | Powers | 
-| --- | :--- | :--- | :--- | 
-| 1 | Weapon Focus: Melee | --- | 
-| 2 | Two-Weapon Fighting | Burst of Speed | 
-| 3 | Weapon-Focus: Lightsaber | Affect Mind | 
-| 4 | --- | Force Valor | 
-| 5 | Improved Two-Weapon Fighting | Energy Resistance | 
-| 6 | --- | Affect Mind | 
-| 7 | Improved Critical Strike | Dominate Mind | 
-| 8 | --- | Battle Meditation | 
-| 9 | Master Two-Weapon Fighting | Knight Speed | 
-| 10 | --- | Knight Valor | 
-| 11 | Master Critical Strike | Improved Energy Resistance | 
-| 12 | --- | Force Redirection | 
-| 13 | Weapon Specialization: Lightsaber | Improved Battle Meditation | 
-| 14 | --- | Force Barrier | 
-| 15 | Toughness (Recommended) | Master Speed | 
+| Level | Feats | Powers |
+| --- | :--- | :--- |
+| 1 | Weapon Focus: Melee | --- |
+| 2 | Two-Weapon Fighting | Burst of Speed |
+| 3 | Weapon-Focus: Lightsaber | Affect Mind |
+| 4 | --- | Force Valor |
+| 5 | Improved Two-Weapon Fighting | Energy Resistance |
+| 6 | --- | Affect Mind |
+| 7 | Improved Critical Strike | Dominate Mind |
+| 8 | --- | Battle Meditation |
+| 9 | Master Two-Weapon Fighting | Knight Speed |
+| 10 | --- | Knight Valor |
+| 11 | Master Critical Strike | Improved Energy Resistance |
+| 12 | --- | Force Redirection |
+| 13 | Weapon Specialization: Lightsaber | Improved Battle Meditation |
+| 14 | --- | Force Barrier |
+| 15 | Toughness (Recommended) | Master Speed |
 
+<br>
 You will notice attributes and skills aren't listed here. This is because when we level up, all skills/attribute points will use the 'Recommended' option (Strength/Treat Injury respectively).
 
 Our main combat plan is lots of Strength, 'Master Two-Weapon Fighting', 'Master Critical Strike', and 'Knight Speed' using dual lightsabers. This gives us attacks that will deal as much damage as possible; we want to hit as hard as possible, since enemies in the later parts of the game will have higher HP. Once we get the lightsaber form 'Shien' from Master Zez-Kai-Ell, we will switch to this form for the rest of the run.
@@ -188,35 +190,38 @@ The majority of our equipment is attained in Nar Shaddaa, with the exception of 
 
 ## Credit Route
 
-We perform 8 shopping trips during the run. Most 'Buy' amounts are the total amount that you will end with in your inventory, make sure to take note of this. The trips are as follows:
+We perform 8 shopping trips during the run. Most 'Buy' amounts are the total amount that you will end with in your inventory, make sure to take note of this. The trips are as follows: <br>
 
-1. **Samhan Dobo**; Telos Station
+1. **Samhan Dobo**; Telos Station <br>
 	The first shopping trip of the run will start with Samhan. Please note that at the end of the Telos Station shopping trip we MUST have at minimum 1525 credits to complete the 'High Stakes' quest.
 In Samhans shop we will sell the following:
-- 1x Parts (`+`110 credits)
-- 2x Vibroblades (`+`208 credits)
-- Droid Self-Sustaining Unit (`+`3300 credits)
-This will bring our credit total somewhere between 4000 and 4300 credits.
-*We are allocating 1550 credits for the bare essentials, although we will usually spend a bit less than that here.*
-Next is to buy some essential items that will get us to Dantooine, credits are scarse with the tightness of this route so only buy what you need. We are only buying enough items here to end at the total amount given below:
-(e.g. If you have 2 Strength stims and you need 4, only buy 2. This is true for all but the Ion Grenades which we will only buy the 2 of.)
-- 2x Ion Grenades (-260 credits)
-- 3x Frag Grenades (-240 credits)
-- 1x Hyper Alacrity (-100 credits)
-- 2x Hyper Stamina (-200 credits)
-- 6x Alacrity (-300 credits)
-- 5x Stamina (-250 credits)
-- 4x Strength (-200 credits)
-This will leave us at a credit total between 2450 and 2750.
+	- 1x Parts (`+`110 credits)
+	- 2x Vibroblades (`+`208 credits)
+	- Droid Self-Sustaining Unit (`+`3300 credits) <br>
+	This will bring our credit total somewhere between 4000 and 4300 credits.
+	*We are allocating 1550 credits for the bare essentials, although we will usually spend a bit less than that here.*
+	Next is to buy some essential items that will get us to Dantooine, credits are scarse with the tightness of this route so only buy what you need. We are only buying enough items here to end at the total amount given below:
+	(e.g. If you have 2 Strength stims and you need 4, only buy 2. This is true for all but the Ion Grenades which we will only buy the 2 of.)
+	- 2x Ion Grenades (-260 credits)
+	- 3x Frag Grenades (-240 credits)
+	- 1x Hyper Alacrity (-100 credits)
+	- 2x Hyper Stamina (-200 credits)
+	- 6x Alacrity (-300 credits)
+	- 5x Stamina (-250 credits)
+	- 4x Strength (-200 credits) <br>
+	This will leave us at a credit total between 2450 and 2750.
 
-2: **Dendis Dobo**; Telos Station
-	Buy: Up to 35 Medpacs or as many Medpacs as you can, so long as you stay above 1525 credits. It will likely leave you with between 30 and 35 Medpacs anyway.
+2. **Dendis Dobo**; Telos Station <br>
+	MUST END WITH `+`1525 CREDITS!
+   	From Dendis we only buy:
+   	- 30-35 Medpacs <br>
+   	Or less, maintaining above 1525 credits!
 
-3. **Adum Larp**; Dantooine
+3. **Adum Larp**; Dantooine <br>
 	For the second shopping trip of the run, we are going to stock up on some Medpacs and Stims to get us through to the next one. Plus the Battle stims that will take us through the rest of the run.
 	Firstly sell:
 	- Exchange Negotiator (`+`467 credits)
-	- Benok's Blaster (`+`660 credits)
+	- Benok's Blaster (`+`660 credits) <br>
 	And buy: 
 	- 4x Advanced Medpacs (-320 credits)
 	- 20x Medpacs (-800 credits)
@@ -225,13 +230,13 @@ This will leave us at a credit total between 2450 and 2750.
 	- 5x Stamina (-250 credits)
 	- 12x Battle Stim (-1200 credits)
 
-4. **1B-8D**; Onderon
+4. **1B-8D**; Onderon <br>
 	During Onderon 1 we will come across 1B-8D in part of the quest 'A Doctor's Alibi', we talk to this droid merchant for the quest and then once again in order to enter the shop screen with it. Here we will first of all buy 1 of our 4 needed HK parts for repairing HK-47:
-	- 1x HK Droid Processor (-359 credits)
+	- 1x HK Droid Processor (-359 credits) <br>
 	We will also sell the Mandalorian Assault Rifle here as it will give us roughly 1000 more credits than any other merchant along the way in the rest of the run:
 	- Mandalorian Assault Rifle (`+`5472 credits)
 
-5. **Kex**; Dxun
+5. **Kex**; Dxun <br>
 	After we are finished with Onderon 1 we will be back at the Mandalorian Ruins, it is here we can shop with Kex and buy some crucial items for the rest of the run. We will only need to purchase enough of these items to end at the total given below:
 	- 30-35 Advanced Medpacs (~ -2400 to -2800 credits)
 	- 1x Hyper Battle (-200 credits)
@@ -239,22 +244,22 @@ This will leave us at a credit total between 2450 and 2750.
 	- 15x Alacrity (~ -750 credits)
 	- 10x Stamina (~ -500 credits)
 	- 10x Strength (~ -500 credits)
-	- 10x Average Frag Mines (-2500 credits)
+	- 10x Average Frag Mines (-2500 credits) <br>
 	Since we sold the Mandalorian Assault Rifle during Onderon 1, we should have plenty of credits at this point and not have to worry about selling any more items for the rest of the run.
 
-6. **Kodin**; Nar Shaddaa
+6. **Kodin**; Nar Shaddaa <br>
 	As part of the quest 'Droid Retrieval' we will have to talk to Kodin, at the end of this dialogue we will be in the shop interface and we can buy our last HK part!
 	- HK Chassis (-1500 credits)
 
-7. **Oondar**; Nar Shaadaa
+7. **Oondar**; Nar Shaadaa <br>
 	During our talks with Geeda and Oondar for the quest 'Trade War: Bonus Mission' we will  buy the Nextor Crystal from Oondar for our lightsaber:
 	- Nextor Crystal (-3582 credits)
 
-8. **Geeda**; Nar Shaadaa
+8. **Geeda**; Nar Shaadaa <br>
 	Our last shopping trip! And our last talk with Geeda during the quest 'Trade War: Bonus Mission' and also partly completing 'New Trade Routes: Bonus Mission' Geedas shop will have an upgrade and give us the opportunity to buy the following items:
 	- Jal Shey Neophyte Armor (-570 credits)
 	- Opila Crystal (-2831 credits)
-	- Power Implant (-1615 credits)
+	- Power Implant (-1615 credits) <br>
 	At this point in the run, we should have almost all of our endgame items, the last two items will be looted during the Tomb of Freedon Nadd.
 
 Most of our credits come from our completed quests as a part of the run anyway, and a select few guaranteed items. The credits route is a quite tight, but if followed correctly there should be no issues.
@@ -1096,11 +1101,11 @@ Sell:
 ### Dxun Jungle
 - Cast Burst of Speed.  `+ \`
 - Follow along the path drawn on the map below as you make your way through this section:
-  - *MC is Green.*
+  - *MC is Blue.*
   - *Kreia is Orange.*
   - *Cannoks are Red X's.*
 
-**DXUN JUNGLE IMAGE FOR ROUTE TO GO HERE**
+![Dxun Jungle Map](https://cdn.discordapp.com/attachments/808151224842977353/813297903187263498/unknown.png)
 
 - Run to your left and cast Force Valor to kill the first Cannok at #5.
 - Loot the Cannok.
@@ -1469,7 +1474,7 @@ Buy:
 - Enter the Sith Academy.
 - After the initial Sion cutscene, cast Knight Speed and follow the map below:
 
-![Korriban Sith Academy Route map]https://cdn.discordapp.com/attachments/808151224842977353/814374460253274112/unknown.png/)
+![Korriban Sith Academy Route map](https://cdn.discordapp.com/attachments/808151224842977353/814374460253274112/unknown.png)
 
 - Follow the purple line, activate 1x Alacrity stim on your way and loot the Footlocker.
   - *If you get trapped by any Tuk'ata just hit them until they move.*
@@ -1552,7 +1557,7 @@ Buy:
 - `+` Cast Knight Speed and run forward to trigger a short cutscene to mouse spam through.
 - Activate Stealth and follow the map below:
 
-![Freedon Nadd tomb route map](https://cdn.discordapp.com/attachments/808151224842977353/814372080828022796/unknown.png/)
+![Freedon Nadd tomb route map](https://cdn.discordapp.com/attachments/808151224842977353/814372080828022796/unknown.png)
 
 - Run Visas through to #5, activating 1x Alacrity stim around half way.
   - *If Visas gets spotted just keep running and keep Visas healed as you can.*
@@ -1691,7 +1696,11 @@ Once on Goto's Yacht, follow the map below for the fastest path:
 NEW GOTOS YACHT ROUTE TO COME FOR VERSION 2.0
 * *Make sure Visas stays cloaked for the first portion. If she gets detected it can be hard to continue. Consider making a safety save before performing these steps.*
 NOTE THIS IS THE OLD MAP
+
+
+
 ![Goto's Yacht route map](https://i.imgur.com/9xRcnWm.png/)
+
 
 1. `+ \` Auto Level Up, cast Knight Speed then interact with the terminal: 1,4,2,2
 2. Speak to the Utility Droid: 1
@@ -1836,8 +1845,8 @@ NOTE THIS IS THE OLD MAP
 - If they don't die on first hit with a force jump then continue on and don't worry about it, just be cautious when floating around as the Remote.
 
 ### MC
-![Malachor MC section, route map 1](https://cdn.discordapp.com/attachments/808151224842977353/813309890449768448/unknown.png/)
-![Malachor MC section, route map 2](https://cdn.discordapp.com/attachments/808151224842977353/813309984036356106/unknown.png/)
+![Malachor MC section, route map 1](https://cdn.discordapp.com/attachments/808151224842977353/813309890449768448/unknown.png) <br>
+![Malachor MC section, route map 2](https://cdn.discordapp.com/attachments/808151224842977353/813309984036356106/unknown.png)
 
 - In the second area, kill the 3 Storm Beasts near each other at #2.
 - Kill 1 Storm Best near #3, this will help the Remote later.
@@ -1857,14 +1866,14 @@ NOTE THIS IS THE OLD MAP
 - Be careful not to get trapped in the third ship.
 - Mouse spam through dialog where applicable.
 
-![Malachor Remote section, route map 1](https://cdn.discordapp.com/attachments/808151224842977353/813310621835722762/unknown.png/)
-![Malachor Remote section, route map 2](https://cdn.discordapp.com/attachments/808151224842977353/813310695470661682/unknown.png/)
+![Malachor Remote section, route map 1](https://cdn.discordapp.com/attachments/808151224842977353/813310621835722762/unknown.png) <br>
+![Malachor Remote section, route map 2](https://cdn.discordapp.com/attachments/808151224842977353/813310695470661682/unknown.png)
 
 ### Trayus Academy
 - Afterwards, you'll be in the Trayus Academy as MC. Mouse spam dialog where applicable Follow the maps outlined below:
 
-![Trayus Academy route map 1](https://cdn.discordapp.com/attachments/808151224842977353/813310858276503552/unknown.png/)
-![Trayus Academy route map 2](https://cdn.discordapp.com/attachments/808151224842977353/813310920792473610/unknown.png/)
+![Trayus Academy route map 1](https://cdn.discordapp.com/attachments/808151224842977353/813310858276503552/unknown.png) <br>
+![Trayus Academy route map 2](https://cdn.discordapp.com/attachments/808151224842977353/813310920792473610/unknown.png)
 
 - You will be running through a lot of enemies in here, make sure to keep an eye on MC's HP and heal as needed.
 - Keep Knight Speed active as much as possible.
