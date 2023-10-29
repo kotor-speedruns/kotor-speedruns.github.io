@@ -246,7 +246,7 @@ In Samhans shop we will sell the following:
 	Since we sold the Mandalorian Assault Rifle during Onderon 1, we should have plenty of credits at this point and not have to worry about selling any more items for the rest of the run.
 
 6. **Kodin**; Nar Shaddaa <br>
-	As part of the quest 'Droid Retrieval' we will have to talk to Kodin, at the end of this dialogue we will be in the shop interface and we can buy our last HK part!
+	As part of the quest 'Droid Retrieval' we will have to talk to Kodin, at the end of this dialog we will be in the shop interface and we can buy our last HK part!
 	- HK Chassis (-1500 credits)
 
 7. **Oondar**; Nar Shaadaa <br>
@@ -508,7 +508,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 ### Harbinger
 - `+` Select Bash on the door to your left.  `\ \`
 - Run to the right, open the door and cast Burst of Speed.
-- Some dialogue will trigger.
+- Some dialog will trigger.
 - Select Bash on the next door.  `\ \`
 - Run to the Navicomputer: 1,1,2  `\`
 - Follow the path through 2 doors to enter Harbinger Crew Quarters.
@@ -560,7 +560,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 ## Ebon Hawk to Telos
 - Immediate dialog cutscene after the load screen: 6,2 -> 4,3,3 (+1 LSP -> +1 LSP)
 - Cast Burst of speed, turn around and run through to the right to where Kreia resides on the Ebon Hawk.
-  - Now we have quite a lengthy conversation with Kreia so it is a good idea when learning to make a save here just incase you make a mistake, this will give us `+`8 LSP, if not done correctly you will not be able to finish Korriban.
+  - *Now we have quite a lengthy conversation with Kreia so it is a good idea when learning to make a save here just incase you make a mistake, this will give us +8 LSP, if not done correctly you will not be able to finish Korriban.*
 - Speak to Kreia: 2x7,1,3,1x10,4,3,2,1x6,2,1 (+8 LSP)
 - Now run back to the Cockpit and speak to Atton: 1x- (+1 LSP)
 - Use the Galaxy Map and select Telos. (1 left)
@@ -867,11 +867,13 @@ Buy:
 - Once back at TSF, head to the Information Terminal and transit to 082 East: 2,2
 - Enter Czerka, speak to B4-D4: 2,1,1
 - 1x- until we gain control of B4-D4.
-- Head to Czerka, speak to Jana Lorso: 1x-
+- Head to Czerka with the Information Terminal: 2,3
+- Enter Czerka and speak to Jana Lorso: 1x-
 - Enter the Czerka Mainframe, T1-N1 accosts you: 1x-
   - *Continue to mouse click to skip some dialog as the cutscene plays with T1-N1 leaving the mainframe.*
 - Click on the Mainframe Console: 1x-
-- Exit Czerka and head back to speak with Chodo: 1x- \| 1x-
+- Exit Czerka, use the Terminal to fast travel: 2,3
+- Speak with Chodo: 1x- \| 1x-
 - `>` Cast Burst of Speed and head to the Information Terminal to transit to Dock Module 126: 2,1
 - Moza contacts you, Czerka's Mercenaries are attacking the Ithorians: 1x-
 - Speak to the Ithorian to open Docking Bay 2 door: 1
@@ -899,7 +901,7 @@ Buy:
 
 ### Military Base
 - This is one of the most difficult segments, Bao-Dur has a lot of chances to get stunned which can lose us a lot of time. We just have to make it through as quickly as possible, if you get stunned try your best to keep him healed and keep his shield active. Heal with medpacs as necessary.
-*If you are still learning the route, it is recommended to make a manual save at the beginning.*
+  - *If you are still learning the route, it is recommended to make a manual save at the beginning.*
 
 - `} +` Unequip Plasma Torch from MC  `\`
 - `}` Equip Energy Shield to Kreia  `\`
@@ -982,7 +984,7 @@ Buy:
 Sell:
 - Exchange Negotiator
 - Benoks Blaster
-**Buy:**
+Buy:
 - 4 Advanced Medpacs
 - 20x Medpacs
 - 7x Alacrity
@@ -1698,8 +1700,8 @@ Buy:
 - Tien Tubb: 1,1 -> 5,6
 
 ### Goto's Yacht
-Once on Goto's Yacht, follow the map below for the fastest path:
-* *Make sure Visas stays cloaked for the first portion. If she gets detected it can be hard to continue. Consider making a safety save before performing these steps.*
+- Once on Goto's Yacht, follow the map below for the fastest path:
+  - *Make sure Visas stays cloaked for the first portion. If she gets detected it can be hard to continue. Consider making a safety save before performing these steps.*
 
 
 
@@ -1900,16 +1902,16 @@ Once on Goto's Yacht, follow the map below for the fastest path:
 - Added looting the Locker in the Cargo Hold for an extra Computer Spike.
 - Updated 'Prologue' route.
 - Updated 'Fuel Depot - T3 Section' route.
-- Updated dialogue with HK-50 on Peragus; giving us +2 LSP.
-- Updated dialogue during 'Ebon Hawk to Telos'; giving us +1 LSP (+1 more than previous iteration).
+- Updated dialog with HK-50 on Peragus; giving us +2 LSP.
+- Updated dialog during 'Ebon Hawk to Telos'; giving us +1 LSP (+1 more than previous iteration).
 - Credits Route and Shopping Trip updated for Telos Station - Samhan Dobo.
 - Credits Route and Shopping Trip updated for Telos Station - Dendis Dobo.
 - Credits Route and Shopping Trip updated for Dantooine - Adum Larp.
-- T3-M4 taken to Sky Ramp/Palace instead of Atton.
-- Pontite Crystal looted in the Palace on Onderon.
-- Due to looting in the Palace we no longer get Ossus Keeper Robes.
-- New Goto's Yacht route (saves ~1 minute).
-- Update to Atris fight dialog in endgame (saves 35 seconds over previous iteration).
+- The route now brings T3-M4 to Sky Ramp/Palace instead of Atton.
+- Palace route changed to loot 'Crystal, Pontite'.
+- Due to looting in the Palace we no longer receive the Ossus Keeper Robes.
+- Added new Goto's Yacht route found by Ninko (saves ~1 minute).
+- Updated dialog for endgame Atris Fight (saves 35 seconds).
 
 ### v1.7 (January 2023)
 - Sped up Prologue by choosing to Skip the Prologue instead of using the Galaxy Map to select Peragus. (Thanks to 30cents)
