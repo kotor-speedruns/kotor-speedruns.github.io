@@ -356,11 +356,11 @@ Notation:
 - `Shopping trips are highlighted in large code blocks`
 
 Conversation Notes:
-If no conversation choices are specified, spamming will work (this chooses all 1 options).
-\| indicates a break in the conversation. You will have to talk to the person again.
-`->` indicates a secondary part to the conversation. This is different from \|  in that the conversation automatically initiates, rather than having to talk to the same person.
-`#xY` indicates repeat that option Y times, as in our first conversation with Kreia during our Ebon Hawk to Telos segment.
-`#x-` indicates the rest of this conversation uses that particular number, generally used to indicate conversation spam not using 1 (e.g Saedhe's conversation: 2x-)
+If no conversation choices are specified, spamming will work (this chooses all 1 options).<br>
+\| indicates a break in the conversation. You will have to talk to the person again.<br>
+`->` indicates a secondary part to the conversation. This is different from \|  in that the conversation automatically initiates, rather than having to talk to the same person.<br>
+`#xY` indicates repeat that option Y times, as in our first conversation with Kreia during our Ebon Hawk to Telos segment.<br>
+`#x-` indicates the rest of this conversation uses that particular number, generally used to indicate conversation spam not using 1 (e.g Saedhe's conversation: 2x-)<br>
 
 **Jump to a Section:**
 - [Prologue](#prologue)
