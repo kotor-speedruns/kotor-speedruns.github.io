@@ -9,16 +9,16 @@ This route defeats Darth Traya on Malachor V as fast as possible without the use
 If you have additional questions, you can check out the KotOR Speedrunning Discord which is linked on the game's sidebar on speedrun.com.  There's a bunch of friendly folks there willing to answer questions!
 
 **Table of Contents:**
-- [Glitchless Rulset](glitchless-ruleset)
-- [General Tips](general-tips)
-- [Character Build](character-build)
-  - [Character Creation](character-creation)
-  - [Leveling Plan](leveling-plan)
-- [Equipment Plan](equipment-plan)
-- [Credit Route](credit-route)
-- [Alignment Route](alignment-route)
-- [Route Overview](route-overview)
-- [Detailed Route](detailed-route)
+- [Glitchless Rulset](#glitchless-ruleset)
+- [General Tips](#general-tips)
+- [Character Build](#character-build)
+  - [Character Creation](#character-creation)
+  - [Leveling Plan](#leveling-plan)
+- [Equipment Plan](#equipment-plan)
+- [Credit Route](#credit-route)
+- [Alignment Route](#alignment-route)
+- [Route Overview](#route-overview)
+- [Detailed Route](#detailed-route)
 
 ## Glitchless Ruleset
 
@@ -238,21 +238,21 @@ A #xY indicates repeat that option Y times, as in HK-50's first conversation.
 A #x- indicates the rest of this conversation uses that particular number, generally used to indicate conversation spam not using 1 (e.g Saedie's conversation)
 
 **Jump to a Section:**
-- [Prologue](prologue)
-- [Peragus](peragus)
-- [Telos](telos)
-- [Korriban](korriban)
-- [Dantooine](dantooine)
-- [Dxun](dxun)
-- [Onderon 1](onderon-1)
-- [Nar Shaddaa](nar-shaddaa)
-- [Onderon 2](onderon-2)
-  - [Tomb of Freedon Nadd](tomb-of-freedon-nadd)
-  - [Onderon Palace](onderon-palace)
-- [Jedi Masters](jedi-masters)
-- [Ravager](ravager)
-- [Malachor V](malachor-v)
-- [Version History](version-history)
+- [Prologue](#prologue)
+- [Peragus](#peragus)
+- [Telos](#telos)
+- [Korriban](#korriban)
+- [Dantooine](#dantooine)
+- [Dxun](#dxun)
+- [Onderon 1](#onderon-1)
+- [Nar Shaddaa](#nar-shaddaa)
+- [Onderon 2](#onderon-2)
+  - [Tomb of Freedon Nadd](#tomb-of-freedon-nadd)
+  - [Onderon Palace](#onderon-palace)
+- [Jedi Masters](#jedi-masters)
+- [Ravager](#ravager)
+- [Malachor V](#malachor-v)
+- [Version History](#version-history)
 
 ## Prologue
 
@@ -918,26 +918,51 @@ Enjoy the bathroom break cutscene with Mandalore and his crew.  You can mouse sp
 ## Ravager
 
 Run through the Ravager (turn on solo mode) and follow the map below on placing the Proton Cores.
+<br>
+[Ravager Proton Core route](https://i.imgur.com/UuvBiNL.png)
+<br>
+- The Green line represents our run to the Bridge to confront Nihilus.
+- The Red line represents the final run through the Ravager. See: [Ravager Final Run](#ravager-final-run)
 
-https://cdn.discordapp.com/attachments/808151224842977353/813309248184385552/unknown.png
+1. Run / Force Jump to #4: 1 -> 1
+2. Cast Knight Speed, run / Force Jump to #9: 1 -> 1
+3. Cast Knight Speed, run to #10 to enter the Bridge.
 
-Follow the yellow path, and go to the Ravager Bridge to face Nihlus.
+### Nihilus
+  - *Keep a close eye on MC's HP here.*
+- Run through the first door and then take the path to the left, Force Jump where applicable.
+- Visas accosts you on arrival at the door to the Bridge: 1
+- Enter the bridge and run to Nihilus, have Force Enlightenment selected in the Force Power Buff's slot.
+- Nihilus: 1x-
+  - *Immediately pause when the dialog ends.*
+- Activate Psuedo-Stim set, cast Force Enlightenment.
+- Auto Level Up Mandalore and Visas.
+- Bring Nihilus' HP below half.
+- Visas / Nihilus: 1
+- Defeat Nihilus.
+  - *It is very important to keep Visas' HP up fairly high here as all Force Power Buffs will end once Nihilus is defeated. If her HP is low when the Buffs end, she will die for a split second causing the cutscene / dialog to not fire properly which is a glitch and will end your run here.*
+- Visas / Mandalore: 1x-
+- Exit the Bridge via Turbolift to Command Deck.
+  - *Use Medpacs as required.*
 
-1 spam everything (you lose your buffs before each phase of the fight) 
-Use Force Enlightenment + Pseudo Stim set and spam attacks til Nihlus dies.  
-
-Afterwards, run back the way you came and follow the red line when back in the first area.
-
-After the third proton core, go to the Missile Bay Room (6), head to the console, 1 spam, then get the spare missile.  Then exit the Ravager.
+### Ravager Final Run
+1. + Cast Knight Speed, run to #5: 1 -> 1 -> Mouse spam
+2. Cast Knight Speed, run / Force Jump to #6
+3. Access Missile Bay Control: 1,1,1,1
+4. Access Missile Bay: 1
+5. Cast Knight Speed, run to #2: 1 -> 1
+6. Cast Knight Speed, run to #11 to leave the Ravager: 1
+  - *It is recommended to make a safety save before leaving as the game tends to crash here.*
 
 ## Malachor V
 
 Follow the maps below.  You’ll want to kill the Storm Beasts with Force Jumps while making your way through the area for Remote’s safety later.
+It isn't necessary to stop and kill them, but try to avoid cancelling the Force Jumps.
 
 ### MC:
 <br>
-https://cdn.discordapp.com/attachments/808151224842977353/813309890449768448/unknown.png <br>
-https://cdn.discordapp.com/attachments/808151224842977353/813309984036356106/unknown.png <br>
+![MC route map 1](https://cdn.discordapp.com/attachments/808151224842977353/813309890449768448/unknown.png) <br>
+![MC route map 2](https://cdn.discordapp.com/attachments/808151224842977353/813309984036356106/unknown.png) <br>
 
 In the second area, kill the 3 Storm Beasts near each other.
 In the large area marked #5, use Force Enlightenment to kill the large Storm Beast.  It should die in 1-2 hits.
@@ -954,22 +979,25 @@ Spam 1 after the fight.
 
 *Be careful, as you generally only have 3 repair kits.*
 
-https://cdn.discordapp.com/attachments/808151224842977353/813310621835722762/unknown.png
-https://cdn.discordapp.com/attachments/808151224842977353/813310695470661682/unknown.png
+![Remote route map 1](https://cdn.discordapp.com/attachments/808151224842977353/813310621835722762/unknown.png) <br>
+![Remote route map 2](https://cdn.discordapp.com/attachments/808151224842977353/813310695470661682/unknown.png) <br>
 
-Afterwards, you'll be in the Trayus Academy with MC.  Follow the maps outlined below:
+### Trayus Academy
+- Afterwards, you'll be in the Trayus Academy as MC. Mouse spam dialog where applicable Follow the maps outlined below:
 
-https://cdn.discordapp.com/attachments/808151224842977353/813310858276503552/unknown.png
-https://cdn.discordapp.com/attachments/808151224842977353/813310920792473610/unknown.png
+![Trayus Academy route map 1](https://cdn.discordapp.com/attachments/808151224842977353/813310858276503552/unknown.png) <br>
+![Trayus Academy route map 2](https://cdn.discordapp.com/attachments/808151224842977353/813310920792473610/unknown.png) <br>
 
 
-As you'll be running through a lot of enemies, make sure MC is healthy and heal as needed.
+- As you'll be running through a lot of enemies, make sure MC is healthy and heal as needed.
 
+### Sion
 Before Sion, use your full hyper stim suite: 9
 You'll need to bring him to 1 hp a total of 4 times (1 spam through his dialog).  Ignore any adds that come over.
 
 Once he's dead, head to the Trayus Core.
 
+### Traya 
 Force Enlightment before proceeding
 
 Traya: 4 4
