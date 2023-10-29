@@ -83,7 +83,7 @@ We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsab
 | 3 | Weapon-Focus: Lightsaber | Affect Mind |
 | 4 | --- | Force Valor |
 | 5 | Improved Two-Weapon Fighting | Energy Resistance |
-| 6 | --- | Affect Mind |
+| 6 | --- | Force Deflection |
 | 7 | Improved Critical Strike | Dominate Mind |
 | 8 | --- | Battle Meditation |
 | 9 | Master Two-Weapon Fighting | Knight Speed |
@@ -149,11 +149,6 @@ This is used for the `+`3 Strength; which gives us a lot of damage and accuracy.
 At the beginning, we only have easy access to the Mining Outfit that gives us `+`1 defense.
 We use the Jal Shey Armor then for its defense and dexterity bonus.
 
-**Body**: (Optional) Ossus Keeper Robes
-- Obtained as a reward from Queen Talia during Onderon 2
-At the beginning of The Ravager we can swap to the Ossus Keeper Robes for a bigger force point pool, and for better resistance against Sion/Traya’s force powers (`+`4 Wisdom, `+`4 Intelligence, `+`2 Charisma).
-Beginners can opt to keep the Jal Shey Neophyte Armor, as it provides more defense for the late game.
-
 **Main Hand**: Single Lightsaber
 - Crafted by Bao-Dur after Dantooine
 We use a single-handed Lightsaber for use with Critical Strikes later on. At Nar Shaddaa, we will be buying two crystals to upgrade it.
@@ -166,6 +161,10 @@ Provides a high critical threat range, which makes our critical hits stronger. I
 - Bought on Nar Shaddaa from Geeda (2831 credits)
 Grants us the Keen effect, which gives us a 10% increased chance to crit. It also adds a flat `+`3 to damage, and is very cost effective.
 
+**Crystal 3**: Pontite
+- Looted from the Onderon Palace, Museum Treasure.
+Giving us Damage Bonus +1-10 Cold and Charisma +2, this will replace Crystal, Nextor in the Onderon Palace.
+
 **Off-Hand**: Freedon Nadd's Short Lightsaber
 - Obtained from Freedon Nadd’s Tomb
 This is a very good off-hand weapon that increases our accuracy while having higher damage than other lightsabers. Before that, we will be using a vibroblade, or a offhand lightsaber for damage.
@@ -177,7 +176,7 @@ This is a very good off-hand weapon that increases our accuracy while having hig
 - The Armband gives us `+`1 to Constitution, which in turn gives MC more HP.
 The Energy Shield is equipped to mitigate damage from blasters, which is primarily used at Peragus when walking through mines. There are a couple sections in this run where Energy Shields will be helpful for MC and other party members.
 
-The majority of our equipment is attained in Nar Shaddaa, with the exception of the optional Ossus Keeper Robe. For the early game, we will make use of a pair of Vibroswords, though some exceptions can be made depending on the randomization the shops have.
+The majority of our equipment is attained in Nar Shaddaa. For the early game, we will make use of a pair of Vibroswords, though some exceptions can be made depending on the randomization the shops have.
 
 **Item Prioritization:**
 - Due to the RNG nature of loot and shops in this game, sometimes there are better items you might on your way through the early game. You'll want to prioritize it roughly by:
