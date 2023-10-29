@@ -38,7 +38,7 @@ No mods are allowed to be used (Yes, this also includes the restoration mod!)
 
 - If running on any monitor over 60 Hertz (hz), underclock it to 60hz exactly. If not done, your game will hang after combat and restrict you from moving. This is due to this game being made to suit a maximum of 60hz and to not be played exceeding 60 FPS.
 - Unbind your quicksave key! You can do this by setting the Quicksave key (default F4) to the Quickload Key (default F5) then setting the Quickload key back to F5.
-- Learn how to swap abilities easily. Shift `+` # swaps the ability. (e.g shift`+`1 swaps from Critical Strike to Flurry etc. Shift`+`4 swaps force powers)
+- Learn how to swap abilities easily. Shift +# swaps the ability. (e.g shift+1 swaps from Critical Strike to Flurry etc. Shift+4 swaps force powers)
 - Watch someone's PB video while going through the notes! This is very important to fundamentally understand the run and how it flows, and learn possible tricks to make your run much faster and smoother.
 - Manual save a lot! The game tends to be very wonky, it can be prone to crashing in the worst moments, especially if you're on a good run! You'll figure out key points to save while you practice the run.
 - Once you understand the fundamentals from these notes, make your own copy of the notes and modify them to your own use. These notes are made detailed for a new player, and once you become more experienced you will need less of these notes.
@@ -106,14 +106,14 @@ Other notes:
 - Persuade isn't used in this run as Affect Mind and Dominate Mind are sufficent for all of our needs of persuasion.
 
 **Feat notes:**
-- 'Weapon Focus: Lightsaber' is chosen since there aren't other good feats at level 3, and it gives `+`1 to attack when we get our lightsaber later.
+- 'Weapon Focus: Lightsaber' is chosen since there aren't other good feats at level 3, and it gives +1 to attack when we get our lightsaber later.
 - 'Critical Strike' and 'Two-Weapon Fighting' are our main combat core.
-- At level 14 we choose 'Weapon Specialization: Lightsaber' as this will add a `+`2 damage bonus to our hits and will help for the endgame.
+- At level 14 we choose 'Weapon Specialization: Lightsaber' as this will add a +2 damage bonus to our hits and will help for the endgame.
 - It is hit and miss whether we will reach Level 15 or not, but if so we recommend choosing 'Toughness' purely due to being able to click recommended. This gives us slightly higher VP but most importantly it is quick to select.
 
 **Force Power notes:**
-- 'Burst of Speed' is the most important power, giving us 100% increased movement speed. With no Save Teleports, this is an essential power for the run. Knight Speed also grants `+`1 attack per round, which is highly important due to our relatively low chance to hit. 'Burst of Speed' also gives us `+`2 Defense while active.
-- If MC reaches level 15, Master Speed grants us `+`2 attacks per round while active.
+- 'Burst of Speed' is the most important power, giving us 100% increased movement speed. With no Save Teleports, this is an essential power for the run. Knight Speed also grants +1 attack per round, which is highly important due to our relatively low chance to hit. 'Burst of Speed' also gives us +2 Defense while active.
+- If MC reaches level 15, Master Speed grants us +2 attacks per round while active.
 - Duration Glitch in this game is not as effective as in KOTOR 1, so we will be using these Force Speed powers much more. We will generally take Kreia into our party as a second source of Force Points (FP) due to the Force Bond ability affecting MC and Kreia.
 - 'Force Valor' is used to boost stats and saving throws for various combat sections in the game. Later this will be levelled up to 'Knight Valor'.
 - 'Affect Mind'/'Dominate Mind' is used in the following places:
@@ -134,19 +134,19 @@ One of the many special differences KOTOR 2 has compared to KOTOR 1 is that many
 
 **Implant**: Power Implant
 - Bought on Nar Shaddaa from Geeda (1615 credits)
-Since we don’t have enough Constitution to equip a Nerve Enhancement System, and only Sion and Traya use stunning force powers against us, we go for offensive items and this implant is the easiest guaranteed item we can access that gives us `+`2 STR.
+Since we don’t have enough Constitution to equip a Nerve Enhancement System, and only Sion and Traya use stunning force powers against us, we go for offensive items and this implant is the easiest guaranteed item we can access that gives us +2 STR.
 
 **Headgear**: Targeting Visor
 - Obtained from dead mercenary in the Enclave Ruins
-The only guaranteed headgear we can obtain, this gives us a `+`1 to attack and `+`1 to reflex saves. If you find other better headgear, prioritize equipping those over this helmet.
+The only guaranteed headgear we can obtain, this gives us a +1 to attack and +1 to reflex saves. If you find other better headgear, prioritize equipping those over this helmet.
 
 **Gloves**: Sith Power Gauntlets
 - Obtained from Sith Lord at Freedon Nadd’s Tomb
-This is used for the `+`3 Strength; which gives us a lot of damage and accuracy.
+This is used for the +3 Strength; which gives us a lot of damage and accuracy.
 
 **Body**: Jal Shey Neophyte Armor
 - Obtained from Geeda on Nar Shaddaa (570 credits)
-At the beginning, we only have easy access to the Mining Outfit that gives us `+`1 defense.
+At the beginning, we only have easy access to the Mining Outfit that gives us +1 defense.
 We use the Jal Shey Armor then for its defense and dexterity bonus.
 
 **Main Hand**: Single Lightsaber
@@ -155,11 +155,11 @@ We use a single-handed Lightsaber for use with Critical Strikes later on. At Nar
 
 **Crystal 1**: Nextor
 - Bought on Nar Shaddaa from Oondar (3580 credits)
-Provides a high critical threat range, which makes our critical hits stronger. It also gives a nice `+`1 to our attack modifier.
+Provides a high critical threat range, which makes our critical hits stronger. It also gives a nice +1 to our attack modifier.
 
 **Crystal 2**: Opila
 - Bought on Nar Shaddaa from Geeda (2831 credits)
-Grants us the Keen effect, which gives us a 10% increased chance to crit. It also adds a flat `+`3 to damage, and is very cost effective.
+Grants us the Keen effect, which gives us a 10% increased chance to crit. It also adds a flat +3 to damage, and is very cost effective.
 
 **Crystal 3**: Pontite
 - Looted from the Onderon Palace, Museum Treasure.
@@ -173,7 +173,7 @@ This is a very good off-hand weapon that increases our accuracy while having hig
 - There are no good guaranteed belts we can purchase for an affordable price. See itemization below for things you are looking for in a belt.
 
 **Shield Slots**: MC's Armband, Energy Shield
-- The Armband gives us `+`1 to Constitution, which in turn gives MC more HP.
+- The Armband gives us +1 to Constitution, which in turn gives MC more HP.
 The Energy Shield is equipped to mitigate damage from blasters, which is primarily used at Peragus when walking through mines. There are a couple sections in this run where Energy Shields will be helpful for MC and other party members.
 
 The majority of our equipment is attained in Nar Shaddaa. For the early game, we will make use of a pair of Vibroswords, though some exceptions can be made depending on the randomization the shops have.
@@ -181,22 +181,21 @@ The majority of our equipment is attained in Nar Shaddaa. For the early game, we
 **Item Prioritization:**
 - Due to the RNG nature of loot and shops in this game, sometimes there are better items you might on your way through the early game. You'll want to prioritize it roughly by:
 
-1. `+`Strength: Strength gives us more damage AND more accuracy, and therefore is much more beneficial to us overall than any other stat.
-2. `+`Damage (any type): More damage is great. Generally this will be in the form of `+`physical damage (e.g Gamorrean Gloves).
-3. `+`Attack: Gives us more chance of hitting, which is crucial early game since our weapons are weaker.
-4. `+`Wisdom: Gives us better saving throws for the endgame, where Nihilus, Sion, and Traya have the chance to use force powers against us.
-5. `+`Defense: Makes others less likely to hit us. A good stat to look out for since we tend to run through areas with large amounts of enemies.
+1. +Strength: Strength gives us more damage AND more accuracy, and therefore is much more beneficial to us overall than any other stat.
+2. +Damage (any type): More damage is great. Generally this will be in the form of +physical damage (e.g Gamorrean Gloves).
+3. +Attack: Gives us more chance of hitting, which is crucial early game since our weapons are weaker.
+4. +Wisdom: Gives us better saving throws for the endgame, where Nihilus, Sion, and Traya have the chance to use force powers against us.
+5. +Defense: Makes others less likely to hit us. A good stat to look out for since we tend to run through areas with large amounts of enemies.
 
 ## Credit Route
 
 We perform 8 shopping trips during the run. Most 'Buy' amounts are the total amount that you will end with in your inventory, make sure to take note of this. The trips are as follows: <br>
-
 1. **Samhan Dobo**; Telos Station <br>
 	The first shopping trip of the run will start with Samhan. Please note that at the end of the Telos Station shopping trip we MUST have at minimum 1525 credits to complete the 'High Stakes' quest.
 In Samhans shop we will sell the following:
-	- 1x Parts (`+`110 credits)
-	- 2x Vibroblades (`+`208 credits)
-	- Droid Self-Sustaining Unit (`+`3300 credits) <br>
+	- 1x Parts (+55 credits)
+	- 2x Vibroblades (+208 credits)
+	- Droid Self-Sustaining Unit (+3300 credits) <br>
 	This will bring our credit total somewhere between 4000 and 4300 credits.
 	*We are allocating 1550 credits for the bare essentials, although we will usually spend a bit less than that here.*
 	Next is to buy some essential items that will get us to Dantooine, credits are scarse with the tightness of this route so only buy what you need. We are only buying enough items here to end at the total amount given below:
@@ -208,32 +207,32 @@ In Samhans shop we will sell the following:
 	- 6x Alacrity (-300 credits)
 	- 5x Stamina (-250 credits)
 	- 4x Strength (-200 credits) <br>
-	This will leave us at a credit total between 2450 and 2750.
+	This will leave us at a credit total between 2250 and 2750.
 
 2. **Dendis Dobo**; Telos Station <br>
-	MUST END WITH `+`1525 CREDITS!
+	MUST END WITH +1525 CREDITS!
    	From Dendis we only buy:
-   	- 30-35 Medpacs <br>
+   	- 15-20 Medpacs <br>
    	Or less, maintaining above 1525 credits!
 
 3. **Adum Larp**; Dantooine <br>
-	For the second shopping trip of the run, we are going to stock up on some Medpacs and Stims to get us through to the next one. Plus the Battle stims that will take us through the rest of the run.
-	Firstly sell:
-	- Exchange Negotiator (`+`467 credits)
-	- Benok's Blaster (`+`660 credits) <br>
-	And buy: 
+	For the second shopping trip of the run, we are going to stock up on some Medpacs and Stims to get us through to the next one. Plus the Battle stims that will take us through the rest of the run. <br>
+	Firstly sell: <br>
+	- Exchange Negotiator (+467 credits)
+	- Benok's Blaster (+660 credits) <br>
+	And buy: <br>
 	- 4x Advanced Medpacs (-320 credits)
 	- 20x Medpacs (-800 credits)
 	- 7x Alacrity (-350 credits)
 	- 5x Strength (-250 credits)
 	- 5x Stamina (-250 credits)
-	- 12x Battle Stim (-1200 credits)
+	- 12x Battle Stim (-1200 credits) <br>
 
 4. **1B-8D**; Onderon <br>
 	During Onderon 1 we will come across 1B-8D in part of the quest 'A Doctor's Alibi', we talk to this droid merchant for the quest and then once again in order to enter the shop screen with it. Here we will first of all buy 1 of our 4 needed HK parts for repairing HK-47:
 	- 1x HK Droid Processor (-359 credits) <br>
 	We will also sell the Mandalorian Assault Rifle here as it will give us roughly 1000 more credits than any other merchant along the way in the rest of the run:
-	- Mandalorian Assault Rifle (`+`5472 credits)
+	- Mandalorian Assault Rifle (+5472 credits)
 
 5. **Kex**; Dxun <br>
 	After we are finished with Onderon 1 we will be back at the Mandalorian Ruins, it is here we can shop with Kex and buy some crucial items for the rest of the run. We will only need to purchase enough of these items to end at the total given below:
@@ -251,7 +250,7 @@ In Samhans shop we will sell the following:
 	- HK Chassis (-1500 credits)
 
 7. **Oondar**; Nar Shaadaa <br>
-	During our talks with Geeda and Oondar for the quest 'Trade War: Bonus Mission' we will  buy the Nextor Crystal from Oondar for our lightsaber:
+	During our talks with Geeda and Oondar for the quest 'Trade War: Bonus Mission' we will buy the Nextor Crystal from Oondar for our lightsaber:
 	- Nextor Crystal (-3582 credits)
 
 8. **Geeda**; Nar Shaadaa <br>
@@ -322,7 +321,10 @@ Here is the alignment route used in the run:
 | Light | Lie to Geredi | Low Dark | 0/1 | -1 | 72 | 78 | 
 | Light | Find a pilot for the Lunar Shadow Crew | Low Light | 1/0 | 1 | 73 | 79 | 
 | Light | Be nice to Visas | High Light | 4/0 | 4 | 77 | 83 | 
-| Light | Stand up for Visas when talking to Kreia | Low Light | 1/0 | 1 | 78 | 84 | 
+| Light | Stand up for Visas when talking to Kreia | Low Light | 1/0 | 1 | 78 | 84 |
+
+Alignment is not as important in this game, as we don’t use any equipment restricted by alignment. We do, however, stay on Light Side/Neutral in order to obtain Mira at Nar Shaddaa, as she is used for Goto’s ship segment to pass by the many deadly mines quickly without blowing them up, and to obtain deadly mines for Hanharr 2 later on at Malachor V.  
+We also try to get as many LSP as possible during the first half of Nar Shaddaa to get us to 75 Alignment so that we can enter the Sith Tomb on Korriban. The Sith Tomb wont let you enter unless you are at least at 25 or 75 alignment respectively.
 
 ## Route Overview
 
@@ -387,7 +389,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Custom Character
 - Str - 18, Dex - 14, Con - 14, Wis - 10
 - TI - 4
-- Feat: Weapon Focus: Melee Weapons
+- Feat - Weapon Focus: Melee Weapons
 - Pick a name (or don't)!
 - Hit Play!
 
@@ -451,7 +453,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Head through the now opened door to the Fuel Depot.
 - Head straight and then left for the console: 3,1,2
 - Watch T3 get zapped. :(((
-- Atton speaks to you: 1x- -> 1x- (`+`1 LSP)
+- Atton speaks to you: 1x- -> 1x- (+1 LSP)
 - Cast Burst of Speed and head into the Mining Tunnels. 
 
 ### Mining Tunnels
@@ -468,7 +470,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Exit the Mining Tunnels to the Fuel Depot, mouse spam until dialog.
 
 ### Fuel Depot and Space Walk
-- HK-50 accosts you: 1x21,4 (`+`2 LSP)
+- HK-50 accosts you: 1x21,4 (+2 LSP)
 - Loot the maintenance officer corpse.
 - Head south to the door and then turn right.
 - Mouse spam through short cutscene.
@@ -556,11 +558,11 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Kill all the Sith Troopers in the Turret minigame, after it ends spam 1.
 
 ## Ebon Hawk to Telos
-- Immediate dialog cutscene after the load screen: 6,2 -> 4,3,3 (`+`1 LSP -> `+`1 LSP)
+- Immediate dialog cutscene after the load screen: 6,2 -> 4,3,3 (+1 LSP -> +1 LSP)
 - Cast Burst of speed, turn around and run through to the right to where Kreia resides on the Ebon Hawk.
   - Now we have quite a lengthy conversation with Kreia so it is a good idea when learning to make a save here just incase you make a mistake, this will give us `+`8 LSP, if not done correctly you will not be able to finish Korriban.
-- Speak to Kreia: 2x7,1,3,1x10,4,3,2,1x6,2,1 (`+`8 LSP)
-- Now run back to the Cockpit and speak to Atton: 1x- (`+`1 LSP)
+- Speak to Kreia: 2x7,1,3,1x10,4,3,2,1x6,2,1 (+8 LSP)
+- Now run back to the Cockpit and speak to Atton: 1x- (+1 LSP)
 - Use the Galaxy Map and select Telos. (1 left)
 
 ## Telos
@@ -1898,8 +1900,8 @@ Once on Goto's Yacht, follow the map below for the fastest path:
 - Added looting the Locker in the Cargo Hold for an extra Computer Spike.
 - Updated 'Prologue' route.
 - Updated 'Fuel Depot - T3 Section' route.
-- Updated dialogue with HK-50 on Peragus; giving us `+`2 LSP.
-- Updated dialogue during 'Ebon Hawk to Telos'; giving us `+`1 LSP (`+`1 more than previous iteration).
+- Updated dialogue with HK-50 on Peragus; giving us +2 LSP.
+- Updated dialogue during 'Ebon Hawk to Telos'; giving us +1 LSP (+1 more than previous iteration).
 - Credits Route and Shopping Trip updated for Telos Station - Samhan Dobo.
 - Credits Route and Shopping Trip updated for Telos Station - Dendis Dobo.
 - Credits Route and Shopping Trip updated for Dantooine - Adum Larp.
