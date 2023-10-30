@@ -470,7 +470,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Exit the Mining Tunnels to the Fuel Depot, mouse spam until dialog.
 
 ### Fuel Depot and Space Walk
-- HK-50 accosts you: 1x21,4 (+2 LSP)
+- HK-50 accosts you: 5,1x9,2,2 (+2 LSP)
 - Loot the maintenance officer corpse.
 - Head south to the door and then turn right.
 - Mouse spam through short cutscene.
@@ -632,7 +632,7 @@ Buy:
 ```
 Buy:
 - 30-35 Medpacs
-  - *Or less, making sure to remain above 1525 credits.*
+- This will more than likely be a lot less, making sure to remain above 1525 credits.
 ```
 
 - `\` Enter Dock Module 126.
@@ -799,7 +799,7 @@ Buy:
 ```
 Buy:
 - 30-35 Medpacs
-  - *Or less, making sure to remain above 1525 credits.*
+- This will more than likely be a lot less, making sure to remain above 1525 credits.
 ```
 
 - `\` Enter Dock Module 126.
@@ -1314,7 +1314,7 @@ Buy:
 
 ```
 Buy:
--HK Chassis
+- HK Chassis
 ```
 
 - Proceed to speak to IT-31: 1x-
@@ -1390,16 +1390,16 @@ Buy:
 
 ```
 Buy:
--Crystal, Nextor
+- Crystal, Nextor
 ```
 
 - `\` Speak to Geeda: 1,3,1x-
 
 ```
 Buy:
--Jal Shey Neophyte Armor
--Crystal, Opila
--Power Implant
+- Jal Shey Neophyte Armor
+- Crystal, Opila
+- Power Implant
 ```
 
 - `\ \` Speak to Oondar for the last time: 1x-
