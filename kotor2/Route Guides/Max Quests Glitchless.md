@@ -2,10 +2,9 @@
 
 ## v2.0: Female Jedi Guardian Route (Light Side)
 
-*First of all, major credit to goes out to [30cents](https://www.speedrun.com/user/30Cents) and [Sanjan](https://www.speedrun.com/user/Sanjan) for their hard work with the
-[Any% Glitchless](https://www.speedrun.com/kotor2/guide/l8dx3) route, without their hard work this route would have been 10 times harder to make happen. I also want to credit 30 for his efforts improving the route for v2.0. I would also like to thank [AtomicHeartSon](https://www.speedrun.com/user/AtomicHeartSon), for jumping in and beginning the routing progress for this category, it wouldn't be where it is today without his initial eagerness to bring this to life.*
+*First of all, major credit to goes out to [30cents](https://www.speedrun.com/user/30Cents) for his help with some route improvements and [Sanjan](https://www.speedrun.com/user/Sanjan) for their work on the Any% Glitchless route. I would also like to thank [AtomicHeartSon](https://www.speedrun.com/user/AtomicHeartSon), for jumping in and beginning the routing progress for this category, it wouldn't be where it is today without his initial eagerness to bring this to life.*
 
-This route defeats Darth Traya on Malachor V while also completing All of the Quests as fast as possible without the use of glitches. Timing begins upon clicking "PLAY" after character creation and ends on the last hit on Traya as the screen fades to black. A load-removal tool is available for LiveSplit thanks to glasnonck; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the character build for the run, as well as a detailed route.
+This route defeats Darth Traya on Malachor V while also completing the Max amount of the Quests in a single run as fast as possible without the use of glitches. Timing begins upon clicking "PLAY" after character creation and ends on the last hit on Traya as the screen fades to black. A load-removal tool is available for LiveSplit thanks to glasnonck; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the character build for the run, as well as a detailed route.
 
 If you have additional questions, you can check out the [KotOR Speedrunning Discord](https://www.speedrun.com/kotor2/thread/lgj5g). There's a bunch of friendly folks there willing to answer your questions!
 
@@ -336,9 +335,9 @@ The reasoning for the middle planets:
 - We do Dantooine first, as there is little to no combat necessary until the end, and to obtain all the parts for our lightsaber as fast as possible.
 - We do Dxun and Onderon 1 straight after since we have a lightsaber we can force jump, and to unlock Geeda’s guaranteed wares that require Dantooine and Onderon 1 to be completed.
 - Nar Shaddaa is done next as per our alignment route we need to get to 75 or higher in order to enter the Sith Tomb on Korriban. Plus we want to unlock Geeda’s upgraded wares, which is crucial for our build.
-- Next we head to Korriban to find Master Vash and complete the Sith Tomb, if Kreia does not allow you to enter the tomb here then your run will end.
+- Next we head to Korriban to find Master Vash and complete the Secret Tomb, if Kreia does not allow you to enter the tomb here then your run ends.
 - We go back for Dxun and Onderon 2 as part of the main quest, this only unlocks after completion of another planet, post Dxun/Onderon 1.
-- Back to Nar Shaddaa! Finally we get to use the 10 Frag Mines that we bought from Kex on Dxun! These are used in some quite combat intensive segmants with Atton and Mira. Plus we have a whole bunch of side quests and main quests to complete here still.
+- Back to Nar Shaddaa! Finally we get to use the 10 Frag Mines that we bought from Kex on Dxun! These are used in some quite combat intensive segments with Atton and Mira. Plus we have a whole bunch of side quests and main quests to complete here still.
 
 ## Detailed Route
 
@@ -436,9 +435,8 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Kreia accosts you: 1x-
 - Bash the two footlockers in the next room and head straight to the administration console: 1x-
 - Kreia accosts you: 1x-
-- `>`
-  - *perform your first level up.*
-  - *From here we want to have Burst of Speed active as much as possible.*
+- `>` *Perform your first level up.*
+  - *From here you will want to have Burst of Speed active as much as possible.*
 - Cast Burst of Speed straight after your level up and run to where Atton is in a cell.
 - Kreia accosts you: Mouse spam
 - Open the Door.
@@ -462,9 +460,10 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Loot the Broken Droid in the same room.
 - Head through to the left and loot the next Broken Droid you come across for a Sonic Grenade.
 - Cast Burst of Speed.
-  -  *Loot all corpses (including the one hidden in a room).*
+  -  *Loot all corpses that are in the direct route through the module.*
   -  *We are looking for at least 1 Alacrity stim here otherwise the rest of the run to the space walk will be a bit slower. It is recommended while learning the route to loot the corpses but not stress about getting a stim.*
-- There should be 4 corpses before the Console.
+- There is 2 corpses that are in direct line to the Console, depending on how you are for time you can go slightly out of your way for the 2nd corpse before the gas tunnel. Although it isn't necessary.
+- Don't stress if you don't get a stim, just keep moving!
 - Use the console: 2,1 -> 2
 - Continue through and loot the last corpse on your way.
 - Exit the Mining Tunnels to the Fuel Depot, mouse spam until dialog.
@@ -472,6 +471,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 ### Fuel Depot and Space Walk
 - HK-50 accosts you: 5,1x9,2,2 (+2 LSP)
 - Loot the maintenance officer corpse.
+  - *This is only important if you didn't get an alacrity in the Mining Tunnels, if you did get one you can just keep moving.*
 - Head south to the door and then turn right.
 - Mouse spam through short cutscene.
 - Run past the MK2 Mining Droids and turn right.
@@ -896,7 +896,8 @@ Buy:
   - *Here it is quickest to kill the non shielded enemies immediately, and try to get the two shielded ones next to each other. Throw Ion Grenades, keeping 3 at minimum, to defeat the shielded enemies. Afterwards place Bao-Dur and Kreia away from the fight so they are out of combat. It is essential that both of them stay alive or we will be stuck trying to defeat enemies here.*
 - Head up the ramp and destroy the two turrets and kill the two enemies. `\`
 - Cast Burst of Speed. `\ \`
-- Wait until combat ends, *Swords will drop*, and click on the console. (Don’t spam until you see the cursor disappear else you have a high chance of skipping the cutscene which is considered a bug and makes your run invalid!)
+  - Wait until combat ends, *Swords will drop*, and click on the console.
+  - *Don’t spam until you see the cursor disappear else you have a high chance of skipping the cutscene which is considered a bug and makes your run invalid!*
 - `+` Run MC into the Military Base.
 
 ### Military Base
@@ -1104,11 +1105,11 @@ Buy:
 ### Dxun Jungle
 - Cast Burst of Speed.  `+ \`
 - Follow along the path drawn on the map below as you make your way through this section:
-  - *MC is Blue.*
+  - *MC is Green.*
   - *Kreia is Orange.*
   - *Cannoks are Red X's.*
 
-![Dxun Jungle Map](https://cdn.discordapp.com/attachments/808151224842977353/813297903187263498/unknown.png)
+![Dxun Jungle Map](https://i.imgur.com/S8bZeNi.png)
 
 - Run to your left and cast Force Valor to kill the first Cannok at #5.
 - Loot the Cannok.
@@ -1157,7 +1158,7 @@ Buy:
 - Run and speak to Mandalore: 1x- -> 1x-
 - `=` Click 'OK' when prompted with Party Selection screen.
 - `>` Cast Knight Speed.  `+`
-- * *We can Level up whenever we get them from here, or where ever suits you.*
+  - *We can level up whenever we get them from here, or where ever suits you.*
 - Use Psuedo-Stim Set.
 - Head past the Battle Circle to watch a cutscene with Kelborn, this will take us to the other area of the fight.
 - Run towards the door to where Mandalore is, this will spawn in more Sith Assassins.
@@ -1531,23 +1532,23 @@ Buy:
   - *This will select Visas as Party Leader, along with Mandalore and Disciple accompanying her. We want Mandalore and Disciple because they can soak up some hits for the end fight in the tomb.*
 - Manual Level Up Visas:
 
-`**Level up 1.**
--Skills: Recommended
--Feats: Improved Two-Weapon Fighting
--Powers: Burst of Speed
+**Level up 1.** <br>
+- Skills: Recommended <br>
+- Feats: Improved Two-Weapon Fighting <br>
+- Powers: Burst of Speed <br>
 
-**Level up 2.**
--Attributes: Recommended
--Skills: Recommended
--Powers: Force Valor
+**Level up 2.** <br>
+- Attributes: Recommended <br>
+- Skills: Recommended <br>
+- Powers: Force Valor <br>
 
-**Level up 3.**
--Skills: Recommended
--Feats: Stealth Run
--Powers: Knight Speed`
+**Level up 3.** <br>
+- Skills: Recommended <br>
+- Feats: Stealth Run <br>
+- Powers: Knight Speed <br>
 
 - Auto-Level Up all 3 party members.
-  - *The rest of the Freedon Nadd section is completed the same as Sanjan's Any% - Glitchless route.*
+  - *The rest of the Freedon Nadd section is completed the same as the any% glitchless route.*
 - `+` Cast Knight Speed.
 - Xarga speaks to you: 1x-
 - Run forward past the Boma's until Xarga accosts you: 1x-
@@ -1590,10 +1591,10 @@ Buy:
 - Cast Knight Speed.
 - Auto Level Up Kreia and T3-M4.
 - Enter Sky Ramp
-- Equip MC: Sith Power Gauntlets, MC's Armband, Upgraded Lightsaber (Mainhand), Freedon Nadd's Short Lightsaber (Offhand)
+- `}` Equip MC: Sith Power Gauntlets, MC's Armband, Upgraded Lightsaber (Mainhand), Freedon Nadd's Short Lightsaber (Offhand)
 - Run through to the Palace, keep Knight Speed active as you go.
   - *Pro Tip: Using the Plasma Torch on the Force Fields is quicker than using your Lightsabers.*
-  - *Make a safety save right before entering the Palace, the game is prone to crashing here.*
+  - *It is recommended to make a safety save right before entering the Palace, the game is prone to crashing here.*
 - Enter the Palace.
 
 ### Palace
@@ -1875,23 +1876,24 @@ Buy:
 ![Trayus Academy route map 2](https://cdn.discordapp.com/attachments/808151224842977353/813310920792473610/unknown.png)
 
 - You will be running through a lot of enemies in here, make sure to keep an eye on MC's HP and heal as needed.
-- Keep Knight Speed active as much as possible.
+  - *Cast Knight Speed at the start of each new module that you enter.*
+- On entering the last module, the one where we meet Sion, activate your Hyper Stim set.
 
 ### Sion
 - Sion stops you: 8
-- Immediately pause (spacebar), activate Hyper Stim set.
-- You'll need to bring Sion's HP to 1 a total of 4 times.
-- 1 spam through his dialog after each phase.
+  - *You'll need to bring Sion's HP to 1 a total of 4 times.*
+  - *1 spam through his dialog after each phase.*
 - Once he's dead, head to the Trayus Core.
 
 ### Traya
 - Cast Force Enlightment before proceeding.
 - Traya: 4,4
-- First Phase, Force Jump to her as she has a small chance of using stunning Force Abilities on you, this should tank her and be able to avoid it.
+- First Phase, Force Jump to her as she has a small chance of using stunning force abilities on you, this should tank her and be able to avoid it.
 
 - Second Phase: 4,4
 - Immediately pause as all buffs were ended at the end of the first phase.
-- Activate whatever Hyper stims you have left plus regular stims of the others.
+- Activate whatever Hyper stims you have left.
+  - *Plus regular stims of whatever you don't have that's hyper.*
 - Cast Force Enlightment again and hit her. Heal up as needed, as the floating lightsabers hurt.
 - Time ends on the last hit on Traya, GG!
 
