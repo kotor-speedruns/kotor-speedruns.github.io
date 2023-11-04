@@ -127,16 +127,16 @@ Other notes:
 - 'Force Redirection' is the upgrade to 'Force Deflect' and is taken for its added bonuses, but also as a filler for a faster level up.
 - 'Improved Energy Resistance'/'Improved Battle Meditation': These are chosen as quick options during their respective level ups, due to having to choose a force power each time we level up. These powers are not used in the run.
 
-**Level Up notes:**
-Level ups 2-8 will need to be used at the correct times as shown in the Detailed Route below.
-Level Up to 2: Peragus, Administration Console.
-Level Up to 3: Peragus, Final Run.
-Level Up to 4: Telos Citadel Station, before Ithorian Droid.
-Level Up to 5: Telos Citadel Station, after Escaped Criminals.
-Level Up to 6: Telos Citadel Station, quick heal during Mercenaries fight at Czerka.
-Level Up to 7: Dantooine, quick heal during fighting Matriarch. 
-Level Up to 8: Dxun, quick heal during fighting Zakkeg.
-Level Up to 9: Dxun, before Sith Ambush.
+**Level Up notes:** <br>
+Level ups 2-8 will need to be used at the correct times as shown in the Detailed Route below. <br>
+- Level Up to 2: Peragus, Administration Console. <br>
+- Level Up to 3: Peragus, Final Run. <br> 
+- Level Up to 4: Telos Citadel Station, before Ithorian Droid. <br>
+- Level Up to 5: Telos Citadel Station, after Escaped Criminals. <br>
+- Level Up to 6: Telos Citadel Station, quick heal during Mercenaries fight at Czerka. <br>
+- Level Up to 7: Dantooine, quick heal during fighting Matriarch.  <br>
+- Level Up to 8: Dxun, quick heal during fighting Zakkeg. <br>
+- Level Up to 9: Dxun, before Sith Ambush. <br>
 
 ## Equipment Plan
 
@@ -165,6 +165,7 @@ We use a single-handed Lightsaber for use with Critical Strikes later on. At Nar
 
 **Crystal 1**: Nextor
 - Bought on Nar Shaddaa from Oondar (3580 credits)
+- Or has a chance to be looted on Dantooine beforehand.
 Provides a high critical threat range, which makes our critical hits stronger. It also gives a nice +1 to our attack modifier.
 
 **Crystal 2**: Opila
