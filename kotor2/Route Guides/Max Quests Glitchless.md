@@ -127,6 +127,17 @@ Other notes:
 - 'Force Redirection' is the upgrade to 'Force Deflect' and is taken for its added bonuses, but also as a filler for a faster level up.
 - 'Improved Energy Resistance'/'Improved Battle Meditation': These are chosen as quick options during their respective level ups, due to having to choose a force power each time we level up. These powers are not used in the run.
 
+**Level Up notes:**
+Level ups 2-8 will need to be used at the correct times as shown in the Detailed Route below.
+Level Up to 2: Peragus, Administration Console.
+Level Up to 3: Peragus, Final Run.
+Level Up to 4: Telos Citadel Station, before Ithorian Droid.
+Level Up to 5: Telos Citadel Station, after Escaped Criminals.
+Level Up to 6: Telos Citadel Station, quick heal during Mercenaries fight at Czerka.
+Level Up to 7: Dantooine, quick heal during fighting Matriarch. 
+Level Up to 8: Dxun, quick heal during fighting Zakkeg.
+Level Up to 9: Dxun, before Sith Ambush.
+
 ## Equipment Plan
 
 One of the many special differences KOTOR 2 has compared to KOTOR 1 is that many of the drops/containers you loot are randomized. The base items listed below are all guaranteed items, but it is possible you may obtain items in your run that are more optimal to equip before getting the guaranteed items (or could possibly be better!).
@@ -221,11 +232,11 @@ In Samhans shop we will sell the following:
 	- Benok's Blaster (+660 credits) <br>
 	And buy: <br>
 	- 4x Advanced Medpacs (-320 credits)
-	- 20x Medpacs (-800 credits)
 	- 7x Alacrity (-350 credits)
 	- 5x Strength (-250 credits)
 	- 5x Stamina (-250 credits)
-	- 12x Battle Stim (-1200 credits) <br>
+	- 11x Battle Stim (-1100 credits)
+ 	- Enough Medpacs to get you back to 30 (this may be changed later) <br>
 
 4. **1B-8D**; Onderon <br>
 	During Onderon 1 we will come across 1B-8D in part of the quest 'A Doctor's Alibi', we talk to this droid merchant for the quest and then once again in order to enter the shop screen with it. Here we will first of all buy 1 of our 4 needed HK parts for repairing HK-47:
@@ -251,6 +262,7 @@ In Samhans shop we will sell the following:
 7. **Oondar**; Nar Shaadaa <br>
 	During our talks with Geeda and Oondar for the quest 'Trade War: Bonus Mission' we will buy the Nextor Crystal from Oondar for our lightsaber:
 	- Nextor Crystal (-3582 credits)
+	We won't do this shop if we manage to loot a 'Crystal, Nextor' from the Crystal Cave on Dantooine.
 
 8. **Geeda**; Nar Shaadaa <br>
 	Our last shopping trip! And our last talk with Geeda during the quest 'Trade War: Bonus Mission' and also partly completing 'New Trade Routes: Bonus Mission' Geedas shop will have an upgrade and give us the opportunity to buy the following items:
@@ -295,32 +307,32 @@ Here is the alignment route used in the run:
 | Light | Bring Batono to Lt. Grenn | Low Light | 1/0 | 1 | 68 | 24 | 
 | Light | Help the TSF stop smuggling on Telos | Mid Light | 2/0 | 2 | 70 | 26 | 
 | Light | First encounter with Handmaiden | Low Light | 1/0 | 1 | 71 | 27 | 
-| Light | Reassuing Bao-Dur (somewhat) | Low Light | 1/0 | 1 | 72 | 28 | 
-| Light | Reassure T3-M4 | Low Light | 1/0 | 1 | 73 | 29 | 
-| Light | Lie to Jorran | Mid Dark | 0/6 | -6 | 67 | 35 | 
-| Light | Bring Daraala the 'Scavengers Will' | Mid Light | 2/0 | 2 | 69 | 37 | 
-| Light | Help Suulru | Mid Light | 3/0 | 3 | 72 | 40 | 
-| Light | Dantooine (DS) Ending | High Dark | 0/8 | -8 | 64 | 48 | 
-| Light | Save Kumus | Low Light | 1/0 | 1 | 65 | 49 | 
-| Neutral | Convince Panar to get rid of Gelesi | Mid Dark | 0/6 | -6 | 59 | 55 | 
-| Neutral | Kill Captain Riiken | Low Dark | 0/2 | -2 | 57 | 57 | 
-| Neutral | Agree to not harm civilians in cantina | Low Light | 2/0 | 2 | 59 | 59 | 
-| Light | Spare Visas | Mid Light | 3/0 | 3 | 62 | 62 | 
-| Light | Threaten Quello | Low Dark | 0/1 | -1 | 61 | 63 | 
-| Light | Intervene to save a refugee | Mid Light | 2/0 | 2 | 63 | 65 | 
-| Light | Give beggar credits | Mid Light | 2/0 | 2 | 65 | 67 | 
-| Light | Destroy C9-T9 | Low Dark | 0/1 | -1 | 64 | 68 | 
-| Light | Intervene to save a refugee | Low Light | 1/0 | 1 | 65 | 69 | 
-| Light | Reassure Ebon Hawk former owner | Mid Light | 2/0 | 2 | 67 | 71 | 
-| Light | Heal Geriel | Low Light | 1/0 | 1 | 68 | 72 | 
-| Light | Persuade Saquesh to free Adana | Low Light | 1/0 | 1 | 69 | 73 | 
-| Light | Saquesh will no longer pressure refugees | Low Light | 1/0 | 1 | 70 | 74 | 
-| Light | Help Aiida and Lootra reconnect | Mid Light | 2/0 | 2 | 72 | 76 | 
-| Light | Help Geeda establish trade routes | Low Light | 1/0 | 1 | 73 | 77 | 
-| Light | Lie to Geredi | Low Dark | 0/1 | -1 | 72 | 78 | 
-| Light | Find a pilot for the Lunar Shadow Crew | Low Light | 1/0 | 1 | 73 | 79 | 
-| Light | Be nice to Visas | High Light | 4/0 | 4 | 77 | 83 | 
-| Light | Stand up for Visas when talking to Kreia | Low Light | 1/0 | 1 | 78 | 84 |
+| Light | Reassuing Bao-Dur (somewhat) | Low Light | 2/1 | 1 | 72 | 30 | 
+| Light | Reassure T3-M4 | Low Light | 1/0 | 1 | 73 | 31 | 
+| Light | Lie to Jorran | Mid Dark | 0/6 | -6 | 67 | 37 | 
+| Light | Bring Daraala the 'Scavengers Will' | Mid Light | 2/0 | 2 | 69 | 39 | 
+| Light | Help Suulru | Mid Light | 3/0 | 3 | 72 | 42 | 
+| Light | Dantooine (DS) Ending | High Dark | 0/8 | -8 | 64 | 50 | 
+| Light | Spare Visas | Mid Light | 3/0 | 3 | 67 | 53 |
+| Light | Save Kumus | Low Light | 1/0 | 1 | 68 | 54 | 
+| Light | Convince Panar to get rid of Gelesi | Mid Dark | 0/6 | -6 | 62 | 60 | 
+| Light | Kill Captain Riiken | Low Dark | 0/2 | -2 | 60 | 62 | 
+| Light | Agree to not harm civilians in cantina | Low Light | 2/0 | 2 | 62 | 64 |  
+| Light | Threaten Quello | Low Dark | 0/1 | -1 | 61 | 65 | 
+| Light | Intervene to save a refugee | Mid Light | 2/0 | 2 | 63 | 67 | 
+| Light | Give beggar credits | Mid Light | 2/0 | 2 | 65 | 69 | 
+| Light | Destroy C9-T9 | Low Dark | 0/1 | -1 | 64 | 70 | 
+| Light | Intervene to save a refugee | Low Light | 1/0 | 1 | 65 | 71 | 
+| Light | Reassure Ebon Hawk former owner | Mid Light | 2/0 | 2 | 67 | 73 | 
+| Light | Heal Geriel | Low Light | 1/0 | 1 | 68 | 74 | 
+| Light | Persuade Saquesh to free Adana | Low Light | 1/0 | 1 | 69 | 75 | 
+| Light | Saquesh will no longer pressure refugees | Low Light | 1/0 | 1 | 70 | 76 | 
+| Light | Help Aiida and Lootra reconnect | Mid Light | 2/0 | 2 | 72 | 78 | 
+| Light | Help Geeda establish trade routes | Low Light | 1/0 | 1 | 73 | 79 | 
+| Light | Lie to Geredi | Low Dark | 0/1 | -1 | 72 | 80 | 
+| Light | Find a pilot for the Lunar Shadow Crew | Low Light | 1/0 | 1 | 73 | 82 | 
+| Light | Be nice to Visas | High Light | 4/0 | 4 | 77 | 85 | 
+| Light | Stand up for Visas when talking to Kreia | Low Light | 1/0 | 1 | 78 | 86 |
 
 Alignment is not as important in this game, as we don’t use any equipment restricted by alignment. We do, however, stay on Light Side/Neutral in order to obtain Mira at Nar Shaddaa, as she is used for Goto’s ship segment to pass by the many deadly mines quickly without blowing them up, and to obtain deadly mines for Hanharr 2 later on at Malachor V.  
 We also try to get as many LSP as possible during the first half of Nar Shaddaa to get us to 75 Alignment so that we can enter the Sith Tomb on Korriban. The Sith Tomb wont let you enter unless you are at least at 25 or 75 alignment respectively.
@@ -421,7 +433,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 ## Peragus
 
 ### Administration Level
-- Mouse click through Kotlo cutscene (Some of it is skippable).
+- Mouse click through Kolto cutscene (Some of it is skippable).
 - Head through the door in front of you and the door on the left.
 - Use the Console: 4,3,6
 - Head into the morgue and loot the Corpse for a Plasma Torch.
@@ -575,7 +587,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 ### Czerka Route
 
 #### Telos Citadel Station
-- Lieutenant Grenn accosts you: 3,2,1
+- Lieutenant Grenn accosts you: 1,1,1
   - *Handmaiden steals the Ebon Hawk cutscene.*
 - Grenn speaks to you in jail: 1
 - False Batu Rem enters the room: 1x-
@@ -636,7 +648,7 @@ Buy:
 ```
 
 - `\` Enter Dock Module 126.
-- Speak to the Ithorian: 1 `+ \ \`
+- Speak to the Ithorian: 1,1 `+ \ \`
   - *Swapping between Kreia and MC.*
   - *Remember the Party Swaps can reverse.*
 - Access Information Terminal: 2
@@ -727,7 +739,7 @@ Buy:
 - Defeat the ranged Droids and Mercenaries that can see you when you are at Lorso's desk, then speak to her.
 - Jana Lorso: 1,1
 - Proceed to exit Czerka to 082 East.
-- Cast Burst of speed and access the Information Terminal to transit to Dock Module 126.
+- Cast Burst of speed and access the Information Terminal to transit to Dock Module 126: 2,1
 - Run down to Bay 3 and speak to the Duros: 1
 - Access the Airlock Terminal: 1
 - Run to the back of the Shuttle to leave Citadel Station: 1
@@ -739,7 +751,7 @@ Buy:
 ### Ithorian Route
 
 #### Telos Citadel Station
-- Lieutenant Grenn accosts you: 3,2,1
+- Lieutenant Grenn accosts you: 1,1,1
   - *Handmaiden steals the Ebon Hawk cutscene.*
 - Grenn speaks to you in jail: 1x-
 - False Batu Rem enters the room: 1x-
@@ -940,7 +952,7 @@ Buy:
 - Mouse click spam through HK-50 cutscene.
 
 ### Polar Plateau
-  - *Different from any% glitchless route!*
+*This section is different from any% glitchless route!*
 - Mouse click through to HK-50 dialog, end dialog: 4
   - *Immediately pause (Spacebar).*
 - Pseudo-stim set -Battle stim.
@@ -952,8 +964,9 @@ Buy:
 ### Polar Academy
 - Handmaiden talks to you: 2
   - *On legacy client/version (not steam or GOG) you will need to do '1,3', since the option above softlocks you.*
+- Mouse spam through Kreia/Atton dialog.
 - Atris talks to you: 5,1,6,4
-- Once Atris door closes, cast Burst of Speed and head to the prison room: 1,7,1 -> 1x-
+- Once Atris door closes, cast Burst of Speed and head to the prison room: 1,7,1x- -> 1x5
 - When party selection is prompted, take no one.
 - Head towards the Ebon Hawk, T3 accosts you: 1x- -> 1
 - Cast Burst of Speed, enter the Ebon Hawk: 1
@@ -964,8 +977,8 @@ Buy:
 - 1 spam through the rest of the cutscenes.
 - Cast Burst of Speed, run to the cockpit and speak to Atton: 2,2,1,2,1
   - *If you have accidentally spoken to Atton at any point prior to this conversation, the dialog options may differ.*
-- Exit the Pazaak Menu, use the Galaxy Map and select Dantooine.
-  - *Dantooine is one click of the keyboard left arrow.*
+- Exit the Pazaak Menu, use the Galaxy Map and select Dantooine. (1 left)
+  - *Dantooine is an instant travel.*
 
 ## Dantooine
 
@@ -987,12 +1000,11 @@ Sell:
 - Benoks Blaster
 Buy:
 - 4 Advanced Medpacs
-- 20x Medpacs
 - 7x Alacrity
 - 5x Strength
 - 5x Stamina
-- 12x Battle Stim
-- THIS ALL NEEDS TO BE CHECKED - ALONG WITH ENTIRE CREDIT ROUTE UP TO THIS POINT
+- 11x Battle Stim
+Plus top your Medpacs back up to 30 while you're here. (may be changed later)
 ```
 
 - Go speak to Zherron: 1,2,1,5,5  `\`
@@ -1042,6 +1054,8 @@ Buy:
 - `>`
   - *Use your level up for healing while fighting the Matriarch. If you need more health try to avoid using the Advanced Medpacs if you can.*
 - Attack and kill only the Matriarch.
+  - *You can try looting all but the 'Glowing Crystal Formation', after defeating the Matriarch, for a chance to loot a Crystal, Nextor!*
+  - *If you do manage to loot a Crystal Nextor you won't have to do the shopping trip with Oondar!*
 - Head back to where Vrook is captured by the Mercenaries: 1
 - Cast Force Valor.  `\`
 - Cast Burst of Speed.  `\`
@@ -1076,10 +1090,15 @@ Buy:
 - Vrook thanks you for your help, kinda: 9
 - Mouse spam through Vrook teaching you Ataru.
 - Cast Burst of Speed and exit to Khoonda Plains to go back to the Ebon Hawk.
-- Enter the Ebon Hawk
-- Spam through any cutscenes.
-- Speak to T3 to get more computer spikes: 6,2x-
-- Fly to Dxun (Onderon).
+
+### Visas
+- Use 1x Strength Stim and 1x Battle Stim before entering the Ebon Hawk.
+- Visas approaches you: 1
+- Cast Burst of Speed as soon as you gain control.
+- Attack Visas until she is at or below half HP.
+- Following conversation: 1,1 -> 4,1 -> 1
+- Cast Burst of Speed, run and speak to T3 to get more computer spikes: 6,2x-
+- Head to the Galaxy Map and fly to Onderon. (3 left)
 
 ## Dxun
 
@@ -1121,8 +1140,8 @@ Buy:
   - *Swap to Kreia for casting Burst of Speed if you need it while running around the jungle. We want to save as much of our FP for Force Valor to fight the Zakkeg.*
 - Follow the path toward the second Cannok, #8, apply Psuedo-Stim Set on your way.
 - Kill and loot Cannok.
-- Continue to the Zakkeg at #9, cast Force Valor before attacking. `>`
-  - *Heal with your level up if needed, it is also best to try to save the Advanced Medpacs here if you can.* 
+- Continue to the Zakkeg at #9, cast Force Valor before attacking.
+- `>` *Heal with your level up if needed, it is also best to try to save the Advanced Medpacs here if you can.* 
 - Loot the Zakkeg and the 2 corpses in this area.  `\ \`
 - Run Kreia to Kelborn at #10: 1,3,5,1
   - *This switches Kreia and MC's positions.*
@@ -1153,6 +1172,7 @@ Buy:
 - Wait for Davrels name to be Red and cast Burst of Speed.
 - Cast Burst of Speed.
 - `}` Equip Lightsaber and Vibrosword.
+  - } *2 Lightsabers if you have them!*
 
 ### Sith Ambush
 - Run and speak to Mandalore: 1x- -> 1x-
@@ -1283,21 +1303,13 @@ Buy:
 	
 - Cast Knight Speed.
 - Speak to the Mandalorian Guide: 1
-
-### Visas
-- Use 1x Strength Stim and 1x Battle Stim.
 - Turn 180° and enter the Ebon Hawk.
-  - *We will have to fight Visas once we enter, if Visas doesn't trigger your run ends here.*
-  - *Cast Knight Speed before the fight.*
-- Visas approaches you: 1
-- Attack Visas until she is at or below half HP.
-- Following conversation: 1,1 -> 4,1 -> 1
-- Cast Knight Speed.
-- Fly to Nar Shaddaa, Atton says something about Nal Hutta: 5
+- Fly to Nar Shaddaa. ()
 
 ## Nar Shaddaa 1
 
 ### Landing Pad
+- Atton says something about Nal Hutta: 5
 - Watch/mouse spam Goto cutscene.
 - 5,6 -> 7,7
 - `=` Select Kreia when prompted.
@@ -1388,6 +1400,7 @@ Buy:
 - Speak to Oondar: 1x-  `\`
 - Speak to Geeda: 1x-, exit shop.  `\ \`
 - Speak to Oondar twice: 1x-
+  - *If you looted a Crystal, Nextor on Dantooine, just speak to him once and skip his shopping sequence.*
 
 ```
 Buy:
@@ -1900,12 +1913,16 @@ Buy:
 ## Version History
 
 ### v2.0 (Some thanks extended to 30Cents, February 2023-FINISHED?)
+- Level Up notes for levels 2-9 added to Levelling Plan.
 - Added looting Kreia's corpse during the Prologue for the Locker Key.
 - Added looting the Locker in the Cargo Hold for an extra Computer Spike.
 - Updated 'Prologue' route.
 - Updated 'Fuel Depot - T3 Section' route.
 - Updated dialog with HK-50 on Peragus; giving us +2 LSP.
 - Updated dialog during 'Ebon Hawk to Telos'; giving us +1 LSP (+1 more than previous iteration).
+- There's now a chance to loot a 'Crystal, Nextor' in the Dantooine Crystal Cave, instead of purchasing one from Oondar on Nar Shaddaa
+- Visas now arriving at the end of Dantooine on 50 alignment point shifts.
+- Alignment route updated due to Visas showing up at the end of Dantooine.
 - Credits Route and Shopping Trip updated for Telos Station - Samhan Dobo.
 - Credits Route and Shopping Trip updated for Telos Station - Dendis Dobo.
 - Credits Route and Shopping Trip updated for Dantooine - Adum Larp.
