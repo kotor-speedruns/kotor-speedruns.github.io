@@ -237,7 +237,7 @@ In Samhans shop we will sell the following:
 	- 5x Strength (-250 credits)
 	- 5x Stamina (-250 credits)
 	- 11x Battle Stim (-1100 credits)
- 	- Enough Medpacs to get you back to 30 (this may be changed later) <br>
+ 	- Medpacs, if <10 buy enough to get to 20 total, if >20 don't buy any. <br>
 
 4. **1B-8D**; Onderon <br>
 	During Onderon 1 we will come across 1B-8D in part of the quest 'A Doctor's Alibi', we talk to this droid merchant for the quest and then once again in order to enter the shop screen with it. Here we will first of all buy 1 of our 4 needed HK parts for repairing HK-47:
@@ -919,7 +919,7 @@ Buy:
 
 - `} +` Unequip Plasma Torch from MC  `\`
 - `}` Equip Energy Shield to Kreia  `\`
-- `}` Equip Plasma Torch, best Armor and Energy Shield to Bao-Dur. 
+- `}` Equip Plasma Torch, Mining Uniform and Energy Shield to Bao-Dur. 
 - Activate 1x Alacrity and 1x Stamina stim.
   - *Heal Bao-Dur with Medpacs now if he has low HP.*
 - Select Bash on the Force Field, this will trigger a cutscene showing that Bao-Dur can bash these Force Fields.
@@ -937,7 +937,7 @@ Buy:
 - Continue through to the room with the console and 3 droids.
 - Access the console to destroy the droid charging stations and proceed to the Reactor.
 - Once you have opened the last Force Field:
-- `}` Unequip Plasma Torch, Armor and Energy Shield  `\ \`
+- `}` Unequip Plasma Torch, Mining Uniform and Energy Shield  `\ \`
 - `}` Equip Plasma Torch to Kreia  `\`
 - Activate the reactor with the console.  `\`
 - Cast Burst of Speed.  `\`
@@ -1000,12 +1000,12 @@ Sell:
 - Exchange Negotiator
 - Benoks Blaster
 Buy:
-- 4 Advanced Medpacs
+- 4x Advanced Medpacs
 - 7x Alacrity
 - 5x Strength
 - 5x Stamina
 - 11x Battle Stim
-Plus top your Medpacs back up to 30 while you're here. (may be changed later)
+If you have <10 Medpacs, buy enough to get to 20. If >20 don't buy any.
 ```
 
 - Go speak to Zherron: 1,2,1,5,5  `\`
@@ -1022,7 +1022,7 @@ Plus top your Medpacs back up to 30 while you're here. (may be changed later)
 
 ### Enclave Sublevel
 - `+ ^`
-  - *Swapping to the Plasma Torch, equip it now if it was automatically removed.*
+  - *Swapping to the Plasma Torch,* `}` *equip it now if it was automatically removed.*
 - Cast Burst of Speed and activate 1x Alacrity Stim.
 - Head through the right corridor, loot the first Salvager Corpse on your way to Disciple.
 - Bash open the door to Disciple
@@ -1046,17 +1046,18 @@ Plus top your Medpacs back up to 30 while you're here. (may be changed later)
 - `+ \`
 - Cast Burst of Speed.  `\`
 - Speak to Saehde: 2,2,2,2
-- `}` Equip 2x Vibroswords. `^`
+- `^ }` Equip 2x Vibroswords.
 - Enter Kinrath Cave.
 - `+ \`
 - Cast Burst of Speed.  `\`
 - Psuedo-Stim Set (We have Battle Stims now!) on your way to the Crystal Area.
 - Cast Force Valor after Kreia accosts you: 4
-- `>`
-  - *Use your level up for healing while fighting the Matriarch. If you need more health try to avoid using the Advanced Medpacs if you can.*
+- `>` *Use your level up for healing while fighting the Matriarch. If you need more health try to avoid using the Advanced Medpacs if you can.*
 - Attack and kill only the Matriarch.
-  - *You can try looting all but the 'Glowing Crystal Formation', after defeating the Matriarch, for a chance to loot a Crystal, Nextor!*
-  - *If you do manage to loot a Crystal Nextor you won't have to do the shopping trip with Oondar!*
+  - ***Optional**: You can try looting all but the 3 Crystal Formation's, after defeating the Matriarch, for a chance to loot a Crystal, Nextor!*
+  - *There is also a chance for the Matriarch to have remains which may also contain a Crystal, Nextor also!*
+  - *If you do manage to loot a Crystal, Nextor you won't have to do the shopping trip with Oondar!*
+  - *You may also loot some other decent crystals to upgrade your first lightsaber at the start of Dxun.*
 - Head back to where Vrook is captured by the Mercenaries: 1
 - Cast Force Valor.  `\`
 - Cast Burst of Speed.  `\`
@@ -1107,7 +1108,12 @@ Plus top your Medpacs back up to 30 while you're here. (may be changed later)
 - Space Encounter: 2,3,4,4,1
 - Cast Burst of Speed.
 - Talk to Bao-Dur to make your Lightsaber: 4,4,2
+  - *If you looted a color crystal on Dantooine, the above option may be 4,4,2,1. *
 - `}` Equip Lightsaber in Main Hand.
+- `}` *You could also equip a second lightsaber if you by chance have one at this point.*
+  - Now would be a perfect time to upgrade your lightsaber(s) if you managed to loot any decent crystals on Dantooine, if you got a 'Crystal, Nextor', add that to your main lightsaber along with any other quick upgrades you can squeeze in.
+  - These lightsaber upgrades may lose you approximately 5 seconds here, but it will save some time with combat on Dxun.
+- Access the Workbench: 2
 - Exit Ebon Hawk choose Kreia and T3 for your party.
 - `+` Kreia casts Burst of Speed.
 - Activate 1x Alacrity Stim.
@@ -1229,8 +1235,8 @@ Plus top your Medpacs back up to 30 while you're here. (may be changed later)
 - Run through past Kiph into the east room, speak to Panar twice: 1x- \| 2,1,1,1  `\ \`
 - Exit to Western Square.  `\ \`
 - `+` Cast Knight Speed.
-- Talk to 1B-8D Merchant Droid, north of the Cantina Entrance: 1x-
-- Talk to 1B-8D: 1x-
+- Talk to 1B-8D Merchant Droid, north of the Cantina Entrance: 1,1,1
+- Talk to 1B-8D: 1
 
 ```
 Buy:
@@ -1276,7 +1282,7 @@ Sell:
 
 ### Leave Onderon
 - `+` Run and exit to Merchant Quarter.
-- Run forward, Onderon Soldier accosts you: 1,1
+- Run forward, Onderon Soldier accosts you: 4
 - `+` Cast Knight Speed, run towards exit to Iziz Spaceport.
 - Mouse spam through Onderon Solider cutscene.
 - Get to the exit to Iziz Spaceport.
@@ -1288,7 +1294,7 @@ Sell:
 
 ### Kex Shopping
 - Mandalore speaks to you: 1
-- Cast Knight Speed
+- Cast Knight Speed whenever it runs out
 - Run and speak to Kex to shop: 1
 
 ```
@@ -1913,7 +1919,7 @@ Buy:
 
 ## Version History
 
-### v2.0 (Some thanks extended to 30Cents, February 2023-FINISHED?)
+### v2.0 (Some thanks extended to 30Cents, February-November 2023)
 - Level Up notes for levels 2-9 added to Levelling Plan.
 - Added looting Kreia's corpse during the Prologue for the Locker Key.
 - Added looting the Locker in the Cargo Hold for an extra Computer Spike.
@@ -1921,7 +1927,10 @@ Buy:
 - Updated 'Fuel Depot - T3 Section' route.
 - Updated dialog with HK-50 on Peragus; giving us +2 LSP.
 - Updated dialog during 'Ebon Hawk to Telos'; giving us +1 LSP (+1 more than previous iteration).
-- There's now a chance to loot a 'Crystal, Nextor' in the Dantooine Crystal Cave, instead of purchasing one from Oondar on Nar Shaddaa
+- Added looting 3x Crystal Formation in Dantooine's Crystal Cave.
+- Added looting Kinrath Matriarch.
+- There's now a chance to loot 'Crystal, Nextor' in the Dantooine Crystal Cave, instead of purchasing one from Oondar on Nar Shaddaa.
+- Added the option to upgrade lightsaber before the start of Dxun at the cost of ~5s but to potentially save a lot of time with combat.
 - Visas now arriving at the end of Dantooine on 50 alignment point shifts.
 - Alignment route updated due to Visas showing up at the end of Dantooine.
 - Credits Route and Shopping Trip updated for Telos Station - Samhan Dobo.
