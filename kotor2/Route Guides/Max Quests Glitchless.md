@@ -2,10 +2,9 @@
 
 ## v2.0: Female Jedi Guardian Route (Light Side)
 
-*First of all, major credit to goes out to [30cents](https://www.speedrun.com/user/30Cents) and [Sanjan](https://www.speedrun.com/user/Sanjan) for their hard work with the
-[Any% Glitchless](https://www.speedrun.com/kotor2/guide/l8dx3) route, without their hard work this route would have been 10 times harder to make happen. I also want to credit 30 for his efforts improving the route for v2.0. I would also like to thank [AtomicHeartSon](https://www.speedrun.com/user/AtomicHeartSon), for jumping in and beginning the routing progress for this category, it wouldn't be where it is today without his initial eagerness to bring this to life.*
+*First of all, major credit to goes out to [30cents](https://www.speedrun.com/user/30Cents) for his help with some route improvements and [Sanjan](https://www.speedrun.com/user/Sanjan) for their work on the Any% Glitchless route. I would also like to thank [AtomicHeartSon](https://www.speedrun.com/user/AtomicHeartSon), for jumping in and beginning the routing progress for this category, it wouldn't be where it is today without his initial eagerness to bring this to life.*
 
-This route defeats Darth Traya on Malachor V while also completing All of the Quests as fast as possible without the use of glitches. Timing begins upon clicking "PLAY" after character creation and ends on the last hit on Traya as the screen fades to black. A load-removal tool is available for LiveSplit thanks to glasnonck; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the character build for the run, as well as a detailed route.
+This route defeats Darth Traya on Malachor V while also completing the Max amount of the Quests in a single run as fast as possible without the use of glitches. Timing begins upon clicking "PLAY" after character creation and ends on the last hit on Traya as the screen fades to black. A load-removal tool is available for LiveSplit thanks to glasnonck; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the character build for the run, as well as a detailed route.
 
 If you have additional questions, you can check out the [KotOR Speedrunning Discord](https://www.speedrun.com/kotor2/thread/lgj5g). There's a bunch of friendly folks there willing to answer your questions!
 
@@ -38,7 +37,7 @@ No mods are allowed to be used (Yes, this also includes the restoration mod!)
 
 - If running on any monitor over 60 Hertz (hz), underclock it to 60hz exactly. If not done, your game will hang after combat and restrict you from moving. This is due to this game being made to suit a maximum of 60hz and to not be played exceeding 60 FPS.
 - Unbind your quicksave key! You can do this by setting the Quicksave key (default F4) to the Quickload Key (default F5) then setting the Quickload key back to F5.
-- Learn how to swap abilities easily. Shift `+` # swaps the ability. (e.g shift`+`1 swaps from Critical Strike to Flurry etc. Shift`+`4 swaps force powers)
+- Learn how to swap abilities easily. Shift +# swaps the ability. (e.g shift+1 swaps from Critical Strike to Flurry etc. Shift+4 swaps force powers)
 - Watch someone's PB video while going through the notes! This is very important to fundamentally understand the run and how it flows, and learn possible tricks to make your run much faster and smoother.
 - Manual save a lot! The game tends to be very wonky, it can be prone to crashing in the worst moments, especially if you're on a good run! You'll figure out key points to save while you practice the run.
 - Once you understand the fundamentals from these notes, make your own copy of the notes and modify them to your own use. These notes are made detailed for a new player, and once you become more experienced you will need less of these notes.
@@ -83,7 +82,7 @@ We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsab
 | 3 | Weapon-Focus: Lightsaber | Affect Mind |
 | 4 | --- | Force Valor |
 | 5 | Improved Two-Weapon Fighting | Energy Resistance |
-| 6 | --- | Affect Mind |
+| 6 | --- | Force Deflection |
 | 7 | Improved Critical Strike | Dominate Mind |
 | 8 | --- | Battle Meditation |
 | 9 | Master Two-Weapon Fighting | Knight Speed |
@@ -106,14 +105,14 @@ Other notes:
 - Persuade isn't used in this run as Affect Mind and Dominate Mind are sufficent for all of our needs of persuasion.
 
 **Feat notes:**
-- 'Weapon Focus: Lightsaber' is chosen since there aren't other good feats at level 3, and it gives `+`1 to attack when we get our lightsaber later.
+- 'Weapon Focus: Lightsaber' is chosen since there aren't other good feats at level 3, and it gives +1 to attack when we get our lightsaber later.
 - 'Critical Strike' and 'Two-Weapon Fighting' are our main combat core.
-- At level 14 we choose 'Weapon Specialization: Lightsaber' as this will add a `+`2 damage bonus to our hits and will help for the endgame.
+- At level 14 we choose 'Weapon Specialization: Lightsaber' as this will add a +2 damage bonus to our hits and will help for the endgame.
 - It is hit and miss whether we will reach Level 15 or not, but if so we recommend choosing 'Toughness' purely due to being able to click recommended. This gives us slightly higher VP but most importantly it is quick to select.
 
 **Force Power notes:**
-- 'Burst of Speed' is the most important power, giving us 100% increased movement speed. With no Save Teleports, this is an essential power for the run. Knight Speed also grants `+`1 attack per round, which is highly important due to our relatively low chance to hit. 'Burst of Speed' also gives us `+`2 Defense while active.
-- If MC reaches level 15, Master Speed grants us `+`2 attacks per round while active.
+- 'Burst of Speed' is the most important power, giving us 100% increased movement speed. With no Save Teleports, this is an essential power for the run. Knight Speed also grants +1 attack per round, which is highly important due to our relatively low chance to hit. 'Burst of Speed' also gives us +2 Defense while active.
+- If MC reaches level 15, Master Speed grants us +2 attacks per round while active.
 - Duration Glitch in this game is not as effective as in KOTOR 1, so we will be using these Force Speed powers much more. We will generally take Kreia into our party as a second source of Force Points (FP) due to the Force Bond ability affecting MC and Kreia.
 - 'Force Valor' is used to boost stats and saving throws for various combat sections in the game. Later this will be levelled up to 'Knight Valor'.
 - 'Affect Mind'/'Dominate Mind' is used in the following places:
@@ -128,31 +127,37 @@ Other notes:
 - 'Force Redirection' is the upgrade to 'Force Deflect' and is taken for its added bonuses, but also as a filler for a faster level up.
 - 'Improved Energy Resistance'/'Improved Battle Meditation': These are chosen as quick options during their respective level ups, due to having to choose a force power each time we level up. These powers are not used in the run.
 
+**Level Up notes:** <br>
+Level ups 2-8 will need to be used at the correct times as shown in the Detailed Route below. <br>
+- Level Up to 2: Peragus, Administration Console. <br>
+- Level Up to 3: Peragus, Final Run. <br> 
+- Level Up to 4: Telos Citadel Station, before Ithorian Droid. <br>
+- Level Up to 5: Telos Citadel Station, after Escaped Criminals. <br>
+- Level Up to 6: Telos Citadel Station, quick heal during Mercenaries fight at Czerka. <br>
+- Level Up to 7: Dantooine, quick heal during fighting Matriarch.  <br>
+- Level Up to 8: Dxun, quick heal during fighting Zakkeg. <br>
+- Level Up to 9: Dxun, before Sith Ambush. <br>
+
 ## Equipment Plan
 
 One of the many special differences KOTOR 2 has compared to KOTOR 1 is that many of the drops/containers you loot are randomized. The base items listed below are all guaranteed items, but it is possible you may obtain items in your run that are more optimal to equip before getting the guaranteed items (or could possibly be better!).
 
 **Implant**: Power Implant
 - Bought on Nar Shaddaa from Geeda (1615 credits)
-Since we don’t have enough Constitution to equip a Nerve Enhancement System, and only Sion and Traya use stunning force powers against us, we go for offensive items and this implant is the easiest guaranteed item we can access that gives us `+`2 STR.
+Since we don’t have enough Constitution to equip a Nerve Enhancement System, and only Sion and Traya use stunning force powers against us, we go for offensive items and this implant is the easiest guaranteed item we can access that gives us +2 STR.
 
 **Headgear**: Targeting Visor
 - Obtained from dead mercenary in the Enclave Ruins
-The only guaranteed headgear we can obtain, this gives us a `+`1 to attack and `+`1 to reflex saves. If you find other better headgear, prioritize equipping those over this helmet.
+The only guaranteed headgear we can obtain, this gives us a +1 to attack and +1 to reflex saves. If you find other better headgear, prioritize equipping those over this helmet.
 
 **Gloves**: Sith Power Gauntlets
 - Obtained from Sith Lord at Freedon Nadd’s Tomb
-This is used for the `+`3 Strength; which gives us a lot of damage and accuracy.
+This is used for the +3 Strength; which gives us a lot of damage and accuracy.
 
 **Body**: Jal Shey Neophyte Armor
 - Obtained from Geeda on Nar Shaddaa (570 credits)
-At the beginning, we only have easy access to the Mining Outfit that gives us `+`1 defense.
+At the beginning, we only have easy access to the Mining Outfit that gives us +1 defense.
 We use the Jal Shey Armor then for its defense and dexterity bonus.
-
-**Body**: (Optional) Ossus Keeper Robes
-- Obtained as a reward from Queen Talia during Onderon 2
-At the beginning of The Ravager we can swap to the Ossus Keeper Robes for a bigger force point pool, and for better resistance against Sion/Traya’s force powers (`+`4 Wisdom, `+`4 Intelligence, `+`2 Charisma).
-Beginners can opt to keep the Jal Shey Neophyte Armor, as it provides more defense for the late game.
 
 **Main Hand**: Single Lightsaber
 - Crafted by Bao-Dur after Dantooine
@@ -160,11 +165,16 @@ We use a single-handed Lightsaber for use with Critical Strikes later on. At Nar
 
 **Crystal 1**: Nextor
 - Bought on Nar Shaddaa from Oondar (3580 credits)
-Provides a high critical threat range, which makes our critical hits stronger. It also gives a nice `+`1 to our attack modifier.
+- Or has a chance to be looted on Dantooine beforehand.
+Provides a high critical threat range, which makes our critical hits stronger. It also gives a nice +1 to our attack modifier.
 
 **Crystal 2**: Opila
 - Bought on Nar Shaddaa from Geeda (2831 credits)
-Grants us the Keen effect, which gives us a 10% increased chance to crit. It also adds a flat `+`3 to damage, and is very cost effective.
+Grants us the Keen effect, which gives us a 10% increased chance to crit. It also adds a flat +3 to damage, and is very cost effective.
+
+**Crystal 3**: Pontite
+- Looted from the Onderon Palace, Museum Treasure.
+Giving us Damage Bonus +1-10 Cold and Charisma +2, this will replace Crystal, Nextor in the Onderon Palace.
 
 **Off-Hand**: Freedon Nadd's Short Lightsaber
 - Obtained from Freedon Nadd’s Tomb
@@ -174,30 +184,29 @@ This is a very good off-hand weapon that increases our accuracy while having hig
 - There are no good guaranteed belts we can purchase for an affordable price. See itemization below for things you are looking for in a belt.
 
 **Shield Slots**: MC's Armband, Energy Shield
-- The Armband gives us `+`1 to Constitution, which in turn gives MC more HP.
+- The Armband gives us +1 to Constitution, which in turn gives MC more HP.
 The Energy Shield is equipped to mitigate damage from blasters, which is primarily used at Peragus when walking through mines. There are a couple sections in this run where Energy Shields will be helpful for MC and other party members.
 
-The majority of our equipment is attained in Nar Shaddaa, with the exception of the optional Ossus Keeper Robe. For the early game, we will make use of a pair of Vibroswords, though some exceptions can be made depending on the randomization the shops have.
+The majority of our equipment is attained in Nar Shaddaa. For the early game, we will make use of a pair of Vibroswords, though some exceptions can be made depending on the randomization the shops have.
 
 **Item Prioritization:**
 - Due to the RNG nature of loot and shops in this game, sometimes there are better items you might on your way through the early game. You'll want to prioritize it roughly by:
 
-1. `+`Strength: Strength gives us more damage AND more accuracy, and therefore is much more beneficial to us overall than any other stat.
-2. `+`Damage (any type): More damage is great. Generally this will be in the form of `+`physical damage (e.g Gamorrean Gloves).
-3. `+`Attack: Gives us more chance of hitting, which is crucial early game since our weapons are weaker.
-4. `+`Wisdom: Gives us better saving throws for the endgame, where Nihilus, Sion, and Traya have the chance to use force powers against us.
-5. `+`Defense: Makes others less likely to hit us. A good stat to look out for since we tend to run through areas with large amounts of enemies.
+1. +Strength: Strength gives us more damage AND more accuracy, and therefore is much more beneficial to us overall than any other stat.
+2. +Damage (any type): More damage is great. Generally this will be in the form of +physical damage (e.g Gamorrean Gloves).
+3. +Attack: Gives us more chance of hitting, which is crucial early game since our weapons are weaker.
+4. +Wisdom: Gives us better saving throws for the endgame, where Nihilus, Sion, and Traya have the chance to use force powers against us.
+5. +Defense: Makes others less likely to hit us. A good stat to look out for since we tend to run through areas with large amounts of enemies.
 
 ## Credit Route
 
 We perform 8 shopping trips during the run. Most 'Buy' amounts are the total amount that you will end with in your inventory, make sure to take note of this. The trips are as follows: <br>
-
 1. **Samhan Dobo**; Telos Station <br>
 	The first shopping trip of the run will start with Samhan. Please note that at the end of the Telos Station shopping trip we MUST have at minimum 1525 credits to complete the 'High Stakes' quest.
 In Samhans shop we will sell the following:
-	- 1x Parts (`+`110 credits)
-	- 2x Vibroblades (`+`208 credits)
-	- Droid Self-Sustaining Unit (`+`3300 credits) <br>
+	- 1x Parts (+55 credits)
+	- 2x Vibroblades (+208 credits)
+	- Droid Self-Sustaining Unit (+3300 credits) <br>
 	This will bring our credit total somewhere between 4000 and 4300 credits.
 	*We are allocating 1550 credits for the bare essentials, although we will usually spend a bit less than that here.*
 	Next is to buy some essential items that will get us to Dantooine, credits are scarse with the tightness of this route so only buy what you need. We are only buying enough items here to end at the total amount given below:
@@ -209,32 +218,32 @@ In Samhans shop we will sell the following:
 	- 6x Alacrity (-300 credits)
 	- 5x Stamina (-250 credits)
 	- 4x Strength (-200 credits) <br>
-	This will leave us at a credit total between 2450 and 2750.
+	This will leave us at a credit total between 2250 and 2750.
 
 2. **Dendis Dobo**; Telos Station <br>
-	MUST END WITH `+`1525 CREDITS!
+	MUST END WITH +1525 CREDITS!
    	From Dendis we only buy:
-   	- 30-35 Medpacs <br>
+   	- 15-20 Medpacs <br>
    	Or less, maintaining above 1525 credits!
 
 3. **Adum Larp**; Dantooine <br>
-	For the second shopping trip of the run, we are going to stock up on some Medpacs and Stims to get us through to the next one. Plus the Battle stims that will take us through the rest of the run.
-	Firstly sell:
-	- Exchange Negotiator (`+`467 credits)
-	- Benok's Blaster (`+`660 credits) <br>
-	And buy: 
+	For the second shopping trip of the run, we are going to stock up on some Medpacs and Stims to get us through to the next one. Plus the Battle stims that will take us through the rest of the run. <br>
+	Firstly sell: <br>
+	- Exchange Negotiator (+467 credits)
+	- Benok's Blaster (+660 credits) <br>
+	And buy: <br>
 	- 4x Advanced Medpacs (-320 credits)
-	- 20x Medpacs (-800 credits)
 	- 7x Alacrity (-350 credits)
 	- 5x Strength (-250 credits)
 	- 5x Stamina (-250 credits)
-	- 12x Battle Stim (-1200 credits)
+	- 11x Battle Stim (-1100 credits)
+ 	- Medpacs, if <10 buy enough to get to 20 total, if >20 don't buy any. <br>
 
 4. **1B-8D**; Onderon <br>
 	During Onderon 1 we will come across 1B-8D in part of the quest 'A Doctor's Alibi', we talk to this droid merchant for the quest and then once again in order to enter the shop screen with it. Here we will first of all buy 1 of our 4 needed HK parts for repairing HK-47:
 	- 1x HK Droid Processor (-359 credits) <br>
 	We will also sell the Mandalorian Assault Rifle here as it will give us roughly 1000 more credits than any other merchant along the way in the rest of the run:
-	- Mandalorian Assault Rifle (`+`5472 credits)
+	- Mandalorian Assault Rifle (+5472 credits)
 
 5. **Kex**; Dxun <br>
 	After we are finished with Onderon 1 we will be back at the Mandalorian Ruins, it is here we can shop with Kex and buy some crucial items for the rest of the run. We will only need to purchase enough of these items to end at the total given below:
@@ -248,12 +257,13 @@ In Samhans shop we will sell the following:
 	Since we sold the Mandalorian Assault Rifle during Onderon 1, we should have plenty of credits at this point and not have to worry about selling any more items for the rest of the run.
 
 6. **Kodin**; Nar Shaddaa <br>
-	As part of the quest 'Droid Retrieval' we will have to talk to Kodin, at the end of this dialogue we will be in the shop interface and we can buy our last HK part!
+	As part of the quest 'Droid Retrieval' we will have to talk to Kodin, at the end of this dialog we will be in the shop interface and we can buy our last HK part!
 	- HK Chassis (-1500 credits)
 
 7. **Oondar**; Nar Shaadaa <br>
-	During our talks with Geeda and Oondar for the quest 'Trade War: Bonus Mission' we will  buy the Nextor Crystal from Oondar for our lightsaber:
+	During our talks with Geeda and Oondar for the quest 'Trade War: Bonus Mission' we will buy the Nextor Crystal from Oondar for our lightsaber:
 	- Nextor Crystal (-3582 credits)
+	We won't do this shop if we manage to loot a 'Crystal, Nextor' from the Crystal Cave on Dantooine.
 
 8. **Geeda**; Nar Shaadaa <br>
 	Our last shopping trip! And our last talk with Geeda during the quest 'Trade War: Bonus Mission' and also partly completing 'New Trade Routes: Bonus Mission' Geedas shop will have an upgrade and give us the opportunity to buy the following items:
@@ -298,32 +308,35 @@ Here is the alignment route used in the run:
 | Light | Bring Batono to Lt. Grenn | Low Light | 1/0 | 1 | 68 | 24 | 
 | Light | Help the TSF stop smuggling on Telos | Mid Light | 2/0 | 2 | 70 | 26 | 
 | Light | First encounter with Handmaiden | Low Light | 1/0 | 1 | 71 | 27 | 
-| Light | Reassuing Bao-Dur (somewhat) | Low Light | 1/0 | 1 | 72 | 28 | 
-| Light | Reassure T3-M4 | Low Light | 1/0 | 1 | 73 | 29 | 
-| Light | Lie to Jorran | Mid Dark | 0/6 | -6 | 67 | 35 | 
-| Light | Bring Daraala the 'Scavengers Will' | Mid Light | 2/0 | 2 | 69 | 37 | 
-| Light | Help Suulru | Mid Light | 3/0 | 3 | 72 | 40 | 
-| Light | Dantooine (DS) Ending | High Dark | 0/8 | -8 | 64 | 48 | 
-| Light | Save Kumus | Low Light | 1/0 | 1 | 65 | 49 | 
-| Neutral | Convince Panar to get rid of Gelesi | Mid Dark | 0/6 | -6 | 59 | 55 | 
-| Neutral | Kill Captain Riiken | Low Dark | 0/2 | -2 | 57 | 57 | 
-| Neutral | Agree to not harm civilians in cantina | Low Light | 2/0 | 2 | 59 | 59 | 
-| Light | Spare Visas | Mid Light | 3/0 | 3 | 62 | 62 | 
-| Light | Threaten Quello | Low Dark | 0/1 | -1 | 61 | 63 | 
-| Light | Intervene to save a refugee | Mid Light | 2/0 | 2 | 63 | 65 | 
-| Light | Give beggar credits | Mid Light | 2/0 | 2 | 65 | 67 | 
-| Light | Destroy C9-T9 | Low Dark | 0/1 | -1 | 64 | 68 | 
-| Light | Intervene to save a refugee | Low Light | 1/0 | 1 | 65 | 69 | 
-| Light | Reassure Ebon Hawk former owner | Mid Light | 2/0 | 2 | 67 | 71 | 
-| Light | Heal Geriel | Low Light | 1/0 | 1 | 68 | 72 | 
-| Light | Persuade Saquesh to free Adana | Low Light | 1/0 | 1 | 69 | 73 | 
-| Light | Saquesh will no longer pressure refugees | Low Light | 1/0 | 1 | 70 | 74 | 
-| Light | Help Aiida and Lootra reconnect | Mid Light | 2/0 | 2 | 72 | 76 | 
-| Light | Help Geeda establish trade routes | Low Light | 1/0 | 1 | 73 | 77 | 
-| Light | Lie to Geredi | Low Dark | 0/1 | -1 | 72 | 78 | 
-| Light | Find a pilot for the Lunar Shadow Crew | Low Light | 1/0 | 1 | 73 | 79 | 
-| Light | Be nice to Visas | High Light | 4/0 | 4 | 77 | 83 | 
-| Light | Stand up for Visas when talking to Kreia | Low Light | 1/0 | 1 | 78 | 84 | 
+| Light | Reassuing Bao-Dur (somewhat) | Low Light | 2/1 | 1 | 72 | 30 | 
+| Light | Reassure T3-M4 | Low Light | 1/0 | 1 | 73 | 31 | 
+| Light | Lie to Jorran | Mid Dark | 0/6 | -6 | 67 | 37 | 
+| Light | Bring Daraala the 'Scavengers Will' | Mid Light | 2/0 | 2 | 69 | 39 | 
+| Light | Help Suulru | Mid Light | 3/0 | 3 | 72 | 42 | 
+| Light | Dantooine (DS) Ending | High Dark | 0/8 | -8 | 64 | 50 | 
+| Light | Spare Visas | Mid Light | 3/0 | 3 | 67 | 53 |
+| Light | Save Kumus | Low Light | 1/0 | 1 | 68 | 54 | 
+| Light | Convince Panar to get rid of Gelesi | Mid Dark | 0/6 | -6 | 62 | 60 | 
+| Light | Kill Captain Riiken | Low Dark | 0/2 | -2 | 60 | 62 | 
+| Light | Agree to not harm civilians in cantina | Low Light | 2/0 | 2 | 62 | 64 |  
+| Light | Threaten Quello | Low Dark | 0/1 | -1 | 61 | 65 | 
+| Light | Intervene to save a refugee | Mid Light | 2/0 | 2 | 63 | 67 | 
+| Light | Give beggar credits | Mid Light | 2/0 | 2 | 65 | 69 | 
+| Light | Destroy C9-T9 | Low Dark | 0/1 | -1 | 64 | 70 | 
+| Light | Intervene to save a refugee | Low Light | 1/0 | 1 | 65 | 71 | 
+| Light | Reassure Ebon Hawk former owner | Mid Light | 2/0 | 2 | 67 | 73 | 
+| Light | Heal Geriel | Low Light | 1/0 | 1 | 68 | 74 | 
+| Light | Persuade Saquesh to free Adana | Low Light | 1/0 | 1 | 69 | 75 | 
+| Light | Saquesh will no longer pressure refugees | Low Light | 1/0 | 1 | 70 | 76 | 
+| Light | Help Aiida and Lootra reconnect | Mid Light | 2/0 | 2 | 72 | 78 | 
+| Light | Help Geeda establish trade routes | Low Light | 1/0 | 1 | 73 | 79 | 
+| Light | Lie to Geredi | Low Dark | 0/1 | -1 | 72 | 80 | 
+| Light | Find a pilot for the Lunar Shadow Crew | Low Light | 1/0 | 1 | 73 | 82 | 
+| Light | Be nice to Visas | High Light | 4/0 | 4 | 77 | 85 | 
+| Light | Stand up for Visas when talking to Kreia | Low Light | 1/0 | 1 | 78 | 86 |
+
+Alignment is not as important in this game, as we don’t use any equipment restricted by alignment. We do, however, stay on Light Side/Neutral in order to obtain Mira at Nar Shaddaa, as she is used for Goto’s ship segment to pass by the many deadly mines quickly without blowing them up, and to obtain deadly mines for Hanharr 2 later on at Malachor V.  
+We also try to get as many LSP as possible during the first half of Nar Shaddaa to get us to 75 Alignment so that we can enter the Sith Tomb on Korriban. The Sith Tomb wont let you enter unless you are at least at 25 or 75 alignment respectively.
 
 ## Route Overview
 
@@ -335,9 +348,9 @@ The reasoning for the middle planets:
 - We do Dantooine first, as there is little to no combat necessary until the end, and to obtain all the parts for our lightsaber as fast as possible.
 - We do Dxun and Onderon 1 straight after since we have a lightsaber we can force jump, and to unlock Geeda’s guaranteed wares that require Dantooine and Onderon 1 to be completed.
 - Nar Shaddaa is done next as per our alignment route we need to get to 75 or higher in order to enter the Sith Tomb on Korriban. Plus we want to unlock Geeda’s upgraded wares, which is crucial for our build.
-- Next we head to Korriban to find Master Vash and complete the Sith Tomb, if Kreia does not allow you to enter the tomb here then your run will end.
+- Next we head to Korriban to find Master Vash and complete the Secret Tomb, if Kreia does not allow you to enter the tomb here then your run ends.
 - We go back for Dxun and Onderon 2 as part of the main quest, this only unlocks after completion of another planet, post Dxun/Onderon 1.
-- Back to Nar Shaddaa! Finally we get to use the 10 Frag Mines that we bought from Kex on Dxun! These are used in some quite combat intensive segmants with Atton and Mira. Plus we have a whole bunch of side quests and main quests to complete here still.
+- Back to Nar Shaddaa! Finally we get to use the 10 Frag Mines that we bought from Kex on Dxun! These are used in some quite combat intensive segments with Atton and Mira. Plus we have a whole bunch of side quests and main quests to complete here still.
 
 ## Detailed Route
 
@@ -355,11 +368,11 @@ Notation:
 - `Shopping trips are highlighted in large code blocks`
 
 Conversation Notes:
-If no conversation choices are specified, spamming will work (this chooses all 1 options).
-\| indicates a break in the conversation. You will have to talk to the person again.
-`->` indicates a secondary part to the conversation. This is different from \|  in that the conversation automatically initiates, rather than having to talk to the same person.
-`#xY` indicates repeat that option Y times, as in our first conversation with Kreia during our Ebon Hawk to Telos segment.
-`#x-` indicates the rest of this conversation uses that particular number, generally used to indicate conversation spam not using 1 (e.g Saedhe's conversation: 2x-)
+If no conversation choices are specified, spamming will work (this chooses all 1 options).<br>
+\| indicates a break in the conversation. You will have to talk to the person again.<br>
+`->` indicates a secondary part to the conversation. This is different from \|  in that the conversation automatically initiates, rather than having to talk to the same person.<br>
+`#xY` indicates repeat that option Y times, as in our first conversation with Kreia during our Ebon Hawk to Telos segment.<br>
+`#x-` indicates the rest of this conversation uses that particular number, generally used to indicate conversation spam not using 1 (e.g Saedhe's conversation: 2x-)<br>
 
 **Jump to a Section:**
 - [Prologue](#prologue)
@@ -388,7 +401,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Custom Character
 - Str - 18, Dex - 14, Con - 14, Wis - 10
 - TI - 4
-- Feat: Weapon Focus: Melee Weapons
+- Feat - Weapon Focus: Melee Weapons
 - Pick a name (or don't)!
 - Hit Play!
 
@@ -421,7 +434,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 ## Peragus
 
 ### Administration Level
-- Mouse click through Kotlo cutscene (Some of it is skippable).
+- Mouse click through Kolto cutscene (Some of it is skippable).
 - Head through the door in front of you and the door on the left.
 - Use the Console: 4,3,6
 - Head into the morgue and loot the Corpse for a Plasma Torch.
@@ -435,9 +448,8 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Kreia accosts you: 1x-
 - Bash the two footlockers in the next room and head straight to the administration console: 1x-
 - Kreia accosts you: 1x-
-- `>`
-  - *perform your first level up.*
-  - *From here we want to have Burst of Speed active as much as possible.*
+- `>` *Perform your first level up.*
+  - *From here you will want to have Burst of Speed active as much as possible.*
 - Cast Burst of Speed straight after your level up and run to where Atton is in a cell.
 - Kreia accosts you: Mouse spam
 - Open the Door.
@@ -452,7 +464,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Head through the now opened door to the Fuel Depot.
 - Head straight and then left for the console: 3,1,2
 - Watch T3 get zapped. :(((
-- Atton speaks to you: 1x- -> 1x- (`+`1 LSP)
+- Atton speaks to you: 1x- -> 1x- (+1 LSP)
 - Cast Burst of Speed and head into the Mining Tunnels. 
 
 ### Mining Tunnels
@@ -461,16 +473,18 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Loot the Broken Droid in the same room.
 - Head through to the left and loot the next Broken Droid you come across for a Sonic Grenade.
 - Cast Burst of Speed.
-  -  *Loot all corpses (including the one hidden in a room).*
+  -  *Loot all corpses that are in the direct route through the module.*
   -  *We are looking for at least 1 Alacrity stim here otherwise the rest of the run to the space walk will be a bit slower. It is recommended while learning the route to loot the corpses but not stress about getting a stim.*
-- There should be 4 corpses before the Console.
+- There is 2 corpses that are in direct line to the Console, depending on how you are for time you can go slightly out of your way for the 2nd corpse before the gas tunnel. Although it isn't necessary.
+- Don't stress if you don't get a stim, just keep moving!
 - Use the console: 2,1 -> 2
 - Continue through and loot the last corpse on your way.
 - Exit the Mining Tunnels to the Fuel Depot, mouse spam until dialog.
 
 ### Fuel Depot and Space Walk
-- HK-50 accosts you: 1x21,4 (`+`2 LSP)
+- HK-50 accosts you: 5,1x9,2,2 (+2 LSP)
 - Loot the maintenance officer corpse.
+  - *This is only important if you didn't get an alacrity in the Mining Tunnels, if you did get one you can just keep moving.*
 - Head south to the door and then turn right.
 - Mouse spam through short cutscene.
 - Run past the MK2 Mining Droids and turn right.
@@ -507,7 +521,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 ### Harbinger
 - `+` Select Bash on the door to your left.  `\ \`
 - Run to the right, open the door and cast Burst of Speed.
-- Some dialogue will trigger.
+- Some dialog will trigger.
 - Select Bash on the next door.  `\ \`
 - Run to the Navicomputer: 1,1,2  `\`
 - Follow the path through 2 doors to enter Harbinger Crew Quarters.
@@ -557,11 +571,11 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Kill all the Sith Troopers in the Turret minigame, after it ends spam 1.
 
 ## Ebon Hawk to Telos
-- Immediate dialog cutscene after the load screen: 6,2 -> 4,3,3 (`+`1 LSP -> `+`1 LSP)
+- Immediate dialog cutscene after the load screen: 6,2 -> 4,3,3 (+1 LSP -> +1 LSP)
 - Cast Burst of speed, turn around and run through to the right to where Kreia resides on the Ebon Hawk.
-  - Now we have quite a lengthy conversation with Kreia so it is a good idea when learning to make a save here just incase you make a mistake, this will give us `+`8 LSP, if not done correctly you will not be able to finish Korriban.
-- Speak to Kreia: 2x7,1,3,1x10,4,3,2,1x6,2,1 (`+`8 LSP)
-- Now run back to the Cockpit and speak to Atton: 1x- (`+`1 LSP)
+  - *Now we have quite a lengthy conversation with Kreia so it is a good idea when learning to make a save here just incase you make a mistake, this will give us +8 LSP, if not done correctly you will not be able to finish Korriban.*
+- Speak to Kreia: 2x7,1,3,1x10,4,3,2,1x6,2,1 (+8 LSP)
+- Now run back to the Cockpit and speak to Atton: 1x- (+1 LSP)
 - Use the Galaxy Map and select Telos. (1 left)
 
 ## Telos
@@ -574,7 +588,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 ### Czerka Route
 
 #### Telos Citadel Station
-- Lieutenant Grenn accosts you: 3,2,1
+- Lieutenant Grenn accosts you: 1,1,1
   - *Handmaiden steals the Ebon Hawk cutscene.*
 - Grenn speaks to you in jail: 1
 - False Batu Rem enters the room: 1x-
@@ -631,11 +645,11 @@ Buy:
 ```
 Buy:
 - 30-35 Medpacs
-  - *Or less, making sure to remain above 1525 credits.*
+- This will more than likely be a lot less, making sure to remain above 1525 credits.
 ```
 
 - `\` Enter Dock Module 126.
-- Speak to the Ithorian: 1 `+ \ \`
+- Speak to the Ithorian: 1,1 `+ \ \`
   - *Swapping between Kreia and MC.*
   - *Remember the Party Swaps can reverse.*
 - Access Information Terminal: 2
@@ -726,7 +740,7 @@ Buy:
 - Defeat the ranged Droids and Mercenaries that can see you when you are at Lorso's desk, then speak to her.
 - Jana Lorso: 1,1
 - Proceed to exit Czerka to 082 East.
-- Cast Burst of speed and access the Information Terminal to transit to Dock Module 126.
+- Cast Burst of speed and access the Information Terminal to transit to Dock Module 126: 2,1
 - Run down to Bay 3 and speak to the Duros: 1
 - Access the Airlock Terminal: 1
 - Run to the back of the Shuttle to leave Citadel Station: 1
@@ -738,7 +752,7 @@ Buy:
 ### Ithorian Route
 
 #### Telos Citadel Station
-- Lieutenant Grenn accosts you: 3,2,1
+- Lieutenant Grenn accosts you: 1,1,1
   - *Handmaiden steals the Ebon Hawk cutscene.*
 - Grenn speaks to you in jail: 1x-
 - False Batu Rem enters the room: 1x-
@@ -798,7 +812,7 @@ Buy:
 ```
 Buy:
 - 30-35 Medpacs
-  - *Or less, making sure to remain above 1525 credits.*
+- This will more than likely be a lot less, making sure to remain above 1525 credits.
 ```
 
 - `\` Enter Dock Module 126.
@@ -866,11 +880,13 @@ Buy:
 - Once back at TSF, head to the Information Terminal and transit to 082 East: 2,2
 - Enter Czerka, speak to B4-D4: 2,1,1
 - 1x- until we gain control of B4-D4.
-- Head to Czerka, speak to Jana Lorso: 1x-
+- Head to Czerka with the Information Terminal: 2,3
+- Enter Czerka and speak to Jana Lorso: 1x-
 - Enter the Czerka Mainframe, T1-N1 accosts you: 1x-
   - *Continue to mouse click to skip some dialog as the cutscene plays with T1-N1 leaving the mainframe.*
 - Click on the Mainframe Console: 1x-
-- Exit Czerka and head back to speak with Chodo: 1x- \| 1x-
+- Exit Czerka, use the Terminal to fast travel: 2,3
+- Speak with Chodo: 1x- \| 1x-
 - `>` Cast Burst of Speed and head to the Information Terminal to transit to Dock Module 126: 2,1
 - Moza contacts you, Czerka's Mercenaries are attacking the Ithorians: 1x-
 - Speak to the Ithorian to open Docking Bay 2 door: 1
@@ -893,16 +909,17 @@ Buy:
   - *Here it is quickest to kill the non shielded enemies immediately, and try to get the two shielded ones next to each other. Throw Ion Grenades, keeping 3 at minimum, to defeat the shielded enemies. Afterwards place Bao-Dur and Kreia away from the fight so they are out of combat. It is essential that both of them stay alive or we will be stuck trying to defeat enemies here.*
 - Head up the ramp and destroy the two turrets and kill the two enemies. `\`
 - Cast Burst of Speed. `\ \`
-- Wait until combat ends, *Swords will drop*, and click on the console. (Don’t spam until you see the cursor disappear else you have a high chance of skipping the cutscene which is considered a bug and makes your run invalid!)
+  - Wait until combat ends, *Swords will drop*, and click on the console.
+  - *Don’t spam until you see the cursor disappear else you have a high chance of skipping the cutscene which is considered a bug and makes your run invalid!*
 - `+` Run MC into the Military Base.
 
 ### Military Base
 - This is one of the most difficult segments, Bao-Dur has a lot of chances to get stunned which can lose us a lot of time. We just have to make it through as quickly as possible, if you get stunned try your best to keep him healed and keep his shield active. Heal with medpacs as necessary.
-*If you are still learning the route, it is recommended to make a manual save at the beginning.*
+  - *If you are still learning the route, it is recommended to make a manual save at the beginning.*
 
 - `} +` Unequip Plasma Torch from MC  `\`
 - `}` Equip Energy Shield to Kreia  `\`
-- `}` Equip Plasma Torch, best Armor and Energy Shield to Bao-Dur. 
+- `}` Equip Plasma Torch, Mining Uniform and Energy Shield to Bao-Dur. 
 - Activate 1x Alacrity and 1x Stamina stim.
   - *Heal Bao-Dur with Medpacs now if he has low HP.*
 - Select Bash on the Force Field, this will trigger a cutscene showing that Bao-Dur can bash these Force Fields.
@@ -920,7 +937,7 @@ Buy:
 - Continue through to the room with the console and 3 droids.
 - Access the console to destroy the droid charging stations and proceed to the Reactor.
 - Once you have opened the last Force Field:
-- `}` Unequip Plasma Torch, Armor and Energy Shield  `\ \`
+- `}` Unequip Plasma Torch, Mining Uniform and Energy Shield  `\ \`
 - `}` Equip Plasma Torch to Kreia  `\`
 - Activate the reactor with the console.  `\`
 - Cast Burst of Speed.  `\`
@@ -936,7 +953,7 @@ Buy:
 - Mouse click spam through HK-50 cutscene.
 
 ### Polar Plateau
-  - *Different from any% glitchless route!*
+*This section is different from any% glitchless route!*
 - Mouse click through to HK-50 dialog, end dialog: 4
   - *Immediately pause (Spacebar).*
 - Pseudo-stim set -Battle stim.
@@ -948,8 +965,9 @@ Buy:
 ### Polar Academy
 - Handmaiden talks to you: 2
   - *On legacy client/version (not steam or GOG) you will need to do '1,3', since the option above softlocks you.*
+- Mouse spam through Kreia/Atton dialog.
 - Atris talks to you: 5,1,6,4
-- Once Atris door closes, cast Burst of Speed and head to the prison room: 1,7,1 -> 1x-
+- Once Atris door closes, cast Burst of Speed and head to the prison room: 1,7,1x- -> 1x5
 - When party selection is prompted, take no one.
 - Head towards the Ebon Hawk, T3 accosts you: 1x- -> 1
 - Cast Burst of Speed, enter the Ebon Hawk: 1
@@ -960,8 +978,8 @@ Buy:
 - 1 spam through the rest of the cutscenes.
 - Cast Burst of Speed, run to the cockpit and speak to Atton: 2,2,1,2,1
   - *If you have accidentally spoken to Atton at any point prior to this conversation, the dialog options may differ.*
-- Exit the Pazaak Menu, use the Galaxy Map and select Dantooine.
-  - *Dantooine is one click of the keyboard left arrow.*
+- Exit the Pazaak Menu, use the Galaxy Map and select Dantooine. (1 left)
+  - *Dantooine is an instant travel.*
 
 ## Dantooine
 
@@ -981,14 +999,13 @@ Buy:
 Sell:
 - Exchange Negotiator
 - Benoks Blaster
-**Buy:**
-- 4 Advanced Medpacs
-- 20x Medpacs
+Buy:
+- 4x Advanced Medpacs
 - 7x Alacrity
 - 5x Strength
 - 5x Stamina
-- 12x Battle Stim
-- THIS ALL NEEDS TO BE CHECKED - ALONG WITH ENTIRE CREDIT ROUTE UP TO THIS POINT
+- 11x Battle Stim
+If you have <10 Medpacs, buy enough to get to 20. If >20 don't buy any.
 ```
 
 - Go speak to Zherron: 1,2,1,5,5  `\`
@@ -1005,7 +1022,7 @@ Sell:
 
 ### Enclave Sublevel
 - `+ ^`
-  - *Swapping to the Plasma Torch, equip it now if it was automatically removed.*
+  - *Swapping to the Plasma Torch,* `}` *equip it now if it was automatically removed.*
 - Cast Burst of Speed and activate 1x Alacrity Stim.
 - Head through the right corridor, loot the first Salvager Corpse on your way to Disciple.
 - Bash open the door to Disciple
@@ -1029,15 +1046,18 @@ Sell:
 - `+ \`
 - Cast Burst of Speed.  `\`
 - Speak to Saehde: 2,2,2,2
-- `}` Equip 2x Vibroswords. `^`
+- `^ }` Equip 2x Vibroswords.
 - Enter Kinrath Cave.
 - `+ \`
 - Cast Burst of Speed.  `\`
 - Psuedo-Stim Set (We have Battle Stims now!) on your way to the Crystal Area.
 - Cast Force Valor after Kreia accosts you: 4
-- `>`
-  - *Use your level up for healing while fighting the Matriarch. If you need more health try to avoid using the Advanced Medpacs if you can.*
+- `>` *Use your level up for healing while fighting the Matriarch. If you need more health try to avoid using the Advanced Medpacs if you can.*
 - Attack and kill only the Matriarch.
+  - ***Optional**: You can try looting all but the 3 Crystal Formation's, after defeating the Matriarch, for a chance to loot a Crystal, Nextor!*
+  - *There is also a chance for the Matriarch to have remains which may also contain a Crystal, Nextor also!*
+  - *If you do manage to loot a Crystal, Nextor you won't have to do the shopping trip with Oondar!*
+  - *You may also loot some other decent crystals to upgrade your first lightsaber at the start of Dxun.*
 - Head back to where Vrook is captured by the Mercenaries: 1
 - Cast Force Valor.  `\`
 - Cast Burst of Speed.  `\`
@@ -1072,10 +1092,15 @@ Sell:
 - Vrook thanks you for your help, kinda: 9
 - Mouse spam through Vrook teaching you Ataru.
 - Cast Burst of Speed and exit to Khoonda Plains to go back to the Ebon Hawk.
-- Enter the Ebon Hawk
-- Spam through any cutscenes.
-- Speak to T3 to get more computer spikes: 6,2x-
-- Fly to Dxun (Onderon).
+
+### Visas
+- Use 1x Strength Stim and 1x Battle Stim before entering the Ebon Hawk.
+- Visas approaches you: 1
+- Cast Burst of Speed as soon as you gain control.
+- Attack Visas until she is at or below half HP.
+- Following conversation: 1,1 -> 4,1 -> 1
+- Cast Burst of Speed, run and speak to T3 to get more computer spikes: 6,2x-
+- Head to the Galaxy Map and fly to Onderon. (3 left)
 
 ## Dxun
 
@@ -1083,7 +1108,12 @@ Sell:
 - Space Encounter: 2,3,4,4,1
 - Cast Burst of Speed.
 - Talk to Bao-Dur to make your Lightsaber: 4,4,2
+  - *If you looted a color crystal on Dantooine, the above option may be 4,4,2,1. *
 - `}` Equip Lightsaber in Main Hand.
+- `}` *You could also equip a second lightsaber if you by chance have one at this point.*
+  - Now would be a perfect time to upgrade your lightsaber(s) if you managed to loot any decent crystals on Dantooine, if you got a 'Crystal, Nextor', add that to your main lightsaber along with any other quick upgrades you can squeeze in.
+  - These lightsaber upgrades may lose you approximately 5 seconds here, but it will save some time with combat on Dxun.
+- Access the Workbench: 2
 - Exit Ebon Hawk choose Kreia and T3 for your party.
 - `+` Kreia casts Burst of Speed.
 - Activate 1x Alacrity Stim.
@@ -1101,11 +1131,11 @@ Sell:
 ### Dxun Jungle
 - Cast Burst of Speed.  `+ \`
 - Follow along the path drawn on the map below as you make your way through this section:
-  - *MC is Blue.*
+  - *MC is Green.*
   - *Kreia is Orange.*
   - *Cannoks are Red X's.*
 
-![Dxun Jungle Map](https://cdn.discordapp.com/attachments/808151224842977353/813297903187263498/unknown.png)
+![Dxun Jungle Map](https://i.imgur.com/S8bZeNi.png)
 
 - Run to your left and cast Force Valor to kill the first Cannok at #5.
 - Loot the Cannok.
@@ -1117,8 +1147,8 @@ Sell:
   - *Swap to Kreia for casting Burst of Speed if you need it while running around the jungle. We want to save as much of our FP for Force Valor to fight the Zakkeg.*
 - Follow the path toward the second Cannok, #8, apply Psuedo-Stim Set on your way.
 - Kill and loot Cannok.
-- Continue to the Zakkeg at #9, cast Force Valor before attacking. `>`
-  - *Heal with your level up if needed, it is also best to try to save the Advanced Medpacs here if you can.* 
+- Continue to the Zakkeg at #9, cast Force Valor before attacking.
+- `>` *Heal with your level up if needed, it is also best to try to save the Advanced Medpacs here if you can.* 
 - Loot the Zakkeg and the 2 corpses in this area.  `\ \`
 - Run Kreia to Kelborn at #10: 1,3,5,1
   - *This switches Kreia and MC's positions.*
@@ -1149,12 +1179,13 @@ Sell:
 - Wait for Davrels name to be Red and cast Burst of Speed.
 - Cast Burst of Speed.
 - `}` Equip Lightsaber and Vibrosword.
+  - } *2 Lightsabers if you have them!*
 
 ### Sith Ambush
 - Run and speak to Mandalore: 1x- -> 1x-
 - `=` Click 'OK' when prompted with Party Selection screen.
 - `>` Cast Knight Speed.  `+`
-- * *We can Level up whenever we get them from here, or where ever suits you.*
+  - *We can level up whenever we get them from here, or where ever suits you.*
 - Use Psuedo-Stim Set.
 - Head past the Battle Circle to watch a cutscene with Kelborn, this will take us to the other area of the fight.
 - Run towards the door to where Mandalore is, this will spawn in more Sith Assassins.
@@ -1204,8 +1235,8 @@ Sell:
 - Run through past Kiph into the east room, speak to Panar twice: 1x- \| 2,1,1,1  `\ \`
 - Exit to Western Square.  `\ \`
 - `+` Cast Knight Speed.
-- Talk to 1B-8D Merchant Droid, north of the Cantina Entrance: 1x-
-- Talk to 1B-8D: 1x-
+- Talk to 1B-8D Merchant Droid, north of the Cantina Entrance: 1,1,1
+- Talk to 1B-8D: 1
 
 ```
 Buy:
@@ -1251,7 +1282,7 @@ Sell:
 
 ### Leave Onderon
 - `+` Run and exit to Merchant Quarter.
-- Run forward, Onderon Soldier accosts you: 1,1
+- Run forward, Onderon Soldier accosts you: 4
 - `+` Cast Knight Speed, run towards exit to Iziz Spaceport.
 - Mouse spam through Onderon Solider cutscene.
 - Get to the exit to Iziz Spaceport.
@@ -1263,7 +1294,7 @@ Sell:
 
 ### Kex Shopping
 - Mandalore speaks to you: 1
-- Cast Knight Speed
+- Cast Knight Speed whenever it runs out
 - Run and speak to Kex to shop: 1
 
 ```
@@ -1279,21 +1310,13 @@ Buy:
 	
 - Cast Knight Speed.
 - Speak to the Mandalorian Guide: 1
-
-### Visas
-- Use 1x Strength Stim and 1x Battle Stim.
 - Turn 180° and enter the Ebon Hawk.
-  - *We will have to fight Visas once we enter, if Visas doesn't trigger your run ends here.*
-  - *Cast Knight Speed before the fight.*
-- Visas approaches you: 1
-- Attack Visas until she is at or below half HP.
-- Following conversation: 1,1 -> 4,1 -> 1
-- Cast Knight Speed.
-- Fly to Nar Shaddaa, Atton says something about Nal Hutta: 5
+- Fly to Nar Shaddaa. ()
 
 ## Nar Shaddaa 1
 
 ### Landing Pad
+- Atton says something about Nal Hutta: 5
 - Watch/mouse spam Goto cutscene.
 - 5,6 -> 7,7
 - `=` Select Kreia when prompted.
@@ -1311,7 +1334,7 @@ Buy:
 
 ```
 Buy:
--HK Chassis
+- HK Chassis
 ```
 
 - Proceed to speak to IT-31: 1x-
@@ -1384,19 +1407,20 @@ Buy:
 - Speak to Oondar: 1x-  `\`
 - Speak to Geeda: 1x-, exit shop.  `\ \`
 - Speak to Oondar twice: 1x-
+  - *If you looted a Crystal, Nextor on Dantooine, just speak to him once and skip his shopping sequence.*
 
 ```
 Buy:
--Crystal, Nextor
+- Crystal, Nextor
 ```
 
 - `\` Speak to Geeda: 1,3,1x-
 
 ```
 Buy:
--Jal Shey Neophyte Armor
--Crystal, Opila
--Power Implant
+- Jal Shey Neophyte Armor
+- Crystal, Opila
+- Power Implant
 ```
 
 - `\ \` Speak to Oondar for the last time: 1x-
@@ -1528,23 +1552,23 @@ Buy:
   - *This will select Visas as Party Leader, along with Mandalore and Disciple accompanying her. We want Mandalore and Disciple because they can soak up some hits for the end fight in the tomb.*
 - Manual Level Up Visas:
 
-`**Level up 1.**
--Skills: Recommended
--Feats: Improved Two-Weapon Fighting
--Powers: Burst of Speed
+**Level up 1.** <br>
+- Skills: Recommended <br>
+- Feats: Improved Two-Weapon Fighting <br>
+- Powers: Burst of Speed <br>
 
-**Level up 2.**
--Attributes: Recommended
--Skills: Recommended
--Powers: Force Valor
+**Level up 2.** <br>
+- Attributes: Recommended <br>
+- Skills: Recommended <br>
+- Powers: Force Valor <br>
 
-**Level up 3.**
--Skills: Recommended
--Feats: Stealth Run
--Powers: Knight Speed`
+**Level up 3.** <br>
+- Skills: Recommended <br>
+- Feats: Stealth Run <br>
+- Powers: Knight Speed <br>
 
 - Auto-Level Up all 3 party members.
-  - *The rest of the Freedon Nadd section is completed the same as Sanjan's Any% - Glitchless route.*
+  - *The rest of the Freedon Nadd section is completed the same as the any% glitchless route.*
 - `+` Cast Knight Speed.
 - Xarga speaks to you: 1x-
 - Run forward past the Boma's until Xarga accosts you: 1x-
@@ -1587,10 +1611,10 @@ Buy:
 - Cast Knight Speed.
 - Auto Level Up Kreia and T3-M4.
 - Enter Sky Ramp
-- Equip MC: Sith Power Gauntlets, MC's Armband, Upgraded Lightsaber (Mainhand), Freedon Nadd's Short Lightsaber (Offhand)
+- `}` Equip MC: Sith Power Gauntlets, MC's Armband, Upgraded Lightsaber (Mainhand), Freedon Nadd's Short Lightsaber (Offhand)
 - Run through to the Palace, keep Knight Speed active as you go.
   - *Pro Tip: Using the Plasma Torch on the Force Fields is quicker than using your Lightsabers.*
-  - *Make a safety save right before entering the Palace, the game is prone to crashing here.*
+  - *It is recommended to make a safety save right before entering the Palace, the game is prone to crashing here.*
 - Enter the Palace.
 
 ### Palace
@@ -1697,8 +1721,8 @@ Buy:
 - Tien Tubb: 1,1 -> 5,6
 
 ### Goto's Yacht
-Once on Goto's Yacht, follow the map below for the fastest path:
-* *Make sure Visas stays cloaked for the first portion. If she gets detected it can be hard to continue. Consider making a safety save before performing these steps.*
+- Once on Goto's Yacht, follow the map below for the fastest path:
+  - *Make sure Visas stays cloaked for the first portion. If she gets detected it can be hard to continue. Consider making a safety save before performing these steps.*
 
 
 
@@ -1872,43 +1896,51 @@ Once on Goto's Yacht, follow the map below for the fastest path:
 ![Trayus Academy route map 2](https://cdn.discordapp.com/attachments/808151224842977353/813310920792473610/unknown.png)
 
 - You will be running through a lot of enemies in here, make sure to keep an eye on MC's HP and heal as needed.
-- Keep Knight Speed active as much as possible.
+  - *Cast Knight Speed at the start of each new module that you enter.*
+- On entering the last module, the one where we meet Sion, activate your Hyper Stim set.
 
 ### Sion
 - Sion stops you: 8
-- Immediately pause (spacebar), activate Hyper Stim set.
-- You'll need to bring Sion's HP to 1 a total of 4 times.
-- 1 spam through his dialog after each phase.
+  - *You'll need to bring Sion's HP to 1 a total of 4 times.*
+  - *1 spam through his dialog after each phase.*
 - Once he's dead, head to the Trayus Core.
 
 ### Traya
 - Cast Force Enlightment before proceeding.
 - Traya: 4,4
-- First Phase, Force Jump to her as she has a small chance of using stunning Force Abilities on you, this should tank her and be able to avoid it.
+- First Phase, Force Jump to her as she has a small chance of using stunning force abilities on you, this should tank her and be able to avoid it.
 
 - Second Phase: 4,4
 - Immediately pause as all buffs were ended at the end of the first phase.
-- Activate whatever Hyper stims you have left plus regular stims of the others.
+- Activate whatever Hyper stims you have left.
+  - *Plus regular stims of whatever you don't have that's hyper.*
 - Cast Force Enlightment again and hit her. Heal up as needed, as the floating lightsabers hurt.
 - Time ends on the last hit on Traya, GG!
 
 ## Version History
 
-### v2.0 (Some thanks extended to 30Cents, February 2023-FINISHED?)
+### v2.0 (Some thanks extended to 30Cents, February-November 2023)
+- Level Up notes for levels 2-9 added to Levelling Plan.
 - Added looting Kreia's corpse during the Prologue for the Locker Key.
 - Added looting the Locker in the Cargo Hold for an extra Computer Spike.
 - Updated 'Prologue' route.
 - Updated 'Fuel Depot - T3 Section' route.
-- Updated dialogue with HK-50 on Peragus; giving us `+`2 LSP.
-- Updated dialogue during 'Ebon Hawk to Telos'; giving us `+`1 LSP (`+`1 more than previous iteration).
+- Updated dialog with HK-50 on Peragus; giving us +2 LSP.
+- Updated dialog during 'Ebon Hawk to Telos'; giving us +1 LSP (+1 more than previous iteration).
+- Added looting 3x Crystal Formation in Dantooine's Crystal Cave.
+- Added looting Kinrath Matriarch.
+- There's now a chance to loot 'Crystal, Nextor' in the Dantooine Crystal Cave, instead of purchasing one from Oondar on Nar Shaddaa.
+- Added the option to upgrade lightsaber before the start of Dxun at the cost of ~5s but to potentially save a lot of time with combat.
+- Visas now arriving at the end of Dantooine on 50 alignment point shifts.
+- Alignment route updated due to Visas showing up at the end of Dantooine.
 - Credits Route and Shopping Trip updated for Telos Station - Samhan Dobo.
 - Credits Route and Shopping Trip updated for Telos Station - Dendis Dobo.
 - Credits Route and Shopping Trip updated for Dantooine - Adum Larp.
-- T3-M4 taken to Sky Ramp/Palace instead of Atton.
-- Pontite Crystal looted in the Palace on Onderon.
-- Due to looting in the Palace we no longer get Ossus Keeper Robes.
-- New Goto's Yacht route (saves ~1 minute).
-- Update to Atris fight dialog in endgame (saves 35 seconds over previous iteration).
+- The route now brings T3-M4 to Sky Ramp/Palace instead of Atton.
+- Palace route changed to loot 'Crystal, Pontite'.
+- Due to looting in the Palace we no longer receive the Ossus Keeper Robes.
+- Added new Goto's Yacht route found by Ninko (saves ~1 minute).
+- Updated dialog for endgame Atris Fight (saves 35 seconds).
 
 ### v1.7 (January 2023)
 - Sped up Prologue by choosing to Skip the Prologue instead of using the Galaxy Map to select Peragus. (Thanks to 30cents)
