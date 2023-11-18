@@ -139,10 +139,15 @@ The only guaranteed headgear we can obtain, this gives us a +1 to attack and +1 
 - Obtained from Sith Lord at Freedon Nadd’s Tomb
 This is used for the +3 Strength; which gives us a lot of damage and accuracy.
 
-**Body**: Jal Shey Neophyte Armor
+**Body 1**: Jal Shey Neophyte Armor
 - Obtained from Geeda on Nar Shaddaa (570 credits)
 At the beginning, we only have easy access to the Mining Outfit that gives us +1 defense.
 We use the Jal Shey Armor then for its defense and dexterity bonus.
+
+**Body 2**: Ossus Keeper Robes
+- Obtained as a reward from Queen Talia during Onderon 2.
+At the beginning of The Ravager we can swap to the Ossus Keeper Robes for a bigger force point pool, and for better resistance against Sion/Traya’s force powers (+4 Wisdom, +4 Intelligence, +2 Charisma).
+Beginners can opt to keep the Jal Shey Neophyte Armor, as it provides more defense for the late game.
 
 **Main Hand**: Single Lightsaber
 - Crafted by Bao-Dur after Dantooine
@@ -157,8 +162,8 @@ Provides a high critical threat range, which makes our critical hits stronger. I
 Grants us the Keen effect, which gives us a 10% increased chance to crit. It also adds a flat +3 to damage, and is very cost effective.
 
 **Crystal 3**: Pontite
-- Looted from the Onderon Palace, Museum Treasure.
-Giving us Damage Bonus +1-10 Cold and Charisma +2, this will replace Crystal, Nextor in the Onderon Palace.
+- Obtained as a reward from Queen Talia during Onderon 2.
+Giving us Damage Bonus +1-10 Cold and Charisma +2, this will replace Crystal, Nextor after the Onderon Palace.
 
 **Off-Hand**: Freedon Nadd's Short Lightsaber
 - Obtained from Freedon Nadd’s Tomb
@@ -167,9 +172,8 @@ This is a very good off-hand weapon that increases our accuracy while having hig
 **Belt**: None. Or the best belt you looted
 - There are no good guaranteed belts we can purchase for an affordable price. See itemization below for things you are looking for in a belt.
 
-**Shield Slots**: MC's Armband, Energy Shield
-- The Armband gives us +1 to Constitution, which in turn gives MC more HP.
-The Energy Shield is equipped to mitigate damage from blasters, which is primarily used at Peragus when walking through mines. There are a couple sections in this run where Energy Shields will be helpful for MC and other party members.
+**Shield Slots**: Energy Shield, (or any other shield you choose to use)
+- The Energy Shield is equipped to mitigate damage from blasters, which is primarily used at Peragus when walking through mines. There are a couple sections in this run where Energy Shields will be helpful for MC and other party members.
 
 The majority of our equipment is attained in Nar Shaddaa. For the early game, we will make use of a pair of Vibroswords, though some exceptions can be made depending on the randomization the shops have.
 
@@ -413,7 +417,7 @@ T3 gets zapped and control transitions to MC
 - Head to the bridge as Kreia to the console: 1,1,2
 - Break the next door as MC and run to the next area.
 - Turn on solo mode and run straight until prompted: 3
-- Loot the footlocker for MC’s armband, then make your way to the next area.
+- Then make your way to the next area.
 - Run forward for a conversation with Atton: 1 spam
 - Watch the long cutscene with Sion and Kreia, then open the room straight ahead.  
 - Break and loot the footlocker closest to the console for a vibroblade, then interact with the console (1 spam)
@@ -803,7 +807,7 @@ All other items as needed to get 2000 credits EXCEPT:
 <br>
   - *DO NOT LEAVE THE EBON HAWK AFTER THIS CUTSCENE UNTIL THE FOLLOWING MENU HAS BEEN DONE*
   - `}` Unequip MC’s weapons + Plasma Torch (give them 1 spare lightsaber for Force Jump)
-  - `}` Give Visas (change 2 right): Lightsaber Mainhand + any Offhand Lightsaber OR Vibrosword if all double sided lightsabers, Energy Shield, MC's Armband, Stealth Field Generator, Targeting Visor
+  - `}` Give Visas (change 2 right): Lightsaber Mainhand + any Offhand Lightsaber OR Vibrosword if all double sided lightsabers, Energy Shield, Stealth Field Generator, Targeting Visor
 <br>
 - Once Visas is equipped, now is the time to do a memory reset if you aren't doing it at the start of Dxun.
 - Simply make a save and Alt-F4 your game, open it again and load the save.
@@ -929,12 +933,12 @@ All other items as needed to get 2000 credits EXCEPT:
 - Afterwards, loot the Sith for the Power Gauntlets.  Run to the sarcophagus to loot Freedon Nadd's Lightsaber.
 
 *YOU MUST UNEQUIP VISAS BEFORE TALKING TO XARGA AGAIN OR ELSE YOUR RUN ENDS HERE*
-  - `}` Unequip Visas's lightsabers, helmet, and MC's armband.
+  - `}` Unequip Visas's lightsabers, and helmet.
 
 ### Onderon Palace
 - Convo: 3 3
 
-- Take T3-M4 with you.
+- Take Atton with you.
 
 - Spam 1 through the entry dialog.
   - `}` Equip enhanced lightsaber on mainhand + Freedon Nadd's saber offhand, Sith Gauntlets, Power Implant, Jal Shey Armor, and Targeting Visor to MC.
@@ -942,9 +946,7 @@ All other items as needed to get 2000 credits EXCEPT:
 - Swap to Shi'en form here, and make your way to the palace.
 
 - Inside the palace, run forward, then turn on solo mode after the door closes.
-- Run MC through the path to your right (facing away from the now closed door) to the first door on your right.  
-- Open this door and loot the Museum Treasure to the left for Crystal, Pontite.
-- Head back out and follow the path to the second to last door where Kavar will greet you.
+- Run MC through the path to your right (facing away from the now closed door) to the second to last door where Kavar will greet you.
 - Spam Kavar's dialog. Head through the now open door further to find Captain Kadron.
 - Talk to Kadron: 1,1,3
 
@@ -962,13 +964,12 @@ All other items as needed to get 2000 credits EXCEPT:
 - If not done correctly, you will need to kill all the enemies in the room with MC.
 
 - If done right, use the console commands: 2,4
-- Swap to T3-M4 and enter the now opened room.
+- Swap to Atton and enter the now opened room.
 
-- Start the beast fight, have T3 run back to bring MC/Kreia into the room.
+- Start the beast fight, have Atton run back to bring MC/Kreia into the room.
 - Swap to MC, cast Knight Speed, activate a strength stim and kill the Drexyl Larva.
 
 - Spam 2 through this next cutscene.
-- Turn around and talk to T3 and upgrade our main lightsaber, replacing Crystal, Nextor with Crystal, Pontite.
 - Run forwards to watch Kavar pwn the attackers.
 - Run forwards again to watch Talia and Vaklu fight, then 1 spam to start the fight against Vaklu.  Cast Knight Speed again and kill him.
 
@@ -978,7 +979,9 @@ All other items as needed to get 2000 credits EXCEPT:
 - Kavar will teach you Juyo form.  Swap to this whenever you have control of MC again.
 
 - Go through more cutscenes and you'll end up in the jungle again with Visas (1 spam)
-- Enter the ship, watch more cutscenes, and fly to Dantooine.
+- Enter the ship to watch more cutscenes.
+- Use the workbench to upgrade our lightsaber, replacing Nextor Crystal with Pontite.
+- Fly to Dantooine.
 
 ## Jedi Masters
 
@@ -1002,6 +1005,7 @@ All other items as needed to get 2000 credits EXCEPT:
 
 ## Ravager
 
+- Equip the Ossus Keeper Robes when in control of MC. (New players can opt to not do this, this will give advanced players a bigger FP pool)
 - Run through the Ravager (turn on solo mode) and follow the map below on placing the Proton Cores.
 <br>
 [Ravager Proton Core route](https://i.imgur.com/UuvBiNL.png)
@@ -1101,13 +1105,12 @@ Traya: 4,4
 - Updated Alignment Route.
 - Updated Credit Route / Shopping trips to be more accurate and efficient.
 - Updated dialog for first HK-47 Encounter.
+- Removed looting MC's Armband from route since it doesn't grant us any bonuses.
 - Updated dialog during 'Ebon Hawk to Telos'; giving us +1 LSP (+1 more than previous iteration).
 - Updated dialog for Telos Station fast travel terminals.
 - Added new Goto's Yacht route found by Ninko (saves ~1 minute).
 - Corrected a few incorrect dialog options throughout.
-- The route now brings T3-M4 to Sky Ramp/Palace instead of Atton.
-- Palace route changed to loot 'Crystal, Pontite'.
-- Due to looting in the Palace we no longer receive the Ossus Keeper Robes.
+- Added lightsaber upgrade after Palace, replacing Nextor with Pontite.
 - Updated dialog for endgame Atris Fight (saves 35 seconds).
 
 ### v2.0 (Feburary 2021)
