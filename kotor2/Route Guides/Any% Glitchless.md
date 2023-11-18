@@ -436,7 +436,7 @@ T3 gets zapped and control transitions to MC
 - Immediate dialog cutscene after the load screen: 6,2 -> 4,3,3 (+2 Alignment Shift)
 - Cast Burst of speed, turn around and run through to the right to where Kreia resides on the Ebon Hawk.
   - *Now we have quite a lengthy conversation with Kreia so it is a good idea when learning to make a save here just incase you make a mistake.*
-- Speak to Kreia: 2,5,3,1,1,3,2,1,2,1,3,3,3,2,1,4,3,2,1x6,3,3 (+5 Alignment Shift)
+- Speak to Kreia: 2x5,3,1,1,3,2,1,2,1,3,3,3,2,1,1,4,3,2,1x6,3,3 (+5 Alignment Shift)
 - Now run back to the Cockpit and speak to Atton: 1x- (+1 Alignment Shift)
 - Use the Galaxy Map and select Telos. (1 left)
 
