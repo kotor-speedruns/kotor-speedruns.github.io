@@ -19,6 +19,7 @@ If you have additional questions, you can check out the KotOR Speedrunning Disco
 - [Alignment Route](#alignment-route)
 - [Route Overview](#route-overview)
 - [Detailed Route](#detailed-route)
+- [Version History](#version-history)
 
 ## Glitchless Ruleset
 
@@ -276,24 +277,24 @@ Here is the alignment route used in the run:
 | Neutral | Agree to let Atton out of Force Cage | Low Light | 1/0 | 1 | 52 | 2 | 
 | Neutral | Talk with Atton, post T3-M4 solo | Low Light | 1/0 | 1 | 53 | 3 | 
 | Neutral | Not shooting the Asteroids during escape | Low Light | 2/0 | 2 | 55 | 5 | 
-| Neutral | Long talk with Kreia on Ebon Hawk | Mid Light | 4/1 | 4 | 59 | 10 | 
-| Light | Talking to Atton before Telos | Low Light | 1/0 | 1 | 60 | 11 | 
-| Light | Help free the Sullustan from Mercenaries | Mid Light | 3/0 | 3 | 63 | 14 | 
-| Neutral | Bully Opo Chano for Droid Credentials | Mid Dark | 0/4 | -4 | 59 | 18 | 
-| Light | First Encounter with Handmaiden | Low Light | 1/0 | 1 | 60 | 19 | 
-| Light | Reassuing Bao-Dur (somewhat) | Low Light | 2/1 | 1 | 61 | 22 | 
-| Light | Reassure T3-M4 | Low Light | 1/0 | 1 | 62 | 23 | 
-| Light | Save Master Vrook | Low Light | 2/0 | 2 | 64 | 25 | 
-| Neutral | Dantooine (DS) Ending | High Dark | 0/8 | -8 | 56 | 33 | 
-| Neutral | Helping out Zuka | Low Light | 2/0 | 2 | 58 | 35 | 
-| Light | Don't hit people in Cantina | Low Light | 2/0 | 2 | 60 | 37 | 
-| Neutral | Threaten Quello | Low Dark | 0/1 | -1 | 59 | 38 | 
-| Light | Intervene to save a Refugee | Low Light | 2/0 | 2 | 61 | 40 | 
-| Light | Give beggar credits | Low Light | 1/0 | 1 | 62 | 41 | 
-| Light | Reassure Ebon Hawk Former Owner | Low Light | 2/0 | 2 | 64 | 43 | 
-| Light | Heal Geriel | Low Light | 1/0 | 1 | 65 | 44 |
-| Neutral | Force Persuade Thugs to jump into pit | High Dark | 0/6 | -6 | 59 | 50 | 
-| Light | Help out Geeda with Trade Routes | Low Light | 1/0 | 1 | 60 | 51 |
+| Neutral | Long talk with Kreia on Ebon Hawk | Mid Light | 4/0 | 4 | 59 | 19 | 
+| Light | Talking to Atton before Telos | Low Light | 1/0 | 1 | 60 | 10 | 
+| Light | Help free the Sullustan from Mercenaries | Mid Light | 3/0 | 3 | 63 | 13 | 
+| Neutral | Bully Opo Chano for Droid Credentials | Mid Dark | 0/4 | -4 | 59 | 17 | 
+| Light | First Encounter with Handmaiden | Low Light | 1/0 | 1 | 60 | 18 | 
+| Light | Reassuing Bao-Dur (somewhat) | Low Light | 2/1 | 1 | 61 | 21 | 
+| Light | Reassure T3-M4 | Low Light | 1/0 | 1 | 62 | 22 | 
+| Light | Save Master Vrook | Low Light | 2/0 | 2 | 64 | 24 | 
+| Neutral | Dantooine (DS) Ending | High Dark | 0/8 | -8 | 56 | 32 | 
+| Neutral | Helping out Zuka | Low Light | 2/0 | 2 | 58 | 34 | 
+| Light | Don't hit people in Cantina | Low Light | 2/0 | 2 | 60 | 36 | 
+| Neutral | Threaten Quello | Low Dark | 0/1 | -1 | 59 | 37 | 
+| Light | Intervene to save a Refugee | Low Light | 2/0 | 2 | 61 | 39 | 
+| Light | Give beggar credits | Low Light | 1/0 | 1 | 62 | 40 | 
+| Light | Reassure Ebon Hawk Former Owner | Low Light | 2/0 | 2 | 64 | 42 | 
+| Light | Heal Geriel | Low Light | 1/0 | 1 | 65 | 43 |
+| Neutral | Force Persuade Thugs to jump into pit | High Dark | 0/6 | -6 | 59 | 49 | 
+| Light | Help out Geeda with Trade Routes | Low Light | 1/0 | 1 | 60 | 50 |
 
 Alignment is not as important in this game, as we don’t use any equipment restricted by alignment. We do, however, stay on Light Side/Neutral in order to obtain Mira at Nar Shaddaa, as she is used for Goto’s ship segment to pass by the many deadly mines quickly without blowing them up, and to obtain deadly mines for Hanharr 2 later on at Malachor V.  
 
@@ -343,7 +344,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - [Jedi Masters](#jedi-masters)
 - [Ravager](#ravager)
 - [Malachor V](#malachor-v)
-- [Version History](#version-history)
+
 
 ## Prologue
 
@@ -439,8 +440,7 @@ T3 gets zapped and control transitions to MC
 ### Ebon Hawk to Telos
 - Immediate dialog cutscene after the load screen: 6,2 -> 4,3,3 (+2 Alignment Shift)
 - Cast Burst of speed, turn around and run through to the right to where Kreia resides on the Ebon Hawk.
-  - *Now we have quite a lengthy conversation with Kreia so it is a good idea when learning to make a save here just incase you make a mistake.*
-- Speak to Kreia: 2x5,3,1,1,3,2,1,2,1,3,3,3,2,1,1,4,3,2,1x6,3,3 (+5 Alignment Shift)
+- Speak to Kreia: 2x7,1,5,1 (+4 Alignment Shift)
 - Now run back to the Cockpit and speak to Atton: 1x- (+1 Alignment Shift)
 - Use the Galaxy Map and select Telos. (1 left)
 
@@ -1107,6 +1107,8 @@ Traya: 4,4
 - Updated dialog for first HK-47 Encounter.
 - Removed looting MC's Armband from route since it doesn't grant us any bonuses.
 - Updated dialog during 'Ebon Hawk to Telos'; giving us +1 LSP (+1 more than previous iteration).
+- Updated Kreia dialog on 'Ebon Hawk to Telos'.
+- Alignment route is now exactly 50 shifts up to Visas.
 - Updated dialog for Telos Station fast travel terminals.
 - Added new Goto's Yacht route found by Ninko (saves ~1 minute).
 - Corrected a few incorrect dialog options throughout.
