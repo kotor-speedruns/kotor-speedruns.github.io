@@ -129,51 +129,51 @@ Other notes:
 One of the many special differences KOTOR 2 has compared to KOTOR 1 is that many of the drops/containers you loot are randomized. The base items listed below are all guaranteed items, but it is possible you may obtain items in your run that are more optimal to equip before getting the guaranteed items (or could possibly be better!).
 
 **Implant**: Power Implant
-- Bought on Nar Shaddaa from Geeda (1615 credits)
+- Bought on Nar Shaddaa from Geeda (1615 credits) <br>
 Since we don’t have enough Constitution to equip a Nerve Enhancement System, and only Sion and Traya use stunning force powers against us, we go for offensive items and this implant is the easiest guaranteed item we can access that gives us +2 STR.
 
 **Headgear**: Targeting Visor
-- Obtained from dead mercenary in the Enclave Ruins
+- Obtained from dead mercenary in the Enclave Ruins <br>
 The only guaranteed headgear we can obtain, this gives us a +1 to attack and +1 to reflex saves. If you find other better headgear, prioritize equipping those over this helmet.
 
 **Gloves**: Sith Power Gauntlets
-- Obtained from Sith Lord at Freedon Nadd’s Tomb
+- Obtained from Sith Lord at Freedon Nadd’s Tomb <br>
 This is used for the +3 Strength; which gives us a lot of damage and accuracy.
 
 **Body 1**: Jal Shey Neophyte Armor
-- Obtained from Geeda on Nar Shaddaa (570 credits)
-At the beginning, we only have easy access to the Mining Outfit that gives us +1 defense.
+- Obtained from Geeda on Nar Shaddaa (570 credits) <br>
+At the beginning, we only have easy access to the Mining Outfit that gives us +1 defense. <br>
 We use the Jal Shey Armor then for its defense and dexterity bonus.
 
 **Body 2**: Ossus Keeper Robes
-- Obtained as a reward from Queen Talia during Onderon 2.
-At the beginning of The Ravager we can swap to the Ossus Keeper Robes for a bigger force point pool, and for better resistance against Sion/Traya’s force powers (+4 Wisdom, +4 Intelligence, +2 Charisma).
+- Obtained as a reward from Queen Talia during Onderon 2. <br>
+At the beginning of The Ravager we can swap to the Ossus Keeper Robes for a bigger force point pool, and for better resistance against Sion/Traya’s force powers (+4 Wisdom, +4 Intelligence, +2 Charisma). <br>
 Beginners can opt to keep the Jal Shey Neophyte Armor, as it provides more defense for the late game.
 
 **Main Hand**: Single Lightsaber
-- Crafted by Bao-Dur after Dantooine
+- Crafted by Bao-Dur after Dantooine <br>
 We use a single-handed Lightsaber for use with Critical Strikes later on. At Nar Shaddaa, we will be buying two crystals to upgrade it.
 
 **Crystal 1**: Nextor
-- Bought on Nar Shaddaa from Oondar (3580 credits)
+- Bought on Nar Shaddaa from Oondar (3580 credits) <br>
 Provides a high critical threat range, which makes our critical hits stronger. It also gives a nice +1 to our attack modifier.
 
 **Crystal 2**: Opila
-- Bought on Nar Shaddaa from Geeda (2831 credits)
+- Bought on Nar Shaddaa from Geeda (2831 credits) <br>
 Grants us the Keen effect, which gives us a 10% increased chance to crit. It also adds a flat +3 to damage, and is very cost effective.
 
 **Crystal 3**: Pontite
-- Obtained as a reward from Queen Talia during Onderon 2.
+- Obtained as a reward from Queen Talia during Onderon 2. <br>
 Giving us Damage Bonus +1-10 Cold and Charisma +2, this will replace Crystal, Nextor after the Onderon Palace.
 
 **Off-Hand**: Freedon Nadd's Short Lightsaber
-- Obtained from Freedon Nadd’s Tomb
+- Obtained from Freedon Nadd’s Tomb <br>
 This is a very good off-hand weapon that increases our accuracy while having higher damage than other lightsabers. Before that, we will be using a vibroblade, or a offhand lightsaber for damage.
 
-**Belt**: None. Or the best belt you looted
+**Belt**: None. Or the best belt you looted <br>
 - There are no good guaranteed belts we can purchase for an affordable price. See itemization below for things you are looking for in a belt.
 
-**Shield Slots**: Energy Shield, (or any other shield you choose to use)
+**Shield Slots**: Energy Shield, (or any other shield you choose to use) <br>
 - The Energy Shield is equipped to mitigate damage from blasters, which is primarily used at Peragus when walking through mines. There are a couple sections in this run where Energy Shields will be helpful for MC and other party members.
 
 The majority of our equipment is attained in Nar Shaddaa. For the early game, we will make use of a pair of Vibroswords, though some exceptions can be made depending on the randomization the shops have.
