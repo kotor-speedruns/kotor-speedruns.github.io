@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic II - The Sith Lords - Any% Glitchless Guide
 
-## v2.1: Female Jedi Guardian Route (Light Side)
+## v2.1.5: Female Jedi Guardian Route (Light Side)
 
 *I want to credit 30cents for his initial route for KOTOR 2 Glitchless.  This would not have been done without his intial work on the route!  I also want to credit ChaosDrifter for helping me with much of the calculations and theory crafting into the category improvements.*
 
@@ -789,15 +789,12 @@ All other items as needed to get 2000 credits EXCEPT:
 
 - Ending Credits: 2k (required for talking to Kaalah-Nah, DO NOT talk to Kaalah-Nah without 2k credits)
 
-- Trigger the cutscene with MC next to Geeda: 2 (to make one of them jump off a cliff, yahoo!)
-- Run from the encounter and head inside the Cantina (neon signs).
-- Talk to Kaalah-Nah: 4 \| 1,1
+- Trigger the cutscene with MC next to Geeda: 5,1,1
+- Head inside the Cantina, activate solo mode and cast Knight Speed.
+- Talk to Kaalah-Nah twice: 4 \| 1,1
 
-- Leave the bar, and run to the Docks.  After the cutscene, turn on solo mode and run to Vogga.
-- Guard: 3 
-- Then Vogga: 1x6,4
-
-- Exit back with Kreia, turn on solo mode, and head back to the Ebon Hawk for the Red Eclipse hijacking sequence.  You may want to make a manual save here to get more alignment points if you think you messed up.
+- Leave the bar, and run to the Docks.  After the cutscene, turn around and exit back to Landing Pad.
+- Turn on solo mode, and head back to the Ebon Hawk for the Red Eclipse hijacking sequence.  You may want to make a manual save here to get more alignment points if you think you messed up.
 
 - Go to the workshop and enhance your lightsaber with the Opila/Nextor Crystal, after you enter the Ebon Hawk. 
 - Run towards the cockpit and 1 spam.  
@@ -1100,17 +1097,24 @@ Traya: 4,4
 
 ## Version History
 
+### v2.1.5 (November 2023) 
+- Alignment route is now exactly 50 shifts up to Visas.
+- Removed looting MC's Armband from route since it doesn't grant us any bonuses.
+- Removed looting Museum in Onderon Palace.
+- We now get Pontite Crystal and Ossus Keeper Robes as a reward from Queen Talia
+- Change of dialog with some thugs on Nar Shaddaa, found by the_kovic (saves ~40s)
+
 ### v2.1 (October 2023)
 - Updated Levelling Plan for easier use of Force Speed powers.
 - Updated Alignment Route.
 - Updated Credit Route / Shopping trips to be more accurate and efficient.
 - Updated dialog for first HK-47 Encounter.
-- Removed looting MC's Armband from route since it doesn't grant us any bonuses.
 - Updated dialog during 'Ebon Hawk to Telos'; giving us +1 LSP (+1 more than previous iteration).
 - Updated Kreia dialog on 'Ebon Hawk to Telos'.
-- Alignment route is now exactly 50 shifts up to Visas.
 - Updated dialog for Telos Station fast travel terminals.
 - Added new Goto's Yacht route found by Ninko (saves ~1 minute).
+- Added looting Museum in Onderon Palace for Pontite Crystal.
+- Due to looting in Onderon Palace we no longer get Ossus Keeper Robes.
 - Corrected a few incorrect dialog options throughout.
 - Added lightsaber upgrade after Palace, replacing Nextor with Pontite.
 - Updated dialog for endgame Atris Fight (saves 35 seconds).
