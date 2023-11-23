@@ -143,49 +143,52 @@ Level ups 2-8 will need to be used at the correct times as shown in the Detailed
 One of the many special differences KOTOR 2 has compared to KOTOR 1 is that many of the drops/containers you loot are randomized. The base items listed below are all guaranteed items, but it is possible you may obtain items in your run that are more optimal to equip before getting the guaranteed items (or could possibly be better!).
 
 **Implant**: Power Implant
-- Bought on Nar Shaddaa from Geeda (1615 credits)
+- Bought on Nar Shaddaa from Geeda (1615 credits) <br>
 Since we don’t have enough Constitution to equip a Nerve Enhancement System, and only Sion and Traya use stunning force powers against us, we go for offensive items and this implant is the easiest guaranteed item we can access that gives us +2 STR.
 
 **Headgear**: Targeting Visor
-- Obtained from dead mercenary in the Enclave Ruins
+- Obtained from dead mercenary in the Enclave Ruins <br>
 The only guaranteed headgear we can obtain, this gives us a +1 to attack and +1 to reflex saves. If you find other better headgear, prioritize equipping those over this helmet.
 
 **Gloves**: Sith Power Gauntlets
-- Obtained from Sith Lord at Freedon Nadd’s Tomb
+- Obtained from Sith Lord at Freedon Nadd’s Tomb <br>
 This is used for the +3 Strength; which gives us a lot of damage and accuracy.
 
 **Body**: Jal Shey Neophyte Armor
-- Obtained from Geeda on Nar Shaddaa (570 credits)
-At the beginning, we only have easy access to the Mining Outfit that gives us +1 defense.
+- Obtained from Geeda on Nar Shaddaa (570 credits) <br>
+At the beginning, we only have easy access to the Mining Outfit that gives us +1 defense. <br>
 We use the Jal Shey Armor then for its defense and dexterity bonus.
 
+**Body 2**: Ossus Keeper Robes
+- Obtained as a reward from Queen Talia during Onderon 2. <br>
+At the beginning of The Ravager we can swap to the Ossus Keeper Robes for a bigger force point pool, and for better resistance against Sion/Traya’s force powers (+4 Wisdom, +4 Intelligence, +2 Charisma). <br>
+Beginners can opt to keep the Jal Shey Neophyte Armor, as it provides more defense for the late game.
+
 **Main Hand**: Single Lightsaber
-- Crafted by Bao-Dur after Dantooine
+- Crafted by Bao-Dur after Dantooine <br>
 We use a single-handed Lightsaber for use with Critical Strikes later on. At Nar Shaddaa, we will be buying two crystals to upgrade it.
 
 **Crystal 1**: Nextor
-- Bought on Nar Shaddaa from Oondar (3580 credits)
-- Or has a chance to be looted on Dantooine beforehand.
+- Bought on Nar Shaddaa from Oondar (3580 credits) <br>
 Provides a high critical threat range, which makes our critical hits stronger. It also gives a nice +1 to our attack modifier.
 
 **Crystal 2**: Opila
-- Bought on Nar Shaddaa from Geeda (2831 credits)
+- Bought on Nar Shaddaa from Geeda (2831 credits) <br>
 Grants us the Keen effect, which gives us a 10% increased chance to crit. It also adds a flat +3 to damage, and is very cost effective.
 
 **Crystal 3**: Pontite
-- Looted from the Onderon Palace, Museum Treasure.
-Giving us Damage Bonus +1-10 Cold and Charisma +2, this will replace Crystal, Nextor in the Onderon Palace.
+- Obtained as a reward from Queen Talia during Onderon 2. <br>
+Giving us Damage Bonus +1-10 Cold and Charisma +2, this will replace Crystal, Nextor after the Onderon Palace.
 
 **Off-Hand**: Freedon Nadd's Short Lightsaber
-- Obtained from Freedon Nadd’s Tomb
+- Obtained from Freedon Nadd’s Tomb <br>
 This is a very good off-hand weapon that increases our accuracy while having higher damage than other lightsabers. Before that, we will be using a vibroblade, or a offhand lightsaber for damage.
 
-**Belt**: None. Or the best belt you looted
+**Belt**: None. Or the best belt you looted <br>
 - There are no good guaranteed belts we can purchase for an affordable price. See itemization below for things you are looking for in a belt.
 
-**Shield Slots**: MC's Armband, Energy Shield
-- The Armband gives us +1 to Constitution, which in turn gives MC more HP.
-The Energy Shield is equipped to mitigate damage from blasters, which is primarily used at Peragus when walking through mines. There are a couple sections in this run where Energy Shields will be helpful for MC and other party members.
+**Shield Slots**: Energy Shield <br>
+- The Energy Shield is equipped to mitigate damage from blasters, which is primarily used at Peragus when walking through mines. There are a couple sections in this run where Energy Shields will be helpful for MC and other party members.
 
 The majority of our equipment is attained in Nar Shaddaa. For the early game, we will make use of a pair of Vibroswords, though some exceptions can be made depending on the randomization the shops have.
 
@@ -527,8 +530,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Follow the path through 2 doors to enter Harbinger Crew Quarters.
 - `+` Run straight ahead until MC pauses to look at old room.
 - Kreia accosts you: 3
-- Loot the footlocker for MC's Armband and then cast Burst of Speed.
-- Run your way through to Harbinger Engine Deck.
+- Cast Burst of Speed and run your way through to Harbinger Engine Deck.
 - Atton has a bad feeling about this: 1x-
 - Run through the next door, then straight forward.
   - *Cutscene introducing Sion plays.*
@@ -654,7 +656,7 @@ Buy:
   - *Remember the Party Swaps can reverse.*
 - Access Information Terminal: 2
 - Run to Czerka Docking Bay speak to the 2 workers there. 1x- \|  1x- `+ \` 
-- `> }` Equip 2 Vibroswords, Plasma Torch, MC's Armband and Energy Shield
+- `> }` Equip 2 Vibroswords, Plasma Torch and Energy Shield
 - Enter Docking Bay 2 via the Airlock Terminal.
 - Make Kreia cast Burst of Speed, cast Force Valor as MC.
 - Defeat the 5 Thugs, Ithorian accosts you: 1
@@ -827,7 +829,7 @@ Buy:
 - Speak to Jana Lorso about Batono: 2,1x- 
 - Cast Burst of Speed.  `\ \`
 - Exit Czerka back to 082 East, use Information Terminal to transit back to Dock Module 126: 2,1
-- `> }` Equip 2 Vibroswords, Plasma Torch, MC's Armband and Energy Shield
+- `> }` Equip 2 Vibroswords, Plasma Torch and Energy Shield
 - Speak to the Ithorian and enter Docking Bay 2 via the terminal.
 - Make Kreia cast Burst of Speed, cast Force Valor as MC.
 - Defeat the 5 Thugs and speak to the Ithorian Droid to transit back to the Ithorian Compound speaking to Chodo Habat.
@@ -1538,8 +1540,8 @@ Buy:
 - Kreia accosts you: 5
 - Cast Knight speed, exit to the Shyrack Cave and head straight back to the Ebon Hawk.
 - T3 has a message from Kelborn: 1x-
-- `}` Unequip MC's Lightsabers, MC's Armband.
-- `}` Equip Visas with MC's Lightsabers, Energy Shield, MC's Armband, Targeting Visor and Stealth Belt.
+- `}` Unequip MC's Lightsabers.
+- `}` Equip Visas with MC's Lightsabers, Energy Shield, Targeting Visor and Stealth Belt.
 - Fly to Dxun.
 
 ## Dxun 2
@@ -1597,7 +1599,7 @@ Buy:
 - Attack with Flurry until all Sith are defeated.
 - Loot the Sith for the Sith Power Gauntlets.
 - Run to Freedon Nadd's Sarcophagus and loot it for Freedon Nadd's Short Lightsaber.
-- `}` Unequip Visas of MC's Lightsaber and MC's Armband.
+- `}` Unequip Visas of MC's Lightsaber.
 - Try to run out of the area or speak to Xarga to trigger the end of the tomb.
 - Xarga: 1
 
@@ -1605,13 +1607,12 @@ Buy:
 
 ### Sky Ramp
 - 1x-
-- `=` Take T3-M4 with you.
-  - *We will use T3 to add the Pontite Crystal to our Lightsaber.*
+- `=` Take Atton with you.
 - 1x-
 - Cast Knight Speed.
-- Auto Level Up Kreia and T3-M4.
+- Auto Level Up Kreia and Atton.
 - Enter Sky Ramp
-- `}` Equip MC: Sith Power Gauntlets, MC's Armband, Upgraded Lightsaber (Mainhand), Freedon Nadd's Short Lightsaber (Offhand)
+- `}` Equip MC: Sith Power Gauntlets, Upgraded Lightsaber (Mainhand), Freedon Nadd's Short Lightsaber (Offhand)
 - Run through to the Palace, keep Knight Speed active as you go.
   - *Pro Tip: Using the Plasma Torch on the Force Fields is quicker than using your Lightsabers.*
   - *It is recommended to make a safety save right before entering the Palace, the game is prone to crashing here.*
@@ -1622,8 +1623,7 @@ Buy:
 - Run forward to trigger dialog with Colonel Tobin: 1,1
 - Mouse spam until in control of MC.
 - `+` Cast Knight Speed and take MC down the path to the right, facing away from the now closed door.
-- Open the first door on the right, enter the room, turn left and loot the container for 'Crystal, Pontite'.
-- Exit that room and head down to the second to last door on the right where Kavar will greet you.
+- Head down to the second to last door on the right where Kavar will greet you.
 - Kavar: 1x-
 - Run in to Captain Kadron and speak to him.
 - Captain Kadron: 1,1,3
@@ -1641,13 +1641,12 @@ Buy:
 - Kiph: 1,1,1 (pause)  `\ \`
 - Click on the console as MC.
 - Console: 2,4  `\ \`
-- Run T3-M4 towards Tobin to trigger dialog, spam through it.
-- When back in control of T3, run him backwards to bring MC and Kreia in.  `\`
+- Run Atton towards Tobin to trigger dialog, spam through it.
+- When back in control of Atton, run him backwards to bring MC and Kreia in.  `\`
 - Cast Knight Speed, activate 1x Strength Stim.
 - Defeat the Drexyl Larva.
 - Mouse spam fight cutscene: 2
 - Cast Knight Speed
-- Talk to T3-M4 and Upgrade Lightsaber (Replace Crystal, Nextor with Crystal, Pontite)
 - Run forward into the throme room, mouse spam through Kavar killing Vaklu Soldiers.
 - Run forward to Talia and Valku: 1x-
 - Cast Knight Speed and kill Vaklu.
@@ -1657,9 +1656,10 @@ Buy:
 - Wait for load screen back to Jungle Landing on Dxun, cast Knight Speed as soon as you see MC.
 - Visas speaks to you: 1x-
 - Enter the Ebon Hawk.
-- `}` Unequip MC's Lightsabers and Armband.
+- Upgrade Main Lightsaber using workbench. Replace Nextor Crystal with Pontite Crystal.
+- `}` Unequip MC's Lightsabers.
 - `}` Equip MC with standard Lightsaber for Force Jumps.
-- `}` Equip Visas with MC's Lightsabers and Armband.
+- `}` Equip Visas with MC's Lightsabers.
 - Fly to Nar Shaddaa.
 
 ## Nar Shaddaa 2
@@ -1759,8 +1759,8 @@ Buy:
 - Run and speak to Vogga twice: 1x7,5  \|  1
   - *Swap to Visas, party swaps may be reversed.*
 - `\ \` Talk to Fassa: 1,1,1
-- `}` Unequip MC's Lightsabers, MC's Armband and Targetting Visor. `\`
-- `}` Equip MC's Lightsabers, MC's Armband and Targetting Visor.
+- `}` Unequip MC's Lightsabers and Targetting Visor. `\`
+- `}` Equip MC's Lightsabers and Targetting Visor.
 - Cast Knight Speed.
   - *Swap to Visas or Kreia, whatever one of them is first.*
 - Exit to Landing Pad. 
@@ -1817,6 +1817,8 @@ Buy:
 ### Ravager
   - *We can mouse spam once we see Visas.*
 - Mouse spam until in control of MC.
+- `}` Equip Ossus Keeper Robes.
+  - *New players can opt to keep the Jal Shey robes equippeed for more Defense.*
 - `+` Cast Knight Speed.
 - Run through the Ravager following the map below for placing Proton Cores.
 
@@ -1926,6 +1928,7 @@ Buy:
 - Updated 'Prologue' route.
 - Updated 'Fuel Depot - T3 Section' route.
 - Updated dialog with HK-50 on Peragus; giving us +2 LSP.
+- Removed looting MC's Armband on the Harbinger.
 - Updated dialog during 'Ebon Hawk to Telos'; giving us +1 LSP (+1 more than previous iteration).
 - Added looting 3x Crystal Formation in Dantooine's Crystal Cave.
 - Added looting Kinrath Matriarch.
@@ -1936,9 +1939,6 @@ Buy:
 - Credits Route and Shopping Trip updated for Telos Station - Samhan Dobo.
 - Credits Route and Shopping Trip updated for Telos Station - Dendis Dobo.
 - Credits Route and Shopping Trip updated for Dantooine - Adum Larp.
-- The route now brings T3-M4 to Sky Ramp/Palace instead of Atton.
-- Palace route changed to loot 'Crystal, Pontite'.
-- Due to looting in the Palace we no longer receive the Ossus Keeper Robes.
 - Added new Goto's Yacht route found by Ninko (saves ~1 minute).
 - Updated dialog for endgame Atris Fight (saves 35 seconds).
 
