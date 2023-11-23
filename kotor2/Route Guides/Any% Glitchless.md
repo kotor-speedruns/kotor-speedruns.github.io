@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic II - The Sith Lords - Any% Glitchless Guide
 
-## v2.1: Female Jedi Guardian Route (Light Side)
+## v2.1.5: Female Jedi Guardian Route (Light Side)
 
 *I want to credit 30cents for his initial route for KOTOR 2 Glitchless.  This would not have been done without his intial work on the route!  I also want to credit ChaosDrifter for helping me with much of the calculations and theory crafting into the category improvements.*
 
@@ -19,6 +19,7 @@ If you have additional questions, you can check out the KotOR Speedrunning Disco
 - [Alignment Route](#alignment-route)
 - [Route Overview](#route-overview)
 - [Detailed Route](#detailed-route)
+- [Version History](#version-history)
 
 ## Glitchless Ruleset
 
@@ -128,51 +129,51 @@ Other notes:
 One of the many special differences KOTOR 2 has compared to KOTOR 1 is that many of the drops/containers you loot are randomized. The base items listed below are all guaranteed items, but it is possible you may obtain items in your run that are more optimal to equip before getting the guaranteed items (or could possibly be better!).
 
 **Implant**: Power Implant
-- Bought on Nar Shaddaa from Geeda (1615 credits)
+- Bought on Nar Shaddaa from Geeda (1615 credits) <br>
 Since we don’t have enough Constitution to equip a Nerve Enhancement System, and only Sion and Traya use stunning force powers against us, we go for offensive items and this implant is the easiest guaranteed item we can access that gives us +2 STR.
 
 **Headgear**: Targeting Visor
-- Obtained from dead mercenary in the Enclave Ruins
+- Obtained from dead mercenary in the Enclave Ruins <br>
 The only guaranteed headgear we can obtain, this gives us a +1 to attack and +1 to reflex saves. If you find other better headgear, prioritize equipping those over this helmet.
 
 **Gloves**: Sith Power Gauntlets
-- Obtained from Sith Lord at Freedon Nadd’s Tomb
+- Obtained from Sith Lord at Freedon Nadd’s Tomb <br>
 This is used for the +3 Strength; which gives us a lot of damage and accuracy.
 
 **Body 1**: Jal Shey Neophyte Armor
-- Obtained from Geeda on Nar Shaddaa (570 credits)
-At the beginning, we only have easy access to the Mining Outfit that gives us +1 defense.
+- Obtained from Geeda on Nar Shaddaa (570 credits) <br>
+At the beginning, we only have easy access to the Mining Outfit that gives us +1 defense. <br>
 We use the Jal Shey Armor then for its defense and dexterity bonus.
 
 **Body 2**: Ossus Keeper Robes
-- Obtained as a reward from Queen Talia during Onderon 2.
-At the beginning of The Ravager we can swap to the Ossus Keeper Robes for a bigger force point pool, and for better resistance against Sion/Traya’s force powers (+4 Wisdom, +4 Intelligence, +2 Charisma).
+- Obtained as a reward from Queen Talia during Onderon 2. <br>
+At the beginning of The Ravager we can swap to the Ossus Keeper Robes for a bigger force point pool, and for better resistance against Sion/Traya’s force powers (+4 Wisdom, +4 Intelligence, +2 Charisma). <br>
 Beginners can opt to keep the Jal Shey Neophyte Armor, as it provides more defense for the late game.
 
 **Main Hand**: Single Lightsaber
-- Crafted by Bao-Dur after Dantooine
+- Crafted by Bao-Dur after Dantooine <br>
 We use a single-handed Lightsaber for use with Critical Strikes later on. At Nar Shaddaa, we will be buying two crystals to upgrade it.
 
 **Crystal 1**: Nextor
-- Bought on Nar Shaddaa from Oondar (3580 credits)
+- Bought on Nar Shaddaa from Oondar (3580 credits) <br>
 Provides a high critical threat range, which makes our critical hits stronger. It also gives a nice +1 to our attack modifier.
 
 **Crystal 2**: Opila
-- Bought on Nar Shaddaa from Geeda (2831 credits)
+- Bought on Nar Shaddaa from Geeda (2831 credits) <br>
 Grants us the Keen effect, which gives us a 10% increased chance to crit. It also adds a flat +3 to damage, and is very cost effective.
 
 **Crystal 3**: Pontite
-- Obtained as a reward from Queen Talia during Onderon 2.
+- Obtained as a reward from Queen Talia during Onderon 2. <br>
 Giving us Damage Bonus +1-10 Cold and Charisma +2, this will replace Crystal, Nextor after the Onderon Palace.
 
 **Off-Hand**: Freedon Nadd's Short Lightsaber
-- Obtained from Freedon Nadd’s Tomb
+- Obtained from Freedon Nadd’s Tomb <br>
 This is a very good off-hand weapon that increases our accuracy while having higher damage than other lightsabers. Before that, we will be using a vibroblade, or a offhand lightsaber for damage.
 
-**Belt**: None. Or the best belt you looted
+**Belt**: None. Or the best belt you looted <br>
 - There are no good guaranteed belts we can purchase for an affordable price. See itemization below for things you are looking for in a belt.
 
-**Shield Slots**: Energy Shield, (or any other shield you choose to use)
+**Shield Slots**: Energy Shield, (or any other shield you choose to use) <br>
 - The Energy Shield is equipped to mitigate damage from blasters, which is primarily used at Peragus when walking through mines. There are a couple sections in this run where Energy Shields will be helpful for MC and other party members.
 
 The majority of our equipment is attained in Nar Shaddaa. For the early game, we will make use of a pair of Vibroswords, though some exceptions can be made depending on the randomization the shops have.
@@ -276,24 +277,24 @@ Here is the alignment route used in the run:
 | Neutral | Agree to let Atton out of Force Cage | Low Light | 1/0 | 1 | 52 | 2 | 
 | Neutral | Talk with Atton, post T3-M4 solo | Low Light | 1/0 | 1 | 53 | 3 | 
 | Neutral | Not shooting the Asteroids during escape | Low Light | 2/0 | 2 | 55 | 5 | 
-| Neutral | Long talk with Kreia on Ebon Hawk | Mid Light | 4/1 | 4 | 59 | 10 | 
-| Light | Talking to Atton before Telos | Low Light | 1/0 | 1 | 60 | 11 | 
-| Light | Help free the Sullustan from Mercenaries | Mid Light | 3/0 | 3 | 63 | 14 | 
-| Neutral | Bully Opo Chano for Droid Credentials | Mid Dark | 0/4 | -4 | 59 | 18 | 
-| Light | First Encounter with Handmaiden | Low Light | 1/0 | 1 | 60 | 19 | 
-| Light | Reassuing Bao-Dur (somewhat) | Low Light | 2/1 | 1 | 61 | 22 | 
-| Light | Reassure T3-M4 | Low Light | 1/0 | 1 | 62 | 23 | 
-| Light | Save Master Vrook | Low Light | 2/0 | 2 | 64 | 25 | 
-| Neutral | Dantooine (DS) Ending | High Dark | 0/8 | -8 | 56 | 33 | 
-| Neutral | Helping out Zuka | Low Light | 2/0 | 2 | 58 | 35 | 
-| Light | Don't hit people in Cantina | Low Light | 2/0 | 2 | 60 | 37 | 
-| Neutral | Threaten Quello | Low Dark | 0/1 | -1 | 59 | 38 | 
-| Light | Intervene to save a Refugee | Low Light | 2/0 | 2 | 61 | 40 | 
-| Light | Give beggar credits | Low Light | 1/0 | 1 | 62 | 41 | 
-| Light | Reassure Ebon Hawk Former Owner | Low Light | 2/0 | 2 | 64 | 43 | 
-| Light | Heal Geriel | Low Light | 1/0 | 1 | 65 | 44 |
-| Neutral | Force Persuade Thugs to jump into pit | High Dark | 0/6 | -6 | 59 | 50 | 
-| Light | Help out Geeda with Trade Routes | Low Light | 1/0 | 1 | 60 | 51 |
+| Neutral | Long talk with Kreia on Ebon Hawk | Mid Light | 4/0 | 4 | 59 | 19 | 
+| Light | Talking to Atton before Telos | Low Light | 1/0 | 1 | 60 | 10 | 
+| Light | Help free the Sullustan from Mercenaries | Mid Light | 3/0 | 3 | 63 | 13 | 
+| Neutral | Bully Opo Chano for Droid Credentials | Mid Dark | 0/4 | -4 | 59 | 17 | 
+| Light | First Encounter with Handmaiden | Low Light | 1/0 | 1 | 60 | 18 | 
+| Light | Reassuing Bao-Dur (somewhat) | Low Light | 2/1 | 1 | 61 | 21 | 
+| Light | Reassure T3-M4 | Low Light | 1/0 | 1 | 62 | 22 | 
+| Light | Save Master Vrook | Low Light | 2/0 | 2 | 64 | 24 | 
+| Neutral | Dantooine (DS) Ending | High Dark | 0/8 | -8 | 56 | 32 | 
+| Neutral | Helping out Zuka | Low Light | 2/0 | 2 | 58 | 34 | 
+| Light | Don't hit people in Cantina | Low Light | 2/0 | 2 | 60 | 36 | 
+| Neutral | Threaten Quello | Low Dark | 0/1 | -1 | 59 | 37 | 
+| Light | Intervene to save a Refugee | Low Light | 2/0 | 2 | 61 | 39 | 
+| Light | Give beggar credits | Low Light | 1/0 | 1 | 62 | 40 | 
+| Light | Reassure Ebon Hawk Former Owner | Low Light | 2/0 | 2 | 64 | 42 | 
+| Light | Heal Geriel | Low Light | 1/0 | 1 | 65 | 43 |
+| Neutral | Force Persuade Thugs to jump into pit | High Dark | 0/6 | -6 | 59 | 49 | 
+| Light | Help out Geeda with Trade Routes | Low Light | 1/0 | 1 | 60 | 50 |
 
 Alignment is not as important in this game, as we don’t use any equipment restricted by alignment. We do, however, stay on Light Side/Neutral in order to obtain Mira at Nar Shaddaa, as she is used for Goto’s ship segment to pass by the many deadly mines quickly without blowing them up, and to obtain deadly mines for Hanharr 2 later on at Malachor V.  
 
@@ -343,7 +344,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - [Jedi Masters](#jedi-masters)
 - [Ravager](#ravager)
 - [Malachor V](#malachor-v)
-- [Version History](#version-history)
+
 
 ## Prologue
 
@@ -439,8 +440,7 @@ T3 gets zapped and control transitions to MC
 ### Ebon Hawk to Telos
 - Immediate dialog cutscene after the load screen: 6,2 -> 4,3,3 (+2 Alignment Shift)
 - Cast Burst of speed, turn around and run through to the right to where Kreia resides on the Ebon Hawk.
-  - *Now we have quite a lengthy conversation with Kreia so it is a good idea when learning to make a save here just incase you make a mistake.*
-- Speak to Kreia: 2x5,3,1,1,3,2,1,2,1,3,3,3,2,1,1,4,3,2,1x6,3,3 (+5 Alignment Shift)
+- Speak to Kreia: 2x7,1,5,1 (+4 Alignment Shift)
 - Now run back to the Cockpit and speak to Atton: 1x- (+1 Alignment Shift)
 - Use the Galaxy Map and select Telos. (1 left)
 
@@ -789,15 +789,12 @@ All other items as needed to get 2000 credits EXCEPT:
 
 - Ending Credits: 2k (required for talking to Kaalah-Nah, DO NOT talk to Kaalah-Nah without 2k credits)
 
-- Trigger the cutscene with MC next to Geeda: 2 (to make one of them jump off a cliff, yahoo!)
-- Run from the encounter and head inside the Cantina (neon signs).
-- Talk to Kaalah-Nah: 4 \| 1,1
+- Trigger the cutscene with MC next to Geeda: 5,1,1
+- Head inside the Cantina, activate solo mode and cast Knight Speed.
+- Talk to Kaalah-Nah twice: 4 \| 1,1
 
-- Leave the bar, and run to the Docks.  After the cutscene, turn on solo mode and run to Vogga.
-- Guard: 3 
-- Then Vogga: 1x6,4
-
-- Exit back with Kreia, turn on solo mode, and head back to the Ebon Hawk for the Red Eclipse hijacking sequence.  You may want to make a manual save here to get more alignment points if you think you messed up.
+- Leave the bar, and run to the Docks.  After the cutscene, turn around and exit back to Landing Pad.
+- Turn on solo mode, and head back to the Ebon Hawk for the Red Eclipse hijacking sequence.  You may want to make a manual save here to get more alignment points if you think you messed up.
 
 - Go to the workshop and enhance your lightsaber with the Opila/Nextor Crystal, after you enter the Ebon Hawk. 
 - Run towards the cockpit and 1 spam.  
@@ -1100,15 +1097,24 @@ Traya: 4,4
 
 ## Version History
 
+### v2.1.5 (November 2023) 
+- Alignment route is now exactly 50 shifts up to Visas.
+- Removed looting MC's Armband from route since it doesn't grant us any bonuses.
+- Removed looting Museum in Onderon Palace.
+- We now get Pontite Crystal and Ossus Keeper Robes as a reward from Queen Talia
+- Change of dialog with some thugs on Nar Shaddaa, found by the_kovic (saves ~40s)
+
 ### v2.1 (October 2023)
 - Updated Levelling Plan for easier use of Force Speed powers.
 - Updated Alignment Route.
 - Updated Credit Route / Shopping trips to be more accurate and efficient.
 - Updated dialog for first HK-47 Encounter.
-- Removed looting MC's Armband from route since it doesn't grant us any bonuses.
 - Updated dialog during 'Ebon Hawk to Telos'; giving us +1 LSP (+1 more than previous iteration).
+- Updated Kreia dialog on 'Ebon Hawk to Telos'.
 - Updated dialog for Telos Station fast travel terminals.
 - Added new Goto's Yacht route found by Ninko (saves ~1 minute).
+- Added looting Museum in Onderon Palace for Pontite Crystal.
+- Due to looting in Onderon Palace we no longer get Ossus Keeper Robes.
 - Corrected a few incorrect dialog options throughout.
 - Added lightsaber upgrade after Palace, replacing Nextor with Pontite.
 - Updated dialog for endgame Atris Fight (saves 35 seconds).
