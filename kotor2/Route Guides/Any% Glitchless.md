@@ -658,14 +658,15 @@ Buy:
 - Talk to T3 for spikes: 6,2x- until it exits the convo.
 - Talk to Bao-Dur for your lightsaber: 4,4,2
   - `}` Equip your lightsaber in the main hand and vibrosword/better 1h weapon in the off-hand.
-- Leave the Ebon Hawk with Kreia and T3 
+- Leave the Ebon Hawk with Kreia and T3
+  - **New runners may do a memory reset here, if not, wait until later.**
   - *(You may want to consider saving + restarting your game, since Dxun/Onderon tend to crash with fast text)*
   - *Although it is possible, if fast enough, to wait until just after our Visas encounter.*
   - *It will be mentioned below when the Visas fight happens.*
-- Turn on solo mode and Force Jump your way through the jungle (use a strength + battle stim)
-- Duros: 5 and skip run past them
+- Turn on solo mode and Force Jump your way through the jungle (use 1x Alacrity Stim.)
+- Duros: 5 and run past them.
 
-- Once in the second screen, turn on solo mode and force jump some more until you meet Mandalorians: 1x-
+- Once in the second area, turn on solo mode and force jump some more until you meet Mandalorians: 1x-
 - Mandalore accosts you: 3,1,3
 - Turn on Solo Mode and swap to T3, then talk to Zuka: 1,1,1,1,3
 - Use T3 to repair the broken wires near Zuka, then swap to MC and head to the satellite to fix it.  
@@ -683,17 +684,17 @@ Buy:
 - Swap to T3, and exit back to the Mandalorian Camp.
 
 - Talk to the Mandalorian Captain: 2,3
-- Talk to Zuka: 1,1,4 (to get 1k credits) \| 1
+- Talk to Zuka: 1,1,1,3 (to get 1k credits) \| 1
 - Talk to Mandalore: 1x- \| 1x-
 
-### Sith Ambush Fight
+### Sith Ambush
   - *Do NOT spam run when Kreia talks to you about the attack, wait for the party member interface to pop up. Talking to someone before the party member interface pops up WILL softlock your game.*
 
-- Run to the next area, then move slightly north to spawn both sets of Sith Assassins.  
+- Turn on solo mode and run to the next area, then move slightly north to spawn both sets of Sith Assassins.  
 - Round them up, swap to Kreia, and throw all your frag grenades at them, then kill them.  
-- Head to the arena lookalike (don't go back the way you went) to spawn 1 more Sith.  One of the assassins here has large amounts of HP, ignore them.
-- Head to the entrance, and kill any sith that has low HP.  If the combat doesn't end, just keep wailing on the Sith Assassins still left.
-- Exit combat after - after a couple of seconds, Mandalore will say to move out (Take Kreia with you)
+- Head to the arena lookalike (don't go back the way you went) to spawn 1 more Sith. Two of the assassins here have large amounts of HP, ignore them.
+- Head to the entrance, and kill any sith that has low HP. If the combat doesn't end, just keep wailing on the Sith Assassins still left.
+- Exit combat after - after a couple of seconds, Mandalore will say to move out (Take Kreia with you).
 
 ## Onderon 1
 
@@ -797,7 +798,10 @@ All other items as needed to get 2000 credits EXCEPT:
 - Turn on solo mode, and head back to the Ebon Hawk for the Red Eclipse hijacking sequence.  You may want to make a manual save here to get more alignment points if you think you messed up.
 
 - Go to the workshop and enhance your lightsaber with the Opila/Nextor Crystal, after you enter the Ebon Hawk. 
-- Run towards the cockpit and 1 spam.  
+- Run towards the cockpit and 1 spam.
+
+#### Visas
+
 - If done correctly, you should be getting Visas after this cutscene (Your run will end here if you did not get Visas).  
 - Use Knight Speed and hit her until half health.
 - Visas/Atton: 1,1 -> 4,1 -> 1
@@ -806,10 +810,13 @@ All other items as needed to get 2000 credits EXCEPT:
   - `}` Unequip MC’s weapons + Plasma Torch (give them 1 spare lightsaber for Force Jump)
   - `}` Give Visas (change 2 right): Lightsaber Mainhand + any Offhand Lightsaber OR Vibrosword if all double sided lightsabers, Energy Shield, Stealth Field Generator, Targeting Visor
 <br>
-- Once Visas is equipped, now is the time to do a memory reset if you aren't doing it at the start of Dxun.
+
+#### Memory Reset
+
+- Once Visas is equipped, now is the time to do a memory reset if you didn't do it at the start of Dxun.
 - Simply make a save and Alt-F4 your game, open it again and load the save.
 - Now you can leave the Ebon Hawk and run to the back until the cutscene triggers (You cannot be in combat for this, if not in combat and you did not get the cutscene, reload the autosave). 
-- 1,2
+- 2,2
 - Take MC to the docks. In the next cutscene run forward and 1 spam through Mira's cutscene.
 
   - *Note that if you still have Fast Text, you MUST make a manual save reload your game here or else you will softlock later on with Zez.*
@@ -1101,8 +1108,11 @@ Traya: 4,4
 - Alignment route is now exactly 50 shifts up to Visas.
 - Removed looting MC's Armband from route since it doesn't grant us any bonuses.
 - Removed looting Museum in Onderon Palace.
-- We now get Pontite Crystal and Ossus Keeper Robes as a reward from Queen Talia
-- Change of dialog with some thugs on Nar Shaddaa, found by the_kovic (saves ~40s)
+- We now get Pontite Crystal and Ossus Keeper Robes as a reward from Queen Talia.
+- Change of dialog with some thugs on Nar Shaddaa, found by the_kovic (saves ~40s).
+- Updated Dialog with Visas on Nar Shaddaa.
+- Updated Dialog with Zuka on Dxun.
+- Memory Reset moved to after fighting Visas, new players still recommended to reset before starting Dxun.
 
 ### v2.1 (October 2023)
 - Updated Levelling Plan for easier use of Force Speed powers.
