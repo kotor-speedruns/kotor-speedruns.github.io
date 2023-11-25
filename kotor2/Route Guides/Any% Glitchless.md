@@ -294,7 +294,7 @@ Here is the alignment route used in the run:
 | Light | Reassure Ebon Hawk Former Owner | Low Light | 2/0 | 2 | 64 | 42 | 
 | Light | Persuade Geriel to kill himself | Mid Dark | 0/4 | -4 | 59 | 46 |
 | Neutral | Talk to Thugs | Mid Dark | 0/4 | -4 | 55 | 50 | 
-| Light | Help out Geeda with Trade Routes | Mid Light | 2/0 | 1 | 57 | 52 |
+| Light | Help out Geeda with Trade Routes | Mid Light | 2/0 | 2 | 57 | 52 |
 
 Alignment is not as important in this game, as we don’t use any equipment restricted by alignment. We do, however, stay on Light Side/Neutral in order to obtain Mira at Nar Shaddaa, as she is used for Goto’s ship segment to pass by the many deadly mines quickly without blowing them up, and to obtain deadly mines for Hanharr 2 later on at Malachor V.  
 
