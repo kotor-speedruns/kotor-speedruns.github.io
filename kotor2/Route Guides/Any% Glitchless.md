@@ -846,6 +846,9 @@ All other items as needed to get 2000 credits EXCEPT:
 
 - Make sure you have 5 average frag mines looted from Hanharr/the corpse.
 
+- Enter Arena as MC: 5,6 -> 1x-
+  - *1 spam / mouse spam until T3 section, be careful not to mouse spam between character swap overs.*
+
 ### T3 Section
 - 1 spam through even more cutscenes (yawn)
 - Auto Level T3, and talk to C7-E3, then talk to C6-E3.
@@ -1114,6 +1117,7 @@ Traya: 4,4
 - Updated Dialog with Visas on Nar Shaddaa.
 - Updated Dialog with Zuka on Dxun.
 - Memory Reset moved to after fighting Visas, new players still recommended to reset before starting Dxun.
+- Updated Dialog with Visquis in the Arena.
 
 ### v2.1 (October 2023)
 - Updated Levelling Plan for easier use of Force Speed powers.
