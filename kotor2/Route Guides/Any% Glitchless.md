@@ -277,7 +277,7 @@ Here is the alignment route used in the run:
 | Neutral | Agree to let Atton out of Force Cage | Low Light | 1/0 | 1 | 52 | 2 | 
 | Neutral | Talk with Atton, post T3-M4 solo | Low Light | 1/0 | 1 | 53 | 3 | 
 | Neutral | Not shooting the Asteroids during escape | Low Light | 2/0 | 2 | 55 | 5 | 
-| Neutral | Long talk with Kreia on Ebon Hawk | Mid Light | 4/0 | 4 | 59 | 19 | 
+| Neutral | Talk with Kreia on Ebon Hawk | Mid Light | 4/0 | 4 | 59 | 9 | 
 | Light | Talking to Atton before Telos | Low Light | 1/0 | 1 | 60 | 10 | 
 | Light | Help free the Sullustan from Mercenaries | Mid Light | 3/0 | 3 | 63 | 13 | 
 | Neutral | Bully Opo Chano for Droid Credentials | Mid Dark | 0/4 | -4 | 59 | 17 | 
@@ -1108,7 +1108,7 @@ Traya: 4,4
 ## Version History
 
 ### v2.1.5 (November 2023) 
-- Alignment route is 53 Shifts before Visas.
+- Alignment route is 52 Shifts before Visas.
 - Removed looting MC's Armband from route since it doesn't grant us any bonuses.
 - Removed looting Museum in Onderon Palace.
 - We now get Pontite Crystal and Ossus Keeper Robes as a reward from Queen Talia.
