@@ -277,7 +277,7 @@ Here is the alignment route used in the run:
 | Neutral | Agree to let Atton out of Force Cage | Low Light | 1/0 | 1 | 52 | 2 | 
 | Neutral | Talk with Atton, post T3-M4 solo | Low Light | 1/0 | 1 | 53 | 3 | 
 | Neutral | Not shooting the Asteroids during escape | Low Light | 2/0 | 2 | 55 | 5 | 
-| Neutral | Long talk with Kreia on Ebon Hawk | Mid Light | 4/0 | 4 | 59 | 19 | 
+| Neutral | Talk with Kreia on Ebon Hawk | Mid Light | 4/0 | 4 | 59 | 9 | 
 | Light | Talking to Atton before Telos | Low Light | 1/0 | 1 | 60 | 10 | 
 | Light | Help free the Sullustan from Mercenaries | Mid Light | 3/0 | 3 | 63 | 13 | 
 | Neutral | Bully Opo Chano for Droid Credentials | Mid Dark | 0/4 | -4 | 59 | 17 | 
@@ -292,9 +292,9 @@ Here is the alignment route used in the run:
 | Light | Intervene to save a Refugee | Low Light | 2/0 | 2 | 61 | 39 | 
 | Light | Give beggar credits | Low Light | 1/0 | 1 | 62 | 40 | 
 | Light | Reassure Ebon Hawk Former Owner | Low Light | 2/0 | 2 | 64 | 42 | 
-| Light | Heal Geriel | Low Light | 1/0 | 1 | 65 | 43 |
-| Neutral | Force Persuade Thugs to jump into pit | High Dark | 0/6 | -6 | 59 | 49 | 
-| Light | Help out Geeda with Trade Routes | Low Light | 1/0 | 1 | 60 | 50 |
+| Light | Persuade Geriel to kill himself | Mid Dark | 0/4 | -4 | 59 | 46 |
+| Neutral | Talk to Thugs | Mid Dark | 0/4 | -4 | 55 | 50 | 
+| Light | Help out Geeda with Trade Routes | Mid Light | 2/0 | 2 | 57 | 52 |
 
 Alignment is not as important in this game, as we don’t use any equipment restricted by alignment. We do, however, stay on Light Side/Neutral in order to obtain Mira at Nar Shaddaa, as she is used for Goto’s ship segment to pass by the many deadly mines quickly without blowing them up, and to obtain deadly mines for Hanharr 2 later on at Malachor V.  
 
@@ -751,7 +751,7 @@ Buy:
 - Turn on solo mode again, and run with MC
 - Exchange Thugs accost you: 4,2
 
-- In the main square, when you enter, talk to Geriel to heal him: 1x-
+- In the main square, when you enter, talk to Geriel to get 4 DSP from him: 2
 
 - Take the right side, then talk to Nadda (1 spam)
 - Head to the other side inside, take the right path and follow all doors to the right til you see Saquesh.  
@@ -845,6 +845,9 @@ All other items as needed to get 2000 credits EXCEPT:
 - Run with MC towards the pen.
 
 - Make sure you have 5 average frag mines looted from Hanharr/the corpse.
+
+- Enter Arena as MC: 5,6 -> 1x-
+  - *1 spam / mouse spam until T3 section, be careful not to mouse spam between character swap overs.*
 
 ### T3 Section
 - 1 spam through even more cutscenes (yawn)
@@ -1105,14 +1108,16 @@ Traya: 4,4
 ## Version History
 
 ### v2.1.5 (November 2023) 
-- Alignment route is now exactly 50 shifts up to Visas.
+- Alignment route is 52 Shifts before Visas.
 - Removed looting MC's Armband from route since it doesn't grant us any bonuses.
 - Removed looting Museum in Onderon Palace.
 - We now get Pontite Crystal and Ossus Keeper Robes as a reward from Queen Talia.
+- Change of dialog with Geriel on Nar Shaddaa. (saves ~5s, +4 Alignment Shift over +1)
 - Change of dialog with some thugs on Nar Shaddaa, found by the_kovic (saves ~40s).
 - Updated Dialog with Visas on Nar Shaddaa.
 - Updated Dialog with Zuka on Dxun.
 - Memory Reset moved to after fighting Visas, new players still recommended to reset before starting Dxun.
+- Updated Dialog with Visquis in the Arena.
 
 ### v2.1 (October 2023)
 - Updated Levelling Plan for easier use of Force Speed powers.
