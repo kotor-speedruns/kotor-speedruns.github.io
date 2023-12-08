@@ -512,6 +512,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Run forward slightly, Kreia accosts you: 3 -> 1  `\`
 - Cast Burst of Speed and run towards the administration console.
   - *A short cutscene triggers, this will auto swap us back to MC.*
+  - *Sometimes MC can get stuck on Mining Droid, yet Kreia will get through, this will throw the party swaps off a bit so be prepared for anything.*
 - Continue towards administration console where Atton is.
 - Atton accosts you: 1x-
 - HK-50 accosts the party: 3,4
@@ -1056,7 +1057,7 @@ If you have <10 Medpacs, buy enough to get to 20. If >20 don't buy any.
 - Cast Force Valor after Kreia accosts you: 4
 - `>` *Use your level up for healing while fighting the Matriarch. If you need more health try to avoid using the Advanced Medpacs if you can.*
 - Attack and kill only the Matriarch.
-  - ***Optional**: You can try looting all but the 3 Crystal Formation's, after defeating the Matriarch, for a chance to loot a Crystal, Nextor!*
+  - ***Optional**: You can try looting all 3 Crystal Formation's, after defeating the Matriarch, for a chance to loot a Crystal, Nextor!*
   - *There is also a chance for the Matriarch to have remains which may also contain a Crystal, Nextor also!*
   - *If you do manage to loot a Crystal, Nextor you won't have to do the shopping trip with Oondar!*
   - *You may also loot some other decent crystals to upgrade your first lightsaber at the start of Dxun.*
@@ -1110,7 +1111,7 @@ If you have <10 Medpacs, buy enough to get to 20. If >20 don't buy any.
 - Space Encounter: 2,3,4,4,1
 - Cast Burst of Speed.
 - Talk to Bao-Dur to make your Lightsaber: 4,4,2
-  - *If you looted a color crystal on Dantooine, the above option may be 4,4,2,1. *
+  - *The Lightsaber dialog has a good chance to be '4,4,2,1', so be prepared for that.*
 - `}` Equip Lightsaber in Main Hand.
 - `}` *You could also equip a second lightsaber if you by chance have one at this point.*
   - Now would be a perfect time to upgrade your lightsaber(s) if you managed to loot any decent crystals on Dantooine, if you got a 'Crystal, Nextor', add that to your main lightsaber along with any other quick upgrades you can squeeze in.
@@ -1166,7 +1167,7 @@ If you have <10 Medpacs, buy enough to get to 20. If >20 don't buy any.
 ### Mandalorian Ruins
 - `\` Cast Burst of Speed.
 - Speak to Mandalorian Guard Captain: 2,3
-- Speak to Zuka 1,1,1,4  `+ \`
+- Speak to Zuka 1,1,1,3  `+ \`
 - Run and fix Telemetry computer.
 - Cast Burst of Speed.
 - Position Kreia next to Mandalorian Sergeant at Battle Circle.  `\ \`
@@ -1818,7 +1819,7 @@ Buy:
   - *We can mouse spam once we see Visas.*
 - Mouse spam until in control of MC.
 - `}` Equip Ossus Keeper Robes.
-  - *New players can opt to keep the Jal Shey robes equippeed for more Defense.*
+  - *New players can opt to keep the Jal Shey robes equipped for more Defense.*
 - `+` Cast Knight Speed.
 - Run through the Ravager following the map below for placing Proton Cores.
 
@@ -1843,6 +1844,8 @@ Buy:
 - Auto Level Up Mandalore and Visas.
 - Bring Nihilus' HP below half.
 - Visas / Nihilus: 1
+  - *Immediately pause when the dialog ends.*
+- Activate Psuedo-Stim set, cast Force Enlightenment for the second time.
 - Defeat Nihilus.
   - *It is very important to keep Visas' HP up fairly high here as all Force Power Buffs will end once Nihilus is defeated. If her HP is low when the Buffs end, she will die for a split second causing the cutscene / dialog to not fire properly which is a glitch and will end your run here.*
 - Visas / Mandalore: 1x-
@@ -1941,6 +1944,7 @@ Buy:
 - Credits Route and Shopping Trip updated for Dantooine - Adum Larp.
 - Added new Goto's Yacht route found by Ninko (saves ~1 minute).
 - Updated dialog for endgame Atris Fight (saves 35 seconds).
+- Updated dialog with Zuka at Mandalorian Ruins.
 
 ### v1.7 (January 2023)
 - Sped up Prologue by choosing to Skip the Prologue instead of using the Galaxy Map to select Peragus. (Thanks to 30cents)
