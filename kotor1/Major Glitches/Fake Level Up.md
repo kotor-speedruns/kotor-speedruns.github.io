@@ -212,9 +212,9 @@ Each example lists the FLU's end goal, starting and ending level, and Intermedia
 * Final Level 17: Persuade to 10, Master Two-Weapon Fighting; granted Sneak Attack IX
 
 **Notes:**
-- Any% and All Star Maps typically take Two-Weapon Fighting as their initial feat during character creation, so there are no prerequisites needed for Improved Two-Weapon Fighting.  These routes eschew Master Two-Weapon Fighting because they do so few fights (just two or three).
-- All Quests does two slow levels to get the prerequisites for Master Two-Weapon Fighting; that route typically takes Weapon Focus: Melee Weapons as the initial feat in character creation.
-- Any% does not need extra points in Persuade and can skip that during the final level; All Star Maps and All Quests must set Persuade to 10 in order to pass all necessary Persuade checks in their routes.
+- [Any%](<../Route Guides/Any%25 Unrestricted>) and [All Star Maps](<../Route Guides/All Star Maps>) typically take Two-Weapon Fighting as their initial feat during character creation, so there are no prerequisites needed for Improved Two-Weapon Fighting.  These routes eschew Master Two-Weapon Fighting because they do so few fights (just two or three).
+- [All Quests](<../Route Guides/All Quests Unrestricted>) does two slow levels to get the prerequisites for Master Two-Weapon Fighting; that route typically takes Weapon Focus: Melee Weapons as the initial feat in character creation.
+- [Any%](<../Route Guides/Any%25 Unrestricted>) does not need extra points in Persuade and can skip that during the final level; [All Star Maps](<../Route Guides/All Star Maps>) and [All Quests](<../Route Guides/All Quests Unrestricted>) must set Persuade to 10 in order to pass all necessary Persuade checks in their routes.
 
 ### Master Speed FLU
 
