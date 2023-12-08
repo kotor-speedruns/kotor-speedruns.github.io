@@ -195,12 +195,15 @@ Each example lists the FLU's end goal, starting and ending level, and Intermedia
 
 **Starting Level:** 2
 **Ending Level:** 17
+
 **Level Plan (Any%):**
 * Skele Levels 2-16
 * Final Level 17: Improved Two-Weapon Fighting; granted Sneak Attack IX
+  
 **Level Plan (All Star Maps):**
 * Skele Levels 2-16
 * Final Level 17: Persuade to 10, Improved Two-Weapon Fighting; granted Sneak Attack IX
+  
 **Level Plan (All Quests):**
 * Slow Level 2: Two-Weapon Fighting
 * Skele Levels 3-4
