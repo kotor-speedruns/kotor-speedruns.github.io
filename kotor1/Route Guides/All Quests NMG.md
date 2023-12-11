@@ -1082,7 +1082,7 @@ SHOPPING: Aratech Mercantile
   - ***Finishes “Investigate Ruins”***
 - Talk with Mission three times: 1 ... 1,1,4,1 ... 1x13,2
 - Bastila #2 and #3: 2,1 spam both times 
-- Loot Nero's corpse for Robe and Sigil crystal
+- Loot Nemo's corpse for Robe and Sigil crystal
 - Exit Ruins
   - If one of your party members doesn't follow, use a [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to get them out quickly
 
