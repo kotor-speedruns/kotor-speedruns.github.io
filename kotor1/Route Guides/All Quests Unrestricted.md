@@ -630,7 +630,7 @@ SHOPPING: Zelka Forn
     - QS in South Apartments, then load Slot 3
     - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load, then perform the [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
   - [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>) to warp to Upper City North's default spawn
-- *Stims: Strength on MC
+- *Stims: Strength on MC*
 - **Hard Save in Slot 3**
 - Disable V-Sync to perform the [Sith Base DLZ](<../Major Glitches/Displaced Load Zone#ch7Sith_Base_DLZ)
 - Secretary accosts you: 3,1
