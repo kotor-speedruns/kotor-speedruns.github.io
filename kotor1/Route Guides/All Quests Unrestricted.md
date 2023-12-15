@@ -725,7 +725,7 @@ SHOPPING: Zelka Forn
   - If you'd prefer, you can run down the hall to the left and talk to the Bek Lookout to enter the base
   - The [DLZ](<../Major Glitches/Displaced Load Zone#bek-base-DLZ>) is quite easy, but only saves a few seconds at most
 - Re-enable V-Sync and [Save Teleport](<../Techniques/Save Teleporting>) to Gadon
-  - *We'll use [Save Teleports](<../Techniques/Save Teleporting>) for movement for the rest of Taris.**
+  - *We'll use [Save Teleports](<../Techniques/Save Teleporting>) for movement for the rest of Taris.*
 - Talk to Gadon twice: 1x10,3,2 ... 2,1spam
 - After the load, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip mechanic convo
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then talk to Race Coordinator to start race
