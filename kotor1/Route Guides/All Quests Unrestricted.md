@@ -984,7 +984,7 @@ SHOPPING: Crattis Yurkal
 - Deactivate Solo Mode
 - Talk to droid outside Sandral Estate: 4
 - Enter Sandral Estate and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
-- [AMG Skip](<../Major Glitches/Anywhere Menu Glitch>#ch4Control_During_Cutscenes) Nurik's convo via [Force Skip](<../Techniques/Force Skips>) 
+- [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#ch4Control_During_Cutscenes>) Nurik's convo via [Force Skip](<../Techniques/Force Skips>) 
   - First, mash Nurik's convo until he starts to walk away
   - ***Finishes "Dead Settler"***
 - Go through the main door and bash down the one on the left
