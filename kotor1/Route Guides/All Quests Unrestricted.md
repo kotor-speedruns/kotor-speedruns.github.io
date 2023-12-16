@@ -1540,7 +1540,7 @@ SHOPPING: Selkath Merchant
 - [Save Teleport](<../Techniques/Save Teleporting>) to Galaxy Map and fly to Korriban
 - Use the load screen to [Free Look AMG](<../Major Glitches/Anywhere Menu Glitch#free-look-amgs>) the Leviathan Intro CS
 
-[section=The Leviathan]
+## The Leviathan
 
 ### Detention
 - The party plans their escape: 1,1,1,2
