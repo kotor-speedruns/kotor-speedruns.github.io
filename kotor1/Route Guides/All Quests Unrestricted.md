@@ -630,7 +630,7 @@ SHOPPING: Zelka Forn
     - QS in South Apartments, then load Slot 3
     - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load, then perform the [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
   - [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>) to warp to Upper City North's default spawn
-- *Stims: Strength on MC
+- *Stims: Strength on MC*
 - **Hard Save in Slot 3**
 - Disable V-Sync to perform the [Sith Base DLZ](<../Major Glitches/Displaced Load Zone#ch7Sith_Base_DLZ)
 - Secretary accosts you: 3,1
@@ -725,7 +725,7 @@ SHOPPING: Zelka Forn
   - If you'd prefer, you can run down the hall to the left and talk to the Bek Lookout to enter the base
   - The [DLZ](<../Major Glitches/Displaced Load Zone#bek-base-DLZ>) is quite easy, but only saves a few seconds at most
 - Re-enable V-Sync and [Save Teleport](<../Techniques/Save Teleporting>) to Gadon
-  - *We'll use [Save Teleports](<../Techniques/Save Teleporting>) for movement for the rest of Taris.**
+  - *We'll use [Save Teleports](<../Techniques/Save Teleporting>) for movement for the rest of Taris.*
 - Talk to Gadon twice: 1x10,3,2 ... 2,1spam
 - After the load, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip mechanic convo
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then talk to Race Coordinator to start race
@@ -984,7 +984,7 @@ SHOPPING: Crattis Yurkal
 - Deactivate Solo Mode
 - Talk to droid outside Sandral Estate: 4
 - Enter Sandral Estate and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
-- [AMG Skip](<../Major Glitches/Anywhere Menu Glitch>#ch4Control_During_Cutscenes) Nurik's convo via [Force Skip](<../Techniques/Force Skips>) 
+- [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#ch4Control_During_Cutscenes>) Nurik's convo via [Force Skip](<../Techniques/Force Skips>) 
   - First, mash Nurik's convo until he starts to walk away
   - ***Finishes "Dead Settler"***
 - Go through the main door and bash down the one on the left
@@ -1540,7 +1540,7 @@ SHOPPING: Selkath Merchant
 - [Save Teleport](<../Techniques/Save Teleporting>) to Galaxy Map and fly to Korriban
 - Use the load screen to [Free Look AMG](<../Major Glitches/Anywhere Menu Glitch#free-look-amgs>) the Leviathan Intro CS
 
-[section=The Leviathan]
+## The Leviathan
 
 ### Detention
 - The party plans their escape: 1,1,1,2
