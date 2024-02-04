@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic II - The Sith Lords - Max Quests Glitchless Guide
 
-## v2.0: Female Jedi Guardian Route (Light Side)
+## v2.0.1: Female Jedi Guardian Route (Light Side)
 
 *First of all, major credit to goes out to [30cents](https://www.speedrun.com/user/30Cents) for his help with some route improvements and [Sanjan](https://www.speedrun.com/user/Sanjan) for their work on the Any% Glitchless route. I would also like to thank [AtomicHeartSon](https://www.speedrun.com/user/AtomicHeartSon), for jumping in and beginning the routing progress for this category, it wouldn't be where it is today without his initial eagerness to bring this to life.*
 
@@ -236,9 +236,9 @@ In Samhans shop we will sell the following:
 	- Benok's Blaster (+660 credits) <br>
 	And buy: <br>
 	- 4x Advanced Medpacs (-320 credits)
-	- 7x Alacrity (-350 credits)
+	- 6x Alacrity (-300 credits)
 	- 5x Strength (-250 credits)
-	- 5x Stamina (-250 credits)
+	- 4x Stamina (-200 credits)
 	- 11x Battle Stim (-1100 credits)
  	- Medpacs, if <10 buy enough to get to 20 total, if >20 don't buy any. <br>
 
@@ -1185,7 +1185,7 @@ If you have <10 Medpacs, buy enough to get to 20. If >20 don't buy any.
   - } *2 Lightsabers if you have them!*
 
 ### Sith Ambush
-- Run and speak to Mandalore: 1x- -> 1x-
+- Run and speak to Mandalore: 1x-
 - `=` Click 'OK' when prompted with Party Selection screen.
 - `>` Cast Knight Speed.  `+`
   - *We can level up whenever we get them from here, or where ever suits you.*
@@ -1923,8 +1923,11 @@ Buy:
 - Time ends on the last hit on Traya, GG!
 
 ## Version History
+### v2.0.1 (February 2024)
+- Credits Route and Shopping Trip updated for Dantooine - Adum Larp, this is now the exact amount of stims needed before shopping with Kex on Dxun.
+- Fixed a mistake with Dialog before the Sith Ambush on Dxun.
 
-### v2.0 (Some thanks extended to 30Cents, February-November 2023)
+### v2.0 (Some thanks extended to 30Cents, November 2023)
 - Level Up notes for levels 2-9 added to Levelling Plan.
 - Added looting Kreia's corpse during the Prologue for the Locker Key.
 - Added looting the Locker in the Cargo Hold for an extra Computer Spike.
@@ -1943,7 +1946,7 @@ Buy:
 - Credits Route and Shopping Trip updated for Telos Station - Dendis Dobo.
 - Credits Route and Shopping Trip updated for Dantooine - Adum Larp.
 - Added new Goto's Yacht route found by Ninko (saves ~1 minute).
-- Updated dialog for endgame Atris Fight (saves 35 seconds).
+- Updated dialog for Endgame - Atris fight (saves 35 seconds).
 - Updated dialog with Zuka at Mandalorian Ruins.
 
 ### v1.7 (January 2023)
