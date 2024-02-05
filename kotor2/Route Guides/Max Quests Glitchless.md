@@ -1314,7 +1314,7 @@ Buy:
 - Cast Knight Speed.
 - Speak to the Mandalorian Guide: 1
 - Turn 180° and enter the Ebon Hawk.
-- Fly to Nar Shaddaa. ()
+- Fly to Nar Shaddaa.
 
 ## Nar Shaddaa 1
 
