@@ -1681,14 +1681,14 @@ Buy:
   - *Keep Atton healed as needed.*
   - *Be careful with mouse spamming here on out as Nar Shaddaa likes to crash the game.*
 - Mira / MC: 1x-
-- When in control of Mira, Auto Level Up and run though the Jekk Jekk Tar to the Private Lounge.
+- When in control of Mira, Auto Level Up and run though the Jekk'Jekk Tarr to the Private Lounge.
   - *If you have fast text here, make a hard save and quit/restart your game to prevent a softlock.*
 - Mouse spam through dialog, but once dialog ends DO NOT click your mouse until you see Zez-Kai Ell.
   - *If you mouse spam through the dialog with Zez-Kai Ell too quickly the door will not open from the room you are in causing the game to softlock.*
 - Cast Knight Speed.
 - Speak to Lootra: 2,1
 - Run into the room where the Bith was, the Bith Arm Holding Datapad is in there, to complete a quest.
-- Head to and enter the Jekk Jekk Tar.
+- Head to and enter the Jekk'Jekk Tarr.
 - Kreia teaches you 'Breath Control': 1x-
 - Cast Knight Speed and run to the Jekk Jekk Tunnels in the back of the Private Lounge.
 - Mouse Spam through Hahnharr and Visquis dialog, cast Knight Speed.
