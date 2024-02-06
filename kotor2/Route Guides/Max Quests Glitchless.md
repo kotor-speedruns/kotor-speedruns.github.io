@@ -207,73 +207,113 @@ We perform 8 shopping trips during the run. Most 'Buy' amounts are the total amo
 1. **Samhan Dobo**; Telos Station <br>
 	The first shopping trip of the run will start with Samhan. Please note that at the end of the Telos Station shopping trip we MUST have at minimum 1525 credits to complete the 'High Stakes' quest.
 In Samhans shop we will sell the following:
-	- 1x Parts (+55 credits)
-	- 2x Vibroblades (+208 credits)
-	- Droid Self-Sustaining Unit (+3300 credits) <br>
-	This will bring our credit total somewhere between 4000 and 4300 credits.
-	*We are allocating 1550 credits for the bare essentials, although we will usually spend a bit less than that here.*
-	Next is to buy some essential items that will get us to Dantooine, credits are scarse with the tightness of this route so only buy what you need. We are only buying enough items here to end at the total amount given below:
-	(e.g. If you have 2 Strength stims and you need 4, only buy 2. This is true for all but the Ion Grenades which we will only buy the 2 of.)
-	- 2x Ion Grenades (-260 credits)
-	- 3x Frag Grenades (-240 credits)
-	- 1x Hyper Alacrity (-100 credits)
-	- 2x Hyper Stamina (-200 credits)
-	- 6x Alacrity (-300 credits)
-	- 5x Stamina (-250 credits)
-	- 4x Strength (-200 credits) <br>
-	This will leave us at a credit total between 2250 and 2750.
+
+```
+- 1x Parts (+55 credits)
+- 2x Vibroblades (+208 credits)
+- Droid Self-Sustaining Unit (+3300 credits)
+```
+
+This will bring our credit total somewhere between 4000 and 4300 credits.
+*We are allocating 1550 credits for the bare essentials, although we will usually spend a bit less than that here.*
+Next is to buy some essential items that will get us to Dantooine, credits are scarse with the tightness of this route so only buy what you need. We are only buying enough items here to end at the total amount given below:
+(e.g. If you have 2 Strength stims and you need 4, only buy 2. This is true for all but the Ion Grenades which we will only buy the 2 of.)
+
+```
+- 2x Ion Grenades (-260 credits)
+- 3x Frag Grenades (-240 credits)
+- 1x Hyper Alacrity (-100 credits)
+- 2x Hyper Stamina (-200 credits)
+- 6x Alacrity (-300 credits)
+- 5x Stamina (-250 credits)
+- 4x Strength (-200 credits)
+
+```
+This will leave us at a credit total between 2250 and 2750.
 
 2. **Dendis Dobo**; Telos Station <br>
 	MUST END WITH +1525 CREDITS!
    	From Dendis we only buy:
-   	- 15-20 Medpacs <br>
-   	Or less, maintaining above 1525 credits!
+   
+```
+- 15-20 Medpacs <br>
+Or less, maintaining above 1525 credits!
+
+```
 
 3. **Adum Larp**; Dantooine <br>
 	For the second shopping trip of the run, we are going to stock up on some Medpacs and Stims to get us through to the next one. Plus the Battle stims that will take us through the rest of the run. <br>
 	Firstly sell: <br>
-	- Exchange Negotiator (+467 credits)
-	- Benok's Blaster (+660 credits) <br>
-	And buy: <br>
-	- 4x Advanced Medpacs (-320 credits)
-	- 6x Alacrity (-300 credits)
-	- 5x Strength (-250 credits)
-	- 4x Stamina (-200 credits)
-	- 11x Battle Stim (-1100 credits)
- 	- Medpacs, if <10 buy enough to get to 20 total, if >20 don't buy any. <br>
+ ```
+- Exchange Negotiator (+467 credits)
+- Benok's Blaster (+660 credits)
+```
+
+And buy: <br>
+
+```
+- 4x Advanced Medpacs (-320 credits)
+- 6x Alacrity (-300 credits)
+- 5x Strength (-250 credits)
+- 4x Stamina (-200 credits)
+- 11x Battle Stim (-1100 credits)
+- Medpacs, if <10 buy enough to get to 20 total, if >20 don't buy any.
+```
 
 4. **1B-8D**; Onderon <br>
 	During Onderon 1 we will come across 1B-8D in part of the quest 'A Doctor's Alibi', we talk to this droid merchant for the quest and then once again in order to enter the shop screen with it. Here we will first of all buy 1 of our 4 needed HK parts for repairing HK-47:
-	- 1x HK Droid Processor (-359 credits) <br>
-	We will also sell the Mandalorian Assault Rifle here as it will give us roughly 1000 more credits than any other merchant along the way in the rest of the run:
-	- Mandalorian Assault Rifle (+5472 credits)
+
+```
+- 1x HK Droid Processor (-359 credits)
+```
+
+We will also sell the Mandalorian Assault Rifle here as it will give us roughly 1000 more credits than any other merchant along the way in the rest of the run:
+
+```
+- Mandalorian Assault Rifle (+5472 credits)
+```
 
 5. **Kex**; Dxun <br>
-	After we are finished with Onderon 1 we will be back at the Mandalorian Ruins, it is here we can shop with Kex and buy some crucial items for the rest of the run. We will only need to purchase enough of these items to end at the total given below:
-	- 30-35 Advanced Medpacs (~ -2400 to -2800 credits)
-	- 1x Hyper Battle (-200 credits)
-	- 2x Hyper Strength (-200 credits)
-	- 15x Alacrity (~ -750 credits)
-	- 10x Stamina (~ -500 credits)
-	- 10x Strength (~ -500 credits)
-	- 10x Average Frag Mines (-2500 credits) <br>
-	Since we sold the Mandalorian Assault Rifle during Onderon 1, we should have plenty of credits at this point and not have to worry about selling any more items for the rest of the run.
+After we are finished with Onderon 1 we will be back at the Mandalorian Ruins, it is here we can shop with Kex and buy some crucial items for the rest of the run. We will only need to purchase enough of these items to end at the total given below:
+
+```
+- 30-35 Advanced Medpacs (~ -2400 to -2800 credits)
+- 1x Hyper Battle (-200 credits)
+- 2x Hyper Strength (-200 credits)
+- 15x Alacrity (~ -750 credits)
+- 10x Stamina (~ -500 credits)
+- 10x Strength (~ -500 credits)
+- 10x Average Frag Mines (-2500 credits)
+```
+
+Since we sold the Mandalorian Assault Rifle during Onderon 1, we should have plenty of credits at this point and not have to worry about selling any more items for the rest of the run.
 
 6. **Kodin**; Nar Shaddaa <br>
-	As part of the quest 'Droid Retrieval' we will have to talk to Kodin, at the end of this dialog we will be in the shop interface and we can buy our last HK part!
-	- HK Chassis (-1500 credits)
+As part of the quest 'Droid Retrieval' we will have to talk to Kodin, at the end of this dialog we will be in the shop interface and we can buy our last HK part!
+
+```
+- HK Chassis (-1500 credits)
+```
 
 7. **Oondar**; Nar Shaadaa <br>
-	During our talks with Geeda and Oondar for the quest 'Trade War: Bonus Mission' we will buy the Nextor Crystal from Oondar for our lightsaber:
-	- Nextor Crystal (-3582 credits)
-	We won't do this shop if we manage to loot a 'Crystal, Nextor' from the Crystal Cave on Dantooine.
+During our talks with Geeda and Oondar for the quest 'Trade War: Bonus Mission' we will buy the Nextor Crystal from Oondar for our lightsaber:
+
+```
+- Nextor Crystal (-3582 credits)
+```
+
+We won't do this shop if we manage to loot a 'Crystal, Nextor' from the Crystal Cave on Dantooine.
 
 8. **Geeda**; Nar Shaadaa <br>
-	Our last shopping trip! And our last talk with Geeda during the quest 'Trade War: Bonus Mission' and also partly completing 'New Trade Routes: Bonus Mission' Geedas shop will have an upgrade and give us the opportunity to buy the following items:
-	- Jal Shey Neophyte Armor (-570 credits)
-	- Opila Crystal (-2831 credits)
-	- Power Implant (-1615 credits) <br>
-	At this point in the run, we should have almost all of our endgame items, the last two items will be looted during the Tomb of Freedon Nadd.
+Our last shopping trip! And our last talk with Geeda during the quest 'Trade War: Bonus Mission' and also partly completing 'New Trade Routes: Bonus Mission' Geedas shop will have an upgrade and give us the opportunity to buy the following items:
+
+```
+- Jal Shey Neophyte Armor (-570 credits)
+- Opila Crystal (-2831 credits)
+- Power Implant (-1615 credits)
+```
+
+At this point in the run, we should have almost all of our endgame items, the last two items will be looted during the Tomb of Freedon Nadd.
 
 Most of our credits come from our completed quests as a part of the run anyway, and a select few guaranteed items. The credits route is a quite tight, but if followed correctly there should be no issues.
 
@@ -1004,9 +1044,9 @@ Sell:
 - Benoks Blaster
 Buy:
 - 4x Advanced Medpacs
-- 7x Alacrity
+- 6x Alacrity
 - 5x Strength
-- 5x Stamina
+- 4x Stamina
 - 11x Battle Stim
 If you have <10 Medpacs, buy enough to get to 20. If >20 don't buy any.
 ```
