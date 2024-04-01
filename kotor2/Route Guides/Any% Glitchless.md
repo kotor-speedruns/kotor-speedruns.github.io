@@ -508,10 +508,8 @@ Afterwards, swap to MC:
 - 1 spam through the next cutscene and kill Luxa and bodyguards.  After the convo (1 spam) loot Luxa and Benok's corpses for an Exchange Negotiator + Benok’s Blaster.
 
 - Leave the area and run back to the Ithorian Compound.  Turn on solo mode and leave Kreia at the console, and head inside with the MC to talk to Chodo (1 spam).  Afterwards, swap to Kreia and transport to the Cantina (2 2)
-- Go inside the Cantina, turn on solo mode and swap to MC to talk to the czerka guy (stay on the right side of the group of people to avoid a cutscene, see picture).
-
-[Cantina direction image](https://media.discordapp.net/attachments/808151224842977353/813292495361802260/unknown.png)
-
+- Go inside the Cantina, turn on solo mode and swap to MC to talk to the czerka guy.
+  - *Stay on the right side of the group of people to avoid a cutscene.*
 - Leave with Kreia and transition back to the Czerka area: 2,2
 - Solo Mode, swap to MC and run to the apartments at the end of the area.  
 - Open the middle door and threaten Opo: 1,2x-
@@ -557,9 +555,7 @@ Afterwards, swap to MC:
 - Run Bao-Dur through the base until the hangar.  There will be a cutscene that plays, IMMEDATELY pause after and swap back to Bao-Dur.  
 - Then open the two doors to the side (open left, use the console, then open the right door and turn off Solo Mode to bring your party members over.  
 - Turn on Solo Mode once your party members teleport over and run through the next room again.  
-- In the next room, you’ll see a Twi'lek.  Use this picture below to dodge the trigger (if you hit it, just spam 1)
-
-[Military Base trigger dodge image](https://cdn.discordapp.com/attachments/808151224842977353/813294621950083072/unknown.png)
+- In the next room, you’ll see a Twi'lek. Stick to the left side of the corner while going around it to dodge the trigger. If you hit it just spam 1.
 
 - Afterwards, make your way through the room until you see a console with 3 droids.  
 - Activate the console to disable the droids in the room, then proceed to the generator room (Heal as needed).  
@@ -601,7 +597,7 @@ Afterwards, swap to MC:
 - Avoid the charred corpses on the way, since a cutscene with Kreia will activate.
 - After the initial cutscene in the Academy, turn on Force Speed again.  
 
-[https://cdn.discordapp.com/attachments/808151224842977353/814374460253274112/unknown.png](https://cdn.discordapp.com/attachments/808151224842977353/814374460253274112/unknown.png)
+[Sith Academy Route Map](https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/assets/images/Sith%20Academy%20Map%20Final.png?raw=true)
 
 1. Make your way to the crossroads, then take the path to your right.
 2. Take the second left path all the way to the end (the purple path) and loot the footlocker there.  
@@ -674,8 +670,7 @@ Buy:
 
 - Follow the jungle path outlined here for each of the parts: 
 
-[https://cdn.discordapp.com/attachments/808151224842977353/813297903187263498/unknown.png
-](https://cdn.discordapp.com/attachments/808151224842977353/813297903187263498/unknown.png)
+[Dxun Jungle Route Map](/assets/images/Dxun%20Map%20glitchless.png?raw=true)
 - Stim up with MC and follow the blue path first.  Loot each of the parts as roughly outlined at the map (Cannoks hold these parts)
 - While fighting the zakkeg at #9, take Kreia through the orange path.  (Heal MC as needed)
 - Use 1-2 frag grenades (+ attacks if needed) on the Cannock.  
@@ -868,7 +863,7 @@ All other items as needed to get 2000 credits EXCEPT:
 
 
 
-![Goto's Yacht route map](https://i.imgur.com/4zB34vc.png/)
+![Goto's Yacht route map](/assets/images/Goto's%20Yacht%20Map%20Final.png?raw=true)
 
 
 1. `+ \` Manual Level Visas (do this for all levels she can get):
@@ -922,7 +917,7 @@ All other items as needed to get 2000 credits EXCEPT:
 
 - Inside the Tomb, turn on Solo Mode again.
 
-[https://cdn.discordapp.com/attachments/808151224842977353/814372080828022796/unknown.png](https://cdn.discordapp.com/attachments/808151224842977353/814372080828022796/unknown.png)
+[Freedon Nadd Route Map](/assets/images/Freedon%20Nadd%20Tomb%20Map.png?raw=true)
 
 1. Run Visas through the area to #5
 - If you get caught here, just ignore them and heal as needed.
@@ -1015,7 +1010,7 @@ All other items as needed to get 2000 credits EXCEPT:
 - Equip the Ossus Keeper Robes when in control of MC. (New players can opt to not do this, this will give advanced players a bigger FP pool)
 - Run through the Ravager (turn on solo mode) and follow the map below on placing the Proton Cores.
 <br>
-[Ravager Proton Core route](https://i.imgur.com/UuvBiNL.png)
+[Ravager Proton Core route](/assets/images/Ravager%20Command%20Deck%20Final.png?raw=true)
 <br>
 - The Green line represents our run to the Bridge to confront Nihilus.
 - The Red line represents the final run through the Ravager. See: [Ravager Final Run](#ravager-final-run)
@@ -1057,8 +1052,8 @@ All other items as needed to get 2000 credits EXCEPT:
 
 ### MC:
 <br>
-![MC route map 1](https://cdn.discordapp.com/attachments/808151224842977353/813309890449768448/unknown.png) <br>
-![MC route map 2](https://cdn.discordapp.com/attachments/808151224842977353/813309984036356106/unknown.png) <br>
+![Malachor MC section, route map 1](/assets/images/Malachor%20Surface%20MC.png) <br>
+![Malachor MC section, route map 2](/assets/images/Malachor%20Depths%20MC.png) <br>
 
 - In the second area, kill the 3 Storm Beasts near each other.
 - In the large area marked #5, use Force Enlightenment to kill the large Storm Beast.  It should die in 1-2 hits.
@@ -1075,14 +1070,14 @@ All other items as needed to get 2000 credits EXCEPT:
 
   - *Be careful, as you generally only have 3 repair kits.*
 
-![Remote route map 1](https://cdn.discordapp.com/attachments/808151224842977353/813310621835722762/unknown.png) <br>
-![Remote route map 2](https://cdn.discordapp.com/attachments/808151224842977353/813310695470661682/unknown.png) <br>
+![Malachor Remote section, route map 1](/assets/images/Malachor%20Surface%20Remote.png) <br>
+![Malachor Remote section, route map 2](/assets/images/Malachor%20Depths%20Remote.png) <br>
 
 ### Trayus Academy
 - Afterwards, you'll be in the Trayus Academy as MC. Mouse spam dialog where applicable Follow the maps outlined below:
 
-![Trayus Academy route map 1](https://cdn.discordapp.com/attachments/808151224842977353/813310858276503552/unknown.png) <br>
-![Trayus Academy route map 2](https://cdn.discordapp.com/attachments/808151224842977353/813310920792473610/unknown.png) <br>
+![Trayus Academy route map 1](/assets/images/Trayus%20Academy%20Final.png) <br>
+![Trayus Academy route map 2](/assets/images/Trayus%20Crescent%20Final.png) <br>
 
 
 - As you'll be running through a lot of enemies, make sure MC is healthy and heal as needed.
