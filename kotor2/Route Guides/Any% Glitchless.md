@@ -597,7 +597,7 @@ Afterwards, swap to MC:
 - Avoid the charred corpses on the way, since a cutscene with Kreia will activate.
 - After the initial cutscene in the Academy, turn on Force Speed again.  
 
-[Sith Academy Route Map](https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/assets/images/Sith%20Academy%20Map%20Final.png?raw=true)
+![Sith Academy Route Map](/assets/images/Sith%20Academy%20Map%20Final.png)
 
 1. Make your way to the crossroads, then take the path to your right.
 2. Take the second left path all the way to the end (the purple path) and loot the footlocker there.  
@@ -670,7 +670,7 @@ Buy:
 
 - Follow the jungle path outlined here for each of the parts: 
 
-[Dxun Jungle Route Map](/assets/images/Dxun%20Map%20glitchless.png?raw=true)
+![Dxun Jungle Route Map](/assets/images/Dxun%20Map%20glitchless.png?raw=true)
 - Stim up with MC and follow the blue path first.  Loot each of the parts as roughly outlined at the map (Cannoks hold these parts)
 - While fighting the zakkeg at #9, take Kreia through the orange path.  (Heal MC as needed)
 - Use 1-2 frag grenades (+ attacks if needed) on the Cannock.  
@@ -917,7 +917,7 @@ All other items as needed to get 2000 credits EXCEPT:
 
 - Inside the Tomb, turn on Solo Mode again.
 
-[Freedon Nadd Route Map](/assets/images/Freedon%20Nadd%20Tomb%20Map.png?raw=true)
+![Freedon Nadd Route Map](/assets/images/Freedon%20Nadd%20Tomb%20Map.png?raw=true)
 
 1. Run Visas through the area to #5
 - If you get caught here, just ignore them and heal as needed.
@@ -1010,7 +1010,7 @@ All other items as needed to get 2000 credits EXCEPT:
 - Equip the Ossus Keeper Robes when in control of MC. (New players can opt to not do this, this will give advanced players a bigger FP pool)
 - Run through the Ravager (turn on solo mode) and follow the map below on placing the Proton Cores.
 <br>
-[Ravager Proton Core route](/assets/images/Ravager%20Command%20Deck%20Final.png?raw=true)
+![Ravager Proton Core route](/assets/images/Ravager%20Command%20Deck%20Final.png?raw=true)
 <br>
 - The Green line represents our run to the Bridge to confront Nihilus.
 - The Red line represents the final run through the Ravager. See: [Ravager Final Run](#ravager-final-run)
@@ -1052,6 +1052,7 @@ All other items as needed to get 2000 credits EXCEPT:
 
 ### MC:
 <br>
+
 ![Malachor MC section, route map 1](/assets/images/Malachor%20Surface%20MC.png) <br>
 ![Malachor MC section, route map 2](/assets/images/Malachor%20Depths%20MC.png) <br>
 
