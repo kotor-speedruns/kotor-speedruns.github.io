@@ -363,20 +363,19 @@ Here is the alignment route used in the run:
 | Light | Kill Captain Riiken | Low Dark | 0/2 | -2 | 60 | 62 | 
 | Light | Agree to not harm civilians in cantina | Low Light | 2/0 | 2 | 62 | 64 |  
 | Light | Threaten Quello | Low Dark | 0/1 | -1 | 61 | 65 | 
-| Light | Intervene to save a refugee | Mid Light | 2/0 | 2 | 63 | 67 | 
-| Light | Give beggar credits | Mid Light | 2/0 | 2 | 65 | 69 | 
-| Light | Destroy C9-T9 | Low Dark | 0/1 | -1 | 64 | 70 | 
-| Light | Intervene to save a refugee | Low Light | 1/0 | 1 | 65 | 71 | 
-| Light | Reassure Ebon Hawk former owner | Mid Light | 2/0 | 2 | 67 | 73 | 
-| Light | Heal Geriel | Low Light | 1/0 | 1 | 68 | 74 | 
-| Light | Persuade Saquesh to free Adana | Low Light | 1/0 | 1 | 69 | 75 | 
-| Light | Saquesh will no longer pressure refugees | Low Light | 1/0 | 1 | 70 | 76 | 
-| Light | Help Aiida and Lootra reconnect | Mid Light | 2/0 | 2 | 72 | 78 | 
-| Light | Help Geeda establish trade routes | Low Light | 1/0 | 1 | 73 | 79 | 
-| Light | Lie to Geredi | Low Dark | 0/1 | -1 | 72 | 80 | 
-| Light | Find a pilot for the Lunar Shadow Crew | Low Light | 1/0 | 1 | 73 | 82 | 
-| Light | Be nice to Visas | High Light | 4/0 | 4 | 77 | 85 | 
-| Light | Stand up for Visas when talking to Kreia | Low Light | 1/0 | 1 | 78 | 86 |
+| Light | Intervene to save a refugee | Mid Light | 1/0 | 1 | 62 | 67 | 
+| Light | Give beggar credits | Mid Light | 1/0 | 1 | 63 | 69 | 
+| Light | Destroy C9-T9 | Low Dark | 0/1 | -1 | 62 | 70 | 
+| Light | Intervene to save a refugee | Low Light | 1/0 | 1 | 63 | 71 | 
+| Light | Reassure Ebon Hawk former owner | Mid Light | 2/0 | 2 | 65 | 73 | 
+| Light | Heal Geriel | Low Light | 1/0 | 1 | 66 | 74 | 
+| Light | Persuade Saquesh to free Adana | Low Light | 1/0 | 1 | 67 | 75 | 
+| Light | Saquesh will no longer pressure refugees | Low Light | 1/0 | 1 | 68 | 76 | 
+| Light | Help Aiida and Lootra reconnect | Mid Light | 2/0 | 2 | 70 | 78 | 
+| Light | Help Geeda establish trade routes | Low Light | 1/0 | 1 | 71 | 79 | 
+| Light | Lie to Geredi | Low Dark | 0/1 | -1 | 70 | 80 | 
+| Light | Find a pilot for the Lunar Shadow Crew | Low Light | 1/0 | 1 | 71 | 82 | 
+| Light | Be nice to Visas | High Light | 4/0 | 4 | 75 | 85 |
 
 Alignment is not as important in this game, as we don’t use any equipment restricted by alignment. We do, however, stay on Light Side/Neutral in order to obtain Mira at Nar Shaddaa, as she is used for Goto’s ship segment to pass by the many deadly mines quickly without blowing them up, and to obtain deadly mines for Hanharr 2 later on at Malachor V.  
 We also try to get as many LSP as possible during the first half of Nar Shaddaa to get us to 75 Alignment so that we can enter the Sith Tomb on Korriban. The Sith Tomb wont let you enter unless you are at least at 25 or 75 alignment respectively.
@@ -1523,7 +1522,6 @@ Buy:
 - Cast Knight Speed.
   - *If any of the following dialog is done incorrectly, it may result in an alignment total below 75, this will refuse us entry to the Sith Tomb and our run will end.*
 - Run and speak to Visas: 1,1,1,4,1,1,3
-- Run and speak to Kreia: 4,5,1x4,2
 - Fly to Korriban.
 
 ## Korriban
@@ -1963,6 +1961,10 @@ Buy:
 - Time ends on the last hit on Traya, GG!
 
 ## Version History
+### v2.02 (April 2024)
+- Updated Alignment Route to be 75 at start of Korriban.
+- Removed Dialog with Kreia before Korriban.
+
 ### v2.0.1 (February 2024)
 - Credits Route and Shopping Trip updated for Dantooine - Adum Larp, this is now the exact amount of stims needed before shopping with Kex on Dxun.
 - Fixed a mistake with Dialog before the Sith Ambush on Dxun.
