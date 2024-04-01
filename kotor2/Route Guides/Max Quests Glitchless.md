@@ -1539,7 +1539,7 @@ Buy:
 - Enter the Sith Academy.
 - After the initial Sion cutscene, cast Knight Speed and follow the map below:
 
-![Korriban Sith Academy Route map](https://cdn.discordapp.com/attachments/808151224842977353/814374460253274112/unknown.png)
+![Korriban Sith Academy Route map]([https://cdn.discordapp.com/attachments/808151224842977353/814374460253274112/unknown.png](https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/assets/images/Sith%20Academy%20Map%20Final.png?raw=true))
 
 - Follow the purple line, activate 1x Alacrity stim on your way and loot the Footlocker.
   - *If you get trapped by any Tuk'ata just hit them until they move.*
