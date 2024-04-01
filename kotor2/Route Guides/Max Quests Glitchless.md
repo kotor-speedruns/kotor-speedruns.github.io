@@ -1623,8 +1623,7 @@ Buy:
 - `+` Cast Knight Speed and run forward to trigger a short cutscene to mouse spam through.
 - Activate Stealth and follow the map below:
 
-![Freedon Nadd tomb route map](assets/images/Freedon%20Nadd%20Tomb%20Map.png)
-
+![Freedon Nadd tomb route map](/assets/images/Freedon%20Nadd%20Tomb%20Map.png)
 - Run Visas through to #5, activating 1x Alacrity stim around half way.
   - *If Visas gets spotted just keep running and keep Visas healed as you can.*
 - Use the console at #5: 1,1
@@ -1766,7 +1765,7 @@ Buy:
 
 
 
-![Goto's Yacht route map](assets/images/Goto's%20Yacht%20Map%20Final.png)
+![Goto's Yacht route map](/assets/images/Goto's%20Yacht%20Map%20Final.png)
 
 
 1. `+ \` Auto Level Up, cast Knight Speed then interact with the terminal: 1,4,2,2
@@ -1862,7 +1861,7 @@ Buy:
 - `+` Cast Knight Speed.
 - Run through the Ravager following the map below for placing Proton Cores.
 
-![Ravager Proton Core map](assets/images/Ravager%20Command%20Deck%20Final.png)
+![Ravager Proton Core map](/assets/images/Ravager%20Command%20Deck%20Final.png)
 
 - The Green line represents our run to the Bridge to confront Nihilus:
 - The Red line represents the final run through the Ravager. See: [Ravager Final Run](#ravager-final-run)
@@ -1909,8 +1908,8 @@ Buy:
 - If they don't die on first hit with a force jump then continue on and don't worry about it, just be cautious when floating around as the Remote.
 
 ### MC
-![Malachor MC section, route map 1](assets/images/Malachor%20Surface%20MC.png) <br>
-![Malachor MC section, route map 2](assets/images/Malachor%20Depths%20MC.png)
+![Malachor MC section, route map 1](/assets/images/Malachor%20Surface%20MC.png) <br>
+![Malachor MC section, route map 2](/assets/images/Malachor%20Depths%20MC.png)
 
 - In the second area, kill the 3 Storm Beasts near each other at #2.
 - Kill 1 Storm Best near #3, this will help the Remote later.
@@ -1930,8 +1929,8 @@ Buy:
 - Be careful not to get trapped in the third ship.
 - Mouse spam through dialog where applicable.
 
-![Malachor Remote section, route map 1](assets/images/Malachor%20Surface%20Remote.png) <br>
-![Malachor Remote section, route map 2](assets/images/Malachor%20Depths%20Remote.png)
+![Malachor Remote section, route map 1](/assets/images/Malachor%20Surface%20Remote.png) <br>
+![Malachor Remote section, route map 2](/assets/images/Malachor%20Depths%20Remote.png)
 
 ### Trayus Academy
 - Afterwards, you'll be in the Trayus Academy as MC. Mouse spam dialog where applicable Follow the maps outlined below:
