@@ -1935,8 +1935,8 @@ Buy:
 ### Trayus Academy
 - Afterwards, you'll be in the Trayus Academy as MC. Mouse spam dialog where applicable Follow the maps outlined below:
 
-![Trayus Academy route map 1](assets/images/Trayus%20Academy%20Final.png) <br>
-![Trayus Academy route map 2](assets/images/Trayus%20Crescent%20Final.png)
+![Trayus Academy route map 1](/assets/images/Trayus%20Academy%20Final.png) <br>
+![Trayus Academy route map 2](/assets/images/Trayus%20Crescent%20Final.png)
 
 - You will be running through a lot of enemies in here, make sure to keep an eye on MC's HP and heal as needed.
   - *Cast Knight Speed at the start of each new module that you enter.*
