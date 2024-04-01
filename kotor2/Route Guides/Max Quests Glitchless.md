@@ -1529,7 +1529,7 @@ Buy:
 ## Korriban
 
 ### Sith Academy
-- If everything in the alignment route was completed correctly, we will have 78 alignment and we can enter the Sith Tomb.
+- If everything in the alignment route was completed correctly, we will have 75 alignment and we can enter the Sith Tomb.
 - Landing cutscene: 3,2
 - Cast Knight Speed.
 - Make a hardsave here, quit, restart your game and load your save.
