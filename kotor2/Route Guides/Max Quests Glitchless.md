@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic II - The Sith Lords - Max Quests Glitchless Guide
 
-## v2.0.1: Female Jedi Guardian Route (Light Side)
+## v2.0.2: Female Jedi Guardian Route (Light Side)
 
 *First of all, major credit to goes out to [30cents](https://www.speedrun.com/user/30Cents) for his help with some route improvements and [Sanjan](https://www.speedrun.com/user/Sanjan) for their work on the Any% Glitchless route. I would also like to thank [AtomicHeartSon](https://www.speedrun.com/user/AtomicHeartSon), for jumping in and beginning the routing progress for this category, it wouldn't be where it is today without his initial eagerness to bring this to life.*
 
@@ -1200,7 +1200,9 @@ If you have <10 Medpacs, buy enough to get to 20. If >20 don't buy any.
 - Kill all the scouts and continue to the third Cannok #15.
 - Kill and loot third Cannok.
 - Complete 'An Explosive Situation' Quest, go up the path to #16 and click on the Permacrete Detonator: 1
-- Run MC to #14 to find Kelborn: 1,1,4,3  `\`
+- `\` Exit to Mandalorian Ruins.
+- `\` Immediately turn 180° and exit back out to Dxun Jungle.
+- `+` Cast Knight Speed, run MC to #14 to find Kelborn: 1,1,4,3  `\`
 - Exit to Mandalorian Ruins.
 
 ### Mandalorian Ruins
@@ -1963,6 +1965,7 @@ Buy:
 ## Version History
 ### v2.02 (April 2024)
 - Updated Alignment Route to be 75 at start of Korriban.
+- Changed a sequence during Dxun Jungle to save ~10-15s.
 - Removed Dialog with Kreia before Korriban.
 
 ### v2.0.1 (February 2024)
