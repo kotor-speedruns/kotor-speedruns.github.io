@@ -73,7 +73,7 @@ First you need to install git onto your terminal of choice. See the [Git Getting
 
 Once git is installed we need to clone the repository. On the main reposity page hit the "Code" drop down to get the clone link (HTTPS should be fine).
 
-![Alt text](assets/images/Readme/github-clone.png)
+![PUT IMAGE HERE](assets/images/Readme/github-clone.png)
 
 Open your terminal and navigate to the directory you want to clone the repository (such as documents, etc). If git is installed correctly you should be able to run the following command:
 ```
