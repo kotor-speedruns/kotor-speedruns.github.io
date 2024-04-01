@@ -1177,7 +1177,7 @@ If you have <10 Medpacs, buy enough to get to 20. If >20 don't buy any.
   - *Kreia is Orange.*
   - *Cannoks are Red X's.*
 
-![Dxun Jungle Map](assets/images/Dxun%20Map%20Final.png)
+![Dxun Jungle Map](/assets/images/Dxun%20Map%20Final.png)
 
 - Run to your left and cast Force Valor to kill the first Cannok at #5.
 - Loot the Cannok.
