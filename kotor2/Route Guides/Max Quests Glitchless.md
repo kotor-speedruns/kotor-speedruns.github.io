@@ -283,7 +283,7 @@ After we are finished with Onderon 1 we will be back at the Mandalorian Ruins, i
 - 15x Alacrity (~ -750 credits)
 - 10x Stamina (~ -500 credits)
 - 10x Strength (~ -500 credits)
-- 12x Average Frag Mines (-3000 credits)
+- 13x Average Frag Mines (-3250 credits)
 ```
 
 Since we sold the Mandalorian Assault Rifle during Onderon 1, we should have plenty of credits at this point and not have to worry about selling any more items for the rest of the run.
@@ -392,7 +392,7 @@ The reasoning for the middle planets:
 - Nar Shaddaa is done next as per our alignment route we need to get to 75 or higher in order to enter the Sith Tomb on Korriban. Plus we want to unlock Geeda’s upgraded wares, which is crucial for our build.
 - Next we head to Korriban to find Master Vash and complete the Secret Tomb, if Kreia does not allow you to enter the tomb here then your run ends.
 - We go back for Dxun and Onderon 2 as part of the main quest, this only unlocks after completion of another planet, post Dxun/Onderon 1.
-- Back to Nar Shaddaa! Finally we get to use the 12 Frag Mines that we bought from Kex on Dxun! These are used in some quite combat intensive segments with Atton and Mira. Plus we have a whole bunch of side quests and main quests to complete here still.
+- Back to Nar Shaddaa! Finally we get to use the 12 of our 13 Frag Mines that we bought from Kex on Dxun! These are used in some quite combat intensive segments with Atton and Mira. Plus we have a whole bunch of side quests and main quests to complete here still.
 
 ## Detailed Route
 
@@ -1349,7 +1349,7 @@ Buy:
 - 15x Alacrity
 - 10x Stamina
 - 10x Strength
-- 12x Average Frag Mines
+- 13x Average Frag Mines
 ```
 	
 - Cast Knight Speed.
@@ -1921,7 +1921,7 @@ Buy:
 - Head to the entrance to Trayus Academy, mouse spam through cutscenes until the fight with Hanharr.
 
 ### Mira
-- Plant all 5 Deadly Frag Mines and run Hanharr through them.
+- Plant all 5 Deadly Frag Mines, plus the 1 leftover Average Frag Mine and run Hanharr through them.
 - Hanharr should die instantly, but if not then you can just launch grenades at him.
 - Hanharr: 1,1,1
   - *Don't click your mouse once the screen starts to fade black.*
@@ -1969,6 +1969,9 @@ Buy:
 - Changed a sequence during Dxun Jungle to save ~10-15s.
 - Removed Dialog with Kreia before Korriban.
 - Credits Route and Shopping Trip updated for Dxun - Kex, now buying more Advanced Medpacs and Average Frag Mines.
+- Average Frag Mines used on Twin Suns updated to 6 from 5.
+- Average Frag Mines used on Hahnharr updated to 6 from 5.
+- Added 1 Average Frag Mine to  Malachor Hanharr fight.
 - Added a change to Juyo Lightsaber Form from Shien after meeting with Zez-Kai Ell.
 
 ### v2.0.1 (February 2024)
