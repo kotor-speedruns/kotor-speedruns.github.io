@@ -277,13 +277,13 @@ We will also sell the Mandalorian Assault Rifle here as it will give us roughly 
 After we are finished with Onderon 1 we will be back at the Mandalorian Ruins, it is here we can shop with Kex and buy some crucial items for the rest of the run. We will only need to purchase enough of these items to end at the total given below:
 
 ```
-- 30-35 Advanced Medpacs (~ -2400 to -2800 credits)
+- 40 Advanced Medpacs (-3200GG credits)
 - 1x Hyper Battle (-200 credits)
 - 2x Hyper Strength (-200 credits)
 - 15x Alacrity (~ -750 credits)
 - 10x Stamina (~ -500 credits)
 - 10x Strength (~ -500 credits)
-- 10x Average Frag Mines (-2500 credits)
+- 12x Average Frag Mines (-3000 credits)
 ```
 
 Since we sold the Mandalorian Assault Rifle during Onderon 1, we should have plenty of credits at this point and not have to worry about selling any more items for the rest of the run.
@@ -392,7 +392,7 @@ The reasoning for the middle planets:
 - Nar Shaddaa is done next as per our alignment route we need to get to 75 or higher in order to enter the Sith Tomb on Korriban. Plus we want to unlock Geeda’s upgraded wares, which is crucial for our build.
 - Next we head to Korriban to find Master Vash and complete the Secret Tomb, if Kreia does not allow you to enter the tomb here then your run ends.
 - We go back for Dxun and Onderon 2 as part of the main quest, this only unlocks after completion of another planet, post Dxun/Onderon 1.
-- Back to Nar Shaddaa! Finally we get to use the 10 Frag Mines that we bought from Kex on Dxun! These are used in some quite combat intensive segments with Atton and Mira. Plus we have a whole bunch of side quests and main quests to complete here still.
+- Back to Nar Shaddaa! Finally we get to use the 12 Frag Mines that we bought from Kex on Dxun! These are used in some quite combat intensive segments with Atton and Mira. Plus we have a whole bunch of side quests and main quests to complete here still.
 
 ## Detailed Route
 
@@ -1343,13 +1343,13 @@ Sell:
 
 ```
 Buy:
-- 30-35 Advanced Medpacs
+- 40 Advanced Medpacs
 - 1x Hyper Battle
 - 2x Hyper Strength
 - 15x Alacrity
 - 10x Stamina
 - 10x Strength
-- 10x Average Frag Mines
+- 12x Average Frag Mines
 ```
 	
 - Cast Knight Speed.
@@ -1715,9 +1715,9 @@ Buy:
 - Once in the Docks, run forward.
 - Mira accosts to you: 1x-
 - Mouse spam until in control of Atton.
-  - *In order to defeat the Twin Suns we are going to Auto Level Up Atton and place 5 Frag Mines down where we are standing.*
+  - *In order to defeat the Twin Suns we are going to Auto Level Up Atton and place 6 Frag Mines down where we are standing.*
 - Auto Level Up.
-- Place 5 Frag Mines where you are standing, then run backwards against the bar to defeat the Twin Suns.
+- Place 6 Frag Mines where you are standing, then run backwards against the bar to defeat the Twin Suns.
   - *Keep Atton healed as needed.*
   - *Be careful with mouse spamming here on out as Nar Shaddaa likes to crash the game.*
 - Mira / MC: 1x-
@@ -1735,10 +1735,10 @@ Buy:
 - Go straight through one door, turn left, run straight and click on the final door to trigger the next section with Mira. 
 - Mouse and 1 spam until in control of Mira.
 - `}` Equip Mira with a Shield and the Plasma Torch. Use 1x Alacrity Stim.
-- Plant 5 Frag Mines where you are standing and run backward to defeat Hahnharr.
+- Plant 6 Frag Mines where you are standing and run backward to defeat Hahnharr.
   - *If Hahnharr doesn't die you can just run him through one of the other Frag Mines in the arena.*
   - *Kath hounds come out from behind the door.*
-- Loot the Beast Tender Corpse and Hahnharr's remains for 5x Frag Mines.
+- Loot the Beast Tender Corpse and Hahnharr's remains for 6x Frag Mines.
 - Head out to the Emergency Tunnel Control panel to escape: 1,1
 - Wait for Visquis unskippable dialog to finish, once in control of MC, cast Knight Speed and run to the left to get to the arena.
 - Open the arena door: 5,6 -> 1
@@ -1795,6 +1795,7 @@ Buy:
 - G0-T0 on Ebon Hawk: 1x4
 - Master Zez-Kai Ell: 1x4,3,1,1
 - Mouse spam through Zez teaching you Juyo.
+- Change Lightsaber Form from Shien to Juyo. (1 down)
 - Cast Knight Speed and run to Fassa
 - `=` Add Kreia and Visas to the party. `+`
 - Run and speak to Vogga twice: 1x7,5  \|  1
@@ -1967,6 +1968,8 @@ Buy:
 - Updated Alignment Route to be 75 at start of Korriban.
 - Changed a sequence during Dxun Jungle to save ~10-15s.
 - Removed Dialog with Kreia before Korriban.
+- Credits Route and Shopping Trip updated for Dxun - Kex, now buying more Advanced Medpacs and Average Frag Mines.
+- Added a change to Juyo Lightsaber Form from Shien after meeting with Zez-Kai Ell.
 
 ### v2.0.1 (February 2024)
 - Credits Route and Shopping Trip updated for Dantooine - Adum Larp, this is now the exact amount of stims needed before shopping with Kex on Dxun.
