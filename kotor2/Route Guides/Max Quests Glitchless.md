@@ -2,7 +2,7 @@
 
 ## v2.0.2: Female Jedi Guardian Route (Light Side)
 
-*First of all, major credit to goes out to [30cents](https://www.speedrun.com/user/30Cents) for his help with some route improvements and [Sanjan](https://www.speedrun.com/user/Sanjan) for their work on the Any% Glitchless route. I would also like to thank [AtomicHeartSon](https://www.speedrun.com/user/AtomicHeartSon), for jumping in and beginning the routing progress for this category, it wouldn't be where it is today without his initial eagerness to bring this to life.*
+*First of all, major credit to goes out to [30cents](https://www.speedrun.com/user/30Cents) for his help with some route improvements and [Sanjan](https://www.speedrun.com/user/Sanjan) for their work on the Any% Glitchless route.*
 
 This route defeats Darth Traya on Malachor V while also completing the Max amount of the Quests in a single run as fast as possible without the use of glitches. Timing begins upon clicking "PLAY" after character creation and ends on the last hit on Traya as the screen fades to black. A load-removal tool is available for LiveSplit thanks to glasnonck; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the character build for the run, as well as a detailed route.
 
@@ -161,7 +161,7 @@ We use the Jal Shey Armor then for its defense and dexterity bonus.
 
 **Body 2**: Ossus Keeper Robes
 - Obtained as a reward from Queen Talia during Onderon 2. <br>
-At the beginning of The Ravager we can swap to the Ossus Keeper Robes for a bigger force point pool, and for better resistance against Sion/Traya’s force powers (+4 Wisdom, +4 Intelligence, +2 Charisma). <br>
+We give Visas these robes for her Goto's Yacht segment, in the hopes that it helps her stay alive while she destroys the turrets. We also have the option to equip them to MC afterwards allowing MC to have a bigger forcepool for the coming areas, plus we gain a better resistance against Sion/Traya’s force powers (+4 Wisdom, +4 Intelligence, +2 Charisma). <br>
 Beginners can opt to keep the Jal Shey Neophyte Armor, as it provides more defense for the late game.
 
 **Main Hand**: Single Lightsaber
@@ -185,7 +185,7 @@ Giving us Damage Bonus +1-10 Cold and Charisma +2, this will replace Crystal, Ne
 This is a very good off-hand weapon that increases our accuracy while having higher damage than other lightsabers. Before that, we will be using a vibroblade, or a offhand lightsaber for damage.
 
 **Belt**: None. Or the best belt you looted <br>
-- There are no good guaranteed belts we can purchase for an affordable price. See itemization below for things you are looking for in a belt.
+- There are no good guaranteed belts we can purchase for an affordable price. See item prioritization below to see what you should look for in a belt.
 
 **Shield Slots**: Energy Shield <br>
 - The Energy Shield is equipped to mitigate damage from blasters, which is primarily used at Peragus when walking through mines. There are a couple sections in this run where Energy Shields will be helpful for MC and other party members.
@@ -237,7 +237,8 @@ This will leave us at a credit total between 2250 and 2750.
    
 ```
 - 15-20 Medpacs <br>
-Or less, maintaining above 1525 credits!
+This could be less or more, we just need to remain above 1525 credits after the trip!
+It's recommended that you buy as many as you can!
 
 ```
 
@@ -331,7 +332,7 @@ The guaranteed items we sell are as follows:
 ## Alignment Route
 
 Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher numbers are Light, lower numbers are dark.  Shifts in alignment are determined by a matrix; every alignment-shifting action is classified as Light or Dark, and then assigned a level (either Low, Mid, or High).  The player character (Exile) can either be aligned as Very Dark, Dark, Neutral, Light, or Very Light.  The more opposed your alignment and the action's classification, the more drastic your shift in alignment; for example, a Light-aligned character performing a High Dark action will have a large shift, while a Dark character performing a High Dark action will have a smaller shift.
-- There is 81 total alignment shifts in the run to get us to 75 for the Sith Tomb on Korriban.
+- There is 83 total alignment shifts in the run to get us to 75 for the Sith Tomb on Korriban.
 Here is the alignment route used in the run:
 
 | Aligned | Action | Type | LS/DS | Delta | New | Total Shifts | 
@@ -363,19 +364,19 @@ Here is the alignment route used in the run:
 | Light | Kill Captain Riiken | Low Dark | 0/2 | -2 | 60 | 62 | 
 | Light | Agree to not harm civilians in cantina | Low Light | 2/0 | 2 | 62 | 64 |  
 | Light | Threaten Quello | Low Dark | 0/1 | -1 | 61 | 65 | 
-| Light | Intervene to save a refugee | Mid Light | 1/0 | 1 | 62 | 67 | 
-| Light | Give beggar credits | Mid Light | 1/0 | 1 | 63 | 69 | 
-| Light | Destroy C9-T9 | Low Dark | 0/1 | -1 | 62 | 70 | 
-| Light | Intervene to save a refugee | Low Light | 1/0 | 1 | 63 | 71 | 
-| Light | Reassure Ebon Hawk former owner | Mid Light | 2/0 | 2 | 65 | 73 | 
-| Light | Heal Geriel | Low Light | 1/0 | 1 | 66 | 74 | 
-| Light | Persuade Saquesh to free Adana | Low Light | 1/0 | 1 | 67 | 75 | 
-| Light | Saquesh will no longer pressure refugees | Low Light | 1/0 | 1 | 68 | 76 | 
-| Light | Help Aiida and Lootra reconnect | Mid Light | 2/0 | 2 | 70 | 78 | 
-| Light | Help Geeda establish trade routes | Low Light | 1/0 | 1 | 71 | 79 | 
-| Light | Lie to Geredi | Low Dark | 0/1 | -1 | 70 | 80 | 
-| Light | Find a pilot for the Lunar Shadow Crew | Low Light | 1/0 | 1 | 71 | 82 | 
-| Light | Be nice to Visas | High Light | 4/0 | 4 | 75 | 85 |
+| Light | Intervene to save a refugee | Mid Light | 1/0 | 1 | 62 | 66 | 
+| Light | Give beggar credits | Mid Light | 1/0 | 1 | 63 | 67 | 
+| Light | Destroy C9-T9 | Low Dark | 0/1 | -1 | 62 | 68 | 
+| Light | Intervene to save a refugee | Low Light | 1/0 | 1 | 63 | 69 | 
+| Light | Reassure Ebon Hawk former owner | Mid Light | 2/0 | 2 | 65 | 71 | 
+| Light | Heal Geriel | Low Light | 1/0 | 1 | 66 | 72 | 
+| Light | Persuade Saquesh to free Adana | Low Light | 1/0 | 1 | 67 | 73 | 
+| Light | Saquesh will no longer pressure refugees | Low Light | 1/0 | 1 | 68 | 74 | 
+| Light | Help Aiida and Lootra reconnect | Mid Light | 2/0 | 2 | 70 | 76 | 
+| Light | Help Geeda establish trade routes | Low Light | 1/0 | 1 | 71 | 77 | 
+| Light | Lie to Geredi | Low Dark | 0/1 | -1 | 70 | 78 | 
+| Light | Find a pilot for the Lunar Shadow Crew | Low Light | 1/0 | 1 | 71 | 79 | 
+| Light | Be nice to Visas | High Light | 4/0 | 4 | 75 | 83 |
 
 Alignment is not as important in this game, as we don’t use any equipment restricted by alignment. We do, however, stay on Light Side/Neutral in order to obtain Mira at Nar Shaddaa, as she is used for Goto’s ship segment to pass by the many deadly mines quickly without blowing them up, and to obtain deadly mines for Hanharr 2 later on at Malachor V.  
 We also try to get as many LSP as possible during the first half of Nar Shaddaa to get us to 75 Alignment so that we can enter the Sith Tomb on Korriban. The Sith Tomb wont let you enter unless you are at least at 25 or 75 alignment respectively.
@@ -686,8 +687,8 @@ Buy:
 
 ```
 Buy:
-- 30-35 Medpacs
-- This will more than likely be a lot less, making sure to remain above 1525 credits.
+- As many Medpacs as you can!
+- Make sure to remain above 1525 credits!
 ```
 
 - `\` Enter Dock Module 126.
@@ -1770,26 +1771,28 @@ Buy:
 ![Goto's Yacht route map](/assets/images/Goto's%20Yacht%20Map%20Final.png)
 
 
-1. `+ \` Auto Level Up, cast Knight Speed then interact with the terminal: 1,4,2,2
-2. Speak to the Utility Droid: 1
-3. Activate 1x Alacrity, then turn on Stealth (Default Hotkey: 'G').
-4. Follow the Blue line to the first Red X
-5. Activate Psuedo-Stim Set and Force Valor, open the door in front of you.
-6. Destroy the Maintenance Droid, followed by all 6 Turrets.
-7. Open the door to free MC
-8. Cast Knight Speed when in control of MC, run backwards to the console to get 'Access Code - Power Distribution': 1,3
-9. `\` Activate 1x Alacrity stim, activate Shield. Run Mira along the Orange line to #14.
-10. Once you bash the door to the Bridge, bash the Plasteel Cylinder in the right corner for 'Access Code - Droid Controller'.
-11. Access the Bridge Command Console at #15: 3,1,1,1,2,2,4,1,4,3,5
+1. `+ \` Auto Level Up,
+2. `}` Equip Ossus Keeper Robes.
+3.cast Knight Speed then interact with the terminal: 1,4,2,2
+4. Speak to the Utility Droid: 1
+5. Activate 1x Alacrity, then turn on Stealth (Default Hotkey: 'G').
+6. Follow the Blue line to the first Red X
+7. Activate Psuedo-Stim Set and Force Valor, open the door in front of you.
+8. Destroy the Maintenance Droid, followed by all 6 Turrets.
+9. Open the door to free MC
+10. Cast Knight Speed when in control of MC, run backwards to the console to get 'Access Code - Power Distribution': 1,3
+11. `\` Activate 1x Alacrity stim, activate Shield. Run Mira along the Orange line to #14.
+12. Once you bash the door to the Bridge, bash the Plasteel Cylinder in the right corner for 'Access Code - Droid Controller'.
+13. Access the Bridge Command Console at #15: 3,1,1,1,2,2,4,1,4,3,5
   - *Sometimes the previous selections don't work, in that case it will likely be: 3,1,1,1,2,2,5,1,4,3,5.*
-12. Head back to #14 and recover all 5 Deadly Frag Mines, which we will be using for a later fight.
-13. While Mira recovers mines, run MC to #1 (Green line).
+14. Head back to #14 and recover all 5 Deadly Frag Mines, which we will be using for a later fight.
+15. While Mira recovers mines, run MC to #1 (Green line).
   - *We will need to cast Knight Speed as MC.*
   - *It takes between 4 and 5 seconds to recover 1 Mine.*
-14. `}` Unequip Mira's Plasma Torch.
-15. Access Primary Power System: 1,2,2,2
-16. Access Bridge Command Console: 1,5,3,5
-17. `\ \` Exit Goto's Yacht.
+16. `}` Unequip Mira's Plasma Torch.
+17. Access Primary Power System: 1,2,2,2
+18. Access Bridge Command Console: 1,5,3,5
+19. `\ \` Exit Goto's Yacht.
 
 ### Finish Nar Shaddaa
 - G0-T0 on Ebon Hawk: 1x4
@@ -1801,8 +1804,9 @@ Buy:
 - Run and speak to Vogga twice: 1x7,5  \|  1
   - *Swap to Visas, party swaps may be reversed.*
 - `\ \` Talk to Fassa: 1,1,1
-- `}` Unequip MC's Lightsabers and Targetting Visor. `\`
-- `}` Equip MC's Lightsabers and Targetting Visor.
+- `}` Unequip Lightsabers, Targetting Visor and Ossus Keeper Robes. `\`
+- `}` Equip MC's Lightsabers, Targetting Visor and Ossus Keeper Robes.
+  - *New players can opt to keep the Jal Shey robes equipped for more Defense.*
 - Cast Knight Speed.
   - *Swap to Visas or Kreia, whatever one of them is first.*
 - Exit to Landing Pad. 
@@ -1859,8 +1863,6 @@ Buy:
 ### Ravager
   - *We can mouse spam once we see Visas.*
 - Mouse spam until in control of MC.
-- `}` Equip Ossus Keeper Robes.
-  - *New players can opt to keep the Jal Shey robes equipped for more Defense.*
 - `+` Cast Knight Speed.
 - Run through the Ravager following the map below for placing Proton Cores.
 
