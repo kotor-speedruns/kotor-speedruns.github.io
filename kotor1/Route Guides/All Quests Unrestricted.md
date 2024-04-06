@@ -634,7 +634,7 @@ SHOPPING: Zelka Forn
   - [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>) to warp to Upper City North's default spawn
 - *Stims: Strength on MC*
 - **Hard Save in Slot 3**
-- Disable V-Sync to perform the [Sith Base DLZ](<../Major Glitches/Displaced Load Zone#ch7Sith_Base_DLZ)
+- Disable V-Sync to perform the [Sith Base DLZ](<../Major Glitches/Displaced Load Zone#ch7Sith_Base_DLZ>)
 - Secretary accosts you: 3,1
 - *Stims: Alacrity on MC*
   - We use this here so it is *not* active outside the Sith Base
