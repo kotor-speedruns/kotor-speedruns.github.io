@@ -456,9 +456,11 @@ Quest Notes:
   - Perform the [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to return to the Command Module
 - [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) into the Starboard Section again, using whatever method you used before
 - Loot footlocker in Terminal Room 
-- Hack terminal console: 2,3 
+- Hack terminal console: 2,3
+- Loot Sith Commander for Prototype Vibroblade
 - Carth accosts you
-- Take escape pod to Taris 
+- Take escape pod to Taris
+  - Immediately activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen to [Free Look AMG](<../Major Glitches/Anywhere Menu Glitch#free-look-amgs>) the vision CS
   - ***Finishes "Attack on the Endar Spire"***
 
 ## Early Duel Ring
@@ -549,7 +551,7 @@ SHOPPING: Zelka Forn
 - Swap to Carth and run to the entrance of the second apartment on the left
 - Swap to MC and talk to Largo: 1,2
 - MC uses Critical Strike to kill Largo
--Swap to Carth and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
+- Swap to Carth and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the Sarna cutscene via QS/QL
   - First click through the cutscene until dialog stops, then cancel pop-up and QS/QL
   - ***Finishes "Invited to a Party"***
