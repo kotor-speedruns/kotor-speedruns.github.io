@@ -911,7 +911,7 @@ SHOPPING: Crattis Yurkal
 - Swap to MC and talk to Master Zhar again: 1,1,6,3,2,6,4
 - Swap to Canderous and talk to Master Dorak to become a Jedi Guardian
 - `Level 3: Save Skills, Medium Armor Proficiency, Force Valor and Affect Mind`
-- `Level 4:` [Master Speed FLU](<../Major Glitches/Fake Level Ups#master-speed-flu>)
+- `Level 4:` [Master Speed FLU](<../Major Glitches/Fake Level Up#master-speed-flu>)
 - Swap to Canderous and talk to Master Zhar
   - ***Begins "Jedi Trials"***
 - Swap to MC and use Workbench to fully upgrade Sanasiki's Blade
