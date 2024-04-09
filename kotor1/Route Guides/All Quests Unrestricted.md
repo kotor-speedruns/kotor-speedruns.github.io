@@ -1033,7 +1033,7 @@ SHOPPING: Crattis Yurkal
 - Return to Ebon Hawk and run forward slightly to have Lena accost Mission
   - ***Begins "Mission's Brother"***
 - Juhani #1 and #2
-- `Level 5:` [Master Valor FLU](<../Major Glitches/Fake Level Ups#master-valor-FLU>)
+- `Level 5:` [Master Valor FLU](<../Major Glitches/Fake Level Up#master-valor-FLU>)
 - Juhani #3
 - Board the Ebon Hawk
   - ***Finishes "The Ebon Hawk"***
