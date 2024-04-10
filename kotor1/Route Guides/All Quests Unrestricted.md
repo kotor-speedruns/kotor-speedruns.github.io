@@ -400,7 +400,7 @@ Quest Notes:
 - [Dantooine](#dantooine)
 - [Kashyyyk](#kashyyyk)
 - [Tatooine 1](#tatooine-1)
-- [Manaan 1](#manaan)
+- [Manaan 1](#manaan-1)
 - [Tatooine 2](#tatooine-2) 
 - [Manaan 2](#manaan-2)
 - [The Leviathan](#the-leviathan)
