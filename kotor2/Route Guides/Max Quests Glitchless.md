@@ -166,7 +166,7 @@ Beginners can opt to keep the Jal Shey Neophyte Armor, as it provides more defen
 
 **Main Hand**: Single Lightsaber
 - Crafted by Bao-Dur after Dantooine <br>
-We use a single-handed Lightsaber for use with Critical Strikes later on. At Nar Shaddaa, we will be buying two crystals to upgrade it.
+We use a single-handed Lightsaber for use with Critical Strikes after Dantooine. At Nar Shaddaa, we will be buying two crystals to upgrade it.
 
 **Crystal 1**: Nextor
 - Bought on Nar Shaddaa from Oondar (3580 credits) <br>
@@ -180,9 +180,9 @@ Grants us the Keen effect, which gives us a 10% increased chance to crit. It als
 - Obtained as a reward from Queen Talia during Onderon 2. <br>
 Giving us Damage Bonus +1-10 Cold and Charisma +2, this will replace Crystal, Nextor after the Onderon Palace.
 
-**Off-Hand**: Freedon Nadd's Short Lightsaber
-- Obtained from Freedon Nadd’s Tomb <br>
-This is a very good off-hand weapon that increases our accuracy while having higher damage than other lightsabers. Before that, we will be using a vibroblade, or a offhand lightsaber for damage.
+**Off-Hand**: Single or Short Lightsaber
+- Looted <br>
+We will upgrade this after Nar Shaddaa 1 and potentially again after Onderon 2, this replaced Freedon Nadd's Short Lightsaber which was originally in the run.
 
 **Belt**: None. Or the best belt you looted <br>
 - There are no good guaranteed belts we can purchase for an affordable price. See item prioritization below to see what you should look for in a belt.
@@ -1519,12 +1519,14 @@ Buy:
 - Enter Ebon Hawk.
   - *Cast Knight Speed here if you have enough FP, if not use Kreia for Burst of Speed.*
 - Run into the Garage and access the Workbench: 2
-- Proceed to add our 2 new Power Crystals to the Lightsaber and exit the Workbench.
+- Proceed to add our 2 new Power Crystals to the Lightsaber and exit the Workbench. It is also a good idea to upgrade your second Lightsaber here while you are at it.
 - Bring MC towards Cockpit until interrupted by the Red Eclipse Leader, Cahhmakt: 1x-
 - Mouse spam through Ebon Hawk 'onEnter' cutscenes.
 - Cast Knight Speed.
   - *If any of the following dialog is done incorrectly, it may result in an alignment total below 75, this will refuse us entry to the Sith Tomb and our run will end.*
 - Run and speak to Visas: 1,1,1,4,1,1,3
+  - ***OPTIONAL** Incase you feel like you missed something in the alignment route, use the following dialog with Visas. If you do this and you cannot enter the Secret Tomb coming up, your run ends.*
+- Visas *Optional*: 1x6,4
 - Fly to Korriban.
 
 ## Korriban
@@ -1562,7 +1564,7 @@ Buy:
   - *It is optional to equip any gloves and belt here.*
 - Run / Force Jump to the Secret Tomb entrance.
 - Enter the Tomb: 1
-  - *If Kreia tells you that you are not strong enough to enter the tomb, bring her into your party and do the following dialog options: 1x5,4 *
+  - *If Kreia tells you that you are not strong enough to enter the tomb, bring Visas into your party and do the following dialog options: 1x6,4 *
   - *If you still can't enter, your run end here as you have made an error along the alignment route.*
 - Mouse spam where applicable, Malak speaks to you: 3
   - *We only have to defeat Malak here.*
@@ -1640,8 +1642,7 @@ Buy:
   - *Watch Visas' health here, these Sith deal quite a lot of damage to her. Heal her with Advanced Medpacs often.*
 - Attack with Flurry until all Sith are defeated.
 - Loot the Sith for the Sith Power Gauntlets.
-- Run to Freedon Nadd's Sarcophagus and loot it for Freedon Nadd's Short Lightsaber.
-- `}` Unequip Visas of MC's Lightsaber.
+- `}` Unequip Visas of MC's Lightsabers.
 - Try to run out of the area or speak to Xarga to trigger the end of the tomb.
 - Xarga: 1
 
@@ -1654,7 +1655,7 @@ Buy:
 - Cast Knight Speed.
 - Auto Level Up Kreia and Atton.
 - Enter Sky Ramp
-- `}` Equip MC: Sith Power Gauntlets, Upgraded Lightsaber (Mainhand), Freedon Nadd's Short Lightsaber (Offhand)
+- `}` Equip MC: Sith Power Gauntlets, Upgraded Lightsabers
 - Run through to the Palace, keep Knight Speed active as you go.
   - *Pro Tip: Using the Plasma Torch on the Force Fields is quicker than using your Lightsabers.*
   - *It is recommended to make a safety save right before entering the Palace, the game is prone to crashing here.*
@@ -1966,15 +1967,17 @@ Buy:
 - Time ends on the last hit on Traya, GG!
 
 ## Version History
-### v2.02 (April 2024)
+### v2.0.2 (April 2024)
 - Updated Alignment Route to be 75 at start of Korriban.
 - Changed a sequence during Dxun Jungle to save ~10-15s.
 - Removed Dialog with Kreia before Korriban.
 - Credits Route and Shopping Trip updated for Dxun - Kex, now buying more Advanced Medpacs and Average Frag Mines.
 - Average Frag Mines used on Twin Suns updated to 6 from 5.
 - Average Frag Mines used on Hahnharr updated to 6 from 5.
-- Added 1 Average Frag Mine to  Malachor Hanharr fight.
+- Added 1 Average Frag Mine to Malachor Hanharr fight.
 - Added a change to Juyo Lightsaber Form from Shien after meeting with Zez-Kai Ell.
+- Removed looting Freedon Nadd's Lightsaber in exchange for the use of a second upgraded saber.
+- Fixed backup dialog for Secret Tomb.
 
 ### v2.0.1 (February 2024)
 - Credits Route and Shopping Trip updated for Dantooine - Adum Larp, this is now the exact amount of stims needed before shopping with Kex on Dxun.
