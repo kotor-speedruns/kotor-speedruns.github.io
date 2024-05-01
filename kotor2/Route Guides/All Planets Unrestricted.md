@@ -835,7 +835,7 @@ Conversation Notes:
 
 *OPTION 2 - Arm normally*
 - *(YOU WILL DO BOMB #4 BEFORE BOMB #3)*
-- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) and set detonator #4
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) and set bomb #4
 - QS/QL after "Arming signal received"
 - *Make sure to not select "Hold on, we're almost done*
 - [Save Teleport](../Techniques/Save%20Teleport) to end of hallway for bomb # 3
