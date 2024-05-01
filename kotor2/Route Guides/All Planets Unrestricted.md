@@ -829,7 +829,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Run into room
 - [DLZ](../Major%20Glitches/Displaced%20Load%20Zone) against locker to hit 4th bomb trigger
 
-![dlzlocker]](/assets/images/kotor2/dlzlocker.png)
+![dlzlocker](/assets/images/kotor2/dlzlocker.png)
 
 *OPTION 2 - Arm normally*
 - *(YOU WILL DO BOMB #4 BEFORE BOMB #3)*
