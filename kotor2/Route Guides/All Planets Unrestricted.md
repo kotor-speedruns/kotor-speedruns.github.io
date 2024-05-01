@@ -808,7 +808,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Add HK and G0T0
 - Activate Solo Mode
 
-  *AFTER OPTIONS*
+*AFTER OPTIONS*
 - Position G0-T0 near left LZ:
 
 ![gotocitadel](/assets/images/kotor2/gotocitadel.png)
