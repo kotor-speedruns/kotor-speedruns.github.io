@@ -765,7 +765,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 *OPTION 2*
  - [DLZ](../Major%20Glitches/Displaced%20Load%20Zone) into Rebuilt Enclave
 
-![rebuiltenclave](/assets/images/kotor2/rebuiltdlz.png)
+![rebuiltdlz](/assets/images/kotor2/rebuiltdlz.png)
 
 
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>)
