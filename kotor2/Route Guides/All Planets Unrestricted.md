@@ -536,7 +536,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 
 ![polarcapgotoyacht](/assets/images/kotor2/polarcapgotoyacht.png)
 
-- Hard Save
+*AFTER OPTIONS*
 - [Hotshot](../Major%20Glitches/Hotshot) to GOTO's yacht
 - 1,1,1,1,1,3 terminal with Kreia
 - Utility Droid with MC
@@ -736,6 +736,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 ![subleveldlz](/assets/images/kotor2/subleveldlz.png)
 
 
+*AFTER OPTIONS*
 - Activate Solo Mode
 - Move to the opposite side
 - Disciple: 1,5,5,1
@@ -767,7 +768,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 
 ![rebuiltdlz](/assets/images/kotor2/rebuiltdlz.png)
 
-
+*AFTER OPTIONS*
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>)
 - Move forward and mash first dialogue
 - Keep moving forward with AMG until longer cutscene
@@ -800,13 +801,14 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Add HK and G0T0
 - Exit office
 - Mash Ithorian
+- Activate Solo Mode
 
 *Option 2 - DID do DLZ on Citadel*
 - [Hotshot](../Major%20Glitches/Hotshot) to save in Apartment Complex B
 - Add HK and G0T0
-
-
 - Activate Solo Mode
+
+  *AFTER OPTIONS*
 - Position G0-T0 near left LZ:
 
 ![gotocitadel](/assets/images/kotor2/gotocitadel.png)
@@ -839,7 +841,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - [Save Teleport](../Techniques/Save%20Teleport) to end of hallway for bomb # 3
 
 
-
+*AFTER OPTIONS*
 - Make a hard save after arming all the bombs
 - Enter Bridge
 - Forward [Hotshot](../Major%20Glitches/Hotshot) This will position the MC right next to Nihilus
