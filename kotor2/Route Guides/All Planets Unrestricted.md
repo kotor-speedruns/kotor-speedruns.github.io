@@ -55,7 +55,7 @@ The brief overview of the route for the run, including planet order and major sk
 
 *0. Prologue*
 
-*Skip Prologue
+* Skip Prologue
 
 *1. Peragus*
 
