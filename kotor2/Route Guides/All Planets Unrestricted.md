@@ -157,16 +157,16 @@ The brief overview of the route for the run, including planet order and major sk
 This section will describe all the actions you'll need to take for the run.
 
 Notation:
-- `>` indicates a level up to be done
-- `}` indicates an inventory/equipment action to be done
-- MC indicates the Main Character (aka you/The Exile)
+* `>` indicates a level up to be done
+* `}` indicates an inventory/equipment action to be done
+* MC indicates the Main Character (aka you/The Exile)
 
 Conversation Notes:
-If no conversation choices are specified, spamming will work (this chooses all 1 options).
-\| indicates a break in the conversation.  You will have to talk to the person again. As in  *Chodo Habat 3 times: 1spam | 1spam | 1spam*
-`->` indicates a secondary part to the conversation.  This is different from -> in that the conversation automatically initiates, rather than having to talk to the same person.
-`#xY` indicates repeat that option Y times, as in *Speak to Kreia: 2x7,1,5,1*
-`#x-` indicates the rest of this conversation uses that particular number, generally used to indicate conversation spam not using 1 as in *Op Chano: 1,2x-*
+* If no conversation choices are specified, spamming will work (this chooses all 1 options).
+* `|` indicates a break in the conversation.  You will have to talk to the person again. As in  *Chodo Habat 3 times: 1spam | 1spam | 1spam*
+* `->` indicates a secondary part to the conversation.  This is different from `|` in that the conversation automatically initiates, rather than having to talk to the same person.
+* `#xY` indicates repeat that option Y times, as in *Speak to Kreia: 2x7,1,5,1*
+* `#x-` indicates the rest of this conversation uses that particular number, generally used to indicate conversation spam not using 1 as in *Op Chano: 1,2x-*
 
 **Jump to a Section:**
 - [Prologue](#prologue)
@@ -322,8 +322,8 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Use Kreia to leave the docking bay during combat
 - Talk to information terminal : 2
 - Talk to droid after combat ends: 2x-
-- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during load screen | QS/QL to skip
-- Jana Lorso: 2 | 1x-
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during load screen \| QS/QL to skip
+- Jana Lorso: 2 \| 1x-
 - Hard Save in front of Lorso
 - Leave Czerka office
 - Hard Save
@@ -415,7 +415,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - QS/QL when it turns to Atton/Kreia jail CS
 - Turn around and save teleport to prison cells
 - Open Door to Atton/Kreia and run away from door
-- Atton/Kreia: 1,7,3 | Bao Dur - 1,3,1
+- Atton/Kreia: 1,7,3 \| Bao Dur - 1,3,1
 - Run towards T3/Hangar Bay
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) then QS/QL T3 conversation
 - Hard save at top of ramp to Ebon Hawk
@@ -469,7 +469,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>)/QS/QL or [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) Exchange Thugs
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>)/QS/QL peasant asking for money(Can be done with Thugs if you are quick enough)
 - Enter docks
-- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during load |  Hard Save/Hard Load Hanharr cutscene
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during load \|  Hard Save/Hard Load Hanharr cutscene
 - Run to warehouse
 - Make Hard Save in front of apartments
 - Open door and add T3
@@ -487,7 +487,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - [Hotshot](../Major%20Glitches/Hotshot) back to Docks with 3C in party
 - Use 3C to enter Refugee Landing Pad
 - Re-enter docks
-- Talk to 3C 1 | 2
+- Talk to 3C 1 \| 2
 - Hard save
 - [Hotshot](../Major%20Glitches/Hotshot) to first Prologue Ebon Hawk save
 - Skip tutorial: 2
