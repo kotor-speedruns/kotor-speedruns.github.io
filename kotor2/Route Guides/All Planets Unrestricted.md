@@ -855,7 +855,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Add G0-T0
 - Position G0-T0 on top of the left side rectangular window
 
-![gotowindow]](/assets/images/kotor2/gotowindow.png)
+![gotowindow](/assets/images/kotor2/gotowindow.png)
 
 - [Hotshot](../Major%20Glitches/Hotshot) back to Malachor
 - Use G0-T0 to enter nearby Loading Zone
@@ -863,7 +863,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) in the load then QS/QL the intro Ravager cutscene again
 - Position G0-T0 underneath North door frame
 
-![gotodoor]](/assets/images/kotor2/gotodoor.png)
+![gotodoor](/assets/images/kotor2/gotodoor.png)
 
 - [Hotshot](../Major%20Glitches/Hotshot) back to Malachor
 - Use G0-T0 to enter academy
