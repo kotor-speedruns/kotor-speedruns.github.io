@@ -461,7 +461,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 
 ## Nar Shaddaa
 
-###Before Goto’s Yacht
+### Before Goto’s Yacht
 
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>)/QS/QL or [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers)  to skip Nar Shaddaa cutscene
 - Exit Ebon Hawk
