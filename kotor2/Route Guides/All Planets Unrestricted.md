@@ -582,19 +582,18 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Make a hard save somewhere near the Telemetry Computer
 - Repair Telemetry Computer
 - Switch to Kreia and exit to jungle
+
+![APdxnmap](/assets/images/kotor2/APdxnmap.png)
+
 - Activate Solo Mode
 - `}` Equip Killblaster to Kreia
-- Use Kreia to kill NW Cannock and loot
-- Use MC and take the right path for a second
-- Kill Cannock near the cat creatures and loot
-- While MC is killing, use Kreia to Loot Cannock
-- Use MC to kill SE Cannock
+- Use Kreia to kill Cannock #1(see map above)
+- Swap to MC while Kreia attacks
+- Kill Cannock #2 
+- While MC is killing, use Kreia to Loot Cannock she killed and trigger the detonator further up the path
+- Swap back to MC to kill Cannock #3 and loot it
 - Kill Zakkeg and loot the Zakkeg Ear
-- Make sure to loot the Kreia killed
-- Trigger detonator with Kreia in NW corner
-
-![dxnmap](/assets/images/kotor2/dxunmap.png)
-
+- Loot Leftmost Skeleton(If facing back of area from entrance) for credits
 - Use T3 to enter the Mandalorian camp
 - Mandalorian captain: 2,3
 - Talk to Zuka twice
@@ -670,6 +669,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Add Atton
 - Activate Solo Mode
 - Use Atton to position for a coordinate warp
+	- *Be sure to save teleport quickly through, there are droids and it’s slow to kill them, and taking damage is not ideal before the next part*
 
 ![milbasetomb](/assets/images/kotor2/milbasetomb.png)
 
@@ -688,7 +688,11 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 
 - [Save Teleport](../Techniques/Save%20Teleport) to Skyramp
 - [Hotshot](../Major%20Glitches/Hotshot) to Dxun Telemetry Computer Save
-- Place Kreia in position for ![coordinate warp](/assets/images/kotor2/mandoskyramp.png)
+- Place Kreia or Mandalore in position for coordinate warp
+
+
+![mandoskyramp](/assets/images/kotor2/mandoskyramp.png)
+
 - [Hotshot](../Major%20Glitches/Hotshot) back to Skyramp
 - Enter Palace
 *OPTIONAL Hard save for safety*
@@ -812,32 +816,36 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 ![hkcitadel](/assets/images/kotor2/hkcitadel.png)
 
 - [Hotshot](../Major%20Glitches/Hotshot) back to Ravager
-- Switch to G0-T0 to trigger proton detonator cutscene
-- Use HK-47 to trigger proton detonator cutscene
-- Run through ship as HK
+- Switch to G0-T0 to set bomb #1
+- Use HK-47 to set bomb #2
+- Run through rest of ship as HK
 
 ![ravagermap](/assets/images/kotor2/ravagermap.png)
 
-- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) and set 3rd detonator
-- QS/QL after "Arming signal received"
-*Make sure to not select "Hold on, we're almost done*
-
 *OPTION 1 - DLZ*
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) and set bomb #3
+- QS/QL after "Arming signal received"
+- *Make sure to not select "Hold on, we're almost done*
 - Run into room
 - [DLZ](../Major%20Glitches/Displaced%20Load%20Zone) against locker to hit 4th bomb trigger
 
 ![dlzlocker]](/assets/images/kotor2/dlzlocker.png)
 
 *OPTION 2 - Arm normally*
-- [Save Teleport](../Techniques/Save%20Teleport) to end of hallway for the last proton detonator
+- *(YOU WILL DO BOMB #4 BEFORE BOMB #3)*
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) and set detonator #4
+- QS/QL after "Arming signal received"
+- *Make sure to not select "Hold on, we're almost done*
+- [Save Teleport](../Techniques/Save%20Teleport) to end of hallway for bomb # 3
 
 
 
-- Make a hard save before entering Bridge
+- Make a hard save after arming all the bombs
 - Enter Bridge
 - Forward [Hotshot](../Major%20Glitches/Hotshot) This will position the MC right next to Nihilus
-- Mash Nihilus and shoot him
-- Tab through party members to attack Nihilus through the stun and shoot Nihlus again - [Hotshot](../Major%20Glitches/Hotshot) to beginning of Ravager
+- Mash talk Nihilus and shoot him
+- Tab through party members to attack Nihilus through the stun and shoot him again 
+- [Hotshot](../Major%20Glitches/Hotshot) to beginning of Ravager
 -Exit
 
 
