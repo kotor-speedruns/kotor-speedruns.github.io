@@ -1,137 +1,255 @@
-**[center]Star Wars: Knights of the Old Republic II - The Sith Lords
-All Planets (Unrestricted)
-Route by @RedMage08 and @30Cents
-Guide by @Redmage08 and @R4ng3
-Many Thanks to @indykenobi for  formatting[/center]**
+# Star Wars: Knights of the Old Republic II - The Sith Lords - All Planets Unrestricted Guide
 
-This route defeats Kreia on Malachor V as fast as possible, while obtaining every Force Form and visiting Master Vash to pay respects. Timing begins upon clicking "PLAY" after character creation and ends when Kreia begins speaking after her final phase of battle. A load-removal tool and auto-splitter is available for LiveSplit thanks to @glasnonck and @XeroHR (No Windows 11 support ATM); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the detailed route for the run, as well as an alternate route for Citadel station, which is slower but skips a sub-pixelperfect glitch.
-Finally, if you have additional questions, you can check out the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu). There's a bunch of friendly folks there willing to answer questions!
+## v2.5: Female Jedi Sentinel or Consular Route (Light Side)
+
+Written by [Redmage08](https://www.speedrun.com/users/Redmage08) and [R4NG3](https://www.speedrun.com/users/R4NG3) 
+
+This route defeats Darth Traya on Malachor V as fast as possible;  Timing begins upon clicking "PLAY" after character creation and ends on the last hit on Traya.  A load-removal tool is available for LiveSplit thanks to the community; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.  This guide will cover the detailed route of the run.
+
+If you have additional questions, you can check out the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu) There's a bunch of friendly folks there willing to answer questions!
+
+**Table of Contents:**
+- [Unrestricted Ruleset](#unrestricted-ruleset)
+- [General Tips](#general-tips)
+- [Route Outline](#route-outline)
+- [Route Overview](#route-overview)
+- [Detailed Route](#detailed-route)
+- [Version History](#version-history)
+
+## Unrestricted Ruleset
+
+**REMEMBER to show yourself restarting the game at the beginning of each attempt.**
+All glitches are allowed in Unrestricted; however, all KotOR speedruns ban the following:
+- Abusing the windowed nature of the game to teleport a character (including Super Save Teleports)
+- Severe underclocking of one's monitor(under 60hz) to increase Save Teleport distance
+- Abusing the load removal to excessively pause the timer
+- Loading saves created prior to the run
+- Use of mods or other external tools to modify the software in any way
+-You MUST end the run with all force forms when you kill Traya.
 
 
-**Guide Key
--------------------------------**
-- A dash will represent any general action. Like moving to a specific area. Casting a force power. Etc.
-—- Three dashes in a row will represent more detailed information about the previous line of the guide
-¤ This symbol represents a glitch to be performed.
-—¤ Three dashes and a ¤ represents more detailed information on the glitch above it
-> A greater than sign represents the level up
-\| A vertical bar represents a break in a conversation; you’d need to talk to that character for each set of numbers shown
-÷ A division symbol represents a choice in route 
+## General Tips
 
-**Planet Route
--------------------------------**
-Peragus -> Telos Station -> Telos Surface -> Korriban -> Nar Shaddaa -> Dxun ->Onderon -> Dantooine -> Malachor V				
+- If running on any monitor over 60 Hertz (hz), underclock it to 60hz exactly. If not done, your game will hang after combat and restrict you from moving. This is due to this game being made to suit a maximum of 60hz and to not be played exceeding 60 FPS.
 
-**Conversation Notes
--------------------------------**
-If no conversation choices are specified, spamming 1 and/or NumEnter will work.
+- Learn how to swap abilities easily. Shift +# swaps the ability. (e.g shift+1 swaps from Critical Strike to Flurry etc. Shift+4 swaps force powers)
+- Watch someone's PB video while going through the notes! This is very important to fundamentally understand the run and how it flows, and learn possible tricks to make your run much faster and smoother.
+- Ask the [Discord](http://discord.gg/Q2uPRVu) questions you have, that’s the fastest way to get an answer! 
+- Once you understand the fundamentals from these notes, make your own copy of the notes and modify them to your own use. These notes are made detailed for a new player, and once you become more experienced you will need less of the detail in your notes.
+- Remember to have fun!
 
-**Character Creation
--------------------------------**
-Female Sentinel or Consular - Quick Character
-Character creation does not matter very much in this route. We utilize a glitch known as the development character which negates the need for much leveling up. We only do one real level up at the beginning of the game to get force speed, and the Jedi Guardian has to go through an extra menu. After that, all we do is auto-level characters.
+## Route Outline
 
-**Route Outline
--------------------------------**
+The order in which we visit planets is as follows:
+
+Peragus -> Telos -> Korriban -> Nar Shaddaa -> Dxun/Onderon 1 -> Onderon 2 -> Dantooine -> Ravager -> Malachor V
+
+The reasoning for the middle planets:
+- We do Korriban first, as there is a forward hotshot, and we need to maintain any force forms we get as per the rules of the category 
+- We do Nar Shaddaa next as it has another very important forward hotshot and Korriban’s journal remains but any force form we would gather disappears
+- We do Dantooine last to go right to the rebuilt Jedi enclave after finishing Vrook.
+
+## Route Overview
+
+The brief outline of the route for the run, including planet order and major skips:
+
 *0. Prologue*
-- Acquire the development droid
+
+*Skip Prologue 
+
 *1. Peragus*
-- Get off Peragus without softlocking
-*2. Telos Station*
-- Acquire droid to be sent immediately to Czerka
-- Deal with the Exchange
-*2.5. Telos Surface*
-- Add all party members using 3C
-- Save teleport to the Military Base
-*3. Military Base*
-- Acquire the launch codes so you can leave
-- Skip big droid fight
-*3.5. Secret Academy*
-- Gather your party members and leave
-- Watch cutscenes on the Ebon Hawk 
-*4. Korriban*
-- Pay respects to Master Vash while sneakily evading Sion
-*5. Nar Shaddaa*
-- Get the force form from Zez-Ki-El
-*6. Dxun 1*
-- Earn favor with the Mandalorians so you can go to Onderon
-*6.5. Onderon 1*
-- Help Mandalore's friend Dhagon beat a murder charge
-- Make contact with Master Kavarr
-*7. Dxun 2*
-- Glitch complete the Sith Tomb using Visas
-*7.5. Onderon 2*
-- Make your way to the palace
-- Side with Talia but spare Vakklu
-- Learn the Jedi form from Kavarr
-*8. Dantooine*
-- Rescue the Disciple from the sublevel Enclave
-- Rescue Vrook
-- Start the Khoonda battle but side with Azkul at the last second
-- Learn the force form from Master Vrook
-- Trigger the end game at the Enclave main level
-*9. Ravager*
-- Set the proton charges for the Mandalorians with a DLZ or normally
-- One shot Nihilus and leave
-*10. Malachor*
-- Make your way to Trayus Academy using coordinate warps
-- Finish Traya off
 
-**~!**Be sure to restart your game on camera each attempt**!~**
-**~!**Timer starts when you hit Play**!~**
+* [Hotshot](../Major%20Glitches/Hotshot) back and forth from the Prologue to obtain 3C-FD
+* Reach Atton to prevent softlock
+* Skip the rest of Peragus with 3C
+
+*2. Citadel Station*
+
+* [Hotshot](../Major%20Glitches/Hotshot) to obtain droid and send to Chodo
+* Deal with Exchange
+* Get droid codes
+* Steal B4-D4
+* Board Shuttle
+
+*2.5 Telos Surface*
+
+* Skip Bao-Dur
+* Add all party via 3C-FD
+* [Hotshot](../Major%20Glitches/Hotshot) to skip half of mil base
+* Run through other half to activate shuttle
+* Leave to Polar Cap
+* Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip HK-50s and Atris
+
+*3. Korriban*
+
+* Setup [Hotshot](../Major%20Glitches/Hotshot) in cave for sith academy
+* Pay respects to Master Vash(loot her)
+
+*4. Nar Shaddaa*
+
+* Hard save at docks 
+* [Hotshot](../Major%20Glitches/Hotshot) to end of warehouse
+* Use 3C-FD to skip side quests
+* Use tutorial -> Peragus load to remove 3C
+* Return to 3C on Telos surface, add Mira to party
+* Return to Nar Shaddaa and take Atton to the bar
+* Hard Save on Goto’s Ship
+* Forward [Hotshot](../Major%20Glitches/Hotshot) from original docks save to Goto’s ship
+* [Hotshot](../Major%20Glitches/Hotshot) around the ship to finish it and leave
+* Talk to Zez and obtain lightsaber form #1
+
+*5. Dxun*
+
+* Run to Mando camp
+* Chores list: 
+	* Fix wires
+	* Fix Computer
+	* Kill & loot Cannocks for parts
+* Kill Zakkeg & Loot him and skeleton for credits and proof
+* Activate Detonator
+	* Tell the commander and Zuka what you’ve done
+* Sith Attack 
+
+*6. Onderon 1*
+* Prove the Dhagon innocent
+* Chores list:
+	* Talk to Thug by Dhagon’s place
+	* Talk to Riikan in merchant quarter
+	* Talk to Kiph and Nikko in cantina
+	* Loot the droid
+	* Talk to Panar
+	* Talk to 1B-8D
+	* Talk to Kiph, then Nikko, then Riikan, then talk to Dhagon
+* Kill/loot Bakkel then tell Dhagon
+* Meet with Kavar then [Hotshot](../Major%20Glitches/Hotshot) to the ebon hawk
+
+*6.5 Onderon 2*
+
+* Use [Hotshots](../Major%20Glitches/Hotshot) to skip outside the tomb
+* Talk to the mando immediately to skip the tomb
+* [Hotshot](../Major%20Glitches/Hotshot) to skip the sky ramp
+* [Save Teleport](../Techniques/Save%20Teleport) to skip most of the palace
+* Kill some guys, then talk to Kavar and obtain lightsaber form #2
+
+*7. Dantooine*
+
+* [DLZ](../Major%20Glitches/Displaced%20Load%20Zone) to the sublevel
+* “Save” Vrook in the crystal caves
+* Betray the people of Dantooine
+* Obtain Lightsaber form #3
+* [DLZ](../Major%20Glitches/Displaced%20Load%20Zone) into rebuilt enclave
+* Be betrayed by the council(again)
+
+*8. Ravager*
+* Use [Hotshots](../Major%20Glitches/Hotshot) to arm 2 bombs immediately
+* Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip getting an extra bomb
+* [DLZ](../Major%20Glitches/Displaced%20Load%20Zone) the 4th bomb or grab it normally
+* Kill Nihilus
+
+*9. Malachor V*
+
+* Use [Hotshots](../Major%20Glitches/Hotshot) to skip to the academy 
+* [Hotshot](../Major%20Glitches/Hotshot) to the final area
+* Kill Traya
+
+## Detailed Route
+
+This section will describe all the actions you'll need to take for the run.
+
+Notation:
+- `>` indicates a level up to be done
+- `}` indicates an inventory/equipment action to be done
+- MC indicates the Main Character (aka you/The Exile)
+
+Conversation Notes:
+If no conversation choices are specified, spamming will work (this chooses all 1 options).
+\| indicates a break in the conversation.  You will have to talk to the person again. As in  *Chodo Habat 3 times: 1spam | 1spam | 1spam*
+`->` indicates a secondary part to the conversation.  This is different from -> in that the conversation automatically initiates, rather than having to talk to the same person.
+`#xY` indicates repeat that option Y times, as in *Speak to Kreia: 2x7,1,5,1*
+`#x-` indicates the rest of this conversation uses that particular number, generally used to indicate conversation spam not using 1 as in *Op Chano: 1,2x-*
+
+**Jump to a Section:**
+- [Prologue](#prologue)
+- [Peragus](#peragus)
+- [Citadel Station](#citadel-station)
+- [Telos Surface](#telos-surface)
+- [Korriban](#korriban)
+- [Nar Shaddaa](#nar-shaddaa)
+- [Dxun](#dxun)
+- [Onderon 1](#onderon-1)
+- [Onderon 2](#onderon-2)
+- [Dantooine](#dantooine)
+- [Ravager](#ravager)
+- [Malachor V](#malachor-v)
 
 
-#PROLOUGE\|PERAGUS
-¤ QS once loaded then hard save
-- Mash then skip Prologue: 2
-¤ [Anywhere Menu Glitch or AMG](https://www.speedrun.com/kotor2/guide/rnx0w)
---¤ Mash until MC is out of Kolto tank \| QS/QL
-¤ [Hotshot](https://www.speedrun.com/kotor2/guide/y4rma) back to Prologue Ebon Hawk
+## Prologue
+
+### Character Creation
+- Female Jedi Sentinel or Consular
+- Quick Character
+- Pick a good name & portrait!
+- Hit Play!
+
+
+## Peragus
+
+### Prologue
+- Spam quicksave then [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) into the menu and hard save, but DO NOT LOAD THE SAVE
+- Exit the menu and skip the tutorial: 2
+
+### Administration Level
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) on the load screen
+- Mouse spam through the kolto cutscene until the MC is on the floor
+	- If you go too early you’ll be stuck in the tank
+- Once on the floor, buffer access the Options Menu to Hard save 
+- [Hotshot](../Major%20Glitches/Hotshot) back to Prologue Ebon Hawk
 - Loot cylinder
 - Hack terminal
 - Loot broken droid
 - Security on door
 - Mash droid trigger
 - Interact with 3C-FD
-¤ Hotshot back to Peragus save
-¤ Spam QS to clear fade in
-- Medical Computer: 4,3,6
-- Use droid to wake up Kreia
-- Tab back to MC after looting the corpse
-- Kreia: 1spam
-- Equip plasma torch
-- Break open door
+- [Hotshot](../Major%20Glitches/Hotshot) back to Admin Level
+- Spam QS to get rid of fade-in
+- Go to the console in the medical room: 4,3,6
+- Use the droid to run into the run and loot the corpse
+- Kreia wakes up and accosts you
+- `}` Equip Plasma Torch
+-  Break open door
 - Run through hallways
-¤ [Open buffer](https://www.speedrun.com/kotor2/guide/kij8n) Kreia dialogue to open door during dialogue
-- Use Administration level computer
-> Level up
---- Skip skills \| Force Speed
-¤ AMG then go into Atton's detention room
---¤ Mash a bit then QS/QL when the force field goes down
-¤ QS to clear fade in
-- Talk to 3C: 9 \| Alert me when Sion arrives
-¤ QS/QL to skip cutscene fight with droids
-¤ QS to clear fade in
+- [Open Buffer](../Techniques/Save%20Buffering#open-buffers) Kreia dialogue to open door during dialogue
+- Use the administration console
+    `>` Level to 2: Recommended, Force Speed
+- Use Force Speed
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) before getting to Atton
+- Run to the prison to free Atton: 1 spam through until the force field starts coming down, then QS/QL(necessary to avoid Carth cutscene)
+- Talk to 3C-FD: 9(Alert me when Sion arrives)
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) then hit trigger near console
+- QS/QL when Atton says “at least we have a clear run back to the shi-”
+- QS to clear fade-in
 - Talk to Kreia: 3,1
-- C3FD: 7 
-- Make hard save before game changes you to T3
-¤ Forward hotshot when you load in the Hangar Bay
-- Make a hard save
-¤ Hotshot back to Peragus Tanks Save
-- Make another hard save
-¤ Hotshot to Hangar Bay save
-- Blaster turret mini-game
-- First dialogue after load: 3,2,1
-¤ AMG after first convo and QS/QL next conversation
---¤ This prevents Kreia from walking to the back of the ship
-- Talk to Kreia first: 2spam, 1,5,1
-- Talk to Atton next: 2spam, 1spam
-- Use Galaxy map and fly to Telos Station
+- Talk to 3C: 7
+- Make hard save before game loads
+- Forward [Hotshot](../Major%20Glitches/Hotshot)
+- Hard Save, [Hotshot](../Major%20Glitches/Hotshot) to 1st Admin level save
+- Hard Save, [Hotshot](../Major%20Glitches/Hotshot) back to Hangar
+- Enter Ebon Hawk
+- Turrets(headphone warning)
+- Dialogue after load: 3,2,1
+-  Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) before next conversation starts
+- QS/QL Conversation
+- Talk to Kreia: 2x7,1,5,1
+- Talk to Atton
+- Fly to Telos via galaxy map
 
-#÷ TELOS - CITADEL STATION - OPTION 1
-- QS to buffer then make a hard save
-¤ Hotshot back to 3C/Dev Character Prologue Ebon Hawk save
-¤ Hotshot back to Telos Station
+
+## Telos
+
+### Citadel Station Option 1(No DLZ - Easier)
+- [Save Buffer](../Techniques/Save%20Buffering) into menu and make a hard save
+- [Hotshot](../Major%20Glitches/Hotshot) back to Prologue Ebon Hawk save in front of 3C
+- [Hotshot](../Major%20Glitches/Hotshot) back to the Docks Module
 - Switch weapon on Exile
 - Use Atton to talk to Guard
 - Shoot thugs with MC
@@ -139,29 +257,30 @@ Character creation does not matter very much in this route. We utilize a glitch 
 - Cast force speed with Kreia
 - Use Kreia to leave the docking bay during combat
 - Talk to information terminal : 2
-- Talk to droid
-- Chodo Habat
-- Make a hard save next to Chodo Habat
+- Talk to droid after combat ends
+- Accosted by Chodo Habat 
+- Make a hard save next to Chodo
 - Run north to information terminal: 3
 - Make a hard save next to terminal
 - Use terminal: 2,1
 - Run to cantina
-¤ Forward Hotshot
+- Forward [Hotshot](../Major%20Glitches/Hotshot)
 - Talk to Luxa
-¤ Hotshot back to Residential West
+- [Hotshot](../Major%20Glitches/Hotshot) back to Residential West
 - Run east into the next module
 - Talk to Exchange thug, enter
-¤ Forward hotshot
+- Forward [Hotshot](../Major%20Glitches/Hotshot)
 - Add Kreia
-- Talk to greeter lady
-¤ Hard Buffer Crime Boss cutscene
-- Run to his office and talk to Gammorhean
+- Talk to receptionist
+- [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) Crime Boss cutscene
+- Run to his office and talk to Gamorrean
 - Kill the droids
+- Conversation with them
 - Kill Luxa
-¤ Hotshot back to Chodo Habat
-- Turn solo mode on
+- [Hotshot](../Major%20Glitches/Hotshot) back to Chodo Habat
+- Activate solo mode
 - Chodo Habat
-¤ Hotshot back to Cantina save
+- [Hotshot](../Major%20Glitches/Hotshot) back to Cantina save
 - Talk to Guy in front of dancers
 - Exit Cantina with Kreia
 - Run to terminal: 2,2
@@ -169,88 +288,97 @@ Character creation does not matter very much in this route. We utilize a glitch 
 - Run East and add 3C near terminal
 - Activate solo mode
 - Enter middle door in middle apartment complex
-- Op Chano: 1,2spam
+- Op Chano: 1,2x-
 - Switch to 3C use terminal: 2,2
 - Add Atton/3C
 - Make a save with Atton in corner across from Cantina Loading Zone
-https://cdn.discordapp.com/attachments/728504417476804639/1062172972313493504/image.png
+
+ ![AttonCantina](/assets/images/kotor2/AttonCantina.png) 
+
 - Use terminal: 2,2
 - Cast force speed
 - Enter Czerka offices
-- Droid conversation: 3
-¤ Forward hotshot in Czerka office
-- Press Esc and talk to droid again: 3
+- B4-D4: 3
+- [Forward Hotshot](../Major%20Glitches/Hotshot)
+- Press Esc and talk to B4 again: 3
 - Use computer with Atton
 - Make a hard save in front of droid with MC
 - Talk to B4-D4 with MC
-- Chodo Habat 3 times: 1spam \| 1spam \| 1spam
-¤ Hotshot back to Hangar Bay Autosave
+- Talk to Chodo Habat 3 times:
+- [Hotshot](../Major%20Glitches/Hotshot) back to Hangar Bay Autosave
 - Enter transportation shuttle
-- Mash conversation
+- Mash cutscene conversation
 
-#÷ TELOS - CITADEL STATION - OPTION 2
-- QS to buffer then make a hard save
-¤ Hotshot back to 3C/Dev Character Prologue Ebon Hawk save
-- Unequip MC
-¤ Hotshot back to Telos Station
-- Switch weapon on Exile on load
-- Equip Kreia with Killblaster
-- Use Kreia to trigger Thugs
-- Shoot thugs
-- Talk to droid: 2spam
-¤ AMG during load screen \| QS/QL to skip
-- Jana Lorso: 2 \| 1spam
+
+### Citadel Station Option 2(DLZ - Faster)
+- [Save Buffer](../Techniques/Save%20Buffering) into menu and make a hard save
+- [Hotshot](../Major%20Glitches/Hotshot) back to Prologue Ebon Hawk save in front of 3C
+- [Hotshot](../Major%20Glitches/Hotshot) back to the Docks Module
+- Switch weapon on Exile
+- Use Atton to talk to Guard
+- Shoot thugs with MC
+- Solo mode
+- Cast force speed with Kreia
+- Use Kreia to leave the docking bay during combat
+- Talk to information terminal : 2
+- Talk to droid after combat ends: 2x-
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during load screen | QS/QL to skip
+- Jana Lorso: 2 | 1x-
 - Hard Save in front of Lorso
 - Leave Czerka office
 - Hard Save
 - Turn off V-Sync
 - Add T3
 - Solo Mode
-¤ [DLZ](https://www.speedrun.com/kotor2/guide/fv2ys) into the Exchange
-https://cdn.discordapp.com/attachments/1018669374904741978/1018669591972565022/unknown.png
+- [DLZ](../Major%20Glitches/Displaced%20Load%20Zone) into the Exchange
+
+![exchangedlz](/assets/images/kotor2/exchangedlz.png)
+
 - V-Sync on
 - Swap T3 for Kreia
-- Talk to greeter lady
-¤ Hard Buffer Crime Boss cutscene
-- Run to his office and talk to Gammorhean
+- Talk to receptionist
+- [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) Crime Boss cutscene
+- Run to his office and talk to Gamorrean
 - Kill the droids
 - Crime Boss: 1,3
-¤ Hotshot to Jana Lorso
-- Swap to Kreia immediately 
+- [Hotshot](../Major%20Glitches/Hotshot) to Jana Lorso
+- Swap to Kreia immediately
 - Talk to Lorso with Kreia
 - Leave as MC
 - Run to Apartment Complex B as Kreia
 - Hard Save in front of Apt B2
-¤ Hotshot to Docks
+- [Hotshot](../Major%20Glitches/Hotshot) to Docks
 - Use Kreia to fly to Telos surface
- 
-#TELOS - SURFACE
-¤ AMG during load screen \| QS/QL to skip cutscene
-¤ [Save Teleport](https://www.speedrun.com/kotor2/guide/59jkl) South east then north
---¤ From this point on, save teleports will be your primary method
-of movement for most of the run until further notice
+
+
+### Telos Surface
+
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) on the load screen
+- QS/QL to skip cutscene
+- [Save Teleport](../Techniques/Save%20Teleport) South east then north
+- From this point on, save teleports will be your primary method of movement unless otherwise stated
 - Kill turrets by load zone
 - Enter Czerka camp
 - Return to landing zone
 - Add 3C
 - 3C: 1
+- HARD SAVE
 - Go back to Czerka camp
-¤ AMG during load then run forward through more minefields
-—¤ QS/QL to skip the cutscene with the droid girl if she activates
-¤ Save teleport at 2nd mine before bunker to enter loading zone
---¤ You will get kicked out if you do this incorrectly
-—¤ You can also teleport behind the trigger then walk into it
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) on the load screen then run forward through more minefields
+- QS/QL to skip the cutscene with the droid girl if she activates, otherwise you can close the AMG
+- [Save Teleport](../Techniques/Save%20Teleport) at 2nd mine before bunker to enter loading zone directly, or teleport behind it and turn around to enter
+	- You’ll be kicked back if done too early or late
 - Add Kreia
-¤ Hotshot to first prologue Ebon Hawk Save
-¤ Hotshot back to bunker
-- Solo mode
+- [Hotshot](../Major%20Glitches/Hotshot) to first save in the run(prologue ebon hawk) then
+- [Hotshot](../Major%20Glitches/Hotshot) back to Mil Base
+- Activate solo mode
 - Unequip MC
-- Equip Kreia, lightsaber first
+- Equip Kreia, lightsaber first, killblaster in secondary weapons
 - Avoid poison vents
 - Using Kreia, run to the middle locked door and bash it down
-- Pull out killblaster
+- Switch to killblaster
 - Kill droid in the rectangular room
-¤ Hug left corner to avoid Twi'lek dialogue trigger
+- Hug left corner past Twi'lek to avoid dialogue trigger
 - Kill second droid
 - Switch weapons to Lightsaber
 - Bash down force field
@@ -259,97 +387,113 @@ of movement for most of the run until further notice
 - Kill three droids
 - Overload droids with right side terminal
 - Add Visas
-- Tab through back to Kreia
-- Bash down door with Kreia
-- Continue forward then left with Kreia
+- Switch back to Kreia
+- Bash down door 
+- Continue forward then left 
 - Bash down last force field
 - Unequip Kreia completely
-¤ AMG then interact with Reactor Control terminal
---¤ Don't cancel the cutscene immediately
---¤ Cancel AMG when the first door fully opens
---¤ QS/QL to skip cutscene
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) then interact with Reactor Control terminal
+- Wait to cancel AMG and QS/QL until door near Visas opens, but before the large door in the hangar opens
 - Switch to Visas
-- Equip Visas with Lightsaber
+- Equip Visas with just a Lightsaber
 - Bash down locked door
 - Loot foot locker
 - Loot Metal Box
 - Return to hangar with Visas
---¤ Avoid the Twi'lek dialogue trigger a second time
-- Bash down Bay Control door upon entering hangar
+- Avoid the Twi'lek dialogue trigger a second time, by hooking right
+- Bash down Bay Control door(on the left upon entering hangar)
 - Use terminal
-- Exit on shuttle
+- Exit via shuttle
 
-#POLAR ACADEMY
-¤ Hard buffer or AMG QS/QL to skip HK-50 cutscene
-- Make save on plateau by the door to the academy
+### Polar Academy
+
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>)/QS/QL [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) the HK-50 cutscene
+- Make hard save on plateau
 - Enter Secret Academy
-- AMG on Load in but don't cancel cutscene immediately
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) on the load screen but don't cancel cutscene immediately
 - Handmaiden: 2
-¤ QS/QL when it turns to Atton/Kreia jail CS
+- QS/QL when it turns to Atton/Kreia jail CS
 - Turn around and save teleport to prison cells
 - Open Door to Atton/Kreia and run away from door
-- Atton/Kreia: 1,7,3 - Bao Dur - 1,3,1
+- Atton/Kreia: 1,7,3 | Bao Dur - 1,3,1
 - Run towards T3/Hangar Bay
-¤ AMG QS/QL T3 conversation
-- Hard save on down ramp to Ebon Hawk
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) then QS/QL T3 conversation
+- Hard save at top of ramp to Ebon Hawk
 - Enter Ebon Hawk
-	
-#KORRIBAN
-- Crew conversation: 1spam
+- Crew conversation
 - Watch long cutscenes but keep mashing
 - Atton: 1,1,3,3
-¤ AMG QS/QL or Hard Buffer Bao Dur's "General"
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>)/HARD SAVE/HARD LOAD or [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) Bao-Dur
+- A hard save is necessary to make on the Ebon Hawk
 - Fly to Korriban
-¤ Hard Buffer or AMG QS/QL as soon as you fly to Korriban
+
+
+## Korriban
+
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>)/QS/QL or [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) as soon as you fly to Korriban
 - Exit Ebon Hawk choosing HK-47
+- Kreia accosts you
 - Enter Shyrack Caves
-- Solo Mode
+- Activate solo mode
+- Swap to HK-47 and follow this map to this spot:
+
+![hk47cavemap](/assets/images/kotor2/hk47cavemap.png)
+
 - Make a Hard Save with HK in position
-https://cdn.discordapp.com/attachments/728504417476804639/1062174664559960165/image.png
+
+![hk47cave](/assets/images/kotor2/hk47cave.png)
+
 - Leave Caves as MC
 - Enter Sith Academy
-¤ AMG QS/QL Sion cutscene
---¤ Can use the QL from this skip to trigger AMG for the following hotshot
-¤ Forward Hotshot
-¤ AMG on Load in: QS/QL to skip CS again!
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) in the load then QS/QL Sion cutscene
+- Use the QL from this skip to activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) for the following hotshot
+- Forward [Hotshot](../Major%20Glitches/Hotshot)
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) in the load, QS/QL to skip CS again
 - Loot Master Vash with HK-47
-¤ Activate AMG for safety
---¤ There is an annoying Sion cutscene that can trigger
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) for safety
+- There is a Sion cutscene that can trigger, QS/QL to skip if that happens
 - Terminal: 2,1,1,2
 - Exit as MC
 - Return to Ebon Hawk
-¤ AMG on load in \| QS/QL
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) in the load then QS/QL cutscene
 - Fly to Nar Shaddaa
-¤ AMG QS/QL or Hard Buffer to skip Nar Shaddaa cutscene
 
-#NAR SHADDAA
+
+## Nar Shaddaa
+
+###Before Goto’s Yacht
+
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>)/QS/QL or [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers)  to skip Nar Shaddaa cutscene
 - Exit Ebon Hawk
-¤ AMG | QS/QL Quello
-¤ Hard \Buffer or AMG Exchange Thugs
-¤ AMG peasant asking for money(Can be done with Thugs if you are speed)
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>)/QS/QL or [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) Quello
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>)/QS/QL or [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) Exchange Thugs
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>)/QS/QL peasant asking for money(Can be done with Thugs if you are quick enough)
 - Enter docks
-¤ AMG during load \|  Hard Save/Hard Load Hanharr cutscene
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during load |  Hard Save/Hard Load Hanharr cutscene
 - Run to warehouse
+- Make Hard Save in front of apartments
 - Open door and add T3
-¤ Hotshot to Polar Academy Ramp Save
-¤ Hotshot back to Warehouse
---¤ Ensure T3 is in position
-https://cdn.discordapp.com/attachments/728504417476804639/1062178165679718441/image.png
-- B4-R5
-- Switch to MC and get kicked out
+- [Hotshot](../Major%20Glitches/Hotshot) to Polar Academy Ramp Save
+- Put T3 in position
+
+![t3polarramp](/assets/images/kotor2/t3polarramp.png)
+
+- [Hotshot](../Major%20Glitches/Hotshot) back to Warehouse
+- Talk to B4-R5
+- Switch to MC and hit trigger to get kicked out
 - Hard save once Atton
-¤ Hotshot to Telos Military Base
+- [Hotshot](../Major%20Glitches/Hotshot) to Telos Military Base
 - Add 3C
-¤ Hotshot back to Docks with 3C in party
+- [Hotshot](../Major%20Glitches/Hotshot) back to Docks with 3C in party
 - Use 3C to enter Refugee Landing Pad
 - Re-enter docks
-- Talk to 3C 1 \| 2
+- Talk to 3C 1 | 2
 - Hard save
-¤ Hotshot to first Prologue Ebon Hawk save
+- [Hotshot](../Major%20Glitches/Hotshot) to first Prologue Ebon Hawk save
 - Skip tutorial: 2
-¤ Buffer into menu and make hard save
---¤ For safety you can also AMG QS/QL then hard save
-¤ Hotshot back to C3 docks save
+- [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) into menu and make hard save
+- For safety you can also [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) then QS/QL then hard save
+- [Hotshot](../Major%20Glitches/Hotshot) back to C3 docks save
 - Exit to Refugee Landing Pad
 - Equip Killblaster to Atton
 > Auto-Level Atton
@@ -357,84 +501,85 @@ https://cdn.discordapp.com/attachments/728504417476804639/1062178165679718441/im
 - Run right into the Cantina
 - Walk to Bar to trigger Twin suns
 - Kill Twin Suns
-} Unequip
---- You have to manually select your equipment button with the mouse
+} Unequip(
+- You have to open menu quickly before being teleported out of the area and manually select your equipment button with the mouse
 - Fade out then mash crewmates
-- T3/Atton conversation and Hardsave
-¤ Hotshot to Auto-Save
+- T3/Atton conversation then Hard save
+- [Hotshot](../Major%20Glitches/Hotshot) to Auto-Save
 - Enter Tienn Tubb's shop
-- Droid: 3
+- Droid accosts you: 3
 - Tien Tubb
-¤ AMG on Load in to G0T0's yacht \| QS/QL to skip cutscene
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during load then QS/QL to skip cutscene
 - Hard Save
+
+###Goto’s Yacht
 - Load first Docks save near center terminal
-¤ Hotshot to first Prologue Ebon Hawk Save
+- [Hotshot](../Major%20Glitches/Hotshot) to first save in the run(prologue Ebon Hawk)
 - Skip tutorial: 2
-¤ Buffer into menu and make hard save
---¤ For safety you can also AMG QS/QL then hard save
-[Quote]÷OPTION 1 
-{--Did NOT DLZ on Citadel--}
-¤ Hotshot to Telos Station Entertainment District Atton save
+- [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) into menu and make hard save
+- Alternatively, you can also [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during load, QS/QL, then hard save
+
+*OPTION 1 - Did NOT DLZ on Citadel*
+- [Hotshot](../Major%20Glitches/Hotshot) to Telos Station Entertainment District Atton save
 - Chodo mash
 - Add Kreia
 - Solo Mode
-- Position Kreia in corner and make hard save
-https://cdn.discordapp.com/attachments/728504417476804639/1062179940910497822/image.png
-- Hard Save
-¤ Hotshot to GOTO's yacht
-[/quote]
-[quote]÷ OPTION 2 
-[--DID DLZ on Citadel--
-¤ Hotshot to Polar Cap save
+- Position Kreia in corner
+
+![kreiaenteraincorner](/assets/images/kotor2/kreiaenteraincorner.png)
+
+- [Hotshot](../Major%20Glitches/Hotshot) to GOTO's yacht
+
+
+*OPTION 2 - DID DLZ on Citadel*
+- [Hotshot](../Major%20Glitches/Hotshot) to Polar Cap save
 - Add Kreia
-- Solo mode
-- Position Kreia far south of the polar academy door
-https://cdn.discordapp.com/attachments/728504417476804639/1062178886357626910/image.png
+- Activate solo mode
+- Position Kreia ![far south of the polar academy door](/assets/images/kotor2/polarcapgotoyacht.png)
 - Hard Save
-¤ Hotshot to GOTO's yacht
-]
-[/quote]
+- [Hotshot](../Major%20Glitches/Hotshot) to GOTO's yacht
 - 1,1,1,1,1,3 terminal with Kreia
-- Utility Droid with MC: 1spam
-¤ Hotshot to Telos Military Base
+- Utility Droid with MC
+- [Hotshot](../Major%20Glitches/Hotshot) to Telos Military Base
 - Unequip Lightsaber from Kreia
 - Equip Lightsaber to MC
 - Remove Kreia from party
 - Bash down Force Fields with MC
 - Use MC to move to coordinate warp position
-- Add Kreia and position in dirt corner
-https://cdn.discordapp.com/attachments/728504417476804639/1062180525424508958/image.png
-¤ Hotshot back to GOTO's yacht
-- Turn solo mode on
+- Add Kreia and position in ![dirt corner](/assets/images/kotor2/milbasegotoyacht.png)
+- [Hotshot](../Major%20Glitches/Hotshot) back to GOTO's yacht
+- Activate solo mode
 - Kreia terminal: 3,1,1,2,2,3,1,5,2,1,4
 - Swap to MC and leave
 - Zez: 1,1,1,1,3,1,1,1
-¤ Save teleport back to Ebon Hawk
-
-#DXUN
-¤ AMG on Load in \| QS/QL
-- HARD SAVE on Ebon Hawk
---- This hardsave is mission critical for the run
+- Return to Ebon Hawk
 - Fly to Onderon
-¤ AMG on Load \| QS/QL
+
+
+## Dxun
+
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) in the load then QS/QL cutscene
+- HARD SAVE on Ebon Hawk
+- Fly to Onderon
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) in the load then QS/QL cutscene
 - Select Onderon again on the map to exit orbit
 - Exit ship with Kreia/T3
-- Solo Mode
-- Get Spikes from T3: 3,2spam
-¤ Save teleport through the jungle
-- If Duros talk to you: 5
+- Activate Solo Mode
+- Get Spikes from T3: 3,2x-
+- Go through the jungle
+- If Duros talk to you: 5(you can [save teleport](../Techniques/Save%20Teleport) past their trigger, but sometimes you hit it)
 - Run into loading zone
-- Solo Mode
+- Activate Solo Mode
 - Trigger Mandalorians
 - Mandalore: 3,1,3
-- Solo Mode
-- Zuka: 1spam
+- Activate Solo Mode
+- Talk to Zuka
 - Repair wire
-- Use MC to run to Telemetry Computer
+- Use T3 to run to Telemetry Computer
 - Make a hard save somewhere near the Telemetry Computer
 - Repair Telemetry Computer
 - Switch to Kreia and exit to jungle
-- Solo Mode
+- Activate Solo Mode
 - Equip Killblaster to Kreia
 - Use Kreia to kill NW Cannock and loot
 - Use MC and take the right path for a second
@@ -444,52 +589,56 @@ https://cdn.discordapp.com/attachments/728504417476804639/1062180525424508958/im
 - Kill Zakkeg and loot the Zakkeg Ear
 - Make sure to loot the Kreia killed
 - Trigger detonator with Kreia in NW corner
+
+![dxnmap](/assets/images/kotor2/dxunmap.png)
+
 - Use T3 to enter the Mandalorian camp
 - Mandalorian captain: 2,3
 - Talk to Zuka twice
 - Mandalore: 1,1,1,2,1
-- Cutscene plays - mashing throughout
+- Cutscene plays - mash throughout
 - Add Kreia
---- Make sure not to talk to Kreia while the menu is popping up
+- Make sure not to talk to Kreia while the menu is popping up
 - Use Kreia with Killblaster on the pack nearest the shuttle
 - Activate Solo Mode
 - Use MC to run towards Mandalore's building
-¤ AMG to skip Red Mandalorian Cutscene
---¤ Sometimes you will save teleport over this trigger
---¤ I still recommend having the AMG active because you do not want to trigger this cutscene
+- [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) to skip Red Mandalorian Cutscene
+- Sometimes you will [save teleport](../Techniques/Save%20Teleport) over this trigger, but still AMG active because you do not want to trigger this cutscene
 - Trigger the Assassin pack outside Mandalore's building and kill them
 - Kill the rest of the Sith in the main courtyard
 - Game will start the next section and take you to Onderon
 
-#ONDERON
+
+## Onderon 1
+
 - Mash Port Master
 - Mash Checkpoint guard and enter Merchant Quarter
-- Solo Mode
-- Politics : 4
-- Save teleport to Western Square
-¤ AMG on Load in \| QS/QL
+- Active Solo Mode
+- Politics Debaters: 4
+- [Save Teleport](../Techniques/Save%20Teleport) to Western Square
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) in the load then QS/QL
 - Talk to Thug to the right of the Rodian
 - Re-enter Merchant Quarter
-- Solo Mode
+- Activate Solo Mode
 - Talk to Riikan: 1,1,1,1,1,3
 - Swap back to Kreia and enter Western Square
-- Save teleport to Cantina
+- [Save Teleport](../Techniques/Save%20Teleport) to Cantina
 - Solo Mode
 - Kiph: 1,1,1,1,1,2
 - Nikko: 1,1,1,1,1,3
 - Exit cantina
-- Solo Mode
+- Activate Solo Mode
 - Loot Broken droid
 - Re-enter cantina
-- Solo mode
+- Activate Solo mode
 - Panar
 - Exit Cantina
-- Solo Mode
+- Activate Solo Mode
 - Talk to 1B-8D to buy the recording of the captain's murder
 - Enter cantina
-¤ Activate AMG
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>)
 - Talk to Kiph
-¤ Quicksave to mash through cutscene
+- Quicksave to mash through cutscene
 - Nikko
 - Riikan
 - Dhagon Ghent
@@ -498,248 +647,247 @@ https://cdn.discordapp.com/attachments/728504417476804639/1062180525424508958/im
 - Kill Thug leader and Loot body
 - Exit Cantina
 - Dhagon
-¤ AMG on Load in \| QS/QL to skip
-¤ Hotshot to Ebon Hawk save from before Dxun
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) in the load then QS/QL
+- [Hotshot](../Major%20Glitches/Hotshot) to Ebon Hawk save from before Korriban
 
-#DXUN 2
+
+## Dxun 2
+
 - Exit and Re-enter
-¤ AMG on Load in \| Do not skip cutscene immediately
---¤ Mash T3's dialogue and wait for the next cutscene to trigger
---¤ After that cutscene triggers you can QS/QL to skip it
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) on Load in \| Do not skip cutscene immediately
+- Mash T3's dialogue and wait for the next cutscene to trigger
+- After that cutscene triggers, QS/QL to skip it
 - Leave Hawk - No Party members
 - Mandalorian Guide
-- Mandalore: 1,1,1,3,8,7,1
-- Talk to Xarga
-¤ Hotshot to Military Base
+- Mandalore: 1,1,1,3,1,1,1
+- Talk to Xarga with Visas after load in
+- [Hotshot](../Major%20Glitches/Hotshot) to Military Base
 - Remove Party Members
-- Activate Solo Mode
 - Use MC to bash down the force fields
+- Add Atton
+- Activate Solo Mode
 - Use Atton to position for a coordinate warp
-https://cdn.discordapp.com/attachments/728504417476804639/1062181416512802936/image.png
-¤ Hotshot back to Dxun
-- Auto-level Mandalore for healing
-- Enter Sith Tomb
-- Quick save and swap to Visas
-¤ Dialogue Glitch to complete the Tomb
---¤ This glitch involves spamming default action while you mash
---¤ This will trigger the next conversation with Xarga
---¤ This will skip all of the tomb and immediately start the next part
 
-#ONDERON 2
-- Save teleport to Skyramp
-¤ Hotshot to Dxun Telemetry Computer Save
-- Place Kreia in position for coordinate warp
-https://cdn.discordapp.com/attachments/728504417476804639/1062181800165777489/image.png
-¤ Hotshot back to Skyramp
+![milbasetomb](/assets/images/kotor2/milbasetomb.png)
+
+- [Hotshot](../Major%20Glitches/Hotshot) back to Dxun
+> Auto-level Atton for healing if needed on the way through the door
+- Enter Sith Tomb
+- Quick save spam and swap to Visas
+- Dialogue Glitch to complete the Tomb
+- This glitch involves spamming default action while you mash
+- This will trigger the second conversation with Xarga immediately after the first
+- This will skip all of the tomb and immediately start Onderon 2
+
+
+
+## Onderon 2
+
+- [Save Teleport](../Techniques/Save%20Teleport) to Skyramp
+- [Hotshot](../Major%20Glitches/Hotshot) to Dxun Telemetry Computer Save
+- Place Kreia in position for ![coordinate warp](/assets/images/kotor2/mandoskyramp.png)
+- [Hotshot](../Major%20Glitches/Hotshot) back to Skyramp
 - Enter Palace
-[quote]÷ *OPTIONAL* Hard save for safety
---¤ This skip is easy but if you mess it up you lose a ton of time
---¤ The safety save will reduce a lot of the possible time loss[/quote]
-¤ Save teleport through the door
+*OPTIONAL Hard save for safety*
+- This skip is easy but if you mess it up you lose a ton of time
+- [Save Teleport](../Techniques/Save%20Teleport) through the door
 - Watch cutscene
 - Talk to Tobin
 - Watch cutscene
-¤ Activate AMG \| Kill Beast
-¤ QS/QL to skip cutscene
-- Run into palace room and trigger Kavarr
-- Mash
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) then Kill Beast with it active
+- QS/QL to skip cutscene afterwards
+- Run into palace room and trigger Kavar *DO NOT SAVE TELEPORT, TRIGGER IS EASY TO MISS*
+- Mash through
 - Shoot Vakklu with killblaster
 - Post fight dialogue: 1,2,1
-- Kavarr: 2,1,1,1,1,3
+- Kavar: 2,1,1,1,1,3
 - Walk in front of Talia to be automatically returned to the Ebon Hawk
 - Enter Ebon Hawk
-¤ AMG on load-in for safety
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) on load-in to skip anymore 
 - Fly to Dantooine
-- Exit the Ebon Hawk with Kreia
 
-#DANTOOINE
+## Dantooine
+
 - Dillan: 5(If Lightsaber out:3)
 - Hardsave outside Khoonda
 - Save teleport to Enclave Courtyard
 - Hard save after bridge to Enclave
-[quote]÷ OPTION 1
-¤ AMG to buffer CS in front of Sublevel entrance
-¤ [Door Clip](https://www.speedrun.com/kotor2/guide/ok28o) with Kreia and Atton
-https://cdn.discordapp.com/attachments/728504417476804639/1062184609057611796/image.png
---¤ Position Kreia to left of door, MC in middle
---¤ Use Add/Remove button to Clip Atton inside
+
+*OPTION 1*
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) to buffer CS in front of Sublevel entrance
+- [Door Clip](../Major%20Glitches/Door%20Clip) with Kreia and Atton
+
+ ![sublevelclip](/assets/images/kotor2/sublevelclip.png)
+
+- Position Kreia to left of door, MC in middle
+- Use Add/Remove button to Clip Atton inside
 - Enter sublevel
-- Solo Mode
- [/quote]
-[quote]÷ OPTION 2
-DLZ into Enclave sub-level
-https://cdn.discordapp.com/attachments/728504417476804639/1062182395454947418/image.png
-[/quote]
+
+ *OPTION 2*
+- [DLZ](../Major%20Glitches/Displaced%20Load%20Zone) into Enclave sub-level
+
+![subleveldlz](/assets/images/kotor2/subleveldlz.png)
+
+
+- Activate Solo Mode
 - Move to the opposite side
 - Disciple: 1,5,5,1
 - Accept just him in the party
 - Loot mercs in the room with Disciple
-¤ Hotshot to Khoonda Plains
+- [Hotshot](../Major%20Glitches/Hotshot) to Khoonda Plains
 - Go to the Crystal Caves
-¤ AMG \| QS/QL to skip CS
-- Solo Mode
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) in the load then QS/QL
+- Activate Solo Mode
 - Save Vrook
 - Swap to Disciple and Leave
-¤ AMG during load \| QS/QL to skip Azkul
-- Enter Khoonda
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) in the load then QS/QL to skip Azkul
+- [Save Teleport](../Techniques/Save%20Teleport) to Khoonda
 - Admin: 5
 - Zherron: 4,1,2,3
 - Azkul: 5
 - Vrook: 9
-¤ Hotshot to Enclave save
-[quote]÷ OPTION 1
+- [Hotshot](../Major%20Glitches/Hotshot) to Enclave exterior save
 
-¤ Door clip into Rebuilt Enclave 
-https://cdn.discordapp.com/attachments/728504417476804639/1062184270656974878/image.png
---¤ Make sure to not use Kreia or Atton for this door clip
-[/quote]
-[quote]÷ OPTION 2
- DLZ into Rebuilt Enclave 
-https://cdn.discordapp.com/attachments/728504417476804639/1062182483308859402/image.png
-[/quote]
-¤ Activate AMG
+*OPTION 1*
+- [Door Clip](../Major%20Glitches/Door%20Clip) into Rebuilt Enclave
+
+![rebuiltclip](/assets/images/kotor2/rebuiltclip.png)
+
+*Make sure to not use Kreia or Atton for this door clip*
+
+*OPTION 2*
+ - [DLZ](../Major%20Glitches/Displaced%20Load%20Zone) into Rebuilt Enclave
+
+![rebuiltenclave](/assets/images/kotor2/rebuiltdlz.png)
+
+
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>)
 - Move forward and mash first dialogue
 - Keep moving forward with AMG until longer cutscene
-¤ QS/QL to skip first big cutscene
+- QS/QL to skip first big cutscene
 - Jedi dialogues
-¤ AMG Ebon Hawk cutscene
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) then QS/QL to skip Ebon Hawk cutscene
 - Disciple: 5
 
-#START OF ENDGAME
+## Ravager
+
+
+### Start of endgame
 - Run to Atris
 - Kill Atris with blaster
 - Mash 1
-¤ AMG \| QS/QL Citadel CS
-¤ AMG \| QS/QL Mandalore cutscene
+- [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) then QS/QL to skip Citadel CS
+- [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) then QS/QL to skip Mandalore cutscene
 - Run to Residential East
 - Enter Entertainment Module 81
 - Run to elevator/trigger Mandalore dialogue
 - Confirm Visas into party
 - Talk to Mandalore again
 
-#RAVAGER
-¤ AMG \| QS/QL long cutscene
-[quote]÷ OPTION 1
-[---If you are NOT doing the DLZ, and did NOT do the DLZ on Telos----]
-¤ Hotshot to Czerka Save
-- Droid: 3
-- Add HK-47 and G0-T0
-- Exit office
-- Mash Ithorian
-- Solo Mode
-- Position G0-T0 near left LZ
-https://cdn.discordapp.com/attachments/728504417476804639/1062182648090460212/image.png
-- Move HK-47 to corner in apartments
-https://cdn.discordapp.com/attachments/728504417476804639/1062182757612142703/image.png
-¤ Hotshot to Ravager
-- Switch to G0-T0 to trigger proton detonator cutscene
-- Use HK-47 to trigger proton detonator cutscene
-- Run through ship
-¤ AMG and set 3rd detonator
---¤ QS/QL after "Arming signal received"
---¤ Make sure to not select "Hold on, we're almost done"
-- Run to end of hallway for the last proton detonator
-- Make a hard save before entering Bridge
-- Enter Bridge
-[/quote]
-[quote]÷ OPTION 2
-[---If you are NOT doing the DLZ, and DID do the DLZ on Telos----]
-**--Don’t**
-¤ Hotshot to save in Apartment Complex B
-- Add HK-47 and G0-T0
-- Solo Mode
-- Position G0-T0 near left LZ
-https://cdn.discordapp.com/attachments/728504417476804639/1062182648090460212/image.png
-- Move HK-47 to corner in apartments
-https://cdn.discordapp.com/attachments/728504417476804639/1062182757612142703/image.png
-¤ Hotshot to Ravager
-- Switch to G0-T0 to trigger proton detonator cutscene
-- Use HK-47 to trigger proton detonator cutscene
-- Run through ship
-¤ AMG and set 3rd detonator
---¤ QS/QL after "Arming signal received"
---¤ Make sure to not select "Hold on, we're almost done"
-- Run to end of hallway for the last proton detonator
-- Make a hard save before entering Bridge
-- Enter Bridge
-[/quote]
-[quote]÷ OPTION 3
-[---If you ARE doing the DLZ, and did NOT do the DLZ on Telos----]
-¤ Hotshot to Czerka Office Save
-- Droid: 3
-- Add HK-47 and G0-T0
-- Exit office
-- Mash Ithorian
-- Solo Mode
-- Position G0-T0 near left LZ
-https://cdn.discordapp.com/attachments/728504417476804639/1062182648090460212/image.png
-- Move HK-47 to corner in apartments
-https://cdn.discordapp.com/attachments/728504417476804639/1062182757612142703/image.png
-¤ Hotshot to Ravager
-- Switch to G0-T0 to trigger proton detonator cutscene
-- Use HK-47 to trigger proton detonator cutscene
-- Run through ship
-¤ AMG and set 3rd detonator
---¤ QS/QL after "Arming signal received"
---¤ Make sure to not select "Hold on, we're almost done"
-- Run into room
-¤ DLZ on the locker for the last detonator
-https://cdn.discordapp.com/attachments/728504417476804639/1062182931952578570/image.png
-- Make a hard save before entering Bridge
-- Enter Bridge
-[/quote]
-[quote]÷ OPTION 4
-[---If you ARE doing the DLZ, and DID do the DLZ on Telos----]
-¤ Hotshot to save in Apartment Complex B
-- Add HK-47 and G0-T0
-- Solo Mode
-- Position G0-T0 near left LZ
-https://cdn.discordapp.com/attachments/728504417476804639/1062182648090460212/image.png
-- Move HK-47 to corner in apartments
-https://cdn.discordapp.com/attachments/728504417476804639/1062182757612142703/image.png
-¤ Hotshot to Ravager
-- Switch to G0-T0 to trigger proton detonator cutscene
-- Use HK-47 to trigger proton detonator cutscene
-- Run through ship
-¤ AMG and set 3rd detonator
---¤ QS/QL after "Arming signal received"
---¤ Make sure to not select "Hold on, we're almost done"
-- Run into the nearby room
-¤ DLZ on the locker for the last detonator
-https://cdn.discordapp.com/attachments/728504417476804639/1062182931952578570/image.png
-- Make a hard save before entering Bridge
-- Enter Bridge
-]
-¤ Forward hotshot
---¤ This will position the MC right next to Nihilus
-- Mash Nihilus
-- Tab through party members to attack Nihilus through the stun
-- Shoot Nihlus again
-¤ Hotshot to beginning of Ravager
-- Exit
+### Ravager Proper
+- [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) then QS/QL to skip intro cutscene
 
-#MALACHOR V
-- Watch/mash cutscene
-¤ Hotshot to Czerka Office
+*Option 1 - Did NOT do DLZ on Citadel*
+- [Hotshot](../Major%20Glitches/Hotshot) to Czerka office save
+- B4-D4: 3
+- Add HK and G0T0
+- Exit office
+- Mash Ithorian
+
+*Option 2 - DID do DLZ on Citadel*
+- [Hotshot](../Major%20Glitches/Hotshot) to save in Apartment Complex B
+- Add HK and G0T0
+
+
+- Activate Solo Mode
+- Position G0-T0 near left LZ:
+
+![gotocitadel](/assets/images/kotor2/gotocitadel.png)
+
+ - Move HK to corner in apartments:
+
+![hkcitadel](/assets/images/kotor2/hkcitadel.png)
+
+- [Hotshot](../Major%20Glitches/Hotshot) back to Ravager
+- Switch to G0-T0 to trigger proton detonator cutscene
+- Use HK-47 to trigger proton detonator cutscene
+- Run through ship as HK
+
+![ravagermap](/assets/images/kotor2/ravagermap.png)
+
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) and set 3rd detonator
+- QS/QL after "Arming signal received"
+*Make sure to not select "Hold on, we're almost done*
+
+*OPTION 1 - DLZ*
+- Run into room
+- [DLZ](../Major%20Glitches/Displaced%20Load%20Zone) against locker to hit 4th bomb trigger
+
+![dlzlocker]](/assets/images/kotor2/dlzlocker.png)
+
+*OPTION 2 - Arm normally*
+- [Save Teleport](../Techniques/Save%20Teleport) to end of hallway for the last proton detonator
+
+
+
+- Make a hard save before entering Bridge
+- Enter Bridge
+- Forward [Hotshot](../Major%20Glitches/Hotshot) This will position the MC right next to Nihilus
+- Mash Nihilus and shoot him
+- Tab through party members to attack Nihilus through the stun and shoot Nihlus again - [Hotshot](../Major%20Glitches/Hotshot) to beginning of Ravager
+-Exit
+
+
+## Malachor V
+- Watch/mash through cutscene
+- [Hotshot](../Major%20Glitches/Hotshot) to Czerka Office
 - Add G0-T0
-- Position G0-T0 on top of the left side rectangular
-https://cdn.discordapp.com/attachments/728504417476804639/1062183114127974410/image.png
-¤ Hotshot back to Malachor
+- Position G0-T0 on top of the left side rectangular window
+
+![gotowindow]](/assets/images/kotor2/gotowindow.png)
+
+- [Hotshot](../Major%20Glitches/Hotshot) back to Malachor
 - Use G0-T0 to enter nearby Loading Zone
-¤ Hotshot to Start of Ravager
-¤ AMG \| QS/QL the beginning Ravager cutscene again
+- [Hotshot](../Major%20Glitches/Hotshot) to Start of Ravager
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) in the load then QS/QL the intro Ravager cutscene again
 - Position G0-T0 underneath North door frame
-https://cdn.discordapp.com/attachments/728504417476804639/1062183270109949962/image.png
-¤ Hotshot back to Malachor
+
+![gotodoor]](/assets/images/kotor2/gotodoor.png)
+
+- [Hotshot](../Major%20Glitches/Hotshot) back to Malachor
 - Use G0-T0 to enter academy
-¤ Hotshot back to the Ravager
+- [Hotshot](../Major%20Glitches/Hotshot) back to the Ravager
 - Reposition in same door frame
-¤ Hotshot back to Trayus Academy
+- [Hotshot](../Major%20Glitches/Hotshot) back to Trayus Academy
 - Enter loading zone with G0-T0
-- Pull out Kill Blaster
-¤ Hard buffer Darth Traya cutscene
-¤ Spam default action while pressing 4 to skip first phase
+- Pull out Kill Blaster with MC
+- [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) Darth Traya cutscene
+- Spam default action while pressing 4 to skip first phase(shoot her if missed)
 - Mash 2nd conversation
 - Shoot Kreia with killblaster
-**~!Time ends at the start of Kreia's last dialogue!~**
+*~!Time ends at the start of Kreia's last dialogue!~*
 - Kreia: 4
+
+
+
+## Version History  
+
+**v2.5(April 2024)**
+- Reformated for new guide website
+- Added version history
+- Updated screenshots 
+
+
+
+**v2.0(January 2023)**
+- Added Exchange DLZ
+- Added Zez fix
+
+
+**v1.1(March 2021)**
+- Added Dantooine DLZs
+- Added Ravager DLZ
+
+
+**v1.0(July 2020)**
+- Inital Route by 30Cents and RedMage08
