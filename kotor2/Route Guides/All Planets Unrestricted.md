@@ -220,7 +220,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Run through hallways
 - [Open Buffer](../Techniques/Save%20Buffering#open-buffers) Kreia dialogue to open door during dialogue
 - Use the administration console
-- ‘>’ Level to 2: Recommended, Force Speed
+- `>` Level to 2: Recommended, Force Speed
 - Use Force Speed
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) before getting to Atton
 - Run to the prison to free Atton: 1 spam through until the force field starts coming down, then QS/QL(necessary to avoid Carth cutscene)
@@ -372,8 +372,8 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - [Hotshot](../Major%20Glitches/Hotshot) to first save in the run(prologue ebon hawk) then
 - [Hotshot](../Major%20Glitches/Hotshot) back to Mil Base
 - Activate solo mode
-- Unequip MC
-- ‘}’ Equip Kreia, lightsaber first, killblaster in secondary weapons
+- `}` Unequip MC
+- `}` Equip Kreia, lightsaber first, killblaster in secondary weapons
 - Avoid poison vents
 - Using Kreia, run to the middle locked door and bash it down
 - Switch to killblaster
@@ -391,11 +391,11 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Bash down door
 - Continue forward then left
 - Bash down last force field
-- ‘}’ Unequip Kreia completely
+- `}`Unequip Kreia completely
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) then interact with Reactor Control terminal
 - Wait to cancel AMG and QS/QL until door near Visas opens, but before the large door in the hangar opens
 - Switch to Visas
-- ‘}’ Equip Visas with just a Lightsaber
+- `}` Equip Visas with just a Lightsaber
 - Bash down locked door
 - Loot foot locker
 - Loot Metal Box
@@ -495,13 +495,13 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - For safety you can also [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) then QS/QL then hard save
 - [Hotshot](../Major%20Glitches/Hotshot) back to C3 docks save
 - Exit to Refugee Landing Pad
-- Equip Killblaster to Atton
-- ‘>’ Auto-Level Atton
+- `}` Equip Killblaster to Atton
+- `>` Auto-Level Atton
 - Enter Entertainment Promenade
 - Run right into the Cantina
 - Walk to Bar to trigger Twin suns
 - Kill Twin Suns
-- ‘}’ Unequip (You have to open menu quickly before being teleported out of the area and manually select your equipment button with the mouse)
+- `}` Unequip (You have to open menu quickly before being teleported out of the area and manually select your equipment button with the mouse)
 - Fade out then mash crewmates
 - T3/Atton conversation then Hard save
 - [Hotshot](../Major%20Glitches/Hotshot) to Auto-Save
@@ -521,31 +521,35 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 *OPTION 1 - Did NOT DLZ on Citadel*
 - [Hotshot](../Major%20Glitches/Hotshot) to Telos Station Entertainment District Atton save
 - Chodo mash
-- Add Mira
+- Add Kreia
 - Activate Solo Mode
-- Position Mira in corner
+- Position Kreia in corner and hard save
 
-![miraenteraincorner](/assets/images/kotor2/miraenteraincorner.png)
-
-- [Hotshot](../Major%20Glitches/Hotshot) to GOTO's yacht
+![gotoentertain](/assets/images/kotor2/gotoentertain.png)
 
 
 *OPTION 2 - DID DLZ on Citadel*
 - [Hotshot](../Major%20Glitches/Hotshot) to Polar Cap save
 - Add Kreia
 - Activate solo mode
-- Position Kreia ![far south of the polar academy door](/assets/images/kotor2/polarcapgotoyacht.png)
+- Position Kreia far south of the polar academy door and hard save
+
+![polarcapgotoyacht](/assets/images/kotor2/polarcapgotoyacht.png)
+
 - Hard Save
 - [Hotshot](../Major%20Glitches/Hotshot) to GOTO's yacht
 - 1,1,1,1,1,3 terminal with Kreia
 - Utility Droid with MC
 - [Hotshot](../Major%20Glitches/Hotshot) to Telos Military Base
-- Unequip Lightsaber from Kreia
-- Equip Lightsaber to MC
+- `}` Unequip Lightsaber from Kreia
+- `}` Equip Lightsaber to MC
 - Remove Kreia from party
 - Bash down Force Fields with MC
 - Use MC to move to coordinate warp position
-- Add Kreia and position in ![dirt corner](/assets/images/kotor2/milbasegotoyacht.png)
+- Add Kreia and position in dirt corner
+
+![milbasegotoyacht](/assets/images/kotor2/milbasegotoyacht.png)
+
 - [Hotshot](../Major%20Glitches/Hotshot) back to GOTO's yacht
 - Activate solo mode
 - Kreia terminal: 3,1,1,2,2,3,1,5,2,1,4
@@ -579,7 +583,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Repair Telemetry Computer
 - Switch to Kreia and exit to jungle
 - Activate Solo Mode
-- Equip Killblaster to Kreia
+- `}` Equip Killblaster to Kreia
 - Use Kreia to kill NW Cannock and loot
 - Use MC and take the right path for a second
 - Kill Cannock near the cat creatures and loot
@@ -670,7 +674,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 ![milbasetomb](/assets/images/kotor2/milbasetomb.png)
 
 - [Hotshot](../Major%20Glitches/Hotshot) back to Dxun
-> Auto-level Atton for healing if needed on the way through the door
+- `>` Auto-level Atton for healing if needed on the way through the door
 - Enter Sith Tomb
 - Quick save spam and swap to Visas
 - Dialogue Glitch to complete the Tomb
