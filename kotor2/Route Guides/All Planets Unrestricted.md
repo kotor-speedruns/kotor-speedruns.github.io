@@ -163,7 +163,7 @@ Notation:
 
 Conversation Notes:
 * If no conversation choices are specified, spamming will work (this chooses all 1 options).
-* `|` indicates a break in the conversation.  You will have to talk to the person again. As in  *Chodo Habat 3 times: 1spam | 1spam | 1spam*
+* `|` indicates a break in the conversation.  You will have to talk to the person again. As in  *Chodo Habat 3 times: 1spam \| 1spam \| 1spam*
 * `->` indicates a secondary part to the conversation.  This is different from `|` in that the conversation automatically initiates, rather than having to talk to the same person.
 * `#xY` indicates repeat that option Y times, as in *Speak to Kreia: 2x7,1,5,1*
 * `#x-` indicates the rest of this conversation uses that particular number, generally used to indicate conversation spam not using 1 as in *Op Chano: 1,2x-*
