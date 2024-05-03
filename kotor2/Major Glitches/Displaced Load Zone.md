@@ -138,7 +138,7 @@ Each section below will include the modules the DLZ goes from and to, location(s
 ### Exchange DLZ
 - **Planet:** Telos - Citadel Station
 - **Transition:** Residental East to Exchange office
-- **Valid x-coordinates:** -35.510494, -34.431141, -31.891850, -33.138092
+- **Valid x-coordinates:** -12.720751, -12.720751, -9.239411, -9.239411 
 - **Used In:** All Unrestricted runs and NoDevTools
 
 *Location: On the wall opposite the Exchange door*
