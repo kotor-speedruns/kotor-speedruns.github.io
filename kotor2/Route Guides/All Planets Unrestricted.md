@@ -710,7 +710,7 @@ Conversation Notes:
 - Kavar: 2,1,1,1,1,3
 - Walk in front of Talia to be automatically returned to the Ebon Hawk
 - Enter Ebon Hawk
-- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) on load-in to skip anymore
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) on load-in to skip any party member cutscenes on the ship
 - Fly to Dantooine
 
 ## Dantooine
@@ -722,7 +722,7 @@ Conversation Notes:
 
 *OPTION 1*
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) to buffer CS in front of Sublevel entrance
-- [Door Clip](../Major%20Glitches/Door%20Clip) with Kreia and Atton
+- [Door Clip](../Major%20Glitches/Door%20Clipping#Enclave%20Sub-Level%20Early) with Kreia and Atton
 
  ![sublevelclip](/assets/images/kotor2/sublevelclip.png)
 
@@ -757,7 +757,7 @@ Conversation Notes:
 - [Hotshot](../Major%20Glitches/Hotshot) to Enclave exterior save
 
 *OPTION 1*
-- [Door Clip](../Major%20Glitches/Door%20Clip) into Rebuilt Enclave
+- [Door Clip](../Major%20Glitches/Door%20Clipping#Rebuilt%20Jedi%20Enclave%20Early) into Rebuilt Enclave
 
 ![rebuiltclip](/assets/images/kotor2/rebuiltclip.png)
 
