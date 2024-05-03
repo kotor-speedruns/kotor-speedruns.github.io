@@ -37,9 +37,9 @@ Glitch guides are split into three types:
 
 | Dev Tools | | | | Other Glitches | | |
 |---|---|---|---|---|---|---|
-| [3C-FD](./Dev%20Tools/3C-FD) | | [Anywhere Menu Glitch](./Major%20Glitches/Anywhere%20Menu%20Glitch) | [Displaced Load Zone](./Major%20Glitches/Displaced%20Load%20Zone) | [Door Clipping](./Major%20Glitches/Door%20Clipping) | Combat Talking | Conversation Queue | 
-| [Dev Character](./Dev%20Tools/Dev%20Character) | | Damage Stacking | Fake Level Up | [Hotshot](./Major%20Glitches/Hotshot) | [Revive Your Party Warp](./Techniques/RYP%20Warp) | [Save Buffering](./Techniques/Save%20Buffering) |
-| | | [Save Teleporting](./Techniques/Save%20Teleporting) | [Wired Targeting](./Techniques/Wired%20Targeting) | | | |
+| [3C-FD](./Dev%20Tools/3C-FD) | | [Anywhere Menu Glitch](./Major%20Glitches/Anywhere%20Menu%20Glitch) | [Displaced Load Zone](./Major%20Glitches/Displaced%20Load%20Zone) | [Door Clipping](./Major%20Glitches/Door%20Clipping) | [Combat Talking](/kotor2/Techniques/Combat Talking) | [Conversation Queue](/kotor2/Techniques/Conversation Queue) |
+| [Dev Character](./Dev%20Tools/Dev%20Character) | | [Damage Stacking](/kotor2/Techniques/Damage Stacking) | [Fake Level Up](./Major%20Glitches/Fake Level Up) | [Hotshot](./Major%20Glitches/Hotshot) | [Revive Your Party Warp](./Techniques/RYP%20Warp) | [Save Buffering](./Techniques/Save%20Buffering) |
+| | | [Save Teleporting](./Techniques/Save%20Teleporting) | [Wired Targeting](/kotor2/Techniques/Wired%20Targeting) | | | |
 
 ## Useful Links
 
