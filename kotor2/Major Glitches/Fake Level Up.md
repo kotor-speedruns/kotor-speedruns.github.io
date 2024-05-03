@@ -173,7 +173,7 @@ Finally, map out which Feats and Powers you're selecting at each Intermediate Le
 The speedrun applications of Fake Level Ups really just scratch the surface of what FLUs can do.  Other applications of FLU that are not speedrun relevant include:
 
 * Acquiring arbitrary and unused feats, such as Advanced Guard Stance
-* Acquiring arbitrarily many Attribute points
+* Acquiring many Attribute points arbitrarily
 * Gaining a second or even third class (called Cross-Classing)
 
 FLUs can also be used with party members as the Target Character, which is not currently used in a speedrun.  There are likely other applications of FLU that have not been fully explored.  If you're interested in these more esoteric FLU variants, see the glitch-hunting channel in the Discord.
