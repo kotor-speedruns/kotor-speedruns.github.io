@@ -122,7 +122,7 @@ There are several settings you should set up ahead of time so you're not losing 
 
 * Disabling Movies
 
-Outside the game, find the swkotor2.ini file in your KotOR 2 installation folder, and open it with a standard text editor(Notepad works great). Then, under the section headlined [Graphics Options\]:
+Outside the game, find the swkotor2.ini file in your KotOR 2 installation folder, and open it with a standard text editor(Notepad works great). Then, under the section headlined \[Graphics Options\]:
 
 1. Add the line "Disable Movies=1"
 2. Add the line "Disable Intro Movies=1"
