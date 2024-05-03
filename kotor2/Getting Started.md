@@ -1,15 +1,14 @@
-# Getting Started with KotOR Speedrunning
+# Getting Started with KotOR II Speedrunning
 
 **Table of Contents**
 - [How These Guides are Organized](#how-these-guides-are-organized)
 - [Frequently Asked Questions](#frequently-asked-questions)
-- [Settings for Speedrunning KotOR](#settings-for-speedrunning-kotor)
+- [Settings for Speedrunning KotOR 2](#settings-for-speedrunning-kotor-2)
   - [Under Options](#under-options)
   - [Disabling Movies](#disabling-movies)
   - [Running in Windowed Mode](#running-in-windowed-mode)
 - [Other Common KotOR Issues](#other-common-kotor-issues)
   - [Stuck After Combat](#stuck-after-combat)
-  - [Running on Windows 10](#running-on-windows-10)
 
 If you're just wanting to get started speedrunning KotOR, this is the place to start!  This guide covers the basics of KotOR speedruns, from how to actually get KotOR running and the appropriate settings, to how to use these guides to answer the questions you have.
 
@@ -21,8 +20,8 @@ The guides are organized into sections.  There are five categories:
 
 - **Route Guides:** These are one stop shops for guides to each category.  There are currently guides for all main category/ruleset combinations that are updated as new techniques or changes are made to each route.
 - **Video Tutorials:** These videos guide the viewer through the route for their particular category.  They are dated to reflect what version of the route they are describing and whether this corresponds to the route guides above.
-- **Techniques:** These guides cover techniques used in KotOR speedrunning.  They aren't necessarily skips or tricks on their own, but used correctly they can help save time in speedruns.  These are generally legal for the No Major Glitches (NMG) and Unrestricted rulesets.
-- **Major Glitches:** These guides cover the major glitches in KotOR, most of which are based on Menu Glitches.  These are the glitches that break the game the most, and are also generally the hardest tricks in KotOR.  These glitches are only legal in the Unrestricted ruleset.
+- **Dev Tools:** These guides are more are actually features left in by the developers to play test parts of the game; they do not exist at all in the legacy versions of the game. They are characterized by extreme game-breaking skips and abilities, and only allowed in the Unrestricted ruleset.
+- **Other Glitches:** Other Glitches: All other glitches are grouped together in KotOR II, regardless of their power or difficulty. Some can significantly sequence-break the game, or completely bypass the usual rules of normal gameplay, while others have more minor effects. These glitches are legal in the Unrestricted and No Dev Tools rulesets.
 - **Miscellaneous:** These guides cover either niche speedruns such as bingo or IL runs, or have general information useful for speedruns.
 
 The different pages have links to the other relevant pages; so if you're just looking to jump into a category, you can start with the Route Guide for that category, and then follow the links to see the descriptions of individual tricks from that run.
@@ -37,12 +36,12 @@ The different pages have links to the other relevant pages; so if you're just lo
 **Q:** Are there any glitches in KotOR speedrunning?
 
 
-**A:** Most definitely.  Some glitches are very useful, while others must be avoided.  KotOR speedrunning is split into two categories and three rulesets (plus the All Star Maps category which is Unrestricted only).  Different rulesets allow different amounts of glitches; Unrestricted has no restrictions (duh), Glitchless does not allow any glitches, and No Major Glitches is a middle ground.
+**A:** Most definitely.  Some glitches are very useful, while others must be avoided.  KotOR speedrunning is split into three categories and three rulesets.  Different rulesets allow different amounts of glitches; Unrestricted has no restrictions, Glitchless does not allow any glitches, and No Dev Tools is a middle ground.
 
 **Q:** What category and ruleset should I learn first?
 
 
-**A:** The easiest category to start with would be Any% under either the Glitchless or All Planets rulesets.  Any% Glitchless is easy to pick up and provides good menuing practice, but doesn't introduce any of the tricks that are staples of KotOR speedrunning.  All Planets is a good category for beginners, as it uses Hotshots and other common glitches.  Any% is generally an easier category to learn versus Max Quests because it's significantly more straightforward and much shorter.
+**A:** Ultimately, whichever category and ruleset you think you'd enjoy the most! The easiest category to start with would be Any% under either the Glitchless or No Dev Tools rulesets.  Any% Glitchless is easy to pick up and provides good menuing practice, but doesn't introduce any of the tricks that are staples of KotOR speedrunning.  No Dev Tools is a good category for beginners, as it uses Hotshots and other common glitches. Unrestricted uses all glitches available and has the shortest time for each run attempt. Any% is generally an easier category to learn versus Max Quests because it's significantly more straightforward and much shorter, where All Planets provides a middle ground.
 
 **Q:** What is In-Game Time?
 
@@ -107,7 +106,7 @@ There are several settings you should set up ahead of time so you're not losing 
 - Tutorial Popups - Off
 - Status Summary - Off
 - Floating Numbers - On; it helps sometimes to see how much damage you've dealt and if you've missed.
-- Hide Quick Menu Buttons - Off; we need these to do a trick called Hard Buffers
+- Hide Quick Menu Buttons - Off; we need these to do multiple tricks
 
 *Autopause:*
 
@@ -119,21 +118,27 @@ There are several settings you should set up ahead of time so you're not losing 
 - V-sync should be Enabled unless you're doing a glitch that requires it to be off.
 - The game generally runs better with Frame Buffer Effects and Soft Shadows disabled. 
 
-### Disabling Movies
+### installation Folder
 
-Outside the game, find the swkotor2.ini file in your KotOR 2 installation folder, and open it with a standard text editor(Notepad works great). Then, under the section headlined Graphics Options:
+* Disabling Movies
+
+Outside the game, find the swkotor2.ini file in your KotOR 2 installation folder, and open it with a standard text editor(Notepad works great). Then, under the section headlined \[Graphics Options\]:
 
 1. Add the line "Disable Movies=1"
 2. Add the line "Disable Intro Movies=1"
 
-### Running in Windowed Mode
+* Running in Windowed Mode
 
-Depending on your setup, you may wish to run KotOR in Windowed Mode.  In order to do this, you'll need to open the swkotor.ini file in the game's installation folder using a standard text editor (I use Notepad).  Do the following:
+Depending on your setup, you may wish to run KotOR in Windowed Mode.  In order to do this, you'll need to open the swkotor2.ini file in the game's installation folder again and add the following under \[Graphics Options\]:
 
 1. Change the line "FullScreen=1" to "FullScreen=0"
 2. Add the line "AllowWindowedMode=1"
 
 In both cases, omit the quotes and be sure to capitalize correctly.  This should cause the game to open in a window the next time you run it. Sometimes you may need to press "ALT+Enter" to force the game to switch views after this setting is in place.
+
+  *Example section of ini*
+
+  ![inisettings](/assets/images/kotor2/inisettings.png)
 
 ## Other Common Issues
 
@@ -141,7 +146,3 @@ In both cases, omit the quotes and be sure to capitalize correctly.  This should
 
 - Double check that V-Sync is enabled. 
 - If your monitor's refresh is greater than 60hz, KotOR will not like this. There are two solutions: You may underclock your monitor to a refresh rate of 60hz, or you could use external graphics settings to limit the frame rate of KotOR to 60fps. The frame limiting option is less desirable if you plan on doing glitched categories. This is because some glitches require (or are significantly easier with) a higher frame rate (i.e. DLZ).
-
-### Running on Windows 10
-
-If you're having trouble getting KotOR to run on Windows 10, you can try using [this guide](</Miscellaneous/Windows 10>).
