@@ -3,8 +3,7 @@
 **Table of Contents**
 - [Description](#description)
 - [Uses](#uses)
-  - [Uses as Backups](#uses-as-backups)
-- [Related Glitches](#related-glitches) 
+- [Related Glitches](#related-glitches)
 
 ## Description
 
@@ -17,29 +16,29 @@ In general these clips are performed as so:
 * Add the party member
 * If they spawn in the correct location you're finished. If not remove the party member and re-add until they do spawn in the correct location. This re-adding process may have to be done rapidly.
 
-[section=Uses]
+## Uses
 The number of use-cases in unrestricted routes have diminished significantly due to modern techniques. Though there are still several examples:
 (*Videos Provided by 30cents*)
 
-**Ithorian Storage Room Early**
+### Ithorian Storage Room Early
 
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/4uOgaBeN0SM" frameborder="0"></iframe>
 </div>
 
-**Czerka Mainframe Room Early**
+### Czerka Mainframe Room Early
 
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/2N_7Z62he-E" frameborder="0"></iframe>
 </div>
 
-**Enclave Sub-Level Early**
+### Enclave Sub-Level Early
 
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/swn1NAFrHiY" frameborder="0"></iframe>
 </div>
 
-**Rebuilt Jedi Enclave Early**
+### Rebuilt Jedi Enclave Early
 
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/_JLMD81PoJw" frameborder="0"></iframe>
