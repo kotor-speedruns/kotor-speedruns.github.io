@@ -361,7 +361,7 @@ This section will describe all the actions you'll need to take for the All Quest
 Notation:
 - `Level ups are highlighted in code block`
 - *Inventory/Equipment changes are highlighted in italics*
-- **Hard Saves to make are highlighted in bold**
+- **Hard Saves and Overwrites are highlighted in bold**
 - ***Quest Updates are highlighted in bold and italics***
 - `Shopping trips are highlighted in large code blocks`
 
@@ -378,8 +378,7 @@ Abbreviations:
 
 Save File Notes:
 - *This run should start with no saved games at all.*  Saving in a new slot is slightly faster, and for one strat we *MUST* save in a new slot to avoid breaking a [Fast Lane](<../Major Glitches/Fast Lane>).
-- When performing a [Hotshot](<../Major Glitches/Hotshot>), you can always save in the first slot, with one noted exception on Taris at the start.
-- This route ends up using **19** total save slots.
+- This route ends up using **17** total save slots.
 
 Conversation Notes: 
 - If no conversation choices are specified, spamming will work (this chooses all 1 options).
@@ -426,6 +425,7 @@ Quest Notes:
 ### Command Module
 
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the intro CS
+- **Hard Save in New Slot (Slot 1)**
 - [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) into the Starboard Section through one of the following two methods:
   - ***Method One: Rubble [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>)***
     - *This strat is potentially 20 seconds faster, but the [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) is marginally harder.  This is the recommended method.*
@@ -448,12 +448,11 @@ Quest Notes:
 
 ### Starboard Section
 
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to the Command Module to activate Plot Armor:
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to the Command Module to activate Plot Armor:
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen after the prior [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>)
-  - After Carth's convo starts, [access the Options Menu](<../Major Glitches/Anywhere Menu Glitch#accessing-menus>) to **Hard Save in New Slot (Slot 1)**
-  - Immediately load the Slot 1 Hard Save and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
-    - This keeps your QS in the Command Module
-  - Perform the [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to return to the Command Module
+  - After Carth's convo starts, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the convo via QS/QL
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the QL
+  - Perform the [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to return to the Command Module (**Slot 1 now Starboard Section**)
 - [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) into the Starboard Section again, using whatever method you used before
 - Loot footlocker in Terminal Room 
 - Hack terminal console: 2,3
@@ -469,10 +468,11 @@ Quest Notes:
 - Carth accosts you: 1,1,1,5,3
   - ***Begins "The Search for Bastila"***
 - Loot the footlocker for computer spikes
+- Re-enable V-Sync
 - Exit the Hideout
   - *Party: Keep Carth when prompted*
 - Immediately after the load, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Sith Raid cutscene
-- `Level 2:` [Sneak Attack FLU](<../Major Glitches/Fake Level Ups#sneak-attack-flu>)
+- `Level 2:` [Sneak Attack FLU](<../Major Glitches/Fake Level Up#sneak-attack-flu>)
   - Make sure to use the All Quests version with Persuade and Slow Levels
 - As Carth, use Security to open the first apartment on the right
 - As MC, trigger the [Credit Underflow](<../Major Glitches/Anywhere Menu Glitch#credit-underflow>) glitch
@@ -504,15 +504,15 @@ SHOPPING: Larrim
 - Dia's convo triggers: 1,1,1,2,2,2
 - Carth uses Power Blast to kill Dia
 - *Equip MC: Vibrosword Mainhand, Prototype Vibroblade Offhand*
-- **Hard Save in New Slot (Slot 2)**
+- **Hard Save three times in Slot 1, New Slot (Slot 2), and New Slot (Slot 3)**
 - [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to move Carth to the exit
-- Swap to MC and exit to the Upper City
+- Swap to MC and talk to Carth for Carth #1
+  - ***Begins "Carth"***
+- Exit to the Upper City
   - ***Begins "Rapid Transit System"***
 
 ### Upper City
 - Enter Upper City Cantina
-  - Do Carth #1 when prompted
-  - ***Begins "Carth"***
 - Activate Solo Mode
 - As MC, queue a conversation with Garouk
 - Swap to Carth and open the door to Upper City South
@@ -520,7 +520,7 @@ SHOPPING: Larrim
   - If you trigger it, press 5 to exit the convo
 - Speak to Sarna: 1,1,3,2,1,1,1
   - ***Begins "Invited to a Party"***
-- **Hard Save in New Slot (Slot 3)**
+- **Hard Save in New Slot (Slot 4)**
 - Swap to Carth and leave the Cantina
 - Swap to MC and run forward until you reach the first archway
 - Return to the Hideout and Transit Back to set the transit point
@@ -562,7 +562,8 @@ SHOPPING: Zelka Forn
 - Swap to MC and loot Largo for Energy Projector
 - Swap back to Carth and wait until he opens the door
 - **Hard Save in Slot 1**
-- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Upper City Cantina via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) using Slot 3
+- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Upper City Cantina via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 4
+  - **Slot 4 now North Apartments**
 
 ### The Duel Ring
 
