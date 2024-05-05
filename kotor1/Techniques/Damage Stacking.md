@@ -30,7 +30,7 @@ This finishes the damage stack; you should see the effects applied to the origin
 
 ## Uses
 
-Damage Stacking is currently used in All Quests NMG for the duel ring on Taris.  Unrestricted speedruns do not need Damage Stacking thanks to the Sneak Attack FLU, while Any% NMG currently does not employ damage stacking since the menuing takes too long to be time effective.
+Damage Stacking is currently used in [All Quests NMG](<../Route Guides/All Quests NMG>) for the duel ring on Taris.  Unrestricted speedruns do not need Damage Stacking thanks to the [Sneak Attack FLU](<../Major Glitches/Fake Level Ups#sneak-attack-flu>), while [Any% NMG](<../Route Guides/Any%25 NMG>) currently does not employ damage stacking since the menuing takes too long to be time effective.
 
 ## Related Glitches
 
