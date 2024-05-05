@@ -400,7 +400,7 @@ Quest Notes:
 - [Dantooine](#dantooine)
 - [Kashyyyk](#kashyyyk)
 - [Tatooine 1](#tatooine-1)
-- [Manaan 1](#manaan)
+- [Manaan 1](#manaan-1)
 - [Tatooine 2](#tatooine-2) 
 - [Manaan 2](#manaan-2)
 - [The Leviathan](#the-leviathan)
@@ -456,9 +456,11 @@ Quest Notes:
   - Perform the [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to return to the Command Module
 - [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) into the Starboard Section again, using whatever method you used before
 - Loot footlocker in Terminal Room 
-- Hack terminal console: 2,3 
+- Hack terminal console: 2,3
+- Loot Sith Commander for Prototype Vibroblade
 - Carth accosts you
-- Take escape pod to Taris 
+- Take escape pod to Taris
+  - Immediately activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen to [Free Look AMG](<../Major Glitches/Anywhere Menu Glitch#free-look-amgs>) the vision CS
   - ***Finishes "Attack on the Endar Spire"***
 
 ## Early Duel Ring
@@ -549,7 +551,7 @@ SHOPPING: Zelka Forn
 - Swap to Carth and run to the entrance of the second apartment on the left
 - Swap to MC and talk to Largo: 1,2
 - MC uses Critical Strike to kill Largo
--Swap to Carth and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
+- Swap to Carth and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the Sarna cutscene via QS/QL
   - First click through the cutscene until dialog stops, then cancel pop-up and QS/QL
   - ***Finishes "Invited to a Party"***
@@ -632,7 +634,7 @@ SHOPPING: Zelka Forn
   - [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>) to warp to Upper City North's default spawn
 - *Stims: Strength on MC*
 - **Hard Save in Slot 3**
-- Disable V-Sync to perform the [Sith Base DLZ](<../Major Glitches/Displaced Load Zone#ch7Sith_Base_DLZ)
+- Disable V-Sync to perform the [Sith Base DLZ](<../Major Glitches/Displaced Load Zone#ch7Sith_Base_DLZ>)
 - Secretary accosts you: 3,1
 - *Stims: Alacrity on MC*
   - We use this here so it is *not* active outside the Sith Base
@@ -909,7 +911,7 @@ SHOPPING: Crattis Yurkal
 - Swap to MC and talk to Master Zhar again: 1,1,6,3,2,6,4
 - Swap to Canderous and talk to Master Dorak to become a Jedi Guardian
 - `Level 3: Save Skills, Medium Armor Proficiency, Force Valor and Affect Mind`
-- `Level 4:` [Master Speed FLU](<../Major Glitches/Fake Level Ups#master-speed-flu>)
+- `Level 4:` [Master Speed FLU](<../Major Glitches/Fake Level Up#master-speed-flu>)
 - Swap to Canderous and talk to Master Zhar
   - ***Begins "Jedi Trials"***
 - Swap to MC and use Workbench to fully upgrade Sanasiki's Blade
@@ -1031,7 +1033,7 @@ SHOPPING: Crattis Yurkal
 - Return to Ebon Hawk and run forward slightly to have Lena accost Mission
   - ***Begins "Mission's Brother"***
 - Juhani #1 and #2
-- `Level 5:` [Master Valor FLU](<../Major Glitches/Fake Level Ups#master-valor-FLU>)
+- `Level 5:` [Master Valor FLU](<../Major Glitches/Fake Level Up#master-valor-FLU>)
 - Juhani #3
 - Board the Ebon Hawk
   - ***Finishes "The Ebon Hawk"***
