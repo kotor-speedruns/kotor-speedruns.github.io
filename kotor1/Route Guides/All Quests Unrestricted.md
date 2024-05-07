@@ -87,7 +87,7 @@ Our attributes are chosen here for two reasons: 18 Strength is to maximize our d
 * Security - 4
 * Save the rest
 
-Security is used for a skip on Endar Spire, as well as opening Selven's apartment on Taris. Persuade is our main skill and what we will be dumping points into during the [Fake Level Ups](<../Major Glitches/Fake Level Ups>) (or FLUs) later on in the run, so that we can take some conversational shortcuts.
+Security is used for a skip on Endar Spire, as well as opening Selven's apartment on Taris. Persuade is our main skill and what we will be dumping points into during the [Fake Level Ups](<../Major Glitches/Fake Level Up>) (or FLUs) later on in the run, so that we can take some conversational shortcuts.
 
 **Initial Feat** - Weapon Focus: Melee Weapons
 
@@ -95,7 +95,7 @@ Weapon Focus: Melee Weapons gives us a +1 on our combat rolls with melee weapons
 
 ### Leveling Plan
 
-It is important to note that, due to the side effects of [Hotshots](<../Major Glitches/Hotshot>), our character frequently reverts to a previous level.  Hence for most of Taris we are level 2, and generally stay at level 5 or 6 until Korriban.
+It is important to note that, due to the side effects of [Hotshots](<../Major Glitches/Hotshot>), our character frequently reverts to a previous level.  Hence our main level benchmarks are level 2 on Taris, level 5 leaving Dantooine, level 7 starting Leviathan, and level 9 on Korriban.  We have to hit level 9 to complete Juhani's quest "Threat from Xor", but we make use of Yuthura's experience exploit to help us get there. 
 
 | Level | Feats | Powers | Skills |
 | --- | :--- | :--- | :--- |
@@ -115,7 +115,7 @@ Additional Notes:
 - We choose Master Critical Strike over Master Flurry because our weapons have a high base chance to crit, so the damage potential is higher with Critical Strike despite getting one fewer attack per round.
 - Another reason to choose Critical Strike over Flurry is our relatively low chance to hit.  Even with Master Two-Weapon Fighting and both Weapon Focuses, we have a lower chance to hit due to our persistently low level.  Avoiding the to-hit penalty of Flurry is important in this context.
 - Our Force Powers are fairly straightforward; Affect Mind is actually skippable, but it does have minor benefits and selecting it keeps our Force Power menus as clean as possible.
-- 14 Persuade, 10 Charisma, and Master Valor are enough to guarantee all Persuade checks for the entire run, since we max out at level 10.
+- 14 Persuade, 10 Charisma, and Master Valor are enough to guarantee all Persuade checks for the entire run, since we max out at level 9 or 10.
 
 ## Equipment Plan
 
@@ -190,7 +190,7 @@ Overall the credit route is quite lenient; there are at least 1000 credits extra
 **9. Selkath Merchant on Manaan**
 - *Buy*: 5x Hyper Battle Stimulant, 5x Hyper Adrenal Strength (2109 Credits left)
 
-Our main sources of credits are selling items to Janice, which is most of our twice-duplicated inventory.  We also use credits from quest rewards, particularly the Taris Duel Ring, Dantooine sidequests and the Manaan Swoop Races.
+Our main source of credits is selling items to Janice, which is most of our twice-duplicated inventory.  We also use credits from quest rewards, particularly the Taris Duel Ring, Dantooine sidequests and the Manaan Swoop Races.
 
 ## Route Overview
 
@@ -198,7 +198,7 @@ Our main sources of credits are selling items to Janice, which is most of our tw
 
 Taris -> Dantooine -> Kashyyyk -> Tatooine 1 -> (Manaan 1 -> Tatooine 2 -> Manaan 2) -> Leviathan -> Korriban -> Unknown Planet -> Star Forge
 
-The planets in parentheses are traveled between using [Hotshots](<../Major Glitches/Hotshot>); Tatooine 2 includes several cleanup [Hotshots](<../Major Glitches/Hotshot>), which start on Tatooine and warp to Manaan, Kashyyyk, Tatooine, and Manaan again in quick succession.  Both Leviathan and Korriban include a side trip to parts of Manaan to cleanup some quests.
+The planets in parentheses are traveled between using [Hotshots](<../Major Glitches/Hotshot>); Tatooine 2 includes several cleanup [Hotshots](<../Major Glitches/Hotshot>), which start on Tatooine and warp to Manaan, Kashyyyk, Tatooine, and Manaan again in quick succession.  Korriban includes two side trips to parts of Manaan to cleanup some quests.
 
 The GenoHaradan sidequests are the main routing constraint in the midgame.  These sidequests alone give the following restrictions:
 - Before visiting Manaan, you must trigger the GenoHaradan quests by getting either the Kashyyyk, Tatooine, or Korriban maps and then visiting Senni Vek on that planet.
@@ -307,9 +307,6 @@ Other planet route notes:
 - Investigate Sunry's case and find the secret recording
 - Turn in the Data Module and take the Submersible
 - Locate the Star Map underwater
-- Tell Shaelas about his daughter
-- Tell Nilko Bwaas about the mercenaries
-- Show the recording at Sunry's trial
 
 **8. The Leviathan**
 - Set the flag for Dantooine's destruction
@@ -321,6 +318,9 @@ Other planet route notes:
 **9. Korriban**
 - Glitched Jagi's Challenge with Canderous
 - Tell Lurze Kesh you won't help him
+- Tell Shaelas about his daughter
+- Tell Nilko Bwaas about the mercenaries
+- Show the recording at Sunry's trial
 - Visit Mika Dorin's premium shop
 - Inflitrate the Sith Academy
 - Forced Fast Text with Yuthura's XP Exploit
