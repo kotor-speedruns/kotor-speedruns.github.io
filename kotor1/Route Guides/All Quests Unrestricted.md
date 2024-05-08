@@ -162,33 +162,33 @@ Overall the credit route is quite lenient; there are at least 1000 credits extra
 **1. Larrim on Taris (Credit Underflow)**
 - *Sell*: 2 Vibroblades, Ion Blaster
 - *Buy*: Vibrosword, Vibroblade, Confirm Vibrosword (-76 Credits left)
-- *Buy*: Battle Stimulant (-186 Credits left)
+- *Optional Buy*: Battle Stimulant (110 Credits)
 
 **2. Zelka Forn on Taris**
-- *Buy*: 6x Adrenal Alacrity, 7x Adrenal Strength (-836 Credits left)
+- *Buy*: 6x Adrenal Alacrity, 7x Adrenal Strength (-726 Credits left)
 
 **3. Igear on Taris**
-- *Buy*: Vibration Cell (102 Credits left)
+- *Buy*: Vibration Cell (212 Credits left)
 
 **4. Janice Nall on Taris**
 - *Keep*: All Computer Spikes, 13 parts, 1 Strength Gauntlets, 1 Adrenaline Amplifier, All Stims, 1 Energy Projector, 1 Durasteel Bonding Alloy, 1 Vibration Cell
-- *Sell*: Everything Else (11830 Credits left)
+- *Sell*: Everything Else (11940 Credits left)
 
 **5. Crattis Yurkal on Dantooine**
-- *Buy*: Sanasiki's Blade, Breath Mask, +/-3, +/-5 (4530 Credits left)
+- *Buy*: Sanasiki's Blade, Breath Mask, +/-3, +/-5 (4640 Credits left)
 
 **6. Eli Gand on Kashyyyk**
-- *Buy*: Hyper Battle Stimulant, Hyper-Adrenal Strength (5830 Credits left)
+- *Buy*: Hyper Battle Stimulant, Hyper-Adrenal Strength (5940 Credits left)
 
 **7. Mic'Tunan'Jus Orgu on Tatooine**
-- *Buy*: Bantha Fodder (5829 Credits left)
+- *Buy*: Bantha Fodder (5939 Credits left)
 
 **8. Junix Nard on Tatooine**
 - *Buy*: All Paazak Cards
-- *Note*: The fastest way to do this also involves buying the Hair Trigger that's in the middle, which we can and do afford (3859 Credits left)
+- *Note*: The fastest way to do this also involves buying the Hair Trigger that's in the middle, which we can and do afford (3969 Credits left)
 
 **9. Selkath Merchant on Manaan**
-- *Buy*: 5x Hyper Battle Stimulant, 5x Hyper Adrenal Strength (2109 Credits left)
+- *Buy*: 5x Hyper Battle Stimulant, 5x Hyper Adrenal Strength (2219 Credits left)
 
 Our main source of credits is selling items to Janice, which is most of our twice-duplicated inventory.  We also use credits from quest rewards, particularly the Taris Duel Ring, Dantooine sidequests and the Manaan Swoop Races.
 
@@ -275,7 +275,7 @@ Other planet route notes:
 - Deal with the Gamorrean Ambush
 - Save Teleport into Eastern Dune Sea
 - Kill Komad and the Krayt Dragon
-- Find the Star Map and Bastila's Father's holocron
+- Find the Star Map and Bastila's father's holocron
 - Trigger the GenoHaradan bounty quests
 - Order Sasha off your ship
 - Finish Jolee's and Carth's backstories
@@ -361,7 +361,7 @@ This section will describe all the actions you'll need to take for the All Quest
 Notation:
 - `Level ups are highlighted in code block`
 - *Inventory/Equipment changes are highlighted in italics*
-- **Hard Saves and Overwrites are highlighted in bold**
+- **Hard Saves are highlighted in bold**
 - ***Quest Updates are highlighted in bold and italics***
 - `Shopping trips are highlighted in large code blocks`
 
