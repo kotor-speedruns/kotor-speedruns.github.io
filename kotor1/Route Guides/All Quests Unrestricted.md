@@ -866,7 +866,7 @@ SHOPPING: Janice Nall
   - 1 Durasteel Bonding Alloy
   - 1 Energy Projector
   - 1 Vibration Cell
-- End: 11830 Credits
+- End: 11940 Credits
 ```
 
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Javyar's Cantina using Slot 4
