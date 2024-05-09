@@ -755,7 +755,8 @@ SHOPPING: Zelka Forn
   - ***Begins "Bastila"***
 - [Full Inventory Dupe](<../Techniques/Item Duplication#via-anywhere-menu-glitch>) via the [AMG](<../Major Glitches/Anywhere Menu Glitch>) method
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load leaving the Hideout and immediately [Map CS Skip](<../Techniques/Map Cutscene Skips>) to open the map
-- [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>) to warp to the Lower City's default spawn point
+  - This can be tricky because the [AMG](<../Major Glitches/Anywhere Menu Glitch>) pulls your mouse away from where it needs to be for the [Map CS Skip](<../Techniques/Map Cutscene Skips>)
+- Use the pop-up to [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>) to the Lower City
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip extortion CS in front of apartments
 - *Party: Add Carth*
   - This duplicates your inventory once
@@ -766,17 +767,19 @@ SHOPPING: Zelka Forn
 - Swap to MC and QS/QL next to Selven to [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS
 - Talk to and kill Selven: 4
   - Try to bump her for a quick sneak attack
-- Swap to Carth and [GP Warp](<../Techniques/GP Warp#amg-gp-warps>) to move MC to the exit
+- Swap to Carth and [GP Warp via AMG](<../Techniques/GP Warp#amg-gp-warps>) to move MC to the exit
+  - [Buffered GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) are a little too inconsistent now that our saves are longer
 - Leave apartments
 - *Unequip Carth: Remove Sith Armor*
 - *Party: Remove Carth*
 - [Save Teleport](<../Techniques/Save Teleporting>) to the Undercity door
 - Sith Soldier accosts you
 - Enter the Undercity
-  - ***Suggested Memory Reset #1 at the Autosave***
+
 
 ### Undercity
 - Immediately [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the beggar CS
+  - ***Suggested Memory Reset #1 using a Quick Save*** 
 - [Save Teleport](<../Techniques/Save Teleporting>) to Rukil
 - *Party: Add Bastila*
   - This creates another (and the last) copy of your inventory, for triple your original inventory
@@ -784,23 +787,23 @@ SHOPPING: Zelka Forn
   - This Transit Point will be used later to return quickly to Rukil
 - Activate Solo Mode
 - As Bastila, click to open the gate to the infected outcasts
-- As MC, [Save Teleport](<../Techniques/Save Teleporting>) towards Igear until the convo happens: 5
+- As MC, [Save Teleport](<../Techniques/Save Teleporting>) towards Igear until the gate convo happens: 5
 - Swap to Bastila and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) into the cell to skip the rakghoul fight
-- Talk to Infected Outcasts: 2,2
+- Talk to Infected Outcasts as Bastila: 2,2
   - ***Begins and Finishes "Infected Outcasts"***
-- [Save Teleport](<../Techniques/Save Teleporting>) forward so Igear accosts you: 3
+- Still as Bastila, [Save Teleport](<../Techniques/Save Teleporting>) forward so Igear accosts you: 3
 
 ```
 SHOPPING: Igear
 - BUY:
   - Vibration Cell
-- End: 102 Credits
+- End: 212 Credits
 ```
 
 - Deactivate Solo Mode and Cancel Combat
 - [Save Teleport](<../Techniques/Save Teleporting>) to the main gate
 - Kill the rakghoul attacking Hendar
-  - Bastila can use Stun to lower the rakghoul's defense if desired
+  - Bastila can use Stun to lower the rakghoul's defense, making a one-shot from MC much more likely
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS to [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) Mission's CS via QS/QL
 - Talk to Mission to recruit her
   - *Party: Keep Mission and Carth when prompted*
@@ -817,35 +820,37 @@ SHOPPING: Igear
   - *Party: Keep Mission when prompted*
 - Swap to Mission and leave via the ladder
 - *Party: Remove Mission*
-- [Save Teleport](<../Techniques/Save Teleporting>)/[Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to the Sith Soldier corpse to loot the Rakghoul Serum
+- [Save Teleport](<../Techniques/Save Teleporting>)/[Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to the southeastern part of the Undercity
   - You want to teleport from the beginning, but you may hit a trigger in the middle for a CS
   - If the fade in stops happening, you hit the trigger and need to end via [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>)
   - If the fade in never stops, you skipped the trigger and you can just stop teleporting
+- Loot Sith Soldier corpse for the Rakghoul Serum
 - Re-enter the Lower Sewers by the nearby entrance
 - [Save Teleport](<../Techniques/Save Teleporting>) through first two doors and take first door on left
 - Loot the third journal from the outcast corpse
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to South Apartments using Slot 2
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to South Apartments using Slot 1
 - *Party: Add Mission*
 - Transit Back to the Undercity
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and talk to Rukil
   - Mash the conversation until the outcasts begin walking out of the gate
-  - [Use the Options menu](<../Major Glitches/Anywhere Menu Glitch#accessing-menus>) to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Javyar's Cantina using Slot 4
+  - [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the QL
   - ***Begins and Finishes "Rukil's Apprentice"***
   - ***Begins and Finishes "The Promised Land"***
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Javyar's Cantina using Slot 5
 
 ### Leaving Taris
-- Swap to Mission and [Save Teleport](<../Techniques/Save Teleporting>) into the cantina until Canderous accosts you: 1,1,1,4,1,1,1
-  - ***Begins "Purchasing a Droid"***
 - Activate Solo Mode and swap to Mission
-- [Save Teleport](<../Techniques/Save Teleporting>) towards Zax and queue his conversation from slightly far away, then swap to MC
+- [Save Teleport](<../Techniques/Save Teleporting>) into the cantina until Canderous accosts you: 1,1,1,4,1,1,1
+  - ***Begins "Purchasing a Droid"***
+- Swap to Mission again and [Save Teleport](<../Techniques/Save Teleporting>) towards Zax
+- Queue a conversation with Zax from slightly far away, then swap to MC
   - By controlling MC when Mission talks to Zax, MC stays near Canderous and Mission near Zax
 - Zax conversation: 1,3,3,1x13,2
   - ***Finishes "Rakghoul Serum"***
   - ***Finishes five bounty quests: Dia, Largo, Selven, Bendak, and Matrik***
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Upper City North using Slot 3
-- *Stims: Alacrity on Mission*
-- As Mission, talk to Janice: 2,4,1
-  - Don't [Save Teleport](<../Techniques/Save Teleporting>) here, as it's a short distance and we want to keep our QS in Javyar's Cantina
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Upper City North using Slot 4
+- As Mission, [Save Teleport](<../Techniques/Save Teleporting>) to Janice and talk to her: 2,4,1
   - *Party: Keep Mission when prompted*
   - ***Finishes "Purchasing a Droid"***
 - Talk to Janice again: 1
@@ -864,14 +869,14 @@ SHOPPING: Janice Nall
 - End: 11830 Credits
 ```
 
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via Hard Save (Slot 1) to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to Javyar's Cantina
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Javyar's Cantina using Slot 4
 - ***Optional Journal Check: Active quests should be "Bastila", "Carth", and "Escaping Taris"***
 - Talk to Canderous: 2,1
   - *Party: Keep Canderous when prompted*
   - ***Begins "Canderous"***
 - Use the load screen to [Free Look AMG](<../Major Glitches/Anywhere Menu Glitch#free-look-amgs>) the Malak/Saul CS
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen for Davik's Estate skip:
-  - Unpause after the load, then click through until the screen is completely faded
+- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the next load screen for Davik's Estate skip:
+  - Unpause after the load, then click through until the screen is completely faded to black
   - Cancel the pop-up, then QS/QL to [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS and spawn in the hangar
 - *Equip MC: Sith Armor*
 - [Save Teleport](<../Techniques/Save Teleporting>) to board the Ebon Hawk
