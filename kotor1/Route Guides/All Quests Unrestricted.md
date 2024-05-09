@@ -567,14 +567,13 @@ SHOPPING: Zelka Forn
   - **Slot 4 now North Apartments**
 
 ### The Duel Ring
-
 - Vs. Deadeye Duncan:
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-  - Talk to Ajuur to start the duel
+  - Talk to Ajuur as Carth to start the duel
   - When the pre-duel cutscene starts, cancel the pop-up and move behind Deadeye
-  - When the announcer says "meat", QS twice to finish the CS
+  - When the announcer says "meat" (or Duncan starts his fist pump), QS twice to finish the CS
   - Spam Critical Strike to defeat Deadeye
-- Immediately activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
+- When Deadeye falls, immediately activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the Duel Ring intro via QS/QL
   - Click through the announcer's post-Deadeye dialog, then click through the next cutscene
   - When the woman says "Shhh!", cancel the pop-up and QS/QL to skip the CS
@@ -583,17 +582,17 @@ SHOPPING: Zelka Forn
   - As before, move behind Gerlon during the cutscene
   - *Stims: Strength on MC via hotkey*
     - Press Shift+6 (by default) to advance the stim menu to Adrenal Strength
-  - When the announcer finishes laughing, QS twice to finish the CS
+  - When the announcer finishes laughing (or Gerlon starts his fist pump), QS twice to finish the CS
   - Defeat Gerlon via Critical Strike
 - Vs. Ice:
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and talk to Ajuur twice to start the duel
   - Move behind Ice and *Stims: Strength on MC via hotkey*
-  - When the announcer says "death", QS twice to finish the CS
+  - When the announcer says "death" (or Ice begins her fist pump), QS twice to finish the CS
   - Defeat Ice via Critical Strike
 - Vs. Marl:
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and talk to Ajuur twice to start the duel
   - Move behind Marl and *Stims: Strength on MC via hotkey*
-  - When the announcer says "kid", QS twice to finish the CS; you'll likely only barely be in position
+  - When the announcer says "kid" (or Marl begins his fist pump), QS twice to finish the CS
   - Defeat Marl with Critical Strikes; you have a higher chance to miss, so you may not one-round him
   - If you do miss, try to bump Marl so that he does not attack you, and try to get Sneak Attacks off
   - You can use medpacs if necessary; Marl can also stun or one-shot you, so this fight is somewhat risky
@@ -603,7 +602,7 @@ SHOPPING: Zelka Forn
   - When the announcer says "game", QS *three times* to finish the CS
   - Defeat Twitch via Critical Strike
   - There is a small chance you won't one-shot Twitch, as he can survive two hits if you roll low damage; it shouldn't take much to finish him off though
-- After returning to the cantina, *Stims: Alacrity, Strength, and Battle Stim on MC*
+- After returning to the cantina, *Stims: Alacrity, Strength, and Battle Stim (if purchased) on MC*
 - Talk to Bendak Starkiller
 - Exit the cantina
 - *Equip Carth: Sith Armor*
@@ -620,7 +619,7 @@ SHOPPING: Zelka Forn
   - He will hopefully try to move out of the way with blasters still equipped; Sneak Attack him again and he will hopefully fall for the ideal two-round fight
   - If he shoots you instead, keep trying to bump him to keep him moving, or he'll equip his melee weapons
   - If he equips his melee weapons, you lose the +10 attack bonus from Melee vs. Ranged; try to avoid this at all costs, as the fight then becomes very difficult to win
-  - Use medpacs if necessary, though Bendak can one-shot you or stun you if you're unlucky
+  - Use medpacs if necessary, though Bendak can one-shot you or stun you if you're unlucky, especially without the Battle Stim
   - ***Finishes "The Duel Ring"***
 
 ## The Search for Bastila
@@ -628,16 +627,20 @@ SHOPPING: Zelka Forn
 ### The Sith Base
 - Immediately after Bendak dies, activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - Warping to Upper City North:
-  - When the announcer starts talking, [use the Options menu](<../Major Glitches/Anywhere Menu Glitch#accessing-menus>) to make a **Hard Save in Slot 3**
-  - Load Slot 1 and exit the apartments to get an Autosave in Upper City North
-  - Load Slot 2 and [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) from Upper City Cantina to South Apartments
-    - QS in South Apartments, then load Slot 3
-    - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load, then perform the [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
+  - When the announcer starts talking, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the cutscene via QS/QL
+  - Load Slot 4 and exit the apartments to get an Autosave in Upper City North
+  - QL and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to South Apartments using Slot 3
   - [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>) to warp to Upper City North's default spawn
+    - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the Neo Hotshot load, then click to close the menu
+    - Open the Map and click "Transit Back" to replace the pop-up
+    - Swap to the Options Menu, highlight "Load Game" and "OK", then press enter
+    - After the load, load the Autosave to warp to Upper City North
 - *Stims: Strength on MC*
-- **Hard Save in Slot 3**
+- **Hard Save three times in Slot 3, Slot 4, and New Slot (Slot 5)**
 - Disable V-Sync to perform the [Sith Base DLZ](<../Major Glitches/Displaced Load Zone#ch7Sith_Base_DLZ>)
 - Secretary accosts you: 3,1
+- Re-enable V-Sync
 - *Stims: Alacrity on MC*
   - We use this here so it is *not* active outside the Sith Base
 - Run to end of main hall, turn right through door, and take first door on right
@@ -649,7 +652,7 @@ SHOPPING: Zelka Forn
 - Use [Wired Targeting](<../Techniques/Wired Targeting#quick-wired-targeting-combat>) to kill the Governor
 - Loot the right strongbox for Computer Spikes and Durasteel Bonding Alloy
 - Loot the Governor for Launch Codes, Strength Gauntlets, and Adrenaline Amplifier
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Upper City North using Slot 3 
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Upper City North using Slot 5 
 - *Party: Add Carth*
 - *Stims: Alacrity on Carth*
 - Run Carth to the elevator so Sith Soldier accosts you
@@ -666,6 +669,7 @@ SHOPPING: Zelka Forn
 - Matrik accosts you: 2
 - As MC, kill Matrik via Sneak Attack
 - [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to Lower City using your pop-up
+  - This is faster than a [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) because we already have the QS in Lower City
 - [Vulkar Door Clip DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-DLZ>)
   - Disable V-Sync and activate Solo Mode
   - Run Carth slightly forward, then swap to MC and [Conversation Queue](<../Techniques/Conversation Queue>) to Carth
@@ -679,7 +683,7 @@ SHOPPING: Zelka Forn
 ### Vulkar Base
 
 - ***Optional Strat: [Sewers DLZ](<../Major Glitches/Displaced Load Zone#ch10Sewers_DLZ)***
-  - *This is the fastest way to Upper Sewers, but only if you get the [DLZ](<../Major Glitches/Displaced Load Zone#sewers-DLZ>) nearly immediately.  This saves at most 5 seconds.*
+  - *This is the fastest way to Upper Sewers, but only if you get the [DLZ](<../Major Glitches/Displaced Load Zone#sewers-DLZ>) nearly immediately.  This saves at most 3 seconds.*
   - *To perform the DLZ strat:*
     - Kill the Vulkar Guard behind the first door
     - Run down the right hallway
@@ -707,21 +711,23 @@ SHOPPING: Zelka Forn
     - As soon as the door begins to open, [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to the Vulkar Base using your pop-up
 - Run past the patrol droid and turrets and enter the Vulkar Garage
   - You may need to kill the patrol droid if Carth gets stuck too far from the Garage Load Zone
-- In the Garage, **Hard Save in Slot 1**
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to South Apartments using Slot 2
+- In the Garage, activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
+  - It is important to use a QS for this!
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to South Apartments using Slot 2
 - Transit Back to UCS and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
-- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Vulkar Garage via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) using Slot 1
-  - If you set the transit point correctly, you don't have to move Carth at all
+- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Vulkar Garage via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) using your pop-up
+  - If you set the transit point correctly earlier, you don't have to move Carth at all
 - As Carth, loot the prototype accelerator
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and talk to Kandon Ark
-  - [Use the Options menu](<../Major Glitches/Anywhere Menu Glitch#accessing-menus>) to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Upper City North using Slot 3
+- [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the convo via QS/QL
   - ***Finishes "Inside the Vulkar Base"***
+- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load to [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Upper City North using Slot 3
 
 ### Swoop Platform
 - Enter the Lower City with Carth
 - QS/QL to fix party following AI
 - As Carth, enter Javyar's Cantina
-- **Hard Save in New Slot (Slot 4)**
+- **Hard Save in Slot 5**
 - Exit Javyar's Cantina
 - *Equip Carth: Sith Armor*
 - *Party: Remove Carth*
@@ -730,7 +736,7 @@ SHOPPING: Zelka Forn
   - The [DLZ](<../Major Glitches/Displaced Load Zone#bek-base-DLZ>) is quite easy, but only saves a few seconds at most
 - Re-enable V-Sync and [Save Teleport](<../Techniques/Save Teleporting>) to Gadon
   - *We'll use [Save Teleports](<../Techniques/Save Teleporting>) for movement for the rest of Taris.*
-- Talk to Gadon twice: 1x10,3,2 ... 2,1spam
+- Talk to Gadon: 1x10,3,1,5,1spam
 - After the load, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip mechanic convo
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then talk to Race Coordinator to start race
 - Complete [the swoop race](<../Miscellaneous/Swoop Racing#planet-circuit-lap-1>) with the pop-up still up
