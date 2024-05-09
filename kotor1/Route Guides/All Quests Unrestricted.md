@@ -87,7 +87,7 @@ Our attributes are chosen here for two reasons: 18 Strength is to maximize our d
 * Security - 4
 * Save the rest
 
-Security is used for a skip on Endar Spire, as well as opening Selven's apartment on Taris. Persuade is our main skill and what we will be dumping points into during the [Fake Level Ups](<../Major Glitches/Fake Level Up>) (or FLUs) later on in the run, so that we can take some conversational shortcuts.
+Security is used for a skip on Endar Spire, as well as opening Selven's apartment on Taris. Persuade is our main skill and what we will be dumping points into during the [Fake Level up](<../Major Glitches/Fake Level Up>) (or FLUs) later on in the run, so that we can take some conversational shortcuts.
 
 **Initial Feat** - Weapon Focus: Melee Weapons
 
@@ -106,10 +106,10 @@ It is important to note that, due to the side effects of [Hotshots](<../Major Gl
 | FLU (15) | Weapon Focus: Lightsaber | Master Valor | Per to 14 |
 | 6-9 | Auto-Level | | |
 
-There are multiple [FLUs](<../Major Glitches/Fake Level Ups>) in the five levels we do manually:
-- At Level 2, we do the [Sneak Attack FLU](<../Major Glitches/Fake Level Ups#sneak-attack-flu>) to get Sneak Attack IX and Master Two-Weapon Fighting, as well as 10 Persuade.
-- At Level 4, we do the [Master Speed FLU](<../Major Glitches/Fake Level Ups#master-speed-flu>) to get Master Critical Strike and Master Speed, and bump our Persuade to 12.
-- At Level 5, we do the [Master Valor FLU](<../Major Glitches/Fake Level Ups#master-valor-flu>) to get Weapon Focus: Lightsaber and Master Valor, and bump our Persuade to 14.
+There are multiple [FLUs](<../Major Glitches/Fake Level Up>) in the five levels we do manually:
+- At Level 2, we do the [Sneak Attack FLU](<../Major Glitches/Fake Level Up#sneak-attack-flu>) to get Sneak Attack IX and Master Two-Weapon Fighting, as well as 10 Persuade.
+- At Level 4, we do the [Master Speed FLU](<../Major Glitches/Fake Level Up#master-speed-flu>) to get Master Critical Strike and Master Speed, and bump our Persuade to 12.
+- At Level 5, we do the [Master Valor FLU](<../Major Glitches/Fake Level Up#master-valor-flu>) to get Weapon Focus: Lightsaber and Master Valor, and bump our Persuade to 14.
 
 Additional Notes:
 - We choose Master Critical Strike over Master Flurry because our weapons have a high base chance to crit, so the damage potential is higher with Critical Strike despite getting one fewer attack per round.
@@ -373,7 +373,7 @@ Abbreviations:
 * QS/QL - Quick Save then immediately Quick Load
 * AMG - [Anywhere Menu Glitch](<../Major Glitches/Anywhere Menu Glitch>)
 * DLZ - [Displaced Load Zone](<../Major Glitches/Displaced Load Zone>)
-* FLU - [Fake Level Up](<../Major Glitches/Fake Level Ups>)
+* FLU - [Fake Level Up](<../Major Glitches/Fake Level Up>)
 * GP Warp - [Gather Party Warp](<../Techniques/GP Warp>)
 
 Save File Notes:
@@ -411,8 +411,8 @@ Quest Notes:
 
 ### Pre-Run Setup
 - Set the following special Options:
-  - Turn off V-Sync to prepare for the first [DLZ](<../Major Glitches/Displaced Load Zone)
-  - Ensure Auto-Level is on in the Gameplay menu
+  - Turn off V-Sync to prepare for the first [DLZ](<../Major Glitches/Displaced Load Zone>)
+  - Ensure Auto-Level is ON in the Gameplay menu
   - Make sure you have NO saved games
 - Character Creation:
   - Male Scoundrel - Custom Character
@@ -431,7 +431,7 @@ Quest Notes:
     - *This strat is potentially 20 seconds faster, but the [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) is marginally harder.  This is the recommended method.*
     - *To perform this strat:*
       - Skip the footlocker and talking to Trask
-      - [Open Buffer](<../Techniques/Save Buffering#open-buffers>) past Trask to use Security during Trask's first conversation
+      - [Open Buffer](<../Techniques/Save Buffering#open-buffers>) from Trask to the door to use Security during Trask's first conversation
         - ***Begins "Attack on the Endar Spire"***
       - [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) by walking into the rubble near the second Sith soldier in the right spot
   - ***Method Two: Doorframe [DLZ](<../Major Glitches/Displaced Load Zone)***
@@ -439,11 +439,12 @@ Quest Notes:
     - *To perform this strat:*
       - Loot footlocker
       - *Equip MC: Clothes*
-      - Open door and Talk to Trask twice
+      - Open door and talk to Trask twice
         - ***Begins "Attack on the Endar Spire"***
       - [Open Buffer](<../Techniques/Save Buffering#open-buffers>) to use Security during the Carth CS
         - Mash reasonably quickly to finish the CS before the door opens
-      - Kill first two Sith and open next door
+      - Use Trask to kill the first two Sith
+      - Open the next door as MC
       - [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) by walking into the right side of the door frame in the right spot
 
 ### Starboard Section
@@ -452,7 +453,7 @@ Quest Notes:
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen after the prior [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>)
   - After Carth's convo starts, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the convo via QS/QL
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the QL
-  - Perform the [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to return to the Command Module (**Slot 1 now Starboard Section**)
+  - Perform the [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to return to the Command Module
 - [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) into the Starboard Section again, using whatever method you used before
 - Loot footlocker in Terminal Room 
 - Hack terminal console: 2,3
@@ -473,11 +474,11 @@ Quest Notes:
   - *Party: Keep Carth when prompted*
 - Immediately after the load, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Sith Raid cutscene
 - `Level 2:` [Sneak Attack FLU](<../Major Glitches/Fake Level Up#sneak-attack-flu>)
-  - Make sure to use the All Quests version with Persuade and Slow Levels
+  - Make sure to use the All Quests version with Slow Levels to get Master Two-Weapon Fighting and 10 Persuade
 - As Carth, use Security to open the first apartment on the right
 - As MC, trigger the [Credit Underflow](<../Major Glitches/Anywhere Menu Glitch#credit-underflow>) glitch
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-- Run forward until Larrim accosts you: 1,2,4
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
+  - Run forward until Larrim accosts you: 1,2,4
 
 ```
 SHOPPING: Larrim
@@ -489,10 +490,9 @@ SHOPPING: Larrim
   - Vibrosword (replaces AMG pop-up)
   - Vibroblade
 - Exit the shop and click 'OK' on the pop-up to buy the Vibrosword
-- Speak with Larrim again: 3
-- BUY:
-  - Battle Stimulant
-- End: -186 Credits
+- OPTIONAL: Speak with Larrim again (3) and buy the Battle Stimulant
+  - This can be used to make Bendak's fight slightly more consistent, but costs ~5 seconds to get
+- End: -76 Credits
 ```
 
 *Note: The [Credit Underflow](<../Major Glitches/Anywhere Menu Glitch#credit-underflow>) can fail for technical memory-related reasons.  If it does fail, you can either sell a Parts and then retry the glitch, or just reset.*
@@ -524,6 +524,7 @@ SHOPPING: Larrim
 - Swap to Carth and leave the Cantina
 - Swap to MC and run forward until you reach the first archway
 - Return to the Hideout and Transit Back to set the transit point
+  - This positioning enables a fast [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) later
   - ***Finishes "Rapid Transit System"***
 - Run towards Upper City North
 - Just before the floating sculpture, activate Solo Mode
@@ -537,19 +538,20 @@ SHOPPING: Zelka Forn
 - BUY:
   - 6x Adrenal Alacrity
   - 7x Adrenal Strength
-- End: -836 Credits
+- End: -726 Credits
 ```
 
-- Leave the shop so Gurney accosts you: 1,3,4
+- Leave the shop until Gurney accosts you: 1,3,4
 - *Stims: Alacrity **on Carth***
 - [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to move MC to the exit
 - Swap back to Carth and enter Upper City North
+  - We want to use Carth for most movement in the Upper and Lower Cities
 - After the load, QS/QL to fix party following AI
-- Enter the North Apartments
+- Enter the North Apartments as Carth
 - Activate Solo Mode
-- As MC, use Security to open the first apartment on the right
-- Swap to Carth and run to the entrance of the second apartment on the left
-- Swap to MC and talk to Largo: 1,2
+- Swap to MC and use Security to open the first apartment on the right
+- Swap to Carth and run towards the entrance of the second apartment on the left
+- When you hear the Security succeed, swap to MC and talk to Largo: 1,2
 - MC uses Critical Strike to kill Largo
 - Swap to Carth and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the Sarna cutscene via QS/QL
@@ -561,7 +563,6 @@ SHOPPING: Zelka Forn
 - As Carth, run back to hall and click on exit door
 - Swap to MC and loot Largo for Energy Projector
 - Swap back to Carth and wait until he opens the door
-- **Hard Save in Slot 1**
 - [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Upper City Cantina via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 4
   - **Slot 4 now North Apartments**
 
