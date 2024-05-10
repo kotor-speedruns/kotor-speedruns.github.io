@@ -1154,7 +1154,6 @@ SHOPPING: Eli Gand
     - **Slot 6 now Lower Shadowlands**
   - The elevator convo should trigger after the load; use it to go to Upper Shadowlands: 1
 - **Hard Save in Slot 2**
-- *Force: Cast Master Speed as MC*
 - Move to the right of Gorwooken and speak to him: 1
   - It's important to stand to the right to avoid triggering Darth Bandon later
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load, then [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via [Force Skip](<../Techniques/Force Skips>)
@@ -1218,10 +1217,10 @@ SHOPPING: Eli Gand
 SHOPPING: Mic'Tunan'Jus Orgu
 - BUY:
   - Bantha Fodder
-- End: 5829 Credits
+- End: 5939 Credits
 ```
 
-- Run towards Anchorhead so the gizka man accosts you: Hey, free gizka!
+- Run towards Anchorhead so the gizka Sullustan accosts you: Hey, free gizka!
   - ***Begins "The Trouble with Gizka"***
 - Swap to Bastila and enter Anchorhead
 
@@ -1230,21 +1229,24 @@ SHOPPING: Mic'Tunan'Jus Orgu
 - Talk to Sharina Fizark
   - ***Finishes "Middleman"***
 - [Save Teleport](<../Techniques/Save Teleporting>) or [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) past Manaa Demknot conversation
-- Enter Czerka Office
-- Immediately [Force Skip](<../Techniques/Force Skips>) Duros conversation
+  - If you teleport past it, it may trigger later
+- Enter Czerka Office and immediately [Force Skip](<../Techniques/Force Skips>) Duros conversation
   - Make sure you don't cast Master Speed as we want to preserve our [Save Teleports](<../Techniques/Save Teleporting>)
 - Talk to Czerka Protocol Officer: 1x10,3,2
   - ***Begins "Sand People"***
-- **Hard Save in New Slot (Slot 5)**
+- **Hard Save in Slot 3**
 - Swap to Bastila and exit the office
 - *Party: Remove Bastila*
 - Enter Swoop Registration
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and talk to Motta: 1,3,1spam
+- Perform [Swoop Skip](<../Major Glitches/Hotshot#swoop-skips>) three times:
+  - **Hard Save in Slot 1** (do this every time)
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on this save (or via QS)
+  - Talk to Motta; 1st time: 1,3,1spam | 2nd and 3rd times: 2,1
+  - Once the race starts, use Alt+F4 to regain control
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Swoop Registration using Slot 1
+  - ***Begins and Finishes "Tatooine Swoop Races"***
   - ***Begins "Signing Nico"***
-  - ***Begins "Tatooine Swoop Races"***
-- Perform [Swoop Skip](<../Major Glitches/Hotshot#swoop-skips>) three times
-  - After the first two skips, clear menus and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then talk to Motta: 2,1
-  - ***Finishes "Tatooine Swoop Races"***
 - After the last skip, talk to Nico
   - ***Finishes "Signing Nico"***
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then [Save Teleport](<../Techniques/Save Teleporting>) towards the door
@@ -1255,7 +1257,7 @@ SHOPPING: Mic'Tunan'Jus Orgu
 - [Save Teleport](<../Techniques/Save Teleporting>) towards Dark Jedi, then [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) their CS via [Force Skip](<../Techniques/Force Skips>)
 - Enter the Cantina
 - *Party: Add Bastila*
-- Talk to Helena: 1,1,2
+- Talk to Helena: 1,3
 - Stand next to Furko Nellis, then swap to Bastila and click the door
 - Swap back to MC and click on Junix Nard without moving
 
@@ -1264,7 +1266,7 @@ SHOPPING: Junix Nard
 - BUY:
   - 2x +/-1, +/-2, +/-3, +/-4 Cards
   - The fastest way to buy these also buys the Hair Trigger between them by mashing
-- End: 3859 Credits
+- End: 3969 Credits
 ```
 
 - Talk to Furko Nellis: 1,1,1,1,1
@@ -1275,21 +1277,23 @@ SHOPPING: Junix Nard
 - Win the Pazaak game! Good luck!
   - Use your ten +/- cards as your sidedeck
   - ***Finishes "Pazaak Rules"***
-- **Hard Save in New Slot (Slot 6)**
+- **Hard Save in Slot 4**
 - Swap to Bastila and leave cantina
 - *Party: Remove Bastila*
 - [Save Teleport](<../Techniques/Save Teleporting>) to the Droid Shop
-- Talk to Luka Yaka: 1,1,1,1,1,3,3,1
+- Talk to Luka Yaka: 1,1,1,1,1,4,4,1
   - We threaten him to ensure a 2500 credit price
   - ***Finishes "Droid for Sale"***
 - Talk to HK-47, meatbags
   - *Party: Leave empty when prompted*
 - Exit Droid Shop and talk to Iziz: 1x6, 3
   - ***Begins "Fair Trade"***
-- **Hard Save in Slot 4** next to Gate Guard
+- **Hard Save in Slot 5** next to Iziz
+  - The save position is important for a [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) later
 - Talk to Gate Guard to exit to Dune Sea
 
 ### The Dune Sea
+- **Hard Save in Slot 6**
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip angry wife convo
 - Talk to Tanis after he accosts you: 1,1,3,1,1
   - ***Finishes "Tanis Trapped"***
@@ -1298,9 +1302,9 @@ SHOPPING: Junix Nard
 - RtEH and Transit Back to create a transit point
   - We will use this for [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>) later
 - [Save Teleport](<../Techniques/Save Teleporting>) to skip trigger and enter the Eastern Dune Sea
-  - *Suggested Memory Reset #3 on the Autosave*
+  - *Suggested Memory Reset #3*
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) from entrance to Komad
-  - This is essentially a long string of [Save Teleports](<../Techniques/Save Teleporting>), but we could hit some convo triggers
+  - This is essentially a long string of [Save Teleports](<../Techniques/Save Teleporting>), but we most likely hit some convo triggers
   - End the buffer by *Force: Casting Master Speed*
 - Talk to and kill Komad Fortuna: 1,2,1,1,2,3,1,2
   - Killing Komad now skips two convos with him later
@@ -1309,12 +1313,12 @@ SHOPPING: Junix Nard
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then talk to the banthas and [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) their CS via [Force Skip](<../Techniques/Force Skips>)
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and talk to the banthas again
   - Watch the CS until the Krayt Dragon begins to emerge from the cave
-  - Use [CS Movement](<../Major Glitches/Anywhere Menu Glitch#moving-during-cutscenes>) via flourish weapon hotkey to end the CS right next to the tail
+  - Use [CS Movement](<../Major Glitches/Anywhere Menu Glitch#moving-during-cutscenes>) via flourish weapon hotkey to end the CS right next to the base of the tail
   - ***Finishes "A Desert Hunt"***
 - When the CS ends, loot the Krayt Dragon for two pearls
 - Loot the chewed Twi'lek corpse on the right side of the cave for Nerve Amplifier Belt
 - Loot the tattered equipment pack in the back left for Bastila's father's holocron
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then click the Star Map and [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) their CS via [Force Skip](<../Techniques/Force Skips>)
+- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then click the Star Map and [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) its CS via [Force Skip](<../Techniques/Force Skips>)
   - ***Finishes "Star Map: Tatooine"***
 
 ### The Ebon Hawk
@@ -1341,17 +1345,16 @@ SHOPPING: Junix Nard
   - QS/QL between each conversation to advance to the next
   - ***Finishes "Carth"***
 - Fly to Manaan with a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to RtEH
-  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to Ebon Hawk
-- Fly to Manaan again with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to the Ebon Hawk
+- Fly to Manaan again with a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to RtEH
   - *Party: Add Carth during the skip*
 
 ## Manaan 1
 
-### GenoHaradan
+### Ahto City
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Sith/Republic soldier CS through second door
 - [Save Teleport](<../Techniques/Save Teleporting>) down hall until Jordo accosts Carth
   - ***Begins "Finding Dustil"***
-- *Party: Remove Carth*
 - Talk to Nubassa: 3,2,1
   - ***Finishes "The Trouble with Gizka"***
 - **Hard Save in New Slot (Slot 7)**
@@ -1359,8 +1362,26 @@ SHOPPING: Junix Nard
 - Talk to Port Authority
 - RtEH and Transit Back next to the fountain through the Ahto City door
   - We'll use this transit point to return here later
+- Enter Ahto West
+- [Save Teleport](<../Techniques/Save Teleporting>) forward so Elora accosts you
+  - ***Begins "Sunry's Murder Trial"***
+- Activate Solo Mode
+- As MC, [Save Teleport](<../Techniques/Save Teleporting>) to the bar until Nilko Bwaas accosts you
+- Talk to Nilko Bwaas again
+  - ***Begins "Republic Hiring Mercenaries"***
+- Swap to Carth and [Save Teleport](<../Techniques/Save Teleporting>) into court until the diplomats squabble
+- As Carth, talk to Judge Shelkar: 2
+- As Carth, [Save Teleport](<../Techniques/Save Teleporting>) towards Shaelas so he accosts you
+  - ***Begins "Missing Selkath"***
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Manaan Docking Bay using Slot 7
+  - **Slot 7 now Ahto West**
+- *Party: Remove Carth*
+- Transit Back to return to the West Central transit point
+- *Suggested Memory Reset #4*
 - Enter East Central
-- **Hard Save in Slot 2**
+
+### GenoHaradan and Swoops
+- **Hard Save in New Slot (Slot 8)**
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) or spam the Sith/Republic soldier CS
 - Talk to Hulas
   - ***Begins "GenoHaradan: Lorgal"***
@@ -1376,35 +1397,18 @@ SHOPPING: Junix Nard
   - ***Begins "GenoHaradan: Vorn"***
   - ***Begins "GenoHaradan: Rulan"***
   - ***Begins "GenoHaradan: Ithorak"***
-- *Party: Add Juhani and Jolee*
-- Enter Ahto East with a party member
+- *Party: Add T3*
+- Swap to T3 and [Save Teleport](<../Techniques/Save Teleporting>) to enter Ahto East
   - We prefer the MC to be as close to Hulas as possible
-
-### Sidequesting
+- *Party: Remove T3*
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the rude Sith toll lady
 - Talk to Vek inside the swoop area
 - Talk to Queedle: 1x4,2 ... QS/QL ... 1,3
-- Perform [Swoop Skip](<../Major Glitches/Hotshot#swoop-skips>) three times
+- Perform [Swoop Skip](<../Major Glitches/Hotshot#swoop-skips>) using [Neo Hotshots](<../Major Glitches/Hotshot#neo-hotshots>) three times
+  - Remember to **Hard Save in Slot 1** before each skip
   - After each skip, press Escape once to clear the menu and IMMEDIATELY press Alt+F4 to activate [AMG](<../Major Glitches/Anywhere Menu Glitch>)
   - After the swoop victory dance CS starts, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) it via [Force Skip](<../Techniques/Force Skips>)
-  - During the last swoop victory dance, [use the Options Menu](<../Major Glitches/Anywhere Menu Glitch#accessing-menus>) to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Manaan Docking Bay using Slot 7
-- Transit Back to return to the West Central transit point
-  - *Suggested Memory Reset #4 on the Autosave from the Transit Back*
-- Enter Ahto West
-- **Hard Save in New Slot (Slot 8)**
-- Elora accosts Jolee
-  - ***Begins "Sunry's Murder Trial"***
-- Activate Solo Mode
-- As MC, [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) (or spam) the diplomat squabble in court
-- Talk to Judge Shelkar: 2
-- Swap to first party member and talk to Nilko Bwaas
-  - ***Begins "Republic Hiring Mercenaries"***
-- Swap to second party member and talk to Selkath Prison guard
-- Swap to MC and talk to Sunry: 1,4
-  - ***Begins "Sunry's Story"***
-- Swap to party member in bar and have Shaelas accost you
-  - ***Begins "Missing Selkath"***
-- Transit Back to Manaan Docking Bay
+- After the third skip, *Party: Add T3* and Transit Back to Manaan Docking Bay
 
 ### Reaching the Sith Base
 - Talk to Selkath Merchant: 3
@@ -1417,7 +1421,7 @@ SHOPPING: Selkath Merchant
 - End: 2109 Credits
 ```
 
-- *Party: Remove Jolee and Juhani*
+- *Party: Remove T3*
 - [Save Teleport](<../Techniques/Save Teleporting>) down hall until Vek accosts you
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and speak to droid: 1,1
   - When droid starts walking, use [CS Movement](<../Major Glitches/Anywhere Menu Glitch#moving-during-cutscenes>) to [Save Teleport](<../Techniques/Save Teleporting>) into the Sith Hangar
@@ -1427,11 +1431,11 @@ SHOPPING: Selkath Merchant
 - **Hard Save in New Slot (Slot 9)**
   - Do *NOT* use the keyboard for this or you'll break the transit pop-up!
 - After the Hard Save, use the pop-up to [Fast Lane](<../Major Glitches/Fast Lane>) to RtEH
-- QS, then load the Anchorhead save (Slot 4)
+- QS, then load the Anchorhead save (Slot 5)
 - Talk to the Gate Guard to get the Dune Sea Autosave
 - QL and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load to perform [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>)
 
-## Tatwoine
+## Tatooine 2
 
 ### Worthy of History
 - *Stims/Force: All Remaining Basic Stims on MC, Cast Master Speed*
@@ -1461,26 +1465,23 @@ SHOPPING: Selkath Merchant
 - Talk to Griff and the imprisoned Jawa
 
 ### Warping Segment
-- [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) to Anchorhead using Slot 4
-  - This needs to be a [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) so that HK and Mission spawn at the exit to the Dune Sea
+- [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) to Anchorhead using Slot 5
+  - This needs to be a [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) so that HK and Mission spawn next to Iziz
 - Activate Solo Mode and use HK-47 to talk to Iziz
   - This swaps HK's position with MC's
   - ***Finishes "Fair Trade"***
 - Put HK in this [specific location](/assets/images/imgur-dump/O1RtV4j.png)
-- **Hard Save in Slot 1**
-- Swap to Mission and talk to the Gate Guard to enter the Dune Sea
-- QS, then load the Anchorhead save in Slot 1
-  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Mission and HK to Dune Sea via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
+- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Mission and HK to Dune Sea via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 6
   - This puts HK-47 in the right place for the next [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>)
 - [Save Teleport](<../Techniques/Save Teleporting>) to position Mission in a [specific spot](/assets/images/imgur-dump/RobinnA.png)
-- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Manaan Sith Base via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) using Slot 9
-  - If Mission spawns near MC, she spawned OoB in the Sith Base
-  - QS, then load the Dune Sea save to reposition Mission
-  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via Hard Save in Slot 1 and try the warp again
+- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Manaan Sith Base via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 9
+  - If Mission spawns near MC, she spawned OoB in the Sith Base; to try again:
+    - QS, load the Dune Sea save in Slot 9 and [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
+    - Reposition Mission, then use the pop-up to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to the Sith Base
 - As Mission, talk to Shasa: 3
   - Don't go near the door or you'll warp the party to you!
 - Swap to HK-47 and loot the Data Module
-- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) HK to Upper Shadowlands via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) using Slot 3
+- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) HK to Upper Shadowlands via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 2
 - As HK-47, loot the Wookiee Corpse, then [Save Teleport](<../Techniques/Save Teleporting>) right next to the Rulan-Wookiee
 - *Stims/Force: Hyper Strength and Hyper Battle Stim on MC, Cast Master Speed*
 - Swap back to HK and talk to the Wookiee to start the Rulan fight
@@ -1489,20 +1490,21 @@ SHOPPING: Selkath Merchant
   - When you get knocked back after the Jolee phase, *Force: Cast Master Valor*
   - When you get knocked back after the terentatek phase, QS/QL to freeze the Rulan-tach in place
 - *Force: Cast Master Speed*
--  After a delay, talk to and kill the Rulan-tach
+- After a delay, talk to and kill the Rulan-tach
 - [Save Teleport](<../Techniques/Save Teleporting>) towards Jolee's house as MC until you're just past the fog patch on the ground
   - This sets up a later [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>)
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Czerka Office using Slot 5
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Czerka Office using Slot 3
+  - **Slot 3 now Upper Shadowlands**
 - Talk to Czerka Protocol Officer: 1,2,2
   - ***Finishes "Sand People"***
 - *Party: Remove Mission and HK-47, Add Bastila*
 - Talk to Griff twice, then QS/QL and Greeta Holda accosts you
   - ***Finishes "Mission's Brother"***
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Tatooine Cantina using Slot 6
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Tatooine Cantina using Slot 4
 - Talk to Helena
   - ***Finishes "Bastila's Mother"***
 - *Party: Remove Bastila*
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to East Central using Slot 2
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to East Central using Slot 8
 
 ## Manaan 2
 
@@ -1511,31 +1513,37 @@ SHOPPING: Selkath Merchant
   - ***Finishes "GenoHaradan: Ithorak"***
   - ***Finishes "GenoHaradan: Rulan"***
   - Do **NOT** turn in the last bounty here or you'll never be able to complete "GenoHaradan: Zuulan"
-- [Save Teleport](<../Techniques/Save Teleporting>) to embassy entrance and add any party member (I use Zaalbar)
+- [Save Teleport](<../Techniques/Save Teleporting>) to embassy entrance and add any party member (e.g. Zaalbar)
 - As Zaalbar, open the first door to the hotel
 - As MC, [Save Teleport](<../Techniques/Save Teleporting>) to talk to Roland Wann
 - Swap to Zaalbar and click on second hotel door
 - Swap to MC and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - Open the computer room door, then [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the convo via [Force Skip](<../Techniques/Force Skips>)
-- Hack the Republic Archives: 2,2,3
-- [Save Teleport](<../Techniques/Save Teleporting>) to first door to submersible
-- Swap to Zaalbar and talk to Ignus: 1,2,3,3
+- As MC, click the Republic Archives
+- Swap to Zaalbar and run towards Ignus until the console menu pops up: 2,2,3
+- As Zaalbar, talk to Ignus: 1,2,3,3
   - ***Begins "Ignus, the Hotel Owner"***
-- As Zaalbar, click on second door to submersible
+- As Zaalbar, [Save Teleport](<../Techniques/Save Teleporting>) to first door to submersible and click on second door
 - Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) to talk to Gluupor: 1,3,1
   - ***Begins "Gluupor, the Rodian"***
 - Talk to Firith Me
   - ***Begins "Firith Me, the Pazaak Player"***
   - ***Begins "Elora, Sunry's Wife"***
 - Swap to Zaalbar and take the submersible to Hrakert Station
-  - *Suggested Memory Reset #5 on the Autosave*
+  - *Suggested Memory Reset #5*
 
 ### Hrakert Station
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-- Open the door and [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the mercenary convo via [Force Skip](<../Techniques/Force Skips>)
-- [Save Teleport](<../Techniques/Save Teleporting>) through next three doors, then take first door on right
-- [Save Teleport](<../Techniques/Save Teleporting>) through next five doors, then loot the Envirosuit from the floor
-- [Save Teleport](<../Techniques/Save Teleporting>) through next two doors, then the door straight ahead and take the airlock to the Sea Floor
+- **Hard Save in Slot 1**
+- Use the submersible to return to East Central
+- [Save Teleport](<../Techniques/Save Teleporting>) past Roland to door frame before prison cells
+  - If he accosts you, mash through it
+- Activate Solo Mode and swap to Zaalbar
+- Position Zaalbar near the crates to the left of the computer room door
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Hrakert Station using Slot 1
+  - **Slot 1 now East Central**
+- As Zaalbar, go through two doors to loot the Envirosuit
+- As Zaalbar, turn around and [Save Teleport](<../Techniques/Save Teleporting>) through next door
+- Take the airlock to the Sea Floor
 - QS then **Hard Save in New Slot (Slot 10)**
 - [Fast Lane](<../Major Glitches/Fast Lane>) using Slot 1 to RtEH
 - *Equip MC: Unequip and Re-equip Sith Armor*
@@ -1557,7 +1565,7 @@ SHOPPING: Selkath Merchant
   - If you go past the trigger, run backwards until the CS starts
   - ***Finishes "Star Map: Manaan"***
 - [Fast Lane](<../Major Glitches/Fast Lane>) using Slot 1 to RtEH, then board the Ebon Hawk
-- ***Optional:*** `Auto-Level MC to 7`
+- ***Optional but Recommended:*** `Auto-Level MC to 7`
   - This gives us better attack for the Malak fight on the Leviathan
 - [Save Teleport](<../Techniques/Save Teleporting>) to Galaxy Map and fly to Korriban
 - Use the load screen to [Free Look AMG](<../Major Glitches/Anywhere Menu Glitch#free-look-amgs>) the Leviathan Intro CS
