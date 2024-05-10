@@ -776,7 +776,6 @@ SHOPPING: Zelka Forn
 - Sith Soldier accosts you
 - Enter the Undercity
 
-
 ### Undercity
 - Immediately [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the beggar CS
   - ***Suggested Memory Reset #1 using a Quick Save*** 
@@ -889,10 +888,13 @@ SHOPPING: Janice Nall
 
 ### Jedi Enclave
 - Bastila accosts you
-- Activate Solo Mode and click on door to right with MC
-- *Stims: Alacrity on Canderous*
-- Run Canderous to the edge of the first ramp down
-- Swap to MC and talk to Crattis Yurkal
+- *Stims: Alacrity on MC*
+- Activate Solo Mode and swap to Canderous
+- As Canderous, click on door to right
+- Swap to MC and run forward down ramp
+- Once Canderous opens the door, swap to him
+- As Canderous, click on Crattis Yurkal, then immediately swap to MC
+  - We want to keep MC and Canderous in the same positions
 
 ```
 SHOPPING: Crattis Yurkal
@@ -900,20 +902,20 @@ SHOPPING: Crattis Yurkal
   - Sanasiki's Blade
   - Breath Mask
   - +/-3 and +/-5 Pazaak Cards
-- End: 4530 Credits
+- End: 4640 Credits
 ```
 
-- [Conversation Queue](<../Techniques/Conversation Queue>) MC to Canderous
-- Run with Canderous to right in front of Vandar and QS/QL
-- [Open Buffer](<../Techniques/Save Buffering#open-buffers>) until you can see MC between saves
+- As MC, run down the ramp to the atrium and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) the Belaya CS
+- Run to council chamber with MC and [Open Buffer](<../Techniques/Save Buffering#open-buffers>) into the center circle
 - Council accosts you
 - Use the load screen to [Free Look AMG](<../Major Glitches/Anywhere Menu Glitch#free-look-amgs>) the vision CS
 - Carth accosts you
   - *Party: Keep Canderous when prompted*  
   - ***Begins "The Jedi Council"***
 - *Stims: Alacrity on MC*
-- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Belaya CS
+- Belaya accosts you
 - [Open Buffer](<../Techniques/Save Buffering#open-buffers>) into the second council conversation
+  - Swap to Canderous at the end of the buffer to better position your party members
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) the training montage CS
   - This happens immediately after the council conversation, which is seven 1s, then click twice
   - Vrook should say "I can only hope you prove up to the task."
@@ -930,13 +932,13 @@ SHOPPING: Crattis Yurkal
 - Swap to MC and use Workbench to fully upgrade Sanasiki's Blade
 - *Equip MC: Sanasiki's Blade Mainhand, Lightsaber Offhand, Adrenaline Amplifier, Breath Mask, Strength Gauntlets*
 - Talk to Master Zhar with MC
-- **Hard Save in Slot 2**
-- *Stims: Strength on MC*
+- **Hard Save in Slot 5**
 - Activate Solo Mode and Disable V-Sync
+- *Stims/Force: Master Speed, Adrenal Strength on MC*
 - Swap to Canderous and perform [Enclave DLZ](<../Major Glitches/Displaced Load Zone#enclave-DLZ>)
   - Set up Canderous so he's close to the [DLZ](<../Major Glitches/Displaced Load Zone#enclave-DLZ>) point and you're fairly confident he will trigger the [DLZ](<../Major Glitches/Displaced Load Zone#enclave-DLZ>)
-  - Swap to MC and *Force: Cast Master Speed*, then swap back to Canderous and finish the [DLZ](<../Major Glitches/Displaced Load Zone#enclave-DLZ>)
-  - This will Duration Glitch Master Speed so that it lasts the entirety of Dantooine
+  - If Master Speed wears off, recast it before finishing the DLZ
+  - We want to duration glitch both Master Speed and Adrenal Strength for the rest of Dantooine
 
 ### Redeeming Juhani
 - Re-enable V-Sync
@@ -954,15 +956,16 @@ SHOPPING: Crattis Yurkal
 - After the CS, kill the Mandalorian via Sneak Attack
 - Enter the Grove behind you
 - Run/Force Jump through the Grove to enter Sandral Grounds
-- **Hard Save in Slot 3**
+- **Hard Save in Slot 4**
 - Reenter the Grove
-- Bolook accosts you: 2,2,2
+- Run towards bridge until Bolook accosts you: 2,2,2
   - ***Begins and Finishes "Murdered Settler"***
-- Kill the Mandalorian to the left via Force Jump
-  - You do not need to kill the Duros or the Mandalorian on the right
+- Kill the closer Mandalorian via Force Jump
+  - You do not need to kill the Duros or the other Mandalorian
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Juhani fight
 - Talk to Juhani to redeem her
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Jedi Enclave using Slot 2
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Jedi Enclave using Slot 5
+  - **Slot 5 now Grove**
 - Talk to Master Zhar
   - ***Finishes "Jedi Trials"***
   - ***Rebegins "The Jedi Council"***
@@ -971,20 +974,21 @@ SHOPPING: Crattis Yurkal
   - ***Finishes "The Jedi Council"***
   - ***Begins "Investigate Ruins"***
   - ***Begins "Sandral-Matale Feud"***
-- *Party: Remove Bastila*
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via a Hard Save (Slot 1) to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to the Grove
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to the Grove using Slot 5
+  - **Slot 5 now Jedi Enclave**
 
 ### Dantooine Ruins
+- *Party: Remove Bastila*
 - Run/Force Jump to Matale Grounds
 - Force Jump to the three Kath Hounds and loot Casus Sandral's corpse
   - ***Begins "Dead Settler"***
 - Run/Force Jump through Courtyard to Ruins
   - Hug the right wall when approaching the Ruins to skip a cutscene
 - *Party: Add Mission, Keep Bastila when prompted inside ruins*
-- Activate Solo Mode
+- Open the first door and activate Solo Mode
 - Swap to Mission and click on the exit
-- As MC, [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the droid conversation
-- Loot Nemo's corpse for Sigil Crystal
+- Swap to MC and [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the droid conversation
+- As MC, loot Nemo's corpse for Sigil Crystal
 - Swap to Bastila and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - Disable V-Sync and perform the [Star Map DLZ](<../Major Glitches/Displaced Load Zone#ruins-star-map-DLZ>)
   - When the Star Map CS starts, cancel the pop-up and [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) CS via [Force Skip](<../Techniques/Force Skips>) (or QS/QL)
@@ -992,8 +996,8 @@ SHOPPING: Crattis Yurkal
 - Enable V-Sync and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - Swap to Mission and [GP Warp](<../Techniques/GP Warp#amg-gp-warps>) to move MC to the exit
 - Talk to Mission three times: 1 ... 1,1,4,1 ... 1x13,2
-- **Hard Save in Slot 4**
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Sandral Grounds using Slot 3
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Sandral Grounds using Slot 4
+  - **Slot 4 now Ruins**
 
 ### Sidequest Cleanup
 - Deactivate Solo Mode
@@ -1013,16 +1017,17 @@ SHOPPING: Crattis Yurkal
 - Talk to Shen to leave: 1
 - [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the family confrontation via [Force Skip](<../Techniques/Force Skips>)
   - Mash until Shen says his last line, "Thank you, we will remember you always."
+  - Don't end the cutscene earlier or you won't finish the quest!
   - You'll have to change party members to MC before using the [Force Skip](<../Techniques/Force Skips>)
   - ***Finishes "Sandral-Matale Feud"***
 - *Party: Remove Bastila and Mission*
 - Run past bridge to first Mandalorian group and kill center Mandalorian via Force Jump
-  - Master Speed and Force Valor should still be active here
+  - Master Speed, Adrenal Strength and Force Valor should still be active here
   - You do not need to kill the Duros or the other Mandalorian
 - Continue to west and Force Jump to Kath Hounds around C8-42
-- [Combat Talking](<../Techniques/Combat Talking>) to talk to C8-42: 1,1,1,1,1,2,1
+- Use [Combat Talking](<../Techniques/Combat Talking>) to talk to C8-42: 1,1,1,1,1,2,1
 - Enter the Grove
-  - Make sure Master Speed and Force Valor are still active
+  - You'll likely need to recast Force Valor; make sure Master Speed is also active
 - Run forward and slightly left to have Sherruk accost you
 - Kill Sherruk
   - Do your best to get sneak attacks, but it's crowded
@@ -1030,11 +1035,11 @@ SHOPPING: Crattis Yurkal
   - You don't have to kill anyone except Sherruk
 
 ### Leaving Dantooine
-- Immediately after Sherruk dies, [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Jedi Enclave using Slot 2
+- Immediately after Sherruk dies, [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Jedi Enclave using Slot 5
 - Talk to Master Vandar
   - ***Begins "A Quest for the Star Forge"***
   - ***Begins "Juhani"***
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Ruins using Slot 4
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Ruins using Slot 4
 - Exit the Ruins and [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
 - [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) to Courtyard by re-entering the Ruins
   - This puts you at the default spawn in the Courtyard, right next to Elise
@@ -1050,7 +1055,7 @@ SHOPPING: Crattis Yurkal
 - Juhani #3
 - Board the Ebon Hawk
   - ***Finishes "The Ebon Hawk"***
-- **Hard Save in Slot 2**
+- **Hard Save in Slot 1**
 - Workbench: Add Sigil Crystal to top lightsaber
 - *Equip MC: Unequip Both Weapons, Lightsaber Mainhand, Sanasiki's Blade Offhand*
 - Bastila #2 and #3: 2,1spam for both
@@ -1060,7 +1065,7 @@ SHOPPING: Crattis Yurkal
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to Ebon Hawk
 - Bastila #4 and #5: 2,1spam for both
 - Carth #4
-- Fly to Kashyyyk with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
+- Fly to Kashyyyk with a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to RtEH
 
 ## Kashyyyk
 
@@ -1077,7 +1082,7 @@ SHOPPING: Eli Gand
 - BUY:
   - Hyper Battle Stimulant
   - Hyper Adrenal Strength
-- End: 5830 Credits
+- End: 5940 Credits
 ```
 
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the guard convo at the end
@@ -1089,7 +1094,7 @@ SHOPPING: Eli Gand
   - Position Juhani in a [specific spot](/assets/images/imgur-dump/BfgfArb.png) first
 - After loading, activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - Swap to MC and [GP Warp](<../Techniques/GP Warp#amg-gp-warps>) Juhani to the Shadowlands elevator
-- **Hard Save in Slot 3**
+- **Hard Save in New Slot (Slot 6)**
 - Enter the Elevator with Juhani to go to the Shadowlands
   - ***Begins "Chieftain in Need"***
 
@@ -1123,6 +1128,7 @@ SHOPPING: Eli Gand
 - As Juhani, loot the tach that was killed for a tach gland
   - The droid convo will interrupt here; that convo is just 2
 - As Juhani, run/Force Jump to the Force Field and use it: 1,2
+  - Master Speed should still be active on MC; if not, recast it first
 
 ### Wookiee Politics
 - Swap to MC and QS/QL to fix following AI
@@ -1143,10 +1149,11 @@ SHOPPING: Eli Gand
 - Wait for the Journal Icon to pop-up in the top left
   - When the icon shows, Freyyr is dead and we can continue
 - As Juhani, activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and run forward to trigger the first Mandalorian ambush
-  - [Use the Options menu](<../Major Glitches/Anywhere Menu Glitch#accessing-menus>) to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to the Great Walkway using Slot 3
-  - You can choose to make the initial save for this Hotshot in Slot 4 instead of Slot 1 to be slightly safer later
-  - As you cancel the menus, the elevator convo should trigger; use it to go to Upper Shadowlands: 1
-- **Hard Save in Slot 3**
+  - [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the ambush via QS/QL and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to the Great Walkway using Slot 6
+    - **Slot 6 now Lower Shadowlands**
+  - The elevator convo should trigger after the load; use it to go to Upper Shadowlands: 1
+- **Hard Save in Slot 2**
 - *Force: Cast Master Speed as MC*
 - Move to the right of Gorwooken and speak to him: 1
   - It's important to stand to the right to avoid triggering Darth Bandon later
@@ -1159,12 +1166,12 @@ SHOPPING: Eli Gand
   - ***Finishes "A Wookiee Lost"***
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load, then [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via [Force Skip](<../Techniques/Force Skips>)
   - We have to be careful here to not warp our party to the Czerka office
-  - Cast Master Speed while doing the [Force Skip](<../Techniques/Force Skips>), then activate Solo Mode and move MC a few steps
-  - Swap to Juhani and Jolee and stop their movement near the Ebon Hawk
+  - Cast Master Speed while doing the [Force Skip](<../Techniques/Force Skips>), then move MC a few steps
+  - Swap to Juhani and Jolee and stop their movement near the Ebon Hawk, then activate Solo Mode and swap back to MC
   - If Juhani and Jolee warped to MC, you'll have to run one of them back to the Ebon Hawk
 - As MC, talk to Eli Gand
   - ***Finishes "Honest Debt"***
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via a Hard Save (Slot 1), then [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) back to Lower Shadowlands via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
+- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Lower Shadowlands via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 6
 
 ### Lower Shadowlands
 
@@ -1189,12 +1196,12 @@ SHOPPING: Eli Gand
   - Use QS to advance the commander's two lines of dialog
   - As soon as the CS ends, kill the Mandalorian Commander
   - If you're fortunate, you'll one shot him, but you may need to follow up
-  - If you get stunned, use stunned combat to attack still
+  - If you get stunned, use stunned combat to attack anyway
 - Loot the Mandalorian Commander for his helmet
   - ***Finishes "Hidden Hunters"***
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to the Ebon Hawk using Slot 2
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to the Ebon Hawk using Slot 1
 - Bastila #6, Carth #5
-- Fly to Tatooine with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
+- Fly to Tatooine with a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to RtEH
   - *Party: Add Bastila during the [Map CS Skip](<../Techniques/Map Cutscene Skips>)*
 
 ## Tatooine 1
