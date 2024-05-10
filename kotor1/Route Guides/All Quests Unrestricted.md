@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic - All Quests Unrestricted Guide 
 
-### v4.0: Male Scoundrel -> Jedi Guardian Route
+### v4.1: Male Scoundrel -> Jedi Guardian Route
 
 *Route by [indykenobi](https://www.speedrun.com/users/indykenobi), with help from [R4NG3](https://www.speedrun.com/users/R4NG3) and [ChaosDrifting](https://www.speedrun.com/users/ChaosDrifting)*
 
@@ -1584,11 +1584,13 @@ SHOPPING: Selkath Merchant
   - This hits the flag that tells the game Dantooine is destroyed, part of Zuulan skip
 - Use the Detention Console to free the party
 - Loot your inventory from the right hand locker
-- **Hard Save in New Slot (Slot 11)**
-- [Double QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) within the Prison Block:
-  - [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Upper Shadowlands using Slot 3
-  - Don't clear menus after the load; instead QS, open the Options menu, press Enter, and select OK
-  - This [Coordinate Warps](<../Major Glitches/Hotshot#coordinate-warping>) back to Prison Block via an abbreviated [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
+- Double Mixed Hotshot to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) within the Prison Block:
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Upper Shadowlands using Slot 3
+    - **Slot 3 now Prison Block**  
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
+  - Use the mouse to close the leftover menu
+  - Use the pop-up to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to the Prison Block
+  - This [Coordinate Warps](<../Major Glitches/Hotshot#coordinate-warping>) Carth and Bastila past a locked door, and leaves a save in Prison Block
   - If you positioned MC correctly after killing Rulan, you don't need to reposition before the warp back
 - Swap to Carth or Bastila and [Save Teleport](<../Techniques/Save Teleporting>) up ramp
   - If you get to the door with no CS, run backwards a little to trigger Canderous's convo
@@ -1603,26 +1605,17 @@ SHOPPING: Selkath Merchant
   - Once on the load game menu, unpause and use Default Action to select 1 go to Prison Block
 - *Force: Cast Master Speed*
 - Go through first door on right and bash down opposite door to enter the Bridge
-  - The Dark Jedi here can stun you with Force Whirlwind, so be fast and lucky
+  - The Dark Jedi here can stun you with Force Whirlwind or Force Choke, so be fast and lucky
 - Inside the Bridge, [Save Teleport](<../Techniques/Save Teleporting>) either Carth or Bastila to the far left corner of the room
   - This positions them so that the next warp places them OoB
-- [Double QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) within Leviathan Bridge:
-  - [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Sea Floor using Slot 10
-  - Don't clear menus after the load; instead QS, open the Options menu, press Enter, and select OK
-  - This [Coordinate Warps](<../Major Glitches/Hotshot#coordinate-warping>) back to Leviathan Bridge via an abbreviated [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
+- [Double Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) within Leviathan Bridge:
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Sea Floor using Slot 10
+    - **Slot 10 now Leviathan Bridge**
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load and [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Leviathan Bridge using Slot 10
+  - This [Coordinate Warps](<../Major Glitches/Hotshot#coordinate-warping>) the party member from the corner into the bridge
 - Swap to the party member on the bridge and hack the computer console: 1,2
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Ahto West using Slot 8
-- Talk to Shaelas: 2,1spam
-  - ***Finishes "Missing Selkath"***
-- Talk to Nilko Bwaas: 2,1spam
-  - ***Finishes "Republic Hiring Mercenaries"***
-- [Save Teleport](<../Techniques/Save Teleporting>) to the Prison and talk to the Selkath Warden to complete Sunry's Trial: 4,1 ... 1
-  - ***Finishes "Sunry Murder Trial"***
-  - ***Finishes "Elora, Sunry's Wife", "Gluupor, the Rodian", "Firith Me, the Pazaak Player", "Ignus, the Hotel Owner", and "Sunry's Story"***
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Prison Block using Slot 11
-  - *Suggested Memory Reset #6 during the [Hotshot](<../Major Glitches/Hotshot>)*
-  - Can reset after the QS in Prison Block, then load slot 1 to finish the [Hotshot](<../Major Glitches/Hotshot>)
-- Use the elevator controls to reach the Hangar: 3
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Prison Block using Slot 3
+- Swap to MC and use the elevator controls to reach the Hangar: 3
 
 ### Hangar
 - [Save Teleport](<../Techniques/Save Teleporting>) to skip Canderous CS just outside elevator
@@ -1661,7 +1654,6 @@ SHOPPING: Selkath Merchant
 - Talk to Jagi again: 2,2,2,2,2,2,2
   - ***Finishes "Jagi's Challenge"***
 - Canderous #3 and #4
-- *Party: Remove Canderous, Add Carth and Juhani*
 - [Save Teleport](<../Techniques/Save Teleporting>) towards entrance to be accosted by Port Authority: 2,2,3,2
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then [Save Teleport](<../Techniques/Save Teleporting>) towards Shaardan
   - If you trigger the convo, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) it via [Force Skip](<../Techniques/Force Skips>)
@@ -1671,16 +1663,29 @@ SHOPPING: Selkath Merchant
   - If not, just continue onward
 - [Save Teleport](<../Techniques/Save Teleporting>) to Lurze Kesh and talk to him: 1,1,1,3,2
   - ***Finishes "Unfinished Business"***
-- Exit to the Sith Academy Entrance
-- Activate Solo Mode and swap to Juhani to open the door to Dreshdae
+- **Hard Save in New Slot (Slot 11)**
+- Exit to the Sith Academy Entrance as Canderous
+- Activate Solo Mode and as Canderous, click the utility droid to the left of the ramp down
 - Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) to the academy entrance
-- Talk to Sith Guard: 2
+- After the screen flashes black (when Canderous reaches the droid), talk to Sith Guard: 2
   - ***Begins "Enter the Sith Academy"***
-- [Save Teleport](<../Techniques/Save Teleporting>) back towards Dreshdae, then swap to Juhani and enter Dreshdae
-- As Juhani, talk to Mika Dorin
+- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Ahto West via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 7
+  - Canderous's position by the droid puts him inside the Ahto West prison
+- Talk to Shaelas: 2,1spam
+  - ***Finishes "Missing Selkath"***
+- Talk to Nilko Bwaas: 2,1spam
+  - ***Finishes "Republic Hiring Mercenaries"***
+- Swap to Canderous and talk to Sunry: 1,1,1,4
+  - ***Begins "Sunry's Story"***
+- Swap to MC and talk to the Selkath Warden to complete Sunry's Trial: 4,1 ... 1
+  - ***Finishes "Sunry Murder Trial"***
+  - ***Finishes "Elora, Sunry's Wife", "Gluupor, the Rodian", "Firith Me, the Pazaak Player", "Ignus, the Hotel Owner", and "Sunry's Story"***
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Dreshdae using Slot 11
+- *Party: Remove Canderous, Add Carth and Juhani*
+- Talk to Mika Dorin
   - Don't need to buy anything
   - ***Finishes "Premium Merchant"***
-- Swap to MC and talk to Yuthura: 3,5,2,3,1,1
+- Talk to Yuthura: 3,5,2,3,1,1
   - ***Finishes "Enter the Sith Academy"***
 
 ### Sith Academy
@@ -1705,7 +1710,7 @@ SHOPPING: Selkath Merchant
   - ***Begins "The Double-Double Cross"***
   - ***Finishes "The Code of the Sith"***
 - **Hard Save in New Slot (Slot 12)**
-  - It is important to make this save while next to Uthar
+  - It is important to make this save while next to Uthar for a [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) later
 - [Save Teleport](<../Techniques/Save Teleporting>) up the ramp and click the Interrogation Room door
 - Swap to Carth and talk to Yuthura
   - ***Finishes "The Double-Double Cross"***
@@ -1717,7 +1722,7 @@ SHOPPING: Selkath Merchant
 - Swap to Carth, deactivate Solo Mode, and enter the interrogation room
 - Sith Interrogator accosts you: 1,2
   - ***Begins "The Mandalorian Weapons Cache"***
-- Use the console to interrogate the Mandalorian: 5,1,4,5,4,1,1 ... 3
+- Use the console to interrogate the Mandalorian: 5,1,4,1
   - ***Finishes "The Mandalorian Weapons Cache"***
 - [Save Teleport](<../Techniques/Save Teleporting>) to the exit to the Valley of the Dark Lords
   - Make sure your party follows you; if one of them doesn't move at all, they're glitched out
@@ -1732,6 +1737,7 @@ SHOPPING: Selkath Merchant
   - ***Begins "Threat from Xor"***
 - Transit Back to Valley of the Dark Lords
 - *Stims: Hyper Strength and Hyper Battle Stimulant on MC*
+- **Hard Save twice in New Slot (Slot 13), New Slot (Slot 14)**
 - [Save Teleport](<../Techniques/Save Teleporting>) to Shyrack Caves, but enter with a party member
 - *Party: Remove Carth and Juhani*
 - [Save Teleport](<../Techniques/Save Teleporting>) to the back of the cave
@@ -1743,22 +1749,20 @@ SHOPPING: Selkath Merchant
   - ***Finishes "Renegade Sith"***
 - [Position MC](/assets/images/imgur-dump/Zt52j4W.png) on left side of mouth of passage to back of cave
   - This is for a later [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>)
-- **Hard Save in New Slot (Slot 13)**
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to East Central using Slot 2
-  - *Suggested Memory Reset #7 during the [Hotshot](<../Major Glitches/Hotshot>)*
-  - Can reset after the QS in East Central, then load Slot 13 to finish the [Hotshot](<../Major Glitches/Hotshot>)
-- Roland Wann accosts you
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to East Central using Slot 1
+  - **Slot 1 now Shyrack Caves**
+- Talk to Roland Wann (or have him accost you)
   - ***Finishes "Mission for the Republic"***
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then open the embassy door and [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
 - Talk to Hulas: 1,1,1,3,1,1,2,1
   - ***Finishes "GenoHaradan: Zuulan"***
   - ***Finishes "GenoHaradan: Vorn"***
   - ***Finishes "GenoHaradan"***
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Valley of the Dark Lords using Autosave
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Valley of the Dark Lords using Slot 14
 - [Save Teleport](<../Techniques/Save Teleporting>) to the Tomb of Marka Ragnos
 - *Stims/Force: Cast Master Speed, Hyper Strength and Hyper Battle Stim before entering*
   - This keeps these buffs active when we return to the Tomb of Marka Ragnos
-- **Hard Save in New Slot (Slot 14)**
+- **Hard Save in Slot 14**
 - Exit the Tomb and [Save Teleport](<../Techniques/Save Teleporting>) across to near Galon Lor
 - *Party: Add T3-M4*
 - Activate Solo Mode
@@ -1775,7 +1779,7 @@ SHOPPING: Selkath Merchant
 - Interact with the Sith Statue: 1
 - Run to the exit until Ajunta Pall accosts you: 3
   - ***Finishes "The Sword of Ajunta Pall"***
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Valley of the Dark Lords using Autosave
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Valley of the Dark Lords using Slot 13
 - Swap to T3 and [Save Teleport](<../Techniques/Save Teleporting>) to Lashowe
 - Kill the tukata as MC via Critical Strike
   - While this fight happens, click on the door to the Tomb of Tulak Hord with T3
@@ -1790,13 +1794,16 @@ SHOPPING: Selkath Merchant
   - ***Begins "The Hermit in the Hills"***
 - Swap to T3 and position him in front of the sarcophagus
   - If he didn't warp to the sarcophagus room, you'll have to [Save Teleport](<../Techniques/Save Teleporting>) T3 there
-- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Tomb of Marka Ragnos via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) using Slot 14
+- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Tomb of Marka Ragnos via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 14
 - Use the load in to [Combat Talk](<../Techniques/Combat Talking>) to the rogue assassin droid
   - This may fail if the MC is in combat with the first droid in the hallway; if so, retry [Combat Talking](<../Techniques/Combat Talking>) again
 - Destroy the rogue assassin droid
   - You do not have to kill any other droids
+- **Hard Save in Slot 2**
+  - Do NOT use Slot 1, as we need the Shyrack Caves save for later
 - [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) to Sith Academy using Slot 12
   - This must be a [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) to spawn T3 near Uthar
+  - Remember to select Slot 2 during the Hotshot!
 
 ### Tomb of Naga Sadow
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then swap to T3 and talk to Uthar: 5,6,6,2,2
@@ -1806,10 +1813,11 @@ SHOPPING: Selkath Merchant
   - ***Finishes "Aiding Lashowe"***
 - Talk to Uthar again to reach the Tomb of Naga Sadow: 3
 - Uthar accosts you inside the tomb: 4
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Shyrack Caves using Slot 13
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Shyrack Caves using Slot 1
+  - **Slot 1 now Naga Sadow**
 - *Party: Add Juhani*
   - You don't have to move her if you were positioned correctly when you made this save
-- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) back to Tomb of Naga Sadow via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
+- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) back to Tomb of Naga Sadow via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 1
 - Activate Solo Mode
 - *Stims/Force: Cast Master Speed and Master Valor, Hyper Strength and Hyper Battle Stim on MC*
 - [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the Star Map CS
@@ -1822,7 +1830,7 @@ SHOPPING: Selkath Merchant
 - Yuthura accosts you: 1
 - Defeat Yuthura and spare her: 3,2
   - ***Finishes "The Way of the Sith"***
-- [Fast Lane](<../Major Glitches/Fast Lane>) via Slot 2 to RtEH
+- [Fast Lane](<../Major Glitches/Fast Lane>) via Slot 1 to RtEH
 - *Force: Cast Master Speed before the Xor CS*
 - Kill Xor, then kill his minions
   - If you kill Xor last, he may softlock before the final convo
@@ -1848,21 +1856,20 @@ SHOPPING: Selkath Merchant
 
 ### Warrior Rakata
 - [Save Teleport](<../Techniques/Save Teleporting>) to North Beach
-- **Hard Save in New Slot (Slot 16)**
+- **Hard Save twice in Slot 1, New Slot (Slot 16)**
 - Return to Central Beach and [Save Teleport](<../Techniques/Save Teleporting>) through Temple Exterior to South Beach
-  - *Suggested Memory Reset #8 on the Autosave entering Temple Exterior*
 - RtEH and Transit Back to set Transit Point
 - *Stims/Force: Cast Master Speed, Hyper Strength and Hyper Battle Stim on MC*
 - Return to Temple Exterior
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS while [Save Teleporting](<../Techniques/Save Teleporting>) to trigger the Mandalorian ambush
   - When the Mandalorian Commander spawns, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via [Force Skip](<../Techniques/Force Skips>) by casting Master Valor
 - Kill the commander and his minion, then loot the commander
-- **Hard Save in New Slot (Slot 17)**
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to North Beach using Slot 16
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to North Beach using Slot 16
+  - **Slot 16 now Temple Exterior**
 - [Save Teleport](<../Techniques/Save Teleporting>) towards compound until Warrior Rakata accost you
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load, and when The One starts speaking, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via [Force Skip](<../Techniques/Force Skips>)
   - ***Begins "Trapped on a Nameless World"***
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) with a Hard Save (Slot 1) to immediately [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to North Beach
+- [Neo Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to North Beach using Slot 1
 - Talk to Warleader Garn: 1,1,3
   - ***Finishes "Invisible Mandalorians"***
 
@@ -1878,8 +1885,8 @@ SHOPPING: Selkath Merchant
 - [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the first CS as soon as possible via [Force Skip](<../Techniques/Force Skips>)
 - [Save Teleport](<../Techniques/Save Teleporting>) to speak to Researcher Ll'awa: 1x11, 3
   - ***Begins "Rakatan Research"***
-- **Hard Save in New Slot (Slot 18)**
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Temple Exterior using Slot 17
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Temple Exterior using Slot 16
+  - **Slot 16 now Elder Settlement**
 - *Party: Add Canderous and Juhani*
 - Canderous #5
   - Don't forget this conversation or you won't be able to finish Canderous's quest!
@@ -1891,6 +1898,7 @@ SHOPPING: Selkath Merchant
 
 ***Strat 1: Summit First***
 - *This strategy is the fastest of the three, but [Summit DLZ](<../Major Glitches/Displaced Load Zone#temple-summit-dlz>) is one of the most challenging [DLZs](<../Major Glitches/Displaced Load Zone) in the game.*
+  - **Hard Save in Slot 1**
   - Perform [Summit DLZ](<../Major Glitches/Displaced Load Zone#temple-summit-dlz>)
   - Re-enable V-Sync and Activate Solo Mode
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and trigger the Bastila CS
@@ -1902,7 +1910,7 @@ SHOPPING: Selkath Merchant
     - ***Finishes "A Quest for the Star Forge"***
   - Swap to Juhani and move her two steps backward from where she is facing
   - Swap to Canderous and do the same
-  - [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Temple Main Floor via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) using the Autosave
+  - [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Temple Main Floor via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 1
   - As Canderous, open the door to the Catacombs
   - Swap to MC and *Force: Cast Master Speed*
   - Swap back to Canderous and enter the Catacombs
@@ -1937,14 +1945,13 @@ SHOPPING: Selkath Merchant
     - ***Finishes "A Quest for the Star Forge"***
 
 ### Leaving Lehon
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Elder Settlement using Slot 18
+- [Neo Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Elder Settlement using Slot 16
 - Talk to Researcher Ll'awa: 3
   - ***Finishes "Rakatan Research"***
-- [Fast Lane](<../Major Glitches/Fast Lane>) via Slot 2 to RtEH
-  - *Suggested Memory Reset #9 on the first QS*
-  - QS, then reset the game, then load Slot 2 to [Fast Lane](<../Major Glitches/Fast Lane>)
+- [Fast Lane](<../Major Glitches/Fast Lane>) via Slot 4 to RtEH
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then [Save Teleport](<../Techniques/Save Teleporting>) forward to trigger the party CS
-  - [Use the Options Menu](<../Major Glitches/Anywhere Menu Glitch#accessing-menus>) to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to the Ebon Hawk using Slot 15
+- [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via [Force Skip](<../Techniques/Force Skips>) 
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Ebon Hawk using Slot 15
 - Fly to Star Forge
 - Use the load to [Free Look AMG](<../Major Glitches/Anywhere Menu Glitch#free-look-amgs>) the formerly unskippable CS
 
@@ -1973,7 +1980,8 @@ SHOPPING: Selkath Merchant
   - When you can unpause the game, Jolee has reached the droids
   - Enter the load zone to start the second [GP Warp](<../Techniques/GP Warp#amg-gp-warps>)
   - Move Jolee to the same spot as before, then trigger the [GP Warp](<../Techniques/GP Warp#amg-gp-warps>)
-- **Hard Save in New Slot (Slot 19)**
+- Run away from the door a little as MC
+- **Hard Save in New Slot (Slot 17)**
 - Enter Deck 2 with Jolee
 
 ### Deck 2
@@ -1992,10 +2000,12 @@ SHOPPING: Selkath Merchant
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on or immediately after the load
 
 ### Command Center
-- [Double QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) within the Command Center:
-  - [Use the Options Menu](<../Major Glitches/Anywhere Menu Glitch#accessing-menus>) to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Deck 1 using Slot 19
-  - Don't clear menus after the load; instead QS, open the Options menu, press Enter, and select OK
-  - This [Coordinate Warps](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Command Center via an abbreviated [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
+- [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
+- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load (or via QS after)
+- [Double Neo Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) within the Command Center:
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Deck 1 using Slot 17
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load and [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Command Center using Slot 17
+  - This [Coordinate Warps](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Bastila's room in the Command Center
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then swap to Jolee and open the nearby door
   - When the CS starts, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the Bastila CS via [Force Skip](<../Techniques/Force Skips>)
   - Allow Master Speed to actually be cast
@@ -2021,12 +2031,12 @@ SHOPPING: Selkath Merchant
 - Open the door and [Save Teleport](<../Techniques/Save Teleporting>) forward to accost Malak: 2
 - Defeat his first phase with Sneak Attack powered Critical Strikes
   - Try to bump him or have Jolee distract him to get Sneak Attacks in
-  - This can actually be a one-round fight, but usually it's three or so
+  - This can actually be a one-round fight, but usually it's two or three
 - Malak Second Phase Skip:
   - When Malak starts running to a Jedi popsicle, activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
   - When the CS starts, click twice to bring up the first dialog option
   - Press Enter to select option 1 and clear the pop-up
-  - Immediately QS/QL
+  - Immediately QS/QL to skip the cutscene
   - ***Finishes "The Final Confrontation"***
 - Timing ends when the mouse disappears on the black screen after the load! Congratulations!
 
@@ -2155,6 +2165,13 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Yavin Space Station
 
 ## Version History
+
+**v4.1 (May 2024)**
+- Implements Neo Hotshots into the route in nearly all places
+- Moves Ahto West cleanup to Korriban to enable a Coordinate Warp
+- Adds a Neo Hotshot to Hrakert Station
+- Go to Ahto West first in Manaan 1
+- Other minor route changes
 
 **v4.0 (January 2023)**
 - Completely new planet route: Taris -> Dantooine -> Kashyyyk -> Tatooine 1 -> Manaan 1 -> Tatooine 2 -> Manaan 2 -> Leviathan -> Korriban -> Lehon -> Star Forge
