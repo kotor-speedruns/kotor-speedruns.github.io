@@ -1869,7 +1869,7 @@ SHOPPING: Selkath Merchant
 - [Save Teleport](<../Techniques/Save Teleporting>) towards compound until Warrior Rakata accost you
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load, and when The One starts speaking, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via [Force Skip](<../Techniques/Force Skips>)
   - ***Begins "Trapped on a Nameless World"***
-- [Neo Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to North Beach using Slot 1
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to North Beach using Slot 1
 - Talk to Warleader Garn: 1,1,3
   - ***Finishes "Invisible Mandalorians"***
 
@@ -1945,7 +1945,7 @@ SHOPPING: Selkath Merchant
     - ***Finishes "A Quest for the Star Forge"***
 
 ### Leaving Lehon
-- [Neo Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Elder Settlement using Slot 16
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Elder Settlement using Slot 16
 - Talk to Researcher Ll'awa: 3
   - ***Finishes "Rakatan Research"***
 - [Fast Lane](<../Major Glitches/Fast Lane>) via Slot 4 to RtEH
