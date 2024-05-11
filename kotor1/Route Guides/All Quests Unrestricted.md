@@ -87,7 +87,7 @@ Our attributes are chosen here for two reasons: 18 Strength is to maximize our d
 * Security - 4
 * Save the rest
 
-Security is used for a skip on Endar Spire, as well as opening Selven's apartment on Taris. Persuade is our main skill and what we will be dumping points into during the [Fake Level up](<../Major Glitches/Fake Level Up>) (or FLUs) later on in the run, so that we can take some conversational shortcuts.
+Security is used for a skip on Endar Spire, as well as opening Selven's apartment on Taris. Persuade is our main skill and what we will be dumping points into during the [Fake Level Ups](<../Major Glitches/Fake Level Up>) (or FLUs) later on in the run, so that we can take some conversational shortcuts.
 
 **Initial Feat** - Weapon Focus: Melee Weapons
 
@@ -283,10 +283,10 @@ Other planet route notes:
 **5. Manaan 1**
 - Jordo and Carth meet
 - Sell Gizka to Nubassa
+- Start Sunry's Murder Trial
+- Speak to Nilko Bwaas and Shaelas
 - Begin the GenoHaradan bounties and kill Lorgal
 - Swoop Skip for the Manaan Swoop Races
-- Start Sunry's Murder Trial and speak to Sunry
-- Speak to Nilko Bwaas and Shaelas
 - Kill Ithorak and enter the Sith Base
 - Transit Point Storage to the Dune Sea
 
@@ -320,7 +320,7 @@ Other planet route notes:
 - Tell Lurze Kesh you won't help him
 - Tell Shaelas about his daughter
 - Tell Nilko Bwaas about the mercenaries
-- Show the recording at Sunry's trial
+- Talk to Sunry and show the recording at Sunry's trial
 - Visit Mika Dorin's premium shop
 - Inflitrate the Sith Academy
 - Forced Fast Text with Yuthura's XP Exploit
@@ -434,7 +434,7 @@ Quest Notes:
       - [Open Buffer](<../Techniques/Save Buffering#open-buffers>) from Trask to the door to use Security during Trask's first conversation
         - ***Begins "Attack on the Endar Spire"***
       - [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) by walking into the rubble near the second Sith soldier in the right spot
-  - ***Method Two: Doorframe [DLZ](<../Major Glitches/Displaced Load Zone)***
+  - ***Method Two: Doorframe [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>)***
     - *This strat is much more consistent, but significantly slower than a good Rubble [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>).  It's recommended only for beginning runners.*
     - *To perform this strat:*
       - Loot footlocker
@@ -638,7 +638,7 @@ SHOPPING: Zelka Forn
     - After the load, load the Autosave to warp to Upper City North
 - *Stims: Strength on MC*
 - **Hard Save three times in Slot 3, Slot 4, and New Slot (Slot 5)**
-- Disable V-Sync to perform the [Sith Base DLZ](<../Major Glitches/Displaced Load Zone#ch7Sith_Base_DLZ>)
+- Disable V-Sync to perform the [Sith Base DLZ](<../Major Glitches/Displaced Load Zone#sith-base-dlz>)
 - Secretary accosts you: 3,1
 - Re-enable V-Sync
 - *Stims: Alacrity on MC*
@@ -670,7 +670,7 @@ SHOPPING: Zelka Forn
 - As MC, kill Matrik via Sneak Attack
 - [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to Lower City using your pop-up
   - This is faster than a [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) because we already have the QS in Lower City
-- [Vulkar Door Clip DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-DLZ>)
+- [Vulkar Door Clip DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-dlz>)
   - Disable V-Sync and activate Solo Mode
   - Run Carth slightly forward, then swap to MC and [Conversation Queue](<../Techniques/Conversation Queue>) to Carth
   - Swap to Carth and run continuously into the right corner of the door
@@ -682,12 +682,12 @@ SHOPPING: Zelka Forn
 
 ### Vulkar Base
 
-- ***Optional Strat: [Sewers DLZ](<../Major Glitches/Displaced Load Zone#ch10Sewers_DLZ)***
-  - *This is the fastest way to Upper Sewers, but only if you get the [DLZ](<../Major Glitches/Displaced Load Zone#sewers-DLZ>) nearly immediately.  This saves at most 3 seconds.*
+- ***Optional Strat: [Sewers DLZ](<../Major Glitches/Displaced Load Zone#sewers-dlz>)***
+  - *This is the fastest way to Upper Sewers, but only if you get the [DLZ](<../Major Glitches/Displaced Load Zone#sewers-dlz>) nearly immediately.  This saves at most 3 seconds.*
   - *To perform the DLZ strat:*
     - Kill the Vulkar Guard behind the first door
     - Run down the right hallway
-    - Perform the [Sewers DLZ](<../Major Glitches/Displaced Load Zone#sewers-DLZ>) against the left wall at the corner
+    - Perform the [Sewers DLZ](<../Major Glitches/Displaced Load Zone#sewers-dlz>) against the left wall at the corner
     - Disable V-Sync
     - *Stims: Alacrity on MC*
     - Activate Solo Mode and click on the door ahead
@@ -696,8 +696,8 @@ SHOPPING: Zelka Forn
       - ***Begins and Finishes "A Rancor in the Sewers"***
     - Open the door ahead and run right down the hall
 - ***Alternate Strat: [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)***
-  - *This strat is consistent and only slightly slower than a good [Sewers DLZ](<../Major Glitches/Displaced Load Zone#sewers-DLZ>).*
-  - *To perform this strat instead of the [DLZ](<../Major Glitches/Displaced Load Zone#sewers-DLZ>):*
+  - *This strat is consistent and only slightly slower than a good [Sewers DLZ](<../Major Glitches/Displaced Load Zone#sewers-dlz>).*
+  - *To perform this strat instead of the [DLZ](<../Major Glitches/Displaced Load Zone#sewers-dlz>):*
     - Disable V-Sync
     - *Stims: Alacrity on MC*
     - Kill the Vulkar Guard behind the first door
@@ -731,9 +731,9 @@ SHOPPING: Zelka Forn
 - Exit Javyar's Cantina
 - *Equip Carth: Sith Armor*
 - *Party: Remove Carth*
-- Disable V-Sync to perform the [Bek Base DLZ](<../Major Glitches/Displaced Load Zone#bek-base-DLZ>)
+- Disable V-Sync to perform the [Bek Base DLZ](<../Major Glitches/Displaced Load Zone#bek-base-dlz>)
   - If you'd prefer, you can run down the hall to the left and talk to the Bek Lookout to enter the base
-  - The [DLZ](<../Major Glitches/Displaced Load Zone#bek-base-DLZ>) is quite easy, but only saves a few seconds at most
+  - The [DLZ](<../Major Glitches/Displaced Load Zone#bek-base-dlz>) is quite easy, but only saves a few seconds at most
 - Re-enable V-Sync and [Save Teleport](<../Techniques/Save Teleporting>) to Gadon
   - *We'll use [Save Teleports](<../Techniques/Save Teleporting>) for movement for the rest of Taris.*
 - Talk to Gadon: 1x10,3,1,5,1spam
@@ -935,10 +935,9 @@ SHOPPING: Crattis Yurkal
 - **Hard Save in Slot 5**
 - Activate Solo Mode and Disable V-Sync
 - *Stims/Force: Master Speed, Adrenal Strength on MC*
-- Swap to Canderous and perform [Enclave DLZ](<../Major Glitches/Displaced Load Zone#enclave-DLZ>)
-  - Set up Canderous so he's close to the [DLZ](<../Major Glitches/Displaced Load Zone#enclave-DLZ>) point and you're fairly confident he will trigger the [DLZ](<../Major Glitches/Displaced Load Zone#enclave-DLZ>)
-  - If Master Speed wears off, recast it before finishing the DLZ
-  - We want to duration glitch both Master Speed and Adrenal Strength for the rest of Dantooine
+- Swap to Canderous and perform [Enclave DLZ](<../Major Glitches/Displaced Load Zone#enclave-dlz>)
+  - We want to do this fast enough to duration glitch both Master Speed and Adrenal Strength for the rest of Dantooine
+  - If Master Speed wears off, recast it before finishing the [DLZ](<../Major Glitches/Displaced Load Zone#enclave-dlz>)
 
 ### Redeeming Juhani
 - Re-enable V-Sync
@@ -990,7 +989,7 @@ SHOPPING: Crattis Yurkal
 - Swap to MC and [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the droid conversation
 - As MC, loot Nemo's corpse for Sigil Crystal
 - Swap to Bastila and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-- Disable V-Sync and perform the [Star Map DLZ](<../Major Glitches/Displaced Load Zone#ruins-star-map-DLZ>)
+- Disable V-Sync and perform the [Star Map DLZ](<../Major Glitches/Displaced Load Zone#ruins-star-map-dlz>)
   - When the Star Map CS starts, cancel the pop-up and [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) CS via [Force Skip](<../Techniques/Force Skips>) (or QS/QL)
   - ***Finishes "Investigate Ruins"***
 - Enable V-Sync and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
@@ -1897,7 +1896,7 @@ SHOPPING: Selkath Merchant
 *There are three ways to approach the temple.  They're listed here in order of speed.*
 
 ***Strat 1: Summit First***
-- *This strategy is the fastest of the three, but [Summit DLZ](<../Major Glitches/Displaced Load Zone#temple-summit-dlz>) is one of the most challenging [DLZs](<../Major Glitches/Displaced Load Zone) in the game.*
+- *This strategy is the fastest of the three, but [Summit DLZ](<../Major Glitches/Displaced Load Zone#temple-summit-dlz>) is one of the most challenging [DLZs](<../Major Glitches/Displaced Load Zone>) in the game.*
   - **Hard Save in Slot 1**
   - Perform [Summit DLZ](<../Major Glitches/Displaced Load Zone#temple-summit-dlz>)
   - Re-enable V-Sync and Activate Solo Mode
