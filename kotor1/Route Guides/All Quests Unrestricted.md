@@ -1437,8 +1437,7 @@ SHOPPING: Selkath Merchant
 ## Tatooine 2
 
 ### Worthy of History
-- *Stims/Force: All Remaining Basic Stims on MC, Cast Master Speed*
-  - You'll at least have a basic Strength, but we want to clear out this menu so stims are quicker to use later
+- *Stims/Force: Basic Strength, Cast Master Speed*
 - Kill the nearest Sand People Warrior and loot him for his outfit
 - Enter Sand People Territory
 - *Equip MC: Sand People Outfit*
@@ -1472,6 +1471,9 @@ SHOPPING: Selkath Merchant
 - Put HK in this [specific location](/assets/images/imgur-dump/O1RtV4j.png)
 - [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Mission and HK to Dune Sea via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 6
   - This puts HK-47 in the right place for the next [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>)
+- *Stims: All Remaining Basic Stims **on Mission***
+    - You'll should have at least a basic Alacrity, but we want to clear out this menu so stims are quicker to use later
+    - The Alacrity makes Mission easier to position correctly here
 - [Save Teleport](<../Techniques/Save Teleporting>) to position Mission in a [specific spot](/assets/images/imgur-dump/RobinnA.png)
 - [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Manaan Sith Base via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 9
   - If Mission spawns near MC, she spawned OoB in the Sith Base; to try again:
@@ -1520,7 +1522,7 @@ SHOPPING: Selkath Merchant
 - Open the computer room door, then [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the convo via [Force Skip](<../Techniques/Force Skips>)
 - As MC, click the Republic Archives
 - Swap to Zaalbar and run towards Ignus until the console menu pops up: 2,2,3
-- As Zaalbar, talk to Ignus: 1,2,3,3
+- As Zaalbar, talk to Ignus: 1,2,2,3
   - ***Begins "Ignus, the Hotel Owner"***
 - As Zaalbar, [Save Teleport](<../Techniques/Save Teleporting>) to first door to submersible and click on second door
 - Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) to talk to Gluupor: 1,3,1
