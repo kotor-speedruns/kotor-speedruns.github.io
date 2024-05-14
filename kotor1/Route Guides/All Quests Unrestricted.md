@@ -1241,7 +1241,9 @@ SHOPPING: Mic'Tunan'Jus Orgu
 - Perform [Swoop Skip](<../Major Glitches/Hotshot#swoop-skips>) three times:
   - **Hard Save in Slot 1** (do this every time)
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on this save (or via QS)
-  - Talk to Motta; 1st time: 1,3,1spam | 2nd and 3rd times: 2,1
+  - Talk to Motta
+    - 1st time: 1,3,1spam
+    - 2nd and 3rd times: 2,1
   - Once the race starts, use Alt+F4 to regain control
   - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Swoop Registration using Slot 1
   - ***Begins and Finishes "Tatooine Swoop Races"***
