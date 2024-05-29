@@ -1,4 +1,7 @@
-
+---
+redirect_from:
+  - /kotor1/Video Tutorials/Any Unrestricted
+---
 
 # Any% Unrestricted Video Tutorial
 

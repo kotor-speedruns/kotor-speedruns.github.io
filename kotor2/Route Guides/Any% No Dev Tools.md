@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /kotor2/Route Guides/Any No Dev Tools
+---
 [center]**[big][big]Star Wars: Knights of the Old Republic II: The Sith Lords[/big]
 
 Any% Guide v1.2: Male Jedi Guardian Route (Light Side)[/big]**[/center]

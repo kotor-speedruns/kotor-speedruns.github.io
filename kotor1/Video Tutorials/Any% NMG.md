@@ -1,4 +1,7 @@
-
+---
+redirect_from:
+  - /kotor1/Video Tutorials/Any NMG
+---
 
 # Any% NMG Video Tutorials
 
