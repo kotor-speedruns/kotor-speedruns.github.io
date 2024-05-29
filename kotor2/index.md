@@ -5,6 +5,7 @@ Welcome to the KotOR II Speedrunning Guides! Here you'll find a wealth of inform
 - [Route Guides](#route-guides)
 - [Glitch Guides](#glitch-guides)
 - [Useful Links](#useful-links)
+- [Current Records](#current-records)
 - [Contribute](#contribute)
 
 ## New to KotOR Speedrunning?
@@ -31,15 +32,15 @@ These guides will cover all information relevant to the speedrun of the given ca
 
 These guides cover specific glitches used frequently in KotOR speedrunning, including detailed instructions and videos for performing the glitch.  If you're looking to polish up on a specific type of glitch, these are the guides for you.
 
-Glitch guides are split into three types:
+Glitch guides are split into two types:
 - **Dev Tools:** These glitches are more are actually features left in by the developers to play test parts of the game; they do not exist at all in the legacy versions of the game. They are characterized by extreme game-breaking skips and abilities, and only allowed in the Unrestricted ruleset. 
 - **Other Glitches:** All other glitches are grouped together in KotOR II, regardless of their power or difficulty.  Some can significantly sequence-break the game, or completely bypass the usual rules of normal gameplay, while others have more minor effects.  These glitches are legal in the Unrestricted and No Dev Tools rulesets.
 
 | Dev Tools | | | | Other Glitches | | |
 |---|---|---|---|---|---|---|
-| [3C-FD](./Dev%20Tools/3C-FD) | | [Anywhere Menu Glitch](./Major%20Glitches/Anywhere%20Menu%20Glitch) | [Displaced Load Zone](./Major%20Glitches/Displaced%20Load%20Zone) | [Door Clipping](./Major%20Glitches/Door%20Clipping) | Combat Talking | Conversation Queue | 
-| [Dev Character](./Dev%20Tools/Dev%20Character) | | Damage Stacking | Fake Level Up | [Hotshot](./Major%20Glitches/Hotshot) | [Revive Your Party Warp](./Techniques/RYP%20Warp) | [Save Buffering](./Techniques/Save%20Buffering) |
-| | | [Save Teleporting](./Techniques/Save%20Teleporting) | [Wired Targeting](./Techniques/Wired%20Targeting) | | | |
+| [3C-FD](./Dev%20Tools/3C-FD) | | [Anywhere Menu Glitch](./Major%20Glitches/Anywhere%20Menu%20Glitch) | [Displaced Load Zone](./Major%20Glitches/Displaced%20Load%20Zone) | [Door Clipping](./Major%20Glitches/Door%20Clipping) | [Combat Talking](/kotor2/Techniques/Combat Talking) | [Conversation Queue](/kotor2/Techniques/Conversation Queue) |
+| [Dev Character](./Dev%20Tools/Dev%20Character) | | [Damage Stacking](/kotor2/Techniques/Damage Stacking) | [Fake Level Up](./Major%20Glitches/Fake Level Up) | [Hotshot](./Major%20Glitches/Hotshot) | [Revive Your Party Warp](./Techniques/RYP%20Warp) | [Save Buffering](./Techniques/Save%20Buffering) |
+| | | [Save Teleporting](./Techniques/Save%20Teleporting) | [Wired Targeting](/kotor2/Techniques/Wired%20Targeting) | | | |
 
 ## Useful Links
 
@@ -75,11 +76,6 @@ Here's some useful external links that can be helpful for KotOR II speedrunning.
 
 ## Contribute
 
-This guide repository is community owned and maintained.  If you would like to contribute a guide, make a correction to an existing guide, or help edit this repository, feel free to make a pull request.  Each guide has a convenient <img src="/assets/images/github.svg" alt="GitHub Logo" width="16" height="16"> link at the top that leads to the source file for ease of access.
+This guide repository is community owned and maintained.  If you would like to contribute a guide, make a correction to an existing guide, or help edit this repository, feel free to make a pull request.  Each guide has a convenient <img src="/assets/images/github.svg" alt="GitHub Logo" width="16" height="16">  link at the top that leads to the source file for ease of access.
 
 Contact [Lane](https://www.speedrun.com/users/Lane), [indykenobi](https://www.speedrun.com/users/indykenobi), or another moderator on the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu) if you have any questions.
-
-
-
-
-

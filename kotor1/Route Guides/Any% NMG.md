@@ -672,7 +672,7 @@ SHOPPING: Larrim
   - If done right, MC will end up in front of the Star Map without having to watch the CS
   - If the timing is off, MC will stay in front of the console they hacked and you'll have to run to the Star Map
 - Star Map: Dantooine
-- Loot Nero's corpse for Robe and Sigil crystal
+- Loot Nemo's corpse for Robe and Sigil crystal
 - Exit Ruins
   - If one of your party members doesn't follow, use a [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to get them out quickly
 
