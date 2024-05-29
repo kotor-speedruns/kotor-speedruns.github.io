@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /kotor1/Route Guides/Any Glitchless
+---
 # Star Wars: Knights of the Old Republic - Any% Glitchless Guide
 
 ### v6.0: Male/Female Scout -> Jedi Guardian Route (Light Side)

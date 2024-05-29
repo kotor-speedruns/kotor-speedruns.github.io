@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /kotor2/Route Guides/Any Glitchless
+---
+
 [center]**[big][big]Star Wars: Knights of the Old Republic II - The Sith Lords[/big]
 
 Glitchless Any% Guide v2.0: Female Jedi Guardian Route[/big]**[/center]

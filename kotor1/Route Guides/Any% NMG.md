@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /kotor1/Route Guides/Any NMG
+---
 # Star Wars: Knights of the Old Republic - Any% No Major Glitches Guide
 
 ### v4.3: Male/Female Scout -> Jedi Guardian Route (Light Side)

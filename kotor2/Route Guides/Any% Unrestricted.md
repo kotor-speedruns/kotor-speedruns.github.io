@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /kotor2/Route Guides/Any Unrestricted
+---
 # Star Wars: Knights of the Old Republic II - The Sith Lords - Any% Unrestricted Guide
 
 **v1.1: Female Jedi Sentinel/Consular Route**

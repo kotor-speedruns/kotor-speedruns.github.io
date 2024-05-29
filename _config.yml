@@ -27,6 +27,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://kotor-speedruns.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kotor-speedruns
+plugins:
+  - jekyll-redirect-from
 
 # Build settings
 # theme: minima

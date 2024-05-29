@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /kotor1/Route Guides/Any Unrestricted
+---
 # Star Wars: Knights of the Old Republic - Any% Unrestricted Guide
 
 ### v10.0: Male/Female Scoundrel Route

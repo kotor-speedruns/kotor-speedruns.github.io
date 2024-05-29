@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /kotor2/Video Tutorials/Any Unrestricted
+---
 # Any% Unrestricted Video Tutorial
 
 *Tutorial by 30Cents*
