@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic - All Quests Unrestricted Guide 
 
-### v4.1: Male Scoundrel -> Jedi Guardian Route
+### v4.2: Male Scoundrel -> Jedi Guardian Route
 
 *Route by [indykenobi](https://www.speedrun.com/users/indykenobi), with help from [R4NG3](https://www.speedrun.com/users/R4NG3) and [ChaosDrifting](https://www.speedrun.com/users/ChaosDrifting)*
 
@@ -22,6 +22,8 @@ If you need assistance with the glitches used in the game, I recommend the [Glit
 - [Equipment Plan](#equipment-plan)
   - [Weapons Used](#weapons-used)
 - [Credit Route](#credit-route)
+  - [Computer Spike Route](#computer-spike-route)
+  - [Optional Transactions](#optional-transactions)
 - [Route Overview](#route-overview)
   - [Planet Route](#planet-route)
   - [Route Outline](#route-outline)
@@ -87,7 +89,7 @@ Our attributes are chosen here for two reasons: 18 Strength is to maximize our d
 * Security - 4
 * Save the rest
 
-Security is used for a skip on Endar Spire, as well as opening Selven's apartment on Taris. Persuade is our main skill and what we will be dumping points into during the [Fake Level up](<../Major Glitches/Fake Level Up>) (or FLUs) later on in the run, so that we can take some conversational shortcuts.
+Security is used for a skip on Endar Spire, as well as opening Selven's apartment on Taris. Persuade is our main skill and what we will be dumping points into during the [Fake Level Ups](<../Major Glitches/Fake Level Up>) (or FLUs) later on in the run, so that we can take some conversational shortcuts.
 
 **Initial Feat** - Weapon Focus: Melee Weapons
 
@@ -97,23 +99,37 @@ Weapon Focus: Melee Weapons gives us a +1 on our combat rolls with melee weapons
 
 It is important to note that, due to the side effects of [Hotshots](<../Major Glitches/Hotshot>), our character frequently reverts to a previous level.  Hence our main level benchmarks are level 2 on Taris, level 5 leaving Dantooine, level 7 starting Leviathan, and level 9 on Korriban.  We have to hit level 9 to complete Juhani's quest "Threat from Xor", but we make use of Yuthura's experience exploit to help us get there. 
 
-| Level | Feats | Powers | Skills |
-| --- | :--- | :--- | :--- |
-| 1 | Weapon Focus: Melee Weapons | | Per to 4, Sec to 4, Save 4 |
-| FLU (17) | Master Two-Weapon Fighting, *Sneak Attack IX* | | Per to 10 |
-| 3 | Medium Armor Proficiency | Force Valor, Affect Mind | Save All |
-| FLU (20) | Master Critical Strike | Master Speed | Per to 12 |
-| FLU (15) | Weapon Focus: Lightsaber | Master Valor | Per to 14 |
-| 6-9 | Auto-Level | | |
+| Level | STR | Feats | Powers | Skills |
+| --- | --- | :--- | :--- | :--- |
+| 1 | 18 | Weapon Focus: Melee Weapons | | Per to 4, Sec to 4, Save 4 |
+| FLU (17) | 18 | Master Two-Weapon Fighting, *Sneak Attack IX* | | Per to 10 |
+| 3 | 18 | Medium Armor Proficiency | Force Valor, Affect Mind | Save All |
+| FLU (20) | 19 | Master Critical Strike | Master Speed | Per to 12 |
+| FLU (15) | 19 | Weapon Focus: Lightsaber | Master Valor | Per to 14 |
+| Auto 6 | 20 | | | |
+| Auto 7 | 20 | | | |
+| Optional 8 | 20 or 21 | Weapon Spec: Lightsaber | Recommended | Save All |
+| Auto 9 | 20 or 21 | | | |
+| Auto 10 | 21 or 22 | | | |
+
+**Optional Level 8:**
+
+- We start at 18 STR and become a Jedi at level 3.  However, when Auto-Leveling, the game looks at your current class level to determine when you get an Attribute point.  Hence the Auto-Levels at 6 and 10 each give a point in STR (Jedi levels 4 and 8 respectively).
+- The level listed at Level 8 is an optional Manual Level.  Manually leveling here gives us our usual attribute point, allowing us to hit 21 STR at level 8 instead of waiting to level 10.  We can also get Weapon Spec: Lightsaber for +2 damage on our 3 saber hits per round.  In total, this gives +1 Atk and +3 saber damage for all of the endgame.  However, we are already quite overpowered, and it's 4-5s faster to Auto-Level at 8.
+- If you are planning on forcing level 10 (see below), it's recommended to Auto-Level at 8.  If not, either choice is reasonable but Manual Level 8 makes the final Malak fight slightly more consistent if you don't hit level 10 (you want at least 21 STR for that fight).
+
+**FLU Notes:**
 
 There are multiple [FLUs](<../Major Glitches/Fake Level Up>) in the five levels we do manually:
 - At Level 2, we do the [Sneak Attack FLU](<../Major Glitches/Fake Level Up#sneak-attack-flu>) to get Sneak Attack IX and Master Two-Weapon Fighting, as well as 10 Persuade.
 - At Level 4, we do the [Master Speed FLU](<../Major Glitches/Fake Level Up#master-speed-flu>) to get Master Critical Strike and Master Speed, and bump our Persuade to 12.
 - At Level 5, we do the [Master Valor FLU](<../Major Glitches/Fake Level Up#master-valor-flu>) to get Weapon Focus: Lightsaber and Master Valor, and bump our Persuade to 14.
+  
+**Additional Notes:**
 
-Additional Notes:
+- We are not guaranteed to hit level 10 in the run, but it's close, so extra kills in the right places can ensure it.  The two easiest extra kills are a Horned Kath Hound via Force Jump when moving to the Sandral Grounds, and any extra Mandalorians in the Lower Shadowlands (only two are required).
 - We choose Master Critical Strike over Master Flurry because our weapons have a high base chance to crit, so the damage potential is higher with Critical Strike despite getting one fewer attack per round.
-- Another reason to choose Critical Strike over Flurry is our relatively low chance to hit.  Even with Master Two-Weapon Fighting and both Weapon Focuses, we have a lower chance to hit due to our persistently low level.  Avoiding the to-hit penalty of Flurry is important in this context.
+- Another reason to choose Critical Strike over Flurry is our relatively low chance to hit.  Even with Master Two-Weapon Fighting and both Weapon Focuses, we have a lower chance to hit due to our persistently low level.  Avoiding the to-hit penalty of Flurry is somewhat important in this context.
 - Our Force Powers are fairly straightforward; Affect Mind is actually skippable, but it does have minor benefits and selecting it keeps our Force Power menus as clean as possible.
 - 14 Persuade, 10 Charisma, and Master Valor are enough to guarantee all Persuade checks for the entire run, since we max out at level 9 or 10.
 
@@ -161,36 +177,86 @@ Overall the credit route is quite lenient; there are at least 1000 credits extra
 
 **1. Larrim on Taris (Credit Underflow)**
 - *Sell*: 2 Vibroblades, Ion Blaster
-- *Buy*: Vibrosword, Vibroblade, Confirm Vibrosword (-76 Credits left)
-- *Optional Buy*: Battle Stimulant (110 Credits)
+- *Buy*: Vibrosword, Vibroblade, Confirm Vibrosword
+- *Optional Buy*: Battle Stimulant
 
 **2. Zelka Forn on Taris**
-- *Buy*: 6x Adrenal Alacrity, 7x Adrenal Strength (-726 Credits left)
+- *Buy*: 6x Adrenal Alacrity, 7x Adrenal Strength
 
 **3. Igear on Taris**
-- *Buy*: Vibration Cell (212 Credits left)
+- *Buy*: Vibration Cell
 
 **4. Janice Nall on Taris**
-- *Keep*: All Computer Spikes, 13 parts, 1 Strength Gauntlets, 1 Adrenaline Amplifier, All Stims, 1 Energy Projector, 1 Durasteel Bonding Alloy, 1 Vibration Cell
-- *Sell*: Everything Else (11940 Credits left)
+- *Conditional Sell*: 1 Computer Spike (if you have 12 to begin with)
+- *Sell*: Parts down to 13, All Equipment Except 1 Strength Gauntlets and 1 Adrenaline Amplifier
+- *Optional Sell*: All Medpacs, Antidote Kits, Security Spikes, Computer Spikes down to 11, and Upgrades except 1 each of Durasteel Bonding Alloy, Vibration Cell, Energy Projector
 
 **5. Crattis Yurkal on Dantooine**
-- *Buy*: Sanasiki's Blade, Breath Mask, +/-3, +/-5 (4640 Credits left)
+- *Buy*: Sanasiki's Blade, Breath Mask, +/-3, +/-5 Pazaak Cards
 
 **6. Eli Gand on Kashyyyk**
-- *Buy*: Hyper Battle Stimulant, Hyper-Adrenal Strength (5940 Credits left)
+- *Optional Buy*: Hyper Battle Stimulant, Hyper-Adrenal Strength
 
 **7. Mic'Tunan'Jus Orgu on Tatooine**
-- *Buy*: Bantha Fodder (5939 Credits left)
+- *Buy*: Bantha Fodder
 
 **8. Junix Nard on Tatooine**
 - *Buy*: All Paazak Cards
-- *Note*: The fastest way to do this also involves buying the Hair Trigger that's in the middle, which we can and do afford (3969 Credits left)
+- *Optional Buy*: Hair Trigger
+- *Note*: The fastest way to do this menu includes buying the Hair Trigger, which we can usually afford
 
 **9. Selkath Merchant on Manaan**
-- *Buy*: 5x Hyper Battle Stimulant, 5x Hyper Adrenal Strength (2219 Credits left)
+- *Conditional Buy:* 2x Computer Spikes (if you have no spikes)
+- *Buy*: 5x Hyper Battle Stimulant, 5x Hyper Adrenal Strength
 
 Our main source of credits is selling items to Janice, which is most of our twice-duplicated inventory.  We also use credits from quest rewards, particularly the Taris Duel Ring, Dantooine sidequests and the Manaan Swoop Races.
+
+### Computer Spike Route
+
+The current route requires 11 Computer Spikes for hacking.  We get 3 from the Governor's strongbox, which are then duplicated twice via a [Full Inventory Dupe](<../Techniques/Item Duplication#via-anywhere-menu-glitch>), yielding 9 spikes.  We have three other ways to obtain the rest of the spikes:
+- Largo's Footlocker (ideal)
+- Chewed Twi'lek Corpse
+- Purchase from Selkath Merchant
+
+**Largo's Footlocker:** 
+
+The current route relies on one random set of loot from Largo's footlocker.  There are four things that can appear in this footlocker:
+- 0-20 Credits
+- Computer Spike
+- Parts
+- Medpac
+
+The medpac and the small amount of credits are mostly irrelevant.  Getting the Parts yields 3 extras to sell to Janice for +240 credits. The ideal outcome is getting both the Computer Spike and the Parts, but there are contingencies to handle all outcomes.
+
+Getting the Computer Spike from the footlocker means you have 4 instead of 3 when you [Full Inventory Dupe](<../Techniques/Item Duplication#via-anywhere-menu-glitch>), so that you have 12 when you reach Janice.  This lets us sell 1 for +100 Credits, and keep the other 11 for hacking purposes.
+
+**Backups:**
+
+If you don't get the Computer Spike, you won't sell any to Janice, and have a second shot at a random Computer Spike drop from the Chewed Twi'lek Corpse in the Krayt Dragon cave (this holds the Nerve Amplifier Belt).  If you get 2 or more spikes from there, you don't need to buy any.  But if you don't, you'll need to buy 2 spikes from the Selkath Merchant when you buy the Hyper Stimulants. This costs 500 extra credits, but thankfully we've already passed the chokepoint for the credit route (needing 500 credits to loan to Queedle), so this doesn't stress the credit route at all.
+
+### Optional Transactions
+
+Each optional transaction can make certain aspects of the run more consistent, but none are required and most lose a little time to do.
+
+**1. Larrim's Battle Stimulant**
+- This can be used before the Bendak Starkiller fight to slightly increase both your chances to hit him and your chances to survive a hit if things go wrong.
+- It costs roughly 5 seconds, since you need to talk to Larrim again, scroll to the bottom of his list, and purchase the stim.
+
+**2. Extra Selling to Janice**
+- Selling the medpacs, antidote kits, security spikes, and extra upgrades gives +1196 Credits, making the rest of the credit route extremely lenient and cleaning up some item menus.
+- This costs about 8 seconds, since there's roughly 40 extra low-price items to sell.  It's recommended only if you're buying all optional stims and didn't get a spare Parts from Largo's Footlocker, and even then there may be better backups.
+
+**3. Eli Gand's Stims**
+- The Hyper Battle Stimulant and Hyper Strength from Eli adds +3 to your attack rolls vs. the Mandalorians in the Lower Shadowlands over the default option (just a basic Strength stim).  The Mandalorian Commander in particular can be inconsistent to hit.
+- This costs 6-8 seconds, since you don't have to talk to Eli at all your first time through and the stims are at the bottom of the menu.
+
+**4. Junix Nard's Hair Trigger**
+- The Hair Trigger, for some reason, is inbetween the +/-1 and +/-2 Pazaak Cards in Junix Nard's inventory.  Buying the Hair Trigger means you can just spam enter a bunch, smoothing the menu out.  We will never use the Hair Trigger.
+- Skipping the Hair Trigger probably costs about a second but saves 150 credits, and is only suggested if you bought Eli's stims and didn't get a spare Parts from Largo's footlocker.
+
+**5. Furko Nellis's Deck and Manaan's Docking Fee**
+- These are both 100 credits each, but avoiding them changes their conversations from mashing 1 to slightly more complicated versions.  You can Persaude Furko and use Affect Mind on the Selkath Port Authority.
+- These are recommended only if you bought Eli's stims and didn't get a spare Parts from Largo's footlocker.  Skipping the Manaan Docking Fee can also be useful to compensate for losing up to 2 games of Pazaak to Furko Nellis in no-reset contexts, but only if you're not already relying on having those credits.
 
 ## Route Overview
 
@@ -210,7 +276,6 @@ Other planet route notes:
 - Korriban does not require two visits if you get its Star Map last, since then you can do the Premium Merchant quest at that time. The Premium Merchant quest is only available after the Leviathan.
 - Kashyyyk could be done in one visit if done after Manaan 1; however, skipping Rulan lets us reach the Lower Shadowlands more quickly, and there is a convenient [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to go back for Rulan from the Manaan Sith Base.  It also streamlines the "Sunry Murder Trial" questline on Manaan to have Jolee for Manaan 1.
 - Tatooine could be done in one visit if done after Manaan 1; however, it is faster to visit Senni Vek on Tatooine, even though we do Kashyyyk first.  Senni Vek is quite out of the way on Kashyyyk.
-
 
 ### Route Outline
 
@@ -283,10 +348,10 @@ Other planet route notes:
 **5. Manaan 1**
 - Jordo and Carth meet
 - Sell Gizka to Nubassa
+- Start Sunry's Murder Trial
+- Speak to Nilko Bwaas and Shaelas
 - Begin the GenoHaradan bounties and kill Lorgal
 - Swoop Skip for the Manaan Swoop Races
-- Start Sunry's Murder Trial and speak to Sunry
-- Speak to Nilko Bwaas and Shaelas
 - Kill Ithorak and enter the Sith Base
 - Transit Point Storage to the Dune Sea
 
@@ -320,7 +385,7 @@ Other planet route notes:
 - Tell Lurze Kesh you won't help him
 - Tell Shaelas about his daughter
 - Tell Nilko Bwaas about the mercenaries
-- Show the recording at Sunry's trial
+- Talk to Sunry and show the recording at Sunry's trial
 - Visit Mika Dorin's premium shop
 - Inflitrate the Sith Academy
 - Forced Fast Text with Yuthura's XP Exploit
@@ -434,7 +499,7 @@ Quest Notes:
       - [Open Buffer](<../Techniques/Save Buffering#open-buffers>) from Trask to the door to use Security during Trask's first conversation
         - ***Begins "Attack on the Endar Spire"***
       - [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) by walking into the rubble near the second Sith soldier in the right spot
-  - ***Method Two: Doorframe [DLZ](<../Major Glitches/Displaced Load Zone)***
+  - ***Method Two: Doorframe [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>)***
     - *This strat is much more consistent, but significantly slower than a good Rubble [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>).  It's recommended only for beginning runners.*
     - *To perform this strat:*
       - Loot footlocker
@@ -468,9 +533,9 @@ Quest Notes:
 ### South Apartments
 - Carth accosts you: 1,1,1,5,3
   - ***Begins "The Search for Bastila"***
-- Loot the footlocker for computer spikes
 - Re-enable V-Sync
-- Exit the Hideout
+- Immediately exit the Hideout
+  - We used to loot the footlocker here but that is no longer necessary
   - *Party: Keep Carth when prompted*
 - Immediately after the load, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Sith Raid cutscene
 - `Level 2:` [Sneak Attack FLU](<../Major Glitches/Fake Level Up#sneak-attack-flu>)
@@ -495,7 +560,7 @@ SHOPPING: Larrim
 - End: -76 Credits
 ```
 
-*Note: The [Credit Underflow](<../Major Glitches/Anywhere Menu Glitch#credit-underflow>) can fail for technical memory-related reasons.  If it does fail, you can either sell a Parts and then retry the glitch, or just reset.*
+*Note: The [Credit Underflow](<../Major Glitches/Anywhere Menu Glitch#credit-underflow>) can fail for technical memory-related reasons.  If it does fail, you can either sell a Parts and then retry the glitch, Quick Load to retry the entire menu again, or just reset.*
 
 - Swap to Carth, queue a conversation with Dia, and swap back to MC
   - This talks to Dia without swapping MC and Carth's positions
@@ -562,6 +627,7 @@ SHOPPING: Zelka Forn
 - As Carth, loot Sith backpack for Sith Armor
 - As Carth, run back to hall and click on exit door
 - Swap to MC and loot Largo for Energy Projector
+- As MC, loot Largo's Footlocker and note whether you got a Computer Spike, Parts, or both
 - Swap back to Carth and wait until he opens the door
 - [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Upper City Cantina via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 4
   - **Slot 4 now North Apartments**
@@ -638,7 +704,7 @@ SHOPPING: Zelka Forn
     - After the load, load the Autosave to warp to Upper City North
 - *Stims: Strength on MC*
 - **Hard Save three times in Slot 3, Slot 4, and New Slot (Slot 5)**
-- Disable V-Sync to perform the [Sith Base DLZ](<../Major Glitches/Displaced Load Zone#ch7Sith_Base_DLZ>)
+- Disable V-Sync to perform the [Sith Base DLZ](<../Major Glitches/Displaced Load Zone#sith-base-dlz>)
 - Secretary accosts you: 3,1
 - Re-enable V-Sync
 - *Stims: Alacrity on MC*
@@ -652,7 +718,7 @@ SHOPPING: Zelka Forn
 - Use [Wired Targeting](<../Techniques/Wired Targeting#quick-wired-targeting-combat>) to kill the Governor
 - Loot the right strongbox for Computer Spikes and Durasteel Bonding Alloy
 - Loot the Governor for Launch Codes, Strength Gauntlets, and Adrenaline Amplifier
-- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Upper City North using Slot 5 
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Upper City North using Slot 4
 - *Party: Add Carth*
 - *Stims: Alacrity on Carth*
 - Run Carth to the elevator so Sith Soldier accosts you
@@ -670,7 +736,7 @@ SHOPPING: Zelka Forn
 - As MC, kill Matrik via Sneak Attack
 - [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to Lower City using your pop-up
   - This is faster than a [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) because we already have the QS in Lower City
-- [Vulkar Door Clip DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-DLZ>)
+- [Vulkar Door Clip DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-dlz>)
   - Disable V-Sync and activate Solo Mode
   - Run Carth slightly forward, then swap to MC and [Conversation Queue](<../Techniques/Conversation Queue>) to Carth
   - Swap to Carth and run continuously into the right corner of the door
@@ -682,12 +748,12 @@ SHOPPING: Zelka Forn
 
 ### Vulkar Base
 
-- ***Optional Strat: [Sewers DLZ](<../Major Glitches/Displaced Load Zone#ch10Sewers_DLZ)***
-  - *This is the fastest way to Upper Sewers, but only if you get the [DLZ](<../Major Glitches/Displaced Load Zone#sewers-DLZ>) nearly immediately.  This saves at most 3 seconds.*
+- ***Optional Strat: [Sewers DLZ](<../Major Glitches/Displaced Load Zone#sewers-dlz>)***
+  - *This is the fastest way to Upper Sewers, but only if you get the [DLZ](<../Major Glitches/Displaced Load Zone#sewers-dlz>) nearly immediately.  This saves at most 3 seconds.*
   - *To perform the DLZ strat:*
     - Kill the Vulkar Guard behind the first door
     - Run down the right hallway
-    - Perform the [Sewers DLZ](<../Major Glitches/Displaced Load Zone#sewers-DLZ>) against the left wall at the corner
+    - Perform the [Sewers DLZ](<../Major Glitches/Displaced Load Zone#sewers-dlz>) against the left wall at the corner
     - Disable V-Sync
     - *Stims: Alacrity on MC*
     - Activate Solo Mode and click on the door ahead
@@ -696,8 +762,8 @@ SHOPPING: Zelka Forn
       - ***Begins and Finishes "A Rancor in the Sewers"***
     - Open the door ahead and run right down the hall
 - ***Alternate Strat: [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)***
-  - *This strat is consistent and only slightly slower than a good [Sewers DLZ](<../Major Glitches/Displaced Load Zone#sewers-DLZ>).*
-  - *To perform this strat instead of the [DLZ](<../Major Glitches/Displaced Load Zone#sewers-DLZ>):*
+  - *This strat is consistent and only slightly slower than a good [Sewers DLZ](<../Major Glitches/Displaced Load Zone#sewers-dlz>).*
+  - *To perform this strat instead of the [DLZ](<../Major Glitches/Displaced Load Zone#sewers-dlz>):*
     - Disable V-Sync
     - *Stims: Alacrity on MC*
     - Kill the Vulkar Guard behind the first door
@@ -727,13 +793,13 @@ SHOPPING: Zelka Forn
 - Enter the Lower City with Carth
 - QS/QL to fix party following AI
 - As Carth, enter Javyar's Cantina
-- **Hard Save in Slot 5**
+- **Hard Save in Slot 4**
 - Exit Javyar's Cantina
 - *Equip Carth: Sith Armor*
 - *Party: Remove Carth*
-- Disable V-Sync to perform the [Bek Base DLZ](<../Major Glitches/Displaced Load Zone#bek-base-DLZ>)
+- Disable V-Sync to perform the [Bek Base DLZ](<../Major Glitches/Displaced Load Zone#bek-base-dlz>)
   - If you'd prefer, you can run down the hall to the left and talk to the Bek Lookout to enter the base
-  - The [DLZ](<../Major Glitches/Displaced Load Zone#bek-base-DLZ>) is quite easy, but only saves a few seconds at most
+  - The [DLZ](<../Major Glitches/Displaced Load Zone#bek-base-dlz>) is quite easy, but only saves a few seconds at most
 - Re-enable V-Sync and [Save Teleport](<../Techniques/Save Teleporting>) to Gadon
   - *We'll use [Save Teleports](<../Techniques/Save Teleporting>) for movement for the rest of Taris.*
 - Talk to Gadon: 1x10,3,1,5,1spam
@@ -836,7 +902,7 @@ SHOPPING: Igear
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the QL
   - ***Begins and Finishes "Rukil's Apprentice"***
   - ***Begins and Finishes "The Promised Land"***
-- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Javyar's Cantina using Slot 5
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Javyar's Cantina using Slot 4
 
 ### Leaving Taris
 - Activate Solo Mode and swap to Mission
@@ -848,7 +914,7 @@ SHOPPING: Igear
 - Zax conversation: 1,3,3,1x13,2
   - ***Finishes "Rakghoul Serum"***
   - ***Finishes five bounty quests: Dia, Largo, Selven, Bendak, and Matrik***
-- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Upper City North using Slot 4
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Upper City North using Slot 5
 - As Mission, [Save Teleport](<../Techniques/Save Teleporting>) to Janice and talk to her: 2,4,1
   - *Party: Keep Mission when prompted*
   - ***Finishes "Purchasing a Droid"***
@@ -856,19 +922,25 @@ SHOPPING: Igear
 
 ```
 SHOPPING: Janice Nall
-- SELL ALL EXCEPT:
-  - All Computer Spikes (should be 15)
-  - 13 Parts
-  - 1 Strength Gauntlets
-  - 1 Adrenaline Amplifier
-  - All Stims
-  - 1 Durasteel Bonding Alloy
-  - 1 Energy Projector
-  - 1 Vibration Cell
-- End: 11940 Credits
+- CONDITIONAL SELL:
+  - 1 Computer Spike, but only if you start with 12
+- ALWAYS SELL:
+  - Parts, but keep 13 (might have 21 or 24 to start)
+  - All Equipment EXCEPT:
+    - 1 Strength Gauntlets
+    - 1 Adrenaline Amplifier
+- OPTIONAL SELL (+1196 Credits):
+  - All Medpacs
+  - All Antidote Kits
+  - All Security Spikes
+  - All Upgrades EXCEPT:
+    - 1 Durasteel Bonding Alloy
+    - 1 Energy Projector
+    - 1 Vibration Cell
+- End: 10648-12284 Credits
 ```
 
-- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Javyar's Cantina using Slot 4
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Javyar's Cantina using Slot 5
 - ***Optional Journal Check: Active quests should be "Bastila", "Carth", and "Escaping Taris"***
 - Talk to Canderous: 2,1
   - *Party: Keep Canderous when prompted*
@@ -935,10 +1007,9 @@ SHOPPING: Crattis Yurkal
 - **Hard Save in Slot 5**
 - Activate Solo Mode and Disable V-Sync
 - *Stims/Force: Master Speed, Adrenal Strength on MC*
-- Swap to Canderous and perform [Enclave DLZ](<../Major Glitches/Displaced Load Zone#enclave-DLZ>)
-  - Set up Canderous so he's close to the [DLZ](<../Major Glitches/Displaced Load Zone#enclave-DLZ>) point and you're fairly confident he will trigger the [DLZ](<../Major Glitches/Displaced Load Zone#enclave-DLZ>)
-  - If Master Speed wears off, recast it before finishing the DLZ
-  - We want to duration glitch both Master Speed and Adrenal Strength for the rest of Dantooine
+- Swap to Canderous and perform [Enclave DLZ](<../Major Glitches/Displaced Load Zone#enclave-dlz>)
+  - We want to do this fast enough to duration glitch both Master Speed and Adrenal Strength for the rest of Dantooine
+  - If Master Speed wears off, recast it before finishing the [DLZ](<../Major Glitches/Displaced Load Zone#enclave-dlz>)
 
 ### Redeeming Juhani
 - Re-enable V-Sync
@@ -956,7 +1027,8 @@ SHOPPING: Crattis Yurkal
 - After the CS, kill the Mandalorian via Sneak Attack
 - Enter the Grove behind you
 - Run/Force Jump through the Grove to enter Sandral Grounds
-- **Hard Save in Slot 4**
+  - If you want to ensure enough XP to hit level 10, try to kill a Horned Kath Hound with your Force Jump
+- **Hard Save in Slot 1**
 - Reenter the Grove
 - Run towards bridge until Bolook accosts you: 2,2,2
   - ***Begins and Finishes "Murdered Settler"***
@@ -990,14 +1062,14 @@ SHOPPING: Crattis Yurkal
 - Swap to MC and [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the droid conversation
 - As MC, loot Nemo's corpse for Sigil Crystal
 - Swap to Bastila and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-- Disable V-Sync and perform the [Star Map DLZ](<../Major Glitches/Displaced Load Zone#ruins-star-map-DLZ>)
+- Disable V-Sync and perform the [Star Map DLZ](<../Major Glitches/Displaced Load Zone#ruins-star-map-dlz>)
   - When the Star Map CS starts, cancel the pop-up and [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) CS via [Force Skip](<../Techniques/Force Skips>) (or QS/QL)
   - ***Finishes "Investigate Ruins"***
 - Enable V-Sync and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - Swap to Mission and [GP Warp](<../Techniques/GP Warp#amg-gp-warps>) to move MC to the exit
 - Talk to Mission three times: 1 ... 1,1,4,1 ... 1x13,2
-- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Sandral Grounds using Slot 4
-  - **Slot 4 now Ruins**
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Sandral Grounds using Slot 1
+  - **Slot 1 now Ruins**
 
 ### Sidequest Cleanup
 - Deactivate Solo Mode
@@ -1026,8 +1098,11 @@ SHOPPING: Crattis Yurkal
   - You do not need to kill the Duros or the other Mandalorian
 - Continue to west and Force Jump to Kath Hounds around C8-42
 - Use [Combat Talking](<../Techniques/Combat Talking>) to talk to C8-42: 1,1,1,1,1,2,1
+- ***Optional:*** `Auto-Level to 5 if available`
+  - This gets undone by the next [Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) but gives a slightly better chance 
 - Enter the Grove
   - You'll likely need to recast Force Valor; make sure Master Speed is also active
+to hit Sherruk
 - Run forward and slightly left to have Sherruk accost you
 - Kill Sherruk
   - Do your best to get sneak attacks, but it's crowded
@@ -1074,15 +1149,14 @@ SHOPPING: Crattis Yurkal
   - Skipping this complicates things later, so just mash through it real quick
 - *Force: Cast Master Speed*
   - Our [Save Teleports](<../Techniques/Save Teleporting>) aren't strong enough to use until a little later on Kashyyyk
-- Talk to Eli Gand: 1
+- ***Optional Shopping:*** Talk to Eli Gand: 1
   - ***Begins "Honest Debt"***
 
 ```
-SHOPPING: Eli Gand
+OPTIONAL SHOPPING: Eli Gand
 - BUY:
   - Hyper Battle Stimulant
   - Hyper Adrenal Strength
-- End: 5940 Credits
 ```
 
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the guard convo at the end
@@ -1094,12 +1168,13 @@ SHOPPING: Eli Gand
   - Position Juhani in a [specific spot](/assets/images/imgur-dump/BfgfArb.png) first
 - After loading, activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - Swap to MC and [GP Warp](<../Techniques/GP Warp#amg-gp-warps>) Juhani to the Shadowlands elevator
-- **Hard Save in New Slot (Slot 6)**
 - Enter the Elevator with Juhani to go to the Shadowlands
   - ***Begins "Chieftain in Need"***
 
 ### Upper Shadowlands
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Calo Nord encounter
+- **Hard Save in Slot 2** before moving forward
+  - The save position is important for a [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) later
 - Activate Solo Mode
 - Run/Force Jump past the first katarn group, then Deactivate Solo Mode
   - Toggling Solo Mode keeps Juhani out of combat
@@ -1149,13 +1224,11 @@ SHOPPING: Eli Gand
 - Wait for the Journal Icon to pop-up in the top left
   - When the icon shows, Freyyr is dead and we can continue
 - As Juhani, activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and run forward to trigger the first Mandalorian ambush
-  - [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the ambush via QS/QL and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
-  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to the Great Walkway using Slot 6
-    - **Slot 6 now Lower Shadowlands**
-  - The elevator convo should trigger after the load; use it to go to Upper Shadowlands: 1
-- **Hard Save in Slot 2**
-- Move to the right of Gorwooken and speak to him: 1
-  - It's important to stand to the right to avoid triggering Darth Bandon later
+  - Cancel the pop-up and open the Options Menu
+  - **Hard Save in Slot 1** then load Slot 2
+- [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) to Upper Shadowlands using Slot 1
+  - This needs to be a [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) so that Jolee spawns next to the elevator 
+- Swap to Jolee and run towards the elevator to have Gorwooken accost you: 1
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load, then [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via [Force Skip](<../Techniques/Force Skips>)
   - Wait until Chuundar starts speaking to skip this CS
 - Talk to Chuundar again: 1,1,2,1,1
@@ -1170,7 +1243,7 @@ SHOPPING: Eli Gand
   - If Juhani and Jolee warped to MC, you'll have to run one of them back to the Ebon Hawk
 - As MC, talk to Eli Gand
   - ***Finishes "Honest Debt"***
-- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Lower Shadowlands via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 6
+- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Lower Shadowlands via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 1
 
 ### Lower Shadowlands
 
@@ -1180,16 +1253,18 @@ SHOPPING: Eli Gand
 - [Save Teleport](<../Techniques/Save Teleporting>) to Star Map computer and talk to it: 1,3,1,1,1,1,1,5,1,4,1,4,1
   - When the Star Map begins to open, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via [Force Skip](<../Techniques/Force Skips>)
   - ***Finishes "Star Map: Kashyyyk"***
-- *Stims: Hyper Strength and Hyper Battle Stim on MC*
-- ***Optional:*** `Level 6: Auto-Level MC`
-  - This slightly raises your attack for the Mandalorian fights
+- *Stims: Basic Strength on MC*
+  - If you bought Eli's stims, instead do *Stims: Hyper Strength and Hyper Battle Stimulant on MC*
+- `Level 6: Auto-Level MC`
+  - This makes your STR 20, giving you +1 STR mod and +1 base ATK for the Mandalorian fights
 - [Save Teleport](<../Techniques/Save Teleporting>) Juhani to the nearby Wookiee corpses to trigger the Mandalorian ambush
-- As MC, Critical Strike to kill the Mandalorians
+- As MC, Critical Strike to kill the Mandalorian furthest from the Star Map
   - While MC fights, swap to either Jolee or Juhani and [Save Teleport](<../Techniques/Save Teleporting>) to the swoop bike
+  - You can try to kill an extra Mandalorian or two here to attempt to ensure level 10 for the endgame
 - Swap to MC and loot the Mandalorian with the Swoop Signal Device
   - This is the one furthest from the Star Map
 - *Force: Cast Master Speed and Master Valor as MC*
-  - Prioritize Master Speed over Master Valor if you're low on Force  
+  - Prioritize Master Speed over Master Valor if you're low on Force, but you should have enough FP for both
 - Swap back to the party member, activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, and trigger the swoop bike
   - Use [Cutscene Movement](<../Major Glitches/Anywhere Menu Glitch#moving-during-cutscenes>) to position MC behind the Mandalorian Commander
   - Use QS to advance the commander's two lines of dialog
@@ -1198,7 +1273,9 @@ SHOPPING: Eli Gand
   - If you get stunned, use stunned combat to attack anyway
 - Loot the Mandalorian Commander for his helmet
   - ***Finishes "Hidden Hunters"***
-- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to the Ebon Hawk using Slot 1
+- [Fast Lane](<../Major Glitches/Fast Lane>) via Slot 4 to Return to the Ebon Hawk and board
+- Run forward until Zaalbar accosts you
+  - ***Begins "Dwindling Supplies"***
 - Bastila #6, Carth #5
 - Fly to Tatooine with a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to RtEH
   - *Party: Add Bastila during the [Map CS Skip](<../Techniques/Map Cutscene Skips>)*
@@ -1217,7 +1294,6 @@ SHOPPING: Eli Gand
 SHOPPING: Mic'Tunan'Jus Orgu
 - BUY:
   - Bantha Fodder
-- End: 5939 Credits
 ```
 
 - Run towards Anchorhead so the gizka Sullustan accosts you: Hey, free gizka!
@@ -1242,7 +1318,9 @@ SHOPPING: Mic'Tunan'Jus Orgu
 - Perform [Swoop Skip](<../Major Glitches/Hotshot#swoop-skips>) three times:
   - **Hard Save in Slot 1** (do this every time)
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on this save (or via QS)
-  - Talk to Motta; 1st time: 1,3,1spam | 2nd and 3rd times: 2,1
+  - Talk to Motta
+    - 1st time: 1,3,1spam
+    - 2nd and 3rd times: 2,1
   - Once the race starts, use Alt+F4 to regain control
   - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Swoop Registration using Slot 1
   - ***Begins and Finishes "Tatooine Swoop Races"***
@@ -1265,14 +1343,16 @@ SHOPPING: Mic'Tunan'Jus Orgu
 SHOPPING: Junix Nard
 - BUY:
   - 2x +/-1, +/-2, +/-3, +/-4 Cards
-  - The fastest way to buy these also buys the Hair Trigger between them by mashing
-- End: 3969 Credits
+- OPTIONAL BUY:
+  - Hair Trigger
+  - The fastest way to buy the cards also buys the Hair Trigger via mashing
 ```
 
-- Talk to Furko Nellis: 1,1,1,1,1
-  - If you mash too fast, there is a chance the game won't register your purchased Pazaak deck and will send you to the Pazaak tutorial
-  - If you end up in the tutorial, press Escape and click OK to forfeit, then mash the ensuing conversation
-  - If you want to be safe, just mash a little more slowly after the third 1 above
+- Talk to Furko Nellis
+  - ***Optional:*** To Persuade him to give you the deck for free, use the convo 1,1,2,1,1 instead of mashing 1
+  - For either convo, if you mash too fast, there is a chance the game won't register your purchased Pazaak deck
+  - If you end up in the Pazaak tutorial due to this, press Escape and click OK to forfeit, then mash the ensuing conversation
+  - If you want to be safe, just mash a little more slowly after the third dialog option above
   - ***Begins "Pazaak Rules"***
 - Win the Pazaak game! Good luck!
   - Use your ten +/- cards as your sidedeck
@@ -1293,7 +1373,7 @@ SHOPPING: Junix Nard
 - Talk to Gate Guard to exit to Dune Sea
 
 ### The Dune Sea
-- **Hard Save in Slot 6**
+- **Hard Save in New Slot (Slot 6)**
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip angry wife convo
 - Talk to Tanis after he accosts you: 1,1,3,1,1
   - ***Finishes "Tanis Trapped"***
@@ -1317,6 +1397,7 @@ SHOPPING: Junix Nard
   - ***Finishes "A Desert Hunt"***
 - When the CS ends, loot the Krayt Dragon for two pearls
 - Loot the chewed Twi'lek corpse on the right side of the cave for Nerve Amplifier Belt
+  - If you didn't get a spike from Largo's Footlocker on Taris, check to see if you got two or more here
 - Loot the tattered equipment pack in the back left for Bastila's father's holocron
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then click the Star Map and [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) its CS via [Force Skip](<../Techniques/Force Skips>)
   - ***Finishes "Star Map: Tatooine"***
@@ -1330,8 +1411,6 @@ SHOPPING: Junix Nard
   - This helps position us for a [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) later
 - Board the Ebon Hawk
   - You may want to cast Master Speed to make your [Save Teleports](<../Techniques/Save Teleporting>) more manageable here
-- Run forward until Zaalbar accosts you
-  - ***Begins "Dwindling Supplies"***
 - Workbench: Upgrade Lightsaber: Add Krayt Dragon Pearl
 - Check the supplies in the cargo hold
 - Talk to Jolee three times: spam ... spam ... 1,1,3
@@ -1360,6 +1439,7 @@ SHOPPING: Junix Nard
 - **Hard Save in New Slot (Slot 7)**
 - Enter West Central
 - Talk to Port Authority
+  - ***Optional:*** To skip the fee, use the convo 1,3 instead of mashing 1
 - RtEH and Transit Back next to the fountain through the Ahto City door
   - We'll use this transit point to return here later
 - Enter Ahto West
@@ -1391,6 +1471,7 @@ SHOPPING: Junix Nard
   - ***Begins "Star Map: Manaan"***
   - ***Begins "Mission for the Republic"***
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then hack computer terminal to kill Lorgal
+  - Note how many spikes you have left after this; if it's 0, you'll need to buy 2 from the Selkath Merchant
   - Use [CS Movement](<../Major Glitches/Anywhere Menu Glitch#moving-during-cutscenes>) with Flourish Weapon [Save Teleports](<../Techniques/Save Teleporting>) to move back towards Hulas during the CS
 - Talk to Hulas: 1x8, 2
   - ***Finishes "GenoHaradan: Lorgal"***
@@ -1408,17 +1489,19 @@ SHOPPING: Junix Nard
   - Remember to **Hard Save in Slot 1** before each skip
   - After each skip, press Escape once to clear the menu and IMMEDIATELY press Alt+F4 to activate [AMG](<../Major Glitches/Anywhere Menu Glitch>)
   - After the swoop victory dance CS starts, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) it via [Force Skip](<../Techniques/Force Skips>)
-- After the third skip, *Party: Add T3* and Transit Back to Manaan Docking Bay
+- Transit Back to Manaan Docking Bay
 
 ### Reaching the Sith Base
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the Selkath announcement
 - Talk to Selkath Merchant: 3
 
 ```
 SHOPPING: Selkath Merchant
+- CONDITIONAL BUY:
+  - 2x Computer Spike (if you have none)
 - BUY:
   - 5x Hyper Battle Stim
   - 5x Hyper Adrenal Strength
-- End: 2109 Credits
 ```
 
 - *Party: Remove T3*
@@ -1438,8 +1521,7 @@ SHOPPING: Selkath Merchant
 ## Tatooine 2
 
 ### Worthy of History
-- *Stims/Force: All Remaining Basic Stims on MC, Cast Master Speed*
-  - You'll at least have a basic Strength, but we want to clear out this menu so stims are quicker to use later
+- *Stims/Force: Basic Strength, Cast Master Speed*
 - Kill the nearest Sand People Warrior and loot him for his outfit
 - Enter Sand People Territory
 - *Equip MC: Sand People Outfit*
@@ -1465,7 +1547,8 @@ SHOPPING: Selkath Merchant
 - Talk to Griff and the imprisoned Jawa
 
 ### Warping Segment
-- [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) to Anchorhead using Slot 5
+- **Hard Save in Slot 1** and load Slot 5
+- [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) to Anchorhead using Slot 1
   - This needs to be a [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) so that HK and Mission spawn next to Iziz
 - Activate Solo Mode and use HK-47 to talk to Iziz
   - This swaps HK's position with MC's
@@ -1473,6 +1556,9 @@ SHOPPING: Selkath Merchant
 - Put HK in this [specific location](/assets/images/imgur-dump/O1RtV4j.png)
 - [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Mission and HK to Dune Sea via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 6
   - This puts HK-47 in the right place for the next [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>)
+- *Stims: All Remaining Basic Stims **on Mission***
+    - You'll should have at least a basic Alacrity, but we want to clear out this menu so stims are quicker to use later
+    - The Alacrity makes Mission easier to position correctly here
 - [Save Teleport](<../Techniques/Save Teleporting>) to position Mission in a [specific spot](/assets/images/imgur-dump/RobinnA.png)
 - [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Manaan Sith Base via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 9
   - If Mission spawns near MC, she spawned OoB in the Sith Base; to try again:
@@ -1521,7 +1607,7 @@ SHOPPING: Selkath Merchant
 - Open the computer room door, then [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the convo via [Force Skip](<../Techniques/Force Skips>)
 - As MC, click the Republic Archives
 - Swap to Zaalbar and run towards Ignus until the console menu pops up: 2,2,3
-- As Zaalbar, talk to Ignus: 1,2,3,3
+- As Zaalbar, talk to Ignus: 1,2,2,3
   - ***Begins "Ignus, the Hotel Owner"***
 - As Zaalbar, [Save Teleport](<../Techniques/Save Teleporting>) to first door to submersible and click on second door
 - Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) to talk to Gluupor: 1,3,1
@@ -1619,7 +1705,8 @@ SHOPPING: Selkath Merchant
 
 ### Hangar
 - [Save Teleport](<../Techniques/Save Teleporting>) to skip Canderous CS just outside elevator
-- *Stims/Force: Cast Master Speed, Hyper Strength and Hyper Battle Stim on MC*
+- *Stims/Force: Cast Master Speed, use Hyper Battle Stim ONLY on MC*
+  - We need to preserve our Hyper Strengths for later fights
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then [Save Teleport](<../Techniques/Save Teleporting>) forward to trigger Darth Malak confrontation
   - Mash the CS until Carth says "Down you go!", then [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) it via QS/QL
   - ***Optional:** Force: Cast Master Valor* before the QS/QL to make the next fight more consistent
@@ -1627,7 +1714,7 @@ SHOPPING: Selkath Merchant
 - Malak phase one via Critical Strike
   - This should be one round unless you miss too much
 - *Force: Cast Master Speed while getting up*
-- *Stims: Hyper Strength and Hyper Battle Stim on MC*
+  - Do not use ANY stims for the second phase
 - [Save Teleport](<../Techniques/Save Teleporting>) through unlocked blast doors to reach Malak
 - *Force: Cast Master Valor* before the last door
 - Malak phase two via Critical Strike
@@ -1643,29 +1730,29 @@ SHOPPING: Selkath Merchant
 
 ### Dreshdae
 - Canderous #1 and #2: 1,1,1,1,3 for both
-- [Full Inventory Dupe](<../Techniques/Item Duplication#via-anywhere-menu-glitch>) via the [AMG](<../Major Glitches/Anywhere Menu Glitch>) method
-  - This is to obtain more stims for the endgame fights
-- *Party: Add Canderous once you're in Dreshdae*
-  - Don't add him while doing the [Inventory Dupe](<../Techniques/Item Duplication#via-anywhere-menu-glitch>)!
+- Leave the Ebon Hawk
+  - *Party: Add Canderous*
+  - We no longer do an [Inventory Dupe](<../Techniques/Item Duplication#via-anywhere-menu-glitch>) here
 - [Save Teleport](<../Techniques/Save Teleporting>) towards city to trigger Xiagrom's interruption
   - ***Begins "Premium Merchant"***
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then run backwards a bit, then forwards to trigger Jagi's interruption
+  - If Jagi doesn't trigger, move forward into Dreshdae and you should find him in the hall just after Shaardan
   - Mash until the third dialog option, then press Enter and [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes) the convo via [Force Skip](<../Techniques/Force Skips>)
 - Talk to Jagi again: 2,2,2,2,2,2,2
   - ***Finishes "Jagi's Challenge"***
 - Canderous #3 and #4
-- [Save Teleport](<../Techniques/Save Teleporting>) towards entrance to be accosted by Port Authority: 2,2,3,2
+- [Save Teleport](<../Techniques/Save Teleporting>) towards entrance to be accosted by Port Authority: 1,1,3,2
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then [Save Teleport](<../Techniques/Save Teleporting>) towards Shaardan
   - If you trigger the convo, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) it via [Force Skip](<../Techniques/Force Skips>)
   - If not, just continue onward
 - Make sure [AMG](<../Major Glitches/Anywhere Menu Glitch>) is active, then [Save Teleport](<../Techniques/Save Teleporting>) towards Lashowe
   - If you trigger the convo, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) it via [Force Skip](<../Techniques/Force Skips>)
-  - If not, just continue onward
+  - If not, cancel the pop-up and continue forward
 - [Save Teleport](<../Techniques/Save Teleporting>) to Lurze Kesh and talk to him: 1,1,1,3,2
   - ***Finishes "Unfinished Business"***
 - **Hard Save in New Slot (Slot 11)**
 - Exit to the Sith Academy Entrance as Canderous
-- Activate Solo Mode and as Canderous, click the utility droid to the left of the ramp down
+- Activate Solo Mode and as Canderous, click the utility droid below the left side of the ramp down
 - Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) to the academy entrance
 - After the screen flashes black (when Canderous reaches the droid), talk to Sith Guard: 2
   - ***Begins "Enter the Sith Academy"***
@@ -1694,9 +1781,9 @@ SHOPPING: Selkath Merchant
   - ***Begins "Aiding Lashowe"***
 - Run back to the middle to trigger the Uthar convo
   - ***Begins "The Way of the Sith"***
-- Use [Forced Fast Text](<../Major Glitches/Anywhere Menu Glitch#forced-fast-text>) to talk to Yuthura: 1x4,5,(2,7)x46,6
-  - Each iteration of 2,7 in this convo gives 125 XP; we use this to gain enough XP to hit level 9 before leaving the academy
-  - It's more important to mash cleanly than as fast as possible; if you mess up, you can usually press the bottom dialog option to get back to Yuthura's base menu, then start the 2,7 mashing again
+- Talk to Yuthura: 1x4,5,2,7,6
+  - We no longer use [Forced Fast Text](<../Major Glitches/Anywhere Menu Glitch#forced-fast-text>) to exploit Yuthura's XP loop
+  - We have enough XP for level 9 naturally due to leaving Kashyyyk with a [Fast Lane](<../Major Glitches/Fast Lane>)
   - ***Begins "Star Map: Korriban"***
   - ***Begins "The Double-Cross"***
   - ***Begins "The Code of the Sith"***
@@ -1729,14 +1816,16 @@ SHOPPING: Selkath Merchant
   - You can [Save Teleport](<../Techniques/Save Teleporting>) with the glitched party member instead if this happens
 - `Auto-Level MC to 9`
 - Mash five Juhani convos (post Leviathan and #4 - #7)
+- *Stims: Hyper Strength and Hyper Battle Stimulant on MC*
+  - These stims will last for every fight on Korriban except Xor
 - Exit to Valley of the Dark Lords
 
 ### Valley of the Dark Lords
 - [Map CS Skip](<../Techniques/Map Cutscene Skips>) the Bandon CS to RtEH
 - [Save Teleport](<../Techniques/Save Teleporting>) towards Dreshdae to trigger Xor's interruption
+  - If Xor doesn't trigger, move forward into Dreshdae and you should find him in the hall just after Shaardan 
   - ***Begins "Threat from Xor"***
 - Transit Back to Valley of the Dark Lords
-- *Stims: Hyper Strength and Hyper Battle Stimulant on MC*
 - **Hard Save twice in New Slot (Slot 13), New Slot (Slot 14)**
 - [Save Teleport](<../Techniques/Save Teleporting>) to Shyrack Caves, but enter with a party member
 - *Party: Remove Carth and Juhani*
@@ -1760,8 +1849,8 @@ SHOPPING: Selkath Merchant
   - ***Finishes "GenoHaradan"***
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Valley of the Dark Lords using Slot 14
 - [Save Teleport](<../Techniques/Save Teleporting>) to the Tomb of Marka Ragnos
-- *Stims/Force: Cast Master Speed, Hyper Strength and Hyper Battle Stim before entering*
-  - This keeps these buffs active when we return to the Tomb of Marka Ragnos
+- *Force: Cast Master Speed* before entering the tomb
+  - This keeps Master Speed active when we return to the tomb later
 - **Hard Save in Slot 14**
 - Exit the Tomb and [Save Teleport](<../Techniques/Save Teleporting>) across to near Galon Lor
 - *Party: Add T3-M4*
@@ -1795,15 +1884,15 @@ SHOPPING: Selkath Merchant
 - Swap to T3 and position him in front of the sarcophagus
   - If he didn't warp to the sarcophagus room, you'll have to [Save Teleport](<../Techniques/Save Teleporting>) T3 there
 - [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Tomb of Marka Ragnos via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 14
-- Use the load in to [Combat Talk](<../Techniques/Combat Talking>) to the rogue assassin droid
-  - This may fail if the MC is in combat with the first droid in the hallway; if so, retry [Combat Talking](<../Techniques/Combat Talking>) again
+- IMMEDIATELY pause and [Combat Talk](<../Techniques/Combat Talking>) the rogue assassin droid
+  - This may fail if the MC is in combat with the first droid in the hallway; if so, retry [Combat Talking](<../Techniques/Combat Talking>) again with QS/QL
 - Destroy the rogue assassin droid
   - You do not have to kill any other droids
-- **Hard Save in Slot 2**
-  - Do NOT use Slot 1, as we need the Shyrack Caves save for later
-- [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) to Sith Academy using Slot 12
+- **Hard Save in Slot 2**, then load Slot 12 (Sith Academy)
+  - Do NOT overwrite Slot 1, as we need the Shyrack Caves save for later
+- [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) to Sith Academy using Slot 2
   - This must be a [Hard Save Hotshot](<../Major Glitches/Hotshot#hard-save-hotshots>) to spawn T3 near Uthar
-  - Remember to select Slot 2 during the Hotshot!
+  - Remember to select Slot 2 during the Hotshot, not Slot 1!
 
 ### Tomb of Naga Sadow
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then swap to T3 and talk to Uthar: 5,6,6,2,2
@@ -1819,7 +1908,8 @@ SHOPPING: Selkath Merchant
   - You don't have to move her if you were positioned correctly when you made this save
 - [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) back to Tomb of Naga Sadow via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 1
 - Activate Solo Mode
-- *Stims/Force: Cast Master Speed and Master Valor, Hyper Strength and Hyper Battle Stim on MC*
+- *Force: Cast Master Speed and Master Valor*
+  - Your stims should still be active as well; if not, you can do without
 - [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the Star Map CS
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
   - Swap to Juhani and move towards the door to trigger the Star Map CS
@@ -1830,6 +1920,7 @@ SHOPPING: Selkath Merchant
 - Yuthura accosts you: 1
 - Defeat Yuthura and spare her: 3,2
   - ***Finishes "The Way of the Sith"***
+- *Stims/Force: Cast Master Valor, use Hyper Strength and Hyper Battle Stimulant on MC*
 - [Fast Lane](<../Major Glitches/Fast Lane>) via Slot 1 to RtEH
 - *Force: Cast Master Speed before the Xor CS*
 - Kill Xor, then kill his minions
@@ -1897,7 +1988,7 @@ SHOPPING: Selkath Merchant
 *There are three ways to approach the temple.  They're listed here in order of speed.*
 
 ***Strat 1: Summit First***
-- *This strategy is the fastest of the three, but [Summit DLZ](<../Major Glitches/Displaced Load Zone#temple-summit-dlz>) is one of the most challenging [DLZs](<../Major Glitches/Displaced Load Zone) in the game.*
+- *This strategy is the fastest of the three, but [Summit DLZ](<../Major Glitches/Displaced Load Zone#temple-summit-dlz>) is one of the most challenging [DLZs](<../Major Glitches/Displaced Load Zone>) in the game.*
   - **Hard Save in Slot 1**
   - Perform [Summit DLZ](<../Major Glitches/Displaced Load Zone#temple-summit-dlz>)
   - Re-enable V-Sync and Activate Solo Mode
@@ -2166,11 +2257,23 @@ This is a list of all the quests in the game, as well as the alignment we comple
 
 ## Version History
 
+**v4.2 (June 2024)**
+- Removes the second Inventory Dupe
+- Tweaks and improves the stim route to account for removing the dupe
+- Removes the Yuthura XP Exploit by leaving Kashyyyk with a Fast Lane
+- Tweaks the save route to accommodate the Kashyyyk Fast Lane
+- Skips the Hideout Footlocker and uses Largo's random footlocker instead
+- Tweaks the spike route to account for both outcomes from Largo's Footlocker and implement backups
+- Rewrite the Credit Route section to explain optional and conditional purchases
+- Rewrite the Character Build section to explain Auto-Level Attribute Points
+- Level 8 is now an optional Manual Level to obtain 21 Strength early
+- Other minor fixes and corrections
+
 **v4.1 (May 2024)**
 - Implements Neo Hotshots into the route in nearly all places
 - Moves Ahto West cleanup to Korriban to enable a Coordinate Warp
 - Adds a Neo Hotshot to Hrakert Station
-- Go to Ahto West first in Manaan 1
+- Goes to Ahto West first in Manaan 1
 - Other minor route changes
 
 **v4.0 (January 2023)**
