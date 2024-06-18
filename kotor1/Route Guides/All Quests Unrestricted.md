@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic - All Quests Unrestricted Guide 
 
-### v4.1: Male Scoundrel -> Jedi Guardian Route
+### v4.2: Male Scoundrel -> Jedi Guardian Route
 
 *Route by [indykenobi](https://www.speedrun.com/users/indykenobi), with help from [R4NG3](https://www.speedrun.com/users/R4NG3) and [ChaosDrifting](https://www.speedrun.com/users/ChaosDrifting)*
 
@@ -22,6 +22,8 @@ If you need assistance with the glitches used in the game, I recommend the [Glit
 - [Equipment Plan](#equipment-plan)
   - [Weapons Used](#weapons-used)
 - [Credit Route](#credit-route)
+  - [Computer Spike Route](#computer-spike-route)
+  - [Optional Transactions](#optional-transactions)
 - [Route Overview](#route-overview)
   - [Planet Route](#planet-route)
   - [Route Outline](#route-outline)
@@ -97,23 +99,37 @@ Weapon Focus: Melee Weapons gives us a +1 on our combat rolls with melee weapons
 
 It is important to note that, due to the side effects of [Hotshots](<../Major Glitches/Hotshot>), our character frequently reverts to a previous level.  Hence our main level benchmarks are level 2 on Taris, level 5 leaving Dantooine, level 7 starting Leviathan, and level 9 on Korriban.  We have to hit level 9 to complete Juhani's quest "Threat from Xor", but we make use of Yuthura's experience exploit to help us get there. 
 
-| Level | Feats | Powers | Skills |
-| --- | :--- | :--- | :--- |
-| 1 | Weapon Focus: Melee Weapons | | Per to 4, Sec to 4, Save 4 |
-| FLU (17) | Master Two-Weapon Fighting, *Sneak Attack IX* | | Per to 10 |
-| 3 | Medium Armor Proficiency | Force Valor, Affect Mind | Save All |
-| FLU (20) | Master Critical Strike | Master Speed | Per to 12 |
-| FLU (15) | Weapon Focus: Lightsaber | Master Valor | Per to 14 |
-| 6-9 | Auto-Level | | |
+| Level | STR | Feats | Powers | Skills |
+| --- | --- | :--- | :--- | :--- |
+| 1 | 18 | Weapon Focus: Melee Weapons | | Per to 4, Sec to 4, Save 4 |
+| FLU (17) | 18 | Master Two-Weapon Fighting, *Sneak Attack IX* | | Per to 10 |
+| 3 | 18 | Medium Armor Proficiency | Force Valor, Affect Mind | Save All |
+| FLU (20) | 19 | Master Critical Strike | Master Speed | Per to 12 |
+| FLU (15) | 19 | Weapon Focus: Lightsaber | Master Valor | Per to 14 |
+| Auto 6 | 20 | | | |
+| Auto 7 | 20 | | | |
+| Optional 8 | 20 or 21 | Weapon Spec: Lightsaber | Recommended | Save All |
+| Auto 9 | 20 or 21 | | | |
+| Auto 10 | 21 or 22 | | | |
+
+**Optional Level 8:**
+
+- We start at 18 STR and become a Jedi at level 3.  However, when Auto-Leveling, the game looks at your current class level to determine when you get an Attribute point.  Hence the Auto-Levels at 6 and 10 each give a point in STR (Jedi levels 4 and 8 respectively).
+- The level listed at Level 8 is an optional Manual Level.  Manually leveling here gives us our usual attribute point, allowing us to hit 21 STR at level 8 instead of waiting to level 10.  We can also get Weapon Spec: Lightsaber for +2 damage on our 3 saber hits per round.  In total, this gives +1 Atk and +3 saber damage for all of the endgame.  However, we are already quite overpowered, and it's 4-5s faster to Auto-Level at 8.
+- If you are planning on forcing level 10 (see below), it's recommended to Auto-Level at 8.  If not, either choice is reasonable but Manual Level 8 makes the final Malak fight slightly more consistent if you don't hit level 10 (you want at least 21 STR for that fight).
+
+**FLU Notes:**
 
 There are multiple [FLUs](<../Major Glitches/Fake Level Up>) in the five levels we do manually:
 - At Level 2, we do the [Sneak Attack FLU](<../Major Glitches/Fake Level Up#sneak-attack-flu>) to get Sneak Attack IX and Master Two-Weapon Fighting, as well as 10 Persuade.
 - At Level 4, we do the [Master Speed FLU](<../Major Glitches/Fake Level Up#master-speed-flu>) to get Master Critical Strike and Master Speed, and bump our Persuade to 12.
 - At Level 5, we do the [Master Valor FLU](<../Major Glitches/Fake Level Up#master-valor-flu>) to get Weapon Focus: Lightsaber and Master Valor, and bump our Persuade to 14.
+  
+**Additional Notes:**
 
-Additional Notes:
+- We are not guaranteed to hit level 10 in the run, but it's close, so extra kills in the right places can ensure it.  The two easiest extra kills are a Horned Kath Hound via Force Jump when moving to the Sandral Grounds, and any extra Mandalorians in the Lower Shadowlands (only two are required).
 - We choose Master Critical Strike over Master Flurry because our weapons have a high base chance to crit, so the damage potential is higher with Critical Strike despite getting one fewer attack per round.
-- Another reason to choose Critical Strike over Flurry is our relatively low chance to hit.  Even with Master Two-Weapon Fighting and both Weapon Focuses, we have a lower chance to hit due to our persistently low level.  Avoiding the to-hit penalty of Flurry is important in this context.
+- Another reason to choose Critical Strike over Flurry is our relatively low chance to hit.  Even with Master Two-Weapon Fighting and both Weapon Focuses, we have a lower chance to hit due to our persistently low level.  Avoiding the to-hit penalty of Flurry is somewhat important in this context.
 - Our Force Powers are fairly straightforward; Affect Mind is actually skippable, but it does have minor benefits and selecting it keeps our Force Power menus as clean as possible.
 - 14 Persuade, 10 Charisma, and Master Valor are enough to guarantee all Persuade checks for the entire run, since we max out at level 9 or 10.
 
@@ -161,36 +177,86 @@ Overall the credit route is quite lenient; there are at least 1000 credits extra
 
 **1. Larrim on Taris (Credit Underflow)**
 - *Sell*: 2 Vibroblades, Ion Blaster
-- *Buy*: Vibrosword, Vibroblade, Confirm Vibrosword (-76 Credits left)
-- *Optional Buy*: Battle Stimulant (110 Credits)
+- *Buy*: Vibrosword, Vibroblade, Confirm Vibrosword
+- *Optional Buy*: Battle Stimulant
 
 **2. Zelka Forn on Taris**
-- *Buy*: 6x Adrenal Alacrity, 7x Adrenal Strength (-726 Credits left)
+- *Buy*: 6x Adrenal Alacrity, 7x Adrenal Strength
 
 **3. Igear on Taris**
-- *Buy*: Vibration Cell (212 Credits left)
+- *Buy*: Vibration Cell
 
 **4. Janice Nall on Taris**
-- *Keep*: All Computer Spikes, 13 parts, 1 Strength Gauntlets, 1 Adrenaline Amplifier, All Stims, 1 Energy Projector, 1 Durasteel Bonding Alloy, 1 Vibration Cell
-- *Sell*: Everything Else (11940 Credits left)
+- *Conditional Sell*: 1 Computer Spike (if you have 12 to begin with)
+- *Sell*: Parts down to 13, All Equipment Except 1 Strength Gauntlets and 1 Adrenaline Amplifier
+- *Optional Sell*: All Medpacs, Antidote Kits, Security Spikes, Computer Spikes down to 11, and Upgrades except 1 each of Durasteel Bonding Alloy, Vibration Cell, Energy Projector
 
 **5. Crattis Yurkal on Dantooine**
-- *Buy*: Sanasiki's Blade, Breath Mask, +/-3, +/-5 (4640 Credits left)
+- *Buy*: Sanasiki's Blade, Breath Mask, +/-3, +/-5 Pazaak Cards
 
 **6. Eli Gand on Kashyyyk**
-- *Buy*: Hyper Battle Stimulant, Hyper-Adrenal Strength (5940 Credits left)
+- *Optional Buy*: Hyper Battle Stimulant, Hyper-Adrenal Strength
 
 **7. Mic'Tunan'Jus Orgu on Tatooine**
-- *Buy*: Bantha Fodder (5939 Credits left)
+- *Buy*: Bantha Fodder
 
 **8. Junix Nard on Tatooine**
 - *Buy*: All Paazak Cards
-- *Note*: The fastest way to do this also involves buying the Hair Trigger that's in the middle, which we can and do afford (3969 Credits left)
+- *Optional Buy*: Hair Trigger
+- *Note*: The fastest way to do this menu includes buying the Hair Trigger, which we can usually afford
 
 **9. Selkath Merchant on Manaan**
-- *Buy*: 5x Hyper Battle Stimulant, 5x Hyper Adrenal Strength (2219 Credits left)
+- *Conditional Buy:* 2x Computer Spikes (if you have no spikes)
+- *Buy*: 5x Hyper Battle Stimulant, 5x Hyper Adrenal Strength
 
 Our main source of credits is selling items to Janice, which is most of our twice-duplicated inventory.  We also use credits from quest rewards, particularly the Taris Duel Ring, Dantooine sidequests and the Manaan Swoop Races.
+
+### Computer Spike Route
+
+The current route requires 11 Computer Spikes for hacking.  We get 3 from the Governor's strongbox, which are then duplicated twice via a [Full Inventory Dupe](<../Techniques/Item Duplication#via-anywhere-menu-glitch>), yielding 9 spikes.  We have three other ways to obtain the rest of the spikes:
+- Largo's Footlocker (ideal)
+- Chewed Twi'lek Corpse
+- Purchase from Selkath Merchant
+
+**Largo's Footlocker:** 
+
+The current route relies on one random set of loot from Largo's footlocker.  There are four things that can appear in this footlocker:
+- 0-20 Credits
+- Computer Spike
+- Parts
+- Medpac
+
+The medpac and the small amount of credits are mostly irrelevant.  Getting the Parts yields 3 extras to sell to Janice for +240 credits. The ideal outcome is getting both the Computer Spike and the Parts, but there are contingencies to handle all outcomes.
+
+Getting the Computer Spike from the footlocker means you have 4 instead of 3 when you [Full Inventory Dupe](<../Techniques/Item Duplication#via-anywhere-menu-glitch>), so that you have 12 when you reach Janice.  This lets us sell 1 for +100 Credits, and keep the other 11 for hacking purposes.
+
+**Backups:**
+
+If you don't get the Computer Spike, you won't sell any to Janice, and have a second shot at a random Computer Spike drop from the Chewed Twi'lek Corpse in the Krayt Dragon cave (this holds the Nerve Amplifier Belt).  If you get 2 or more spikes from there, you don't need to buy any.  But if you don't, you'll need to buy 2 spikes from the Selkath Merchant when you buy the Hyper Stimulants.  This costs 500 extra credits, but thankfully we've already passed the chokepoint for the credit route (needing 500 credits to loan to Queedle), so this doesn't stress the credit route at all.
+
+### Optional Transactions
+
+Each optional transaction can make certain aspects of the run more consistent, but none are required and most lose a little time to do.
+
+**1. Larrim's Battle Stimulant**
+- This can be used before the Bendak Starkiller fight to slightly increase both your chances to hit him and your chances to survive a hit if things go wrong.
+- It costs roughly 5 seconds, since you need to talk to Larrim again, scroll to the bottom of his list, and purchase the stim.
+
+**2. Extra Selling to Janice**
+- Selling the medpacs, antidote kits, security spikes, and extra upgrades gives +1196 Credits, making the rest of the credit route extremely lenient and cleaning up some item menus.
+- This costs about 8 seconds, since there's roughly 40 extra low-price items to sell.  It's recommended only if you're buying all optional stims and didn't get a spare Parts from Largo's Footlocker, and even then there may be better backups.
+
+**3. Eli Gand's Stims**
+- The Hyper Battle Stimulant and Hyper Strength from Eli adds +3 to your attack rolls vs. the Mandalorians in the Lower Shadowlands over the default option (just a basic Strength stim).  The Mandalorian Commander in particular can be inconsistent to hit.
+- This costs 6-8 seconds, since you don't have to talk to Eli at all your first time through and the stims are at the bottom of the menu.
+
+**4. Junix Nard's Hair Trigger**
+- The Hair Trigger, for some reason, is inbetween the +/-1 and +/-2 Pazaak Cards in Junix Nard's inventory.  Buying the Hair Trigger means you can just spam enter a bunch, smoothing the menu out.  We will never use the Hair Trigger.
+- Skipping the Hair Trigger probably costs about a second but saves 150 credits, and is only suggested if you bought Eli's stims and didn't get a spare Parts from Largo's footlocker.
+
+**5. Furko Nellis's Deck and Manaan's Docking Fee**
+- These are both 100 credits each, but avoiding them changes their conversations from mashing 1 to slightly more complicated versions.  You can Persaude Furko and use Affect Mind on the Selkath Port Authority.
+- These are recommended only if you bought Eli's stims and didn't get a spare Parts from Largo's footlocker.  Skipping the Manaan Docking Fee can also be useful to compensate for losing up to 2 games of Pazaak to Furko Nellis in no-reset contexts, but only if you're not already relying on having those credits.
 
 ## Route Overview
 
