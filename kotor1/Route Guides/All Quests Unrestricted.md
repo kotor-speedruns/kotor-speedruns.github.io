@@ -232,7 +232,7 @@ Getting the Computer Spike from the footlocker means you have 4 instead of 3 whe
 
 **Backups:**
 
-If you don't get the Computer Spike, you won't sell any to Janice, and have a second shot at a random Computer Spike drop from the Chewed Twi'lek Corpse in the Krayt Dragon cave (this holds the Nerve Amplifier Belt).  If you get 2 or more spikes from there, you don't need to buy any.  But if you don't, you'll need to buy 2 spikes from the Selkath Merchant when you buy the Hyper Stimulants.  This costs 500 extra credits, but thankfully we've already passed the chokepoint for the credit route (needing 500 credits to loan to Queedle), so this doesn't stress the credit route at all.
+If you don't get the Computer Spike, you won't sell any to Janice, and have a second shot at a random Computer Spike drop from the Chewed Twi'lek Corpse in the Krayt Dragon cave (this holds the Nerve Amplifier Belt).  If you get 2 or more spikes from there, you don't need to buy any.  But if you don't, you'll need to buy 2 spikes from the Selkath Merchant when you buy the Hyper Stimulants. This costs 500 extra credits, but thankfully we've already passed the chokepoint for the credit route (needing 500 credits to loan to Queedle), so this doesn't stress the credit route at all.
 
 ### Optional Transactions
 
@@ -276,7 +276,6 @@ Other planet route notes:
 - Korriban does not require two visits if you get its Star Map last, since then you can do the Premium Merchant quest at that time. The Premium Merchant quest is only available after the Leviathan.
 - Kashyyyk could be done in one visit if done after Manaan 1; however, skipping Rulan lets us reach the Lower Shadowlands more quickly, and there is a convenient [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to go back for Rulan from the Manaan Sith Base.  It also streamlines the "Sunry Murder Trial" questline on Manaan to have Jolee for Manaan 1.
 - Tatooine could be done in one visit if done after Manaan 1; however, it is faster to visit Senni Vek on Tatooine, even though we do Kashyyyk first.  Senni Vek is quite out of the way on Kashyyyk.
-
 
 ### Route Outline
 
