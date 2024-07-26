@@ -87,7 +87,7 @@ We choose Flurry because it's an overall better combat feat for the run; more at
 | 2 | 18 | Two-Weapon Fighting | | Save All |
 | 3 | 18 | *Sneak Attack II* | | Save All |
 | 4 | 19 | Improved Two-Weapon Fighting | Affect Mind, Stun Droid | Save All |
-| 5 | 19 | Force Valor | Save All |
+| 5 | 19 | | Force Valor | Save All |
 | 6 | 19 | Improved Flurry | Burst of Speed | Per to 9, TI to 9 |
 | AL7 | 20 | | *Stun* | *Awareness to 1* |
 | 8 | 21 | | Disable Droid | Per to 10 |
