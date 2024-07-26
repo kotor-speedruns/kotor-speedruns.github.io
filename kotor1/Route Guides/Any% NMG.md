@@ -102,7 +102,7 @@ Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flu
 
 **Skill notes:**
 - We only need 1 point in Demolitions, since all of our Jedi Mine Tricks happen outside of combat.
-- We only need 1 point in Stealth for the 
+- We only need 1 point in Stealth for the belt, and 1 point in Security to open one door on the Endar Spire.
 - We need Persuade for several conversations:
   1. On Dantooine, we must Persuade Juhani to return to the Jedi.
   2. On Manaan, we must Persuade the scared scientists to lower the force field.
