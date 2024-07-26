@@ -1235,6 +1235,13 @@ SHOPPING: Czerka Shop
 
 ## Version History
 
+**v5.0 (July 2024)**
+- New build using Scoundrel/TWF/Flurry, as well as Auto-Level Attribute Points.
+- Added several new skips using Jedi Mine Trick.
+- New consistent Krayt Skip using JMT variant.
+- Mostly new credit route, shopping, and stim usage for the new build.
+- New streamlined alignment route that places Solari after Lehon.
+
 **v4.3 (May 2022)**
 - Added Zelka back in as an optional shopping trip for beginners or marathons.
 - Miscellaneous minor fixes and corrections.
