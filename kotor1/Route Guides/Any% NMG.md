@@ -4,7 +4,7 @@ redirect_from:
 ---
 # Star Wars: Knights of the Old Republic - Any% No Major Glitches Guide
 
-### v4.3: Male/Female Scout -> Jedi Guardian Route (Light Side)
+### v5.0: Male/Female Scout -> Jedi Guardian Route (Light Side)
 
 This route defeats Malak on the Star Forge as fast as possible without major glitches.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.   This guide will cover the character build for the run, as well as a detailed route.
 
@@ -52,82 +52,84 @@ These glitches and tricks are allowed:
 
 ### Character Creation
 
-We begin as a Scout; this guide as written can be completed as either a Male or Female character, but Male has the small advantage of an easier time sparing Bastila on the Star Forge with successful Persuade checks.  
+We begin as a Scoundrel; this guide as written can be completed as either a Male or Female character, but Male has the small advantage of an easier time with Persuade checks on Lashowe and Bastila.  
 
-Scout is used because it is guaranteed an Adrenal Alacrity in the initial footlocker on Endar Spire, which saves 12 seconds by enabling us to run faster earlier on Taris, and skip shopping with Zelka.  On becoming a Jedi we'll choose the Jedi Guardian class for maximum attack power, the Force Jump feat, and since we no longer need any skill points.
+Scoundrel is used because of access to Sneak Attack (plus a small defense bonus from Scoundrel's Luck).  Even though we only get Sneak Attack II, it helps significantly on some important fights.  On becoming a Jedi we'll choose the Jedi Guardian class for maximum attack power, the Force Jump feat, and since we no longer need any skill points.
 
 **Initial Attributes:**
 * Str - 18
-* Dex - 14
+* Dex - 12
 * Con - 14
-* Int - 10
+* Int - 8
 * Wis - 8
-* Cha - 8
+* Cha - 12
 
 **Initial Skills:**
-* Computer Use - 4
+* Demolitions - 1
+* Stealth - 1
+* Persuade - 4
 * Security - 1
-* Treat Injury - 4
-* Save 2 points
+* Save 5 points
 
-**Initial Feat** - Weapon Focus: Melee Weapons
+**Initial Feat** - Flurry
 
-We are going to focus on melee attacks with a lightsaber, so we max out Strength immediately, and get enough Dexterity and Constitution to help us survive.  The final two points are put into Intelligence; that plus the 4 points in Computer Use saves us 1 computer spike for every hacking action, which is essential for our spike route on Taris.
+We are going to focus on melee attacks with a lightsaber, so we max out Strength immediately, and get enough Dexterity and Constitution to help us survive.  The 12 points in Charisma ensure all Persuade checks will succeed without the need for Force Valor; if you really wanted to, you could do 14 Dex and 10 Cha at the cost of needing Force Valor before key Persuade checks with Yuthura, Lashowe, and Bastila.
 
-Besides Computer Use, Treat Injury (TI) will be our secondary skill, with Persuade the main skill; however since Persuade is not a Class Skill for Scouts, we'll save points to put into Persuade once we become a Jedi.  The point in Security is for a door on the Endar Spire and serves no other purpose, but does save a few seconds.
+We sink as many points as we can into Persuade at the start, and the points in both Demolitions and Security are strictly for tricks; 1 point in Demolitions enables the MC to perform Jedi Mine Tricks, while the point in Security is for a door on the Endar Spire.  The point in Stealth guarantees a Stealth Field Generator in the initial footlocker, which we sell for 40 additional credits in the early game.  We do not put points in Treat Injury (TI) because it is not a class skill for Scoundrels, but we will put points in once we become a Jedi Guardian.
 
-We choose Weapon Focus: Melee for the attack boost on Taris, in particular the fights in the Sith Base.  We choose it over Two-Weapon Fighting because it takes longer to select, so at level 2 it's faster to pick Two-Weapon Fighting.  Since character creation isn't timed, this is optimal.
+We choose Flurry because it's an overall better combat feat for the run; more attacks per round yields more bonus damage from Sneak Attacks.  This build must forgo Weapon Focus: Melee Weapons, but this only matters on Taris and doesn't hurt our chances to hit too much.  We choose Flurry over Two-Weapon Fighting because it takes longer to select, so at level 2 it's faster to pick Two-Weapon Fighting.  Since character creation isn't timed, this is optimal.
 
 ### Leveling Plan
 
-| Level | Feats | Powers | Skills |
-| --- | :--- | :--- | :--- |
-| 1 | Weapon Focus: Melee Weapons, *Flurry* | | Com to 4, Sec to 1, TI to 4, Save 2 |
-| 2 | Two-Weapon Fighting | | Save All |
-| 3 | Empathy | | TI to 6, Save Rest |
-| 4 | Improved Two-Weapon Fighting | Burst of Speed, Force Valor | Save All |
-| 5 | | Affect Mind | Save All |
-| 6 | Improved Flurry | Dominate Mind | Per to 9 |
-| 7 | | Stun Droid | Per to 10 |
-| 8 | | Disable Droid | Per to 11 |
-| 9 | Master Two-Weapon Fighting | Knight Speed | Per to 12 |
-| 10 | Master Flurry | Knight Valor | Per to 13 |
+| Level | STR | Feats | Powers | Skills |
+| --- | --- | :--- | :--- | :--- |
+| 1 | 18 | Flurry, *Sneak Attack I, Scoundrel's Luck* | | Demo to 1, Stl to 1, Per to 4, Sec to 1, Save 5 |
+| 2 | 18 | Two-Weapon Fighting | | Save All |
+| 3 | 18 | *Sneak Attack II* | | Save All |
+| 4 | 19 | Improved Two-Weapon Fighting | Affect Mind, Stun Droid | Save All |
+| 5 | 19 | Force Valor | Save All |
+| 6 | 19 | Improved Flurry | Burst of Speed | Per to 9, TI to 9 |
+| AL7 | 20 | | *Stun* | *Awareness to 1* |
+| 8 | 21 | | Disable Droid | Per to 10 |
+| 9 | 21 | Master Two-Weapon Fighting | Knight Speed | Per to 11 |
+| 10 | 21 | Master Flurry | Knight Valor | Per to 12 |
+| AL11 | 22 | | *Stasis* | *Awareness to 2* |
 
 Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flurry, and Knight Speed, using Bastila's Double-bladed Lightsaber as our main weapon.  This gives us multiple attacks that will deal as much damage as possible; we need as many attacks as we can get, since our chance to hit will be relatively low.  We are not guaranteed to hit level 11 in the run, but if we do it's best to just Auto-Level to get the +1 Attack bonus; we don't really need any additional skills or Force Powers at that point.  Other notes:
 
+**Auto-Level Attributes:**
+- When Auto-Leveling the MC, the game only checks your Jedi class level when deciding whether to give an attribute point, rather than your overall character level.  That means you can use Auto-Leveling to gain extra points in STR at Jedi levels 4 and 8, which correspond to character levels 7 and 11.  This is why we Auto-Level at 7 and 11, making it to 22 base STR at level 11.
+
 **Skill notes:**
-- After the initial 4 points in Computer Use, we don't put any additional points in.  We would need to reach 8 to save additional spikes, and we don't have the skill points to spare.
-- We need Persuade for four conversations:
+- We only need 1 point in Demolitions, since all of our Jedi Mine Tricks happen outside of combat.
+- We only need 1 point in Stealth for the 
+- We need Persuade for several conversations:
   1. On Dantooine, we must Persuade Juhani to return to the Jedi.
-  2. On Korriban, we must Persuade Shaardan to spare the hopefuls for Light Side points (LSP).
+  2. On Manaan, we must Persuade the scared scientists to lower the force field.
   3. On Korriban, we must Persuade Yuthura to allow us to enter the academy.
-  4. On Korriban, we must Persuade Kel Alghwin to disclose his doubts to us.
-- The rest is put into Treat Injury to make our medpac use more efficient.
+  4. On Korriban, we must Persuade Lashowe to ally with us in pursuit of the holocron.
+  5. On Korriban, we must Persuade Kel Algwinn to disclose his doubts to us.
+  6. On Kashyyyk, we must Persuade the Czerka guards to disclose the codes to the sonic emitters.
+- The rest is put into Treat Injury once we are a Jedi to make our medpac use more efficient.
 
 **Feat notes:**
-- Weapon Focus: Melee Weapons only gives us an attack boost on Taris, but that's where most of our fighting occurs, so it's a worthwhile feat to take.
-- Empathy is chosen since there aren't other good feats at level 3, and it gives +1 to TI and +1 to Persuade, our two most important skills.
-- Flurry and Two-Weapon Fighting are our main combat core.
+- Flurry outdoes Critical Strike in the overall run by about 3 combat rounds on average.  The extra attack from Flurry yields more damage in general, but also more Sneak Attack damage when relevant.
+- Flurry and Two-Weapon Fighting are our main combat core.  Taking Flurry forces us to skip Weapon Focus: Melee Weapons on Taris, but overall this is better.
 
 **Force Power notes:**
-- Force Speed is the most important Force power, giving double movement speed, although [Save Teleports](<../Techniques/Save Teleporting>) are eventually the fastest form of movement.  Knight Speed also grants +1 attack per round, which is highly important due to our relatively low chance to hit.
-- Force Valor is used on Korriban to increase chances of a successful Persuade on Yuthura, as well as to boost stats for as many fights as possible.  Knight Valor also gives us Immunity: Poison, which protects against Affliction and Plague on the Star Forge.
+- Force Speed is the most important Force power, giving double movement speed, although [Save Teleports](<../Techniques/Save Teleporting>) are eventually the fastest form of movement.  Knight Speed also grants +1 attack per round, which is highly important due to our relatively low chance to hit, and to maximize Sneak Attack damage bonus.
+- Force Valor is used to boost stats for as many fights as possible.  Knight Valor also gives us Immunity: Poison, which protects against Affliction and Plague on the Star Forge.
 - Disable Droid is used to free the Captured Jedi during the Malak fight at the end of the game.  This denies them to Malak, meaning you only have to kill him twice.  It also fills up your Force Points as well, though not your health.
-- Affect and Dominate Mind are used for the following:
-  1. Avoiding landing fees on Manaan, Tatooine, and Kashyyyk.
-  2. Persuading Lashowe to assist us in finding the holocron.
-  3. Persuading the Czerka guards in the Upper Shadowlands to give up the emitter codes.
+- Affect Mind is used only to avoid landing fees on Manaan, Tatooine, and Kashyyyk.  This lets us afford 2 extra Life Support Packs, plus we don't really need the extra Force Power for anything else.
+- The Auto-Level granted powers Stun and Stasis aren't used by MC, but will be used by Bastila and Jolee...
 
 ## Equipment Plan
-
-**Implant: None**
-- While we used to use the Nerve Enhancement Package for Immunity: Mind-Affecting, skipping Zelka means it's more convenient to nab the Nerve Amplifier Belt for that purpose.  The other implants we obtain are sold for significant and important credits.
 
 **Head: Verpine Headband** - Found on Dantooine, Casus Sandral's corpse
 - This is the most convenient mask to grab, giving +3 to our Will save, which is our weakest.
 
 **Gloves: Strength Enhancer** - Found on Taris, Sith Governor's corpse
-- This is used for the +1 Strength; from levels 4 through 7, it nets us an extra +1 modifier, which helps for the fight against Lashowe.
+- This is used for the +1 Strength, which nets us an extra +1 STR modifier for every relevant fight except the Triple Sith entire run (thanks to Auto-Level Attributes).
 
 **Body: Jedi Knight Robe** - Found on Dantooine, Nemo's remains
 - We want to wear robes to allow us to cast our Force powers, and this is the most convenient robe to grab, since we loot Nemo anyway for the Sigil crystal.
@@ -136,37 +138,42 @@ Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flu
 - We borrow Bastila's lightsaber for the run (and probably give it back afterwards).  The crystals we use are as follows:
   - Sigil Crystal: Placed after Tatooine, used for +1 Attack
   - Opila Crystal: The only other convenient crystal on our route.  The damage boost and massive critical hits makes it worthwhile.  Placed after Tatooine.
-  - Solari Crystal: The best crystal in the game and the reason we try to stay Light-aligned (see below).  Replaces Opila after Korriban.
+  - Solari Crystal: The best crystal in the game and the reason we try to eventually be Light-aligned (see below).  Replaces Opila after Lehon.
 
 **Belt: Nerve Amplifier Belt** - Found on Tatooine, Chewed Twi'lek corpse
-- Skipping the CNS belt streamlines the credit route and lets us skip the strongbox in the Vulkar Garage, saving about a minute at the expense of slightly worse combat.  The Nerve Amplifier Belt is a convenient replacement that preserves Immunity: Mind-Affecting and lets us skip Zelka on Taris for a little further timesave.
+- The Nerve Amplifier Belt is a convenient belt that gives the essential Immunity: Mind-Affecting.  We don't have the credits to afford the CNS Strength Enhancer in this run, and this is the next best alternative.
 
 All of our equipment should be equipped once we leave Tatooine, with the exception of the Solari crystal which is placed after Korriban.  We'll also use the Combat Suit, Prototype Vibroblade and a basic Vibroblade while on Taris.
 
 ## Credit Route
 
-By skipping the CNS Strength Enhancer, we can concentrate all of our shopping into 3 to 5 trips, depending on how many safe strats we decide to use:
+The new credit route always has exactly three shopping trips.  Our credits all come from either selling items we don't need or looting credits; we also loot some extra corpses to be able to afford all the stims we want on Korriban.
 
 **1. Larrim on Taris**
-- Sell: Nonessential items to reach ~1182 Credits
-- Buy: 2 Concussion Grenades, 1 Frag Grenade, 1 Battle Stimulant (374 Credits)
+- Sell: Nonessential items to reach ~926 Credits
+- Buy: 2 Concussion Grenades, 1 Battle Stimulant, 4x Minor Mines (200 Credits Left)
 
-**2. Zelka on Taris**
-- ***Optional***: Buy 3x Adrenal Alacrity (150 Credits)
+**2a. Zelka on Taris**
+- Buy: 3x Adrenal Alacrity (50 Credits Left)
 
-**3. Selkath Merchant on Manaan**
-- Buy: Advanced Medpac, Hyper Battle Stimulant, Hyper Adrenal Strength (380 Credits total)
-- Buy: Hyper Adrenal Alacrity **only** if you did not shop with Zelka (100 Credits)
-- ***Optional:*** Buy a second Hyper Battle Stimulant and second Hyper Adrenal Strength if you are *not* doing Krayt Skip (300 Credits)
+**2b. Crattis Yurkal on Dantooine**
+- Buy: 2x Adrenal Alacrity
 
-**4. Mic'Tunan'Jus Orgu on Tatooine**
-- ***Optional***: Buy Bantha Fodder **only** if you are *not* doing Krayt Skip (1 Credit)
+**2c. Selkath Merchant on Manaan**
+- Buy: 1x Adrenal Alacrity
 
-**5. Czerka Shop on Korriban**
-- Sell: Nonessential items to reach ~4200 Credits
-- Buy: 20x Advanced Medpac, 5x Echani Battle Stimulant, 5x All Hyper Adrenal Stims (4100 Credits total)
+**3. Czerka Shop on Korriban**
+- Sell: Nonessential items to reach ~3578 Credits
+- Buy: 7ish Life Support Pack, 5x Echani Battle Stimulant, 5x All Hyper Adrenal Stims (28 Credits Left)
 
-Our credits all come from selling items we don't need, though we do loot some extra corpses to be able to afford all the stims we want on Korriban. The Selkath Merchant on Manaan is useful for the Adrenal Alacrity for the underwater segment, since we would normally skip Zelka.  The other stims are for the second phase of Leviathan Malak and the Sand People fight (if not doing Krayt Skip).
+The second shopping trip depends on whether or not you get a random Alacrity drop on the Endar Spire (possible when recruiting Trask):
+
+- With no Spire Alacrity: Shop with Zelka, skip Dantooine and Manaan
+- With a Spire Alacrity but no other random Alacrity on Taris: Skip Zelka, Shop at Dantooine, Skip Manaan
+- With a Spire Alacrity AND one other random Alacrity on Taris: Skip Zelka and Dantooine, Shop on Manaan
+- It is vanishingly unlikely to get a Spire Alacrity and two other random Alacrities on Taris, but if you do you can skip all three shopping trips
+
+The chance of a random Spire Alacrity is extremely low, so 99 times out of 100 you'll be shopping with Zelka.
 
 ## Alignment Route
 
@@ -177,36 +184,28 @@ Here is the alignment route used in the run:
 | Aligned | Action | Type | Delta | New |
 | --- | :--- | :--- | --- | --- |
 | Neutral | Game Start | -- | 50 | 50 |
-| Neutral | Rescue merchant from bounty hunters | Low Light | +2 | 52 |
-| Neutral | Give merchant credits to pay his debt | Mid Light | +4 | 56 |
-| Neutral | Save the alien informant | Low Light | +2 | 58 |
-| Neutral | Agree to kill Gadon Thek | Low Dark | -2 | 56 |
-| Neutral | Threaten Janice Nall to get T3-M4 | Mid Dark | -4 | 52 |
-| Neutral | Tell Shaardan not to kill the hopefuls | Low Light | +2 | 54 |
-| Neutral | Try to Persuade Shaardan to spare the hopefuls | Low Light | +2 | 56 |
-| Neutral | Succeed in Persuading Shaardan | Hardcoded | +3 | 59 |
-| Neutral | Persuade Yuthura to admit you to the academy | Low Dark | -2 | 57 |
-| Neutral | Persuade Sith Thugs to leave you alone | Mid Light | +4 | 61 |
-| Light | Snitch on Kel Algwinn to Uthar Wynn | Hardcoded | -5 | 56 |
-| Neutral | Spare Yuthura Ban | Mid Light | +4 | 60 |
-| Light |  | Low Light | +2 | 62 |
-| Light | Stay true to the Light Side on Lehon | High Light | 4 | 66 |
-| Light |  | Highest Light | 5 | 71 |
+| Neutral | Save the alien informant | Low Light | +2 | 52 |
+| Neutral | Agree to kill Gadon Thek | Low Dark | -2 | 50 |
+| Neutral | Threaten Janice Nall to get T3-M4 | Mid Dark | -4 | 46 |
+| Neutral | Persuade Yuthura to admit you to the academy | Low Dark | -2 | 44 |
+| Neutral | Snitch on Kel Algwinn to Uthar Wynn | Hardcoded | -5 | 39 |
+| Dark | Spare Yuthura Ban | Mid Light | +6 | 45 |
+| Neutral |  | Low Light | +2 | 47 |
+| Neutral | Stay true to the Light Side on Lehon | High Light | +6 | 53 |
+| Neutral |  | Highest Light | 10 | 63 |
 
-*Snitching on Kel Algwinn is for some reason hardcoded to always give -5 alignment; similarly, rescuing the hopefuls from Shaardan is hardcoded to give +3 alignment.*
+*Snitching on Kel Algwinn is for some reason hardcoded to always give -5 alignment.*
 
-There are two important points in this route:
-1. We must be at 60 alignment or higher (the boundary between Neutral and Light) in order to equip any Light Side restricted equipment.  The Solari crystal is Light Side restricted, as well as being ridiculously good.  So we need to be at 60 alignment by the time we place the Solari Crystal (after Korriban) and stay there in order to keep our lightsaber equipped.
+The only relevance of alignment in the run is equipping the Solari Crystal.  We must be at 60 alignment or higher (the boundary between Neutral and Light) in order to equip any Light Side restricted equipment.  The Solari crystal is Light Side restricted, as well as being extremely good.  While we used to try and equip the Solari Crystal after Korriban, the only fight that is adversely effected (on average) is the first phase of the Leviathan Malak fight, which goes from an 87% chance of a one-round to a 63.6% chance.  Delaying Solari until after Lehon allows for a much more streamlined alignment route, saving enough time that the small risk of an extra round on Leviathan Malak is justified.
 
-2. When Persuading Yuthura to allow us access to the Sith Academy, if we are at 61 or more alignment we will have a Persuade/Lie option in addition to the normal Persuade option.  The Persuade option is a Low Dark action and loses alignment, while Persuade/Lie is a neutral action.  While we used to try to reach 61 alignment before here, we use the Mid Light action of Persuading the Sith Thugs to counteract the Low Dark action of Persuading Yuthura genuinely.
-
-However, wanting to equip the Solari crystal means we want to do mostly light side actions. Hence each dark side action we take is done for a specific and very good reason:
+Almost every alignment shift we make is faster than the alternative:
+- Rescuing the alien informant is the fastest way to obtain the Sith Armor
 - Agreeing to kill Gadon Thek teleports you to entrance to the Vulkar Base, saving the 45 seconds it takes to run out of the base.
 - Threatening Janice Nall to get T3 is the only way to obtain him, because we don't have the 2000 credits (and wouldn't want to spend them if we did).
-- Persuading Yuthura is the fastest way into the Sith Academy (see above).
+- Persuading Yuthura is the fastest way into the Sith Academy, and gaining the alignment to be able to Lie to her to avoid this is slower
 - Snitching on Kel Algwinn is part of the fastest way to gain the 5 necessary Prestige points on Korriban, and saves at least a minute over the next fastest option.
 
-While we used to kill Freyyr in the Lower Shadowlands to enable a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to reach the Ebon Hawk, we can avoid the fight and its associated DSP by simply [Save Teleporting](<../Techniques/Save Teleporting>) to the Wookiee Village and using a [Map CS Skip](<../Techniques/Map Cutscene Skips>) from there.  This saves time and alignment issues.
+The only shift that doesn't save time is sparing Yuthura, which is the fastest way to preserve our alignment enough for the big shift on Lehon to make us Light-aligned.
 
 ## Route Overview
 
