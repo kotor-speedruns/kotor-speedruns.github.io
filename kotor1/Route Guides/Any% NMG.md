@@ -199,10 +199,10 @@ Here is the alignment route used in the run:
 The only relevance of alignment in the run is equipping the Solari Crystal.  We must be at 60 alignment or higher (the boundary between Neutral and Light) in order to equip any Light Side restricted equipment.  The Solari crystal is Light Side restricted, as well as being extremely good.  While we used to try and equip the Solari Crystal after Korriban, the only fight that is adversely effected (on average) is the first phase of the Leviathan Malak fight, which goes from an 87% chance of a one-round to a 63.6% chance.  Delaying Solari until after Lehon allows for a much more streamlined alignment route, saving enough time that the small risk of an extra round on Leviathan Malak is justified.
 
 Almost every alignment shift we make is faster than the alternative:
-- Rescuing the alien informant is the fastest way to obtain the Sith Armor
+- Rescuing the alien informant is the fastest way to obtain the Sith Armor.
 - Agreeing to kill Gadon Thek teleports you to entrance to the Vulkar Base, saving the 45 seconds it takes to run out of the base.
 - Threatening Janice Nall to get T3 is the only way to obtain him, because we don't have the 2000 credits (and wouldn't want to spend them if we did).
-- Persuading Yuthura is the fastest way into the Sith Academy, and gaining the alignment to be able to Lie to her to avoid this is slower
+- Persuading Yuthura is the fastest way into the Sith Academy, and gaining the alignment to be able to Lie to her to avoid this is slower.
 - Snitching on Kel Algwinn is part of the fastest way to gain the 5 necessary Prestige points on Korriban, and saves at least a minute over the next fastest option.
 
 The only shift that doesn't save time is sparing Yuthura, which is the fastest way to preserve our alignment enough for the big shift on Lehon to make us Light-aligned.
