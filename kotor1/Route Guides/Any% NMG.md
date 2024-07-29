@@ -865,7 +865,9 @@ SHOPPING: Larrim
       - Each try costs 14.5 seconds; 2nd try is slightly slower than Method 1, while anything else loses significant time
       - If you succeed, click OK and load the QS
     - Deactivate Solo Mode, swap to Bastila and talk to the Krayt Dragon to fix it in place
-- *Both methods now converge, so always do the following actions*
+
+### Leaving Tatooine
+
 - Loot the chewed Twi'lek corpse for the Nerve Amplifier Belt
   - If you can't loot this corpse, Bastila's position was slightly off
   - You can buy a Nerve Amplifier Belt from Mic'Tunan'Jus Orgu in the Tatooine Docking Bay, but you'll have to buy only three of each stim on Korriban to account for it.
