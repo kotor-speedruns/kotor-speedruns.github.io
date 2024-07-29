@@ -833,10 +833,8 @@ SHOPPING: Larrim
     - Swap to Mission and position her in this precise location (image coming soon)
       - This position puts Mission as far away from the Dragon as possible while still being able to speak to Bastila
     - Swap to Bastila and loot the rubble for the Opila Crystal
-    - Position Bastila in front of the Krayt Dragon in a precise location
-      - Use these pictures to help you line it up
-![An image showing Bastila's positioning for Krayt Skip](/assets/images/imgur-dump/wWAiCqs.png)
-![Another angle of Bastila's positioning for Krayt Skip](/assets/images/imgur-dump/GGjL3bL.png)
+    - Position Bastila in front of the Krayt Dragon in a [precise location](/assets/images/imgur-dump/wWAiCqs.png)
+      - Here's [another angle](/assets/images/imgur-dump/GGjL3bL.png)
     - Swap to MC and [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) just out of the cave
     - Position MC directly behind Mission and where the sand texture changes (see this image (coming soon))
     - Verify everyone's postions, then as MC, click on Mission and immediately QS, then immediately plant a mine
@@ -860,7 +858,7 @@ SHOPPING: Larrim
     - Once in the cave, Activate Solo Mode
     - As MC, loot the rubble to the left of the dragon for Opila Crystal
     - As MC, turn and click the rubble on the opposite side of the cave near its mouth
-    - Swap to Bastila and position her in front of the Krayt Dragon
+    - Swap to Bastila and [position her](/assets/images/imgur-dump/wWAiCqs.png) [in front of the Krayt Dragon](/assets/images/imgur-dump/GGjL3bL.png)
       - This is the same position as depicted above
     - Swap to MC and run up to the mouth of the cave, then QS
     - Run forward to start the cutscene and watch it
