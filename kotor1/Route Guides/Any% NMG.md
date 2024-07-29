@@ -798,7 +798,7 @@ SHOPPING: Larrim
 
 *Note: For Tatooine and almost every planet afterwards, [Save Teleports](<../Techniques/Save Teleporting>) are the most efficient form of movement.  These are more effective if you do NOT have Force Speed or Alacrity active, so try to keep it off as much as possible. [Force Skips](<../Techniques/Force Skips>) can still be done by casting Force Speed twice to cancel it.*
 
-### Anchorhead
+### Anchorhead and Dune Sea
 
 - [Force Skip](<../Techniques/Force Skips>) the Czerka Officer
   - You'll end up doing this skip three times; or you can do the conversation: 1,1,5
@@ -809,9 +809,6 @@ SHOPPING: Larrim
 - Exit the office
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) or [Save Teleport](<../Techniques/Save Teleporting>) to skip the Dark Jedi fight
 - Speak to the Gate Guard to exit to Dune Sea
-
-### Dune Sea
-
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the angry wife conversation
 - [Save Teleport](<../Techniques/Save Teleporting>) towards the Eastern Dune Sea (left side of sandcrawler)
 - [Save Teleport](<../Techniques/Save Teleporting>) past Eastern Dune Sea loading zone
@@ -833,8 +830,8 @@ SHOPPING: Larrim
     - Swap to Mission and position her in this precise location (image coming soon)
       - This position puts Mission as far away from the Dragon as possible while still being able to speak to Bastila
     - Swap to Bastila and loot the rubble for the Opila Crystal
-    - Position Bastila in front of the Krayt Dragon in a [precise location](/assets/images/imgur-dump/wWAiCqs.png)
-      - Here's [another angle](/assets/images/imgur-dump/GGjL3bL.png)
+    - Position Bastila in front of the Krayt Dragon in a [precise location](/assets/images/imgur-dump/GGjL3bL.png)
+      - Here's [a look at the general spot](/assets/images/imgur-dump/wWAiCqs.png)
     - Swap to MC and [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) just out of the cave
     - Position MC directly behind Mission and where the sand texture changes (see this image (coming soon))
     - Verify everyone's postions, then as MC, click on Mission and immediately QS, then immediately plant a mine
@@ -849,7 +846,7 @@ SHOPPING: Larrim
     - Mission's conversation with Bastila interrupts the Krayt Dragon CS: 3
     - Deactivate Solo Mode, swap to Bastila and talk to the Krayt Dragon
       - This fixes the dragon in place and you can now move past the right side to the Star Map
-- ***Method 2: 2-Frame Quick Save**
+- ***Method 2: 2-Frame Quick Save***
   - *This method relies on a 2-frame window between the end of the Krayt Dragon cutscene and the pop-up that kills your party.  While faster than the other method due to easier setup, it is extremely inconsistent and only recommended for the insane or the very advanced.*
   - To perform Krayt Skip this way:
     - [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) from entrance all the way into the Krayt Dragon's cave
@@ -858,7 +855,7 @@ SHOPPING: Larrim
     - Once in the cave, Activate Solo Mode
     - As MC, loot the rubble to the left of the dragon for Opila Crystal
     - As MC, turn and click the rubble on the opposite side of the cave near its mouth
-    - Swap to Bastila and [position her](/assets/images/imgur-dump/wWAiCqs.png) [in front of the Krayt Dragon](/assets/images/imgur-dump/GGjL3bL.png)
+    - Swap to Bastila and [position her](/assets/images/imgur-dump/GGjL3bL.png) [in front of the Krayt Dragon](/assets/images/imgur-dump/wWAiCqs.png)
       - This is the same position as depicted above
     - Swap to MC and run up to the mouth of the cave, then QS
     - Run forward to start the cutscene and watch it
