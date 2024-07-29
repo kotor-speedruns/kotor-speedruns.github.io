@@ -205,7 +205,7 @@ Almost every alignment shift we make is faster than the alternative:
 - Persuading Yuthura is the fastest way into the Sith Academy, and gaining the alignment to be able to Lie to her to avoid this is slower.
 - Snitching on Kel Algwinn is part of the fastest way to gain the 5 necessary Prestige points on Korriban, and saves at least a minute over the next fastest option.
 
-The only shift that doesn't save time is sparing Yuthura, which is the fastest way to preserve our alignment enough for the big shift on Lehon to make us Light-aligned.
+The only shift that doesn't save time is sparing Yuthura, which at 2-3 seconds lost is the fastest way to preserve our alignment enough for the big shift on Lehon to make us Light-aligned.
 
 ## Route Overview
 
@@ -229,7 +229,7 @@ This is a brief outline of the route for the Any% NMG run, including planet orde
   * Find the Star Map on the ocean floor
 4. **Tatooine**
   * [Save Teleport](<../Techniques/Save Teleporting>) into the Eastern Dune Sea
-  * Kill the Krayt Dragon OR perform Krayt Skip to obtain the Star Map
+  * Skip the Krayt Dragon to obtain the Star Map
 5. **Korriban**
   * Inflitrate the Academy
   * Earn five prestige points with Uthar Wynn
@@ -253,10 +253,10 @@ This is a brief outline of the route for the Any% NMG run, including planet orde
   * Find and kill Darth Malak
 
 The reasoning for the middle planets:
-- Manaan is first because there are no fights we have to win, and thus our relatively weak combat abilities don't matter as much.
-- Tatooine is second because there's either no combat (if you do Krayt Skip), or we get the Krayt Dragon Pearl for a much-needed Attack bonus.
-- Korriban is third so that we can get the Solari crystal; we also may have reached Level 9 (and Knight Speed) before Uthar and Yuthura to make those fights easier.  We also buy top-notch stims and medpacs here to make some later fights easier.
-- Kashyyyk is done last because you can skip the Star Map computer's quiz if your identity has already been revealed, and our Save Teleports will be maximally effective here.
+- Manaan is first because there are no fights we have to win, and thus our relatively weak combat abilities don't matter as much.  In addition, [Save Teleports](<../Techniques/Save Teleporting>) are never effective in the underwater modules, so doing Manaan before they're effective in general lets us save them for other planets.
+- Tatooine is second because there's still no combat, but we now have long enough saves that we can [Save Teleport](<../Techniques/Save Teleporting>) across the desert.
+- Kashyyyk is done last so we can use a Jedi Mine Trick to skip the Star Map CS; because your identity has already been revealed, the computer conversation is short enough for this to work.
+- This leaves Korriban third, which is late enough that we usually reach Level 9 (and Knight Speed) before Uthar and Yuthura.  We also buy top-notch stims and medpacs here to make some later fights easier.
 
 ## Detailed Route
 
@@ -297,33 +297,46 @@ Abbreviations:
 
 ## Endar Spire
 
-### Character Creation
+### Pre-Run Setup
 
-- Male/Female Scout - Custom Character
-- Str to 18, Dex to 14, Con to 14, Int to 10
-- Computer Use to 4, Security to 1, Treat Injury (TI) to 4, Save 2
-- Initial Feat: Weapon Focus: Melee Weapons
-- Pick a good name!
-- Hit Play! (and be ready to [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>)!)
+- Set these Options:
+  - Ensure V-Sync is ON
+  - Ensure Auto-Level is ON in the Gameplay Menu
+  - Optionally, make sure you have no saved games.
+- Character Creation
+  - Male/Female Scoundrel - Custom Character
+  - Str to 18, Dex to 12, Con to 14, Cha to 12
+  - Demolitions to 1, Stealth to 1, Persuade to 4, Security to 1, Save 5
+  - Initial Feat: Flurry
+  - Pick a good name!
+  - Hit Play! (and be ready to [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>)!)
 
 ### Endar Spire
 
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Intro CS
 - Loot footlocker
-- *Equip MC: Short Sword*
+- *Equip MC: Clothes*
 - Trask conversation twice (spam)
 - *Equip Trask: Blaster Pistol Offhand*
-- Use security on door
-- Kill two Sith Soldiers
+- [Open Buffer](<../Techniques/Save Buffering#open-buffers>) towards the locked door and use Security once in range
+- Mash through the Carth conversation before MC finishes unlocking the door
+  - If the CS of the shootout between the Sith and Republic soldiers doesn't play, you were too slow; QL and use Security again
+- Use Trask's Power Blast to kill two Sith Soldiers
+  - ***Important:** Note whether you have an Adrenal Alacrity.  This is rare but affects where you go shopping.*
 - Loot footlocker in next room
-- Cutscene of Sith vs. Republic
-- Kill front three Sith Soldiers with frag grenade
-- Jedi vs. Sith cutscene
+- Open the next door and wait for the second CS of Sith vs. Republic
+- Kill front three Sith Soldiers with Frag Grenade on the middle soldier
+  - Each has only a 10% chance to survive via Reflex save, for a 72.9% chance of killing all three
+  - If one (or more) survive, have Trask finish them while MC runs to the next door
+- Open the next door for the Jedi vs. Sith cutscene
+- Use Trask's Power Blast to kill two Sith Soldiers
 - Loot Jedi for Vibration Cell/Adrenal Strength
-- Kill two Sith soldiers
-- Kill front two Sith soldiers on bridge
-- `Level to 2: Save skills, Two-Weapon Fighting`
-- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Trask's death scene
+- Open the bridge and use Trask's Power Blast to kill the front two Sith Soldiers on the bridge
+- Run forward as MC until your Level Up is available
+- **IMMEDIATELY** `Level to 2: Save skills, Two-Weapon Fighting`, then begin a long [Open Buffer](<../Techniques/Save Buffering#open-buffers>)
+- Open the next two doors leaving the bridge, then target the door to the Starboard Section and drop the buffer
+  - Mash Trask's conversation; this buffer prevents his death CS from triggering
+  - If Trask talks to you before you can begin the [Open Buffer](<../Techniques/Save Buffering#open-buffers>), use a [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) as you open the door before the Starboard Section
 - Enter Starboard Section
 
 ### Starboard Section
@@ -338,60 +351,60 @@ Abbreviations:
 
 ### Upper City
 
-- Use the stims hotkey to use two stims:
+- ***Conditional:*** If you got an Adrenal Alacrity drop from Trask on Endar Spire, use the stims hotkey to use two stims:
   - Once (for Adrenal Alacrity) before the dream CS
   - Once (for Adrenal Strength) before the waking up CS in the Hideout
+  - If you didn't get the random Alacrity, skip both of these
 - Carth talks to you: 1,1,1,5,3
 - Loot footlocker for spikes and medpacs
-- *Equip MC: Combat Suit, Prototype Vibroblade Mainhand, Vibroblade Offhand*
+- *Equip MC: Combat Suit, Prototype Vibroblade Mainhand*
 - Exit the apartment
 - *Party: No change when prompted*
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Sith Raid CS
-- Larrim accosts you: 1,2,4
+- Run down hall to right until Larrim accosts you: 1,2,4
 
 ```
 SHOPPING: Larrim
 - SELL ALL EXCEPT:
   - Medpacs
   - Computer Spikes
-  - Vibroblade
   - Frag Grenade
+  - Adrenal Strength (if you have one)
 - BUY:
   - 2x Concussion Grenade
-  - Frag Grenade
   - Battle Stimulant
-- End: ~808 Credits
+  - All 4 Minor Mines
+- End: ~200 Credits
 ```
 
-- *Stims: Use Battle Stimulant on MC*
 - Exit to Upper City South
-- ***Optional Safe Strat: Zelka Stims***
-  - *Skipping Zelka saves around 6-8 seconds, but gives no leeway in terms of stims, meaning you lose lots of time if Carth or MC die anywhere on Taris.  This strat is recommended for beginning runners until they are comfortable with the rest of Taris.*
-  - *To perform the safe strat:*
+  - If you got the random Alacrity from Spire (and used it), *Stims: Use Battle Stimulant on MC* using the stim hotkey as you leave
+- ***Conditional Shopping: Zelka***
+  - *Shop with Zelka if you did not get the Alacrity Drop on Spire:*
     - Run towards statue at the end of the walkway
     - Activate Solo Mode
     - As Carth, open door to Upper City North
     - As MC, talk to Zelka in the medical clinic: 3
     - **BUY:** 3x Adrenal Alacrity (150 Credits)
+    - *Stims: Use Alacrity, Strength, and Battle Stim on MC, use Alacrity on Carth via Inventory Menu*
     - Swap to Carth and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
-    - Run backwards to trigger the bullied merchant CS
-  - *To skip the safe strat instead:*
-    - Run down street to left and approach bullied merchant
-- Bounty hunters accost you: 1 (+2 LSP)
-- Kill the bounty hunters with a frag grenade
-- Give credits to the merchant to pay his debt (+4 LSP)
-- Enter Upper City North
-- Run straight across to Upper City North Apartments
+    - Swap back to Carth and enter Upper City North
+    - Swap to MC, QS/QL to fix party following AI
+  - *If you did get the Alacrity Drop, MC should already have three stims active.  Then just:*
+    - Run straight from South Apartments to Upper City North and enter
+    - *Skipping Zelka saves 10-11s over the usual strat, but the Alacrity drop is rare*
+- After entering Upper City North, run straight across to enter North Apartments
 - Run to the left until Sith soldiers accost you (+2 LSP)
 - Swap to Carth and queue Power Blasts on all three Sith soldiers
 - Activate Solo Mode
 - Swap to MC and run back to the door you entered through
 - Swap to Carth and loot all three corpses for Sith Uniform, grenades, and adrenals
-- *Stims: Use Adrenal Alacrity on Carth*
+- ***Conditional:*** If you didn't already, *Stims: Use Adrenal Alacrity on Carth*
+  - Both shopping routes should now have three stims active on MC and Alacrity active on Carth
 - Swap to MC and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth
 - Exit the apartments
-- *Equip Carth: Sith Armor*
 - Activate Solo Mode
+- *Equip Carth: Sith Armor*
 - Run Carth down street to right until it narrows
 - Swap to MC and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth
   - The cutscene to enter the Lower City will play and warp MC there
@@ -400,7 +413,7 @@ SHOPPING: Larrim
 ### Lower City
 
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Vulkar/Bek CS
-- *Equip Carth: Clothes or Nothing*
+- *Equip Carth: Clothes (or Nothing)*
 - Enter Javyar's Cantina
 - Return to Hideout and immediately Transit Back
   - This sets the Transit Point, which we will use after rescuing Bastila
@@ -412,23 +425,24 @@ SHOPPING: Larrim
 - *Party: Remove Carth*
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Canderous CS
 - Enter the Undercity
-  - We want extra enemies to die so we get enough XP for Bastila to hit level 4 when we recruit her
-  - Some of the Black Vulkars will die to the blaster turrets as you enter the Undercity
-  - If all three Vulkars die, you can skip some enemies later on
 
 ### Undercity
 
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip beggar CS
-- `Level to 3: TI to 6, Empathy`
+- `Level to 3: Save Skills (granted Sneak Attack II)`
 - *Party: Add Carth*
-- Exit the gate and kill the rakghoul
-  - MC should use Flurry
-  - Carth uses Power Blast at close range
-- Mission agrees to help you
-- *Party: No change when prompted*
+- Run towards the gate to trigger the Run, Hendar, Run! CS
+- Rakghoul Fight:
+  - MC should get behind the Rakghoul (for Sneak Attack) and use Flurry
+  - Swap to Carth and use Power Blast at close range
+  - This fight is typically two rounds, but can be three with below average Attack/Damage rolls
+- Run towards Sewers until Mission accosts you and agrees to help you
+  - *Party: No change when prompted*
 - Enter the Lower Sewers
 
 ### Sewers
+
+*The Sewers are one of the riskiest parts of Taris, as MC has to run past a lot of enemies with not a lot of Vitality.  Try to keep MC's health high while in the Sewers and use medpacs as needed.*
 
 - ***Optional Strat: Lower Sewers [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)***
   - *This strat saves about 10 seconds, but can be risky as you may be trying to [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) while MC is in combat.*
@@ -439,43 +453,35 @@ SHOPPING: Larrim
     - As MC, run up the path past the Gamorrean and open first door on right
       - While this happens, Carth and Mission should finish off the rakghouls
       - We need them out of the way for the upcoming [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)
-      - This also helps us hit Bastila's XP threshold
     - Swap to Carth and open door on left (before the force field)
     - Swap to MC and rescue Zaalbar
     - *Party: Add Carth, Keep Mission when prompted*
-    - Run MC slightly into Zaalbar's cell for protection from the Gamorreans
-    - Swap to Carth and lower force field
+    - Run MC slightly into Zaalbar's cell for protection from the Gamorreans (and use a medpac if needed)
+    - Swap to Carth and use the console to have Mission lower the force field
     - Swap to Mission and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to teleport MC
   - *If you choose not to use the above strat:*
     - Activate Solo Mode and place Mission next to ladder
     - Run to cell and free Zaalbar
-    - *Party: Add Carth, Keep Mission when prompted*
+    - *Party: Keep Mission when prompted*
     - Switch to Mission and leave by ladder
-    - Reenter sewers
-    - Throw frag grenade at rakghouls
-    - Swap to Mission and Deactivate Force Field
-      - Carth and MC should finish off rakghouls while Mission does this
-      - We need the rakghouls to die so we hit Bastila's XP threshold
+    - Reenter sewers and Activate Solo Mode
+    - Interact with console to have Mission lower the force field
 - Enter Upper Sewers
 - ***Optional Strat: Upper Sewers [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)***
-  - *This strat saves about 10 seconds in the Vulkar Garage, but it's finicky.  It's personal preference whether to use this trick or not.*
+  - *This strat saves about 10 seconds in the Vulkar Garage, but it can be finicky as Carth may be in combat, and your party members may move at inopportune times.*
   - *To perform this strat:*
-    - *Party: Remove Mission*
+    - *Party: Make sure Carth is in and Mission is out*
     - Activate Solo Mode
     - As Carth, open the door behind you to Lower Sewers
-    - As MC, run through sewers and kill the Malfunctioning Droid
-      - You can skip this if all the Vulkars died while entering the Undercity
+    - As MC, run through sewers until just past the Minor Gas Mine and just before the Malfunctioning Droid
     - Quickly swap to Carth and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to teleport MC to end of sewers
     - Queue up Flurries on the Vulkar Guards, then swap back to Carth
-      - We want these guards to die to hit Bastila's XP threshold
-    - Run through sewers to same point as before (just after the Minor Gas Mine)
-    - Watch MC's health during this section and heal as needed
+      - We want to eliminate these guards so MC doesn't die while Carth is running
+    - Run through sewers to same point as before
     - Swap to MC and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to teleport Carth to end of sewers
   - *If you choose not to use the above strat:*
     - *Party: Remove Mission and Carth*
     - Run through left tunnel, then take right tunnel
-    - Kill the Malfunctioning Droid
-      - This is now needed to hit Bastila's XP threshold
     - Juke past the rancor and enter the Vulkar Base
       - Try to run always at a 90 degree angle from the rancor's pursuit
       - Or, loot the bones and add a Frag Grenade and some Synthesized Odor to the pile of bones to kill the rancor (wastes 20 seconds)
@@ -483,25 +489,25 @@ SHOPPING: Larrim
 
 ### Vulkar Base
 
-- Kill the patrol droid
-  - We need it out of the way if Carth is present
-  - This also goes towards Bastila's XP threshold
-- Defense turret skip
+- Kill the patrol droid if Carth is present
+  - You can skip it if MC is alone
+- Defense Turret Skip
   - Open door to elevator area
   - Stand in doorframe corner near terminal and QS
   - Throw both concussion grenades (use Carth if present) at center turret
   - If any turret remains unstunned, QL and try again
-  - If all three turrets are stunned, take the elevator to the Garage
-  - If MC is alone, you can try to reach the garage with only 2 turrets stunned. There's a 25% chance the remaining turret will miss you.
+  - If all three turrets are stunned (59.6% chance), take the elevator to the Garage
+  - If MC is alone, you can try to reach the garage with only 2 turrets stunned. There's about a 35% chance the remaining turret will miss you.
 - Activate Solo Mode (if Carth is present)
+- If Carth is present, have MC kill both Vulkars in central hallway
 - As Carth (or as MC if no Carth):
   - Take hallway on right and enter last door on right
   - Loot Garage Head's Desk (for keycard) and supplies (for Computer Spikes)
 - Swap to MC (or continue as MC if no Carth):
-  - Kill both Vulkars in the central hallway
-  - Continue past the mines and take last door on left
+  - Continue past the mines, turn left and take last door on left
   - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Kandon Ark fight
 - Get the swoop accelerator
+  - Watch out for the frag mine in front of it
 - Talk to Kandon Ark: 1,1,1 (-2 DSP)
 - This will teleport you outside the Vulkar base
 
@@ -510,10 +516,10 @@ SHOPPING: Larrim
 - Return to Hidden Bek base
 - Talk to Zaerdra and Gadon Thek
 - After loading into the Swoop Platform, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Ithorian convo
-- Talk to the Race Coordinator to complete race one
+- Talk to the Race Coordinator to complete [race one](<../Miscellaneous/Swoop Racing#planet-circuit-lap-1>)
   - Do not shift into the top gear for these swoop races; it's faster by roughly a second to stay in fourth gear!
   - Whatever time you get on this race will be beaten by 0.25s by Redros 
-- Talk to the Race Coordinator to complete race two
+- Talk to the Race Coordinator to complete [race two](<../Miscellaneous/Swoop Racing#planet-circuit-lap-2>)
   - You'll need to beat Redros's time on the second race, but your swoop accelerates faster than before
 - After talking to the Ithorian but BEFORE Brejik's convo, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Brejik fight
   - The Ithorian's convo is only two dialogs, so click twice then immediately start buffering
