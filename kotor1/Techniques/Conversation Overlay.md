@@ -22,15 +22,17 @@ The exact setup for a Conversation Overlay varies by application, but all involv
 6. Allow MC to move until they reach the right position for the specific trick, then trigger the second party member's conversation with either Default Action or clicking.
 7. Timed and positioned correctly, MC's convo will start, and then the second conversation will interrupt the first.
 
-Video forthcoming
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/PlbEZ4_Rztc" frameborder="0"></iframe>
+</div>
 
 If you don't have a stim or mine available in step 4, you can instead kill the program.  This is not recommended as it's significantly slower.
 
 ## Uses
 
-A Conversation Overlay is only useful in No Major Glitches speedruns, since Unrestricted runs would just use Anywhere Menu Glitch instead.  The only current use of Conversation Overlay in a speedrun is a more consistent version of Krayt Dragon Skip for Any% NMG.
+A Conversation Overlay is only useful in No Major Glitches speedruns, since Unrestricted runs would just use Anywhere Menu Glitch instead.  The only current use of Conversation Overlay in a speedrun is a more consistent version of Krayt Dragon Skip for [Any% NMG](./Route%20Guides/Any%25%20NMG).
 
-While the Bastila fight on Temple Summit can be skipped with a Conversation Overlay, it's actually slower than all but the most unlucky fights.
+While the Bastila fight on Temple Summit can be skipped with a Conversation Overlay, it's actually slower to do so than all but the most unlucky fights.
 
 ## Related Glitches
 
