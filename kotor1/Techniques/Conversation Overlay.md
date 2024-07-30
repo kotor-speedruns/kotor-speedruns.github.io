@@ -26,9 +26,11 @@ The exact setup for a Conversation Overlay varies by application, but all involv
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/PlbEZ4_Rztc" frameborder="0"></iframe>
 </div>
 
+The QS where MC is already moving allows your second character to freely begin their own conversation; attempting to do this without a QS will not allow the second conversation to start, since the MC's conversation is effectively a [Conversation Queue](<Conversation Queue>).
+
 Conversation Overlays are more flexible than [Jedi Mine Tricks](<Jedi Mine Trick>), as you can go deeper into conversations and cutscenes than just the length of time it takes to set a mine.  However, they usually involve significantly more setup and are therefore much more finicky.
 
-If you don't have a stim or mine available in step 4, you can instead kill the program.  This is not recommended as it's significantly slower.
+If you don't have a stim or mine available in step 4, you can instead kill the program.  This is not recommended as it's significantly slower.  The Sonic Emitter can also work for canceling the MC's movement, if you happen to have it from Manaan.
 
 ## Uses
 
