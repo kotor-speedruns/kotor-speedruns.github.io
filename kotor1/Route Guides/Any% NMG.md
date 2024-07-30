@@ -870,7 +870,7 @@ SHOPPING: Larrim
 
 - Loot the chewed Twi'lek corpse for the Nerve Amplifier Belt
   - If you can't loot this corpse, Bastila's position was slightly off
-  - You can buy a Nerve Amplifier Belt from Mic'Tunan'Jus Orgu in the Tatooine Docking Bay, but you'll have to buy only three of each stim on Korriban to account for it.
+  - You can buy a Nerve Amplifier Belt from Mic'Tunan'Jus Orgu in the Tatooine Docking Bay, but it changes your shopping on Korriban (see below)
 - Use [JMT](<../Techniques/Jedi Mine Trick>) to skip the Star Map CS
 - [Save Teleport](<../Techniques/Save Teleporting>) back to the front of the Krayt Dragon
   - Make sure your party is following you
@@ -894,7 +894,7 @@ SHOPPING: Larrim
 ### Dreshdae
 
 - Port Authority accosts you: 1,1,3,2
-- Intervene with Shaardan (+7 LSP)
+- [Save Teleport](<../Techniques/Save Teleporting>) or [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Shaardan's conversation
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Lashowe's conversation
 - Talk to the Czerka Shopkeeper
 
@@ -903,12 +903,12 @@ SHOPPING: Czerka Shop
 - SELL ALL EXCEPT:
   - Advanced Medpacs
   - Computer Spikes
-  - Hyper Stims (you can sell basic stims)
+  - All Mines
 - BUY:
-  - 20x Advanced Medpacs (but stay above 2500 Credits)
+  - 7-8x Life Support Packs (but stay above 2500 Credits)
   - 5x Echani Battle Stim
   - 5x Hyper Adrenal Alacrity, Strength, and Stamina
-  - You can buy Life Support Packs with any extra
+  - If you had to buy the Nerve Amplifier Belt, buy instead 4x Echani, 3x Hyper Alacrity, 4x Hyper Strength (no Stamina)
 - End: <80 Credits
 ```
 
@@ -923,30 +923,36 @@ SHOPPING: Czerka Shop
 ### Gaining Prestige
 
 - [Force Skip](<../Techniques/Force Skips>) to delay Uthar conversation
-- Talk to Lashowe: 1x8, 4
+- Talk to Lashowe: 1x7, 3, 4
 - Speak with Uthar Wynn and students
 - Yuthura talks to you: 1,1,1,1,4,2,7,5
-- `Level to 8: Strength to 20, Persuade to 11, Disable Droid`
+- `Level to 8: Strength to 21, Persuade to 10, Disable Droid`
 - Talk to Kel Algwinn
+- Before exiting to Valley, *Stims/Force: Hyper Adrenal Strength, Hyper Adrenal Stamina, and Echani Battle Stimulant on MC, Cast Force Valor*
 - Exit to Valley of the Dark Lords
 - [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk, then Transit Back 
-  - This skips the Darth Bandon fight
+  - This skips the Darth Bandon fight; you can also [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) instead
 - Run/[Save Teleport](<../Techniques/Save Teleporting>) over to Lashowe (can Force Jump to Shyracks)
-- *Stims/Force: Hyper Adrenal Strength, Hyper Adrenal Stamina, and Echani Battle Stimulant on MC, Cast Force Valor*
+- ***Optional:** Party: Add Juhani and Zaalbar*
+  - This is mostly useful for distracting the tukatas/Lashowe to get Sneak Attacks in; this can be the difference between one-round and two-round tukatas
 - Kill the Tukatas
 - Lashowe confronts you: 2,3
 - Kill Lashowe and loot her corpse for Holocron
 - Return to Ebon Hawk
-- [Save Teleport](<../Techniques/Save Teleporting>) to skip Sith Apprentice
-- Talk to Sith Thug Leader (+4 LSP, Light-aligned)
-- Return to Academy
-- Talk to Uthar Wynn: 3,1,3,1,3,3,2,3,4,4,X,3,2,2
+  - If you added Juhani and Zaalbar for the fight, remove them while returning
+- [Save Teleport](<../Techniques/Save Teleporting>) back to Sith Academy
+  - Make sure you skip triggers for Shaardan (if needed), the Sith Apprentice, and the Sith Thugs
+  - If at any time you think you've triggered one, you can [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip it
+- Re-enter the Academy through Sith Academy Entrance
+- Talk to Uthar Wynn: 3,1,4,3,3,2,3,4,4,X,4,2,2,4
   - The X is a variable answer based on one of three questions he asks after the Sith Code
   - Answers are:
     - There is nothing worse than love: 2. False
     - Victory by any means is desirable: 2. False
     - It is our passion that fuels the Force: 1. True
-  - You snitch on Kel Algwinn during this conversation for (-5 DSP, Neutral-aligned)
+- Run backwards and click on Uthar to use [JMT](<../Techniques/Jedi Mine Trick>) on his conversation
+  - You'll need to mash through 3,1 and then several clicks so that he congratulates you on getting enough prestige before the mine cancels the convo
+  - This skips being sent back to your room, saving around 10 seconds
 - Talk to Uthar again: 3
 
 ### Tomb of Naga Sadow
@@ -958,17 +964,23 @@ SHOPPING: Czerka Shop
 - Open door and loot Pillar of Ice
 - On way out, loot Skeletal Human Remains for Solari crystal
 - Return to central branch and freeze acid pool
-- Star Map: Korriban
+- Open door to map room, then *Force: Cast Burst of (or Knight) Speed*
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Star Map CS
+  - This is a tricky buffer because the trigger for the CS is very small; we use Speed to shorten our teleport distance
+  - Run backwards until you hit the rubble in the middle of the path, then buffer forward from there
+  - You should hear the Star Map begin to open if you hit the trigger
+  - As an alternative, you can deactivate V-Sync for the buffer, then reactivate it afterwards
 - Loot Sith Statue for Sith Lightsaber
 - `Level to 9: Persuade to 12, Master Two-Weapon, Knight Speed`
   - You may not have this level available if you didn't get enough extra XP in Hrakert Station
 - *Force: Cast Force Valor and Knight Speed*
 - Uthar accosts you: 5,1
 - Kill Uthar and Yuthura accosts you: 1
-- Defeat Yuthura and spare her: 3,2 (+4 LSP, Light-aligned)
+  - Remember to swap combat actions to Flurry before attacking Uthar!
+- Defeat Yuthura and spare her: 3,2
+  - Sparing her prevents the academy from going hostile and preserves our alignment for the Solari crystal later
 - [Save Teleport](<../Techniques/Save Teleporting>) back to the academy
 - After entering the academy, immediately leave and Return to Ebon Hawk to board
-- **Upgrade Double Lightsaber: To Sigil/Solari or Krayt Pearl/Solari**
 - If you haven't already, `Level to 9: Persuade to 12, Master Two-Weapon, Knight Speed`
 - Fly to Kashyyyk (no Map CS Skip)
 
@@ -995,13 +1007,13 @@ SHOPPING: Czerka Shop
 
 ### Bridge
 
-*For the rest of the Leviathan, you have to keep Carth and Bastila close to you in order to go through loading zones.  Do your best to make sure they don't wander off, as that can and will lose you a lot of time.  It can help to QS/QL here.*
+*For the rest of the Leviathan, you have to keep Carth and Bastila close to you in order to go through loading zones.  Do your best to make sure they don't wander off, as that can and will lose you a lot of time.  It can help to QS/QL here, and you may wish to use Speed for movement for consistentcy.*
 
 - Turn right and kill guard
   - It's possible to run past this guard without killing him
   - However, there's a small chance he'll shoot at Carth/Bastila and aggro them
 - Turn left at the end of the hall; make sure Carth and Bastila are following you here
-- Take first door on left, then immediately bash down armory door
+- Take first hallway on left, then immediately bash down armory door on the right
   - If you're too slow, the Sith Guard here will aggro Carth and/or Bastila
 - Get the Space Suits from the floor
 - Bash down the door across the armory
@@ -1013,19 +1025,15 @@ SHOPPING: Czerka Shop
   - Done perfectly, you can run through the space section without any trouble
   - If that fails, the door may look open but be closed and solid (if your QS was slightly late)
   - If that happens, QS/QL and you can open the door without donning the suit
-- *Force: Cast Knight Speed as MC*
-- *Force: Cast Burst of Speed as Bastila*
-- *Stims: Hyper Adrenal Alacrity on Carth*
-- Activate Solo Mode
-- As Carth and Bastila, go through the door on the right
-  - Tuck them in the corner to attempt to deaggro them 
+- Once on the other side, Activate Solo Mode
+- As Carth and Bastila, [Save Teleport](<../Techniques/Save Teleporting>) through the door on the right
+  - Tuck them in the corner to attempt to deaggro them
   - The goal is to have them stay close enough to the exit while you do Saul Karath skip
-- Swap back to MC and run up to bridge door
-- Saul Karath skip
+- Swap back to MC and [Save Teleport](<../Techniques/Save Teleporting>) up to bridge door
+- Saul Karath Skip:
   - ***Optional:** Hard Save for safety; it is possible to softlock here
   - This trick is a [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>), but the timing is quite precise
-  - Open Bridge Door and QS twice
-  - Load immediately
+  - Open Bridge Door and QS twice, then load immediately
   - If the trick works, the bridge door will be open, the fight will not start, and Bastila and Carth will be in your party
   - If Bastila and Carth are not in your party, you've softlocked
   - If your last QS was too late, your game will crash when you load
@@ -1033,11 +1041,12 @@ SHOPPING: Czerka Shop
 - [Save Teleport](<../Techniques/Save Teleporting>) to the exit
   - Bastila and Carth may be dead; if they're still on the farther half of the room that's fine
   - If they died closer to the bridge, you'll have to kill the five soldiers to revive them
-- *Medpacs: Everyone as needed*
+- Back on the Command Deck, *Medpacs: Everyone as needed*
+- *Force: Cast Knight Speed on MC*
 - Kill the Sith guard nearby to the left
-- QS/QL to get party to follow
-- Take left path and loop around outside back to elevator
-  - If you are quick, it's possible to skip killing the two guards right outside the elevator
+- Swap to Bastila (or Carth) and QS/QL to get party to follow
+- Take left path and [Save Teleports](<../Techniques/Save Teleporting>) around outside back to elevator
+  - With quick, precise [Save Teleports](<../Techniques/Save Teleporting>), it's possible to skip killing the two guards right outside the elevator
   - If either Carth or Bastila aggros on them, you'll likely have to kill them
   - Or you can use Solo Mode and [Save Teleports](<../Techniques/Save Teleporting>) to try to get everyone into the elevator
 - Take the elevator to the Hangar: 3
@@ -1051,9 +1060,12 @@ SHOPPING: Czerka Shop
 - Darth Malak accosts you
 - Plot twist!
 - Darth Malak accosts you again: 1,1,1,1,2,1,4,1
-- Darth Malak fight, part one
+- Darth Malak fight:
+  - For both phases, swap combat feats to Flurry while running slightly past him to one side
+  - Use Flurry once next to or slightly behind him to get Sneak Attacks off while he uses Force Resistance
 - Run/[Save Teleport](<../Techniques/Save Teleporting>) through blast doors after Malak flees
-  - *Force: Cast Knight Speed and Force Valor, Hyper Battle Stim and Hyper Strength on MC*
+  - *Force: Cast Knight Speed and Force Valor, Hyper Stim Suite on MC*
+  - If you had to buy fewer stims on Korriban, don't use any stims here
 - Darth Malak fight, part two
 - Bastila sacrifices herself, sort of
 - Leave with Carth through blast doors on left
@@ -1065,7 +1077,8 @@ SHOPPING: Czerka Shop
 
 ### The Great Walkway
 
-- Port authority accosts you
+- Janos Wertka accosts you
+  - You can [Force Skip](<../Techniques/Force Skips>) this, but you'll have to do it again twice later
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) from lower level to door to Great Walkway
   - This skips a conversation with Ziagrom and the Czerka guard at the end
 - *Party: Add T3*
@@ -1083,21 +1096,22 @@ SHOPPING: Czerka Shop
 ### Upper Shadowlands
 
 - [Save Teleport](<../Techniques/Save Teleporting>) to skip Katarn Spawn
-  - An easy cue is to QS when you reach the hanging vine
+  - An easy visual cue is to QS when you reach the hanging vine
 - Jolee Bindo greets you
 - Continue to the fork, then Activate Solo Mode
 - Run/[Save Teleport](<../Techniques/Save Teleporting>) with T3 to Jolee's House
 - With MC, take left path and [Save Teleport](<../Techniques/Save Teleporting>) to Czerka guards
-  - If the captain speaks to you, convo is 1,4
+  - If the captain speaks to you, convo is 1,4; you can also try to [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) this
 - Talk to first Czerka guard: 1,1,3,1,2
 - Hack the sonic emitter next to that guard
 - Talk to second Czerka guard: 1,1,2
 - Hack the sonic emitter next to that guard
 - IMMEDIATELY AFTER, [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the terentatek CS
   - Avoid casting Knight Speed here to preserve [Save Teleports](<../Techniques/Save Teleporting>)
-- Swap to T3 and speak with Jolee: 1,1,1,1,2,3,1,1,1,1,1
-  - *Party: Add T3, Keep Jolee when prompted*
-- Swap to T3 and [Save Teleport](<../Techniques/Save Teleporting>) to Force Field: 1,2
+- Swap to T3 and speak with Jolee from a distance, then swap back to MC before the convo: 1,1,1,1,2,3,1,1,1,1,1
+  - *Party: Keep Jolee when prompted*
+  - If you didn't manage to swap to MC before the convo, add T3 again 
+- As MC (or swap to T3) and [Save Teleport](<../Techniques/Save Teleporting>) to Force Field: 1,2
 
 ### Lower Shadowlands
 
@@ -1106,25 +1120,27 @@ SHOPPING: Czerka Shop
 - [Save Teleport](<../Techniques/Save Teleporting>) to skip a kinrath spawn
   - If you miss it, kill the Kinrath, because we'll have to return with Jolee and T3
   - Try to QS a few steps after the hanging vine
-- Speak to Star Map Computer: 2
-- Star Map: Kashyyyk
-- Jolee/T3 teleport to you
-- Deactivate Solo Mode
-- Run/Force Jump/[Save Teleport](<../Techniques/Save Teleporting>) back to Upper Shadowlands
-  - Make sure your party follows you
+- Deactivate Solo Mode near the Star Map Computer
+- Use [JMT](<../Techniques/Jedi Mine Trick>) on the Star Map Computer: 2
+  - You need to spam through the conversation so that the Star Map starts to open before the mine cancels the convo
+  - You should now be out of mines
+- Jolee (and possibly T3) teleport to you
+- Run/[Save Teleport](<../Techniques/Save Teleporting>) back to Upper Shadowlands
+  - Make sure your party follows you out!
 
 ### Leaving Kashyyyk
 
 - Activate Solo Mode
-- Run/Force Jump/[Save Teleport](<../Techniques/Save Teleporting>) to Gorwooken
+- Run/[Save Teleport](<../Techniques/Save Teleporting>) to Gorwooken
 - Speak to Gorwooken to reach the Great Walkway
-- Run/Force Jump/[Save Teleport](<../Techniques/Save Teleporting>) to Wookiee Village
-  - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Dark Jedi fight
+- Run/[Save Teleport](<../Techniques/Save Teleporting>) to Wookiee Village
+  - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Dark Jedi fight if needed
 - Wookiee Guard accosts you: 1,1,1
-- After loading, [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk and board
+- Immediately after loading, [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk and board
+  - [Force Skip](<../Techniques/Force Skips>) Janos Wertka's convo after loading if you did before
 - Fly to Star Forge System (Lehon) with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
-  - Reboard Ebon Hawk
-  - Do not use a Map CS Skip the second time
+  - [Force Skip](<../Techniques/Force Skips>) Janos Wertka's convo after the [Map CS Skip](<../Techniques/Map Cutscene Skips>) if you did before
+  - Reboard Ebon Hawk and fly to Lehon again (no Map CS Skip)
   - Sometimes you'll have to shoot down some Sith fighters; whether or not this triggers is sadly random
 
 ## Lehon
@@ -1138,59 +1154,58 @@ SHOPPING: Czerka Shop
 - Speak with The One: 1,1,1,1,1,4,4
 - Run/[Save Teleport](<../Techniques/Save Teleporting>) straight to Elder Warrior without entering combat and talk to him
   - If you enter combat accidentally, use [Combat Talking](<../Techniques/Combat Talking>) to talk to the Elder Warrior
-- `Level to 10: Persuade to 13, Master Flurry, Knight Valor`
+- `Level to 10: Persuade to 12, Master Flurry, Knight Valor`
 - Loot Ship Parts from opposite cell
-- Run/Force Jump/[Save Teleport](<../Techniques/Save Teleporting>) out of Rakatan Compound
+- Run/[Save Teleport](<../Techniques/Save Teleporting>) out of Rakatan Compound
 - [Force Skip](<../Techniques/Force Skips>) short walking cutscene outside
-- Run/Force Jump/[Save Teleport](<../Techniques/Save Teleporting>) to Central Beach
-- [Save Teleport](<../Techniques/Save Teleporting>) through Central Beach
-  - You want to try to keep the four Rakatan Warriors here as stationary as possible, so mash these teleports as much as possible
+- Run/[Save Teleport](<../Techniques/Save Teleporting>) to Central Beach
+- [Save Teleport](<../Techniques/Save Teleporting>) through Central Beach to Temple Exterior
+  - You want to try to keep the four Rakatan Warriors here as stationary as possible, so try to be quick and precise
+  - One save TP should reach the large rubble near the warriors, two more should make it up the slope, then one more to the load zone
   - We're trying to keep them out of the way for a trick later
-- Run/Force Jump/[Save Teleport](<../Techniques/Save Teleporting>) through Temple Exterior to South Beach
+- Run/[Save Teleport](<../Techniques/Save Teleporting>) through Temple Exterior to South Beach
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip gizka death scene
 - Enter Elder Rakatan Compound
 - Speak with Rakatan Elders
-- Run/Force Jump/[Save Teleport](<../Techniques/Save Teleporting>) back to Temple Exterior
+- Run/[Save Teleport](<../Techniques/Save Teleporting>) back to Temple Exterior
 - Begin the Rakatan ritual to enter the temple
 - After the CS ends but before the load into the STUNT module, QS
   - You should mash QS as the party runs towards the temple
-  - Kill the program with Task Manager, then reload the QS
-  - This skips the Malak cutscene and clears memory leaks
+  - Kill the program with either ALT+F4 or Task Manager, then reload the QS
+  - This skips the Malak cutscene and acts as the final memory clear
 - *Party: Remove Juhani, Add Canderous*
+  - This enables a quicker escape to the Ebon Hawk later
 - Enter the Temple
 
 ### Ancient Temple
 
 - Activate Solo Mode; make sure Jolee and Canderous stay right near the entrance
-- Run/Force Jump/[Save Teleport](<../Techniques/Save Teleporting>) to temple basement in back
+- Run/[Save Teleport](<../Techniques/Save Teleporting>) to temple basement in back
 - *Stims/Force: Hyper Stim Suite on MC, Cast Knight Speed and Knight Valor*
 - Kill both guard droids in basement
-- Solve floor puzzle with the following path (an H shape, starting from the reset tile)
-![Image showing the H-shaped solution to the Catacombs floor puzzle](/assets/images/imgur-dump/CF497Fm.png)
+- Solve floor puzzle with [this H-shaped path](/assets/images/imgur-dump/CF497Fm.png)
 - Speak to basement computer: 1,1,2,1,2
 - Return to main floor
 - Activate Solo Mode
-- ***Optional Strat: Temple [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)***
-  - *This strat saves some time moving to the front of the temple, but it's a very finicky trick, as it is diffcult to hit the loading zone to activate the [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>). You can disable V-Sync in Advanced Graphics Options to make it easier, but remember to re-enable it afterwards.*
-  - *To perform this strat:*
-    - Run/[Save Teleport](<../Techniques/Save Teleporting>) the MC just outside the room with the two droids
-    - Swap to your second party member
-    - [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) by hitting the load zone, then swapping to the MC
-  - *If you choose not to use the above strat:*
-    - Run/Force Jump/[Save Teleport](<../Techniques/Save Teleporting>) to front of temple and enter Massive Door
+- ***Optional:** Deactivate V-Sync to make the next [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) easier*
+- [Save Teleport](<../Techniques/Save Teleporting>) MC once up the ramp, then swap party members twice
+- [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) by hitting the load zone, then swapping to the MC
 - Enter Temple Summit
+  - Re-enable V-Sync if you disabled it before
 - Talk to and defeat Darth Waifu
+  - You can try to get behind her for Sneak Attacks, but even with that this fight is nearly always 2 rounds
 - Choose to remain true to the light side
   - This is faster than the Dark Side ending; no party members on Star Forge to get in the way
 - Hack computer terminal to lower disruptor field
-- Run/Force Jump/[Save Teleport](<../Techniques/Save Teleporting>) back to Central Beach
-- As soon as you reach the Central Beach:
-  - Activate Solo Mode
-  - Swap to Canderous and board the Ebon Hawk
+- Run/[Save Teleport](<../Techniques/Save Teleporting>) back to the main floor, but enter with Canderous
+- As Canderous, Run/[Save Teleport](<../Techniques/Save Teleporting>) out of the temple and back to Central Beach
+  - Make sure your party follows you in Temple Exterior; if you spend too long there, a STUNT CS will trigger!
+- As soon as you reach the Central Beach, board the nearby Ebon Hawk as Canderous
   - Canderous teleports to be there for the CS outside the Ebon Hawk, but stays in your party
   - If it says you're in combat, move Jolee and MC as far away from the Rakatan Warriors as possible and try again
   - If it still says you're in combat, MC will have to kill the Rakatan warriors before Canderous can board
-- Repair hyperdrive on the Ebon Hawk
+- **Upgrade Double-Bladed Lightsaber: Replace Opila with Solari**
+- Repair the hyperdrive on the Ebon Hawk
 - Fly to the Star Forge
 
 ## The Star Forge
@@ -1204,13 +1219,16 @@ SHOPPING: Czerka Shop
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Assault Droid CS and spawn
 - Go right, then left
   - To get past the two frozen assault droids, click on the distant door and watch the wonders of KotOR pathing
-- *Stims: Hyper Adrenal Alacrity on MC while waiting for the first hostile pair of droids to move*
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Jedi vs. Sith CS
-- *Force: Cast Knight Speed, then Cast Knight Valor as you enter Deck 2*
+- *Force/Stims: Cast Knight Valor, Use Hyper Stim Suite as you enter Deck 2*
 
 ### Deck 2
 
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past fight trigger
+- ***Optional**: [Save Teleport](<../Techniques/Save Teleporting>) past the enemy spawn trigger (Indy Skip)*
+  - This skips the trigger that spawns all the enemies in the hallways ahead of you
+  - No enemies means you're much less likely to be debilitated by an enemy Force Power
+  - However, it also means you have no enemies to Force Jump to, so this is slightly slower than the best case scenario 
 - Take left path, then right, then turn left
 - Hack computer terminal: 1,1,5
 - Return and take elevator to Command Deck
@@ -1218,43 +1236,63 @@ SHOPPING: Czerka Shop
 ### Command Deck
 
 - Immediately after loading, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Bastila/Malak CS
-- Run/Force Jump until double doors
-- *Stims/Force: Hyper Stim Suite (minus Alacrity) on MC, Cast Knight Speed/Valor if needed*
+- Run/Force Jump through first door on left, then two more doors
+- Ensure all six buffs are active
 - [Open Buffer](<../Techniques/Save Buffering#open-buffers>) into the triple Dark Jedi fight
   - DO NOT [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>); this will softlock the game
   - This [Open Buffer](<../Techniques/Save Buffering#open-buffers>) messes with the Dark Jedi AI so they won't attack you unless you attack them first
 - Defeat three Dark Jedi to unseal the door
+  - Kill the center one first, then try to get behind the other two before attacking them for Sneak Attacks
+  - Remember to swap to Flurry before attacking!
+- `If you hit Level 11, Auto-Level MC to reach 22 STR` 
 - Darth Waifu fight
-  - *As a male MC with 12 Persuade and Empathy*, you can spam all conversations after the first
+  - *As a male MC with 12 Persuade*, you can spam all conversations after the first
   - *As a female MC or with less than 12 Persuade*, use the given conversations to guarantee sparing Bastila
   - First conversation: 2
-  - First phase (use Flurry for all phases; try to make sure Speed stays active)
+  - First fight phase (use Flurry for all phases; try to make sure Speed stays active)
+    - You can again run slightly past her on the right while she uses Force Resistance to get Sneak Attacks
   - Second conversation: 2, 2, 1
     - Spam default action during this convo to immediately talk to Bastila and skip phase 2
     - If you fail to skip it, just attack Bastila
   - Third conversation: 2, 2 (if you got the phase skip, this convo is also skipped)
     - Do NOT spam default action here; if you talk to Bastila again, it's a softlock
   - Defeat her last phase
+    - If your Knight Speed and/or Valor wore off here, it's not worth casting them again until after the fight
   - Last conversation
     - *As a male character without enough Persuade*: 1, 1, 1, 3, 2, 3, 1, 1, 1, 1, 1
     - *As a female character*: 1, 1, 1, 2, 2, 2, 1, 1, 1, 1
-- Before the cutscene on the Harbinger, activate a [Map CS Skip](<../Techniques/Map Cutscene Skips>):
-  - Add two party members (at least one should be Jolee or Bastila, for Disable Droid)
+- After the load but before the cutscene on the Harbinger, activate a [Map CS Skip](<../Techniques/Map Cutscene Skips>):
+  - *Party: Add Jolee and Bastila*
   - Close the menu and watch the cutscene
-- `If you hit Level 11, Auto-Level MC`
-- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Darth Malak conversation
-  - To get to the elevator, run towards the corner near the left Jedi and rapidly switch party leaders
+- *Force: Cast Knight Speed*
+- Run through door on right
+- As you approach the next door, [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Darth Malak conversation
+  - End this [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) by actually casting Knight Valor
+  - To get to the elevator, run all party members towards the corner near the left Jedi and switch party leaders
   - One of your characters will end up next to the elevator door; take it to the Viewing Platform
 
-### Viewing Platform
+### Darth Malak Fight
 
-- Darth Malak fight:
-  - Hit him until he triggers the Dead Jedi CS
-  - Use Disable Droid with MC/Jolee/Bastila to release the remaining seven Dead Jedi
-  - You can split the Jedi between MC and a party member to save a little movement
+- Phase One, Stasis Strat:
+  - QS just before triggering the fight
+  - Malak convo: 2
+  - IMMEDIATELY after his weapon flourish CS, pause the game
+  - If Malak already has a blue aura around him (Force Immunity), load the QS and try again
+  - If Malak hasn't cast Force Immunity yet, queue two Stasis casts with both Jolee and Bastila
+  - Swap to MC and swap combat feats to Flurry, then unpause, get behind him, and Flurry away
+  - The Stasis casts will always be saved, but each one slows Malak, reducing his AC by 4 each for a total of -16
+  - The makes the first phase a fairly consistent 2-3 round fight
+- Phase Two, The Jedi Popsicles:
+  - As Malak runs to absorb the first Dead Jedi, Activate Solo Mode and run either Jolee or Bastila towards the opposite side
+  - Mash the cutscene, then *Force: Burst of Speed as Jolee/Bastila*
+  - Use Disable Droid on the four Dead Jedi on that side with Jolee/Bastila
+  - Swap to MC and use Disable Droid on the three remaining Dead Jedi on the opposite side
+    - Using MC prevents Malak from losing too much health, which would trigger another absorption CS
+  - *Force: Recast Knight Speed and Knight Valor if needed*
+    - These have frequently been cancelled by Malak's Force Breach
   - Kill Malak once and for all
-  - You have a backup Hyper Stim Suite if you need it; don't try to hit Malak without it, as your hit rate goes down 25% without stims active
-  - You can also try to keep Knight Valor active (+10% to hit) but this is hard without duration glitch
+    - Bastila and Jolee can distract Malak to enable Sneak Attacks, but his Force Immunity lasts 60 seconds, so Stasis won't work
+    - This last part is RNG heavy, as you only have a 50% chance to hit Malak
 
 ## Version History
 
