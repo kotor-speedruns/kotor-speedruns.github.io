@@ -41,7 +41,7 @@
                 <img class="svg" src="{{ "/assets/images/github.svg" | relative_url }}" title="Contribute" alt="Github Page">
             </a>
             {% else %}
-            <a href="https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/{{ page.path }}">
+            <a href="https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/{{ page.path | replace: '%', '%25'}}">
                 <img class="svg" src="{{ "/assets/images/github.svg" | relative_url }}" title="Contribute" alt="Github Page">
             </a>
             {% endif %}
