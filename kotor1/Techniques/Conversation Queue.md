@@ -30,7 +30,7 @@ One notable benefit of a Conversation Queue is the ability to easily bypass load
 
 1. Enabling [Combat Talking](<Combat Talking>); this is really just using a conversation queue to delay entering combat until after the desired conversation.
 2. Skipping Belaya's trigger on the way to the Jedi Council in all Unrestricted speedruns.
-3. When a [Hotshot](</Major Glitches/Hotshot>) places you on the wrong side of a loading zone, Conversation Queues can be used to return to the main part of the module.  This is used once in [All Star Maps](</Route Guides/All Star Maps>) and once in [All Quests Unrestricted](</Route Guides/All Quests Unrestricted>).
+3. When a [Hotshot](</kotor1/Major Glitches/Hotshot>) places you on the wrong side of a loading zone, Conversation Queues can be used to return to the main part of the module.  This is used once in [All Star Maps](</kotor1/Route Guides/All Star Maps>) and once in [All Quests Unrestricted](</kotor1/Route Guides/All Quests Unrestricted>).
 
 Finally, Conversation Queue is extremely useful on platforms where [Save Buffering](<Save Buffering>) is not possible, such as console or mobile speedruns.
 
