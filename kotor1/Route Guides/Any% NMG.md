@@ -40,6 +40,9 @@ The following glitches and tricks are banned in Any% NMG:
 These glitches and tricks are allowed:
 - [Save Buffers](<../Techniques/Save Buffering>) of all types
 - [Save Teleports](<../Techniques/Save Teleporting>)
+- [Jedi Mine Trick](<../Techniques/Jedi Mine Trick>)
+- [Conversation Overlay](<../Techniques/Conversation Overlay>)
+- [Conversation Queue](<../Techniques/Conversation Queue>)
 - [Map CS Skips](<../Techniques/Map Cutscene Skips>)
 - [Combat Talking](<../Techniques/Combat Talking>)
 - [Force Skips](<../Techniques/Force Skips>)
@@ -820,7 +823,7 @@ SHOPPING: Larrim
 
 ### Krayt Dragon Skip
 
-- ***Method 1: Cutscene Interruption***
+- ***Method 1: [Conversation Overlay](<../Techniques/Conversation Overlay>)***
   - *This is the recommended method.  With practice, this method is consistent, but it is roughly 12 seconds slower than a first try 2-frame QS (see Method 2 below)*
   - To perform Krayt Skip this way:
     - [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) from entrance all the way into the Krayt Dragon's cave
@@ -832,18 +835,20 @@ SHOPPING: Larrim
     - Swap to Bastila and loot the rubble for the Opila Crystal
     - Position Bastila in front of the Krayt Dragon in a [precise location](/assets/images/imgur-dump/GGjL3bL.png)
       - Here's [a look at the general spot](/assets/images/imgur-dump/wWAiCqs.png)
+      - This position stops the Krayt Dragon in a specific spot during the [Conversation Overlay](<../Techniques/Conversation Overlay>)
     - Swap to MC and [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) just out of the cave
     - Position MC directly behind Mission and where the sand texture changes (see this image (coming soon))
-    - Verify everyone's postions, then as MC, click on Mission and immediately QS, then immediately plant a mine
-    - QL and immediately pause.  MC should be running towards Mission.
-    - Let MC get about halfway through the last sand texture before the mouth of the cave and pause again
-    - Swap to Mission and talk to Bastila while still paused
-    - Swap to MC and unpause.  Mission will begin running towards Bastila and the Krayt Dragon CS will start
-    - As the cutscene plays, Mission should get stuck on MC long enough for the Krayt to start moving forward
-    - The Krayt will get stuck on Bastila, and Mission should reach Bastila before the cutscene ends
-      - It is possible for Mission to get stuck for too long and the party to be killed
-      - If this happens, click OK, load the QS, and adjust MC's distance from the cave before starting Mission's convo
-    - Mission's conversation with Bastila interrupts the Krayt Dragon CS: 3
+    - Begin the [Conversation Overlay](<../Techniques/Conversation Overlay>):
+      - MC talks to Mission; QS and use a mine to cancel movement
+      - QL and immediately pause. MC should be running towards Mission.
+      - Let MC get about halfway through the last sand texture before the mouth of the cave and pause again
+        - This timing will have Mission get temporarily stuck on the MC while running to Bastila
+      - Swap to Mission and talk to Bastila while still paused
+      - Swap to MC and unpause.  Mission will begin running towards Bastila and the Krayt Dragon CS will start.
+      - The [Conversation Overlay](<../Techniques/Conversation Overlay>) should cancel the Krayt CS *after* it starts walking but *before* your party is killed.
+        - It is possible for Mission to get stuck on MC for too long and the party to be killed
+        - If this happens, click OK, load the QS, and adjust MC's distance from the cave before starting Mission's convo
+    - After the interruption, finish Bastila's conversation: 2
     - Deactivate Solo Mode, swap to Bastila and talk to the Krayt Dragon
       - This fixes the dragon in place and you can now move past the right side to the Star Map
 - ***Method 2: 2-Frame Quick Save***
@@ -1299,7 +1304,7 @@ SHOPPING: Czerka Shop
 **v5.0 (July 2024)**
 - New build using Scoundrel/TWF/Flurry, as well as Auto-Level Attribute Points.
 - Added several new skips using Jedi Mine Trick.
-- New consistent Krayt Skip using JMT variant.
+- New consistent Krayt Skip using Conversation Overlay.
 - Mostly new credit route, shopping, and stim usage for the new build.
 - New streamlined alignment route that places Solari after Lehon.
 
