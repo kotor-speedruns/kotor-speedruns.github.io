@@ -26,14 +26,14 @@ If you have additional questions, you can check out the [KotOR Speedrunning Disc
 
 **REMEMBER to show yourself restarting the game at the beginning of each attempt.**
 
-The Any% No Major Glitches (NMG) run is a middle-ground category between [Any% Unrestricted](hmjxg) and [Any% Glitchless](xaobq).  
+The Any% No Major Glitches (NMG) run is a middle-ground category between [Any% Unrestricted](</kotor1/Route Guides/Any%25 Unrestricted>) and [Any% Glitchless](</kotor1/Route Guides/Any%25 Glitchless>).
 
 The following glitches and tricks are banned in Any% NMG:
 - [Fake Level Up](<../Major Glitches/Fake Level Up>)
 - [Menu Glitch](<../Major Glitches/Anywhere Menu Glitch>) including AMG
 - [Fast Lane](<../Major Glitches/Fast Lane>)
 - All varieties of [Hotshot](<../Major Glitches/Hotshot>)
-- [Full Inventory Duping](<../Major Glitches/Item Duplication#full-inventory-duplication>)
+- [Full Inventory Duping](</kotor1/Techniques/Item Duplication#full-inventory-duplication>)
 - [Door Clipping](<../Major Glitches/Door Clipping>)
 *Note:* [Door Clipping](<../Major Glitches/Door Clipping>) includes [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) that [bypass locked doors](<../Major Glitches/Door Clipping#gather-party-warp-clips>).
 

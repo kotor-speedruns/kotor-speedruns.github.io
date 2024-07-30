@@ -32,7 +32,7 @@ Finally, any conversation or cutscene that does not have necessary flags or trig
 
 Jedi Mine Trick is only useful in the No Major Glitches ruleset, as the [Anywhere Menu Glitch](<../Major Glitches/Anywhere Menu Glitch>) obsoletes it in Unrestricted speedruns. 
 
-Current uses in [Any% NMG](./Route%20Guides/Any%25%20NMG) include:
+Current uses in [Any% NMG](</kotor1/Route Guides/Any%25 NMG>) include:
 - Skipping three Star Map cutscenes
 - Skipping being sent to your room by Uthar after earning enough prestige
 

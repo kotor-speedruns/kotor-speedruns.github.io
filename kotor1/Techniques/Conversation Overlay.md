@@ -34,7 +34,7 @@ If you don't have a stim or mine available in step 4, you can instead kill the p
 
 ## Uses
 
-A Conversation Overlay is only useful in No Major Glitches speedruns, since Unrestricted runs would just use the [Anywhere Menu Glitch](<../Major Glitches/Anywhere Menu Glitch>) instead.  The only current use of Conversation Overlay in a speedrun is a more consistent version of Krayt Dragon Skip for [Any% NMG](./Route%20Guides/Any%25%20NMG).
+A Conversation Overlay is only useful in No Major Glitches speedruns, since Unrestricted runs would just use the [Anywhere Menu Glitch](<../Major Glitches/Anywhere Menu Glitch>) instead.  The only current use of Conversation Overlay in a speedrun is a more consistent version of Krayt Dragon Skip for [Any% NMG](</kotor1/Route Guides/Any%25 NMG>).
 
 While the Bastila fight on Temple Summit can be skipped with a Conversation Overlay, it's actually slower to do so than all but the most unlucky fights.
 
