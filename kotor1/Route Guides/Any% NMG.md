@@ -306,7 +306,7 @@ Abbreviations:
 - Set these Options:
   - Ensure V-Sync is ON
   - Ensure Auto-Level is ON in the Gameplay Menu
-  - Optionally, make sure you have no saved games.
+  - Optionally, make sure you have no saved games
 - Character Creation
   - Male/Female Scoundrel - Custom Character
   - Str to 18, Dex to 12, Con to 14, Cha to 12
