@@ -4,7 +4,7 @@ redirect_from:
 ---
 # Star Wars: Knights of the Old Republic - Any% No Major Glitches Guide
 
-### v5.0: Male/Female Scout -> Jedi Guardian Route (Light Side)
+### v5.1: Male/Female Scout -> Jedi Guardian Route (Light Side)
 
 This route defeats Malak on the Star Forge as fast as possible without major glitches.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.   This guide will cover the character build for the run, as well as a detailed route.
 
@@ -35,6 +35,7 @@ The following glitches and tricks are banned in Any% NMG:
 - All varieties of [Hotshot](<../Major Glitches/Hotshot>)
 - [Full Inventory Duping](</kotor1/Techniques/Item Duplication#full-inventory-duplication>)
 - [Door Clipping](<../Major Glitches/Door Clipping>)
+
 *Note:* [Door Clipping](<../Major Glitches/Door Clipping>) includes [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) that [bypass locked doors](<../Major Glitches/Door Clipping#gather-party-warp-clips>).
 
 These glitches and tricks are allowed:
@@ -1154,7 +1155,9 @@ SHOPPING: Czerka Shop
 
 ### Beaches
 
-- Run/[Save Teleport](<../Techniques/Save Teleporting>) To North Beach
+- Run/[Save Teleport](<../Techniques/Save Teleporting>) to Temple Exterior
+- Run/[Save Teleport](<../Techniques/Save Teleporting>) through Temple Exterior to South Beach
+- Return to Ebon Hawk and Run/[Save Teleport](<../Techniques/Save Teleporting>) to North Beach
 - Rakatan Warriors accost you
 - Speak with The One: 1,1,1,1,1,4,4
 - Run/[Save Teleport](<../Techniques/Save Teleporting>) straight to Elder Warrior without entering combat and talk to him
@@ -1164,11 +1167,7 @@ SHOPPING: Czerka Shop
 - Run/[Save Teleport](<../Techniques/Save Teleporting>) out of Rakatan Compound
 - [Force Skip](<../Techniques/Force Skips>) short walking cutscene outside
 - Run/[Save Teleport](<../Techniques/Save Teleporting>) to Central Beach
-- [Save Teleport](<../Techniques/Save Teleporting>) through Central Beach to Temple Exterior
-  - You want to try to keep the four Rakatan Warriors here as stationary as possible, so try to be quick and precise
-  - One save TP should reach the large rubble near the warriors, two more should make it up the slope, then one more to the load zone
-  - We're trying to keep them out of the way for a trick later
-- Run/[Save Teleport](<../Techniques/Save Teleporting>) through Temple Exterior to South Beach
+- Transit Back to South Beach
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip gizka death scene
 - Enter Elder Rakatan Compound
 - Speak with Rakatan Elders
@@ -1300,6 +1299,10 @@ SHOPPING: Czerka Shop
     - This last part is RNG heavy, as you only have a 50% chance to hit Malak
 
 ## Version History
+
+**v5.1 (August 2024)**
+- Added a strat that always avoids the Rakatan Warriors when leaving Lehon.
+- Miscellaneous minor fixes and corrections.
 
 **v5.0 (July 2024)**
 - New build using Scoundrel/TWF/Flurry, as well as Auto-Level Attribute Points.
