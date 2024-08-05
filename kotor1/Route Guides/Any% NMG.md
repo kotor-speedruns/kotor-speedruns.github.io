@@ -833,18 +833,19 @@ SHOPPING: Larrim
       - Make sure your party follows you!
     - Once in the cave, Activate Solo Mode
     - Swap to Bastila and click the rubble to the left of the Krayt Dragon
-    - Swap to Mission and position her in this precise location (image coming soon)
-      - This position puts Mission as far away from the Dragon as possible while still being able to speak to Bastila
+    - Swap to MC and [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) just out of the cave
     - Swap to Bastila and loot the rubble for the Opila Crystal
     - Position Bastila in front of the Krayt Dragon in a [precise location](/assets/images/imgur-dump/GGjL3bL.png)
       - Here's [a look at the general spot](/assets/images/imgur-dump/wWAiCqs.png)
       - This position stops the Krayt Dragon in a specific spot during the [Conversation Overlay](<../Techniques/Conversation Overlay>)
-    - Swap to MC and [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) just out of the cave
-    - Position MC directly behind Mission and where the sand texture changes (see this image (coming soon))
+    - Swap to Mission and position her in this [precise location](/assets/images/NMGKraytMissionExact.png)
+      - Here's [a look at the general spot](/assets/images/NMGKraytMissionRough.png)
+      - This position puts Mission as far away from the Dragon as possible while still being able to speak to Bastila
+    - Position MC directly behind Mission and [where the sand texture changes](/assets/images/NMGKraytMC.png)
     - Begin the [Conversation Overlay](<../Techniques/Conversation Overlay>):
       - MC talks to Mission; QS and use a mine to cancel movement
       - QL and immediately pause. MC should be running towards Mission.
-      - Let MC get about halfway through the last sand texture before the mouth of the cave and pause again
+      - Let MC get [just inside the last sand texture](/assets/images/NMGKraytMC.png) before the mouth of the cave and pause again
         - This timing will have Mission get temporarily stuck on the MC while running to Bastila
       - Swap to Mission and talk to Bastila while still paused
       - Swap to MC and unpause.  Mission will begin running towards Bastila and the Krayt Dragon CS will start.
