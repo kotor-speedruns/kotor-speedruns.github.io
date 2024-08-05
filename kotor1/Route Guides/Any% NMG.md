@@ -838,14 +838,14 @@ SHOPPING: Larrim
     - Position Bastila in front of the Krayt Dragon in a [precise location](/assets/images/imgur-dump/GGjL3bL.png)
       - Here's [a look at the general spot](/assets/images/imgur-dump/wWAiCqs.png)
       - This position stops the Krayt Dragon in a specific spot during the [Conversation Overlay](<../Techniques/Conversation Overlay>)
-    - Swap to Mission and position her in this [precise location](/assets/images/NMGKraytMissionExact.png)
-      - Here's [a look at the general spot](/assets/images/NMGKraytMissionRough.png)
+    - Swap to Mission and position her in this [precise location](/assets/images/kotor1/NMGKraytMissionExact.png)
+      - Here's [a look at the general spot](/assets/images/kotor1/NMGKraytMissionRough.png)
       - This position puts Mission as far away from the Dragon as possible while still being able to speak to Bastila
-    - Position MC directly behind Mission and [where the sand texture changes](/assets/images/NMGKraytMC.png)
+    - Position MC directly behind Mission and [where the sand texture changes](/assets/images/kotor1/NMGKraytMC.png)
     - Begin the [Conversation Overlay](<../Techniques/Conversation Overlay>):
       - MC talks to Mission; QS and use a mine to cancel movement
       - QL and immediately pause. MC should be running towards Mission.
-      - Let MC get [just inside the last sand texture](/assets/images/NMGKraytMC.png) before the mouth of the cave and pause again
+      - Let MC get [just inside the last sand texture](/assets/images/kotor1/NMGKraytMC.png) before the mouth of the cave and pause again
         - This timing will have Mission get temporarily stuck on the MC while running to Bastila
       - Swap to Mission and talk to Bastila while still paused
       - Swap to MC and unpause.  Mission will begin running towards Bastila and the Krayt Dragon CS will start.
