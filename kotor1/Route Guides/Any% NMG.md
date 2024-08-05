@@ -172,7 +172,7 @@ The new credit route always has exactly three shopping trips.  Our credits all c
 
 ### Buying Alacrities
 
-The second shopping trip for Adrenal Alacrities depends on whether or not you get a random Alacrity drop on the Endar Spire.  This drop saves 10 seconds and is possible when recruiting Trask or when looting the Sith Heavy Trooper in the Starboard Section, but both opportunities are only a 1 in 240 chance.
+The second shopping trip for Adrenal Alacrities depends on whether or not you get a random Alacrity drop on the Endar Spire.  This drop saves 10 seconds and is possible when recruiting Trask or when looting the Sith Heavy Trooper in the Starboard Section, but both opportunities are only a 1 in 240 chance, meaning you have a net 0.83% chance of getting at least one Alacrity on Spire.
 
 Your second shopping trip should be:
 - With no Spire Alacrity: Shop with Zelka, skip Dantooine and Manaan
