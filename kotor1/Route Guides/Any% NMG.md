@@ -172,14 +172,14 @@ The new credit route always has exactly three shopping trips.  Our credits all c
 
 ### Buying Alacrities
 
-The second shopping trip for Adrenal Alacrities depends on whether or not you get a random Alacrity drop on the Endar Spire.  This drop saves 10 seconds and is possible when recruiting Trask, but only at a 1 in 240 chance.
+The second shopping trip for Adrenal Alacrities depends on whether or not you get a random Alacrity drop on the Endar Spire.  This drop saves 10 seconds and is possible when recruiting Trask or when looting the Sith Heavy Trooper in the Starboard Section, but both opportunities are only a 1 in 240 chance.
 
 Your second shopping trip should be:
 - With no Spire Alacrity: Shop with Zelka, skip Dantooine and Manaan
 - With a Spire Alacrity but no other random Alacrity on Taris: Skip Zelka, Shop at Dantooine, Skip Manaan
 - With a Spire Alacrity AND one other random Alacrity on Taris: Skip Zelka and Dantooine, Shop on Manaan
 
-As noted, the chance of a random Spire Alacrity is extremely low, so you'll almost always be shopping with Zelka.  There is also a 1 in 240 chance of Trask having a Battle Stimulant, in which case you could skip buying one from Larrim; but this is less important, since that just gets you possibly one extra Life Support Pack later.
+As noted, the chance of a random Spire Alacrity is extremely low, so you'll almost always be shopping with Zelka.  There is also a 1 in 240 chance of Trask (or the Heavy Trooper) having a Battle Stimulant, in which case you could skip buying one from Larrim; but this is less important, since that just gets you possibly one extra Life Support Pack later.
 
 ## Alignment Route
 
