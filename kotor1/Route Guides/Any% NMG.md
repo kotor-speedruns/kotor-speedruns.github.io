@@ -4,7 +4,7 @@ redirect_from:
 ---
 # Star Wars: Knights of the Old Republic - Any% No Major Glitches Guide
 
-### v5.0: Male/Female Scout -> Jedi Guardian Route (Light Side)
+### v5.1: Male/Female Scout -> Jedi Guardian Route (Light Side)
 
 This route defeats Malak on the Star Forge as fast as possible without major glitches.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.   This guide will cover the character build for the run, as well as a detailed route.
 
@@ -35,6 +35,7 @@ The following glitches and tricks are banned in Any% NMG:
 - All varieties of [Hotshot](<../Major Glitches/Hotshot>)
 - [Full Inventory Duping](</kotor1/Techniques/Item Duplication#full-inventory-duplication>)
 - [Door Clipping](<../Major Glitches/Door Clipping>)
+
 *Note:* [Door Clipping](<../Major Glitches/Door Clipping>) includes [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) that [bypass locked doors](<../Major Glitches/Door Clipping#gather-party-warp-clips>).
 
 These glitches and tricks are allowed:
@@ -169,14 +170,16 @@ The new credit route always has exactly three shopping trips.  Our credits all c
 - Sell: Nonessential items to reach ~3578 Credits
 - Buy: 7ish Life Support Pack, 5x Echani Battle Stimulant, 5x All Hyper Adrenal Stims (28 Credits Left)
 
-The second shopping trip depends on whether or not you get a random Alacrity drop on the Endar Spire (possible when recruiting Trask):
+### Buying Alacrities
 
+The second shopping trip for Adrenal Alacrities depends on whether or not you get a random Alacrity drop on the Endar Spire.  This drop saves 10 seconds and is possible when recruiting Trask, but only at a 1 in 240 chance.
+
+Your second shopping trip should be:
 - With no Spire Alacrity: Shop with Zelka, skip Dantooine and Manaan
 - With a Spire Alacrity but no other random Alacrity on Taris: Skip Zelka, Shop at Dantooine, Skip Manaan
 - With a Spire Alacrity AND one other random Alacrity on Taris: Skip Zelka and Dantooine, Shop on Manaan
-- It is vanishingly unlikely to get a Spire Alacrity and two other random Alacrities on Taris, but if you do you can skip all three shopping trips
 
-The chance of a random Spire Alacrity is extremely low, so 99 times out of 100 you'll be shopping with Zelka.
+As noted, the chance of a random Spire Alacrity is extremely low, so you'll almost always be shopping with Zelka.  There is also a 1 in 240 chance of Trask having a Battle Stimulant, in which case you could skip buying one from Larrim; but this is less important, since that just gets you possibly one extra Life Support Pack later.
 
 ## Alignment Route
 
@@ -305,7 +308,7 @@ Abbreviations:
 - Set these Options:
   - Ensure V-Sync is ON
   - Ensure Auto-Level is ON in the Gameplay Menu
-  - Optionally, make sure you have no saved games.
+  - Optionally, make sure you have no saved games
 - Character Creation
   - Male/Female Scoundrel - Custom Character
   - Str to 18, Dex to 12, Con to 14, Cha to 12
@@ -830,18 +833,19 @@ SHOPPING: Larrim
       - Make sure your party follows you!
     - Once in the cave, Activate Solo Mode
     - Swap to Bastila and click the rubble to the left of the Krayt Dragon
-    - Swap to Mission and position her in this precise location (image coming soon)
-      - This position puts Mission as far away from the Dragon as possible while still being able to speak to Bastila
+    - Swap to MC and [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) just out of the cave
     - Swap to Bastila and loot the rubble for the Opila Crystal
     - Position Bastila in front of the Krayt Dragon in a [precise location](/assets/images/imgur-dump/GGjL3bL.png)
       - Here's [a look at the general spot](/assets/images/imgur-dump/wWAiCqs.png)
       - This position stops the Krayt Dragon in a specific spot during the [Conversation Overlay](<../Techniques/Conversation Overlay>)
-    - Swap to MC and [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) just out of the cave
-    - Position MC directly behind Mission and where the sand texture changes (see this image (coming soon))
+    - Swap to Mission and position her in this [precise location](/assets/images/kotor1/NMGKraytMissionExact.png)
+      - Here's [a look at the general spot](/assets/images/kotor1/NMGKraytMissionRough.png)
+      - This position puts Mission as far away from the Dragon as possible while still being able to speak to Bastila
+    - Position MC directly behind Mission and [where the sand texture changes](/assets/images/kotor1/NMGKraytMC.png)
     - Begin the [Conversation Overlay](<../Techniques/Conversation Overlay>):
       - MC talks to Mission; QS and use a mine to cancel movement
       - QL and immediately pause. MC should be running towards Mission.
-      - Let MC get about halfway through the last sand texture before the mouth of the cave and pause again
+      - Let MC get [just inside the last sand texture](/assets/images/kotor1/NMGKraytMC.png) before the mouth of the cave and pause again
         - This timing will have Mission get temporarily stuck on the MC while running to Bastila
       - Swap to Mission and talk to Bastila while still paused
       - Swap to MC and unpause.  Mission will begin running towards Bastila and the Krayt Dragon CS will start.
@@ -1154,7 +1158,9 @@ SHOPPING: Czerka Shop
 
 ### Beaches
 
-- Run/[Save Teleport](<../Techniques/Save Teleporting>) To North Beach
+- Run/[Save Teleport](<../Techniques/Save Teleporting>) to Temple Exterior
+- Run/[Save Teleport](<../Techniques/Save Teleporting>) through Temple Exterior to South Beach
+- Return to Ebon Hawk and Run/[Save Teleport](<../Techniques/Save Teleporting>) to North Beach
 - Rakatan Warriors accost you
 - Speak with The One: 1,1,1,1,1,4,4
 - Run/[Save Teleport](<../Techniques/Save Teleporting>) straight to Elder Warrior without entering combat and talk to him
@@ -1164,11 +1170,7 @@ SHOPPING: Czerka Shop
 - Run/[Save Teleport](<../Techniques/Save Teleporting>) out of Rakatan Compound
 - [Force Skip](<../Techniques/Force Skips>) short walking cutscene outside
 - Run/[Save Teleport](<../Techniques/Save Teleporting>) to Central Beach
-- [Save Teleport](<../Techniques/Save Teleporting>) through Central Beach to Temple Exterior
-  - You want to try to keep the four Rakatan Warriors here as stationary as possible, so try to be quick and precise
-  - One save TP should reach the large rubble near the warriors, two more should make it up the slope, then one more to the load zone
-  - We're trying to keep them out of the way for a trick later
-- Run/[Save Teleport](<../Techniques/Save Teleporting>) through Temple Exterior to South Beach
+- Transit Back to South Beach
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip gizka death scene
 - Enter Elder Rakatan Compound
 - Speak with Rakatan Elders
@@ -1300,6 +1302,10 @@ SHOPPING: Czerka Shop
     - This last part is RNG heavy, as you only have a 50% chance to hit Malak
 
 ## Version History
+
+**v5.1 (August 2024)**
+- Added a strat that always avoids the Rakatan Warriors when leaving Lehon.
+- Miscellaneous minor fixes and corrections.
 
 **v5.0 (July 2024)**
 - New build using Scoundrel/TWF/Flurry, as well as Auto-Level Attribute Points.

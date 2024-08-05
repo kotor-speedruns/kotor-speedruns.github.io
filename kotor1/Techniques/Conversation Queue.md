@@ -37,3 +37,4 @@ Finally, Conversation Queue is extremely useful on platforms where [Save Bufferi
 ## Related Glitches
 
 * [Combat Talking](<Combat Talking>)
+* [Conversation Overlay](<Conversation Overlay>)
