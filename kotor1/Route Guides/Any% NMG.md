@@ -4,7 +4,7 @@ redirect_from:
 ---
 # Star Wars: Knights of the Old Republic - Any% No Major Glitches Guide
 
-### v5.1: Male/Female Scout -> Jedi Guardian Route (Light Side)
+### v5.2: Male/Female Scout/Scoundrel -> Jedi Guardian Route (Light Side)
 
 This route defeats Malak on the Star Forge as fast as possible without major glitches.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.   This guide will cover the character build for the run, as well as a detailed route.
 
@@ -13,6 +13,7 @@ If you have additional questions, you can check out the [KotOR Speedrunning Disc
 **Table of Contents:**
 - [NMG Ruleset](#nmg-ruleset)
 - [Character Build](#character-build)
+  - [Choosing a Build](#choosing-a-build)
   - [Character Creation](#character-creation)
   - [Leveling Plan](#leveling-plan)
 - [Equipment Plan](#equipment-plan)
@@ -54,59 +55,106 @@ These glitches and tricks are allowed:
 
 ## Character Build
 
+### Choosing a Build
+
+There are two character builds that are nearly identical in terms of average performance for the Any% NMG run: a Scoundrel build focused on Sneak Attack and a Scout build. Both builds use Two-Weapon Fighting and Flurry for their combat, and both become a Jedi Guardian at level 4.  Which build you pick is up to personal preference, but the general benefits of each are as follows:
+
+**Scoundrel:**
+- Better combat vs. major Taris targets, Uthar, and Leviathan Malak
+- No Weapon Focus: Melee Weapons for Taris
+- Less Vitality (-6) but more Defense (+2 due to Scoundrel's Luck)
+- Less Treat Injury (TI) on Taris but more TI after Taris (+3)
+- Worse Fortitude and Will saves (-2)
+- Must swap combat feats to Flurry for all fights
+- Need to position for Sneak Attacks in some fights
+
+**Scout:**
+- Guaranteed Alacrity on Spire, saving 10-11 seconds due to better shopping route
+- Weapon Focus: Melee Weapons for Taris
+- Better Fortitude and Will saves (+2)
+- More Vitality (+6) but less Defense (-2)
+- More TI on Taris (+5 with Empathy) but less TI after Taris (-2)
+- Flurry is the default combat feat
+- Can spam Flurry in all fights
+
+Overall the real comparison is the guaranteed Alacrity for the Scout vs. the better combat for the Scoundrel.  If Scoundrel can save four combat rounds due to the effectiveness of Sneak Attack, it makes up for the time loss due to no Spire Alacrity.  There's also a very small chance (see [Credit Route](#credit-route)) that a random Alacrity can drop on Endar Spire, meaning the best outcome would be a Scoundrel with the random Alacrity drop.  Some runners may prefer the slightly better bulk and consistent early timesave of a Scout, and Scouts could also get lucky combat rolls on the relevant fights.
+
 ### Character Creation
 
-We begin as a Scoundrel; this guide as written can be completed as either a Male or Female character, but Male has the small advantage of an easier time with Persuade checks on Lashowe and Bastila.  
-
-Scoundrel is used because of access to Sneak Attack (plus a small defense bonus from Scoundrel's Luck).  Even though we only get Sneak Attack II, it helps significantly on some important fights.  On becoming a Jedi we'll choose the Jedi Guardian class for maximum attack power, the Force Jump feat, and since we no longer need any skill points.
+Choose whichever class you want based on the discussion above.  Either Male or Female works for both builds, but Male has the very small advantage of an easier time with Persuade checks on Lashowe and Bastila.
 
 **Initial Attributes:**
 * Str - 18
 * Dex - 12
 * Con - 14
-* Int - 8
+* Int - 8/10
 * Wis - 8
-* Cha - 12
+* Cha - 12/10
 
-**Initial Skills:**
-* Demolitions - 1
-* Stealth - 1
-* Persuade - 4
-* Security - 1
-* Save 5 points
+We are going to focus on melee attacks with a lightsaber, so we max out Strength immediately, and get enough Dexterity and Constitution to help us survive.  The points in Charisma ensure all Persuade checks will succeed without the need for Force Valor; if you really wanted to, you could do 14 Dex and 2 fewer Cha at the cost of needing Force Valor before key Persuade checks with Yuthura, Lashowe, Czerka Guards on Kashyyyk (for Scouts), and Bastila.
 
-**Initial Feat** - Flurry
+Scoundrels should use 8 Int and 12 Cha, while Scouts should use 10 Int and 10 Cha.  Scouts need 10 Int to reach +4 net Computer Use and save a computer spike when hacking, while the extra feat for Scouts is Empathy, canceling out the difference in Charisma as far as Persuade goes.
 
-We are going to focus on melee attacks with a lightsaber, so we max out Strength immediately, and get enough Dexterity and Constitution to help us survive.  The 12 points in Charisma ensure all Persuade checks will succeed without the need for Force Valor; if you really wanted to, you could do 14 Dex and 10 Cha at the cost of needing Force Valor before key Persuade checks with Yuthura, Lashowe, and Bastila.
+**Initial Skills and Feat:**
 
-We sink as many points as we can into Persuade at the start, and the points in both Demolitions and Security are strictly for tricks; 1 point in Demolitions enables the MC to perform Jedi Mine Tricks, while the point in Security is for a door on the Endar Spire.  The point in Stealth guarantees a Stealth Field Generator in the initial footlocker, which we sell for 40 additional credits in the early game.  We do not put points in Treat Injury (TI) because it is not a class skill for Scoundrels, but we will put points in once we become a Jedi Guardian.
+| Skill | Scoundrel | Scout |
+| :--- | --- | --- |
+| Computer Use | 0 | 4 |
+| Demolitions | 1 | 1 |
+| Stealth | 1 | 0 |
+| Awareness | 0 | 0 |
+| Persuade | 4 | 0 |
+| Repair | 0 | 0 |
+| Security | 1 | 1 |
+| Treat Injury | 0 | 4 |
+| Feat Chosen: | Flurry | Focus: Melee |
 
-We choose Flurry because it's an overall better combat feat for the run; more attacks per round yields more bonus damage from Sneak Attacks.  This build must forgo Weapon Focus: Melee Weapons, but this only matters on Taris and doesn't hurt our chances to hit too much.  We choose Flurry over Two-Weapon Fighting because it takes longer to select, so at level 2 it's faster to pick Two-Weapon Fighting.  Since character creation isn't timed, this is optimal.
+The points in both Demolitions and Security are strictly for tricks; 1 point in Demolitions enables the MC to perform [Jedi Mine Trick](<../Techniques/Jedi Mine Trick>), while the point in Security is for a door on the Endar Spire.  
+
+For Scoundrels, the point in Stealth guarantees a Stealth Field Generator in the initial footlocker, which we sell for 40 additional credits in the early game.  Scoundrels put points in Persuade but not Treat Injury (TI) because Persuade is a Class Skill while TI is not.  We will put more points in both once we become a Jedi Guardian.
+
+For Scouts, the points in Computer Use (and 10 Int) let us save 1 spike while hacking on the Endar Spire, yielding a smoother spike route on Taris.  Scoundrels do not need this because they have a guaranteed spike drop in their initial footlocker.  Scouts put points in TI but not Persuade due to Class Skills, and also put more points in both when they become a Jedi Guardian.
+
+We choose Flurry because it's an overall better combat feat for the run; more attacks per round yields more bonus damage from Sneak Attacks.  We choose Flurry or Focus: Melee over Two-Weapon Fighting at character creation because it takes longer to select, so at level 2 it's faster to pick Two-Weapon Fighting.  Since character creation isn't timed, this is optimal.
 
 ### Leveling Plan
+
+**Scoundrel:**
 
 | Level | STR | Feats | Powers | Skills |
 | --- | --- | :--- | :--- | :--- |
 | 1 | 18 | Flurry, *Sneak Attack I, Scoundrel's Luck* | | Demo to 1, Stl to 1, Per to 4, Sec to 1, Save 5 |
 | 2 | 18 | Two-Weapon Fighting | | Save All |
 | 3 | 18 | *Sneak Attack II* | | Save All |
+
+**Scout:**
+
+| Level | STR | Feats | Powers | Skills |
+| --- | --- | :--- | :--- | :--- |
+| 1 | 18 | Weapon Focus: Melee Weapons, *Flurry* | | Com to 4, Demo to 1, Sec to 1, TI to 4, Save 2 |
+| 2 | 18 | Two-Weapon Fighting | | Save All |
+| 3 | 18 | Empathy | | Save All |
+
+**Jedi Guardian:**
+
+| Level | STR | Feats | Powers | Skills |
+| --- | --- | :--- | :--- | :--- |
 | 4 | 19 | Improved Two-Weapon Fighting | Affect Mind, Stun Droid | Save All |
 | 5 | 19 | | Force Valor | Save All |
-| 6 | 19 | Improved Flurry | Burst of Speed | Per to 9, TI to 9 |
+| 6 | 19 | Improved Flurry | Burst of Speed | Per to 9, Rest in TI |
 | AL7 | *20* | | *Stun* | *Awareness to 1* |
 | 8 | 21 | | Disable Droid | Per to 10 |
 | 9 | 21 | Master Two-Weapon Fighting | Knight Speed | Per to 11 |
 | 10 | 21 | Master Flurry | Knight Valor | Per to 12 |
 | AL11 | *22* | | *Stasis* | *Awareness to 2* |
 
-Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flurry, and Knight Speed, using Bastila's Double-bladed Lightsaber as our main weapon.  This gives us multiple attacks that will deal as much damage as possible; we need as many attacks as we can get, since our chance to hit will be relatively low.  We are not guaranteed to hit level 11 in the run, but it makes the Malak fight much more consistent, so we try to kill some extra stuff in Hrakert Station to ensure it.
+We are not guaranteed to hit level 11 in the run, but doing so makes the final Malak fight much more consistent, so we try to kill some extra stuff in Hrakert Station to ensure it.
 
 **Auto-Level Attributes:**
 - When Auto-Leveling the MC, the game only checks your Jedi class level when deciding whether to give an attribute point, rather than your overall character level.  That means you can use Auto-Leveling to gain extra points in STR at Jedi levels 4 and 8, which correspond to character levels 7 and 11.  This is why we Auto-Level at 7 and 11, making it to 22 base STR at level 11.
 
 **Skill Notes:**
-- We only need 1 point in Demolitions, since all of our Jedi Mine Tricks happen outside of combat.
-- We only need 1 point in Stealth for the belt, and 1 point in Security to open one door on the Endar Spire.
+- We only add points to Persuade or TI; all other skills stay at their initial levels.
 - We need Persuade for several conversations:
   1. On Dantooine, we must Persuade Juhani to return to the Jedi.
   2. On Manaan, we must Persuade the scared scientists to lower the force field.
@@ -118,10 +166,12 @@ Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flu
 
 **Feat Notes:**
 - Flurry outdoes Critical Strike in the overall run by about 3 combat rounds on average.  The extra attack from Flurry yields more damage in general, but also more Sneak Attack damage when relevant.
-- Flurry and Two-Weapon Fighting are our main combat core.  Taking Flurry forces us to skip Weapon Focus: Melee Weapons on Taris, but overall this is better.
+- Flurry and Two-Weapon Fighting are our main combat core.  As a Scoundrel, taking Flurry forces us to skip Weapon Focus: Melee Weapons on Taris, but overall this is better.
+- Scouts get one extra feat at level 3, which is Empathy.  This cancels out the difference in Charisma for Persuade purposes, and gives Scouts a small boost to TI.
 
 **Force Power Notes:**
-- Force Speed is the most important Force power, giving double movement speed, although [Save Teleports](<../Techniques/Save Teleporting>) are eventually the fastest form of movement.  Knight Speed also grants +1 attack per round, which is highly important due to our relatively low chance to hit, and to maximize Sneak Attack damage bonus.
+- The Force Powers chosen are the same regardless of starting class.  Both builds become a Jedi Guardian.
+- Force Speed is the most important Force power, giving double movement speed, although [Save Teleports](<../Techniques/Save Teleporting>) are eventually the fastest form of movement.  Knight Speed also grants +1 attack per round, which is highly important due to our relatively low chance to hit, and to maximize Sneak Attack damage bonus as a Scoundrel.
 - Force Valor is used to boost stats for as many fights as possible.  Knight Valor also gives us Immunity: Poison, which protects against Affliction and Plague on the Star Forge.
 - Disable Droid is used to free the Captured Jedi during the Malak fight at the end of the game.  This denies them to Malak, meaning you only have to kill him twice.  It also fills up your Force Points as well, though not your health.
 - Affect Mind is used only to avoid landing fees on Manaan, Tatooine, and Kashyyyk.  This lets us afford 2 extra Life Support Packs, plus we don't really need the extra Force Power for anything else.
@@ -154,32 +204,44 @@ All of our equipment should be equipped once we leave Tatooine, with the excepti
 The new credit route always has exactly three shopping trips.  Our credits all come from either selling items we don't need or looting credits; we also loot some extra corpses to be able to afford all the stims we want on Korriban.
 
 **1. Larrim on Taris**
-- Sell: Nonessential items to reach ~926 Credits
-- Buy: 2 Concussion Grenades, 1 Battle Stimulant, 4x Minor Mines (200 Credits Left)
+- Sell: All except Medpacs, Computer Spikes, Concussion and Frag Grenades, Stims
+- Buy: 2x Grenades, 1x Battle Stimulant, 4x Minor Mines
 
 **2a. Zelka on Taris**
-- Buy: 3x Adrenal Alacrity (50 Credits Left)
+- Buy: 4x Adrenal Alacrity
 
 **2b. Crattis Yurkal on Dantooine**
-- Buy: 2x Adrenal Alacrity
+- Buy: 3x Adrenal Alacrity
 
 **2c. Selkath Merchant on Manaan**
 - Buy: 1x Adrenal Alacrity
 
 **3. Czerka Shop on Korriban**
-- Sell: Nonessential items to reach ~3578 Credits
-- Buy: 7ish Life Support Pack, 5x Echani Battle Stimulant, 5x All Hyper Adrenal Stims (28 Credits Left)
+- Sell: All except Adv Medpacs, Computer Spikes, and Mines
+- Buy: 6-8x Life Support Pack, 5x Echani Battle Stimulant, 5x All Hyper Adrenal Stims
 
 ### Buying Alacrities
 
-The second shopping trip for Adrenal Alacrities depends on whether or not you get a random Alacrity drop on the Endar Spire.  This drop saves 10 seconds and is possible when recruiting Trask, but only at a 1 in 240 chance.
+The second shopping trip for Adrenal Alacrities depends on whether or not you get an Alacrity on the Endar Spire.  Scouts are guaranteed an Adrenal Alacrity in their initial footlocker, while Scoundrels must rely on an unlikely random drop.  An Alacrity can drop randomly when recruiting Trask or when looting the Sith Heavy Trooper in the Starboard Section.  Both opportunities are only a 1 in 240 chance, meaning you have a net 0.83% chance of getting at least one random Alacrity on Spire.
 
 Your second shopping trip should be:
 - With no Spire Alacrity: Shop with Zelka, skip Dantooine and Manaan
-- With a Spire Alacrity but no other random Alacrity on Taris: Skip Zelka, Shop at Dantooine, Skip Manaan
-- With a Spire Alacrity AND one other random Alacrity on Taris: Skip Zelka and Dantooine, Shop on Manaan
+- With one Spire Alacrity but no other random Alacrity: Skip Zelka, Shop at Dantooine, Skip Manaan
+- With one Spire Alacrity and at least 1 other random Alacrity: Skip Zelka and Dantooine, Shop on Manaan
 
-As noted, the chance of a random Spire Alacrity is extremely low, so you'll almost always be shopping with Zelka.  There is also a 1 in 240 chance of Trask having a Battle Stimulant, in which case you could skip buying one from Larrim; but this is less important, since that just gets you possibly one extra Life Support Pack later.
+As noted, the chance of a random Spire Alacrity is extremely low, so Scoundrels will almost always be shopping with Zelka, whereas Scouts should never shop with Zelka and will usually shop on Dantooine.  Shopping on Dantooine is 10-11s faster than shopping with Zelka.  Shopping on Manaan will be extremely rare, but saves about 4s over shopping on Dantooine if you are that lucky.
+
+### Other Random Loot
+
+There are a couple other random drops possible on the Endar Spire that can affect your initial shopping trip with Larrim.
+
+| Drop | Chance | Old Larrim Shopping | New Larrim Shopping |
+| :--- | --- | :--- | :--- |
+| 1-2x Frag Grenade | 10.7% | No Change | Use all Frags on Sewer Rakghouls |
+| 2x Concussion Grenade | 0.83% | Buy 2x Conc Grenade | Buy 1x Conc, 1x Frag Grenades |
+| 1x Battle Stimulant | 0.83% | Buy 1x Battle Stimulant | Don't Buy 1x Battle Stimulant |
+
+Any other random loot can be sold to Larrim for extra credits that will eventually go towards Life Support Packs on Korriban.
 
 ## Alignment Route
 
@@ -328,11 +390,11 @@ Abbreviations:
 - Mash through the Carth conversation before MC finishes unlocking the door
   - If the CS of the shootout between the Sith and Republic soldiers doesn't play, you were too slow; QL and use Security again
 - Use Trask's Power Blast to kill two Sith Soldiers
-  - ***Important:** Note whether you have an Adrenal Alacrity.  This is rare but affects where you go shopping.*
+  - Check to see if you have an Adrenal Alacrity (Scouts will always have one)
 - Loot footlocker in next room
 - Open the next door and wait for the second CS of Sith vs. Republic
 - Kill front three Sith Soldiers with Frag Grenade on the middle soldier
-  - Each has only a 10% chance to survive via Reflex save, for a 72.9% chance of killing all three
+  - Each has only a 10% chance to survive via Reflex save, for a 72.9% chance of killing all three outright
   - If one (or more) survive, have Trask finish them while MC runs to the next door
 - Open the next door for the Jedi vs. Sith cutscene
 - Use Trask's Power Blast to kill two Sith Soldiers
@@ -350,6 +412,7 @@ Abbreviations:
 - Loot footlocker in Terminal Room
 - Hack terminal console: 2,3
 - Loot Sith Commander for Prototype Vibroblade
+  - Quickly check to see if you got an Adrenal Alacrity
 - Carth talks to you
 - Take Escape Pod to Taris
 
@@ -357,13 +420,14 @@ Abbreviations:
 
 ### Upper City
 
-- ***Conditional:*** If you got an Adrenal Alacrity drop from Trask on Endar Spire, use the stims hotkey to use two stims:
+- ***Conditional:*** If you got an Alacrity from Endar Spire (randomly or as a Scout), use the stims hotkey to use two stims:
   - Once (for Adrenal Alacrity) before the dream CS
   - Once (for Adrenal Strength) before the waking up CS in the Hideout
-  - If you didn't get the random Alacrity, skip both of these
+  - If you didn't get an Alacrity as a Scoundrel, skip both of these
 - Carth talks to you: 1,1,1,5,3
 - Loot footlocker for spikes and medpacs
 - *Equip MC: Combat Suit, Prototype Vibroblade Mainhand*
+  - ***Scouts Only:** Equip Vibroblade Offhand*
 - Exit the apartment
 - *Party: No change when prompted*
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Sith Raid CS
@@ -374,17 +438,20 @@ SHOPPING: Larrim
 - SELL ALL EXCEPT:
   - Medpacs
   - Computer Spikes
-  - Frag Grenade
-  - Adrenal Strength (if you have one)
+  - Frag Grenades
+  - Concussion Grenades (if you have any)
+  - Stims (if you have any)
 - BUY:
-  - 2x Concussion Grenade
-  - Battle Stimulant
+  - Grenades:
+    - By default, buy 2x Concussion Grenades
+    - If you have 2x Concussion but only 1 Frag Grenade, buy 1x Concussion and 1x Frag
+    - If you have 2x Concussion and 2 or more Frags, buy 2x Concussion
+  - Battle Stimulant (unless you already have one)
   - All 4 Minor Mines
-- End: ~200 Credits
 ```
 
 - Exit to Upper City South
-  - If you got the random Alacrity from Spire (and used it), *Stims: Use Battle Stimulant on MC* using the stim hotkey as you leave
+  - If you already used Alacrity and Strength, *Stims: Use Battle Stimulant on MC* using the stim hotkey as you leave
 - ***Conditional Shopping: Zelka***
   - Check the [Credit Route](#credit-route) section to see if you should shop with Zelka
   - *To shop with Zelka:*
@@ -392,14 +459,14 @@ SHOPPING: Larrim
     - Activate Solo Mode
     - As Carth, open door to Upper City North
     - As MC, talk to Zelka in the medical clinic: 3
-    - **BUY:** 3x Adrenal Alacrity (150 Credits)
-    - *Stims: Use Alacrity, Strength, and Battle Stim on MC, use Alacrity on Carth via Inventory Menu*
+    - **BUY:** 4x Adrenal Alacrity (200 Credits)
+    - *Stims: Use one of each stim on MC (including Stamina if you randomly got one), use Alacrity on Carth*
     - Swap to Carth and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
     - Swap back to Carth and enter Upper City North
     - Swap to MC, QS/QL to fix party following AI
   - *To skip Zelka:*
     - Run straight from South Apartments to Upper City North and enter
-    - *Skipping Zelka saves 10-11s over the usual strat, but the necessary Spire Alacrity drop is rare*
+    - *Skipping Zelka saves 10-11s, but only if you already used an Alacrity from Spire*
 - After entering Upper City North, run straight across to enter North Apartments
 - Run to the left until Sith soldiers accost you (+2 LSP)
 - Swap to Carth and queue Power Blasts on all three Sith soldiers
@@ -407,7 +474,7 @@ SHOPPING: Larrim
 - Swap to MC and run back to the door you entered through
 - Swap to Carth and loot all three corpses for Sith Uniform, grenades, and adrenals
 - ***Conditional:*** If you didn't already, *Stims: Use Adrenal Alacrity on Carth*
-  - Both shopping routes should now have three stims active on MC and Alacrity active on Carth
+  - All route variations should now have three (or four) stims active on MC and Alacrity active on Carth
 - Swap to MC and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth
 - Exit the apartments
 - Activate Solo Mode
@@ -436,11 +503,12 @@ SHOPPING: Larrim
 ### Undercity
 
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip beggar CS
-- `Level to 3: Save Skills (granted Sneak Attack II)`
+- `Scoundrel Level to 3: Save Skills (granted Sneak Attack II)`
+- `Scout Level to 3: Save Skills, Empathy`
 - *Party: Add Carth*
 - Run towards the gate to trigger the Run, Hendar, Run! CS
 - Rakghoul Fight:
-  - MC should get behind the Rakghoul (for Sneak Attack) and use Flurry
+  - MC should get behind the Rakghoul (for Sneak Attack as Scoundrels) and use Flurry
   - Swap to Carth and use Power Blast at close range
   - This fight is typically two rounds, but can be three with below average Attack/Damage rolls
 - Run towards Sewers until Mission accosts you and agrees to help you
@@ -456,7 +524,8 @@ SHOPPING: Larrim
   - *To perform this strat:*
     - Open first door, then door on right
     - Activate Solo Mode
-    - Throw a frag grenade at the rakghouls
+    - Throw all remaining frag grenades at the rakghouls
+      - You should always have at least one; if you have more, throw one each as different party members
     - As MC, run up the path past the Gamorrean and open first door on right
       - While this happens, Carth and Mission should finish off the rakghouls
       - We need them out of the way for the upcoming [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)
@@ -575,8 +644,10 @@ SHOPPING: Larrim
 - Loot footlocker for passcard with T3
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Assault Droid intro CS
 - Assault droid fight:
-  - Pause and use a Concussion Grenade on Assault Droid (preferably with T3 or Zaalbar)
-    - Whichever party member you buffered with is probably locked into an attack on the Assault Droid, so use a different one
+  - Pause and use all remaining Concussion Grenades on Assault Droid
+    - Whichever party member you buffered with is probably locked into an attack on the Assault Droid, so use the others
+    - You should always have at least one Concussion Grenade, more than that were from random drops
+    - Chance to stun with one is 55%, with two is 79.75%, and with three (highly unlikely) is 90.9%.
   - MC attacks Assault Droid with Flurry
   - Zaalbar attacks Assault Droid with Improved Power Strike
   - T3 can use his Shield Disruptor to take out the Blaster Turrets (two shots each)
@@ -613,8 +684,11 @@ SHOPPING: Larrim
 ### Jedi Enclave
 
 - Bastila accosts you
+- If MC doesn't have Alacrity active, *Stims: Alacrity on MC*
+  - This should only happen if MC died during the Sith Base
+  - You may not have an Alacrity here if you got a Spire Alacrity but no others
 - ***Conditional Shopping: Crattis Yurkal***
-  - Check the [Credit Route](#credit-route) section to see if you should shop here
+  - Check the [Credit Route](#credit-route) section to see if you should shop here; Scouts usually will
   - *To shop with Crattis Yurkal:*
     - Run forward until you reach the top of the ramp
     - Activate Solo Mode and swap to T3
@@ -622,7 +696,7 @@ SHOPPING: Larrim
     - Swap back to MC and run down the first ramp until you make the right turn
     - Swap back to T3, use Default Action to talk to Crattis Yurkal, then immediately swap back to MC
       - This keeps MC on the ramp while shopping
-    - **BUY:** 2x Adrenal Alacrity
+    - **BUY:** 3x Adrenal Alacrity
     - As MC, continue running down the ramp
   - *To skip Crattis Yurkal:*
     - Run forward down the ramp
@@ -679,7 +753,7 @@ SHOPPING: Larrim
 
 ### Ancient Ruins
 
-- *Party: Add T3, Keep Bastila when prompted*
+- *Party: Add Canderous, Keep Bastila when prompted*
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip ancient droid conversation
 - Activate Solo Mode and do the following actions simultaneously:
 - As MC:
@@ -691,10 +765,13 @@ SHOPPING: Larrim
   - Open left hand door
   - Run through and loot droid wreckage
   - Hack the console through the left door: 3,5,3,1,1,3
-- As T3:
+- As Canderous:
   - Move in front of middle door
+  - *Stims: Use Adrenal Alacrity*
+    - Use this stim only if you have at least 2 remaining beforehand
+    - We need one Alacrity for Manaan's underwater sections
 - Once both consoles are hacked, swap to T3 and Deactivate Solo Mode
-- As T3, move forward through both doors
+- As Canderous, move forward through both doors
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip short CS
   - The timing on this is tricky; open the door, wait a second, then start buffering
   - If done right, MC will end up in front of the Star Map without having to watch the CS
@@ -722,7 +799,7 @@ SHOPPING: Larrim
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Sith/Republic soldier conversation
   - If you miss this, the conversation is just: 4
 - **Conditional Shopping: Selkath Merchant**
-  - Check the [Credit Route](#credit-route) section to see if you should shop here
+  - Check the [Credit Route](#credit-route) section to see if you should shop here (requires multiple random Alacrities)
   - *To shop with Selkath Merchant:*
     - Talk to Selkath Merchant: 3
     - **BUY:** 1x Adrenal Alacrity
@@ -943,7 +1020,8 @@ SHOPPING: Czerka Shop
   - This skips the Darth Bandon fight; you can also [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) instead
 - Run/[Save Teleport](<../Techniques/Save Teleporting>) over to Lashowe (can Force Jump to Shyracks)
 - ***Optional:** Party: Add Juhani and Zaalbar*
-  - This is mostly useful for distracting the tukatas/Lashowe to get Sneak Attacks in; this can be the difference between one-round and two-round tukatas
+  - This is mostly useful for distracting the tukatas/Lashowe to get Sneak Attacks in as a Scoundrel
+  - This can be the difference between one-round and two-round tukatas, or even (if lucky) a one-round Lashowe
 - Kill the Tukatas
 - Lashowe confronts you: 2,3
 - Kill Lashowe and loot her corpse for Holocron
@@ -1070,8 +1148,7 @@ SHOPPING: Czerka Shop
 - Plot twist!
 - Darth Malak accosts you again: 1,1,1,1,2,1,4,1
 - Darth Malak fight:
-  - For both phases, swap combat feats to Flurry while running slightly past him to one side
-  - Use Flurry once next to or slightly behind him to get Sneak Attacks off while he uses Force Resistance
+  - As a Scoundrel, use Flurry once next to or slightly behind him to get Sneak Attacks off
 - Run/[Save Teleport](<../Techniques/Save Teleporting>) through blast doors after Malak flees
   - *Force: Cast Knight Speed and Force Valor, Hyper Stim Suite on MC*
   - If you had to buy fewer stims on Korriban, don't use any stims here
@@ -1200,7 +1277,7 @@ SHOPPING: Czerka Shop
 - Enter Temple Summit
   - Re-enable V-Sync if you disabled it before
 - Talk to and defeat Darth Waifu
-  - You can try to get behind her for Sneak Attacks, but even with that this fight is nearly always 2 rounds
+  - You can try to get behind her for Sneak Attacks as a Scoundrel, but even with that this fight is nearly always 2 rounds
 - Choose to remain true to the light side
   - This is faster than the Dark Side ending; no party members on Star Forge to get in the way
 - Hack computer terminal to lower disruptor field
@@ -1249,15 +1326,14 @@ SHOPPING: Czerka Shop
   - DO NOT [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>); this will softlock the game
   - This [Open Buffer](<../Techniques/Save Buffering#open-buffers>) messes with the Dark Jedi AI so they won't attack you unless you attack them first
 - Defeat three Dark Jedi to unseal the door
-  - Kill the center one first, then try to get behind the other two before attacking them for Sneak Attacks
-  - Remember to swap to Flurry before attacking!
+  - Kill the center one first, then as a Scoundrel, try to get behind the other two before attacking them for Sneak Attacks
 - `If you hit Level 11, Auto-Level MC to reach 22 STR` 
 - Darth Waifu fight
   - *As a male MC with 12 Persuade*, you can spam all conversations after the first
   - *As a female MC or with less than 12 Persuade*, use the given conversations to guarantee sparing Bastila
   - First conversation: 2
   - First fight phase (use Flurry for all phases; try to make sure Speed stays active)
-    - You can again run slightly past her on the right while she uses Force Resistance to get Sneak Attacks
+    - You can again run slightly past her on the right while she uses Force Resistance to get Sneak Attacks as a Scoundrel
   - Second conversation: 2, 2, 1
     - Spam default action during this convo to immediately talk to Bastila and skip phase 2
     - If you fail to skip it, just attack Bastila
@@ -1298,10 +1374,17 @@ SHOPPING: Czerka Shop
   - *Force: Recast Knight Speed and Knight Valor if needed*
     - These have frequently been cancelled by Malak's Force Breach
   - Kill Malak once and for all
-    - Bastila and Jolee can distract Malak to enable Sneak Attacks, but his Force Immunity lasts 60 seconds, so Stasis won't work
+    - Bastila and Jolee can distract Malak to enable Sneak Attacks for Scoundrels, but his Force Immunity lasts 60 seconds, so Stasis won't work
     - This last part is RNG heavy, as you only have a 50% chance to hit Malak
 
 ## Version History
+
+**v5.2 (August 2024)**
+- Added the old Scout Build back in as an option; Scoundrel and Scout builds are on average equal.
+- Tweaked the necessary parts of the route to illustrate differences between Scout and Scoundrel.
+- Tweaked stim route and shopping to allow for an Alacrity usage on Dantooine.
+- Added additional information about random loot on Endar Spire and Larrim's shopping.
+- Miscellaneous minor fixes and corrections.
 
 **v5.1 (August 2024)**
 - Added a strat that always avoids the Rakatan Warriors when leaving Lehon.

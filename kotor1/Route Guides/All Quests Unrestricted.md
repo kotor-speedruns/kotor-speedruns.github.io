@@ -220,19 +220,23 @@ The current route requires 11 Computer Spikes for hacking.  We get 3 from the Go
 
 **Largo's Footlocker:** 
 
-The current route relies on one random set of loot from Largo's footlocker.  There are four things that can appear in this footlocker:
-- 0-20 Credits
-- Computer Spike
-- Parts
-- Medpac
+The current route relies on one random set of loot from Largo's footlocker.  Largo's footlocker is a template container and thus rolls its loot from a fixed table; it will always select three unique items from this table to appear as loot.  Here are the four things that can appear in this footlocker, with their chances:
 
-The medpac and the small amount of credits are mostly irrelevant.  Getting the Parts yields 3 extras to sell to Janice for +240 credits. The ideal outcome is getting both the Computer Spike and the Parts, but there are contingencies to handle all outcomes.
+| Item | Chance |
+| :--- | --- |
+| 1d20 Credits | 99.9% |
+| Computer Spike | 66.7% |
+| Parts | 66.7% |
+| Medpac | 66.7% |
 
-Getting the Computer Spike from the footlocker means you have 4 instead of 3 when you [Full Inventory Dupe](<../Techniques/Item Duplication#via-anywhere-menu-glitch>), so that you have 12 when you reach Janice.  This lets us sell 1 for +100 Credits, and keep the other 11 for hacking purposes.
+
+The medpac and the small amount of credits are mostly irrelevant.  Getting the Parts yields 3 extras (after the [Full Inventory Dupe](<../Techniques/Item Duplication#via-anywhere-menu-glitch>)) to sell to Janice for +240 credits. Getting the Computer Spike from the footlocker means you have 4 instead of 3 when you [Full Inventory Dupe](<../Techniques/Item Duplication#via-anywhere-menu-glitch>), so that you have 12 when you reach Janice.  This lets us sell 1 for +100 Credits, and keep the other 11 for hacking purposes.
+
+The ideal outcome is getting Parts and the Computer Spike, which has only a 33.3% chance of occurring due to the way the loot table is programmed.   There will always be at least Parts *or* a Computer Spike, and there are contingencies to handle all three possible outcomes.
 
 **Backups:**
 
-If you don't get the Computer Spike, you won't sell any to Janice, and have a second shot at a random Computer Spike drop from the Chewed Twi'lek Corpse in the Krayt Dragon cave (this holds the Nerve Amplifier Belt).  If you get 2 or more spikes from there, you don't need to buy any.  But if you don't, you'll need to buy 2 spikes from the Selkath Merchant when you buy the Hyper Stimulants. This costs 500 extra credits, but thankfully we've already passed the chokepoint for the credit route (needing 500 credits to loan to Queedle), so this doesn't stress the credit route at all.
+If you don't get the Computer Spike, you won't sell any to Janice, and have a second shot at a random Computer Spike drop from the Chewed Twi'lek Corpse in the Krayt Dragon cave (this holds the Nerve Amplifier Belt).  If the corpse does drop spikes, it always drops at least 2 (2-4, in fact), so you won't need to buy any.  But if the corpse has no spikes, you'll need to buy 2 spikes from the Selkath Merchant when you buy the Hyper Stimulants. This costs 500 extra credits, but thankfully we've already passed the chokepoint for the credit route (needing 500 credits to loan to Queedle), so this doesn't stress the credit route at all.
 
 ### Optional Transactions
 
