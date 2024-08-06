@@ -155,6 +155,7 @@ Neither build is guaranteed to hit level 11 in the run, but doing so makes the f
 - When Auto-Leveling the MC, the game only checks your Jedi class level when deciding whether to give an attribute point, rather than your overall character level.  That means you can use Auto-Leveling to gain extra points in STR at Jedi levels 4 and 8, which correspond to character levels 7 and 11.  This is why we Auto-Level at 7 and 11, making it to 22 base STR at level 11.
 
 **Skill Notes:**
+- We only add points to Persuade or TI; all other skills stay at their initial levels.
 - We need Persuade for several conversations:
   1. On Dantooine, we must Persuade Juhani to return to the Jedi.
   2. On Manaan, we must Persuade the scared scientists to lower the force field.
