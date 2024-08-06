@@ -66,6 +66,7 @@ There are two character builds that are nearly identical in terms of average per
 - Less Treat Injury (TI) on Taris but more TI after Taris (+3)
 - Worse Fortitude and Will saves (-2)
 - Must swap combat feats to Flurry for all fights
+- Need to position for Sneak Attacks in some fights
 
 **Scout:**
 - Guaranteed Alacrity on Spire, saving 10-11 seconds due to better shopping route
@@ -74,6 +75,7 @@ There are two character builds that are nearly identical in terms of average per
 - More Vitality (+6) but less Defense (-2)
 - More TI on Taris (+5 with Empathy) but less TI after Taris (-2)
 - Flurry is the default combat feat
+- Can spam Flurry in all fights
 
 Overall the real comparison is the guaranteed Alacrity for the Scout vs. the better combat for the Scoundrel.  If Scoundrel can save four combat rounds due to the effectiveness of Sneak Attack, it makes up for the time loss due to no Spire Alacrity.  There's also a very small chance (see [Credit Route](#credit-route)) that a random Alacrity can drop on Endar Spire, meaning the best outcome would be a Scoundrel with the random Alacrity drop.  Some runners may prefer the slightly better bulk and consistent early timesave of a Scout, and Scouts could also get lucky combat rolls on the relevant fights.
 
