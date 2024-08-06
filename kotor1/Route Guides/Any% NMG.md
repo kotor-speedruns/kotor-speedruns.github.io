@@ -227,7 +227,7 @@ The second shopping trip for Adrenal Alacrities depends on whether or not you ge
 Your second shopping trip should be:
 - With no Spire Alacrity: Shop with Zelka, skip Dantooine and Manaan
 - With one Spire Alacrity but no other random Alacrity: Skip Zelka, Shop at Dantooine, Skip Manaan
-- With one Spire Alacrity AND TWO other random Alacrity: Skip Zelka and Dantooine, Shop on Manaan
+- With one Spire Alacrity and at least 1 other random Alacrity: Skip Zelka and Dantooine, Shop on Manaan
 
 As noted, the chance of a random Spire Alacrity is extremely low, so Scoundrels will almost always be shopping with Zelka, whereas Scouts should never shop with Zelka and will usually shop on Dantooine.  Shopping on Dantooine is 10-11s faster than shopping with Zelka.  Shopping on Manaan will be extremely rare, but saves about 4s over shopping on Dantooine if you are that lucky.
 
@@ -768,7 +768,8 @@ SHOPPING: Larrim
 - As Canderous:
   - Move in front of middle door
   - *Stims: Use Adrenal Alacrity*
-    - Use this stim only if you have at least 2 remaining
+    - Use this stim only if you have at least 2 remaining beforehand
+    - We need one Alacrity for Manaan's underwater sections
 - Once both consoles are hacked, swap to T3 and Deactivate Solo Mode
 - As Canderous, move forward through both doors
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip short CS
