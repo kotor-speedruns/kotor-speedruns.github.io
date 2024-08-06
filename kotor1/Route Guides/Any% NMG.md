@@ -390,11 +390,11 @@ Abbreviations:
 - Mash through the Carth conversation before MC finishes unlocking the door
   - If the CS of the shootout between the Sith and Republic soldiers doesn't play, you were too slow; QL and use Security again
 - Use Trask's Power Blast to kill two Sith Soldiers
-  - ***Important:** Note whether you have an Adrenal Alacrity.  This is rare but affects where you go shopping.*
+  - Check to see if you have an Adrenal Alacrity (Scouts will always have one)
 - Loot footlocker in next room
 - Open the next door and wait for the second CS of Sith vs. Republic
 - Kill front three Sith Soldiers with Frag Grenade on the middle soldier
-  - Each has only a 10% chance to survive via Reflex save, for a 72.9% chance of killing all three
+  - Each has only a 10% chance to survive via Reflex save, for a 72.9% chance of killing all three outright
   - If one (or more) survive, have Trask finish them while MC runs to the next door
 - Open the next door for the Jedi vs. Sith cutscene
 - Use Trask's Power Blast to kill two Sith Soldiers
@@ -412,6 +412,7 @@ Abbreviations:
 - Loot footlocker in Terminal Room
 - Hack terminal console: 2,3
 - Loot Sith Commander for Prototype Vibroblade
+  - Quickly check to see if you got an Adrenal Alacrity
 - Carth talks to you
 - Take Escape Pod to Taris
 
