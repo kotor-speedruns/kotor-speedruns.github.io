@@ -121,16 +121,16 @@ We choose Flurry because it's an overall better combat feat for the run; more at
 
 **Scoundrel:**
 
-| Level | STR | Feats | Powers | Skills |
-| --- | --- | :--- | :--- | :--- |
+| Level | STR | Feats | Skills |
+| --- | --- | :--- | :--- |
 | 1 | 18 | Flurry, *Sneak Attack I, Scoundrel's Luck* | | Demo to 1, Stl to 1, Per to 4, Sec to 1, Save 5 |
 | 2 | 18 | Two-Weapon Fighting | | Save All |
 | 3 | 18 | *Sneak Attack II* | | Save All |
 
 **Scout:**
 
-| Level | STR | Feats | Powers | Skills |
-| --- | --- | :--- | :--- | :--- |
+| Level | STR | Feats | Skills |
+| --- | --- | :--- | :--- |
 | 1 | 18 | Weapon Focus: Melee Weapons, *Flurry* | | Com to 4, Demo to 1, Sec to 1, TI to 4, Save 2 |
 | 2 | 18 | Two-Weapon Fighting | | Save All |
 | 3 | 18 | Empathy | | Save All |

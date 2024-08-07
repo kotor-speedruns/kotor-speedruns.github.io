@@ -236,7 +236,9 @@ The ideal outcome is getting Parts and the Computer Spike, which has only a 33.3
 
 **Backups:**
 
-If you don't get the Computer Spike, you won't sell any to Janice, and have a second shot at a random Computer Spike drop from the Chewed Twi'lek Corpse in the Krayt Dragon cave (this holds the Nerve Amplifier Belt).  If the corpse does drop spikes, it always drops at least 2 (2-4, in fact), so you won't need to buy any.  But if the corpse has no spikes, you'll need to buy 2 spikes from the Selkath Merchant when you buy the Hyper Stimulants. This costs 500 extra credits, but thankfully we've already passed the chokepoint for the credit route (needing 500 credits to loan to Queedle), so this doesn't stress the credit route at all.
+If you don't get the Computer Spike, you won't sell any to Janice, and have a second shot at a random Computer Spike drop from the Chewed Twi'lek Corpse in the Krayt Dragon cave (this holds the Nerve Amplifier Belt).  This corpse has a 22.2% chance of dropping 2-4 Computer Spikes, so if it does drop spikes, you won't need to buy any.  
+
+This leaves a 25.9% chance that neither Largo's Footlocker nor the Chewed Twi'lek Corpse drops spikes.  In this case, you'll need to buy 2 spikes from the Selkath Merchant when you buy the Hyper Stimulants. This costs 500 extra credits, but thankfully we've already passed the chokepoint for the credit route (needing 500 credits to loan to Queedle), so this doesn't affect the credit route at all.
 
 ### Optional Transactions
 
