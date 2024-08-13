@@ -35,7 +35,7 @@ Whichever method you choose, once you've got the bingo app downloaded and ready 
 
 Here is an example Bingo card:
 
-![Image of an example Bingo card, with a 5x5 grid of KotOR tasks](https://i.imgur.com/hoLKmb8.png)
+![Image of an example Bingo card, with a 5x5 grid of KotOR tasks](/assets/images/imgur-dump/hoLKmb8.png)
 
 The goal is to finish a row, column, or diagonal of five tasks.  The idea is that all 12 possible rows are of similar difficulty; but every individual bingo card will have some rows which are at least slightly easier than others.  The goal is to pick the fastest row, and complete it as quickly as possible.
 

@@ -1,10 +1,14 @@
+---
+redirect_from:
+  - /kotor2/Route Guides/Any Unrestricted
+---
 # Star Wars: Knights of the Old Republic II - The Sith Lords - Any% Unrestricted Guide
 
-**v1.1: Female Jedi Sentinel/Consular Route**
+**v2.5: Female Jedi Sentinel/Consular Route**
 
-This route defeats Darth Traya on Malachor V as fast as possible.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black after the final hit on Traya.  A load-removal tool and autosplitter is available for LiveSplit thanks to glasnonck and Xero; times are sorted based on load-removed times, since load times vary significantly with hardware in this game, and saving is frequent.  This guide will cover the detailed route for the run, as well as an alternate route for Citadel Station which requires an extremely difficult Displaced Load Zone.
+This route defeats Darth Traya on Malachor V as fast as possible.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black after the final hit on Traya.  A load-removal tool and autosplitter is available for LiveSplit thanks to glasnonck and Xero; times are sorted based on load-removed times, since load times vary significantly with hardware in this game, and saving is frequent.  This guide will cover the detailed route for the run, as well as an alternate route for Citadel Station which requires an extremely difficult [Displaced Load Zone](../Major%20Glitches/Displaced%20Load%20Zone#exchange-dlz).
 
-Finally, if you have additional questions, you can check out the KotOR Speedrunning Discord which is linked on the game's sidebar on speedrun.com.  There's a bunch of friendly folks there willing to answer questions!
+Finally, if you have additional questions, you can check out the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu).  There's a bunch of friendly folks there willing to answer questions!
 
 **Table of Contents**
 - [Guide Organization](#guide-organization)
@@ -20,9 +24,9 @@ Finally, if you have additional questions, you can check out the KotOR Speedrunn
 
 Because of the power of the Unrestricted Ruleset, this run skips a huge amount of the game.  Thus, things like alignment, credit/equipment routes, and even character build are either completely irrelevant or only briefly important.  Thus, this guide is instead organized into three main sections that each cover all of the necessary details for the route.
 
-*1. Route Overview* - A general description of the speedrun route, highlighting key skips and glitches used.
-*2. Detailed Route* - This section details the character build and route for the standard version of the speedrun, which makes heavy use of the Dev Character and Dev Droid to skip most of the game.
-*3. Alternate Citadel Route* - This section details an alternate route for Citadel Station centered around the Exchange DLZ, which is extremely difficult.  While this route is significantly faster, it is only recommended for top runners.
+1. *Route Overview* - A general description of the speedrun route, highlighting key skips and glitches used.
+2. *Detailed Route* - This section details the character build and route for the standard version of the speedrun, which makes heavy use of the Dev Character and Dev Droid to skip most of the game.
+3. *Alternate Citadel Route* - This section details an alternate route for Citadel Station centered around the [Exchange DLZ](../Major%20Glitches/Displaced%20Load%20Zone#exchange-dlz), which is extremely difficult.  While this route is significantly faster, it is only recommended for top runners.
 
 ## Route Overview
 
@@ -309,6 +313,9 @@ Abbreviations:
 - *Force: Cast Burst of Speed as Kreia*
 - Use terminal to transit to Entertainment Module: 2,2
 - Activate Solo Mode and position Kreia in the corner (picture coming)
+
+![mainframecorner](/assets/images/kotor2/mainframecorner.png)
+
 - **Make a Hardsave**
 - Swap to MC and use terminal to transit to Residential East: 2,2
 - Enter the Czerka Office
@@ -498,7 +505,7 @@ Abbreviations:
 
 The alternate Citadel route sides with the Czerka corporation rather than the Ithorians.  This would be slower, except for a trick known as the Exchange DLZ, which lets us enter the Exchange early.  In the Ithorian route, this doesn't save enough time to be worthwhile, but in the Czerka route, the Exchange DLZ allows us to completely skip talking to Luxa and doing her fetch quests.
 
-This route is therefore faster than the Ithorian route by about 90 seconds, assuming a quick Exchange DLZ.  Unfortunately, the Exchange DLZ is an **extremely** difficult trick due to the geometry of the load zone and the coordinates it occupies.  As a result, no runners have completed a run with this trick.  For these reasons, the Czerka route is included here rather than in the standard route.
+This route is therefore faster than the Ithorian route by about 90 seconds, assuming a quick Exchange DLZ.  Unfortunately, the Exchange DLZ is an **extremely** difficult trick due to the geometry of the load zone and the coordinates it occupies.  As a result, only 1 runner have completed a run with this trick to date. For these reasons, the Czerka route is included here rather than in the standard route.
 
 If you decide to do this route, all other sections of the run are identical to the standard route, with the possible exception of save locations in the save list during hotshots.
 
@@ -528,7 +535,7 @@ If you decide to do this route, all other sections of the run are identical to t
 - Activate AMG on the load screen
 - Unpause, then when CS starts, cancel popup and QS/QL
 - *Force: Cast Master Speed*
-- Talk to Jana Lorso twice: 2 | mash 1
+- Talk to Jana Lorso twice: 2 \| mash 1
 - **Make a Hardsave**
 - Activate Solo Mode
 - Exit Czerka as MC
@@ -563,13 +570,36 @@ If you decide to do this route, all other sections of the run are identical to t
 
 ## Version History
 
-**v1.1 (February 2022)**
-- Added a slightly faster and much more consistent Peragus strat
+**v2.5 (July 2023)**
 
-**v1.0 (January 2022)**
-- Uploaded the initial version of this guide.
+- Reformatted guide to fit new guide website
+
+**v2.1 (February 2022)**
+- Added a slightly faster and much more consistent Peragus strat
 - Uses Ithorian version of Citadel Station, with Czerka version as an aside.
+
+**v2.0 (January 2022)**
+- Changed entire route to include major new glitches: Hotshots, Dev Character, 3C-FD, AMG, etc.
+- indykenobi Commited to writing route worked on by 30Cents and Redmage08
+
+**v1.2 (April 2019)**
+- Moved the FLU to earlier in the run to allow for more convenient upgrading
+- Tweaked the upgrades built
+- Tweaked the shopping trip
+- Cut the shopping trip on Dxun
+
+**v1.1 (April 2019)**
+- Some major tweaks, including:
+
+- Tweaked character build to include enough Stealth and Repair for upgrade crafting
+- Streamlined alignment route to include threatening Opo Chano for droid credentials
+- Rerouted Dxun prestige hunting to cut Kelborn and Kumas, and do the phase converter instead.
+
+**v1.0 (April 2019)**
+- indykenobi Uploaded the initial guide with the Male Jedi Guardian route by glasnonck and redmage08
+
+
 
 ## Closing
 
-I'd like to acknowledge glasnonck, RedMage, and 30Cents, all of whom dedicated a lot of time and effort into making KotOR II speedrunning what it is today.  This run is a beautifully broken mess thanks to them and our glitch hunters, Lane and HotShotWire.
+Acknowledgements to: glasnonck, RedMage08, 30Cents, and R4NG3; all of whom dedicated a lot of time and effort into making KotOR II speedrunning what it is today.  This run is a beautifully broken mess thanks to them and glitch hunters: Lane and HotShotWire.

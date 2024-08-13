@@ -1,17 +1,4 @@
-<style>
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
-  height: 0;
-}
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
+
 
 # Item Duplication
 
@@ -126,5 +113,3 @@ Item Duplication is currently only used in All Quests speedruns; however, both S
 
 * [Anywhere Menu Glitch](<../Major Glitches/Anywhere Menu Glitch>)
 * [Damage Stacking](<Damage Stacking>)
-
-***Have a suggestion or correction? Contribute to this guide [here](https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/kotor1/Techniques/Item%20Duplication.md)!***

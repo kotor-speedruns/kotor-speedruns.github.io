@@ -1,21 +1,63 @@
-#Setup
+---
+redirect_from:
+  - /kotor2/Video Tutorials/Any Unrestricted
+---
+# Any% Unrestricted Video Tutorial
 
-https://www.youtube.com/watch?v=rjXvQRAs-hI?t=2
+*Tutorial by 30Cents*
 
-#Peragus
+**Table of Contents**
+- [Introduction](#introduction)
+- [Setup](#setup)
+- [Peragus](#peragus)
+- [Telos](#telos)
+  - [Easy Route](#easy-route)
+  - [Hard Route](#hard-route)
+- [Ravager and Malachor](#ravager-and-malachor)
+- [Exchange DLZ (Up Close)](#exchange-dlz-up-close)
 
-https://www.youtube.com/watch?v=Hpy3eBTI5zA
+## Introduction
 
-#Telos (Easy and Hard Routes)
+This tutorial is broken into four parts, each linked below.  On Telos, there are two routes you can take: an easy route that is consistent but considerably slower, and a hard route that employs the extremely difficult Exchange DLZ.
 
-https://www.youtube.com/watch?v=ENyfNXSENC0
+## Setup
 
-https://www.youtube.com/watch?v=KRCIHffZxv0
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/rjXvQRAs-hI" frameborder="0"></iframe>
+</div>
 
-#Ravager & Malachor
+## Peragus
 
-https://www.youtube.com/watch?v=Y1iaonscxwk
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/Hpy3eBTI5zA" frameborder="0"></iframe>
+</div>
 
-#DLZ (Upclose)
+## Telos
 
-https://www.youtube.com/watch?v=ApktEIs8dJQ
+There are two routes for Telos, 
+
+### Easy Route
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/ENyfNXSENC0" frameborder="0"></iframe>
+</div>
+
+### Hard Route
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/KRCIHffZxv0" frameborder="0"></iframe>
+</div>
+
+## Ravager and Malachor
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/Y1iaonscxwk" frameborder="0"></iframe>
+</div>
+
+## Exchange DLZ (Up Close)
+
+This is a zoomed in view of the Exchange DLZ visual cue for those attempting the Hard Route on Telos.
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/ApktEIs8dJQ" frameborder="0"></iframe>
+</div>

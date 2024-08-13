@@ -1,17 +1,4 @@
-<style>
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
-  height: 0;
-}
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
+
 
 # Gather Party Warp
 
@@ -111,5 +98,3 @@ There are also some uses of GP Warps as backups to certain [DLZs](<../Major Glit
 * [Anywhere Menu Glitch](<../Major Glitches/Anywhere Menu Glitch.>)
 * [Open Buffer](<Save Buffering#open-buffers>)
 * [Door Clipping](<../Major Glitches/Door Clipping#gather-party-warp-clips>)
-
-***Have a suggestion or correction? Contribute to this guide [here](https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/kotor1/Techniques/GP%20Warp.md)!***

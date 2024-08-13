@@ -90,7 +90,24 @@ For skills, we will use Computer Use to help save on spikes throughout the run, 
 
 ### Leveling Plan
 
-![A chart showing what Feats, Powers, and Skills to take at each level](https://i.imgur.com/zkfxxkl.png)
+| Level | Feat | Power | Skills |
+|---| :--- | :--- | :--- |
+| 1 | Weapon Focus: Melee Weapons, *Flurry* | | Com to 4, TI to 4, Save 4 |
+| 2 | Two-Weapon Fighting | | Save All |
+| 3 | Empathy | | Save All |
+| 4 | *Implant 2, Uncanny Dodge* | | Save All |
+| 5 | Improved Two-Weapon Fighting | | Com to 8, TI to 8, Save Rest |
+| 6 | Improved Flurry, *Force Jump* | Burst of Speed, Force Valor | Save All |
+| 7 | | Affect Mind | Per to 10 |
+| 8 | Master Two-Weapon Fighting | Dominate Mind | Per to 11 |
+| 9 | | Knight Speed | Per to 12 |
+| 10 | | Knight Valor | Per to 13 |
+| 11 | Master Flurry, *Improved Force Jump* | Force Resistance | Per to 14 |
+| 12 | Weapon Focus: Lightsaber | Drain Life | Per to 15 |
+| 13 | | Energy Resistance | Per to 16 |
+| 14 | Weapon Specialization: Lightsaber | Improved Energy Resistance | Per to 17 |
+| 15 | | Master Speed | Per to 18 |
+| 16 | | Master Valor | Per to 19 |
 
 Our main plan is to combine Master Speed with Master Flurry and a double-bladed lightsaber for five attacks per round in the late game.  Master Two-Weapon Fighting, Weapon Focus: Lightsaber, stims and lightsaber crystals give us enough attack that we can reliably hit even with the attack penalties.
 
@@ -188,12 +205,59 @@ Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher n
 
 Here's the full list of alignment shifts that happen during the run; there are 46 total shifts, of which 27 are dark and 19 are light:
 
-![A table showing alignment shifts for the first half of the run](https://i.imgur.com/xufZ2IT.png)
-![A table showing alignment shifts for the second half of the run](https://i.imgur.com/fQRl5Sf.png)
+| Aligned | Action | Type | Delta | New |
+|---| :--- | :--- |---|---|
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Threaten Dia about Holdan | Low Dark | -2 | 48 |
+| Neutral | Kill Dia | Low Dark | -2 | 46 |
+| Neutral | Kill Largo | Low Dark | -2 | 44 |
+| Neutral | Spare the drunks | Low Light | 2 | 46 |
+| Neutral | Kill the Infected Outcasts | Low Dark | -2 | 44 |
+| Neutral | Give Rukil the Promised Land journals | High Light | +6 | 50 |
+| Neutral | Agree to a death match with Bendak Starkiller | Low Dark | -2 | 48 |
+| Neutral | Threaten Ajuur for more credits | Low Dark | -2 | 46 |
+| Neutral | Threaten Janice Nall for T3 | Low Dark | -4 | 42 |
+| Neutral | Sell the Rakghoul Serum to Zax | Low Dark | -2 | 40 |
+| Neutral | Threaten Yuka Laka for HK-47 | Low Dark | -2 | 38 |
+| Dark | Kill Tanis | Mid Dark | -2 | 36 |
+| Dark | Kill Komad Fortuna | Low Dark | -1 | 35 |
+| Dark | Lie to Nubassa about the gizka | Low Dark | -1 | 34 |
+| Dark | Kill Lorgal via the console | Low Dark | -1 | 33 |
+| Dark | Loan Queedle money for his swoop bike | Mid Light | +6 | 39 |
+| Dark | Try to refuse Queedle's return of the loan | Low Light | +4 | 43 |
+| Neutral | Give Casus's journal to Nurik for free | Low Light | +2 | 45 |
+| Neutral | Refuse reward from Shen and Rahasia | Low Light | +2 | 47 |
+| Neutral | Kill Zuulan | Low Dark | -2 | 45 |
+| Neutral | Kill Rulan | Low Dark | -2 | 43 |
+| Neutral | Kill Freyyr | High Dark | -6 | 37 |
+| Dark | | Low Dark | -1 | 36 |
+| Dark | Kashyyyk Star Map Quiz | Low Light | +4 | 40 |
+| Dark | | Low Dark | -2 | 38 |
+| Dark | Report Freyyr's death to Chuundar | High Dark | -4 | 34 |
+| Dark | Tell Matton not to kill Eli | High Light | +8 | 42 |
+| Neutral | Buy Sharina's wraid plate for half price | Low Dark | -2 | 40 |
+| Neutral | Kill Vorn | Low Dark | -2 | 38 |
+| Dark | Order Sasha off your ship | Mid Dark | -2 | 36 |
+| Dark | Kill Ithorak | Low Dark | -1 | 35 |
+| Dark | Prevent Carth from killing Saul | Low Light | +4 | 39 |
+| Dark | Tell Shaardan not to kill the hopefuls | Low Light | +4 | 43 |
+| Neutral | Persuade Yuthura to admit you to the Sith Academy | Low Dark | -2 | 41 |
+| Neutral | Persuade Kel Algwinn to return to the Jedi | Hardcoded | +3 | 44 |
+| Neutral | Give Dustil evidence of Uthar's betrayal | High Light | +6 | 50 |
+| Neutral | Use serum on the Mandalorian prisoner | Hardcoded | -3 | 47 |
+| Neutral | Use serum on the Mandalorian prisoner again | Hardcoded | -3 | 44 |
+| Neutral | Give dark answers during Jorak Uln's quiz | Mid Dark | -4 | 40 |
+| Neutral | Tell the Sith renegades they're free | High Light | +6 | 46 |
+| Neutral | Spare Yuthura Ban | Mid Light | +4 | 50 |
+| Neutral | Profess your faith in Bastila | Low Light | +2 | 52 |
+| Neutral | | Low Light | +2 | 54 |
+| Neutral | Remain true to the Light Side on Lehon | High Light | +6 | 60 |
+| Neutral | | Highest Light | +10 | 70 |
+| Light | Tell Malak that you serve the light | Low Light | +1 | 71 |
 
 If you're more of a visual learner, you can see the overall alignment in chart form here:
 
-![A line chart showing overall alignment throughout the run](https://i.imgur.com/1M41pKo.png)
+![A line chart showing overall alignment throughout the run](/assets/images/imgur-dump/1M41pKo.png)
 
 The alignment route is quite lenient, since we no longer try to equip the Solari crystal until after Lehon, when we get a massive infusion of light side points when we choose to renounce our former identity.
 
@@ -720,7 +784,7 @@ SHOPPING: Zelka Forn
 ## Taris 2
 
 ### Hideout
-- Carth and Bastila accost you: 1,1,1 | 2
+- Carth and Bastila accost you: 1,1,1 ... 2
   - ***Finishes "The Search for Bastila"***
   - ***Starts "Escaping Taris"***
 - Workbench: Upgrade Prototype Vibroblade with Energy Projector
@@ -761,7 +825,7 @@ SHOPPING: Zelka Forn
   - If you can keep his blaster equipped long enough, Bendak can die in 4 rounds; once he draws his sword, it's much tougher to hit him.
   - ***Finishes "The Duel Ring"***
   - ***Starts "Bendak's Bounty"***
-- Talk to Ajuur twice with MC: 2,2,2 | none
+- Talk to Ajuur twice with MC: 2,2,2 ... none
   - This replaces Twitch's reward with an extra copy of Bendak's
 - Swap to Bastila
 - Cast Burst of Speed and exit to the Upper City
@@ -1011,7 +1075,7 @@ SHOPPING: Mic'Tunan'Jus Orgu
   - ***Starts "Sand People"***
 - Duros accosts you outside: 3,3,3
 - Enter Swoop Registration for Tatooine Swoop Races:
-  - Motta conversations: 1,3,1spam | race | 1,1,1 | race | 1,1,1 | race | 3
+  - Motta conversations: 1,3,1spam ... race ... 1,1,1 ... race ... 1,1,1 ... race ... 3
   - Win all three races
     - ***Starts and Finishes "Tatooine Swoop Races"***
   - Talk to Nico as you leave: 1spam
@@ -1044,7 +1108,7 @@ SHOPPING: Mic'Tunan'Jus Orgu
 - Run to Sand People Enclave
   - Running diagonally to the left for a little bit at the start avoids a Sand People ambush; I count 20 steps, then straight to the enclave
 - *Party: Add HK-47 before entering Sand People Enclave*
-- Sand People accost you inside: 1,1 | 1,2,1
+- Sand People accost you inside: 1,1 ... 1,2,1
 - Return to Ebon Hawk and run to Czerka Office
 - Talk to Greeta Holda to buy Moisture Vaporators
 - Run back to Docking Bay
@@ -1326,7 +1390,7 @@ SHOPPING: Aratech Mercantile
 - Run and Force Jump back to the Landing Platform
 - Janos Wertka accosts you after the slavery CS: 1,3
 - *Party: Add Canderous*
-- Canderous #5 and #6: 1x4, 2 | 1x4, 2
+- Canderous #5 and #6: 1x4, 2 ... 1x4, 2
 - Run towards the Great Walkway until Jagi accosts Canderous
   - ***Starts "Jagi's Challenge"***
 - Turn around and talk to Eli Gand
@@ -1362,7 +1426,7 @@ SHOPPING: Junix Nard
 - End: ~1451 Credits
 ```
 
-- Talk to Furko Nellis twice: 1,1,2,2 | 1,1,1
+- Talk to Furko Nellis twice: 1,1,2,2 ... 1,1,1
   - ***Starts "Pazaak Rules"***
 - Win the game of Pazaak
   - Use all 10 +/- Cards as sidedeck
@@ -1444,7 +1508,7 @@ SHOPPING: Junix Nard
 ### Sunry's Investigation
 
 - Selkath police arrest you: 1
-- Prison and first trial: 1x5, 3, 1 | 1,1,1
+- Prison and first trial: 1x5, 3, 1 ... 1,1,1
 - Swap to Juhani and talk to Judge Shelkar: 2
   - Bastila joins your party here; make sure you control Juhani, as she has Force Speed active
   - ***Starts "Sunry's Murder Trial"***
@@ -1521,7 +1585,7 @@ SHOPPING: Junix Nard
 ### Sunry's Murder Trial
 - Roland Wann accosts you
   - ***Finishes "Mission for the Republic"***
-- Selkath police arrest you (again): 2 | 3,1,2
+- Selkath police arrest you (again): 2 ... 3,1,2
 - Run towards Nilko Bwaas and Activate Solo Mode when he's in range
 - As MC, target Nilko Bwaas
 - Swap to Jolee and *Force: Cast Burst of Speed*
@@ -1844,7 +1908,7 @@ SHOPPING: Czerka Store
 - Run/Force Jump to temple basement in back
 - *Force: Cast Knight Valor while entering*
 - Kill both guard droids in basement
-- Solve floor puzzle with the following path ([an H shape](http://i.imgur.com/CF497Fm.png), starting from the reset tile)
+- Solve floor puzzle with the following path ([an H shape](/assets/images/imgur-dump/CF497Fm.png), starting from the reset tile)
 - Speak to basement computer: 1,1,1,2,1,2
   - Note this is a subtly different conversation than Any% runs!
 - Return to Main Floor and activate Solo Mode

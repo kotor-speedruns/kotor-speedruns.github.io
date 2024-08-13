@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /kotor1/Route Guides/Any Unrestricted
+---
 # Star Wars: Knights of the Old Republic - Any% Unrestricted Guide
 
 ### v10.0: Male/Female Scoundrel Route
@@ -489,7 +493,7 @@ SHOPPING: Zelka Forn
 - Swap to Bastila
 - Place Bastila behind the southernmost Czerka guard next to the Great Walkway exit, as close to the wall as possible:
 
-![Image showing Bastila's positioning (with Juhani in place of Bastila)](https://i.imgur.com/BfgfArb.png)
+![Image showing Bastila's positioning (with Juhani in place of Bastila)](/assets/images/imgur-dump/BfgfArb.png)
 
 - Use the pop-up to [QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to [Coordinate Warp](../Major%20Glitches/Hotshot#coordinate-warping) Bastila to the Great Walkway  
   - With the right position, Bastila will spawn about halfway across the module, ready to be [GP Warped](../Techniques/GP%20Warp)  

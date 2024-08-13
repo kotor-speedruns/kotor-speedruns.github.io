@@ -1,17 +1,4 @@
-<style>
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
-  height: 0;
-}
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
+
 
 # Save Buffering
 
@@ -138,5 +125,3 @@ As you progress in the game, Quick Saves take longer and longer to complete.  Wh
 
 * [Save Teleporting](<Save Teleporting>)
 * [Gather Party Warps](<GP Warp>)
-
-***Have a suggestion or correction? Contribute to this guide [here](https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/kotor1/Techniques/Save%20Buffering.md)!***

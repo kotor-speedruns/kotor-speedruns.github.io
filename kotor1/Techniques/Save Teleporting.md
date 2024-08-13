@@ -1,17 +1,4 @@
-<style>
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
-  height: 0;
-}
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
+
 
 # Save Teleporting
 
@@ -109,5 +96,3 @@ As a general rule of thumb, Save Teleports are sometimes useful at the end of th
 ## Related Glitches
 
 * [Save Buffer](<Save Buffering>)
-
-***Have a suggestion or correction? Contribute to this guide [here](https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/kotor1/Techniques/Save%20Teleporting.md)!***

@@ -1,17 +1,4 @@
-<style>
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
-  height: 0;
-}
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
+
 
 # Hotshot
 
@@ -20,7 +7,7 @@
 **Table of Contents**
 - [Description](#description)
 - [Hotshot Details](#hotshot-details)
-- [HSS Hotshots](#hss-hotshots)
+- [Neo Hotshots](#neo-hotshots)
 - [Quick Save Hotshots](#quick-save-hotshots)
 - [Autosave Hotshots](#autosave-hotshots)
 - [Hard Save Hotshots](#hard-save-hotshots)
@@ -56,10 +43,10 @@ Save files are made up of a bunch of smaller saves called modules. Usually, we c
 
 There are three modern ways to perform a Hotshot, as well as two older ways that are nearly entirely obsoleted.  Each has a specific save setup that is required.  We will call the module you want to warp to the Destination Module, and the module you warp from the Start Module.
 
-## HSS Hotshots
+## Neo Hotshots
 
 **Description:**
-HSS Hotshots, also called Neo Hotshots, are always consistent and the fastest way to Hotshot in many circumstances.  The vast majority of Hotshots in current speedrun routes are done with either this method or [Quick Save Hotshots](#quick-save-hotshots).
+Neo Hotshots, sometimes called HSS Hotshots, are always consistent and the fastest way to Hotshot in many circumstances.  The vast majority of Hotshots in current speedrun routes are done with either this method or [Quick Save Hotshots](#quick-save-hotshots).
 
 **Save Setup:**
 
@@ -88,7 +75,7 @@ HSS Hotshots, also called Neo Hotshots, are always consistent and the fastest wa
 
 ## Quick Save Hotshots
 
-**Description:** The Quick Save Hotshot is the most flexible method for Hotshots and is always consistent.  The vast majority of Hotshots done in current speedrun routes are either Quick Save Hotshots or [HSS Hotshots](#hss-hotshots).
+**Description:** The Quick Save Hotshot is the most flexible method for Hotshots and is always consistent.  The vast majority of Hotshots done in current speedrun routes are either Quick Save Hotshots or [Neo Hotshots](#neo-hotshots).
 
 **Save Setup:**
 
@@ -159,7 +146,7 @@ HSS Hotshots, also called Neo Hotshots, are always consistent and the fastest wa
 
 ## Hard Save Hotshots
 
-Hard Save Hotshots were the original form of Hotshots, and are somewhat misnamed, since they actually load a Hard Save as a Quick Save.  This type of Hotshot is *not* consistent, and thus has been almost entirely obsoleted by the consistent methods of hotshot, [HSS Hotshots](#hss-hotshots) and [Quick Save Hotshots](#quick-save-hotshots).  There are two ways to perform this type of Hotshot, but both share the same save setup.
+Hard Save Hotshots were the original form of Hotshots, and are somewhat misnamed, since they actually load a Hard Save as a Quick Save.  This type of Hotshot is *not* consistent, and thus has been almost entirely obsoleted by the consistent methods of hotshot, [Neo Hotshots](#neo-hotshots) and [Quick Save Hotshots](#quick-save-hotshots).  There are two ways to perform this type of Hotshot, but both share the same save setup.
 
 **Save Setup:**
 
@@ -224,11 +211,11 @@ This was the original form of Hotshot, and is slower and more complicated than a
 - Hard Save Hotshots have two unique uses over other Hotshot methods:
 
   1. Spawning OoB party members at the Teleport save location, rather than the MC's location.
-  2. [Swoop Skips](#swoop-skips) can only be done with either a Hard Save Hotshot or an [HSS Hotshot](#hss-hotshots), as you cannot load a save in the swoop race modules (and they do not have Autosaves).
+  2. [Swoop Skips](#swoop-skips) can only be done with either a Hard Save Hotshot or an [Neo Hotshot](#neo-hotshots), as you cannot load a save in the swoop race modules (and they do not have Autosaves).
 
 - Notice that Hard Save Hotshots are not entirely consistent.  It may take several tries for the Hotshot Current save to change to QUICKSAVE, though that is unusual.
 - It is important for the [AMG](<Anywhere Menu Glitch>) to be done via Quick Save in the Destination Module.  We need to store the Teleport save in a Quick Save for the Hotshot to work.
-- Hard Save Hotshots are used twice in [All Quests](<../Route Guides/All Quests Unrestricted>) to warp while spawning party members near the Teleport save location.  In any other situation, [HSS Hotshots](#hss-hotshots) or [Quick Save Hotshots](#quick-save-hotshots) should be used instead.
+- Hard Save Hotshots are used twice in [All Quests](<../Route Guides/All Quests Unrestricted>) to warp while spawning party members near the Teleport save location.  In any other situation, [Neo Hotshots](#neo-hotshots) or [Quick Save Hotshots](#quick-save-hotshots) should be used instead.
 
 ## Coordinate Warping
 
@@ -248,8 +235,9 @@ To perform a Coordinate Warp:
 
 - Your party members will spawn in the Destination Module at the coordinates they had in the Start Module, with two exceptions:
 
-1. If the coordinates of the party member put them out of bounds, that party member will instead spawn near the MC for [HSS Hotshots](#hss-hotshots) or [Quick Save Hotshots](#quick-save-hotshots), or at the location of the Teleport save for [Hard Save Hotshots](#hard-save-hotshots).
-2. It is possible for party members to land in-bounds, but on "non-walkable mesh".  In this case, the party member is moved to the nearest "walkable mesh" coordinates in the new module.  This happens to Carth in the example video above, so his coordinates change slightly.
+1. If the coordinates of the party member put them out of bounds, that party member will instead spawn at the origin, if it is in-bounds in the Destination Module.
+2. If the coordinates of the party member put them out of bounds and the origin is also out of bounds, the party member will spawn near the MC for [Neo Hotshots](#neo-hotshots) or [Quick Save Hotshots](#quick-save-hotshots), or at the location of the Teleport save for [Hard Save Hotshots](#hard-save-hotshots).
+3. It is possible for party members to land in-bounds, but on "non-walkable mesh".  In this case, the party member is moved to the nearest "walkable mesh" coordinates in the new module.  This happens to Carth in the example video above, so his coordinates change slightly.
 
 - Coordinate Warps do not work with [Autosave Hotshots](#autosave-hotshots).
 
@@ -285,21 +273,22 @@ This glitch can be used to store only one transit point per module, but you can 
 
 ## Swoop Skips
 
-Swoop Skips are a method for exiting swoop races early in [All Quests](<../Route Guides/All Quests Unrestricted>) runs, thus saving the time of actually doing the races.  The skip uses a modified [Hard Save Hotshot](#hard-save-hotshots) as follows:
+Swoop Skips are a method for exiting swoop races early in [All Quests](<../Route Guides/All Quests Unrestricted>) runs, thus saving the time of actually doing the races.  The fastest version of the skip uses a [Neo Hotshot](#neo-hotshots), but it can also use a modified [Hard Save Hotshot](#hard-save-hotshots).  The fastest version follows these steps:
 
-1. Activate an [AMG](<Anywhere Menu Glitch>) via a Quick Save.
-2. Speak to Motta or Sslamoth to start the swoop race.
-3. Wait for the countdown to finish and the timer to start, then press Alt+F4 to regain control.
-4. Cancel the pop-ups and open any menu *except* the Options menu.
-5. Use the mouse to switch to the Options menu.
-6. Make a Hard Save and [AMG](<Anywhere Menu Glitch>) on the save.
-7. Perform either version of [Hard Save Hotshot](#hard-save-hotshots) with the Hard Save you just made to warp out of the swoop module.
+1. Make a Hard Save while in either Swoop Registration (on Tatooine) or Ahto West (on Manaan) in any slot.
+2. Activate an [AMG](<Anywhere Menu Glitch>) during the previous save (or using a Quick Save).
+3. Speak to Motta or Sslamoth to start the swoop race.
+4. Wait for the countdown to finish and the timer to start, then press Alt+F4 to regain control.
+5. Perform a [Neo Hotshot](#neo-hotshots) as usual, using the save you made in Step 1
 
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/krsRCyxffIk" frameborder="0"></iframe>
 </div>
+*Note this video shows the old method using Hard Save Hotshots.*
 
-Swoop Skips must use either [HSS Hotshots](#hss-hotshots) or [Hard Save Hotshots](#hard-save-hotshots), as attempting to load a save made in a swoop race module crashes the game.  Also note when skipping the Manaan swoop races, you will need to skip the cutscene after the race immediately after the Hotshot, whereas in Tatooine this cutscene does not start until you talk to Motta again.
+Swoop Skips must use either [Neo Hotshots](#neo-hotshots) or [Hard Save Hotshots](#hard-save-hotshots), as attempting to load a save made in a swoop race module crashes the game.  Also note when skipping the Manaan swoop races, you will need to skip the cutscene after the race immediately after the Hotshot, whereas in Tatooine this cutscene does not start until you talk to Motta again.
+
+Note that swoop skips do not work on the Taris swoop races due to the differences in how they are coded.
 
 ## Uses
 

@@ -1,58 +1,107 @@
-[center]**[big][big]Star Wars: Knights of the Old Republic[/big]
+# Star Wars: Knights of the Old Republic - All Quests No Major Glitches Guide 
 
-All Quests - No Major Glitches Guide v1.0: Male Scout -> Jedi Guardian Route[/big]**[/center]
+### v2.0: Male Scout -> Jedi Guardian Route
 
-[center]Route and Guide by indykenobi and BinksMagnus[/center]
+*Route and Guide by [indykenobi](https://www.speedrun.com/users/indykenobi) and [BinksMagnus](https://www.speedrun.com/users/BinksMagnus)*
 
-This route completes all 100 main and side quests in the game with no restrictions.  Dark side or light side conclusions are chosen based on overall speed for the route.  This guide will cover the character creation and leveling choices, as well as reasoning for each quest's chosen completion and a detailed route.
+This route completes all 100 main and side quests in the game without the use of major glitches.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and there are frequent load screens. 
+
+Dark side or light side quest conclusions are chosen based on overall speed for the route.  This guide will cover the character creation and leveling choices, as well as reasoning for each quest's chosen completion and a detailed route.
+
+If you need assistance with the glitches used in the game, I recommend the Techniques section of the [Glitch Guides](https://kotor-speedruns.github.io/kotor1/#glitch-guides).  You can either review those guides ahead of time, or use the hyperlinks in the guide below to consult the more detailed material when necessary.  You can also join the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu) and ask questions if you have them!
+
+**Table of Contents:**
+- [Category Rules](#category-rules)
+  - [All Quests Category](#all-quests-category)
+  - [NMG Ruleset](#nmg-ruleset)
+- [Character Build](#character-build)
+  - [Character Creation](#character-creation)
+  - [Leveling Plan](#leveling-plan)
+- [Equipment Plan](#equipment-plan)
+- [Credit Route](#credit-route)
+- [Alignment Route](#alignment-route)
+  - [Alignment Shifts](#alignment-shifts)
+  - [Quest Alignment Choices](#quest-alignment-choices)  
+- [Route Overview](#route-overview)
+  - [Planet Route](#planet-route)
+  - [Route Outline](#route-outline)
+- [Detailed Route](#detailed-route)
+- [Complete Quest List](#complete-quest-list)
+- [Version History](#version-history)
+
+## Category Rules
 
 **REMEMBER to show yourself restarting the game at the beginning of each attempt.**
 
-[section=No Major Glitches Rules]
+### All Quests Category
+
+For All Quests runs, you must complete the game with either ending on any difficulty, and complete all 100 quests. Completing a quest is defined as any of the following three conditions:
+
+1. The quest appears in the "Completed Quests" section of the journal.
+2. If the quest is entirely removed from the journal when completed, it must appear in the "Active Quests" section of the journal first.
+3. If a quest is completed but then becomes active again, it must be completed again.
+
+Out of the 100 quests, 91 of them can at some point be moved to the "Completed Quests" section of the Journal and thus satisfy condition 1.  
+
+The quest "The Jedi Council" is (with the current route) the only quest that reactivates and thus falls under condition 3.  It is completed both times by satisfying condition 2, as the quest is never placed in the Completed Quests section of the Journal.  The following eight quests are removed entirely from the Journal instead of becoming Completed Quests, and thus must satisfy condition 2:
+- Invited to a Party
+- The Jedi Council (for both completions)
+- The Ebon Hawk
+- Sunry's Story
+- Elora, Sunry's Wife
+- Gluupor, the Rodian
+- Ignus, the Hotel Owner
+- Firith Me, the Pazaak Player
+
+The final quest is the last one in the game, "The Final Confrontation".  The game actually never bothers to update that quest at any point after giving it to you, so for the purposes of the speedrun it is considered to be complete when Malak is defeated (when the timer stops).
+
+### NMG Ruleset
+
+**REMEMBER to show yourself restarting the game at the beginning of each attempt.**
 
 The No Major Glitches (NMG) rule set is a middle-ground between Unrestricted and Glitchless.
 
-The following glitches and tricks are banned in NMG:
-- [Fake Level Up](https://www.speedrun.com/kotor1/guide/b6452)
-- [Menu Glitch](https://www.speedrun.com/kotor1/guide/d4jq8) including AMG
-- [Fast Lane](https://www.speedrun.com/kotor1/guide/imbom)
-- [Hotshot](https://www.speedrun.com/kotor1/guide/iarwc) and [Coordinate Warp](https://www.speedrun.com/kotor1/guide/iarwc#ch4Coordinate_Warping)
-- [Full Inventory Duping](https://www.speedrun.com/kotor1/guide/hioyc#ch3Method_2_Full_Inventory_Dupe)
-- [Door Clipping](https://www.speedrun.com/kotor1/guide/dyi4i)
-Note: [Door Clipping](https://www.speedrun.com/kotor1/guide/dyi4i) includes [GP Warps](https://www.speedrun.com/kotor1/guide/77xef) that bypass locked doors.
+The following glitches and tricks are banned in NMG speedruns:
+- [Fake Level Up](<../Major Glitches/Fake Level Up>)
+- [Menu Glitch](<../Major Glitches/Anywhere Menu Glitch>) including AMG
+- [Fast Lane](<../Major Glitches/Fast Lane>)
+- All varieties of [Hotshot](<../Major Glitches/Hotshot>)
+- [Full Inventory Duping](<../Major Glitches/Item Duplication#full-inventory-duplication>)
+- [Door Clipping](<../Major Glitches/Door Clipping>)
+  - *Note:* [Door Clipping](<../Major Glitches/Door Clipping>) includes [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) that [bypass locked doors](<../Major Glitches/Door Clipping#gather-party-warp-clips>).
 
 These glitches and tricks are allowed:
-- [Save Buffers](https://www.speedrun.com/kotor1/guide/t5kyf) of all types
-- [Save Teleports](https://www.speedrun.com/kotor1/guide/5dagb)
-- [Map CS Skips](https://www.speedrun.com/kotor1/guide/rb685)
-- [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj)
-- [Force Skips](https://www.speedrun.com/kotor1/guide/8fp02)
-- [Wired Targeting](https://www.speedrun.com/kotor1/guide/41875)
-- [Single Item Duping](https://www.speedrun.com/kotor1/guide/hioyc#ch2Method_1_Single_Item_Duplication)
-- [GP Warps](https://www.speedrun.com/kotor1/guide/77xef) that do not bypass locked doors.
+- [Save Buffers](<../Techniques/Save Buffering>) of all types
+- [Save Teleports](<../Techniques/Save Teleporting>)
+- [Map CS Skips](<../Techniques/Map Cutscene Skips>)
+- [Combat Talking](<../Techniques/Combat Talking>)
+- [Force Skips](<../Techniques/Force Skips>)
+- [Wired Targeting](<../Techniques/Wired Targeting>)
+- [Single Item Duping](<../Techniques/Item Duplication#single-item-duplication>)
+- [Damage Stacking](<../Techniques/Damage Stacking>)
+- [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) that do not bypass locked doors.
 
-[section=Character Build]
+## Character Build
 
-***Character Creation
----------------------------***
+### Character Creation
 
-Male Scout - We choose Male because Male characters can complete Carth's quest without romancing him, and do not need to romance Bastila to complete her quest. Female characters would need to talk to Carth several more times and would have different dialogue at various points.
+Male Scout - Choosing a Male character is faster in two places: starting the "Invited to a Party" quest on Taris requires going further into the Upper City Cantina as a Female MC, and you have to do 4 additional conversations with Carth to complete his quest.  This guide will assume a Male MC.
 
 Scout is picked for automatic access to Flurry, Implant Level 2 and Computer Use as a Class Skill.
 
 **Initial Attributes**
-18 Str
-12 Dex
-12 Con
-10 Int
-8 Wis
-12 Cha
+- 18 Str
+- 12 Dex
+- 12 Con
+- 10 Int
+- 8 Wis
+- 12 Cha
 
 **Initial Skills**
-Computer Use - 4
-Security - 1
-Treat Injury - 4
-Save the rest
+* Computer Use - 4
+* Security - 1
+* Treat Injury - 4
+* Save the rest
 
 **Initial Feat** - Weapon Focus: Melee Weapons
 
@@ -62,26 +111,47 @@ For skills, we need will use Computer Use to help save on spikes throughout the 
 
 We choose Weapon Focus: Melee for the attack boost on Taris, in particular the fights with Selven, the Dueling Ring, and everything in the Sith Base. We choose it over Two-Weapon Fighting because it takes longer to select, so at level 2 it's faster to pick Two-Weapon Fighting. Since character creation isn't timed, this is optimal, and since you only have one melee weapon equipped on the Endar Spire there is no additional point at which you would benefit from it by taking Two-Weapon Fighting at Creation.
 
-***Leveling Plan
--------------------***
+### Leveling Plan
 
-https://i.imgur.com/QPItut4.png
 
-Our main plan is to combine Master Speed with Master Flurry and a double-bladed lightsaber for five attacks per round in the late game.  Master Two-Weapon Fighting, Weapon Focus, stims and lightsaber crystals give us enough attack that we can reliably hit even with the attack penalties.
+| Level | Feat | Power | Skills |
+|---| :--- | :--- | :--- |
+| 1 | Weapon Focus: Melee Weapons, *Flurry* | | Com to 4, Stealth to 1, Sec to 1, TI to 4 |
+| 2 | Two-Weapon Fighting | | Save All |
+| 3 | Empathy | | Save All |
+| 4 | *Implant 2, Uncanny Dodge* | | Save All |
+| 5 | Improved Two-Weapon Fighting | | Save All |
+| 6 | Improved Flurry, *Force Jump* | Burst of Speed, Force Valor | Save All |
+| 7 | | Affect Mind | Per to 10, TI to 8 |
+| 8 | Master Two-Weapon Fighting | Dominate Mind | Per to 11 |
+| 9 | | Knight Speed | Per to 12 |
+| 10 | | Knight Valor | Per to 13 |
+| 11 | Master Flurry, *Improved Force Jump* | Force Resistance | Per to 14 |
+| 12 | Weapon Focus: Lightsaber | Drain Life | Per to 15 |
+| 13 | | Energy Resistance | Per to 16 |
+| 14 | Weapon Specialization: Lightsaber | Improved Energy Resistance | Per to 17 |
+| 15 | | Master Speed | Per to 18 |
 
+Our main plan is to combine Master Speed with Master Flurry and a Double-Bladed Lightsaber for five attacks per round in the late game.  Master Two-Weapon Fighting, Weapon Focus, stims and lightsaber crystals give us enough attack that we can reliably hit even with the attack penalties.
+
+**Notes on Feats and Powers:**
 - We take Empathy at level 3 to gain a small boost to Persuade and Treat Injury; no other feat is as useful at that level.
 - Implant Level 2 is granted for free at Level 4, allowing us to equip the Nerve Enhancement Package.
-- We reach level 5 on Taris so that we can be as strong as possible for the Duel Ring sidequest after rescuing Bastila.  Level 6 is saved for when we become a Jedi so we can take Speed, Valor, and Affect Mind before leaving Dantooine.
+- We reach level 5 on Taris so that we can be as strong as possible for the Bendak and Sith Base fights.  Level 6 is saved for when we become a Jedi so we can take Speed, Valor, and Affect Mind before leaving Dantooine.
 - For Feats, we stack everything we can that improves our chance to hit; Master Flurry, Master Two-Weapon Fighting, and Weapon Focus/Specialization: Lightsaber are the key feats we get.
 - Force Speed is the key to our combat build and early movement; Master Speed is critical to get as many attacks in as possible.
 - Force Valor helps us out on pretty much every key fight starting with the Elite Sand People Warriors and going all the way up to Darth Malak.
 - Force Resistance can be used on Star Forge to help protect against hostile Force Powers, particularly on Deck 2.
 - Dominate Mind allows us to pass Persuade checks on Czerka guards on Kashyyyk and Lashowe on Korriban.  Affect Mind allows us to access Manaan, Tatooine and Kashyyyk without paying the docking fee, among other things.
-- If you happen to reach Level 16 (which is unlikely without a lot of extra kills), the power to take is Master Valor.
 
-For skills, the 10 points in Intelligence allow us to get up to 8 net Computer Use, saving 2 spikes per hacking with our MC.  6 in Treat Injury helps us preserve some medpacs and increases survivability. Persuade helps us shortcut some quests and bypass some fights, and we max this out as soon as we become a Jedi.  We keep putting points in Persuade because as we level because we need more Persuasion to continue to pass important Persuade checks.
+**Notes on Skills and Attributes:**
+- The 10 points in Intelligence allow us to get 4 net Computer Use, saving 1 spike per hacking with our MC and smoothing out the spike route on Taris.
+- The 1 point in Stealth causes a Stealth Field Generator to spawn in the first footlocker on Endar Spire, which we then sell for 40 extra credits, netting us a extra concussion grenade.
+- The 1 point in Security is for a skip on the Endar Spire, and to open a couple apartments on Taris.
+- 12 Charisma, along with maxing Persuade and Force Valor guarantees passing every Persuade check in the game.  We keep putting points in Persuade because as we level because we need more Persuasion to continue to pass important Persuade checks, all the way through sparing Bastila on the Star Forge.
+- 8 in Treat Injury helps us preserve some medpacs and increases survivability.  4 in TI is usually enough to get through Taris; if desired, you can take more points in TI at each level on Taris to be very slightly safer.
 
-[section=Equipment Plan]
+## Equipment Plan
 
 **Implant: Nerve Enhancement Package** - Bought on Taris, Zelka's Shop (500 Credits)
 - A convenient source of Immunity: Mind-Affecting, protecting us from a host of Dark Jedi abilities and other status effects that slow us down.
@@ -98,46 +168,45 @@ For skills, the 10 points in Intelligence allow us to get up to 8 net Computer U
 **Belt: CNS Strength Enhancer** - Bought on Dantooine, Crattis Yurkal's shop (8500 Credits)
 - A belt that gives +2 Strength and +2 to all saving throws helps on both offense and defense.
 
-**Weapon: Double-bladed Lightsaber** - Found on Taris, Brejik's corpse
+**Weapon: Double-Bladed Lightsaber** - Found on Taris, Brejik's corpse
 - We borrow Bastila's lightsaber for the bulk of the game.  This allows us to use Force Jump, as well as maximize the effects of the Solari and Krayt Dragon Pearls that we place into it.  It's also free, which reduces the strain on the credit route quite a bit compared to the alternatives.
+- Crystals Used:
+    - Sigil Crystal: Placed after Dantooine 1, used for +1 Attack (and a small damage boost)
+    - Krayt Dragon Pearl: Placed after Tatooine 1, gives a huge +3 Attack as well as +2 Energy damage
+    - Solari Crystal: The best crystal in the game and the reason we want to be Light-aligned in endgame. Replaces Sigil after Lehon, gives +3 Attack, +3 Physical damage, and +1d8 damage vs. Dark Side enemies, which the final three major combat encounters happen to put us against.
 
-Sigil Crystal: Placed after Dantooine 1, used for +1 Attack
-Krayt Dragon Pearl: Placed after Tatooine 1, gives +3 Attack and +2 Energy damage
-Solari Crystal: The best crystal in the game and the reason we want to be Light aligned in endgame. Replaces Sigil after Lehon, gives +3 Attack, +3 Physical damage, and +1d8 damage vs. Dark Side enemies, which the final three major combat encounters happen to put us against.
-
-[section=Credits Route]
+## Credit Route
 
 The major purchases made during the run are the CNS Strength Enhancer, HK-47, and a large amount of adrenal stims and medpacs for fights.  The credit route is extremely tight early on and stops being a concern after Manaan 1.
 
 **1. Larrim on Taris**
-*Sell*: Unneeded Items to reach about 1276 Credits
-*Buy:* 2x Concussion Grenade and Battle Stimulant (≥1000 Credits)
+- *Sell*: Unneeded Items to reach about 1194 Credits
+- *Buy:* 2x Concussion Grenade and Battle Stimulant (~908 Credits)
 
 **2. Zelka Forn on Taris**
-*Buy*: Nerve Enhancement Package, 5x Adrenal Alacrity, 5x Adrenal Strength, Medpacs
+- *Buy*: Nerve Enhancement Package, 5x Adrenal Alacrity, 2x Adrenal Strength (~58 Credits)
 
-**3. Janice Nall on Taris**
-*Sell*: Unneeded Items to reach about 6400 Credits
+**3. Kebla Yurt on Taris**
+- *Buy*: Concussion Grenade (~28 Credits)
 
-**4. Crattis Yurkal on Dantooine**
-*Buy*: CNS Strength Enhancer, Breath Mask, 3x Adrenal Alacrity, 1x Adrenal Strength, 1x Adrenal Stamina, +/- Pazaak Cards
+**4. Janice Nall on Taris**
+- *Sell*: Unneeded Items to reach about 6072 Credits
 
-**5. Mic'Tunan'Jus Orgu on Tatooine**
-*Sell*: Unneeded Items to reach about 4800 Credits
-*Buy*: Bantha Fodder, ~15x Advanced Medpacs
+**5. Crattis Yurkal on Dantooine**
+- *Buy*: CNS Strength Enhancer, Breath Mask, 3x Adrenal Alacrity, 1x Adrenal Strength, 1x Adrenal Stamina, +/-3, +/-5 Pazaak Cards (~22 Credits)
 
-**6. Junix Nard on Tatooine**
-*Buy*: Pazaak Cards (3650 Credits)
+**6. Mic'Tunan'Jus Orgu on Tatooine**
+- *Sell*: Unneeded Items to reach about 6538 Credits
+- *Buy*: 4x Life Support Packs, ~14x Advanced Medpacs, Adrenal Strength, Bantha Fodder (~4767 Credits)
 
 **7. Selkath Merchant on Manaan**
-*Sell*: Racing Bonds to reach about 4500 Credits
-*Buy*: 7x Parts, 5x All Hyper Stims (≥500 Credits)
+- *Buy*: 7x Parts, 5x All Hyper Stims (~447 Credits)
 
-**8. Eli Gand on Kashyyyk**
-*Buy*: ~20x Advanced Medpac
+**8. Junix Nard on Tatooine**
+- *Buy*: All Pazaak Cards, Hair Trigger (~7797 Credits)
 
 **9. Czerka Store on Korriban**
-*Buy*: All Echani and Hyper Stims, Medpacs if needed
+- *Buy*: All Echani and Hyper Stims (~1200 Credits)
 
 Notice that we sell as much as possible to Janice Nall on Taris; shops on Taris give 40% of item value for sell prices, compared to 25% off of Taris, so we maximize our credits that way.
 
@@ -146,28 +215,65 @@ In addition to selling items, other major sources of credits include:
 - Taris Bounty and Rakghoul Serum rewards
 - Manaan Swoop Races
 
-[section=Alignment Route]
-
-***Alignment in KotOR
------------------------------***
+## Alignment Route
 
 Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher numbers are Light, lower numbers are Dark. Shifts in alignment are determined by a matrix; every alignment-shifting action is classified as Light or Dark, and then assigned a level (either Low, Mid, or High). The player character can be aligned as Very Dark, Dark, Neutral, Light, or Very Light. The more opposed your alignment and the action's classification, the more drastic your shift in alignment; for example, a Light-aligned character performing a High Dark action will have a large shift, while a Dark character performing a High Dark action will have a smaller shift.
 
-***Alignment Route
-------------------------***
+### Alignment Shifts
 
 Here's the full list of alignment actions that happen during the run; there are 46 total shifts, of which exactly 27 are dark and 16 are light:
 
-https://i.imgur.com/5bM09nI.png
+| Aligned | Action | Type | Delta | New |
+|---| :--- | :--- |---|---|
+| Neutral | Game Start | -- | 50 | 50 |
+| Neutral | Threaten Dia about Holdan | Low Dark | -2 | 48 |
+| Neutral | Kill Dia | Low Dark | -2 | 46 |
+| Neutral | Kill Largo | Low Dark | -2 | 44 |
+| Neutral | Kill the Infected Outcasts | Low Dark | -2 | 42 |
+| Neutral | Give Rukil the Promised Land journals | High Light | +6 | 48 |
+| Neutral | Agree to kill Gadon Thek | Low Dark | -2 | 46 |
+| Neutral | Agree to a death match with Bendak Starkiller | Low Dark | -2 | 44 |
+| Neutral | Threaten Ajuur for more credits | Low Dark | -2 | 42 |
+| Neutral | Threaten Janice Nall for T3 | Low Dark | -4 | 38 |
+| Dark | Sell the Rakghoul Serum to Zax | Low Dark | -1 | 37 |
+| Dark | Kill Tanis | Mid Dark | -2 | 35 |
+| Dark | Kill Komad Fortuna | Low Dark | -1 | 34 |
+| Dark | Order Sasha off your ship | Mid Dark | -2 | 32 |
+| Dark | Lie to Nubassa about the gizka | Low Dark | -1 | 31 |
+| Dark | Kill Lorgal via the console | Low Dark | -1 | 30 |
+| Dark | Loan Queedle money for his swoop bike | Mid Light | +6 | 36 |
+| Dark | Try to refuse Queedle's return of the loan | Low Light | +4 | 40 |
+| Neutral | Give Casus's journal to Nurik for free | Low Light | +2 | 42 |
+| Neutral | Refuse reward from Shen and Rahasia | Low Light | +2 | 44 |
+| Neutral | Kill Zuulan | Low Dark | -2 | 42 |
+| Neutral | Kill Rulan | Low Dark | -2 | 40 |
+| Dark | | Low Dark | -2 | 38 |
+| Dark | Kashyyyk Star Map Quiz | Low Light | +4 | 42 |
+| Neutral | | Low Dark | -2 | 40 |
+| Neutral | Kill Freyyr | High Dark | -6 | 34 |
+| Dark | Report Freyyr's death to Chuundar | High Dark | -4 | 30 |
+| Dark | Tell Matton not to kill Eli | High Light | +8 | 38 |
+| Dark | Buy Sharina's wraid plate for half price | Low Dark | -2 | 37 |
+| Dark | Kill Ithorak | Low Dark | -1 | 36 |
+| Dark | Threaten to kill Shasa | High Dark | -4 | 32 |
+| Dark | Persuade Kel Algwinn to return to the Jedi | Hardcoded | +3 | 35 |
+| Dark | Give Dustil evidence of Uthar's betrayal | High Light | +8 | 43 |
+| Neutral | Use serum on the Mandalorian prisoner | Hardcoded | -3 | 40 |
+| Neutral | Use serum on the Mandalorian prisoner again | Hardcoded | -3 | 37 |
+| Dark | Give dark answers during Jorak Uln's quiz | Mid Dark | -2 | 35 |
+| Neutral | Tell the renegade Sith that they're free | High Light | +8 | 43 |
+| Neutral | Spare Yuthura Ban | Mid Light | +4 | 47 |
+| Neutral | | Low Light | +2 | 49 |
+| Neutral | Remain true to the Light Side on Lehon | High Light | +6 | 55 |
+| Neutral | | Highest Light | +10 | 65 |
 
-The alignment route is fairly specific, as we need to be Light aligned to use the Solari Crystal on the Star Forge, and we don't achieve a Light alignment until our very last alignment shift on Lehon.
+The alignment route is quite lenient, since we no longer try to equip the Solari crystal until after Lehon, when we get a massive infusion of light side points when we choose to renounce our former identity.
 
 The ending for the run is the light side ending; see below.
 
-***Alignment Choices in Quests
-------------------------------------------***
+### Quest Alignment Choices
 
-In general, every quest outcome is chosen to get the fastest time, regardless of alignment.
+In general, every quest outcome is chosen to get the fastest time, regardless of alignment. Some notes on some non-intuitive choices:
 
 **1. Dia's Bounty - Dark**
 - We kill Dia on Taris because it's faster than Persuading Holdan to drop the bounty, since you'd have to talk to Zax twice in that case, then Transit Back and talk to Dia.
@@ -194,27 +300,27 @@ In general, every quest outcome is chosen to get the fastest time, regardless of
 - We kill Freyyr because it's faster overall for a variety of reasons. We avoid having to kill the Ritual Beast, we avoid having to fight Chuundar and his lackeys, Gorwooken will take us straight to Chuundar as we exit the Shadowlands, and we avoid having to complete Wookiee Lost the normal way as it auto-completes instead when Chuundar kicks us out of the village.
 
 **9. Star Map: Kashyyyk - Dark** 
-- We give the "correct" answers during the Star Map quiz on Kashyyyk because it's faster than giving Light Side answers and having to fight the Defense Droids.  Ironically, because we have Dark alignment while this is happening and the second answer causes a Light Side shift, this entire conversation results in a net Light Side shift of +2 despite the fact that we're giving mostly "Dark Side" answers.
+- We give the "correct" answers during the Star Map quiz on Kashyyyk because it's faster than giving Light Side answers and having to fight the Defense Droids.  Ironically, because we have exactly 40 alignment when this is happening and the second answer causes a Light Side shift, this entire conversation results in no net alignment shift, despite the fact that we're giving mostly "Dark Side" answers.
 
-**10. Korriban Sidequests and Prestige** 
-- Many of the Korriban choices are made because we can only turn in five prestige points before Uthar stops accepting other quests.  Choosing the Dark Mandalorian Weapons Cache, Light Doubting Sith, Neutral Ajunta Pall's Sword, and Light Rogue Droid allows those sidequests to be completed without talking to Uthar; this leaves only five quests (Code of the Sith, Hermit in the Hills, Renegade Sith, Aiding Lashowe, and Double-Double Cross) that require getting a prestige point from Uthar.  The only other possibility is Light Renegade Sith and Dark Rogue Droid, but that requires killing the terentatek at the back of the Shyrack Caves, which is too far out of the way.
-
-**11. Finding Dustil - Light** 
-- Choosing to give Dustil the evidence of Uthar's treachery is just barely slower, but prevents having to fight him, and we have to go into Uthar's Room anyways.
-
-**12. Hermit in the Hills - Dark** 
-- Choosing the Dark Hermit in the Hills completion is faster and prevents having to fight Jorak Uln, who's actually kind of a pain.
-
-**13. Middleman - Dark**
+**10. Middleman - Dark**
 - We give Sharina half the credits she asks for because it's faster to mash through the cutscene than it is to select dialogue.
 
+**11. Korriban Sidequests and Prestige** 
+- Many of the Korriban choices are made because we can only turn in five prestige points before Uthar stops accepting other quests.  Choosing the Dark Mandalorian Weapons Cache, Light Doubting Sith, Neutral Ajunta Pall's Sword, and Light Renegade Sith allows those sidequests to be completed without talking to Uthar; this leaves only five quests (Code of the Sith, Hermit in the Hills, Rogue Droid, Aiding Lashowe, and Double-Double Cross) that require getting a prestige point from Uthar.  The only other possibility is Neutral Renegade Sith and Light Rogue Droid, but that gives less experience, which risks not having Master Speed for the Star Forge.  In addition, the animations for repairing the droid take a surprisingly long time.
+
+**12. Finding Dustil - Light** 
+- Choosing to give Dustil the evidence of Uthar's treachery is just barely slower, but prevents having to fight him, and we have to go into Uthar's Room anyways.
+
+**13. Hermit in the Hills - Dark** 
+- Choosing the Dark Hermit in the Hills completion is faster and prevents having to fight Jorak Uln, who's actually kind of a pain.
+
 **14. Trapped on a Nameless World - Light**
-- We stay true to the Light Side on Lehon because otherwise the "Juhani" quest does not complete.  It also makes the Star Forge faster in the NMG rule set, since we would otherwise have to bring Bastila through the Star Forge with us.
+- We stay true to the Light Side on Lehon because otherwise the "Juhani" quest does not complete.  It also makes the Star Forge faster in the NMG ruleset, since we would otherwise have to bring Bastila through the Star Forge with us.
 
-[section=Route Overview]
+## Route Overview
 
-***Planet Route
--------------------***
+### Planet Route
+
 Taris -> Dantooine 1 -> Tatooine 1 -> Manaan 1 -> Dantooine 2 -> Kashyyyk -> Tatooine 2 -> Manaan 2 -> Leviathan -> Korriban -> Unknown Planet -> Star Forge
 
 Some planets require at least two visits, such as:
@@ -232,8 +338,7 @@ Tatooine could be done in a single visit if our route was different, but since w
 
 This route does not visit Yavin space station, and therefore does not get the Baragwin Assault Blade or the Advanced Bio-Stabilizer Mask.  But we save time by not having to visit Suvam three times.
 
-***Route Outline
--------------------***
+### Route Outline
 
 **1. Taris 1**
 - Obtain the Sith Armor from Sarna's Party
@@ -243,6 +348,7 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 - Turn in Promised Land Journals
 - Get Swoop Accelerator from Vulkar Base
 - Rescue Bastila
+
 **2. Taris 2**
 - The Duel Ring and Bendak's Bounty
 - Recruit T3
@@ -250,27 +356,28 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 - Sell Rakghoul Serum to Zax and get bounty rewards
 - Recruit Canderous
 - Steal the Ebon Hawk and escape Taris
+
 **3. Dantooine 1**
 - Buy the CNS Strength Enhancer
 - Become a Jedi Padawan
 - Ignore the murder of Calder Nettic
 - Redeem Juhani to the light side
 - Find the Star Map in the ancient ruins
+
 **4. Tatooine 1**
 - Win the Tatooine Swoop Races and get Nico a better contract
-- Win a Pazaak Game
-- Buy HK-47
-- Speak with Iziz about his kin
 - Deal with Tanis in the Dune Sea
 - Deal with the Gamorrean Ambush
 - Kill Komad Fortuna and the Krayt Dragon
 - Find the Star Map and Bastila's Father's holocron
 - Trigger the GenoHaradan bounty quests
+
 **5. Manaan 1**
 - Finish Carth's backstory
 - Sell gizka to Nubassa
 - Begin the GenoHaradan bounties and kill Lorgal
 - Win the Manaan Swoop Races
+
 **6. Dantooine 2**
 - Give Nurik Sandral evidence of his son's death
 - Reconcile the Sandrals and Matales
@@ -278,6 +385,7 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 - Kill the Mandalorian Raiders
 - Kill Zuulan
 - Speak to Elise and Jon
+
 **7. Kashyyyk**
 - Speak with Eli Gand
 - Reach the Shadowlands
@@ -292,50 +400,58 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 - Defeat the Mandalorian Hunters
 - Side with Chuundar
 - Expose Eli Gand
+
 **8. Tatooine 2**
 - Buy Sharina's wraid plate
 - Reconcile Bastila and her mother
-- Kill Vorn
+- Win a Pazaak Game
+- Buy HK-47
+- Speak with Iziz about his kin
+- Hack Vorn's droid so the game thinks he's dead
 - Peacefully resolve the Sand People attacks
 - Gain access to Sand People history
 - Rescue the Jawa prisoners and Griff
 - Finish Griff's sidequest with the tach glands
 - Get the Sand People reward from Czerka
 - Get Iziz's reward
+
 **9. Manaan 2**
 - Kill Ithorak and enter the Sith Base
 - Find the Data Module
 - Convince the Selkath youths to abandon the Sith
-- Turn in the GenoHaradan bounties
+- Turn in the GenoHaradan bounties and let Hulas go
 - Turn in the Data Module and take the Submersible
 - Locate the Star Map underwater
 - Be acquitted at your trial
 - Give Nilko and Shaelas the information they seek
 - Investigate the Sunry Murder Trial fully
+
 **10. The Leviathan**
 - As Mission, rescue the party
 - Obtain a space suit to reach the bridge
 - Defeat Darth Malak to escape
 - Learn HK-47's true identity
+
 **11. Korriban**
 - Encounter Xor
-- Speak to Jagi with Canderous
+- Finish Jagi's Challenge with Canderous
 - Refuse to work with Lurze Kesh
 - Visit Mika Dorin's premium shop
 - Inflitrate the Sith Academy
 - Redeem Kel Algwinn to the light side
-- Interrogate the Mandalorian
 - Recite the Sith Code
-- Help both Uthar and Yuthura with their plots
+- Help Yuthura with her plot and tell her about Uthar's plot
 - Give Dustil proof of Uthar's treachery
-- Kill the Sith students in the Shyrack Caves
+- Interrogate the Mandalorian
 - Find Ajunta Pall's Sword
-- Deactivate the assassination protocol on the rogue droid
-- Kill Lashowe for the holocron
 - Pass Jorak Uln's quiz
+- Kill Lashowe for the holocron
+- Destroy the rogue assassin droid
+- Kill the terentatek to free the Sith students in the Shyrack Caves
 - Gain entrance to Naga Sadow's tomb and find the Star Map
 - Kill Uthar and spare Yuthura
 - Finish Juhani's backstory and kill Xor
+
 **12. Lehon**
 - Defeat the Mandalorian leader and give his head to Warleader Garn
 - Betray the One and rescue the Elder Warrior
@@ -345,1483 +461,1687 @@ This route does not visit Yavin space station, and therefore does not get the Ba
 - Defeat Bastila and stay true to the light side
 - Turn in genetic data to the Elder Rakata
 - Repair the Ebon Hawk and locate the Star Forge
+
 **13. Star Forge**
 - Finish Canderous's backstory
 - Defeat and redeem Bastila
 - Defeat Darth Malak
 
-[section=Detailed Route]
+## Detailed Route
 
 This section will describe all the actions you'll need to take for the All Quests NMG run.
 
-**Credit Route notes:**
-Credit values are only generally noted where they are important.  You shouldn't have credit issues if you stick with the route as written, and after Manaan Swoop Racing you're so rich that your credit count is irrelevant.
+### Crash Awareness
 
-**Quest Notes:**
-It is generally noted where a quest begins and finishes.  If it finishes at the same time it begins, it is only noted as "Finished".  Quests resolved with a specific alignment are noted "- Light" or "- Dark".
-Notes that read "Bastila #1" or similar are steps in conversation side quests with that particular party member.  With a few noted exceptions, these are all spammable conversations.
+KotOR has a significant memory leak associated with the Quick Save feature, which is used heavily in this speedrun and is what allows a significant portion of NMG's glitches to work. It is recommended to speedrun with the Task Manager open in order to monitor Memory usage and also to close the game at several points. It is recommended to close and restart the game around 1400-1450 MB of memory used, as the game will crash unpredictably between 1500 and 1600 MB. This is a very small margin, and being aware of your memory usage is a vital component of finishing runs and getting good times.
 
-**Notation:**
-¤ indicates a glitch or trick to be done
-> indicates a level up to be done
-} indicates an inventory/equipment action to be done
-MC - Stands for Main Character, your player character
-CS - Cutscene
-QS - Quick Save
-QL - Quick Load
-QS/QL - Quick Save then immediately Quick Load
-[GP Warp](https://www.speedrun.com/kotor1/guide/77xef) - Gather Party Warp
+### Guide Notation
 
-**Conversation Notes:**
-If no conversation choices are specified, spamming will work.
-A | indicates a break in the conversation.  You have to talk to the person again.
-A X indicates a variable answer, such as in reciting the Sith Code.
-A #xY indicates repeat that option Y times, as in Gadon Thek's first conversation.
+Notation:
+- `Level ups are highlighted in code block`
+- *Inventory/Equipment changes are highlighted in italics*
+- **Item Upgrades at a workbench are highlighted in bold**
+- `Shopping trips are highlighted in large code blocks`
+- ***Quest Updates are highlighted in bold and italics***
 
-**Crash Awareness**
-KotOR has a significant memory leak associated with the Quicksave feature, which is used heavily in this speedrun and is what allows a significant portion of NMG's glitches to work. It is recommended to speedrun with the Task Manager open in order to monitor Memory usage and also to close the game at several points. It is recommended to close and restart the game around 1400-1450 MB of memory used, as the game will crash unpredictably between 1500 and 1600 MB. This is a very small margin, and being aware of your memory usage is a vital component of finishing runs and getting good times.
+Conversation Notes: 
+- If no conversation choices are specified, spamming will work (this chooses all 1 options).
+- A ... indicates a break in the conversation, such as changing who you're talkng to or having to talk to the NPC again
+- A * indicates a variable answer, such as in reciting the Sith Code.
+- A #* indicates a Persuade check that may fail.
+- A #xY indicates repeat that option Y times, as in Gadon Thek's first conversation.
+- Notes that read "Bastila #1" or similar are steps in conversation side quests with that particular party member.  With a few noted exceptions, these are all spammable conversations.
 
-[section=Endar Spire]
+Quest Notes:
+- It is generally noted where a quest begins and finishes.
+- Specific alignments for all quests are shown in the quest list at the end.
 
-**Character Creation:**
-> Male Scout – Custom Character
-> Str to 18, Dex to 12, Con to 12, Int to 10, Cha to 12
-> Computer Use to 4, Security to 1, Treat Injury to 4, Save the rest
-> Initial Feat – Weapon Focus: Melee Weapons
-> Pick a good name!
-> Timer starts when you hit Play!
+**Jump to a Section:**
+- [Endar Spire](#endar-spire)
+- [Taris 1](#taris-1)
+- [Taris 2](#taris-2)
+- [Dantooine 1](#dantooine-1)
+- [Tatooine 1](#tatooine-1)
+- [Manaan 1](#manaan-1)
+- [Dantooine 2](#dantooine-2)
+- [Kashyyyk](#kashyyyk)
+- [Tatooine 2](#tatooine-2) 
+- [Manaan 2](#manaan-2)
+- [The Leviathan](#the-leviathan)
+- [Korriban](#korriban)
+- [Lehon](#lehon)
+- [The Star Forge](#the-star-forge)
 
-**Endar Spire:**
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) past Intro CS
-Loot footlocker
-} Equip Short Sword
-Trask conversation twice (spam)
-} Equip Blaster Pistol to Trask's Offhand
-Use security on door
-Kill two Sith Soldiers
-Loot footlocker in next room
-Cutscene of Sith vs. Republic
-Kill front three Sith Soldiers with frag grenade
-Jedi vs. Sith cutscene
-Loot Jedi for Vibration Cell/Adrenal Strength
-Kill two Sith soldiers
-Kill front two Sith soldiers on bridge
-> Level to 2: Save skills, Two-Weapon Fighting
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) past Trask's death scene
-Enter Starboard Section
+## Endar Spire
 
-**Starboard Section:**
-Loot footlocker in Terminal Room
-Hack terminal console: 2,3
-Loot Sith Commander for Prototype Vibroblade
-Carth talks to you
-Take Escape Pod to Taris
+### Character Creation
+- Male Scout – Custom Character
+- Str to 18, Dex to 12, Con to 12, Int to 10, Cha to 12
+- Computer Use to 4, Security to 1, Treat Injury to 4, Save the rest
+- Initial Feat – Weapon Focus: Melee Weapons
+- Pick a good name!
+- Timer starts when you hit Play!
 
-[section=Taris 1]
+### Command Module
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Intro CS
+- Loot footlocker
+- *Equip MC: Short Sword*
+- Trask conversation twice (spam)
+- *Equip Trask: Blaster Pistol Offhand*
+- Use security on door
+- Kill two Sith Soldiers
+- Loot footlocker in next room
+- Cutscene of Sith vs. Republic
+- Kill front three Sith Soldiers with frag grenade
+- Jedi vs. Sith cutscene
+- Loot Jedi for Vibration Cell/Adrenal Strength
+- Kill two Sith soldiers
+- Kill front two Sith soldiers on bridge
+- `Level to 2: Save Skills, Two-Weapon Fighting`
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Trask's death scene
+- Enter Starboard Section
 
-*Note on Alacrity: We want Adrenal Alacrity to be active on the MC for as much of Taris as possible.  The route obtains 5 Alacrities on Taris, and with Duration Glitch and good movement you should be able to reach Dantooine with 2 remaining.*
+### Starboard Section
+- Loot footlocker in Terminal Room
+- Hack terminal console: 2,3
+- Loot Sith Commander for Prototype Vibroblade
+- Carth talks to you
+- Take Escape Pod to Taris
 
-**South Apartments:**
-} Use the stims hotkey to use two stims:
-- Once (for Adrenal Alacrity) before the dream CS
-- Once (for Adrenal Strength) before the waking up CS in the Hideout
-Carth talks to you: 1,1,1,5,3
-Loot footlocker for spikes and medpacs (+2; 3 Spikes)
-} Equip Combat Suit, Prototype Vibroblade mainhand, Vibroblade offhand
-Exit the apartment (forced to bring Carth)
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) past Sith Raid cutscene
-Use Security on the first door on the right
-Speak to and kill Dia: 1,1,1,2,2,2,1
-- Starts “Dia’s Bounty”
-Loot Dia’s Bag
-Larrim accosts you: 1,2,4
----------------------------------------------------------
-*SHOPPING:* Larrim
-**SELL ALL EXCEPT:**
-- 3 Computer Spikes (sell down to 3)
-- Vibroblade
-- Grenades
-- Stims
-**BUY:**
-- Battle Stimulant
-- Concussion Grenade (Buy 2x if you can do so without going below 1000 credits, this will depend on what you got in Dia’s Bag)
-End: ≥ 1000 Credits
----------------------------------------------------------
-Exit to Upper City South
-- Starts “Rapid Transit System”
+## Taris 1
 
-**Upper City South:**
-Run to Upper City Cantina
-- Do Carth #1 when prompted (mash 1)
-- Starts “Carth”
-Enter Upper City Cantina
-Activate Solo Mode
-Carth opens door
-MC talks to Sarna: 1,1,3,2,1,1,1
-- Starts “Invited to a Party”
-Swap to Carth and leave the Cantina
-Run towards Upper City North
-Activate Solo Mode
-With MC, open door to Medical Clinic
-With Carth, open door to Upper City North
-MC talks to Zelka: 1,1,1,3
-- Starts “Rakghoul Serum”
----------------------------------------------------------
-*SHOPPING: Zelka Forn*
-**BUY:**
-- Nerve Enhancement Package
-- 5x Adrenal Alacrity
-- 5x Adrenal Strength
-- If you have extra credits buy medpacs
-End: <40 Credits
----------------------------------------------------------
-Gurney accosts you: 1,3,4
-¤ Swap to Carth and Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC
-Enter Upper City North
+*Note on Alacrity: We want Adrenal Alacrity to be active on the MC for as much of Taris as possible.  The route obtains 6 Alacrities on Taris, and with Duration Glitch and good movement you should be able to reach Dantooine with 1 remaining.*
 
-**Upper City North:**
-Run straight across to Upper City North Apartments
-} Use Adrenal Alacrity on Carth (4 Alacrity remain) before entering Apartments with MC
-Activate Solo Mode
-As Carth:
-- Use Security to open the first door on the right
-- Talk to Largo: 1,2 (swaps position with MC)
-- Trigger Sarna’s party and loot backpack for Sith Armor
-- Finishes “Invited to a Party”
-As MC:
-- Run to second apartment on left
-- Kill and loot Largo when swapped to his position
-- Run to door back to Upper City North
-- ¤ Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp Carth
-Exit to Upper City North
-Activate Solo Mode
-} Equip Sith Armor to Carth
-With Carth, run down street to right until it narrows
-¤ With MC, Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp Carth
-- The cutscene to enter the Lower City will play and warp MC there
-Return to Hideout and Transit Back
-Enter Lower City
+### South Apartments
+- Carth talks to you: 1,1,1,5,3
+- *Stims: Alacrity on MC*
+  - We used to do this before the sleepy time CS but this lets your Alacrity last until just before the Lower Sewers
+- Loot footlocker for spikes and medpacs (+2; 3 Spikes)
+- *Equip MC: Combat Suit, Prototype Vibroblade Mainhand, Vibroblade Offhand*
+- Exit the apartment
+  - *Party: Keep Carth when prompted*
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Sith Raid cutscene
+- Swap to Carth and use Security on the first door on the right
+- Swap to MC and approach Larrim until he accosts you: 1,2,4
 
-**Lower City:**
-} Unequip Sith Armor from Carth
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) past Vulkar/Bek CS
-Enter Lower City East Apartments straight ahead
-Use Security to open first apartment on right
-Kill Matrik: 1,2
-Exit to Lower City
-Enter Bek Base
-Activate Solo Mode to leave Carth at the entrance
-Speak with Gadon: 1x10,3,2
-Exit Bek Base with Carth
-¤ With Carth, [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) Canderous CS and enter West Apartments
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) Calo Nord CS
-With MC, run to second apartment on right and use Security on the door
-With Carth, while MC is opening door, use a Frag Grenade and Power Blast to kill Vulkars down the hall
-Kill Selven: 3
-> Level to 3: Treat Injury to 6, Empathy
-Talk to Carth #2
-Exit to Lower City
-} Remove Carth from party
-Enter Undercity
+```
+SHOPPING: Larrim
+- SELL ALL EXCEPT:
+  - Computer Spikes
+  - Grenades
+  - Stims
+- BUY:
+  - Concussion Grenade x2
+  - Battle Stimulant  
+- End: ~908 Credits
+```
 
-**Undercity and Sewers:**
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip beggar CS
-} Add Carth to party
-Activate Solo Mode
-With MC
-- Open gate on right and speak to healer: 1,2
-- Avoid rakghouls in pen to speak to outcasts: 2,2
-    - ¤ If you get into combat with the rakghouls, use [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj) to speak to the outcasts
-- Starts and Finishes “Infected Outcasts”
-With Carth
-- Open elevator door behind him
-- ¤ Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC
-Deactivate Solo Mode
-Kill rakghoul attacking Hendar
-Mission joins the party
-Approach Lower Sewers entrance, loot Rubble
----------------------------------------------------------
-***Optional Strat: Lower Sewers [GP Warp](https://www.speedrun.com/kotor1/guide/77xef)***
-*This strat optimizes movement and saves at least 10 seconds, but can be risky as you’re trying to [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) while MC is being attacked.*
+- Swap to Carth and talk to Dia
+- Swap back to MC before the convo starts: 1,1,1,2,2,2
+  - This keeps MC in the hallway and Carth near Dia
+  - ***Starts “Dia’s Bounty”***
+- Kill Dia with Carth's Power Blast
+- Swap to MC and open door to Upper City South
+- Once Dia is dead, use MC to [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth
+  - Remember, all [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) in this run should be [Buffered GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) 
+- As Carth, talk to MC
+  - ***Starts “Carth”*** 
+- Exit to Upper City South
+  - ***Starts “Rapid Transit System”***
+
+### Upper City South
+- Run to and enter Upper City Cantina
 - Activate Solo Mode
-- As MC
--- ¤ Run west and [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) Canderous CS
--- Run to and loot Outcast Corpse for a Promised Land journal
--- Run to the back of Canderous’s group
--- MC needs to be in the green area
-https://i.imgur.com/DtlUjcO.png
-- As Mission/Carth
--- ¤ Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC
-} As MC, use Adrenal Alacrity (3 Alacrity remaining) and enter Lower Sewers
-- Run forward, then activate Solo Mode to leave Carth and Mission to kill rakghouls
-- As MC, go right then first door on the left to loot second journal from Outcast Corpse
-- Put Mission near the Force Field Terminal
-- Rescue Zaalbar; add only Mission to party when prompted
--- Starts “A Rancor in the Sewers”
-> Level to 4: Strength to 19, Save Skills
-} Equip Nerve Enhancement Package, Mission’s Vibroblade to MC offhand
-- Bash open footlocker in next room
-- With Mission, interact with the Force Field Terminal and mash the cutscene
-¤ Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) with Mission to warp MC
-- Add Zaalbar to the party
--- Note: If any rakghouls survived, you may have to enter Upper Sewers to change party members
-} Equip Vibroblade x2 to Zaalbar
-- MC runs left, take first door on left, then first on right
----------------------------------------------------------
-*If you choose not to use the above strat:*
-- Enter Lower Sewers
-- Activate Solo Mode and leave Mission by the ladder
-- Go right, open first door on left and loot first journal from Outcast Corpse
-- Free Zaalbar and add him to party
-> Level to 4: Strength to 19, Save Skills
-} Equip Nerve Enhancement Package, Mission’s Vibroblade to MC offhand
-} Equip Vibroblade x2 to Zaalbar
-- Bash open footlocker in next room
-- With Mission, interact with ladder to warp the party
+- As MC, talk to Gurney
+- Swap to Carth and open exit door
+- Swap to MC and talk to Sarna: 1,1,3,2,1,1,1
+  - If you are too slow and talk to Gurney, exit the convo with 5
+  - ***Starts “Invited to a Party”***
+- Swap to Carth and leave the Cantina
+- Swap to MC and QS/QL to fix party following AI
+- Run towards Upper City North
+- Activate Solo Mode near sculpture at far end
+- As MC, open door to Medical Clinic
+- Swap to Carth and open door to Upper City North
+- Swap to MC and talk to Zelka: 1,1,1,3
+  - ***Starts “Rakghoul Serum”***
+
+```
+SHOPPING: Zelka Forn
+- BUY: 
+  - Nerve Enhancement Package
+  - 5x Adrenal Alacrity
+  - 2x Adrenal Strength
+- End: ~58 Credits
+```
+
+- Run towards exit until Gurney accosts you: 1,3,4
+- Swap to Carth and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
+- Enter Upper City North
+
+### Upper City North
+- Swap to MC and QS/QL to fix following AI
+- Run straight across to Upper City North Apartments
+- *Stims: Alacrity on Carth before entering Apartments with MC*
 - Activate Solo Mode
-¤ As MC, run west and [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) Canderous CS
-- Loot second journal from Outcast Corpse
-- Run to the back of Canderous’s group (see image above for where to stand)
-- ¤ As Mission/Zaalbar, Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC
-} MC refreshes Adrenal Alacrity (3 Alacrity remaining)
-- Enter Lower Sewers
-- Throw Frag Grenade at rakghouls
-- Swap to Mission and deactivate Force Field
--- Zaalbar and MC should finish off rakghouls as she does this
--- The rakghouls need to die as this route has multiple very stringent XP checkpoints
-- Activate Solo Mode, leave Mission and Zaalbar at the Upper Sewer access
-- MC runs past the Force Field Terminal, through first door on left, then first door on right
----------------------------------------------------------
-Loot third journal from Outcast Corpse
-Turn right and use ladder to exit sewers
-Activate Solo Mode
-MC loots Sith Soldier for rakghoul serum
-MC runs to Rukil while Mission & Zaalbar kill rakghouls
-Turn journals in to Rukil
-- Starts and Finishes “Rukil’s Apprentice”
-- Starts and Finishes “The Promised Land”
-MC runs into corner to the east
-- In Undercity [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) map shown above, MC must be in red
-¤ Mission/Zaalbar Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC
-Finish killing rakghouls if they’re still alive
-Unequip Mission, remove Mission and Zaalbar from party
-Enter Lower Sewers
-Note: make sure MC has enough Vitality to tank some hits from the Gamorreans waiting down there
-Run to Upper Sewers
----------------------------------------------------------
-***Optional Strat: Upper Sewers [GP Warp](https://www.speedrun.com/kotor1/guide/77xef)***
-*This strat saves about 10 seconds in the Vulkar Garage but can be finicky. Using it is personal preference.*
-- Add Carth to the party
+- As Carth:
+  - Use Security to open the first door on the right
+  - Talk to Largo but swap to MC before convo: 1,2 (keeps Carth near Largo)
+  - Kill and loot Largo
+- As MC:
+  - Run to second apartment on left
+  - After Carth talks to Largo, trigger Sarna’s party
+    - ***Finishes “Invited to a Party”***
+  - Loot backpack for Sith Armor
+  - Run to door back to Upper City North
+- Exit to Upper City North
 - Activate Solo Mode
-- As Carth, open door behind you to Lower Sewers
-- As MC, run through sewers and kill the Malfunctioning Droid
-¤ Quickly swap to Carth and Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to teleport MC to end of the sewers
-- Queue up Flurry on the Vulkar Guards, then swap back to Carth
-- Run through sewers to the same point as before
-¤ Swap to MC and Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp Carth to the end of sewers
-- Use Carth to open the door that leads to the rancor
--- Finishes “Rancor in the Sewers”
-- Enter Vulkar Base
-Note: while running Carth to the point where he’ll be warped, listen closely for an audio cue that indicates a Journal Update. For some reason, the MC can decide to open the door back to the sewers and get snacked on by the rancor.
----------------------------------------------------------
-*If you choose not to use the above strat:*
-- Run through left tunnel, then take right tunnel
-- Kill the Malfunctioning Droid
-¤ Juke past the rancor and enter the VUlkar Base
---- Try to run always at a 90 degree angle from the rancor’s pursuit
---- Or, loot the bones and add a Frag Grenade and some Synthesized Odor, this is slower
-- Enter the Vulkar Base
----------------------------------------------------------
+- *Equip Carth: Sith Armor*
+- As Carth, run down street to right until it narrows
+- Swap to MC and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth
+  - The cutscene with the Sith guard will play and warp MC to the Lower City elevator as well
+- Return to Hideout and Transit Back
+  - This sets our transit point for later
+- Enter Lower City
 
-**Vulkar Base:**
-Kill the patrol droid
-Defense turret skip
-- Open the door to elevator area
-- Stand in doorframe corner near terminal and QS
-- Throw 2 Concussion Grenades (use Carth if present) at center turret
-- If any turret remains unstunned, QL and try again
-- If all three turrets are stunned, take the elevator to the Garage
-- If MC is alone, you can try to reach the garage with only 2 turrets stunned. There’s a 25% chance the remaining turret will miss you.
-Activate Solo Mode (if Carth is present)
-As Carth (or as MC if no Carth):
-- Take hallway on right and enter last door on right
-- Loot Garage Head’s Desk for keycard and supplies for Computer Spikes (+2; 5 Spikes)
-As MC:
-- Kill both Vulkars in the central hallway
-- Continue past mines and take last door on left
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip Kandon Ark fight
-- Get the swoop accelerator
-- Talk to Kandon Ark
-- This will teleport you outside the Vulkar base
+### Lower City
+- *Unequip Carth: Remove Sith Armor*
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Vulkar/Bek CS
+- Enter Lower City East Apartments straight ahead
+- Use Security to open first apartment on right
+- Kill Matrik with Carth's Power Blast: 1,2
+- As MC, open door to Lower City and exit when Matrik is dead
+- Enter Bek Base (mash the lookout's convo)
+- Activate Solo Mode to leave Carth at the entrance
+- Zaerdra accosts you; talk to Gadon: 1x10,3,2
+- Exit Bek Base with Carth
+- As Carth, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Canderous CS and enter West Apartments
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Calo Nord CS
+- With MC, run to second apartment on right and use Security on the door
+- With Carth, while MC is opening door, use a Frag Grenade and Power Blast to kill Vulkars down the hall
+  - This gets them out of the way and helps hit our XP threshhold
+- Activate Solo Mode
+- Kill Selven with Carth's Power Blast: 3
+- Swap to MC and open door to Lower City
+- When Selven dies, GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth
+- Exit to Lower City
+- *Party: Remove Carth*
+- Enter Undercity
 
-**Rescuing Bastila:**
-Return to Hidden Bek Base
-Talk to Carth #3
-Talk to Zaerdra and Gadon Thek
-¤ After talking to Gadon, [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip the Ithorian CS at swoop track
-Talk to the Race Coordinator to complete Race One
-- Do not shift into the top gear for these swoop races; it’s faster by roughly a second to stay in fourth gear.
-- Whatever time you get on this race will be beaten by 0.25s by Redros
-Talk to the Race Coordinator to complete Race Two
-- You’ll need to beat Redros’s time on the second race, but your swoop accelerates faster than before
-¤ After two panels of the Ithorian’s conversation, [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip the Brejik fight
-- Click twice then immediately spam QS
-Talk to Bastila
-- If you miss the previous buffer, you can use [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj) to talk to Bastila and skip the Brejik fight
-- Bastila will loot Brejik’s nonexistent corpse, so you still get her lightsaber and Brejik’s equipment
-- This warps you back to the apartment hideout
+### Undercity and The Promised Land
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip beggar CS
+- Run near gate to Infected Outcasts
+- *Party: Add Carth*
+- `Level to 3: Save Skills, Empathy`
+- Activate Solo Mode
+- Swap to Carth and click on Gendar
+- Swap to MC and open gate and run left until an infected outcast is targeted
+- Swap to Carth and run past Gendar so you don't talk to him
+- Swap to MC and click on an infected outcast
+- Swap to Carth and run forward until the convo happens: 2,2
+  - ***Starts and Finishes “Infected Outcasts”***
+- As Carth, click on any outcast villager near the far wall
+- Swap to MC and exit the gate
+  - If the healer accosts you, heal fully: 1,2
+- As MC, click on an outcast beggar in front of the Lower City elevator
+- Swap to Carth and move near the back corner, anywhere in the [red area](https://i.imgur.com/DtlUjcO.png)
+- Swap to MC and open the Lower City elevator
+  - Make sure you do this before you talk to the outcast beggar or you'll trigger the cutscene you buffered earlier
+- As MC, [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth
+- Swap to Carth and loot the Sith Soldier for rakghoul serum
+- As Carth, queue Power Blasts on several rakghouls
+  - We want him to kill some rakghouls if possible so we hit level 5 before the Bendak fight
+- Swap to MC and run towards Igear until he accosts you: 4
+  - Heal Carth with medpacs as needed; the Rakghoul Fiend can hurt him badly
+  - Igear's convo warps Carth to you
+  - Carth will likely run towards the village gate, as he is still targeting a rakghoul
+- Deactivate Solo Mode
+- Swap to Carth and trigger the Hendar cutscene
+- Kill rakghoul attacking Hendar
+- Mission joins the party
+- Approach Lower Sewers entrance
+- Activate Solo Mode
+- Click on the nearby rubble with Carth and Mission
+- As MC:
+  - Run west and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) Canderous CS
+  - Run to and loot Outcast Corpse for a Promised Land journal
+  - Run to the back of Canderous’s group, in the [green area](https://i.imgur.com/DtlUjcO.png)
+  - Swap to Mission or Carth and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
+- *Stims: Probable Alacrity on MC*
+- Enter the Lower Sewers as MC
+- Run forward and open the first door
+- Activate Solo Mode
+- Attack the first rakghoul group as MC
+- Swap to Carth and run up to the rakghouls and queue Power Blasts
+  - We want him close by to get the +10 Ranged on Melee attack bonus
+  - Keep an eye on MC and Carth's health during this entire sewers section
+- Swap to Mission and run backward to the exit ladder
+- Once the rakghouls are dead, move MC and Carth in concert:
+  - As MC, open left door (to the Force Field)
+  - Swap to Carth, open right door, then click on next door on left
+  - Swap to MC and go through next door, then through left door, then click on the next door on right
+  - Swap to Carth and loot outcast corpse for a journal
+  - Swap to MC and click the next door
+    - If MC got stuck attacking Gamorreans, click the previous door above
+  - Swap to Carth, open the door across the hall, then open the door to free Zaalbar
+    - *Party: Keep Mission when prompted (Carth is removed)*
+    - ***Starts “A Rancor in the Sewers”***
+  - As MC, loot the outcast corpse for the final journal
+  - Swap to Mission and use the ladder to exit the sewers     
+- Activate Solo Mode to leave Mission at the sewers
+- As MC, enter the outcast village and talk to Rukil to turn in the journals
+  - ***Starts and Finishes “Rukil’s Apprentice”***
+  - ***Starts and Finishes “The Promised Land”***
+- Run back to the village gate, anywhere in the [green area](https://i.imgur.com/DtlUjcO.png)
+- Swap to Mission and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
+- Enter the Lower Sewers and use the terminal to lower the force field
+- Enter the Upper Sewers
 
-[section=Taris 2]
+### Vulkar Base
+- *Party: Remove Mission and Add Carth*
+- Make sure MC and Carth are healthy through this section
+  - `Auto-Level Carth` to heal him when needed
+  - For MC, you can `Level to 4: Strength to 19, Save Skills` to heal when needed
+  - If either gets low on health after that, use medpacs as needed
+  - After level 4, *Equip MC: Nerve Enhancement Package, Mission's Vibroblade Offhand*
+- Activate Solo Mode
+- As MC, click to open first door
+- Swap to Carth and click to open door behind you to Lower Sewers
+- Swap to MC and run through sewers until you find the Malfunctioning Droid; kill it
+- Swap to Carth and when the droid is dead, [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to teleport MC to end of the sewers
+- Clear combat, then queue up Flurry on the Vulkar Guards
+- Swap to Carth and run through sewers to the same point as before, just past the gas mine
+- Swap to MC and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp Carth to the end of sewers
+- As Carth, open the door that leads to the rancor
+  - ***Finishes “Rancor in the Sewers”***
+- Swap to MC and enter Vulkar Base  
+- Kill the patrol droid
+- Defense Turret Skip:
+  - Open the door to elevator area
+  - Stand in doorframe corner near terminal and QS/QL
+  - Pause after loading and have both MC and Carth throw a Concussion Grenade at center turret
+  - If all three turrets are stunned, take the elevator to the Garage
+  - If two turrets are stunned, you can choose to risk reaching the elevator
+    - MC has a 25% chance to dodge the insta-kill shot; Carth has only a 5% chance to dodge
+  - Otherwise, QL and try the stun again
+- Once in the garage, Activate Solo Mode
+- As MC, target a Vulkar in the central hallway
+- Swap to Carth and take hallway on right
+- As Carth, enter last door on right and loot Garage Head’s Desk and Supplies (+2; 5 Spikes)
+- Swap to MC and turn left past the mines
+- As MC, open the last door on the left and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Kandon Ark fight
+- As MC, get the swoop accelerator, then talk to Kandon Ark
+  - This will teleport you outside the Vulkar base
 
-**Upper City:**
-Carth and Bastila accost you: 1,1,1 | 2
-- Finishes “The Search for Bastila”
-- Starts “Escaping Taris”
-Talk to Bastila #1
-- Starts “Bastila”
-Talk to Carth #4
-Leave Apartment with Bastila
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip Canderous’s friend accosting you
-> Level Bastila to 4: Charisma to 16, Save Skills, Burst of Speed
-- Increasing her Charisma to 16 gives her just enough Force Points to cast Burst of Speed twice
-> Level MC to 5: Computer Use to 8, Improved Two-Weapon Fighting
---- Use Bastila’s Burst of Speed for movement for the next little while
-As Bastila, cast Burst of Speed and run to Upper City South exit.
-Cast Burst of Speed as you leave Apartments to Duration Glitch it
-Run to Upper City Cantina and enter
-Canderous accosts you
-- Starts “Purchasing a Droid”
-- Starts “Escaping Taris”
+### Rescuing Bastila
+- Return to Hidden Bek Base
+- Talk to Zaerdra, then Gadon Thek accosts you
+- After the load screen, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Ithorian CS at swoop track
+- Talk to the Race Coordinator to complete [Race One](<../Miscellaneous/Swoop Racing#planet-circuit-lap-1>)
+  - Do not shift into the top gear for these swoop races; it’s faster by roughly a second to stay in fourth gear.
+  - Whatever time you get on this race will be beaten by 0.25s by Redros
+- Talk to the Race Coordinator again to complete [Race Two](<../Miscellaneous/Swoop Racing#planet-circuit-lap-2>)
+  - You’ll need to beat Redros’s time on the second race, but your swoop accelerates faster than before
+- Immediately after the Ithorian’s conversation, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Brejik fight
+  - Click twice, then immediately start the buffer
+- Talk to Bastila
+  - If you miss the previous buffer, you can use [Combat Talking](<../Techniques/Combat Talking>) to talk to Bastila and skip the Brejik fight
+  - Bastila will loot Brejik’s nonexistent corpse, so you still get her lightsaber and Brejik’s equipment
+  - This warps you back to the Hideout
 
-**The Duel Ring:**
-Watch the Dueling Ring CS
-- This is required to spawn Bendak
-Talk to Ajuur, and again twice between each duel
-- Starts “The Dueling Ring”
-} Use Adrenal Strength in the arena before Ice, Marl, and Twitch (2 Strength remaining).
-- If you looted a random one & have more than 1 Battle Stimulant, use 1 on Twitch (1 Battle remaining).
-DO NOT talk to Ajuur after defeating Twitch
-Buy Garouk’s Pazaak Deck: 2,3
-- Starts “Pazaak Rules”
-Speak to Bendak
-Leave and reenter Upper City Cantina
-- This is needed to trigger the Bendak fight
-Talk to Ajuur
-Kill Bendak
-} In the arena, use Adrenal Strength (1 remain), Adrenal Alacrity (2 remain) Battle Stimulant (0 remain)
-- Bumping Bendak can keep his blaster equipped, giving you a better chance to hit
-- Finishes “The Dueling Ring”
-- Starts “Bendak’s Bounty”
-Talk to Ajuur twice: 1,2,2 | mash
-- This replaces Twitch’s reward with an extra copy of Bendak’s
-Exit to Upper City South
+## Taris 2
 
-**Upper City North:**
-Run to Apartments
-Transit Back
-Activate Solo Mode
-Use Bastila’s Burst of Speed to run through Upper City North to Janice Nall’s Droid shop
-Talk to Janice: 2,4,1
-- Finishes “Purchasing a Droid”
-} Add T3 and Zaalbar to party when prompted, remove Bastila
-Activate Solo Mode
-- Swap to T3 and Zaalbar quickly just to make sure they don't move
-} Unequip from T3 all but the Stun Ray and Shield Disruptor
-Talk to Janice Nall again: 1
----------------------------------------------------------
-*SHOPPING: Janice Nall*
-**SELL ALL EXCEPT:**  
-- Medpacs
-- Computer Spikes
-- Stims
-- Double-Bladed Lightsaber
-- 2 Concussion Grenades, 2 Sonic Grenades (only need 1 Sonic if you have 2 Concussions)
-End: ~6400 Credits
----------------------------------------------------------
-Swap to T3/Zaalbar and interact with the Elevator
-- This warps the MC to Zaalbar and T3
---- ¤ *T3 using [Save Teleports](https://www.speedrun.com/kotor1/guide/5dagb) is about as fast RTA as Bastila with Burst of Speed at this point*
-¤ Go to the Sith Base
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) the door opening cutscene
-} Use Adrenal Strength on Zaalbar (0 remain)
-Enter Sith Base
+### Upper City
+- Carth and Bastila accost you: 1,1,1 ... 2
+  - ***Finishes “The Search for Bastila”***
+  - ***Starts “Escaping Taris”***
+- **Workbench: Prototype Vibroblade - Add Energy Projector and Vibration Cell**
+- Bastila #1
+  - ***Starts “Bastila”***
+- Carth #2
+- Leave the Apartment
+  - *Party: Add Bastila when prompted*
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Canderous’s friend accosting you
+- `Level Bastila to 4: Charisma to 16, Save Skills, Burst of Speed`
+  - Increasing her Charisma to 16 gives her just enough Force Points to cast Burst of Speed twice
+- In Options -> Gameplay, activate the Auto-Level option for party members
+  - This is important mainly for bulk later on, but also to automatically raise T3's Com and Security for certain actions
+- *Force: Cast Burst of Speed as Bastila*
+  - Use Bastila’s Burst of Speed for movement for the next little while
+- Exit to Upper City South
+  - *Force: Cast Burst of Speed* as you leave Apartments to Duration Glitch it
+- Run towards Upper City Cantina until you're outside the Equipment Emporium
+- Activate Solo Mode
+- As MC, click the door to Kebla's shop
+- Swap to Bastila and click the cantina door
+- Swap to MC and talk to Kebla Yurt
 
-**Sith Base:**
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip secretary conversation
-- If you miss, the conversation is 3,1
-Kill both patrol droids at the end of the first hallway
-Take right hallway and kill patrol droid
-Defeat Sith soldiers in barracks
-Loot footlocker for passcard with T3
-¤ As T3, [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip Assault Droid intro CS
-Assault droid fight
-- Pause and use a Concussion Grenade on Assault Droid with T3
-- MC attacks Assault Droid with Flurry
-- Zaalbar attacks Assault Droid with Improved Power Strike
-- T3 can use his Shield Disruptor to take out the Blaster Turrets (two shots each)
-Enter the elevator
-QS in case of death/bad luck
-Sith Governor fight
-- MC: Sonic Grenade, then Flurry
-- Zaalbar: Concussion Grenade (or Sonic if you don’t have one), then Improved Power Strike
-- T3: Stun Ray spam
-- Prayge
-Loot both strongboxes and Sith Governor’s corpse for Launch Codes (+3; 8 Spikes)
-- If Governor is stunned and seems likely to die, T3 can loot the boxes during the fight
-Exit the Sith Base
+```
+SHOPPING: Kebla Yurt
+- BUY:
+  - Concussion Grenade
+- End: 28 Credits
+```
 
-**Davik's Estate:**
-} Remove Zaalbar from party
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) with T3 to the Lower City
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) to Javyar’s Cantina
-Canderous accosts you: 1
-Activate Solo Mode, leave MC with Canderous
-Talk to Zax: 1,2,3,1x14,2
-- Finishes “Rakghoul Serum”
-- Starts and Finishes “Selven’s Bounty” and “Matrik’s Bounty”
-- Finishes “Dia’s Bounty”, “Largo’s Bounty”, and “Bendak’s Bounty”
-Optional Journal Check: Active Quests should be Carth, Bastila, Pazaak Rules, and Escaping Taris
-Talk to Canderous: 2
-- Starts “Canderous”
-Add T3 to party when prompted
-Malak CS
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) after load-in to skip the Davik/Calo fight
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) with T3 to the security terminal: 1,2,2,4,3 (-8; 0 Spikes)
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) with T3 to the Ebon Hawk
-¤ Board the Ebon Hawk, then use a [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685) to Return to Ebon Hawk
-- Finishes “Escaping Taris”
-- Starts and Finishes “Taris: Planetary Information”
-- Starts “The Ebon Hawk”
-- The [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685) skips the cutscenes between Taris and Dantooine as well as the fighter skirmish
+- Swap to Bastila and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
+- Enter the Cantina  
 
-[section=Dantooine 1]
 
-**Jedi Enclave:**
-*Note: The game dumps memory after Taris, so your [Save Teleports](https://www.speedrun.com/kotor1/guide/5dagb) become significantly weaker for a while. Movement with Alacrity/Burst of Speed is faster.*
-Follow Bastila to Jedi Council
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip Belaya’s conversation
-¤ [Open Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch5Open_Buffers) into the Council conversation
-- This lets you skip the first text faster than usual, saving a few seconds
-} Use an Adrenal Alacrity before the dream CS (1 remain)
-Carth accosts you
-- Starts “The Jedi Council”
-} Remove T3 from party when prompted, add Carth
-- Starts “The Jedi Council”
-Carth accosts you again, if he doesn't talk to him anyways: Carth #5
-Talk to Crattis Yurkal in the alcove on the right
----------------------------------------------------------
-*SHOPPING: Aratech Mercantile*
-**BUY:**
-- Breath Mask
-- CNS Strength Enhancer
-- 3x Adrenal Alacrity
-- 1x Adrenal Stamina
-- 1x Adrenal Strength
-- All +/- Pazaak Cards
-End: ~0 Credits
----------------------------------------------------------
-¤ [Single Item Dupe](https://www.speedrun.com/kotor1/guide/hioyc#ch2Method_1_Single_Item_Duplication) the CNS Strength Enhancer with Carth and Canderous using the Adrenal Alacrity, giving you 3 total CNS Strength Enhancers
-} Unequip Carth and Canderous of everything
-} Unequip Combat Armor from MC
-} Remove Carth from the party
-¤ [Open Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch5Open_Buffers) into the council conversation
-- Swap to Canderous as the buffer ends
-¤ IMMEDIATELY AFTER this conversation, [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip training montage
-- This conversation is seven 1s; I count those seven, then click twice
-- As Master Vrook says, "I can only hope you prove up to the task...", click to skip the text and IMMEDIATELY AFTER, QS to start buffering
-- If you get the QS, but fail the load, kill the program, reopen, and reload the save
-- If you miss the QS, it's faster to kill the program and try again
-- When you load, you'll be controlling Canderous
-As Canderous, talk to Master Zhar: 1,1
-Swap to MC and talk to Master Zhar again: 1,1,6,3,2,6,4
-Swap to Canderous and talk to Master Dorak to become a Jedi Guardian
-> Level to 6: Persuade to 9, Improved Flurry, Burst of Speed and Force Valor
-Cast Burst of Speed, Deactivate Solo Mode, then swap to Canderous and talk to Master Zhar
-Talk to Master Zhar once more
-> Level 7: Persuade > 10, Affect Mind
-} Remove Canderous from party
-Talk to droid and exit enclave
-- Cast Burst of Speed as you exit for Duration Glitch
+### The Duel Ring
+- *Unequip MC: Remove Mission's Vibroblade*
+- Single Item Dupe the Prototype Vibroblade via menu method to prep for [Damage Stacking](<../Techniques/Damage Stacking>)
+- Use the following menu to perform [Damage Stacking](<../Techniques/Damage Stacking>) four times:
+  - As MC, open the mainhand weapon menu, highlight none, then cycle menus (Previous Menu, then Next Menu)
+  - Swap to Bastila, open the offhand weapon menu, highlight the Prototype Vibroblade, then cycle menus
+  - Swap to MC, open the offhand weapon menu, then immediately press Escape to exit that menu
+  - Swap to Bastila, open the mainhand weapon menu, highlight None and press Enter
+  - Open the Bastila's mainhand weapon menu again, highlight Mission's Vibroblade, and press Enter
+    - That finishes one stack; to reset for the next, equip a Prototype Vibroblade to both Bastila and MC's mainhands
+    - After the fourth stack, leave Mission's Vibroblade on Bastila and equip the Prototype Vibroblade to MC 
+      - MC's weapon stats should read 20-29 damage with a +18 to hit
+      - Leave MC's offhand empty; we want to avoid the dual wielding penalty for this section
+- Swap to Bastila and ensure Burst of Speed is active, then run forward until Canderous accosts you
+  - ***Starts “Purchasing a Droid”***
+- Swap to Bastila and run through left archway until the Dueling Ring CS starts
+  - This CS is required to spawn Bendak
+- Swap to Bastila and talk to Ajuur to start the first duel
+  - ***Starts “The Dueling Ring”***
+- The Dueling Ring:
+  - Start Deadeye, Ice, and Twitch's duels by swapping to Bastila, talking to Ajuur, then swapping to MC and talking to Ajuur again
+  - Start Gerlon and Marl's duels by running to Ajuur as MC and talking to him twice
+  - For each duel, run up to your opponent and use Flurry; you do not need to use bumping
+  - With the [Damage Stacking](<../Techniques/Damage Stacking>), Deadeye and Gerlon are one-round fights, while Marl and Twitch are two rounds (unless you auto-miss)
+  - Ice is typically one round, but could be two if you have low damage rolls
+  - *Stims: Strength on MC in the arena for Ice and Twitch*
+  - As soon as it is available, `Level MC to 5: Save Skills, Improved Two-Weapon Fighting`
+- DO NOT talk to Ajuur after defeating Twitch
+- Swap to Bastila, cast Burst of Speed, and talk to Bendak
+- Leave and reenter Upper City Cantina
+  - This is needed to trigger the Bendak fight, but clears the [Damage Stacking](<../Techniques/Damage Stacking>)
+- *Equip MC: Prototype Vibroblade Offhand (should still have a Prototype Vibroblade Mainhand)*
+- *Equip Bastila: Vibroblade Offhand (should still have Mission's Vibroblade Mainhand*
+- Activate Solo Mode to leave MC at the door
+- As Bastila, talk to Ajuur
+- Kill Bendak
+  - *Stims: Alacrity, Strength, and Battle Stimulant on MC*
+  - Use bumping to keep Bendak's blaster equipped as long as possible
+    - This keeps the +10 Ranged on Melee attack bonus active
+    - Without this bonus, Bendak is very difficult to hit
+    - If he draws his sword, you can try to bait him into drawing his blaster again by running away, but this is inconsistent
+  - With proper bumping and decent damage rolls, this is a 3-4 round fight
+  - ***Finishes “The Dueling Ring”***
+  - ***Starts “Bendak’s Bounty”***
+- Talk to Ajuur twice: 2,2,2 ... mash
+  - This replaces Twitch’s reward with an extra copy of Bendak’s
+- Swap to Bastila and either wait for MC to be in range or [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
+- Exit to Upper City South
 
-**Dantooine Savannah:**
+### Upper City North
+- Run back to South Apartments
+- Transit Back
+- Activate Solo Mode
+- As Bastila, run through Upper City North to Janice Nall’s shop
+- Talk to Janice: 2,4,1
+  - *Party: Add T3 and Keep Bastila when prompted*
+  - ***Finishes “Purchasing a Droid”***
+- *Unequip T3: Remove Energy Shield Level 1 and Droid Light Plating Type I*
+- As MC, talk to Janice Nall again: 1
 
-*Movement Note: Force Jump is now available, and it's the fastest form of movement available for now.  Try to line up Force Jumps wherever possible, and otherwise make sure you have Force Speed active.*
+```
+SHOPPING: Janice Nall
+- SELL ALL EXCEPT: 
+  - Medpacs
+  - Computer Spikes
+  - Double-Bladed Lightsaber
+  - Concussion Grenade
+  - Stims
+- End: ~6072 Credits
+```
 
-Jon accosts you
-- Starts “Mandalorian Raiders”
-Talk to Elise
-- Starts “Missing Companion”
-¤ [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) to skip kath hound spawn
-Run to closer entrance to Matale Grounds
-Run through Matale Grounds to Grove
-Run left, Bolook accosts you: 2,2,2
-- Starts and Finishes “Murdered Settler”
-¤ [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) to skip the Juhani fight
-Loot the Mandalorian corpses near Juhani (2 Battle Stims)
-Talk to Juhani to redeem her
-Return to Ebon Hawk (RtEH)
-Talk to Master Zhar
-- Finishes “Jedi Trials”
-- Restarts “The Jedi Council”
-Talk to Master Vandar
-- Refinishes “The Jedi Council”
-- Starts “Investigate Ruins”
-} Forced to leave Bastila in party at first, Matale accosts the Council
-- Starts “Sandral-Matale Feud”
-} Remove Bastila from party and Transit Back
+- Deactivate Solo Mode
+- Swap to Bastila and click the elevator door
+  - This triggers a conversation with the Sith Guard: 1
+  - The conversation warps the MC to Bastila and T3
+- Swap to T3 and [Save Teleport](<../Techniques/Save Teleporting>) to Sith Base entrance
+  - This is about as fast RTA as Bastila with Burst of Speed at this point
+  - Make sure Bastila and MC are following
+- As T3, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) the door opening CS
+- Enter Sith Base with Bastila
 
-**Dantooine Ruins:**
-Run/Force Jump to Matale Grounds
-Loot Casus Sandral's corpse in Matale Grounds
-- This is the one surrounded by three Kath Hounds ahead and to the right
-- Starts “Dead Settler”
-Run/Force Jump to Courtyard
-¤ As you approach the ruins, hug the right wall to skip a short CS
-Enter the Ruins
-Add Bastila and Mission to party when prompted
-¤ [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) to skip ancient droid conversation
-Activate Solo Mode; do the following actions simultaneously:
-As MC:
-- Open right hand door
-- Force Jump to guardian droid
-- Hack the console: 3,5,3,3,3,4
-As Bastila:
-- Cast Force Speed
-- Open left hand door
-- Hack the console through the left door: 3,5,3,1,1,3
-As Mission:
-- Move in front of middle door
-Once both consoles are hacked, swap to Mission and Deactivate Solo Mode
-As Mission, move forward through both doors
-¤ [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) to skip short CS
-- The timing on this is tricky and seems inconsistent; open the door, wait a second, then start buffering
-- If done right, you will end up in front of the Star Map without having to watch the CS
-Star Map: Dantooine
-- Finishes “Investigate Ruins”
-Loot Nero's corpse for Robe and Sigil crystal
-Exit Ruins
-- If one of your party members doesn't follow, use a [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to get them out quickly
+### Sith Base
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip secretary conversation
+  - This is important to help MC and T3 follow Bastila
+- As Bastila, open first door, then door at the end of that hall, then door on the right and attack the patrol droid there
+- Swap to MC and destroy the first two patrol droids, then [Save Teleport](<../Techniques/Save Teleporting>) past Bastila and open door on right
+- As MC, queue Flurry on the left two Sith Soldiers
+- Swap to Bastila and attack the right Sith Soldier in the barracks
+- Swap to T3 and [Save Teleport](<../Techniques/Save Teleporting>) to loot the footlocker in the barracks
+- As T3, [Save Teleport](<../Techniques/Save Teleporting>) to the door to the assault droid
+- Once the soldiers are dead, open the door and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Assault Droid intro CS
+- Assault Droid Fight:
+  - Pause after the load and swap to Bastila
+  - Bastila: Concussion Grenade, then Flurry x3 on Assault Droid
+  - MC: Flurry x4 on Assault Droid
+  - T3: Shield Disruptor x2 on right blaster turret, then Disruptor x2 on the left blaster turret
+    - Make sure you use at most 4 Shield Disruptor charges during this fight 
+  - The grenade has a 55% chance to stun the assault droid, which makes the fight much quicker
+  - T3 may also be stunned by the grenade; if this happens, you can use MC/Bastila to clean up the turrets after the droid is destroyed 
+- After all three enemies are destroyed, enter the elevator
+- QS in case of death/bad luck
+- Sith Governor Fight:
+  - MC: Flurry x4
+  - Bastila: Stun x2, Flurry x2
+  - T3: Stun Ray x4
+  - Bastila's Stun lowers the Governor's defense by 4 even if he saves, and an additional 4 if the 15% chance to stun actually lands
+  - Each Stun Ray shot from T3 has a 25% chance to stun the governor
+  - MC will deal most of the damage, particularly once the governor is stunned
+  - Keep queueing Stun Rays as T3 until the governor is stunned
+  - If you didn't use all 4 Shield Disruptor shots earlier, you can use some here after the Governor is stunned, but be sure to save 6 shots
+- Loot both strongboxes and Sith Governor’s corpse for Launch Codes (+3; 8 Spikes)
+  - If Governor is stunned and seems likely to die, T3 can loot the boxes during the fight
+- Leave the governor's office as T3
+- QS/QL to fix party following AI, then [Save Teleport](<../Techniques/Save Teleporting>) with T3 to exit the Sith Base
 
-**Leaving Dantooine:**
-Talk with Mission three times: 1 | 1,1,4,1 | 1x13,2
-Bastila #2 and #3: 2,1 spam both times
-Return to Ebon Hawk
-Lena accosts you after a short delay
-- Starts “Mission’s Brother”
-Remove Mission and Bastila from party
-Speak with the Council
-- Starts “A Quest for the Star Forge”
-- Starts “Juhani”
-Transit Back, then Return to Ebon Hawk and board
-- Finishes “The Ebon Hawk”
-} Upgrade Double-Bladed Lightsaber: Sigil Crystal
-} Equip MC with Double-Bladed Lightsaber, CNS Strength Enhancer, Jedi Knight Robe, Strength Gauntlets, Breath Mask
-Juhani #1 and #2: spam
-Talk to T3 11 times (+11; 11 Spikes)
-Bastila #4 and #5: 2,1 spam both times
-Carth #6
-¤ Fly to Tatooine
-- ¤ [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685) once
+### Davik's Estate
+- [Save Teleport](<../Techniques/Save Teleporting>) with T3 to the Lower City
+- QS/QL to fix party following AI, then [Save Teleport](<../Techniques/Save Teleporting>) to Javyar’s Cantina
+- Canderous accosts you: 1
+- Activate Solo Mode to leave party with Canderous
+- As T3, Talk to Zax: 1,2,3,1x14,2
+  - ***Finishes “Rakghoul Serum”***
+  - ***Starts and Finishes “Selven’s Bounty” and “Matrik’s Bounty”***
+  - ***Finishes “Dia’s Bounty”, “Largo’s Bounty”, and “Bendak’s Bounty”***
+- ***Optional Journal Check: Active Quests should be "Carth", "Bastila", and "Escaping Taris"***
+- Talk to Canderous: 2,1
+  - *Party: Add T3 when prompted*
+  - ***Starts “Canderous”***
+- Watch Malak and Saul CS on the Leviathan
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) after load screen to skip the Davik/Calo fight
+- As T3, [Save Teleport](<../Techniques/Save Teleporting>) to the security terminal: 1,2,2,4,3 (-8; 0 Spikes)
+- As T3, [Save Teleport](<../Techniques/Save Teleporting>) to the Ebon Hawk
+  - You'll need to swap back to T3 when you enter the hangar
+- Board the Ebon Hawk, then use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
+  - This skips the cutscenes between Taris and Dantooine as well as the Fighter Skirmish
+  - ***Finishes “Escaping Taris”***
+  - ***Starts and Finishes “Taris: Planetary Information”***
+  - ***Starts “The Ebon Hawk”***
+
+## Dantooine 1
+
+### Jedi Enclave
+
+*Note: The game deletes Taris data from your save at this point, so your [Save Teleports](<../Techniques/Save Teleporting>) become significantly weaker for a while. Movement with Alacrity/Burst of Speed is faster.*
+
+- Follow Bastila to Jedi Council
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Belaya’s conversation
+- [Open Buffer](<../Techniques/Save Buffering#open-buffers>) into the Council conversation
+  - This lets you skip the first text faster than usual, saving a few seconds
+- *Stims: Use the hotkey to use Alacrity before the vision CS*
+- Carth accosts you
+  - *Party: Remove T3, Add Carth when prompted*
+  - ***Starts “The Jedi Council”***
+- Talk to Crattis Yurkal in the alcove on the right
+
+```
+SHOPPING: Aratech Mercantile
+- BUY:
+  - Breath Mask
+  - CNS Strength Enhancer
+  - 3x Adrenal Alacrity
+  - 1x Adrenal Stamina
+  - 1x Adrenal Strength
+  - +/-3 and +/-5 Pazaak Cards
+- End: ~22 Credits
+```
+
+- [Single Item Dupe](<../Techniques/Item Duplication#animation-duping>) the CNS Strength Enhancer
+  - Have Carth and Canderous use Alacrity
+  - Using two party members gives you three total CNS Strength Enhancers
+  - This should also end with CNS equipped to MC
+- *Unequip Carth and Canderous: Remove all but Clothing*
+- As Carth, talk to MC for Carth #3
+- Belaya briefly accosts you in the atrium
+  - This is a much shorter conversation than the one you buffered earlier
+- [Open Buffer](<../Techniques/Save Buffering#open-buffers>) into the council conversation
+  - Swap to a party member as the buffer ends
+- IMMEDIATELY AFTER this conversation, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip training montage
+  - The council conversation is seven 1s; I count those seven, then click twice
+  - As Master Vrook says, "I can only hope you prove up to the task...", click to skip the text and IMMEDIATELY AFTER, QS to start buffering
+  - If you get the QS, but fail the load, kill the program, reopen, and load the QS
+  - If you miss the QS, it's faster to kill the program and try again
+  - ***Finishes "The Jedi Council"***
+- Swap to Carth or Canderous and talk to Master Zhar: 1,1
+- Swap to MC and talk to Master Zhar again: 1,1,6,3,2,6,4
+- Swap to Carth or Canderous and talk to Master Dorak to become a Jedi Guardian
+- `Level to 6: Save Skills, Improved Flurry, Burst of Speed and Force Valor`
+- `Level to 7: Persuade to 10, TI to 8, Affect Mind`
+- *Force: Cast Burst of Speed*
+- Swap to Carth or Canderous and talk to Master Zhar
+- *Party: Remove Canderous and Carth*
+  - You may have to move the party member near Master Dorak a little towards the training room to be able to do this
+- Talk to Master Zhar once more
+- Talk to droid and exit enclave
+  - *Force: Cast Burst of Speed as you exit for Duration Glitch*
+
+### Dantooine Savannah
+
+*Movement Note: Force Jump is now available, and it's the fastest form of movement available for now.  Try to line up Force Jumps wherever possible, and otherwise make sure you have Burst of Speed active.*
+
+- Jon accosts you
+  - ***Starts “Mandalorian Raiders”***
+- Talk to Elise
+  - ***Starts “Missing Companion”***
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip kath hound spawn
+- Run to closer entrance to Matale Grounds
+- Run straight through Matale Grounds to Grove
+- Run left to the bridge, where Bolook accosts you: 2,2,2
+  - ***Starts and Finishes “Murdered Settler”***
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Juhani fight
+- Loot the Mandalorian corpses near Juhani
+- Talk to Juhani to redeem her
+- Return to Ebon Hawk (RtEH)
+- Talk to Master Zhar
+  - ***Finishes “Jedi Trials”***
+  - ***Restarts “The Jedi Council”***
+- Talk to Master Vandar
+  - *Party: Keep Bastila when prompted*
+  - ***Refinishes “The Jedi Council”***
+  - ***Starts “Investigate Ruins”***
+  - ***Starts “Sandral-Matale Feud”***
+- *Party: Remove Bastila*
+  - You can't remove her when prompted during Vandar's conversation
+- Transit Back to Grove
+
+### Dantooine Ruins
+- Run/Force Jump to Matale Grounds
+- Loot Casus Sandral's corpse in Matale Grounds
+  - This is the one surrounded by three Kath Hounds ahead and to the right
+  - ***Starts “Dead Settler”***
+- Run/Force Jump to Courtyard
+- As you approach the ruins, hug the right wall to skip a short CS
+- Enter the Ruins
+- *Party: Add Mission, Keep Bastila when prompted*
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip ancient droid conversation
+- Activate Solo Mode; intersperse the following actions:
+- As MC:
+  - Open right hand door
+  - Force Jump to guardian droid
+  - Hack the console: 3,5,3,3,3,4
+- As Bastila:
+  - *Force: Cast Burst of Speed*
+  - Open left hand door
+  - Hack the console through the left door: 3,5,3,1,1,3
+- As Mission:
+  - Move in front of middle door
+  - Once both consoles are hacked, swap to Mission and Deactivate Solo Mode
+- As Mission, move forward through both doors
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip short CS
+  - The timing on this is tricky and seems inconsistent; open the door, wait a second, then start buffering
+  - If done right, you will end up in front of the Star Map without having to watch the CS
+- Star Map: Dantooine
+  - ***Finishes “Investigate Ruins”***
+- Talk with Mission three times: 1 ... 1,1,4,1 ... 1x13,2
+- Bastila #2 and #3: 2,1 spam both times 
+- Loot Nemo's corpse for Robe and Sigil crystal
+- Exit Ruins
+  - If one of your party members doesn't follow, use a [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to get them out quickly
+
+### Leaving Dantooine
+- Return to Ebon Hawk
+- Lena accosts you after a short delay
+  - ***Starts “Mission’s Brother”***
+- Report to the Council
+  - ***Starts “A Quest for the Star Forge”***
+  - ***Starts “Juhani”***
+- Transit Back, then Return to Ebon Hawk and board
+  - ***Finishes “The Ebon Hawk”***
+- *Equip MC: Double-Bladed Lightsaber, Jedi Knight Robe, Strength Gauntlets, Breath Mask*
+- **Workbench: Double-Bladed Lightsaber - Add Sigil Crystal**
+- Juhani #1 and #2: spam both
+- Bastila #4 and #5: 2,1 spam both times
+- Carth #4
+- Fly to Tatooine and use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) after the load to Return to Ebon Hawk
 - Reboard Ebon Hawk
-Bastila #6: 2,1 spam
-¤ Fly to Tatooine
-- ¤ [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685) again
-- Add Bastila during the second [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685)
+- Talk to T3 11 times (+11; 11 Spikes)
+- Bastila #6: 2,1 spam
+- Carth #5
+- Fly to Tatooine and use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) again
+    - *Party: Add Bastila*
+    - Return to Ebon Hawk to spawn on Tatooine
 
-[section=Tatooine 1]
+## Tatooine 1
 
-**Docking Bay:**
-Czerka Officer conversation: 1,1,5
-Run back and forth for a minute until you trigger the Twi’lek that starts Bastila’s quest
-Twi’lek accosts you
-- Starts “Bastila’s Mother”
-} Remove Bastila from the party
-Talk to Mic’Tunan’Jus Orgu
----------------------------------------------------------
-*SHOPPING: Mic'Tunan'Jus Orgu*
-**BUY:**
-- 15x Advanced Medpacs
-- Bantha Fodder
-**SELL ALL EXCEPT:**
-- Medpacs
-- Computer Spikes
-- Stims
-- Bantha Fodder
-End: ~4800 Credits
----------------------------------------------------------
-Gizka man accosts you
-- Starts “The Trouble with Gizka”
-Enter Anchorhead
+*Note on Level Ups: There is never a reason to save a level up for the rest of the run.  Take your level ups as soon as you can; they are listed in the latest place you could get them.*
 
-**Anchorhead:**
-Manaa Demknot accosts you
-Enter Czerka Office
-¤ [Force Skip](https://www.speedrun.com/kotor1/guide/8fp02) Duros CS
-Czerka Protocol Officer: 1x10,3,2
-- Starts “Sand People”
-Enter Swoop Registration
-Talk to Motta and win races: 1,3,1 spam | race | spam | race | spam | race | 3
-- Starts “Signing Nico”
-- Starts and Finishes “Tatooine Swoop Races”
-Talk to Nico: spam
-- Finishes “Signing Nico”
-¤ Exit Swoop track and [Force Skip](https://www.speedrun.com/kotor1/guide/8fp02) a fan encounter
-¤ [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) or [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) to skip the Dark Jedi fight
-} Add Bastila to the party, enter Cantina
-Talk to Junix Nard
----------------------------------------------------------
-*SHOPPING: Junix Nard*
-**BUY:**
-- 2x +/-2, +/-3, +/-4 Cards
-End: ~3650 Credits
----------------------------------------------------------
-*Take note of how many credits you have after purchasing the necessary cards.*
-Beat Furko Nellis in Pazaak
-- Finishes “Pazaak Rules”
-Talk to Helena: 1,3
-} Remove Bastila from the party
-Exit Cantina
-Enter Droid Shop
-Talk to Yuka Laka to buy HK-47
-- This conversation changes based on how many credits you have
--- More than 4000 Credits: 1,1,1,2,1,1,3,4,1
--- Less than 4000 Credits: 1,1,1,2,1,1,2,3,1
-- Starts and Finishes "Droid for Sale"
-Talk to HK-47: 2,1
-Leave party empty when prompted
-Talk to Iziz outside: 1x6, 3
-- Starts "Fair Trade"
-Talk to Gate Guard to exit to Dune Sea
+### Docking Bay:
+- Czerka Officer conversation: 1,1,5
+- Run towards Mic'Tunan'Jus Orgu until Malare accosts Bastila
+  - ***Starts “Bastila’s Mother”***
+- Activate Solo Mode
+- As Bastila, click the Anchorhead door
+- Swap to MC and talk to Mic’Tunan’Jus Orgu
 
-**Dune Sea:**
-¤ [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) the angry wife CS
-Talk to Tanis: 1,1,3,1,1
-- Starts and Finishes “Tanis Trapped”
-Loot rubble pile with voice to trigger Gamorrean ambush: 4,1
-- Starts and Finishes "Desert Ambush"
-Heal, cast Burst of Speed and Force Valor
-} Optionally, equip an Energy Shield
-Kill Sand People Warrior for Sand People Outfit
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) or [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) past the void trigger in front of Eastern Dune Sea
-Enter Eastern Dune Sea from out of bounds
+```
+SHOPPING: Mic'Tunan'Jus Orgu
+- SELL ALL EXCEPT:
+  - Computer Spikes
+  - Stims
+- BUY:
+  - 4x Life Support Pack
+  - ~14x Advanced Medpac (stay above 4800 credits)
+  - 1x Adrenal Strength
+  - Bantha Fodder
+- End: ~4768 Credits
+```
 
-**Eastern Dune Sea:**
-*Note: Starting around here, [Save Teleporting](https://www.speedrun.com/kotor1/guide/5dagb) with no movement speed enhancements is about as fast RTA as Burst of Speed*
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb)/[Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) the anonymous hunter’s death CS
-Talk to Komad: 1,2,1,1,2,3,1,2
-Kill Komad
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb)/[Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) the anonymous hunter’s death CS on the way out
-Approach banthas, cast Force Valor, Burst of Speed
-} Use Alacrity, Strength, Stamina, Battle Stim
-Interact with banthas
-Defeat Elite Sand People Warriors
-Interact with banthas, watch Krayt Dragon CS
-- Starts “Star Map: Tatooine”
-- Finishes “A Desert Hunt”
-Loot the Krayt Dragon for 2x Krayt Dragon Pearl
-Loot tattered equipment pack for Holocron
-Star Map: Tatooine
-- Finishes “Star Map: Tatooine”
-Loot Rubble for swag Violet Crystal
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) Calo Nord fight on the way out
-Return to Dune Sea
-Return to Ebon Hawk and exit to Anchorhead
-- There may be a Sand People Warrior that followed you to this area that you’ll have to kill
-Go south
-Senni Vek accosts you
-Return to Ebon Hawk and board
-Zaalbar accosts you
-> Level 8: Strength to 20, Persuade to 11, Dominate Mind
-} Upgrade Double-Bladed Lightsaber: Krayt Dragon Pearl
-Inspect cargo hold
-- Starts “Dwindling Supplies”
-Run to the three points where you hear footsteps, then back to the cargo hold
-Talk to Sasha: 3,3,1,1
-- Finishes “Dwindling Supplies”
-- Starts and Finishes “Strange Stowaway”
-Juhani #3
-Carth #7
-¤ Travel to Manaan with one [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685)
+- Run towards the Sullustan until he accosts you
+  - ***Starts “The Trouble with Gizka”***
+- Swap to Bastila and enter Anchorhead
 
-[section=Manaan 1]
+### Anchorhead
+- *Party: Remove Bastila*
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Manaa Demknot conversation
+- Enter Czerka Office
+- Immediately [Force Skip](<../Techniques/Force Skips>) the Duros CS
+- Talk to Czerka Protocol Officer: 1x10,3,2
+  - ***Starts “Sand People”***
+- Exit to Anchorhead and enter Swoop Registration
+- Talk to Motta and win three [swoop races](<../Miscellaneous/Swoop Racing#tatooine>): 1,3,1 spam ... race ... spam ... race ... spam ... race ... 3
+  - ***Starts “Signing Nico”***
+  - ***Starts and Finishes “Tatooine Swoop Races”***
+- Talk to Nico
+  - ***Finishes “Signing Nico”***
+- Exit to Anchorhead and immediately [Force Skip](<../Techniques/Force Skips>) a fan encounter
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Dark Jedi fight
+- Enter the Cantina
+- *Party: Add Bastila and T3*
+- Talk to Helena: 1,3
+- Exit to Anchorhead
+- Talk to Gate Guard to exit to Dune Sea
 
-**Docking Bay:**
-Turn around and Board Ebon Hawk
-Exit Ebon Hawk, add Carth to your party
-Carth #8
-- Finishes “Carth”
-Having a party member skips a Selkath announcement after the first door
-¤ [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) to skip the Sith/Republic soldier conversation
-- If you miss this, the conversation is just: 4
-Jordo accosts you
-- Starts “Finding Dustil”
-Talk to Selkath Merchant: 3
----------------------------------------------------------
-*SHOPPING: Selkath Merchant*
-**SELL:**
-- Racing Bonds until you have ~4500 Credits
--- This should only take a few seconds of mashing Enter + NumPad Enter
-**BUY:**
-- 7x Parts
-- All 20 Hyper Stims
-END: >500 Credits
-*Need to end with at least 500 Credits to loan to Queedle*
----------------------------------------------------------
-Talk to Nubassa: 3,2,2
-- Finishes “The Trouble with Gizka”
-Enter West Central Ahto City
+### Dune Sea
+- Activate Solo Mode to leave Bastila and T3 at the Anchorhead gate
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the angry wife CS
+- Run towards Tanis until you can click on him
+- Swap to Bastila and *Force: Cast Burst of Speed*
+- Swap back to MC and talk to Tanis: 1,1,3,1,1
+  - ***Starts and Finishes “Tanis Trapped”***
+- Swap to Bastila and T3 and stop their movement
+  - For some reason, they start running towards MC when Tanis is killed
+- Swap to MC and run straight towards the nearby corpse until the rubble to its left touches the left side of your screen
+  - Don't get too close or you'll trigger a Sand People ambush
+- Swap to Bastila and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC to the Eastern Dune Sea entrance
+- As MC, run into the Eastern Dune Sea to trigger the cutscene that prevents you from entering
+  - This warps Bastila and MC to you  
+- Swap to Bastila and loot rubble pile with voice to trigger Gamorrean ambush: 4,1
+  - ***Starts and Finishes "Desert Ambush"***
+- Swap to T3 or MC and trigger the Eastern Dune Sea CS to warp Bastila back
+- As MC, [Save Teleport](<../Techniques/Save Teleporting>) or [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) past the trigger in front of Eastern Dune Sea
+- Enter Eastern Dune Sea from the back of the load zone
 
-**Ahto City:**
-Talk to Port Authority: 1,3
-Enter Ahto West
-Activate Solo Mode
-With Carth, open door behind you
-With MC, go to Cantina area
-Nilko Bwaas accosts you, then talk to him
-- Starts “Republic Hiring Mercenaries”
-Shaelas accosts you
-- Starts “Missing Selkath”
-Swap to Carth and return to West Central
-} Remove Carth from party
-Go to East Central
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) past or [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) the confrontation between Sith and Republic soldiers
-Talk to Hulas
-- Starts “GenoHaradan: Zuulan” and “GenoHaradan: Lorgal”
-Talk to Roland Wann: 3,1 spam
-- Starts and Finishes “Republic Embassy”
-- Starts “Star Map: Manaan”
-- Starts “Mission for the Republic”
-Use the console to kill Lorgal (-7; 4 Spikes)
-Talk to Hulas: 1x8,2
-- Finishes “GenoHaradan: Lorgal”
-- Starts “GenoHaradan: Ithorak”, “GenoHaradan: Rulan”, and “GenoHaradan: Vorn”
-Enter Ahto East
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb)/[Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) past the Sith Lady
-- If you fail this, the conversation is: 2
-Talk to Vek
-Talk to Queedle: 1,1,1,1,2
-- Starts “Manaan Swoop Races”
-Return to Ebon Hawk and Transit Back to reload the area
-Talk to Queedle: 1,3
-Talk to Swoop Coordinator and win 3 swoop races
-Mash all conversations except after the third race: 3
-- Finishes “Manaan Swoop Races”
-Return to Ebon Hawk
-Fly to Dantooine
-Possible Fighter Skirmish
+### Eastern Dune Sea
 
-[section=Dantooine 2]
+- Run towards Komad until MC can click one of the boundary beacons
+- Click the beacon, then Activate Solo Mode
+- Swap to Bastila and *Force: Cast Burst of Speed*
+- Run towards the dewbacks and click one with Bastila
+- Swap back to MC and [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the anonymous hunter’s death CS
+- *Stims/Heal: Alacrity, Strength, Stamina, Battle Stim on MC, use Advanced Medpac(s)*
+- Talk to and kill Komad Fortuna: 1,2,1,1,2,3,1,2
+- While MC kills Komad, swap to Bastila and lure the bantha once he is dead
+- Sand People Fight:
+  - Pause after the CS to setup
+  - As Bastila, queue Stun on the middle warrior
+  - As T3, queue Shield Disruptor x4 on the rightmost warrior
+  - As MC, queue Force Jump (Default Attack) and three Flurries on middle warrior
+  - Swap to Bastila and unpause
+  - After Bastila uses her Stun, run slightly towards the left two warriors and queue Stun on both
+  - Swap to MC; the middle warrior should be nearly dead, so finish him, then Force Jump to the left warriors and queue Flurries on both
+  - Swap to T3 and clear any basic attacks, then queue at least two more Shield Disruptors on his warrior
+    - This Elite Warrior will die to 6 Shield Disruptors; if you run out, you used too many in the Taris Sith Base
+  - Swap to Bastila, Deactivate Solo Mode, and run to the nearest bantha
+  - Once MC and T3 finish off the warriors, lure the bantha again with Bastila
+- The Krayt Dragon dies to poor Komad's mines
+  - ***Starts “Star Map: Tatooine”***
+  - ***Finishes “A Desert Hunt”***
+- Swap to MC and loot the Krayt Dragon for 2x Krayt Dragon Pearl
+  - If you forget this, you cannot complete the "Worthy of History" sidequest!
+- ***Optional:*** Loot rubble for swag Violet Crystal
+- Loot tattered equipment pack for Holocron
+- Star Map: Tatooine
+  - ***Finishes “Star Map: Tatooine”***
+- `Level 8: Strength to 20, Persuade to 11, Dominate Mind` 
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Calo Nord fight
+- Run to Sand People Territory and Return to Ebon Hawk
+- Enter Anchorhead and run through until Senni Vek accosts you: 4
+- Return to Ebon Hawk and board
 
-**Dantooine Savannah:**
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb)/[Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) past Deesra
-Exit to Courtyard
-Take closest entry to Matale Grounds
-Cast Force Valor, kill the Mandalorian raider
-- You don’t need to kill the Duros
-Enter the nearby entrance to Grove
-Enter Sandral Grounds ahead
-Speak to Security Droid: 4
-Enter Sandral Estate
-Nurik accosts you
-- Finishes “Dead Settler”
-Rahasia accosts you
-Exit estate
-} Add Canderous to party
-Re-enter estate through the side door
-Destroy patrol droid on left
-Bash down door around the corner with mine in front of it
-Talk to Shen: 1,1,2,3
-Activate Solo Mode, leave Canderous next to Shen
-As MC, take last door on left and run through room with patrol droids
-Open first door on left and talk to Rahasia
-Cast Force Valor, swap to Canderous and talk to Shen
-Mash conversation outside
-- Finishes “Sandral-Matale Feud”
-Remove Canderous from the party
-Go to Mandalorian Raider group
-} Use Hyper Stim Suite (4 remain), cast Knight Valor
-- Hyper Stim Suite is Hyper Alacrity, Hyper Strength, Hyper Stamina, and Hyper Battle Stim
-- In late game, you will replace Hyper Battle Stim with Echani Battle Stims
-Kill both Mandalorians
-¤ [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj) to speak with C8-42: 1x5,2,1
-Enter the Grove
-Kill both Mandalorians
-Enter Sandral Grounds, then re-enter the Grove
-Talk to and kill Sherruk
-Go to Matale Grounds
-Interact with Zuulan’s Speeder: 2 (-1; 3 Spikes)
-Zuulan accosts you, kill him
-Return to Ebon Hawk
-Go back to Courtyard
-Talk to Jon
-- Finishes “Mandalorian Raiders”
-Talk to Elise
-- Finishes “Missing Companion”
-Return to Ebon Hawk and board
-> Level to 9: Persuade to 12, Knight Speed
-Juhani #4
-¤ Travel to Kashyyyk with a [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685)
+### Ebon Hawk
+- Zaalbar accosts you
+  - ***Starts “Dwindling Supplies”***
+- **Workbench: Double-Bladed Lightsaber - Add Krayt Dragon Pearl (and optional Violet Crystal)**
+- Inspect supplies in cargo hold
+- Run to the three points where you hear footsteps, then back to the cargo hold
+- Talk to Sasha: 3,3,1,1
+  - ***Finishes “Dwindling Supplies”***
+  - ***Starts and Finishes “Strange Stowaway”***
+- Carth #6, #7, and #8
+  - QS/QL between each to advance his conversation
+  - ***Finishes “Carth”***
+- Fly to Manaan and use a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
+  - *Party: Add Carth*
+  - Return to Ebon Hawk to spawn on Manaan
 
-[section=Kashyyyk]
+## Manaan 1
 
-**Landing Port:**
-Janos Wertka accosts you
-Talk to Eli Gand
-- Starts “Honest Debt”
----------------------------------------------------------
-*SHOPPING: Eli Gand*
-**BUY:**
-- ~20-25x Advanced Medpac
-*These Medpacs should last you to the end of the run*
-*You'll have the chance to buy more later if you run low or want to be cautious*
----------------------------------------------------------
-¤ Force Buffer Czerka Guard
-} Add T3 to party, enter Great Walkway
+*Note: At this point, [Save Teleports](<../Techniques/Save Teleporting>) with no movement speed enhancements is barely faster RTA than Burst of Speed.  Use them for movement, and do not use Alacrity or Speed unless specifically noted.*
 
-**Great Walkway:**
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) past the Wookiee Guard that blocks you from the Shadowlands elevator
-¤ Use T3 to Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC to Shadowlands elevator
-Use elevator
-- The Autosave that happens here is a good place to reset for memory leaks
+### Docking Bay
+- Having a party member skips a Selkath announcement after the first door
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Sith/Republic soldier conversation
+  - If you miss this, the conversation is just: 4
+- Jordo accosts you near the Selkath Merchant
+  - ***Starts “Finding Dustil”***
+- Talk to Selkath Merchant: 3
 
-**Upper Shadowlands:**
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) to skip Katarn spawn
-- If they spawn, kill them
-Watch Jolee kill katarns
-Go to the intersection
-Activate Solo Mode
-Position T3 next to Jolee’s house
-With MC
-- Loot Wookiee Corpse for bolt casing
--- Starts “A Wookiee Lost”
-- Czerka Captain: 1,1,1,1,2
--- Starts “Tach Poaching”
-- Talk to first guard: 1,1,3,1,1
-- Hack that guard's emitter
-- Talk to another guard: 1spam
-- Hack that guard's emitter
--- Starts and Finishes "Jolee's Request"
--- Finishes "Tach Poaching"
-Swap to T3 and talk to Jolee by his house: 1,1,1,2,3,1,1,1,1,1
-- Starts "Star Map: Kashyyyk"
-} Remove T3 from party when prompted
-Note: As you go through the Shadowlands, kill and loot 3 tachs for 3 Tach Glands
-Interact with broken droid just past Jolee’s house: 1,2
-Loot Wookiee corpse slightly past Jolee's house
-} Use Hyper Stim Suite, cast Speed and Valor
-Talk to Grarwwaar
-Defeat Rulan's first two forms
-Chase the tach and talk to it to kill Rulan permanently
-- You may need to defeat the katarn nearby to be able to talk to the tach
-Go to the Force Field 
-Bypass force field: 1,2
-- Starts “Chieftain in Need”
+```
+SHOPPING: Selkath Merchant
+- BUY:
+  - 7x Parts
+  - All 20 Hyper Stims
+- END: ~447 Credits (need 400 minimum)
+```
 
-**Lower Shadowlands:**
-Activate Solo Mode
-*Note: Jolee will warp to you at various points*
-¤ [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) or [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) to skip the Mandalorians fighting the Wookiee CS
-Talk to and fight Freyyr
-Freyyr: 2, kill him
-Go to Star Map Computer: 1,3,1x5,4,1,1,4,1,4,1
-- Finishes “Star Map: Kashyyyk”
-> Level to 10: Persuade to 13, Knight Valor
-Unequip MC’s lightsaber, spawn and defeat Mandalorians nearby (usually 2nd group)
-Return to first cluster of Wookiee corpses, defeat Mandalorians
-Activate Solo Mode
-With Jolee, loot Mandalorians
-With MC
-- Kill kinraths if they spawn
-- Interact with speeders
-Defeat and loot Mandalorian Captain
-- Finishes “Hidden Hunters”
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) back to Upper Shadowlands
-¤ Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp Jolee to you if he didn't follow
+- Talk to Nubassa: 3,2,1
+  - This gets you over 500 credits for Queedle's loan
+  - ***Finishes “The Trouble with Gizka”***
+- Enter West Central Ahto City
 
-**Wookiee Politics:**
-Activate Solo Mode
-Talk to Gorwooken
-- ¤ May have to use [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj) to get him to talk to you
-Chuundar accosts you and kicks you out of Chieftain’s Hall
-¤ [Force Skip](https://www.speedrun.com/kotor1/guide/8fp02) a brief cutscene as you exit
-} Remove Jolee from the party
-Exit the Wookiee Village
-Disable V-Sync
-- This helps with a Quicksave spam coming up
-Talk to the Wookiee Guard: 2
-Talk to Chuundar: 1,1,2,1,2
-- Finishes “A Wookiee Lost”
-- Finishes “Chieftain in Need”
-Spam QS on the fadeout after Chuundar says "No matter how helpful they may have been..."
-} Leave your party empty when prompted
-QL after you’re kicked out of the village
-Two things can happen here
-- The QL can return to the Party Select menu - this means you've failed the trick
--- If this happens, [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) back to the Landing Port
-- The QL can return you to Chieftain's Hall
--- If this happens, Return to Ebon Hawk
-Wookie Enslavement cutscene warps you to Janos: 1,3
-Re-enable V-Sync
-Talk to Eli Gand
-- Finishes “Honest Debt”
-> Level to 11: Persuade to 14, Master Flurry, Drain Life
-Transit Back, Return to Ebon Hawk and board
-Juhani #5 and #6
-¤ Travel to Tatooine, [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685) puts you back on Kashyyyk
-Board Ebon Hawk
-Talk to T3 8 times (+8; 11 Spikes)
-Travel to Tatooine, no [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685)
-Possible Fighter Skirmish
+### Ahto City
+- Talk to Port Authority: 1,3
+- Enter Ahto West
+- Activate Solo Mode
+- Swap to Carth and open door behind you
+- Swap to MC and enter the cantina so Nilko Bwaas accosts you
+- Talk to Nilko Bwaas
+  - ***Starts “Republic Hiring Mercenaries”***
+- [Save Teleport](<../Techniques/Save Teleporting>) towards Shaelas until he accosts you
+  - ***Starts “Missing Selkath”***
+- Swap to Carth and return to West Central
+- *Party: Remove Carth*
+- [Save Teleport](<../Techniques/Save Teleporting>) to East Central
+- [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the confrontation between Sith and Republic soldiers
+- Talk to Hulas
+  - ***Starts “GenoHaradan: Zuulan”***
+  - ***Starts “GenoHaradan: Lorgal”***
+- *Party: Add T3*
+- Activate Solo Mode and swap to T3
+- [Save Teleport](<../Techniques/Save Teleporting>) into Republic Embassy
+- Click to talk to Roland Wann, but swap to MC before the convo: 3,1 spam
+  - This keeps MC near Hulas and T3 in the embassy
+  - ***Starts and Finishes “Republic Embassy”***
+  - ***Starts “Star Map: Manaan”***
+  - ***Starts “Mission for the Republic”***
+- As T3, use the console to kill Lorgal (-5; 6 Spikes)
+  - Using T3 saves three spikes compared to using MC
+- [Save Teleport](<../Techniques/Save Teleporting>) back towards Hulas and MC
+- *Party: Remove T3 once he is in range*
+- Talk to Hulas: 1x8,2
+  - ***Finishes “GenoHaradan: Lorgal”***
+  - ***Starts “GenoHaradan: Ithorak”***
+  - ***Starts “GenoHaradan: Rulan”***
+  - ***Starts “GenoHaradan: Vorn”***
+- [Save Teleport](<../Techniques/Save Teleporting>) to enter Ahto East
+- [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) past the Sith Lady
+  - If you fail this, the conversation is: 2
+- Talk to Vek
+- Talk to Queedle: 1,1,1,1,2 ... QS/QL ... 1,3
+  - This requires 500 credits, which you should have unless you bought too many medpacs on Tatooine
+  - This also prevents having to talk to Hukta Jax between races two and three
+  - ***Starts “Manaan Swoop Races”***
+- *Force: Cast Burst of Speed*
+  - This makes the post-swoop race CS faster
+- Talk to Swoop Coordinator and win 3 swoop races
+  - Mash all conversations except after the third race: 3
+  - ***Finishes “Manaan Swoop Races”***
+- Return to Ebon Hawk
+- Fly to Dantooine
+  - Possible Fighter Skirmish; destroy them as fast as you can if you get them
 
-[section=Tatooine 2]
+## Dantooine 2
 
-**Anchorhead:**
-Jolee #1
-Leave Ebon Hawk
-Enter Anchorhead
-Talk to Sharina
-- Starts and Finishes “Middleman”
-Go to Cantina
-} Add Bastila to the party
-Talk to Helena: 1,2,1,1
-} Remove Bastila from the party
-Enter Dune Sea
+### Sandral-Matale Feud
+- [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) past Deesra
+- Exit to Courtyard
+  - *Force: Cast Force Valor just before exiting to Duration Glitch it*
+- Take closest entry to Matale Grounds
+- Kill the Mandalorian after a brief CS
+  - You don’t need to kill the Duros
+- Enter the nearby entrance to Grove
+- Enter Sandral Grounds ahead
+- Speak to Security Droid: 4
+- *Party: Add T3*
+- Enter Sandral Estate (see [this video](https://www.youtube.com/watch?v=wC-hcqDZkfE))
+- [Force Skip](<../Techniques/Force Skips>) Nurik's convo then talk to him
+  - Actually allow the Burst of Speed to be cast for this section
+  - This breaks the script that causes Rahasia to talk to you and leaves the front door open
+  - ***Finishes “Dead Settler”***
+- Activate Solo Mode and swap to T3
+- Save Teleport through the door, then use Security to unlock the door with a mine in front of it
+- Swap to MC and click on the right door
+- Swap to T3 and to talk to Shen Matale, then swap to MC before the convo: 1,1,1,1
+- Destroy the two patrol droids with Improved Flurry
+  - They're 1-2 rounds and give a good chunk of experience
+  - This guarantees level 9 and Knight Speed before Sherruk
+- Open first door on left and talk to Rahasia
+- Swap to T3 and talk to Shen
+  - Make sure Valor is active on MC first; it should be if you duration glitched correctly
+- Mash conversation outside
+  - ***Finishes “Sandral-Matale Feud”***
+ 
+### Mandalorian Raiders
+- *Party: Remove T3*
+- Force Speed should have worn off; leave it off
+- [Save Teleport](<../Techniques/Save Teleporting>) over bridge and near Mandalorian Raider group
+- *Stims: Hyper Stim Suite on MC*
+  - Hyper Stim Suite is Hyper Alacrity, Hyper Strength, Hyper Stamina, and Hyper/Echani Battle Stim
+- Kill the center Mandalorian
+  - You don't need to kill the other Mando or the Duros
+- [Save Teleport](<../Techniques/Save Teleporting>) past the grove entrance
+- [Combat Talking](<../Techniques/Combat Talking>) to speak with C8-42: 1x5,2,1
+- `Level to 9: Persuade to 12, Knight Speed`
+- *Force: Cast Knight Speed*
+- Enter the Grove and kill the further Mandalorian
+  - Don't Force Jump to him; use Flurry and you have a decent chance to one-shot him
+  - Again, you don't need to kill the other Mando or the Duros
+- Enter Sandral Grounds, then re-enter the Grove
+  - This spawns Sherruk in the Grove
+- Sherruk accosts you; kill Sherruk
+  - Keep a close eye on your health here, use Life Support Packs if needed
+  - Sherruk is usually a two-round fight
+- Run/Force Jump via kath hounds to Matale Grounds
+  - If Speed is active, it's faster to run than [Save Teleport](<../Techniques/Save Teleporting>)
+  - [Save Teleport](<../Techniques/Save Teleporting>) once Speed wears off
+- Interact with Zuulan’s Speeder: 2 (-1; 5 Spikes)
+- Destroy Zuulan's patrol droids first
+  - You can't kill Zuulan until they're dead
+  - Zuulan accosts you, then kill him
+- Return to Ebon Hawk
+- [Save Teleport](<../Techniques/Save Teleporting>) back to Courtyard
+- Talk to Jon
+  - ***Finishes “Mandalorian Raiders”***
+- Talk to Elise
+  - ***Finishes “Missing Companion”***
+- Return to Ebon Hawk and board
+- Fly to Kashyyyk and use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to the Ebon Hawk
 
-**Dune Sea:**
-} Equip Sand People Clothing
-Enter Sand People Territory
-} Use Hyper Stim Suite
-Kill Vorn’s droid, interact with it: 1,4 (-7; 0 Parts)
-Kill Vorn
-} Add HK-47 to the party
-Enter the Sand People Enclave
+## Kashyyyk
 
-**Sand People Enclave:**
-Guard accosts you: 1,1 | 1,2,1
-You’re kicked out of the Enclave
-} Equip Jedi Knight Robe to MC, remove HK-47 from party
-Return to Ebon Hawk
-Enter Anchorhead
-Enter Czerka Office
-Talk to Greeta Holda
-Return to the Docking Bay
-} Add Mission and HK-47 to the party, Transit Back
-Speak to Guard: 1
-Sand People Chieftain: 1x11,3
-- Starts and Finishes “Worthy of History”
-Talk to Griff
-Talk to Jawas
-Exit Sand People Enclave
-} Remove HK-47 and Mission from party, Return to Ebon Hawk
-Go to Czerka Office
-Talk to Griff twice
-Return to Ebon Hawk, Transit Back
-Greeta Holda accosts you
-- Finishes “Mission’s Brother”
-Talk to Czerka Protocol Officer
-- Finishes “Sand People”
-Exit to Anchorhead, talk to Iziz
-- Finishes “Fair Trade”
-Return to Ebon Hawk and board
-Jolee #2
-Fly to Manaan, no [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685)
-Possible Fighter Skirmish
+### Great Walkway
+- Janos Wertka accosts you
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) Czerka Guard conversation
+- *Party: Add T3*
+- Enter Great Walkway
+- Activate Solo Mode to leave T3 at the Landing Port entrance
+- As MC, [Save Teleport](<../Techniques/Save Teleporting>) past the Wookiee Guard that blocks you from the Shadowlands elevator
+- ***Optional:*** Swap to T3 and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) MC to Shadowlands elevator
+  - This saves some time but is finicky to get quickly
+  - If you want to skip it, just [Save Teleport](<../Techniques/Save Teleporting>) all the way to the elevator
+- As MC, enter the elevator
 
-[section=Manaan 2]
+### Upper Shadowlands
+- [Save Teleport](<../Techniques/Save Teleporting>) to skip Katarn spawn
+  - Run straight forward and Teleport as you hit the vines
+- Watch Jolee kill katarns
+- Activate Solo Mode at the fork
+- As T3, [Save Teleport](<../Techniques/Save Teleporting>) next to Jolee’s house
+- As MC:
+  - Loot Wookiee Corpse for bolt casing
+    - ***Starts “A Wookiee Lost”***
+  - Czerka Captain accosts you: 1,1,1,1,2
+    - ***Starts “Tach Poaching”***
+  - Talk to first guard: 1,1,3,1,1
+  - Hack that guard's emitter
+  - Talk to another guard: 1spam
+  - Hack that guard's emitter
+    - ***Starts and Finishes "Jolee's Request"***
+    - ***Finishes "Tach Poaching"***
+  - Kill a nearby tach and loot for gland
+    - This can be done while hacking the sonic emitters above
+- Swap to T3 and talk to Jolee by his house: 1,3,1spam
+  - ***Starts "Star Map: Kashyyyk"***
+- *Party: Keep Jolee when prompted (T3 is removed)*
+- Loot broken droid just past Jolee’s house: 2
+- Loot Wookiee corpse slightly down right fork
+- *Stims/Force: Hyper Stim Suite on MC, Cast Knight Speed*
+- Rulan Fight:
+  - Talk to Grarwwaar
+  - *Force: Cast Force Valor* when you're knocked back from the Jolee form
+  - QS/QL when you're knocked back from the terentatek form
+    - This freezes the Rulan-tach in place
+  - Talk to and kill the Rulan-tach
+- While MC fights Rulan, have Jolee [Save Teleport](<../Techniques/Save Teleporting>) to the Force Field 
+- *Force: Cast Knight Speed on MC*
+  - This duration glitches Speed for the fights in the Lower Shadowlands
+- Make sure you've looted a Tach Gland and killed the Rulan-tach, then bypass force field with Jolee: 1,2
+  - ***Starts “Chieftain in Need”***
+
+### Lower Shadowlands
+- Activate Solo Mode
+- *Unequip MC: Remove Double-bladed Lightsaber*
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Mandalorians fighting the Wookiee CS
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the first Mandalorian ambush
+  - Buffer into the space between the Wookiee corpses
+- [Save Teleport](<../Techniques/Save Teleporting>) to Star Map Computer: 1,3,1x5,5,1,4,1,4,1
+  - Try to let a viper kinrath hit you as you pass by them; this puts you in combat and delays the second Mandalorian ambush
+  - ***Finishes “Star Map: Kashyyyk”***
+- [Save Teleport](<../Techniques/Save Teleporting>) back to the second set of Wookiee corpses to trigger that ambush
+- *Equip MC: Double-bladed Lightsaber*
+- Kill all three Mandalorians as MC
+- `Level MC to 10: Persuade to 13, Knight Valor`
+- While MC kills the Mandalorians, [Save Teleport](<../Techniques/Save Teleporting>) with Jolee to the Mandalorian swoop bikes
+- Swap to MC and loot the Mandalorian closest to the viper kinrath for the Swoop Signal Device
+- Swap to Jolee and use the swoop bike to summon the Mandalorian Captain
+- Kill all three Mandalorians
+- While MC kills the Mandalorians, [Save Teleport](<../Techniques/Save Teleporting>) with Jolee to Freyyr
+- Swap to MC and loot the Mandalorian 
+  - ***Finishes “Hidden Hunters”***
+- Swap to Jolee and talk to Freyyr to fight him
+- While MC fights Freyyr, [Save Teleport](<../Techniques/Save Teleporting>) with Jolee to the Upper Shadowlands entrance
+  - When Freyyr accosts you, convo is 2, then swap to MC and *Stims: Basic Strength and Basic Battle Stim*
+  - Do NOT recast Knight Speed for Freyyr's second phase; we need to keep it off for [Save Teleports](<../Techniques/Save Teleporting>) now
+- Once Freyyr is dead, use Jolee to [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
+  - This is a tough [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) since our saves are long
+  - You can learn where to [Save Teleport](<../Techniques/Save Teleporting>) Jolee from, or temporarily disable V-Sync to make this easier
+- Exit to Upper Shadowlands
+
+### Wookiee Politics
+- Activate Solo Mode
+- [Save Teleport](<../Techniques/Save Teleporting>) to return to elevator and talk to Gorwooken
+  - If you're in combat, you can use [Combat Talking](<../Techniques/Combat Talking>) to get him to talk to you
+- Chuundar accosts you and kicks you out of Chieftain’s Hall
+- [Force Skip](<../Techniques/Force Skips>) a brief cutscene as you exit
+- *Party: Remove Jolee*
+- Exit the Wookiee Village
+- Talk to the Wookiee Guard: 2
+- Talk to Chuundar: 1,1,2,1,1
+  - Hover your mouse over the Map icon
+  - ***Finishes “A Wookiee Lost”***
+  - ***Finishes “Chieftain in Need”***
+- IMMEDIATELY after Chuundar stops talking, [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
+  - If you wait too long, the game forces you to the Great Walkway and you cannot fast travel
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the Wookiee Enslavement CS
+- Talk to Eli Gand
+  - Finishes ***“Honest Debt”***
+- Transit Back and Return to Ebon Hawk
+  - There is just a narrow window to Return to Ebon Hawk before you're booted out to the Great Walkway
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the Wookiee Enslavement CS again
+- Board the Ebon Hawk
+- Fly to Tatooine and use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the Wookiee Enslavement CS one final time
+- Reboard Ebon Hawk
+- Fly to Tatooine again
+    - Possible Fighter Skirmish
+
+## Tatooine 2
+
+### Anchorhead
+- Leave Ebon Hawk
+  - *Party: Leave empty when prompted*
+- Enter Anchorhead
+- Talk to Sharina
+  - ***Starts and Finishes “Middleman”***
+- Enter the cantina
+- *Party: Add Bastila*
+- Talk to Helena
+  - ***Finishes "Bastila's Mother"***
+- *Party: Remove Bastila*
+- Talk to Junix Nard
+
+```
+SHOPPING: Junix Nard
+- BUY:
+  - All Pazaak Cards
+  - This is most quickly done by spamming through the Hair Trigger as well
+- End: ~7797 Credits
+```
+
+- Beat Furko Nellis in Pazaak: 1,1,2,1,1
+  - Use all of your +/- cards as your sidedeck
+  - If you lose a game, you don't have to reload to save credits
+  - ***Finishes “Pazaak Rules”***
+- Exit the Cantina and enter the Droid Shop
+- Talk to Yuka Laka to buy HK-47: 1,1,1,2,1,2
+  - We pay full price for HK because he's worth it (and it's the shortest conversation)
+  - ***Starts and Finishes "Droid for Sale"***
+- Talk to HK-47
+  - *Party: Leave empty when prompted*
+- Talk to Iziz outside: 1x6, 3
+  - ***Starts "Fair Trade"***
+- Enter Dune Sea
+
+### Dune Sea
+- [Save Teleport](<../Techniques/Save Teleporting>) past right side of Sandcrawler
+- *Stims/Force: Hyper Stamina, Strength, Battle Stim on MC, Cast Knight Speed*
+  - We don't use Hyper Alacrity to save it for the underwater segments of Manaan
+- Kill Sand People Warrior for Sand People Outfit
+- Enter Sand People Territory
+- *Equip MC: Sand People Outfit*
+- Defeat Vorn’s droid and hack it: 1,4,4 (-7; 0 Parts)
+- After the CS, [Save Teleport](<../Techniques/Save Teleporting>) to Sand People Enclave entrance
+  - You don't actually have to kill Vorn
+- *Party: Add HK-47*
+- Enter the Sand People Enclave
+  - QS/QL outside the enclave first
+  - If the first guard is hostile, exit and reenter the enclave
+
+### Sand People Enclave
+- Guard accosts you: 1,1 ... 1,2,1
+- Return to Ebon Hawk
+- Enter Anchorhead and the Czerka Office
+- Talk to Greeta Holda to buy Moisture Vaporators
+- [Save Teleport](<../Techniques/Save Teleporting>) back to the Docking Bay
+- *Equip MC: Jedi Knight Robe*
+- *Party: Add Mission*
+- Transit Back and talk to Guard: 1
+- Report to Sand People Chieftain: 1x11,3
+  - ***Starts and Finishes “Worthy of History”***
+- Talk to Griff and the Jawas
+- Exit Sand People Enclave
+- *Party: Remove HK-47 and Mission*
+- Return to Ebon Hawk and enter Czerka Office
+- Talk to Griff twice, then QS/QL
+- Greeta Holda accosts you after the load
+  - ***Finishes “Mission’s Brother”***
+- Talk to Czerka Protocol Officer: 1,2,2
+  - ***Finishes “Sand People”***
+- Exit to Anchorhead and [Save Teleport](<../Techniques/Save Teleporting>) to talk to Iziz
+  - ***Finishes “Fair Trade”***
+- Return to Ebon Hawk and board
+- Fly to Manaan
+  - Possible Fighter Skirmish
+
+## Manaan 2
+
+*Note: your saves are getting so big by this point that it may be extremely difficult to buffer anything from now on, but turning V-Sync Off makes it much easier. Due to the time required to toggle V-Sync off and on again, many cutscenes that can be buffered will be easier/faster to just mash through, but longer ones will be worth toggling for.*
 
 **Sith Base:**
-Jolee #3: 1,1,3
-- Finishes “Jolee Bindo”
-Leave Ebon Hawk and add Jolee to your party
-Vek accosts you: 1,1,2
-Speak to Ithorak: 1
-Kill Ithorak
-Enter Sith Hangar
-¤ [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) a Selkath announcement as you enter
-Take shuttle to Sith Base
-Go through first door on right
-¤ [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) the secretary CS
-- *Note: your saves are getting so big by this point that it may be extremely difficult to buffer anything from now on, but turning V-Sync Off makes it much easier. Due to the time required to toggle V-Sync off and on again, many cutscenes that can be buffered will be easier/faster to just mash through, but longer ones will be worth toggling for.*
-Activate Solo Mode
-With Jolee, open the door in front of the desk
-With MC
-- Go through the door behind the secretary, open first door on the left, then open first door on left
-- QS as you can be stunned in the next room
-- Open door and loot Data Module from broken droid
-- Run left in the hallway and continue straight
-- When you reach a room with windows, turn right and open door
-- Make sure MC is at full health in front of the steam hallway
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) to the end of the hall
-- Open door, interact with Computer Terminal: 1,2,2,4,scroll down and click (-4; 7 Spikes)
-¤ With Jolee, Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC back to lobby
-With MC
-- Go through door behind secretary, go down hall
-- Ignore Dark Jedi, open door on left
-- Go straight then left in the hallway, let Selkath open door
-- Open next door, then open door around corner to the left
-- Talk to Sasha: 1,1,1,1,2
-¤ With Jolee, Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC back to lobby
-Exit to Ahto City
+- Leave Ebon Hawk
+  - *Party: Add T3 when prompted*
+- Vek accosts you
+- *Force: Cast Knight Speed and Valor*
+- Accost and kill Ithorak: 1
+- Activate Solo Mode
+- While MC kills Ithorak, control T3:
+  - [Save Teleport](<../Techniques/Save Teleporting>) to open the outer door to the Sith Hangar
+  - Click on the inner door and swap to MC for a couple seconds
+    - This skips a Selkath announcement
+  - Swap back to T3 and [Save Teleport](<../Techniques/Save Teleporting>) to take the shuttle to the Sith Base
+- `Level to 11: Persuade to 14, Master Flurry, Force Resistance`
+- Activate Solo Mode inside
+- As MC, open door on left, then click next door
+- Swap to T3 and click on right door
+- Swap back to MC and use the panel outside the further Flow Control door, then go inside and use the wall panel
+  - This warps T3 to you
+- As MC, click the second Flow Control door
+- Swap to T3 and click the outer door
+- Swap to MC and click the third Flow Control door
+- Swap to T3 and [Save Teleport](<../Techniques/Save Teleporting>) back towards the way you came in
+- As T3, click the closed door at the end of that hall
+- Swap to MC and go through the last Flow Control door, then turn left and go through two doors
+- Follow the long hall to the end and let the Selkath Apprentice open the door
+  - If the apprentice doesn't move, you [Save Teleported](<../Techniques/Save Teleporting>) past the trigger that starts him
+  - Just run back until you hit the trigger
+- Open the dormitory door and have Shasa accost you: 3
+- Swap to T3 and [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the secretary CS
+  - This buffer is most easily done by disabling V-Sync first
+  - When you enter the room while buffering, the game will warp MC to that room and swap your control to him
+  - Keep buffering until you control MC, then finish the buffer
+  - Re-enable V-Sync afterwards if you need to
+- As MC, click the door behind the desk
+- Swap to T3 and click the exit door to Ahto West
+- Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) through the left door
+- As MC, take the next door on the left and loot Data Module from the broken droid
+- Swap to T3 and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) MC back to lobby
+- Exit to Ahto City
 
-**Ahto City:**
-Selkath arrest you: 1
-Prison and first trial: 1x5,3,1 | spam
-Remove Bastila from party
-Go towards West Central
-Elora accosts Jolee
-- Starts “Sunry’s Murder Trial”
-Activate Solo Mode
-As MC
-- Go back to courtroom
-¤ [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) the conversation, mash if you fail
-- Speak to center judge
-As Jolee, deactivate Solo Mode and speak to Selkath Guard
-Swap to MC and enter jail
-Speak to Sunry: 1,4
-- Starts “Sunry’s Story”
-Remove Jolee from party, go to East Central Ahto
-Talk to Hulas: 1x6,2,1
-- Finishes “GenoHaradan”, “GenoHaradan: Ithorak”, “GenoHaradan: Rulan”, “GenoHaradan: Vorn”, and “GenoHaradan: Zulan”
-> Level to 12: Strength to 21, Persuade to 15, Weapon Focus: Lightsaber, Force Resistance
-Enter the hotel, talk to Ignus: 1,2,3,3
-- Starts “Ignus the Hotel Owner”
-Talk to Firith Me
-- Starts “Firith Me the Pazaak Player”
-- Starts “Elora, Sunry’s Wife”
-Talk to Gluupor: 1,3,1
-- Starts “Gluupor the Rodian”
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) past or [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) the Mysterious Man on the way out
-Talk to Roland Wann
-Enter Republic Computer Room
-Hack Republic archives: 2,2,3 (-4; 3 Spikes)
-Take Submersible to Hrakert Rift
+### Ahto City
+- Selkath arrest you: 1
+- Prison and first trial: 1x5,3,1 ... 1,1,1
+- Swap to T3 and click the center judge, then swap back to MC before the convo starts: 2
+  - ***Starts “Sunry’s Murder Trial”***
+- *Party: Remove T3 and Bastila*
+- [Save Teleport](<../Techniques/Save Teleporting>) through West Central back to East Central
+- Talk to Hulas: 1x6,2,1
+  - ***Finishes "GenoHaradan: Zuulan"***
+  - ***Finishes "GenoHaradan: Vorn"***
+  - ***Finishes "GenoHaradan: Rulan"***
+  - ***Finishes "GenoHaradan: Ithorak"***
+  - ***Finishes "GenoHaradan"***
+- [Save Teleport](<../Techniques/Save Teleporting>) to the junction near the hotel and embassy
+- *Party: Add T3*
+- Activate Solo Mode
+- Swap to T3 and click the outer hotel door
+- Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) to talk to Roland Wann
+- Swap to T3 and click the inner hotel door
+- Swap to MC and click the door to the Computer Archives
+- Swap to T3 and talk to Ignus: 1,2,3,3
+  - ***Starts “Ignus the Hotel Owner”***
+- As T3, hack the Republic Archives: 2,2,3 (-2; 3 Spikes)
+- As T3, [Save Teleport](<../Techniques/Save Teleporting>) to open the first door to the submersible, then click the second door
+- Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) to talk to Gluupor: 1,3,1
+  - ***Starts “Gluupor the Rodian”***
+- As MC, [Save Teleport](<../Techniques/Save Teleporting>) to talk to Firith Me
+  - ***Starts “Firith Me the Pazaak Player”***
+  - ***Starts “Elora, Sunry’s Wife”***
+- Swap to T3 and take submersible to Hrakert Station
 
-**Hrakert Rift:**
-Open door ahead, Mercenary accosts you
-Go down hall, open first door on right
-Open first door on right in the hall with droids
-Go straight until the assault droid, then left
-Loot Environment Suit, turn right
-Loot Footlocker in this room for Sonic Emitter, then run down hall to the left
-} Adrenal Alacrity (1 remain) Cast Knight Speed
-Go through airlock
-Survivor accosts you
-¤ [Sonic Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) the survivor’s death cutscene
-Run left to the airlock on the left side of the next structure
-Go through door ahead of you, survivors lock you in
-Talk to survivors: 3
-¤ [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) the CS after the force field comes down
-- If you fail, mash
-Loot Footlocker for 2 Computer Spikes (+2; 5 Spikes)
-Go through airlock, refresh Knight Speed and Alacrity (0 remaining) if needed
-Hack kolto control panel: 1,2,4,2,5,4,5,2,5
-Manaan Star Map
-- Finishes “Star Map: Manaan”
-Re-enter station through airlock on right
-Wave at Darth Bandon as you run past him
-Return to surface
+### Hrakert Rift
+- Open door ahead, Mercenary accosts you
+- [Save Teleport](<../Techniques/Save Teleporting>) through next three doors
+- Open first door on right in the hall with patrol droids
+- [Save Teleport](<../Techniques/Save Teleporting>) straight through five doors
+- Loot Envirosuit and go through one more door
+- Loot footlocker in this room for Sonic Emitter, then [Save Teleport](<../Techniques/Save Teleporting>) down hall to the left
+- *Stims/Force: Hyper Alacrity on MC, Cast Knight Speed*
+- Go through airlock
+  - While underwater, [Save Teleports](<../Techniques/Save Teleporting>) are not effective
+- Survivor accosts you
+- [Sonic Buffer](<../Techniques/Save Buffering#sonic-buffers>) the survivor’s death cutscene
+- Run left to the airlock on the left side of the next structure
+  - Use the Sonic Emitter from the Inventory menu to kill firaxan sharks
+- [Save Teleport](<../Techniques/Save Teleporting>) through door ahead of you
+- Interact with the Force Field twice (mash both convos)
+- While the Force Field drops, [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the scientist convo
+  - If you fail, mash the long scientist convo; reloading the save here can still have the Force Field active, forcing you to bash it down
+- Loot footlocker for 2 Computer Spikes (+2; 5 Spikes)
+- *Stims: Hyper Alacrity on MC, Cast Knight Speed*
+- Exit through airlock
+- Hack kolto control panel: 1,2,4,2,5,4,5,2,5
+- Manaan Star Map
+  - ***Finishes “Star Map: Manaan”***
+- `Level to 12: Strength to 21, Persuade to 15, Weapon Focus: Lightsaber, Drain Life` 
+- Re-enter station through airlock on right
+- [Save Teleport](<../Techniques/Save Teleporting>) back to the submersible to return to the surface
+  - Mash Darth Bandon's interruption, then [Save Teleport](<../Techniques/Save Teleporting>) past him
 
-**Ahto City:**
-Roland Wann accosts you
-- Finishes “Mission for the Republic”
-Selkath arrest you: 2
-Second trial: 3,1,2
-Nilko Bwaas: 2,1 spam
-- Finishes “Republic Hiring Mercenaries”
-Shaelas: 2,1 spam
-- Finishes “Missing Selkath”
-Talk to Selkath Warden: 3,1 | 1
-- Finishes “Sunry’s Murder Trial”, “Ignus the Hotel Owner”, “Firith Me the Pazaak Player”, “Elora, Sunry’s Wife”, “Gluupor the Rodian”
-Return to Ebon Hawk, board
-Juhani #7
-Fly to Korriban, no [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685)
+### Ahto City
+- Roland Wann accosts you
+  - ***Finishes “Mission for the Republic”***
+- Exit the embassy and let the Selkath arrest you: 2
+- Second trial: 3,1,2
+- [Save Teleport](<../Techniques/Save Teleporting>) to central area and Activate Solo Mode
+- As MC, [Save Teleport](<../Techniques/Save Teleporting>) to click on Nilko Bwaas
+- Swap to T3 and [Save Teleport](<../Techniques/Save Teleporting>) to prison guard
+- Nilko's convo happens: 2,1 spam
+  - ***Finishes “Republic Hiring Mercenaries”***
+- As MC, talk to Shaelas: 2,1 spam
+  - ***Finishes “Missing Selkath”***
+- Swap to T3 and talk to Selkath Guard
+- Swap to MC and enter the prison to talk to Sunry: 1,1,4
+  - ***Starts "Sunry's Story*** 
+- Talk to Selkath Warden: 4,1 ... 1
+  - ***Finishes "Sunry's Murder Trial"***
+  - ***Finishes "Elora, Sunry's Wife***
+  - ***Finishes "Gluupor, the Rodian***
+  - ***Finishes "Firith Me, the Pazaak Player***
+  - ***Finishes "Ignus, the Hotel Owner***
+  - ***Finishes "Sunry's Story***
+- Return to Ebon Hawk and board
+- Juhani #3-#7
+  - You don't have to QS/QL inbetween, just mash all five convos
+- Fly to Korriban
 
-[section=Leviathan]
+## The Leviathan
 
-**Detention Block:**
-Carth's old mentor CS
-Talk to the crew: 1,1,1,2
-- Starts “Captured by the Leviathan”
-Mash through being tortured
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) at the end of the CS with Mission
-- As CS fades out on Carth, there is a window between when this CS ends and the next with Mission begins
-- During this window, mash QS and [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers)
-- If the cutscene initiates but you got a QS in, kill the game process in Task Manager or Alt-F4 and load the QS
-- If you didn’t get a QS, mash the cutscene
-Turn left to the end of the hall
-Loot the Footlocker in this room for keycard
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) or [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) a Sith Heavy Trooper spawn in the main hallway
-Go to Detention Cells, interact with Computer Terminal
-Open locker on the right to get your gearAuto-Level Carth and Bastila
-} Equip MC with Double Bladed Lightsaber, CNS Strength Enhancer, Jedi Knight Robe, GenoHaradan Power Gloves, Breath Mask, Nerve Enhancement Package
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) or [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) the Sith Heavy Trooper spawn and a Canderous CS
-Enter Elevator: 2
-
-*In the bridge section, you have to keep Carth and Bastila close to you in order to leave through the Bridge Storage door. Do your best to make sure they don't wander off, as that can and will lose you a lot of time. You can choose to manually save and reload that save; this sometimes helps.*
+### Detention Block
+- Carth's old mentor CS
+- Choose Mission to rescue the party: 1,1,1,2
+  - ***Starts “Captured by the Leviathan”***
+- Mash through being tortured
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) at the end of the CS with Mission
+  - As CS fades out on Carth, there is a window between when this CS ends and the next with Mission begins
+  - During this window, mash QS and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>)
+  - If your first QS is too early, you'll never switch to Mission and load as MC stuck in your cell.  This is a softlock, so load the Autosave.
+  - If the cutscene initiates but you got a QS in, kill the game process in Task Manager or Alt-F4 and load the QS
+  - If you didn’t get a QS, mash the cutscene  
+- As Mission:
+  - Turn left to the end of the hall and take door on left
+  - Loot the Footlocker in this room for keycard
+  - [Save Teleport](<../Techniques/Save Teleporting>) to Detention Cells
+  - Use the terminal to free your party
+- As MC again, loot righthand locker for your inventory
+- *Equip MC:*
+  - *Nerve Enhancement Package*
+  - *Breath Mask*
+  - *GenoHaradan Power Gloves*
+  - *Jedi Knight Robe*
+  - *CNS Strength Enhancer*
+  - *Double-bladed Lightsaber*
+- [Save Teleport](<../Techniques/Save Teleporting>) past a Canderous CS
+- Take the elevator to the command deck: 2
 
 **Command Deck:**
-Turn right, then left, killing Sith Troopers as needed to make Carth and Bastila follow you
-Open second door on left
-Bash open Armory door on far side of this room
-Loot the Space Suit on the far side of the Armory
-Safety save in the first room before opening door
-Open door on the far side of the hall and run through, bash open the door, and go through
-- If anyone is stunned or debuffed, QL to avoid Duration Glitched negative status effects
-Open the Inner Airlock Door
-Interact with the next door and immediately QS/QL for spacewalk skip
-Once on the other side
-- Cast Knight Speed
-- Cast Burst of Speed on Bastila
-- Carth uses Hyper Adrenal Alacrity
+
+*In the bridge section, you have to keep Carth and Bastila close to you in order to leave through the Bridge Storage door. Do your best to make sure they don't wander off, as that can and will lose you a lot of time. You can choose to QS/QL to reset their following AI; this sometimes helps.*
+
+- *Force: Cast Knight Speed*
+  - We do this to bash down doors more quickly
+- QS/QL to fix party following AI
+- Turn right and run/[Save Teleport](<../Techniques/Save Teleporting>) past the guard at the end of the hall as you turn left
+  - He will almost always activate his shield, then throw a grenade, giving you enough time to get past
+  - If he shoots instead, he'll aggro Carth/Bastila and you'll need to kill him
+- Take the hall on the left and quickly bash open the armory door on the right
+- Loot the Space Suit just inside on the left side
+- Bash down the door on the far side of the room, then take the door on the left
+- QS, then open the door across the hall 
+- Run through, bash open the door, and go through
+  - If MC gets stunned or debuffed, QL to avoid Duration Glitched negative status effects
+  - If party members are debilitated, those will be removed when starting the spacewalk
+- Open the Inner Airlock Door
+- Spacewalk Skip:
+  - Move so that the you're right next to the outer airlock door
+  - Click to open the door and immediately QS once
+  - QL and you should spawn with the airlock open and no Space Suit
+- [Save Teleport](<../Techniques/Save Teleporting>) to the far airlock
 - Activate Solo Mode
-Have Carth and Bastila go through the door on the right
-- Tuck them in the corner to attempt to deaggro them
-- The goal is to have them stay close enough to the exit while you do Saul Karath skip
-Swap back to MC and run up to bridge door
-¤ Saul Karath skip
-- Before attempting, you may want to make a hard save for safety; you can softlock here.
-- This trick is a save buffer, but the timing is quite precise
-¤ Open Bridge Door and QS twice
-- Load immediately
-- If the trick works, the bridge door will be open, the fight will not start, and Bastila and Carth will be in your party.
-- If Bastila and Carth are not in your party, you've softlocked.
-- If your last QS was too late, your game will crash when you load.
-Once successful, hack bridge terminal: 1,2
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) to the exit
-- Bastila and Carth may be dead; if they’re still on the farther half of the room that’s fine
-- If they died closer to the bridge, you’ll have ot kill the five soldiers
-} Medpac everyone as need in the Command Deck
-Kill the Sith Soldier nearby to the left
-QS/QL to get party to follow
-Take left path and loop around outside back to elevator
-- If you are quick, it's possible to skip killing the two guards right outside the elevator
-- If either Carth or Bastila aggros on them, you'll likely have to kill them
-- Or you can use Solo Mode and [Save Teleports](https://www.speedrun.com/kotor1/guide/5dagb) to try to get everyone into the elevator
-Take the elevator to the Hangar: 3
+- As Bastila and Carth, [Save Teleport](<../Techniques/Save Teleporting>) through the door on the right and stand in the near corners
+  - This attempts to de-aggro them from the Sith Soldiers and place them near the exit
+- Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) up the ramp to the bridge door
+- Saul Karath Skip:
+  - Before attempting, you may want to make a hard save for safety; you can softlock here.
+  - This trick is a save buffer, but the timing is quite precise
+  - Open Bridge Door and spam QS twice, then load immediately
+  - If the trick works, the bridge door will be open, the fight will not start, and Bastila and Carth will be in your party
+  - If Bastila and Carth are not in your party, you've softlocked
+  - If your last QS was too late, your game will crash when you load
+  - You can also choose to disable V-Sync for this buffer; this makes it easier to load the final QS
+- Once successful, hack bridge terminal: 1,2
+- [Save Teleport](<../Techniques/Save Teleporting>) to the exit and enter the Command Deck
+  - Bastila and Carth may be in combat or even dead, but they should still be close enough to the door to exit
+  - If one of them died too far from the exit, you’ll have to kill the five soldiers
+- *Heal: Medpac party as needed*
+- *Force: Cast Knight Speed with MC*
+- Kill the Sith Soldier nearby to the left
+  - He will almost always aggro Carth/Bastila, so it's best to just eliminate him
+- Swap to a party member and QS/QL to fix following AI
+- Take left path and loop around outside back to elevator
+  - If you are quick, it's possible to skip killing the two guards right outside the elevator
+  - If any party member aggros on them, you'll likely have to kill them
+  - Or you can use Solo Mode and [Save Teleports](<../Techniques/Save Teleporting>) to try to get everyone into the elevator
+- Take the elevator to the Hangar: 3
 
-**Hangar:**
-Activate Solo Mode
-Move straight through to the Darth Malak CS
-} Cast Knight Speed, Force Valor, and use Hyper Stim Suite before CS
-Darth Malak accosts you
-Plot twist!
-Darth Malak accosts you again: 1,1,1,1,2,1,4,1
-Darth Malak fight, part one
-After being Whirlwinded:
-- Recast Knight Speed and Force Valor
-Darth Malak fight, part two
-Bastila sacrifices herself, sort of
-- Finishes “Captured by the Leviathan”
-Leave with Carth through blast doors on left
-Fighter Skirmish
-Talk to the party on the ship
-- Starts and Finishes “HK-47”
-Sleeping CS
-
-[section=Korriban]
-
-**Dreshdae:**
-Canderous #1 and #2: 1x6,3,1x5,3
-Leave the Ebon Hawk with Canderous and Juhani
-Ziagrom accosts you
-- Starts “Premium Merchant”
-Run backwards slightly, Xor accosts Juhani
-- Starts “Threat from Xor”
-Cast Knight Valor
-Safety QS
-Walk back to the Hawk and Jagi accosts Canderous
-Immediately when the conversation ends, talk to Jagi again
-- Can be helpful to Pause and talk to him again, very small window
-- Jagi: 1,2,1,1,2,1,1
--- You have to finish this conversation before Jagi walks out of range or the conversation will end early and the quest won't complete
--- Finishes “Jagi’s Challenge”
--- If you fail to talk to him, QL and try again. The only way to finish the quest without this trick is to visit Tatooine again.
-Canderous #3 and #4: nothing | 1x4,2
-} Remove Canderous from the party, add Carth
-Port Authority accosts you: 1,1,3,2
-Talk to Shaardan
-¤ [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) Lashowe accosting you
-Visit the Czerka Store
----------------------------------------------------------
-*SHOPPING: Czerka Store*
-**BUY:**
-- 5x Echani Battle Stimulant
-- 5x each Hyper Adrenal (not Battle Stim)
-- Can also buy 20x Advanced Medpacs and/or 10x LSP if you think you need them
----------------------------------------------------------
-Talk to Lurze Kesh: 1,1,1,3,2
-- Starts and Finishes "Unfinished Business"
-Exit towards Sith Academy
-Activate Solo Mode to leave party
-With Carth/Juhani, open door to Dreshdae
-Talk to Sith Soldier: 2
-- Starts "Entering the Sith Academy"
-Reenter Dreshdae
-Talk to Mika Dorin
-- You don't have to buy anything
-- Finishes "Premium Merchant"
-Cast Knight Valor
-Talk to Yuthura Ban: 3,5,2,3,1,1
-- Finishes "Entering the Sith Academy"
-
-**Sith Academy:**
-¤ [Force Skip](https://www.speedrun.com/kotor1/guide/8fp02) to delay Uthar conversation
-Talk to Lashowe: 1x8, 4
-Speak with Uthar Wynn and students
-Speak to Yuthura: 1,1,1,1,5,2,7,6
-Activate Solo Mode
-Leave Juhani with Yuthura
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) Carth to central chamber next to Uthar
-With MC, talk to Kel Algwinn: 1x6,2,1
-> Level to 13: Persuade to 16, Energy Resistance
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) MC to Interrogation Room
-Interrogator accosts you: 1,2
-- Starts “The Mandalorian Weapons Cache”
-Interact with Console: 5,1,4,5,4,1,1
-Interrogator accosts you again: 3
-- Finishes “The Mandalorian Weapons Cache”
-Swap to Carth and talk to Uthar: 3,1,3,3,2,3,4,4,X,4
-- The X is a variable answer based on one of three questions he asks after the Sith Code
-- Use the following answers:
--- It is our passion that fuels the Force: 1. True
--- There is nothing worse than love: 2. False
--- Victory by any means is desirable: 2. False
-- Finishes “The Code of the Sith”
-- Starts “The Double-Double Cross”
-Swap to Juhani, talk to Yuthura: 1,1,2,2
-Swap to MC and go to Uthar’s Room
-Loot the Footlocker in front of the door
-Interact with the bed: mash
-- Finishes “The Double-Cross”
-With MC, go to Dustil: mash
-- Finishes “Finding Dustil”
-Move each character individually to the Valley of the Dark Lords entrance
-Talk to Adrenas: 2,1
-- Finishes “The Double-Double Cross”
-Exit to Valley of the Dark Lords
-
-**Valley of the Dark Lords:**
-} Remove Carth and Juhani from the Party
-Go to Shyrack Caves
-Take first two right turns
-Sith students accost you: 4
-} Hyper Stim Suite , Knight Valor
-Kill all three Sith students
-- Starts “Renegade Sith”
-Leave Shyrack Caves
-Enter Tomb of Ajunta Pall (first tomb on right)
-Go forward, bashing down doors
-Give Frag Grenade to Obelisk
-Go forward to the final room
-Loot the sarcophagus
-Ajunta Pall accosts you: 1,1,1,4,1 mash
-Place notched sword in the statue: 1
-Talk to Ajunta Pall: 2
-- Starts and Finishes “The Sword of Ajunta Pall”
-As you leave the tomb, Shaardan accosts you: 1,1,3
-- This can be [Soft Buffered](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) but will be difficult with the size of your saves
-Go across the Valley to the Tomb of Marka Ragnos
-Enter the Tomb of Marka Ragnos
-Force Jump/Flurry to eliminate all the droids
-} Equip GenoHaradan Stealth Unit, unequip Lightsaber
-Open last door to repair droid: 2,2,2,3,4,2,6,6,5,1,3,2,2
-- Starts and Finishes “Rogue Droid”
-} Equip CNS Strength Enhancer and Double-Bladed Lightsaber
-Go back down the hall and enter the Valley
-} Refresh Hyper Stim Suite if it has expired, cast Knight Valor
-Go to Lashowe, kill tukatas
-Talk to and kill Lashowe: 2,3
-Loot Lashowe for holocron
-Enter the Tomb of Tulak Hord
-> Level to 14: Persuade to 17, Weapon Specialization: Lightsaber, Improved Energy Resistance
-Go down the hall to the left, you may have to kill tukatas if they block you
-¤ [Save Teleporting](https://www.speedrun.com/kotor1/guide/5dagb) in this hallway can skip some tukata spawns
-Interact with the extremely slow console, enter hallway
-Jorak Uln: 1,1,5,6,4,3,2,1
-- Starts “The Hermit in the Hills”
-Leave the tomb
-Go back to the Academy
-
-**Tomb of Naga Sadow:**
-Uthar: 3,1,6,6,2,2
-- Finishes “Aiding Lashowe”
-- Finishes “The Hermit in the Hills”
-- Finishes “Renegade Sith”
-Return to and talk to Uthar: 3
-Uthar in the tomb: 4
-Approach door using Default Action, let it open
-¤ [Save Teleport](https://www.speedrun.com/kotor1/guide/5dagb) forward to skip a Wraid spawn trigger
-Go down the right hall and open the door
-¤ Force Buffer a cutscene that closes the door behind you
-- If the door closes, interact with the Lever near the far terentatek
-Loot the Cold Grenade from the far obelisk
-Loot the Skeletal Human Remains for Solari Crystal
-Go back to the intersection and turn right
-Open the door, use Cold Grenade to freeze acid pool
-Star Map: Korriban
-- Finishes “Star Map: Korriban”
-Loot Sith Statue for Sith Lightsaber
-Make sure Knight Speed and Valor are active before talking to Uthar
-Talk to and kill Uthar: 5,1
-Yuthura accosts you
-Defeat Yuthura and spare her: 3,2
-- Finishes “The Way of the Sith”
-
-**Leaving Korriban:**
-Go back to the Academy
-Once inside, turn around and leave
-Add Juhani to the party, Return to Ebon Hawk
-Kill Xor and his cronies
-- Finishes “Threat from Xor”
-Board Ebon Hawk
-Travel to Lehon, [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685) puts you back on Korriban
-Travel to Lehon
-Possible Fighter Skirmish
-
-[section=Lehon]
-
-*You can take Level 15 as soon as you get it. Getting Level 16 is unlikely unless you've killed a lot of extra enemies.*
-> Level to 15: Persuade to 18, Master Speed
-> Level to 16: Persuade to 19, Master Valor
-
-**Warrior Rakata:**
-Exit Ebon Hawk, leave Party empty
-Go to Temple Exterior
-Go to obelisk
-Mandalorians ambush you
-Kill the Mandalorian Captain and loot his head
-Go to South Beach, Return to Ebon Hawk
-Go to North Beach
-Rakatan Warriors accost you
-Talk to the One
-Leave the compound
-¤ [Force Skip](https://www.speedrun.com/kotor1/guide/8fp02) a brief cutscene as you exit
-Talk to Warleader Garn: 1,1,3
-- Finishes “Invisible Mandalorians”
-Return to and betray the One: 3
-Go to the Elder Warrior and talk to him
-¤ If you are in combat he won’t talk to you, so use [Combat Talking](https://www.speedrun.com/kotor1/guide/upcnj)
-Loot the Ship Parts
-Leave the compound and go towards Central Beach
-Once you reach Central Beach, Transit Back
-
-**Ancient Temple:**
-Go towards the Elder Compound
-¤ Force Buffer the Gizka cutscene if you can
-Enter Elder Compound, speak to Elders
-Run left and take the first right, speak to Researcher Ll’awa: 1x11,3
-- Starts “Rakatan Research”
-Go to Temple Exterior
-Go to the fire to start the ritual
-Jolee and Juhani accost you
-¤ As the CS finishes and you run towards the Temple, spam Quicksave and close the game from the Task Manager after that’s done
-Reload the Quicksave
-} Remove Jolee from the party, add Canderous
-Enter the Temple
-Activate Solo Mode
-With MC, go to the temple basement in the back
-Enter the Basement
-Kill both droids in the basement
-Solve the floor puzzle with the following path (an H shape, starting from the reset tile)
-https://i.imgur.com/CF497Fm.png
-Speak to basement computer: 1,1,1,2,1,2
-Return to main floor
-Activate Solo Mode
-Run up the ramp and out of the room
-Swap to other party member
-¤ Buffer [GP Warp](https://www.speedrun.com/kotor1/guide/77xef) to warp MC and enter Temple Summit
-- Alternately, go back to the entrance and enter the Massive Door, enter Temple Summit
-Speak to and defeat Darth Waifu
-Choose to remain true to the light
-- This is required, as the Dark Side ending does not complete “Juhani”
-- It’s also faster, since we don’t have to bring Bastila to the Star Forge
-- Finishes “Trapped on a Nameless World” and “Juhani”
-Hack the computer terminal to lower disruptor field
-- Finishes “A Quest for the Star Forge”
-
-**Leaving Lehon:**
-Leave the Temple
-Go back to Elder Compound
-- Juhani and Canderous can get stuck fighting the rancors, you may have to kill them
-Enter Elder Compound
-Activate Solo Mode
-With MC go to Researcher Ll’awa: 3
-- Finishes “Rakatan Research”
-Run into corner, swap characters and leave
-Go back to Central Beach
-¤ As soon as you reach the Central Beach:
+### Hangar
 - Activate Solo Mode
-- Switch to Canderous and board the Ebon Hawk
-- Canderous teleports to be there for the CS outside the Ebon Hawk, but stays in your party
-- If it says you're in combat, move Juhani and MC as far away from the Rakatan Warriors as possible and try again
-*Note: The game does another memory dump here. As was the case after Taris, your [Save Teleports](https://www.speedrun.com/kotor1/guide/5dagb) are greatly weakened. It's fastest to use Force Speed for movement from here on out.*
-} Workbench: Replace Sigil Crystal with Solari Crystal
-Repair hyperdrive on the Ebon Hawk
-Fly to the Star Forge
+- [Save Teleport](<../Techniques/Save Teleporting>) to skip a Canderous CS outside the elevator
+- At the door at the top of the ramp, *Stims/Force: Hyper Stim Suite on MC, Cast Knight Speed*
+  - Make sure Knight Valor is the active power in your buff menu
+- [Save Teleport](<../Techniques/Save Teleporting>) through the next room and down the ramp
+- Darth Malak accosts you
+- After this convo but before the next CS loads, *Force: Cast Knight Valor*
+- Spoilers CS... plot twist!
+- Darth Malak accosts you again: 1,1,1,1,2,1,4,1
+- Darth Malak fight, part one
+- *Stims/Force: Hyper Strength, Stamina, Battle Stim on MC, Recast Knight Speed and Knight Valor*
+- Darth Malak fight, part two
+- Bastila sacrifices herself, sort of
+  - ***Finishes “Captured by the Leviathan”***
+- Leave with Carth through blast doors on left
+- Shoot down the forced Fighter Skirmish
+- Talk to the party on the ship
+  - ***Starts and Finishes “HK-47”***
+- Vision CS
 
-[section=Star Forge]
+## Korriban
 
-**Deck One:**
-Watch the dramatic cutscene
-Cast Master Speed
-TALK TO CANDEROUS
-- Completes “Canderous”
-Optional Journal check: only active quest should be “Bastila”
-Exit the Ebon Hawk
-¤ [Force Skip](https://www.speedrun.com/kotor1/guide/8fp02) Jedi vs. Sith CS
-¤ [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) to skip Assault Droid CS and spawn
-Go right, then left
-- To get past the two frozen assault droids, click on the distant door and watch the wonders of KotOR pathing
-- While waiting for the first hostile pair of droids, use a Hyper Alacrity to preserve the effects of Speed
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) past Jedi vs. Sith CS
-Recast Knight Speed
-Cast Knight Valor as you enter Deck 2
+*Note: From here through Lehon, your [Save Teleports](<../Techniques/Save Teleporting>) may be too large and unwieldy to use effectively.  Casting Knight Speed will make it easier to control them but reduce the distance they cover, so use Speed sparingly and only in tight quarters.*
 
-**Deck Two:**
-¤ [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) past fight trigger
-Take left path, then right, then turn left
-Hack computer terminal: 1,1,5
-Return and take elevator to Command Deck
+### Dreshdae
+- Jolee #1-#3: 1spam ... 1spam ... 1,1,3
+  - QS/QL between each conversation
+  - ***Finishes "Jolee Bindo"***
+- Canderous #1 and #2: 1x6,3,1x5,3
+- Leave the Ebon Hawk
+  - *Party: Add Canderous and Juhani when prompted*
+- Ziagrom accosts you
+  - ***Starts “Premium Merchant”***
+- Run backwards slightly, then forwards
+- Xor accosts Juhani
+  - ***Starts “Threat from Xor”***
+- Glitched Jagi's Challenge:
+  - *Force: Cast Knight Valor* 
+  - QS for safety
+  - Run backwards slightly, then forwards
+  - Jagi accosts Canderous
+    - ***Starts "Jagi's Challenge"***
+  - Immediately when the conversation ends, talk to Jagi again
+    - This window to start the second conversation is very small; the best way is to pause and then talk to Jagi and unpause
+    - The best way to do this is to get to Jagi's last line of dialog, then click and IMMEDIATELY pause the game
+    - The convo is three 1s, then click five times to get to the last line: *"I shall be waiting for you there, Canderous."*
+  - Jagi's 2nd convo: 2,2,2,2,2,2,2
+    - You have to finish this conversation before Jagi walks out of range or the conversation will end early and the quest won't complete
+    - ***Finishes “Jagi’s Challenge”***
+  - If you fail to talk to him, QL and try again. The only way to finish the quest without this trick is to visit Tatooine again.
+- Canderous #3 and #4: nothing ... 1x4,2
+- *Party: Remove Canderous, Add Carth*
+- Port Authority accosts you: 1,1,3,2
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the Shaardan CS
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the Lashowe CS
+- Visit the Czerka Store
 
-**Command Center:**
-¤ Immediately after loading, [Hard Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch3Hard_Buffers) to skip Bastila/Malak CS
-Run/Force Jump until double doors
-} Use rest of Hyper Stim Suite and Speed/Valor if needed
-¤ [Open Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch5Open_Buffers) into the triple Dark Jedi fight
-- DO NOT [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers); you'll softlock if you do
-- This [Open Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch5Open_Buffers) messes with the Dark Jedi AI so they won't attack you unless you attack them first
-Defeat three Dark Jedi to unseal the door
-Darth Waifu fight
-- First conversation: 2
-- First phase (use Flurry for all phases; try to make sure Speed stays active)
-- Second conversation: spam
-- Spam default action as you start the second phase to skip it
-- If you fail to skip it, just attack Bastila
-- Third conversation: spam (if you got the phase skip, this convo is also skipped)
-- Do NOT spam default action here; if you talk to Bastila again, it's a softlock
-- Defeat her last phase
-- Last conversation: spam
-¤ Before the cutscene on the Harbinger, activate a [Map CS Skip](https://www.speedrun.com/kotor1/guide/rb685):
-- Add two party members (one should be Jolee or Juhani, for Disable Droid)
-- Close the menu and watch the cutscene
-> Auto-Level your party members
-¤ [Soft Buffer](https://www.speedrun.com/kotor1/guide/t5kyf#ch4Soft_Buffers) to skip the Darth Malak conversation
+```
+SHOPPING: Czerka Store
+- BUY:
+  - 5x Echani Battle Stimulant
+  - 5x Hyper Adrenal Alacrity
+  - 5x Hyper Adrenal Strength
+  - 5x Hyper Adrenal Stamina
+  - Optional: Buy extra Life Support Packs if you're low on medpacs, though you shouldn't need them
+```
+
+- Talk to Lurze Kesh: 1,1,1,3,2
+  - ***Starts and Finishes "Unfinished Business"***
+- Exit towards Sith Academy
+- Activate Solo Mode
+- Swap to Carth/Juhani and open the door back to Dreshdae
+- Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) to talk to Sith Soldier at academy door: 2
+  - ***Starts "Entering the Sith Academy"***
+- [Save Teleport](<../Techniques/Save Teleporting>) back towards Dreshdae
+- Swap to Carth/Juhani to reenter Dreshdae
+- Talk to Mika Dorin
+  - You don't have to buy anything
+  - ***Finishes "Premium Merchant"***
+- Talk to Yuthura Ban: 3,5,2,3,1,1
+  - ***Finishes "Entering the Sith Academy"***
+
+### Sith Academy
+- [Force Skip](<../Techniques/Force Skips>) to delay Uthar conversation
+- Talk to Lashowe: 1x8, 4
+- Run back to the center to trigger Uthar Wynn greeting the students
+- Speak to Yuthura: 1,1,1,1,5,2,7,6
+- Activate Solo Mode
+- Leave Carth with Yuthura
+- Swap to Juhani and [Save Teleport](<../Techniques/Save Teleporting>) near Dustil Onasi
+- Swap to MC and talk to Kel Algwinn: 1x6,2,1
+  - ***Finishes "A Doubting Sith"***
+- [Save Teleport](<../Techniques/Save Teleporting>) MC to talk to Uthar: 3,1,3,3,2,3,4,4,X,4
+  - The X is a variable answer based on one of three questions he asks after the Sith Code
+  - Use the following answers:
+    - It is our passion that fuels the Force: 1. True
+    - There is nothing worse than love: 2. False
+    - Victory by any means is desirable: 2. False
+  - ***Finishes “The Code of the Sith”***
+  - ***Starts “The Double-Double Cross”***
+- [Save Teleport](<../Techniques/Save Teleporting>) MC up the ramp and click on the Interrogation Room door
+- Swap to Carth and talk to Yuthura: 1,1,1,1
+  - Finishes ***“The Double-Double Cross”***
+- Swap to MC and enter Uthar's room
+- Loot the footlocker for evidence and a Frag Grenade
+- Place the device under the bed
+  - ***Finishes “The Double-Cross”***
+- Swap to Juhani and talk to Dustil
+  - ***Finishes “Finding Dustil”***
+- Swap to Carth and Deactivate Solo Mode
+- As Carth, run towards cage until interrogator accosts you: 1,2
+  - This warps your party to you
+  - ***Starts “The Mandalorian Weapons Cache”***
+- Swap to MC and use the console: 5,1,4,1
+  - ***Finishes “The Mandalorian Weapons Cache”*** 
+- [Save Teleport](<../Techniques/Save Teleporting>) to the Valley of the Dark Lords entrance
+  - Make sure Carth and Juhani follow you
+  - If one of them isn't moving, they're likely glitched out; [Save Teleport](<../Techniques/Save Teleporting>) as that character instead.
+- Exit to Valley of the Dark Lords
+
+### Valley of the Dark Lords
+- *Party: Remove Carth and Juhani*
+- [Save Teleport](<../Techniques/Save Teleporting>) to the Tomb of Ajunta Pall
+- Inside, *Force: Cast Knight Speed*
+  - We need to break down some doors
+- Give the Frag Grenade to the obelisk
+  - [Force Skip](<../Techniques/Force Skips>) the CS after the obelisk explodes
+- Loot the sarcophagus
+- Ajunta Pall accosts you: 1,1,1,4,1spam
+- Place notched sword in the statue: 1
+- Ajunta Pall accosts you as you leave: 3
+  - ***Starts and Finishes “The Sword of Ajunta Pall”***
+- [Save Teleport](<../Techniques/Save Teleporting>) back toward the entrance until Shaardan accosts you: 1,1,3
+  - This can be [Soft Buffered](<../Techniques/Save Buffering#soft-buffers>), but it is difficult with the size of your saves
+- Exit to Valley of the Dark Lords and enter the Tomb of Tulak Hord
+- [Save Teleport](<../Techniques/Save Teleporting>) to the slowest console in history: 1
+  - You may have to kill some tukatas, as they are very good at blocking the hallway
+  - It is possible but quite difficult to [skip the tukata spawns](<../Miscellaneous/Enemy Spawn Triggers#korriban>) with [Save Teleports](<../Techniques/Save Teleporting>)
+- Go through the next door to get caught by Jorak Uln: 1,1,5,6,4,3,2,1
+  - ***Starts “The Hermit in the Hills”***
+- [Save Teleport](<../Techniques/Save Teleporting>) back to the exit
+  - *Force: Cast Knight Speed and Knight Valor as you leave*
+- *Stims: Hyper-Stim Suite on MC*
+- Run towards Lashowe until she accosts you
+- Kill tukatas and Lashowe
+  - Lashowe's interruption: 2,3
+- Loot Lashowe for holocron
+- `Level to 13: Persuade to 16, Energy Resistance`  
+- Enter the Tomb of Marka Ragnos
+- Force Jump/Flurry to eliminate all the droids
+  - Try to Force Jump to Mark III droids, as you're more likely to one-shot them
+- Open the door at the top and destroy the rogue assassin droid
+  - ***Starts "Rogue Droid"***
+- [Save Teleport](<../Techniques/Save Teleporting>) back to the exit
+- [Save Teleport](<../Techniques/Save Teleporting>) to enter Shyrack Caves
+- [Save Teleport](<../Techniques/Save Teleporting>) to the back of the cave
+- Kill the terentatek
+  - You can bump the terentatek to try to prevent it from knocking you back
+- [Save Teleport](<../Techniques/Save Teleporting>) back across the bridge and take the left path to the Sith Students
+- Thalia May accosts you: 1,3,1,3
+  - ***Starts and Finishes "Renegade Sith"***
+- [Save Teleport](<../Techniques/Save Teleporting>) back to the exit and enter the academy
+
+### Tomb of Naga Sadow
+- Talk to Uthar: 5,6,5,2,2
+  - ***Finishes “Aiding Lashowe”***
+  - ***Finishes “The Hermit in the Hills”***
+  - ***Finishes “Rogue Droid”***
+- Return to and talk to Uthar: 3
+- Uthar in the tomb: 4
+- Approach door using Default Action and let it open fully while running backwards
+- [Save Teleport](<../Techniques/Save Teleporting>) forward to skip a Wraid spawn trigger
+  - This keeps the hallways clear, but isn't essential
+- Go down the right hall and open the door
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) a cutscene that closes the door behind you
+  - If the door closes, pull the lever near the far terentatek
+- Loot the Cold Grenade from the far obelisk
+- Loot the Skeletal Human Remains for Solari Crystal
+- Go back to the intersection and turn right
+- Open the door and use Cold Grenade to freeze the acid pool
+- Star Map: Korriban
+  - ***Finishes “Star Map: Korriban”***
+- Loot Sith Statue for Sith Lightsaber
+- *Force: Cast Knight Speed and Knight Valor if necessary*
+- Talk to and kill Uthar: 5,1
+- Yuthura accosts you; defeat and spare her: 1 ... fight ... 3,2
+  - Sparing Yuthura prevents the Academy from going hostile
+  - ***Finishes “The Way of the Sith”***
+- [Save Teleport](<../Techniques/Save Teleporting>) back to the Academy
+- Once inside, turn around and exit back to the valley
+- *Party: Add Juhani*
+- *Force/Stims: Hyper Stim Suite on MC, Cast Knight Speed*
+- Return to Ebon Hawk and kill Xor and his cronies
+  - Make sure you don't kill Xor last, as that can softlock the quest
+  - ***Finishes “Threat from Xor”***
+- `Level to 14: Persuade to 17, Weapon Specialization: Lightsaber, Improved Energy Resistance`
+- Board Ebon Hawk
+- Fly to Lehon and use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
+- Reboard the Ebon Hawk and fly to Lehon again
+    - Possible Fighter Skirmish
+
+## Lehon
+
+### Warrior Rakata
+- Exit Ebon Hawk
+  - *Party: Leave empty when prompted*
+- [Save Teleport](<../Techniques/Save Teleporting>) to Temple Exterior
+- *Stims/Force: Hyper Stim Suite on MC, Cast Knight Speed and Knight Valor*
+- Approach the obelisk to the right of the temple until Mandalorians ambush you
+- Kill the Mandalorian Captain and loot his head
+- [Save Teleport](<../Techniques/Save Teleporting>) to South Beach
+- Return to Ebon Hawk
+- [Save Teleport](<../Techniques/Save Teleporting>) to North Beach
+- Rakatan Warriors accost you
+- Talk to the One
+  - ***Begins "Trapped on a Nameless World***
+- Leave the compound
+- [Force Skip](<../Techniques/Force Skips>) a brief cutscene after the load
+- Talk to Warleader Garn: 1,1,3
+  - ***Finishes “Invisible Mandalorians”***
+- Return to and betray the One: 3
+- [Save Teleport](<../Techniques/Save Teleporting>) to the Elder Warrior and talk to him
+  - If you are in combat he won’t talk to you, so use [Combat Talking](<../Techniques/Combat Talking>) if needed
+- Loot the Ship Parts in the opposite cell
+- [Save Teleport](<../Techniques/Save Teleporting>) to leave the compound and enter Central Beach
+- Transit Back
+
+### Ancient Temple
+- [Save Teleport](<../Techniques/Save Teleporting>) towards the Elder Compound
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) the Gizka cutscene if you can
+  - This is extremely difficult with saves this long.  Consider disabling V-Sync temporarily.
+- Rakatan Hologram accosts you outside the compound
+- *Party: Add T3*
+- Enter the compound and the elders accost you
+- Activate Solo Mode
+- Swap to T3 and open the exit door
+- Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) to the left, then through the first archway on the right
+- Talk to Researcher Ll’awa: 1x11,3
+  - ***Starts “Rakatan Research”***
+- Run into the corner closest to the door, then swap to T3 and leave the compound
+- *Party: Remove T3*
+- [Save Teleport](<../Techniques/Save Teleporting>) back to Temple Exterior
+- Approach the Rakata to begin the entrance ritual and be joined by Juhani and Jolee
+- As the CS finishes and you run towards the Temple, QS in the window between this CS ending and the load screen
+  - It's easiest to just spam QS
+  - If you can Alt+F4 on the load screen, you can quit that way
+  - Otherwise, close the game from the Task Manager
+- Load the QS
+- *Party: Remove Jolee, Add Canderous*
+- Enter the Temple
+- Activate Solo Mode
+- As MC, [Save Teleport](<../Techniques/Save Teleporting>) to the temple basement in the back
+- Enter the catacombs
+  - *Force: Cast Knight Speed and Knight Valor as you enter*
+- Kill both droids in the basement
+- Solve the floor puzzle with [an H shape](https://i.imgur.com/CF497Fm.png)
+- Talk to basement computer: 1,1,1,2,1,2
+- [Save Teleport](<../Techniques/Save Teleporting>) to return to the main floor
+- Activate Solo Mode
+- As MC, [Save Teleport](<../Techniques/Save Teleporting>) up the ramp and out of the room with the droids
+- Swap party members twice
+- [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC to Temple Summit
+  - This warp is much easier if you disable V-Sync first
+  - Alternately, [Save Teleport](<../Techniques/Save Teleporting>) back to the entrance and open the Massive Door
+- Enter Temple Summit
+  - *Force: Cast Force Resistance before entering*
+- Talk to and defeat Darth Waifu
+- Choose to remain true to the light
+  - This is required, as the Dark Side ending does not complete the “Juhani” quest
+  - It’s also faster, since we don’t have to bring Bastila to the Star Forge
+  - ***Finishes “Trapped on a Nameless World”***
+  - ***Finishes “Juhani”***
+- Use the computer terminal to lower disruptor field
+  - ***Finishes “A Quest for the Star Forge”***
+
+### Leaving Lehon
+- [Save Teleport](<../Techniques/Save Teleporting>) to leave the temple and return to South Beach
+  - You may want to use Knight Speed to make your [Save Teleports](<../Techniques/Save Teleporting>) more manageable
+- [Save Teleport](<../Techniques/Save Teleporting>) to Elder Compound
+  - Try to avoid the rancors, or Juhani and Canderous can get stuck fighting them
+  - If they get stuck, either kill the rancors or use Solo Mode to move each party member individually
+- Enter Elder Compound
+- Activate Solo Mode
+- As MC, talk to Researcher Ll’awa: 3
+  - ***Finishes “Rakatan Research”***
+- Run into the corner of the room nearest the door, swap characters and leave
+- [Save Teleport](<../Techniques/Save Teleporting>) back through Temple Exterior to Central Beach
+- As soon as you reach Central Beach, swap to Canderous and board the Ebon Hawk
+  - Canderous teleports to be there for the CS outside the Ebon Hawk, but stays in your party
+
+*Note: The game deletes a ton of midgame data here, so your [Save Teleports](<../Techniques/Save Teleporting>) are now ineffective. It's fastest to use Force Speed and Force Jump for movement from here on out.*
+
+- **Workbench: Double-bladed Lightsaber - Replace Sigil with Solari**
+- Repair hyperdrive on the Ebon Hawk
+- `Level to 15: Persuade to 18, Master Speed`
+- Talk to Canderous: 1,1,1,1,3
+  - Don't forget this or you can't complete his quest!
+- Fly to the Star Forge
+
+## The Star Forge
+
+### Deck One
+- Watch the dramatic cutscene
+- *Force: Cast Master Speed*
+- TALK TO CANDEROUS
+  - ***Completes “Canderous”***
+- ***Optional Journal Check: The only active quest should be “Bastila”***
+- Exit the Ebon Hawk
+- [Force Skip](<../Techniques/Force Skips>) Jedi vs. Sith CS
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) at the second ramp to skip Assault Droid CS and spawn
+- Go right, then left
+  - To get past the two frozen assault droids, click on the distant door and watch the wonders of KotOR pathing
+  - *Stims: Hyper Alacrity on MC while waiting for the first hostile pair of droids*
+- Run/Force Jump past two more sets of hostile droids
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Jedi vs. Sith CS on ramp down
+- *Force: Recast Master Speed*
+- Take the right path to open the door to Deck 2
+- *Stims/Force: Hyper Strength, Stamina, and Echani Battle Stim on MC, Cast Knight Valor*
+- Enter Deck 2
+
+### Confronting Bastila
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past fight trigger
+- ***Optional Indy Skip: [Save Teleport](<../Techniques/Save Teleporting>) over the enemy spawn trigger***
+- *Force: Cast Force Resistance*
+  - This protects against stray Force Powers from Dark Jedi
+- At the first junction go right, then turn left and enter door on left
+- Hack computer terminal: 1,1,5
+- Return and take elevator to Command Deck
+  - Keep an eye out for helpful Force Jumps here
+- Immediately after loading, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Bastila/Malak CS
+- Run/Force Jump until double doors
+- *Force: Ensure Master Speed and Knight Valor are active*
+- [Open Buffer](<../Techniques/Save Buffering#open-buffers>) into the triple Dark Jedi fight
+  - DO NOT [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>); you'll softlock if you do
+  - This [Open Buffer](<../Techniques/Save Buffering#open-buffers>) messes with the Dark Jedi AI so they won't attack you unless you attack them first
+- Defeat the three Dark Jedi to unseal the door
+- Darth Waifu fight
+  - First conversation: 2
+  - First phase (use Flurry for all phases; try to make sure Speed stays active)
+  - Second conversation: spam
+    - Spam default action as you start the second phase to skip it
+    - If you fail to skip it, just attack Bastila
+  - Third conversation: spam
+    - If you got the phase skip, this convo is immediately after the second
+    - Do NOT spam default action here; if you talk to Bastila again, it's a softlock
+  - Defeat her last phase
+  - Last conversation: spam
+- After the load, activate a [Map CS Skip](<../Techniques/Map Cutscene Skips>):
+  - *Party: Add Jolee and Juhani*
+  - Close the menu and watch the cutscene
+- Go through one door
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) approaching the next door to skip the Darth Malak conversation
 - To get to the elevator, run towards the corner near the left Jedi and rapidly switch party leaders
-- One of your characters will end up next to the elevator door; take it to the Viewing Platform
+- One of your characters will pop through to the elevator door; take it to the Viewing Platform
 
-**Viewing Platform:**
-Darth Malak fight:
-} Hyper Stim Suite, Force Valor, Master Speed
+### Viewing Platform
+- Darth Malak fight:
+- *Stims/Force: Make sure all buffs are active: Hyper Stim Suite, Knight Valor, Master Speed*
 - Hit him until he triggers the Dead Jedi CS
 - Use Drain Life/Disable Droid with MC/Jolee/Juhani to release the remaining seven Dead Jedi
-- You can split the Jedi between MC and the others to save a little movement
-- Kill Malak once and for all
-
-[section=Complete Quest List]
+  - You can split the Jedi between MC and the others to save a little movement
+  - If Malak used Force Breach, recast Master Speed once the Jedi are released
+- Kill Malak once and for all!
+ 
+## Complete Quest List
 This is a list of all the quests in the game, as well as the alignment we complete them with, if applicable.
 
 **Endar Spire:**
 - Attack on the Endar Spire
+
 **Taris:**
 - Rapid Transit System
 - Largo's Bounty - Dark
@@ -1841,6 +2161,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Dia's Bounty - Dark
 - Escaping Taris
 - Taris: Planetary Information
+
 **Dantooine:**
 - Jedi Trials
 - The Jedi Council
@@ -1851,6 +2172,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Missing Companion
 - Investigate Ruins
 - GenoHaradan: Zuulan - Dark
+
 **Korriban:**
 - Premium Merchant
 - Enter the Sith Academy - Dark
@@ -1859,13 +2181,14 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - The Double-Cross
 - A Doubting Sith - Light
 - The Double-Double-Cross
-- Renegade Sith
+- Renegade Sith - Light
 - The Sword of Ajunta Pall
-- Rogue Droid - Light
+- Rogue Droid
 - Aiding Lashowe
 - Hermit in the Hills - Dark
 - Star Map: Korriban
 - The Way of the Sith - Light
+
 **Manaan:**
 - Republic Embassy
 - GenoHaradan: Lorgal - Dark
@@ -1881,6 +2204,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Firith Me the Pazaak Player
 - Gluupor the Rodian
 - Ignus the Hotel Owner
+
 **Kashyyyk:**
 - Honest Debt - Light
 - Tach Poaching
@@ -1890,12 +2214,13 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Chieftain in Need - Dark
 - A Wookiee Lost
 - GenoHaradan: Rulan - Dark
+
 **Tatooine:**
 - Tanis Trapped - Dark
 - Desert Ambush
 - A Desert Hunt - Dark
 - Star Map: Tatooine
-- Droid for Sale - Dark
+- Droid for Sale
 - GenoHaradan: Vorn - Dark
 - Worthy of History
 - Middleman - Dark
@@ -1903,15 +2228,17 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Tatooine Swoop Racing
 - Signing Nico
 - Fair Trade
+
 **Unknown World/Star Forge:**
 - Invisible Mandalorians
 - Trapped on a Nameless World - Light
 - Rakatan Research
 - The Final Confrontation
+
 **Party Quests:**
 - Jagi's Challenge
-- Carth - Light
-- Bastila - Light
+- Carth
+- Bastila
 - Mission's Brother
 - Bastila's Mother
 - HK-47
@@ -1920,6 +2247,7 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - Juhani
 - Finding Dustil - Light
 - Canderous
+
 **Intergalactic Quests:**
 - The Ebon Hawk
 - Pazaak Rules
@@ -1931,18 +2259,37 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - GenoHaradan
 - A Quest for the Star Forge
 
-[section=Version History]
+## Version History
+
+**v2.0 (September 2023)**
+- Uses Damage Stacking in the Duel Ring
+- New strats in Tatooine 1 and Dantooine 2
+- New strats in Manaan Sith Base
+- Save the students and destroy the droid on Korriban
+- Reordered Valley of the Dark Lords to group combat together and save stims
+- Moved Pazaak, HK-47, and Iziz to Tatooine 2
+- Added the silly Vorn skip
+- Streamlined credit route through Manaan 1
+- Tweaked character build to stay at 4 Com
+- Updated alignment route
+
+**v1.1 (August 2023)**
+- Reformat to migrate to GitHub
+- Minor corrections
 
 **v1.0 (August 2022)**
 - Finalized detailed route
 - Added instructions to replace Sigil Crystal with Solari Crystal after Lehon because that's important
 - Minor optimizations and corrections
+
 **v0.3 (August 2022)**
 - Modified methods of GenoHaradan assassinations to save about 40 seconds
--- Deleted Adum Larp shopping as a result
+- Deleted Adum Larp shopping as a result
+
 **v0.2 (August 2022)**
 - Minor data corrections
 - Added Markdown links for instances of glitches
+
 **v0.1 (August 2022)**
 - Uploaded initial guide with complete alignment route, credit route, detailed route; route includes:
   - Scout -> Jedi Guardian: Two-Weapon Fighting/Flurry character build

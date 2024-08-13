@@ -1,17 +1,4 @@
-<style>
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
-  height: 0;
-}
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
+
 
 # Map Cutscene Skips
 
@@ -54,5 +41,3 @@ You can also use a Map CS Skip to modify your party, which has one main use and 
 
 1. On the Star Forge, adding party members after defeating Bastila allows you to skip the Darth Malak cutscene when he sets the Star Forge droids on you and subsequently clip through to the elevator.  This is used in No Major Glitches speedruns.
 2. When traveling to Davik's Estate, removing Canderous from the party skips the introductory cutscenes with Davik and Calo, and prevents having to fight them as well.  However, in No Major Glitches runs this is slower than skipping the initial conversation with a [Hard Buffer](<Save Buffering#hard-buffers>), and Unrestricted runs want to use an [Anywhere Menu Glitch](<../Major Glitches/Anywhere Menu Glitch>) to skip Davik's Estate entirely instead.
-
-***Have a suggestion or correction? Contribute to this guide [here](https://github.com/kotor-speedruns/kotor-speedruns.github.io/blob/main/kotor1/Techniques/Map%20Cutscene%20Skips.md)!***
