@@ -65,7 +65,9 @@ Neo Hotshots, sometimes called HSS Hotshots, are always consistent and the faste
 9. On the Load Game menu use the arrow keys to again navigate to the Destination save.
 10. Press 'Enter', then up arrow, then 'Enter'.  This loads the Destination save and completes the Hotshot.
 
-*Video forthcoming*
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/Dy64HJV_PvM" frameborder="0"></iframe>
+</div>
 
 **Additional Notes:**
 
