@@ -127,7 +127,7 @@ Neo Hotshots, sometimes called HSS Hotshots, are always consistent and the faste
 5. After the load, the Load Game Menu should still be there.  Use this to load the Autosave.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/7O0BLWlJ1iQ" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/XQrJdm3TRt8" frameborder="0"></iframe>
 </div>
 
 **Special Properties:**
