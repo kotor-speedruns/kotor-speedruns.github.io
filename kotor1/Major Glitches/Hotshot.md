@@ -205,7 +205,7 @@ This was the original form of Hotshot, and is slower and more complicated than a
 - Repeat step 7 to try the Hotshot again.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/lrLvyqCaxF8" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/yN3UwzhEYnk" frameborder="0"></iframe>
 </div>
 
 **Additional Notes:**
