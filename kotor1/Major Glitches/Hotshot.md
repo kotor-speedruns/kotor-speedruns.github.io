@@ -266,7 +266,7 @@ There are three restrictions:
 9. After loading in, use the Load Game menu to load the Autosave.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/kkuWJArFXts" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/oeJRPTpj1e8" frameborder="0"></iframe>
 </div>
 
 Notice that steps 5-9 are a modified [Autosave Hotshot](#autosave-hotshots).  It uses fast transit to trigger an Autosave while the Load Menu is open, rather than moving through a load zone.
