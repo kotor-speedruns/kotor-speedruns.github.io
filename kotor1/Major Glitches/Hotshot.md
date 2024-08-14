@@ -284,9 +284,8 @@ Swoop Skips are a method for exiting swoop races early in [All Quests](<../Route
 5. Perform a [Neo Hotshot](#neo-hotshots) as usual, using the save you made in Step 1
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/krsRCyxffIk" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/BoAc16IY7Bs" frameborder="0"></iframe>
 </div>
-*Note this video shows the old method using Hard Save Hotshots.*
 
 Swoop Skips must use either [Neo Hotshots](#neo-hotshots) or [Hard Save Hotshots](#hard-save-hotshots), as attempting to load a save made in a swoop race module crashes the game.  Also note when skipping the Manaan swoop races, you will need to skip the cutscene after the race immediately after the Hotshot, whereas in Tatooine this cutscene does not start until you talk to Motta again.
 
