@@ -35,7 +35,7 @@ While single Save Teleports can be useful, chaining Save Teleports is most effec
 In addition to movement, Save Teleports can be used to skip over triggers completely.  By Save Teleporting at the correct time, the MC will never intersect the trigger at all.  
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/VzvMcFP9AS8" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/WHkzXFJ7zoY" frameborder="0"></iframe>
 </div>
 
 Unlike a [Save Buffer](<Save Buffering>), the trigger remains active, so if you are going to pass back over that area, you will need to Save Teleport past the trigger again.  
