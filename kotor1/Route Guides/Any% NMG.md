@@ -264,7 +264,7 @@ Here is the alignment route used in the run:
 
 *Snitching on Kel Algwinn is for some reason hardcoded to always give -5 alignment.*
 
-The only relevance of alignment in the run is equipping the Solari Crystal.  We must be at 60 alignment or higher (the boundary between Neutral and Light) in order to equip any Light Side restricted equipment.  The Solari crystal is Light Side restricted, as well as being extremely good.  While we used to try and equip the Solari Crystal after Korriban, the only fight that is adversely effected (on average) is the first phase of the Leviathan Malak fight, which goes from an 87% chance of a one-round to a 63.6% chance.  Delaying Solari until after Lehon allows for a much more streamlined alignment route, saving enough time that the small risk of an extra round on Leviathan Malak is justified.
+The only relevance of alignment in the run is equipping the Solari Crystal.  We must be at 60 alignment or higher (the boundary between Neutral and Light) in order to equip any Light Side restricted equipment.  The Solari crystal is Light Side restricted, as well as being extremely good.  While we used to try and equip the Solari Crystal after Korriban, the only fight that is adversely affected (on average) is the first phase of the Leviathan Malak fight, which goes from an 87% chance of a one-round to a 63.6% chance.  Delaying Solari until after Lehon allows for a much more streamlined alignment route, saving enough time that the small risk of an extra round on Leviathan Malak is justified.
 
 Almost every alignment shift we make is faster than the alternative:
 - Rescuing the alien informant is the fastest way to obtain the Sith Armor.
@@ -299,7 +299,7 @@ This is a brief outline of the route for the Any% NMG run, including planet orde
   * [Save Teleport](<../Techniques/Save Teleporting>) into the Eastern Dune Sea
   * Skip the Krayt Dragon to obtain the Star Map
 5. **Korriban**
-  * Inflitrate the Academy
+  * Infiltrate the Academy
   * Earn five prestige points with Uthar Wynn
   * Find the Star Map in Naga Sadow's Tomb
 6. **Leviathan**
@@ -338,7 +338,7 @@ Notation:
 
 Conversation Notes: 
 - If no conversation choices are specified, spamming will work (this chooses all 1 options).
-- A ... indicates a break in the conversation, such as changing who you're talkng to or having to talk to the NPC again
+- A ... indicates a break in the conversation, such as changing who you're talking to or having to talk to the NPC again
 - A * indicates a variable answer, such as in reciting the Sith Code.
 - A #xY indicates repeat that option Y times, as in Gadon Thek's first conversation.
 
