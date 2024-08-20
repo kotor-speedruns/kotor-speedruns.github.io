@@ -7,14 +7,14 @@ redirect_from:
 
 ## v2.1.5: Female Jedi Guardian Route (Light Side)
 
-*I want to credit 30cents for his initial route for KOTOR 2 Glitchless.  This would not have been done without his intial work on the route!  I also want to credit ChaosDrifter for helping me with much of the calculations and theory crafting into the category improvements.*
+*I want to credit 30cents for his initial route for KOTOR 2 Glitchless.  This would not have been done without his initial work on the route!  I also want to credit ChaosDrifter for helping me with much of the calculations and theory crafting into the category improvements.*
 
 This route defeats Darth Traya on Malachor V as fast as possible without the use of glitches.  Timing begins upon clicking "PLAY" after character creation and ends on the last hit on Traya.  A load-removal tool is available for LiveSplit thanks to glasnonck; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.  This guide will cover the character build for the run, as well as a detailed route.
 
 If you have additional questions, you can check out the KotOR Speedrunning Discord which is linked on the game's sidebar on speedrun.com.  There's a bunch of friendly folks there willing to answer questions!
 
 **Table of Contents:**
-- [Glitchless Rulset](#glitchless-ruleset)
+- [Glitchless Ruleset](#glitchless-ruleset)
 - [General Tips](#general-tips)
 - [Character Build](#character-build)
   - [Character Creation](#character-creation)
@@ -104,7 +104,7 @@ Other notes:
 
 **Skill notes:**
 - We use TI to make our medpac use more efficient. And in turn it is the fastest way to select our skills
-- Persuade isn't used in this run as Affect Mind and Dominate Mind are sufficent for all of our needs of persuasion.
+- Persuade isn't used in this run as Affect Mind and Dominate Mind are sufficient for all of our needs of persuasion.
 
 **Feat notes:**
 - 'Weapon Focus: Lightsaber' is chosen since there aren't other good feats at level 3, and it gives +1 to attack when we get our lightsaber later.
@@ -173,7 +173,7 @@ Giving us Damage Bonus +1-10 Cold and Charisma +2, this will replace Crystal, Ne
 
 **Off-Hand**: Freedon Nadd's Short Lightsaber
 - Obtained from Freedon Nadd’s Tomb <br>
-This is a very good off-hand weapon that increases our accuracy while having higher damage than other lightsabers. Before that, we will be using a vibroblade, or a offhand lightsaber for damage.
+This is a very good off-hand weapon that increases our accuracy while having higher damage than other lightsabers. Before that, we will be using a vibroblade, or an offhand lightsaber for damage.
 
 **Belt**: None. Or the best belt you looted <br>
 - There are no good guaranteed belts we can purchase for an affordable price. See itemization below for things you are looking for in a belt.
@@ -203,7 +203,7 @@ We do anywhere from 6-8 shopping trips during the run; the credit route branches
 	- Droid Self-Sustaining Parts (+3300 credits)
 	This will bring our credit total somewhere between 4000 and 4300 credits.
 	*We are allocating 1550 credits for the bare essentials, although we will usually spend a bit less than that here.*
-	Next is to buy some essential items that will get us to Dantooine, credits are scarse with the tightness of this route so only buy what you need. We are only buying enough items here to end at the total amount given below:
+	Next is to buy some essential items that will get us to Dantooine, credits are scarce with the tightness of this route so only buy what you need. We are only buying enough items here to end at the total amount given below:
 	(e.g. If you have 2 Strength stims and you need 4, only buy 2. This is true for all but the Ion Grenades which we will only buy the 2 of.)
 	- 2x Ion Grenades (-260 credits)
 	- 3x Frag Grenades (-240 credits)
@@ -241,11 +241,11 @@ We do anywhere from 6-8 shopping trips during the run; the credit route branches
 	- 8x Strength (~ -400 credits)
 	- 10x Average Frag Mines (-2500 credits) <br>
 
-6. **Oondar**; Nar Shaadaa <br>
+6. **Oondar**; Nar Shaddaa <br>
 	During our talks with Geeda and Oondar for the quest 'Trade War: Bonus Mission' we will buy the Nextor Crystal from Oondar for our lightsaber:
 	- Nextor Crystal (-3582 credits)
 
-7. **Geeda**; Nar Shaadaa <br>
+7. **Geeda**; Nar Shaddaa <br>
 	Our last shopping trip! And our last talk with Geeda during the quest 'Trade War: Bonus Mission' and also partly completing 'New Trade Routes: Bonus Mission' Geedas shop will have an upgrade and give us the opportunity to buy the following items:
 	- Jal Shey Neophyte Armor (-570 credits)
 	- Opila Crystal (-2831 credits)
@@ -254,7 +254,7 @@ We do anywhere from 6-8 shopping trips during the run; the credit route branches
 	- Anything that we don't currently need that can help us end this shopping trip at `>`2000 credits. <br>
 	At this point in the run, we should have almost all of our endgame items, the last two items will be looted during the Tomb of Freedon Nadd. <br>
 
-Most of our credits come from quests that we do on the way, and a select few guarenteed items.  The credits route is a little tight, as we need a lot of money for crystals, medpacks, stims, and mines.
+Most of our credits come from quests that we do on the way, and a select few guaranteed items.  The credits route is a little tight, as we need a lot of money for crystals, medpacks, stims, and mines.
 
 The quests we do to get credits are as follows: 
 1. We get the Atmospheric Sensors for Saedie, for 3000 credits since we can do this on the way to rescue Vrook from the mercenaries.
@@ -287,7 +287,7 @@ Here is the alignment route used in the run:
 | Light | Help free the Sullustan from Mercenaries | Mid Light | 3/0 | 3 | 63 | 13 | 
 | Neutral | Bully Opo Chano for Droid Credentials | Mid Dark | 0/4 | -4 | 59 | 17 | 
 | Light | First Encounter with Handmaiden | Low Light | 1/0 | 1 | 60 | 18 | 
-| Light | Reassuing Bao-Dur (somewhat) | Low Light | 2/1 | 1 | 61 | 21 | 
+| Light | Reassuring Bao-Dur (somewhat) | Low Light | 2/1 | 1 | 61 | 21 | 
 | Light | Reassure T3-M4 | Low Light | 1/0 | 1 | 62 | 22 | 
 | Light | Save Master Vrook | Low Light | 2/0 | 2 | 64 | 24 | 
 | Neutral | Dantooine (DS) Ending | High Dark | 0/8 | -8 | 56 | 32 | 
@@ -385,7 +385,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Break the locker (skip the corpse here) for an Ion Grenade
 - After the cutscene with Kreia, break both of the footlockers in the next room for a Stealth Field Generator and 3x Ion Grenades total (leave the three droids alone)
 - Head to the administration console, 1 spam
-	`>` Level to 2: Reccomended, Two-Handed Fighting, Force Speed
+	`>` Level to 2: Recommended, Two-Handed Fighting, Force Speed
   - *Remember now that you have Force Speed, keep it active as much as possible*
 - Run to the prison to free Atton: 1 spam through everything (to avoid Carth cutscene)
 - Head back to the administration console: 2,2,2 -> 2,2,2,2
@@ -436,7 +436,7 @@ T3 gets zapped and control transitions to MC
 - If you get a level, hold off on it until you need healing.  After leveling, heal with medpacks as needed.
 - 1 spam the console, and make your way inside.  
 - Inside, run to the console and input: 1x5 2.  Then run through the newly opened door, take the first door. 
-- You’ll be going through 6 mines that deal either 15 or 7 damaage, so make sure to heal up and level as needed.
+- You’ll be going through 6 mines that deal either 15 or 7 damage, so make sure to heal up and level as needed.
 	`>` Level to 3: Recommended, Weapon Focus: Lightsaber, Affect Mind
 - Console: 3
 - Bash open the door inside the room.  Run through and enter the Ebon Hawk for the turret minigame.
@@ -533,13 +533,13 @@ Afterwards, swap to MC:
 
 ### Telos Surface
 
-- Mouse spam through the cutscene (1 spam).  Bring Kreia with you when promted.
+- Mouse spam through the cutscene (1 spam).  Bring Kreia with you when prompted.
 - Turn on solo mode and run MC through the entire area.  
 - In the next area turn solo mode on again, and run through the mines.  
 - Before the cutscene with the Twilek, pseudo-stim up.
 - Run past the Twilek, and use Force Valor before starting the fight: 4
 
-- You want to kill the nonshielded people immediately and round up the shielded people together.  Then have everyone throw 1 ion grenade (use another as needed, though you want to keep 3 for later) to kill the last person.
+- You want to kill the non-shielded people immediately and round up the shielded people together.  Then have everyone throw 1 ion grenade (use another as needed, though you want to keep 3 for later) to kill the last person.
 - Afterwards, place Bao-Dur and Kreia away from the fight so they don’t attack any more people.  Take MC to the console and kill enemies around there. 
 - Then click on it after battle (don’t spam until you see the cursor disappear else you have a high chance of skipping the cutscene which is considered a bug and makes your run invalid!)
 
@@ -713,7 +713,7 @@ Buy:
 
 - Switch to Kreia and enter the cantina again.
 - Use MC to talk to Kiph, Nikko, Riiken, and Dhagon: all 1 spam
-- Enter the Cantna and turn on solo mode.  Stim/Buff up w/ MC and talk to Bakkel to kill her, then loot her.
+- Enter the Cantina and turn on solo mode.  Stim/Buff up w/ MC and talk to Bakkel to kill her, then loot her.
 - Meanwhile, Run Kreia over to Sakarie at the northern part and talk to her: 1,3,2 for 5k credits
 - Exit with Mandalore, and run MC over to Dhagon again: 1 spam through everything.
 - Exit the Cantina and make your way back to the docks to exit (turn on solo mode through each area and run MC through there)
@@ -754,7 +754,7 @@ Buy:
 - In the main square, when you enter, talk to Geriel to get 4 DSP from him: 2
 
 - Take the right side, then talk to Nadda (1 spam)
-- Head to the other side inside, take the right path and follow all doors to the right til you see Saquesh.  
+- Head to the other side inside, take the right path and follow all doors to the right until you see Saquesh.  
 
 - Stim/Force power up when near Saquesh to kill him: 1,2,5
 - Swap to Kreia after he dies and leave (Make sure to keep Kreia alive if needed, be careful not to accidently transition to the next area too soon).
@@ -934,7 +934,7 @@ All other items as needed to get 2000 credits EXCEPT:
 - Run backwards to bring Mandalore/Disciple into the fight.  
 - You'll ideally want them to agro on Disciple/Mandalore.  Mandalore can deal some nice chip damage on the Triple Sith, provided he is attacking them.
 - Use Improved Flurry to defeat them.
-- Remember to heal VIsas during this.  The Triple sith deal massive damage to Visas, so healing her is critical.
+- Remember to heal Visas during this.  The Triple sith deal massive damage to Visas, so healing her is critical.
 - If needed, you can run backwards towards the pool so they can hit you one at a time.
 
 - Afterwards, loot the Sith for the Power Gauntlets.  Run to the sarcophagus to loot Freedon Nadd's Lightsaber.
@@ -992,7 +992,7 @@ All other items as needed to get 2000 credits EXCEPT:
 
 ## Jedi Masters
 
-- Head to the Jedi Enclave for a whole truckload of cutscenes.  Mash 1 through all the cutscenes til you get back to the Ebon Hawk.
+- Head to the Jedi Enclave for a whole truckload of cutscenes.  Mash 1 through all the cutscenes until you get back to the Ebon Hawk.
 
 - Atton: 1,1,1,3,3
 - Disciple: 5
@@ -1064,7 +1064,7 @@ All other items as needed to get 2000 credits EXCEPT:
 - In the second area, kill the 3 Storm Beasts near each other.
 - In the large area marked #5, use Force Enlightenment to kill the large Storm Beast.  It should die in 1-2 hits.
 
-- Head to the entrance to Traya Academy, then go through more cutscenes til the second fight with Hanharr.
+- Head to the entrance to Traya Academy, then go through more cutscenes until the second fight with Hanharr.
 
 ### Hanharr 2
 - Plant all 5 Deadly Mines and run Hanharr through them.  
@@ -1095,14 +1095,14 @@ All other items as needed to get 2000 credits EXCEPT:
 - Once he's dead, head to the Trayus Core.
 
 ### Traya 
-- Force Enlightment before proceeding
+- Force Enlightenment before proceeding
 
 Traya: 4,4
 - She has a small chance of using a bad force ability on you, but you should be able to tank it.  She should die within 3-5 hits.
 
 - Second Phase: 4,4 (prepare to IMMEDIATELY OPEN your menu after this)
 - All your buffs are taken off, re-psuedo stim up (Use the other hyper strength stim), heal up
-- Cast Force Enlightment again and hit her.  Heal up as needed, as the floating lightsabers hurt.
+- Cast Force Enlightenment again and hit her.  Heal up as needed, as the floating lightsabers hurt.
 
 - Time ends on the last hit on Traya, GG!
 
@@ -1135,14 +1135,14 @@ Traya: 4,4
 - Added lightsaber upgrade after Palace, replacing Nextor with Pontite.
 - Updated dialog for endgame Atris Fight (saves 35 seconds).
 
-### v2.0 (Feburary 2021)
+### v2.0 (February 2021)
 - Massive reroute from 30's initial route to incorporate more consistent equipment strategies.  
 - No longer relies on RNG shops on Telos/Dantooine, incorporate Geeda/Oondar's shop on Nar Shaddaa
 - Alignment Reroute to get a total of 50 alignment points to spawn Visas, rather than 75 alignment to spawn Visas
 - Used ChaosDrifter's calculator to analyze combat data to swap from Flurry build to Master Critical Strike build
 - Now takes the DS option on Dantooine to skip a large combat segment.
 - Changed taken characters on Freedon Nadd for better consistency.
-- Skip grinding encounters on Dxun to only kill the neccessary enemies.
+- Skip grinding encounters on Dxun to only kill the necessary enemies.
 - Skip killing the thug group on Nar Shaddaa in exchange for the Geeda/Oondar sidequests.
 
 ### v1.0

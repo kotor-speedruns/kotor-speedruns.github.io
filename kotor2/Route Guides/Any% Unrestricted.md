@@ -580,7 +580,7 @@ If you decide to do this route, all other sections of the run are identical to t
 
 **v2.0 (January 2022)**
 - Changed entire route to include major new glitches: Hotshots, Dev Character, 3C-FD, AMG, etc.
-- indykenobi Commited to writing route worked on by 30Cents and Redmage08
+- indykenobi Committed to writing route worked on by 30Cents and Redmage08
 
 **v1.2 (April 2019)**
 - Moved the FLU to earlier in the run to allow for more convenient upgrading

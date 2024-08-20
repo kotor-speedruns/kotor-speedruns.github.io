@@ -220,7 +220,7 @@ Notation:
 
 Conversation Notes: 
 - If no conversation choices are specified, spamming will work (this chooses all 1 options).
-- A ... indicates a break in the conversation, such as changing who you're talkng to or having to talk to the NPC again
+- A ... indicates a break in the conversation, such as changing who you're talking to or having to talk to the NPC again
 - A * indicates a variable answer, such as in reciting the Sith Code.
 - A #* indicates a Persuade check that may fail.
 - A #xY indicates repeat that option Y times, as in Gadon Thek's first conversation.
