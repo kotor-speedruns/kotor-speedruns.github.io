@@ -41,7 +41,7 @@ We choose Dueling over Two-Weapon Fighting because our chance to hit is too low 
 
 /assets/images/imgur-dump/AojS9fj.png
 
-Our main combat plan is lots of Strength, Master Dueling, Master Critical Strike, and Master Speed, using the an upgraded vibroblade/lightsaber.  This gives us three attacks per round with a 40% chance to crit on each attack; with decent luck on the few fights we do, many fights will be one round long.  Dueling and Critical Strike also maximize our chances to hit people, so it's relatively consistent even without good luck on crits.
+Our main combat plan is lots of Strength, Master Dueling, Master Critical Strike, and Master Speed, using an upgraded vibroblade/lightsaber.  This gives us three attacks per round with a 40% chance to crit on each attack; with decent luck on the few fights we do, many fights will be one round long.  Dueling and Critical Strike also maximize our chances to hit people, so it's relatively consistent even without good luck on crits.
 
 Levels 4 and 5 are part of a Fake Level Up where we grab all our necessary feats and Force powers for combat.  We use Kreia's levels to give us both Master Speed and Master Valor, which reclasses the MC to a Jedi Consular for the rest of the run.
 
@@ -66,7 +66,7 @@ It's also important to note that you may never reach level 9 in this run.  This 
 
 * - Force Speed is the most important skill, giving double movement speed.  Master Speed also grants +2 attacks per round, which is highly important for maximizing our damage and chances to crit.  It also grants +6 to Defense, which is great for our survivability.
 * - Force Valor is used to boost stats and saving throws for some Persuade checks and our crafting.  It also helps with survivability and boosts during some tough fights.  Once we obtain Force Enlightenment, this gets cast as part of that, 
-* - Force Deflection helps with some survivablility by deflecting some of the shots that target us as we run past enemies.
+* - Force Deflection helps with some survivability by deflecting some of the shots that target us as we run past enemies.
 * - Force Aura and Shield help with our survivability as well; however, we never cast this separately.  Instead, it gets cast as part of Force Enlightenment after Dantooine.
 * - Battle Meditation is similarly taken to keep menus clean, but can be used to help with some of the late game fights.
 * - Force Enlightenment is obtained upon reaching the rebuilt Jedi Enclave.  It automatically casts our highest level of Force Speed, Force Valor, and Force Aura, making it the best and only necessary power for the endgame.
@@ -86,7 +86,7 @@ This section contains the equipment we'll use during the run, as well as where w
 3. Jal Shey Neophyte Armor: The +1 Persuade helps with the one Persuade check, but this robe is expensive enough at 600 credits to really put a crimp in our shopping.
 
 **Weapon: Vibrosword** - Crafted on Telos
-- We craft both the Vibrosword itself and signifcant upgrades for it on Citadel Station:
+- We craft both the Vibrosword itself and significant upgrades for it on Citadel Station:
 *Upgrades Used:*
 - Improved Mullinine Edge: Used for Keen, which combines with Critical Strike to give high chance of crits.  Also +1-4 Slashing Damage doesn't hurt.
 - Sonic Discharge Cell Mark II: Used for Massive Criticals +2-12 and +4 Sonic Damage; the -1 Attack is ameliorated by the Dueling feat and the next upgrade.
@@ -225,7 +225,7 @@ Loot corpse for Plasma Torch
 ¤ Hard Buffer to skip Kriea's conversation
 } Equip Plasma Torch
 Bash open broken door
-Loot corspe for Vibroblade
+Loot corpse for Vibroblade
 Run through several doors
 Loot corpse in front of lockers
 Bash open security locker

@@ -61,7 +61,7 @@ The brief outline of the route for the Any% run, including planet order and majo
 *2. Taris*
 
 * [Sneak Attack FLU](../Major%20Glitches/Fake%20Level%20Up#sneak-attack-flu) for Sneak Attack IX and Improved TWF
-* [Autosave Hothsot](../Major%20Glitches/Hotshot) to Upper City North
+* [Autosave Hotshot](../Major%20Glitches/Hotshot) to Upper City North
 * [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#sith-base-dlz) into the Sith Base
 * Kill and loot the Sith Governor to obtain Taris Launch Codes
 * [Hotshot](../Major%20Glitches/Hotshot) to Upper City North and [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#lower-city-dlz) to the Lower City
@@ -135,7 +135,7 @@ The choice between 16 DEX/18 CON and vice-versa comes down to personal preferenc
 
 - *Attributes:* High DEX aids our chance to hit with ranged attacks for Taris. Dex and Con are used for survivability (if skipping Plot Armor). 10 Charisma is required for some Persuade checks on Kashyyyk. 10 Wisdom reduces the risk of failing will saving throws
 - *Skills:* Security is the only skill necessary for the run, and is used for a skip on Endar Spire. Points in Awareness allow us to see some mines to avoid them, but it's not really necessary.
-- *Feats:* IMproved Two-Weapon Fighting and Sneak Attack IX allow us to take out Gadon and the Sith Governor in short-order. We use Sniper Shot as our main combat feat because it's the default combat feat for Scoundrels.
+- *Feats:* Improved Two-Weapon Fighting and Sneak Attack IX allow us to take out Gadon and the Sith Governor in short-order. We use Sniper Shot as our main combat feat because it's the default combat feat for Scoundrels.
 
 ## Detailed Route
 
@@ -429,7 +429,7 @@ SHOPPING: Zelka Forn
 - [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#enclave-dlz) to the Courtyard (Atrium Left variant)  
   - Deactivate V-Sync for this and the other Dantooine DLZs
   - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen when this DLZ fires  
-  - *Note: There is a a decent amount of slack for how quickly you need to get this DLZ, as you will save an identical amount of time as long as you get the DLZ before NPC Bastila arrives at the council.*
+  - *Note: There is a decent amount of slack for how quickly you need to get this DLZ, as you will save an identical amount of time as long as you get the DLZ before NPC Bastila arrives at the council.*
 
 ### Courtyard
 
@@ -709,7 +709,7 @@ SHOPPING: Zelka Forn
     - As Bastila's first Detonator explodes, throw a Thermal Detonator with MC
     - Swap between Bastila and MC; on each swap, cancel combat, then queue a Thermal Detonator
       - If you just queue multiple thermals, MC/Bastila will not update their aim as Malak is knocked back, causing later thermals to miss
-      - Try to get a good rythym going to stun-lock Malak while knocking him back toward the Jedi Popsicle where his CS will be
+      - Try to get a good rhythm going to stun-lock Malak while knocking him back toward the Jedi Popsicle where his CS will be
     - If you don't have Plot Armor the MC can generally only take two or three hits (less if you get hit with a thermal)
   - Anytime during the first phase, activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via a QS
   - When Malak goes non-hostile, he will run to his CS and start it
@@ -820,7 +820,7 @@ SHOPPING: Zelka Forn
   * Infinite Credit Glitch
   * Full Inventory Duping
 - Leviathan is Skipped entirely
-- Any echoes of the aligment and credit routes have been lost.
+- Any echoes of the alignment and credit routes have been lost.
 - Minimalist Character Build
 - Minimalist Leveling plan
 
