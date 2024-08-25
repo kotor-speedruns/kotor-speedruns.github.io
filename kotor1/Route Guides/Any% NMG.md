@@ -1031,7 +1031,7 @@ SHOPPING: Czerka Shop
   - Make sure you skip triggers for Shaardan (if needed), the Sith Apprentice, and the Sith Thugs
   - If at any time you think you've triggered one, you can [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip it
 - Re-enter the Academy through Sith Academy Entrance
-- Talk to Uthar Wynn: 3,1,4,3,3,2,3,4,4,X,4,2,2,4
+- Talk to Uthar Wynn: 3,1,4,3,2,3,4,4,X,4,2,2,4
   - The X is a variable answer based on one of three questions he asks after the Sith Code
   - Answers are:
     - There is nothing worse than love: 2. False
@@ -1058,7 +1058,7 @@ SHOPPING: Czerka Shop
   - You should hear the Star Map begin to open if you hit the trigger
   - As an alternative, you can deactivate V-Sync for the buffer, then reactivate it afterwards
 - Loot Sith Statue for Sith Lightsaber
-- `Level to 9: Persuade to 12, Master Two-Weapon, Knight Speed`
+- `Level to 9: Persuade to 11, Master Two-Weapon, Knight Speed`
   - You may not have this level available if you didn't get enough extra XP in Hrakert Station
 - *Force: Cast Force Valor and Knight Speed*
 - Uthar accosts you: 5,1
