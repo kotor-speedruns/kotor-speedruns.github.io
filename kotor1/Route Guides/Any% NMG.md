@@ -749,7 +749,7 @@ SHOPPING: Larrim
 - `Level to 4: Strength to 19, Save Skills, Improved Two-Weapon Fighting, Affect Mind and Stun Droid`
 - `Level to 5: Save Skills, Burst of Speed`
 - `Level to 6: Persuade to 9, TI to 9, Improved Flurry, Force Valor`
-  - From here, you can take each level up as soon as possible; they're listed where they are guaranteed to occur
+  - From here, you can take each level up as soon as possible; they're listed where they are most likely to occur
 - *Force: Cast Burst of Speed*
 - Swap to the same party member as before and talk to Master Zhar to construct a lightsaber
 - *Party: Remove T3 and Canderous*
@@ -889,6 +889,7 @@ SHOPPING: Larrim
 - Kill Firaxan sharks while walking to the left door to Kolto Control
   - *It is faster to go into the inventory menu, use the Sonic Emitter, and exit the menu; this skips the animation of the Sonic Emitter*
 - Once inside, *Force: Cast Burst of Speed*
+- `Auto-Level to 7`
 - Loot the first footlocker for 4 Computer Spikes
 - Speak with scientists twice through force field
   - Mash default action during the first conversation to immediately start the second and skip being depressurized
@@ -901,8 +902,9 @@ SHOPPING: Larrim
 - Star Map: Manaan (watch the whole CS)
 - [Sonic Buffer](<../Techniques/Save Buffering#soft-buffers>) (with Emitter) to skip death trigger when leaving
 - Reenter station through righthand door
-- `Auto-Level to 7`
 - Return to surface with the submersible, return to Ebon Hawk and board
+  - While running to the submersible, you can hover your mouse over your character portrait in the bottom left to check your XP
+  - If you leave Hrakert Station with 900 XP or less to go until level 8, you will hit both level 9 and level 11 as desired
 - Fly to Tatooine with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
 
 ## Tatooine
@@ -986,6 +988,7 @@ SHOPPING: Larrim
   - If you can't loot this corpse, Bastila's position was slightly off
   - You can buy a Nerve Amplifier Belt from Mic'Tunan'Jus Orgu in the Tatooine Docking Bay, but it changes your shopping on Korriban (see below)
 - Use [JMT](<../Techniques/Jedi Mine Trick>) to skip the Star Map CS
+- `Level to 8: Strength to 21, Persuade to 10, Disable Droid`
 - [Save Teleport](<../Techniques/Save Teleporting>) back to the front of the Krayt Dragon
   - Make sure your party is following you
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Calo Nord fight (and possibly Krayt Death trigger)
@@ -1019,20 +1022,18 @@ SHOPPING: Czerka Shop
   - Computer Spikes
   - All Mines
 - BUY:
-  - 7-8x Life Support Packs (but stay above 2500 Credits)
+  - 6-8x Life Support Packs (stay above 2500 Credits)
   - 5x Echani Battle Stim
   - 5x Hyper Adrenal Alacrity, Strength, and Stamina
   - If you had to buy the Nerve Amplifier Belt, buy instead 4x Echani, 3x Hyper Alacrity, 4x Hyper Strength (no Stamina)
-- End: <80 Credits
+- End: <150 Credits
 ```
 
 - Leave Dreshdae
 - Talk to guard outside academy
 - Reenter Dreshdae
-  - *Force: Cast Force Valor while the door is opening to improve Persuade*
-- QS near Yuthura for safety
 - Talk to Yuthura: 3,4,2,3,1 (-2 DSP)
-  - If you fail the 75% Persuade check, QL and retry
+  - You should never fail this Persuade check anymore
 
 ### Gaining Prestige
 
@@ -1040,7 +1041,6 @@ SHOPPING: Czerka Shop
 - Talk to Lashowe: 1x7, 3, 4
 - Speak with Uthar Wynn and students
 - Yuthura talks to you: 1,1,1,1,4,2,7,5
-- `Level to 8: Strength to 21, Persuade to 10, Disable Droid`
 - Talk to Kel Algwinn
 - Before exiting to Valley, *Stims/Force: Hyper Adrenal Strength, Hyper Adrenal Stamina, and Echani Battle Stimulant on MC, Cast Force Valor*
 - Exit to Valley of the Dark Lords
@@ -1065,6 +1065,9 @@ SHOPPING: Czerka Shop
     - There is nothing worse than love: 2. False
     - Victory by any means is desirable: 2. False
     - It is our passion that fuels the Force: 1. True
+  - After this conversation, if you are not level 9, then you will not hit level 11 on Star Forge
+    - If this is the case, try to kill one or two extra enemies on Leviathan, Kashyyyk, or Lehon
+- `Level to 9: Persuade to 11, Master Two-Weapon, Knight Speed`
 - Run backwards and click on Uthar to use [JMT](<../Techniques/Jedi Mine Trick>) on his conversation
   - You'll need to mash through 3,1 and then several clicks so that he congratulates you on getting enough prestige before the mine cancels the convo
   - This skips being sent back to your room, saving around 10 seconds
@@ -1086,8 +1089,6 @@ SHOPPING: Czerka Shop
   - You should hear the Star Map begin to open if you hit the trigger
   - As an alternative, you can deactivate V-Sync for the buffer, then reactivate it afterwards
 - Loot Sith Statue for Sith Lightsaber
-- `Level to 9: Persuade to 11, Master Two-Weapon, Knight Speed`
-  - You may not have this level available if you didn't get enough extra XP in Hrakert Station
 - *Force: Cast Force Valor and Knight Speed*
 - Uthar accosts you: 5,1
 - Kill Uthar and Yuthura accosts you: 1
@@ -1096,7 +1097,6 @@ SHOPPING: Czerka Shop
   - Sparing her prevents the academy from going hostile and preserves our alignment for the Solari crystal later
 - [Save Teleport](<../Techniques/Save Teleporting>) back to the academy
 - After entering the academy, immediately leave and Return to Ebon Hawk to board
-- If you haven't already, `Level to 9: Persuade to 12, Master Two-Weapon, Knight Speed`
 - Fly to Kashyyyk (no Map CS Skip)
 
 ## The Leviathan
@@ -1177,6 +1177,8 @@ SHOPPING: Czerka Shop
 - Darth Malak accosts you again: 1,1,1,1,2,1,4,1
 - Darth Malak fight:
   - As a Scoundrel, use Flurry once next to or slightly behind him to get Sneak Attacks off
+  - Immediately after Malak goes non-hostile but before the CS, use the Sonic Emitter
+    - This breaks the next cutscene in such a way that MC is teleported to a waypoint that is slightly closer to the second phase, saving 3-4s
 - Run/[Save Teleport](<../Techniques/Save Teleporting>) through blast doors after Malak flees
   - *Force: Cast Knight Speed and Force Valor, Hyper Stim Suite on MC*
   - If you had to buy fewer stims on Korriban, don't use any stims here
@@ -1355,23 +1357,18 @@ SHOPPING: Czerka Shop
   - This [Open Buffer](<../Techniques/Save Buffering#open-buffers>) messes with the Dark Jedi AI so they won't attack you unless you attack them first
 - Defeat three Dark Jedi to unseal the door
   - Kill the center one first, then as a Scoundrel, try to get behind the other two before attacking them for Sneak Attacks
-- `If you hit Level 11, Auto-Level MC to reach 22 STR` 
-- Darth Waifu fight
-  - *As a male MC with 12 Persuade*, you can spam all conversations after the first
-  - *As a female MC or with less than 12 Persuade*, use the given conversations to guarantee sparing Bastila
-  - First conversation: 2
-  - First fight phase (use Flurry for all phases; try to make sure Speed stays active)
-    - You can again run slightly past her on the right while she uses Force Resistance to get Sneak Attacks as a Scoundrel
-  - Second conversation: 2, 2, 1
-    - Spam default action during this convo to immediately talk to Bastila and skip phase 2
-    - If you fail to skip it, just attack Bastila
-  - Third conversation: 2, 2 (if you got the phase skip, this convo is also skipped)
-    - Do NOT spam default action here; if you talk to Bastila again, it's a softlock
-  - Defeat her last phase
-    - If your Knight Speed and/or Valor wore off here, it's not worth casting them again until after the fight
-  - Last conversation
-    - *As a male character without enough Persuade*: 1, 1, 1, 3, 2, 3, 1, 1, 1, 1, 1
-    - *As a female character*: 1, 1, 1, 2, 2, 2, 1, 1, 1, 1
+- `Auto-Level to 11`
+  - *If you don't hit this, you won't be able to use the Stasis strat on Darth Malak's first phase.*
+- Open the door to Bastila's chamber, then use the Sonic Emitter to skip the first phase
+  - Start using the Emitter about 1-1.5s after the door starts opening
+- Run left to Bastila and talk to her
+  - Spam default action during this convo to immediately talk to Bastila and skip the second phase as well
+  - If you fail to skip the second phase, just hit her with the saber to get to the next conversation
+- Bastila talks to you, then defeat her final phase
+  - Don't mash default action during this cutscene, as skipping the next phase causes a softlock!
+  - If your Knight Speed and/or Valor wore off here, it's not worth casting them again until after the fight
+- The defeated Bastila talks to you one last time
+  - A Male MC will always be able to spare Bastila in the ensuing conversation, while a female MC has 25% chance to kill her, losing 5s
 - After the load but before the cutscene on the Harbinger, activate a [Map CS Skip](<../Techniques/Map Cutscene Skips>):
   - *Party: Add Jolee and Bastila*
   - Close the menu and watch the cutscene
@@ -1385,6 +1382,7 @@ SHOPPING: Czerka Shop
 ### Darth Malak Fight
 
 - Phase One, Stasis Strat:
+  - *If Bastila and Jolee are not level 10, you won't be able to use this strat.  This threshold is slightly higher than MC hitting level 11, but usually if you hit level 11 you can use this strat.*
   - QS just before triggering the fight
   - Malak convo: 2
   - IMMEDIATELY after his weapon flourish CS, pause the game
