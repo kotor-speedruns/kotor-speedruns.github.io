@@ -237,8 +237,11 @@ The second shopping trip for Adrenal Alacrities depends on whether or not you ge
 
 Your second shopping trip should be:
 - With Zelka: Only if you are a Scoundrel that did not get a random Alacrity drop on Endar Spire
-- On Dantooine: If you have no Alacrities at the start of Dantooine; this will happen as a Scout with no random Taris alacrities, or a Scoundrel with Spire Alacrity but no others
-- On Manaan: If you have no Alacrities at the start of Manaan; this will only happen if you have not shopped at either previous location
+  - Scouts should never shop with Zelka, and Scoundrels that get a random Spire Alacrity should use the same stim route on Taris as Scouts
+- On Dantooine: If you have no Alacrities at the start of Dantooine
+  - This will happen as a Scout with no random Taris alacrities, or a Scoundrel with Spire Alacrity but no other random Taris alacrities
+- On Manaan: If you have no Alacrities at the start of Manaan
+  - This will only happen if you have not shopped at either previous location
 
 As noted, the chance of a random Spire Alacrity is extremely low, so Scoundrels will almost always be shopping with Zelka, whereas Scouts should never shop with Zelka and will usually shop on Dantooine.  Shopping on Dantooine is 10-11s faster than shopping with Zelka.  Shopping on Manaan will be extremely rare, but saves about 4s over shopping on Dantooine if you are that fortunate.
 
