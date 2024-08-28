@@ -236,11 +236,13 @@ The new credit route always has exactly three shopping trips.  Our credits all c
 The second shopping trip for Adrenal Alacrities depends on whether or not you get an Alacrity on the Endar Spire.  Scouts are guaranteed an Adrenal Alacrity in their initial footlocker, while Scoundrels must rely on an unlikely random drop.  An Alacrity can drop randomly either when recruiting Trask or when looting the Sith Heavy Trooper in the Starboard Section.  Both opportunities are only a 1 in 240 chance, meaning you have a net 0.83% chance of getting at least one random Alacrity on Spire.
 
 Your second shopping trip should be:
-- With no Spire Alacrity: Shop with Zelka, skip Dantooine and Manaan
-- With one Spire Alacrity but no other random Alacrity: Skip Zelka, Shop at Dantooine, Skip Manaan
-- With one Spire Alacrity and at least 1 other random Alacrity: Skip Zelka and Dantooine, Shop on Manaan
+- With Zelka: Only if you are a Scoundrel that did not get a random Alacrity drop on Endar Spire
+- On Dantooine: If you have no Alacrities at the start of Dantooine; this will happen as a Scout with no random Taris alacrities, or a Scoundrel with Spire Alacrity but no others
+- On Manaan: If you have no Alacrities at the start of Manaan; this will only happen if you have not shopped at either previous location
 
-As noted, the chance of a random Spire Alacrity is extremely low, so Scoundrels will almost always be shopping with Zelka, whereas Scouts should never shop with Zelka and will usually shop on Dantooine.  Shopping on Dantooine is 10-11s faster than shopping with Zelka.  Shopping on Manaan will be extremely rare, but saves about 4s over shopping on Dantooine if you are that lucky.
+As noted, the chance of a random Spire Alacrity is extremely low, so Scoundrels will almost always be shopping with Zelka, whereas Scouts should never shop with Zelka and will usually shop on Dantooine.  Shopping on Dantooine is 10-11s faster than shopping with Zelka.  Shopping on Manaan will be extremely rare, but saves about 4s over shopping on Dantooine if you are that fortunate.
+
+You should only have to do one of these shopping trips unless you use extra Alacrities somewhere, either because MC dies somewhere on Taris or you accidentally use one where you shouldn't have.
 
 ### Other Random Loot
 
@@ -257,6 +259,10 @@ There are a few other random drops possible on the Endar Spire that can affect y
 **3. 1x Battle Stimulant**
 - Chance: 0.83%
 - If you get a Battle Stimulant on the Spire, you don't have to buy one from Larrim.  This lets you spend those credits elsewhere, most notably buying an Adrenal Stamina as a Scoundrel from Zelka.
+
+**4. 1x Adrenal Stamina**
+- Chance: 0.83%
+- If you get an Adrenal Stamina and you're a Scoundrel, you never have to buy one from Zelka.  You only buy Stamina from Zelka if you can afford it, which only happens with other random loot; getting a Stamina on Spire means you don't have to worry about it.
 
 Any other random loot can be sold to Larrim for extra credits that will go towards either an Adrenal Stamina from Zelka as a Scoundrel, or additional Life Support Packs on Korriban.
 
@@ -470,20 +476,15 @@ SHOPPING: Larrim
 - Exit to Upper City South
   - If you already used Alacrity and Strength, *Stims: Use Battle Stimulant on MC* using the stim hotkey as you leave
 - ***Conditional Shopping: Zelka***
-  - Check the [Credit Route](#buying-alacrities) section to see if you should shop with Zelka
+  - Check the [Credit Route](#buying-alacrities) section to see if you should shop here; Scoundrels usually will
   - *To shop with Zelka:*
     - Run towards statue at the end of the walkway
     - Activate Solo Mode
     - As Carth, open door to Upper City North
     - As MC, talk to Zelka in the medical clinic: 5
-
-```
-POSSIBLE SHOPPING: Zelka
-- BUY:
-  - 4x Adrenal Alacrity
-  - 1x Adrenal Stamina if you can afford it (and don't have a random one)
-```
-
+    - `BUY:`
+      - `4x Adrenal Alacrity`
+      - `1x Adrenal Stamina if you can afford it (and don't have a random one)`
     - *Stims: Use one of each stim on MC (including Stamina if you got/bought one), use Alacrity on Carth*
     - Swap to Carth and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
     - Swap back to Carth and enter Upper City North
@@ -512,10 +513,7 @@ POSSIBLE SHOPPING: Zelka
 
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Vulkar/Bek CS
 - *Equip Carth: Clothes (or Nothing)*
-- Enter Javyar's Cantina
-- Return to Hideout and immediately Transit Back
-  - This sets the Transit Point, which we will use after rescuing Bastila
-- Leave the cantina and enter the Hidden Bek Base
+- Enter the Hidden Bek Base, mash the Lookout's interruption
 - Activate Solo Mode
 - While MC opens door in front, Carth opens the exit door
 - Zaerdra accosts you, then talk to Gadon Thek: 1x10, 3, 2
@@ -613,6 +611,9 @@ POSSIBLE SHOPPING: Zelka
 
 ### Rescuing Bastila
 
+- Enter Javyar's Cantina
+- Return to Hideout and immediately Transit Back
+  - This sets the Transit Point, which we will use after rescuing Bastila
 - Return to Hidden Bek base
 - Talk to Zaerdra and Gadon Thek
 - After loading into the Swoop Platform, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Ithorian convo
@@ -670,7 +671,7 @@ POSSIBLE SHOPPING: Zelka
 - Assault droid fight:
   - Pause and use all remaining Concussion Grenades on Assault Droid
     - Whichever party member you buffered with is probably locked into an attack on the Assault Droid, so use the others
-    - You should always have at least one Concussion Grenade, more than that were from random drops
+    - You should always have at least one Concussion Grenade, any more than that were from random drops
     - Chance to stun with one is 55%, with two is 79.75%, and with three (highly unlikely) is 90.9%.
   - MC attacks Assault Droid with Flurry
   - Zaalbar attacks Assault Droid with Improved Power Strike
@@ -686,7 +687,7 @@ POSSIBLE SHOPPING: Zelka
   - Once the governor is stunned, swap T3 to Shield Disruptors (especially if you get the round-one stun)
   - The first disruptor clears out his shield, the rest do 20 damage
 - Loot both strongboxes and Sith Governor's corpse for Launch Codes
-  - T3 can start to loot these during the fight if the Governor is about to die
+  - T3 can start to loot these during the fight if the Governor is certain to die
 - Use T3 to [Save Teleport](<../Techniques/Save Teleporting>) out of the Sith Base
 
 ### Escaping Taris
@@ -712,7 +713,7 @@ POSSIBLE SHOPPING: Zelka
   - This should only happen if MC died during the Sith Base
   - You may not have an Alacrity here if you got a Spire Alacrity but no others
 - ***Conditional Shopping: Crattis Yurkal***
-  - Check the [Credit Route](#credit-route) section to see if you should shop here; Scouts usually will
+  - Check the [Credit Route](#buying-alacrities) section to see if you should shop here; Scouts usually will
   - *To shop with Crattis Yurkal:*
     - Run forward until you reach the top of the ramp
     - Activate Solo Mode and swap to T3
@@ -720,7 +721,7 @@ POSSIBLE SHOPPING: Zelka
     - Swap back to MC and run down the first ramp until you make the right turn
     - Swap back to T3, use Default Action to talk to Crattis Yurkal, then immediately swap back to MC
       - This keeps MC on the ramp while shopping
-    - **BUY:** 3x Adrenal Alacrity
+    - `BUY: 3x Adrenal Alacrity`
     - As MC, continue running down the ramp
   - *To skip Crattis Yurkal:*
     - Run forward down the ramp
@@ -777,7 +778,7 @@ POSSIBLE SHOPPING: Zelka
 
 ### Ancient Ruins
 
-- *Party: Add Canderous, Keep Bastila when prompted*
+- *Party: Add Carth, Keep Bastila when prompted*
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip ancient droid conversation
 - Activate Solo Mode and do the following actions simultaneously:
 - As MC:
@@ -789,13 +790,13 @@ POSSIBLE SHOPPING: Zelka
   - Open left hand door
   - Run through and loot droid wreckage
   - Hack the console through the left door: 3,5,3,1,1,3
-- As Canderous:
+- As Carth:
   - Move in front of middle door
   - *Stims: Use Adrenal Alacrity*
     - Use this stim only if you have at least 2 remaining beforehand
     - We need one Alacrity for Manaan's underwater sections
-- Once both consoles are hacked, swap to T3 and Deactivate Solo Mode
-- As Canderous, move forward through both doors
+- Once both consoles are hacked, swap to Carth and Deactivate Solo Mode
+- As Carth, move forward through both doors
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip short CS
   - The timing on this is tricky; open the door, wait a second, then start buffering
   - If done right, MC will end up in front of the Star Map without having to watch the CS
@@ -822,11 +823,11 @@ POSSIBLE SHOPPING: Zelka
   - If you didn't add Bastila, [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip it instead
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Sith/Republic soldier conversation
   - If you miss this, the conversation is just: 4
-- **Conditional Shopping: Selkath Merchant**
-  - Check the [Credit Route](#credit-route) section to see if you should shop here (requires multiple random Alacrities)
+- ***Conditional Shopping: Selkath Merchant***
+  - Check the [Credit Route](#buying-alacrities) section to see if you should shop here
   - *To shop with Selkath Merchant:*
     - Talk to Selkath Merchant: 3
-    - **BUY:** 1x Adrenal Alacrity
+    - `BUY: 1x Adrenal Alacrity`
     - Open the door near the merchant and keep running
   - *To skip Selkath Merchant:*
     - Run past him and open the door
