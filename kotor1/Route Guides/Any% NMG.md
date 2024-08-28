@@ -1379,6 +1379,14 @@ SHOPPING: Czerka Shop
 
 ## Version History
 
+**v5.3 (August 2024)**
+- Updated and rewrote some early game shopping and credit route notes
+- Added two Sonic Emitter Skips to skip Phase 1 Forge Bastila and a little running on Leviathan
+- Updated Krayt Skip with better positioning and party members
+- Added additional notes for XP thresholds to hit level 11
+- Move the Javyar's Cantina transit point to after the Vulkar Base
+- Miscellaneous minor fixes and corrections
+
 **v5.2 (August 2024)**
 - Added the old Scout Build back in as an option; Scoundrel and Scout builds are on average equal.
 - Tweaked the necessary parts of the route to illustrate differences between Scout and Scoundrel.
