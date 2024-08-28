@@ -187,17 +187,32 @@ We choose Flurry because it's an overall better combat feat for the run; more at
 There are three important XP thresholds in this run:
 - 36000 XP: Reaching Level 9 before the fight with Uthar and Yuthura in the Tomb of Naga Sadow
 - 55000 XP: Reaching Level 11 before the fight with Bastila on Star Forge
-- 55250-55430 XP: Bastila and Jolee reaching Level 10 (and Stasis) before the final fight with Darth Malak
+- 55250-55430 XP: Bastila and Jolee reaching Level 10 before Viewing Platform (see Party Experience below)
 
 The minimum XP for the run misses all of these thresholds, so we bring Juhani and Zaalbar to Hrakert Station with us so that they and the insane Selkath can get extra kills while we run through the station collecting underwater gear.  The most extra experience needed to hit all three thresholds is 3,450 XP, which generally requires Juhani and Zaalbar to kill all three patrol droids in the first long hallway, and at least a couple insane Selkath to die from either each other or the droids.  There are a couple ways to check how your XP looks, and a couple backups if you're likely to fall short.
 
 **Checks:**
-- While leaving Hrakert Station, hover your mouse over your character portrait.  This pops up a tool-tip showing your character stats, including how much XP is needed to reach the next level.  This updates in real time, so you can see exactly where you are when you leave.  If you are at 900 XP left until level 8 or less before leaving the station, you'll hit all three thresholds without issue.
-- If you find that method of checking awkward, the timing of level 9 provides a convenient way to check as well.  If you hit level 9 after your first conversation with Uthar, then you are guaranteed to hit level 11 correctly.  This does not necessarily guarantee the final threshold, however.  There is a small range of XP where you can hit level 11 but Bastila and Jolee will not hit level 10.
+- While leaving Hrakert Station, hover your mouse over your character portrait.  This pops up a tool-tip showing your character stats, including how much XP is needed to reach the next level.  This updates in real time, so you can see exactly where you are when you leave.  If you are at 900 XP left until level 8 or less before leaving the station, you'll hit all three thresholds without issue.  If you are at 1990 XP or less, you'll hit level 9 in time for the Uthar and Yuthura fight.
+- If you find that method of checking awkward, the timing of level 9 provides a convenient way to check as well.  If you hit level 9 anytime before the Jedi Mine Trick on Uthar (including after his first conversation), then you are guaranteed to hit level 11 correctly.  This does not necessarily guarantee the final threshold, however, as there is a small range of XP where you can hit level 11 but Bastila and Jolee will not hit level 10.
 
 **Backups:**
 - The first backup is to try to kill an extra enemy or two on Korriban (shyracks), Leviathan (Sith Soldiers), Kashyyyk (Katarn or Kinrath), or Lehon (not many good options).  Depending on the enemy you pick and how quickly they die, this can be the fastest way to make up extra experience.
-- The second backup is to kill Bastila on the Star Forge.  This has the benefit of you knowing for sure whether or not you hit level 11, as well as giving a lot of experience (1350 XP for challenge rating 18 at level 10), almost always ensuring you hit your last two thresholds.  But this backup requires a longer conversation and a tougher fight than some random monster somewhere, so it may be slightly slower.
+- The second backup is to kill Bastila on the Star Forge.  This has the benefit of knowing for sure whether or not you hit level 11, as well as giving a lot of experience (1350 XP for challenge rating 18 at level 10), almost always ensuring you hit your last two thresholds.  But this backup requires a longer conversation and a tougher fight than some random monster somewhere, so it may be slightly slower.
+
+**Party Experience:**
+
+The reason the last threshold is a range is because of how Party Experience works in KotOR.  Typically, party members get 80% of the XP that the main character gets, whether or not they are in your party or even recruited yet.  There are, however, a few exceptions:
+
+- Any experience given to MC to force Level 2 on the Endar Spire bridge is not credited to party members.  The most XP that can be granted is 175 XP, which means party members could lose out on as much as 140 XP this way.  This can be mitigated by killing extra Sith Soldiers before the level up is forced; one extra means only 100 XP is granted (80 lost), two extra means only 25 XP is granted (20 lost), and three or more means no XP is granted, and thus none lost.
+- MC is supposed to earn 1000 XP when the party member chosen in the Leviathan Prison Block frees them from confinement.  However, due to a bug the MC does *not* receive that XP.  All party members, however, are correctly granted 80% of that amount, effectively giving each party member 800 extra XP.
+- For some reason, Carth's XP growth is nerfed after leaving Taris until he falls in line with the 80% XP threshold.  Carth is the only party member guaranteed to be recruited above your level, so this is probably an attempt to even out his XP with those of your other party members.  This is not relevant in the speedrun.
+
+Thus the last XP threshold depends on how many extra Sith Soldiers die on Endar Spire.  The level up is forced when you kill the front two soldiers in the bridge, and there are three relatively simple ways to try to kill extras:
+- Try to kill one of the Sith Soldiers in the second room after opening the door but before the CS starts.  Trask will rarely manage this by himself.
+- Delay the frag grenade throw to the three Sith Soldiers as long as possible.  This allows two additional soldiers to run in behind them, and one may be killed by the grenade.
+- Delay killing the front two bridge Soldiers until you run forward into the bridge.  Reaching a certain point triggers explosions which are guaranteed to kill the back two Sith Soldiers, which does grant you the XP for each kill.
+
+Whether you choose to do employ these methods or not is up to you; it's entirely possible to hit the highest XP threshold of 55430 XP without extra issue, and each of the above (except the first) does slightly slow you down on Spire.
 
 ## Equipment Plan
 
@@ -919,8 +934,7 @@ SHOPPING: Larrim
 - [Sonic Buffer](<../Techniques/Save Buffering#soft-buffers>) (with Emitter) to skip death trigger when leaving
 - Reenter station through righthand door
 - Return to surface with the submersible, return to Ebon Hawk and board
-  - While running to the submersible, you can hover your mouse over your character portrait in the bottom left to check your XP
-  - If you leave Hrakert Station with 900 XP or less to go until level 8, you will hit all important XP thresholds for the rest of the run
+  - While running to the submersible, you can hover your mouse over your character portrait to check your XP; see [Experience Thresholds](#experience-thresholds) for details
 - Fly to Tatooine with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
 
 ## Tatooine
@@ -1081,9 +1095,7 @@ SHOPPING: Czerka Shop
     - There is nothing worse than love: 2. False
     - Victory by any means is desirable: 2. False
     - It is our passion that fuels the Force: 1. True
-  - After this conversation, if you are not level 9, then you will not hit level 11 on Star Forge
-    - If this is the case, try to kill one or two extra enemies on Leviathan, Kashyyyk, or Lehon
-    - Alternately, you can also commit to killing Bastila on Star Forge and reach level 11 that way
+  - You should be level 9 after this conversation; see [Experience Thresholds](#experience-thresholds) for details
 - `Level to 9: Persuade to 11, Master Two-Weapon, Knight Speed`
 - Run backwards and click on Uthar to use [JMT](<../Techniques/Jedi Mine Trick>) on his conversation
   - You'll need to mash through 3,1 and then several clicks so that he congratulates you on getting enough prestige before the mine cancels the convo
