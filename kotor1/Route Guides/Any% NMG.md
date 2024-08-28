@@ -4,7 +4,7 @@ redirect_from:
 ---
 # Star Wars: Knights of the Old Republic - Any% No Major Glitches Guide
 
-### v5.2: Male/Female Scout/Scoundrel -> Jedi Guardian Route (Light Side)
+### v5.3: Male/Female Scout/Scoundrel -> Jedi Guardian Route (Light Side)
 
 This route defeats Malak on the Star Forge as fast as possible without major glitches.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.   This guide will cover the character build for the run, as well as a detailed route.
 
@@ -18,6 +18,9 @@ If you have additional questions, you can check out the [KotOR Speedrunning Disc
   - [Leveling Plan](#leveling-plan)
 - [Equipment Plan](#equipment-plan)
 - [Credit Route](#credit-route)
+  - [Shopping Trips](#shopping-trips)
+  - [Buying Alacrities](#buying-alacrities)
+  - [Other Random Loot](#other-random-loot)
 - [Alignment Route](#alignment-route)
 - [Route Overview](#route-overview)
 - [Detailed Route](#detailed-route)
@@ -84,12 +87,15 @@ Overall the real comparison is the guaranteed Alacrity for the Scout vs. the bet
 Choose whichever class you want based on the discussion above.  Either Male or Female works for both builds, but Male has the very small advantage of an easier time with Persuade checks on Lashowe and Bastila.
 
 **Initial Attributes:**
-* Str - 18
-* Dex - 12
-* Con - 14
-* Int - 8/10
-* Wis - 8
-* Cha - 12/10
+
+| Attribute | Scoundrel | Scout |
+| :--- | --- | --- |
+| Strength | 18 | 18 |
+| Dexterity | 12 | 12 |
+| Constitution | 14 | 14 |
+| Intelligence | 8 | 10 |
+| Wisdom | 8 | 8 |
+| Charisma | 12 | 10 |
 
 We are going to focus on melee attacks with a lightsaber, so we max out Strength immediately, and get enough Dexterity and Constitution to help us survive.  The points in Charisma ensure all Persuade checks will succeed without the need for Force Valor; if you really wanted to, you could do 14 Dex and 2 fewer Cha at the cost of needing Force Valor before key Persuade checks with Yuthura, Lashowe, Czerka Guards on Kashyyyk (for Scouts), and Bastila.
 
@@ -203,12 +209,17 @@ All of our equipment should be equipped once we leave Tatooine, with the excepti
 
 The new credit route always has exactly three shopping trips.  Our credits all come from either selling items we don't need or looting credits; we also loot some extra corpses to be able to afford all the stims we want on Korriban.
 
+### Shopping Trips
+
 **1. Larrim on Taris**
 - Sell: All except Medpacs, Computer Spikes, Concussion and Frag Grenades, Stims
-- Buy: 2x Grenades, 1x Battle Stimulant, 4x Minor Mines
+- Scoundrels Buy: 2x Concussion Grenades, 1x Battle Stimulant, 4x Minor Mines
+- Scouts Buy: 2x Concussion Grenades, 1x Frag Grenade, 1x Battle Stimulant, 4x Minor Mines
+- For possible tweaks to this shopping trip, see [Other Random Loot](#other-random-loot) below
 
 **2a. Zelka on Taris**
 - Buy: 4x Adrenal Alacrity
+- Possible: 1x Adrenal Stamina
 
 **2b. Crattis Yurkal on Dantooine**
 - Buy: 3x Adrenal Alacrity
@@ -222,7 +233,7 @@ The new credit route always has exactly three shopping trips.  Our credits all c
 
 ### Buying Alacrities
 
-The second shopping trip for Adrenal Alacrities depends on whether or not you get an Alacrity on the Endar Spire.  Scouts are guaranteed an Adrenal Alacrity in their initial footlocker, while Scoundrels must rely on an unlikely random drop.  An Alacrity can drop randomly when recruiting Trask or when looting the Sith Heavy Trooper in the Starboard Section.  Both opportunities are only a 1 in 240 chance, meaning you have a net 0.83% chance of getting at least one random Alacrity on Spire.
+The second shopping trip for Adrenal Alacrities depends on whether or not you get an Alacrity on the Endar Spire.  Scouts are guaranteed an Adrenal Alacrity in their initial footlocker, while Scoundrels must rely on an unlikely random drop.  An Alacrity can drop randomly either when recruiting Trask or when looting the Sith Heavy Trooper in the Starboard Section.  Both opportunities are only a 1 in 240 chance, meaning you have a net 0.83% chance of getting at least one random Alacrity on Spire.
 
 Your second shopping trip should be:
 - With no Spire Alacrity: Shop with Zelka, skip Dantooine and Manaan
@@ -233,15 +244,21 @@ As noted, the chance of a random Spire Alacrity is extremely low, so Scoundrels 
 
 ### Other Random Loot
 
-There are a couple other random drops possible on the Endar Spire that can affect your initial shopping trip with Larrim.
+There are a few other random drops possible on the Endar Spire that can affect your initial shopping trip with Larrim.  Most are centered around grenades; you need to leave Larrim with at least 2 Concussion Grenades and 1 Frag Grenade, but with random loot you could have up to 4 Concs and 3 Frags.  The more of each you get, the easier the fights with the Assault Droid (for Concussion Grenades) or the Lower Sewers Rakghouls (for Frag Grenades) will be.
 
-| Drop | Chance | Old Larrim Shopping | New Larrim Shopping |
-| :--- | --- | :--- | :--- |
-| 1-2x Frag Grenade | 10.7% | No Change | Use all Frags on Sewer Rakghouls |
-| 2x Concussion Grenade | 0.83% | Buy 2x Conc Grenade | Buy 1x Conc, 1x Frag Grenades |
-| 1x Battle Stimulant | 0.83% | Buy 1x Battle Stimulant | Don't Buy 1x Battle Stimulant |
+**1. 2x Concussion Grenade**
+- Chance: 0.83%
+- If you get this random drop as a Scoundrel and do *not* have 2 or more Frag Grenades at the start of the shopping trip, you should buy 1x Concussion Grenade and 1x Frag Grenade instead of 2x Concussion Grenades.  This lets you reach 3 Concs and 2 Frags without spending additional credits.  If you get this random drop and an additional random Frag from Spire, you should still buy 2x Concussion Grenades, as it's more important to hit 4 Concs than 3 Frags.
 
-Any other random loot can be sold to Larrim for extra credits that will eventually go towards Life Support Packs on Korriban.
+**2. 1-2x Frag Grenade**
+- Chance: 10.7% of at least one
+- This only changes Larrim's shopping if you're a Scout, in which case you can skip buying the Frag Grenade that you would normally buy.  For a Scoundrel, see the discussion under Concussion Grenades above.
+
+**3. 1x Battle Stimulant**
+- Chance: 0.83%
+- If you get a Battle Stimulant on the Spire, you don't have to buy one from Larrim.  This lets you spend those credits elsewhere, most notably buying an Adrenal Stamina as a Scoundrel from Zelka.
+
+Any other random loot can be sold to Larrim for extra credits that will go towards either an Adrenal Stamina from Zelka as a Scoundrel, or additional Life Support Packs on Korriban.
 
 ## Alignment Route
 
@@ -432,6 +449,7 @@ Abbreviations:
 - *Party: No change when prompted*
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Sith Raid CS
 - Run down hall to right until Larrim accosts you: 1,2,4
+  - See the [Credit Route](#other-random-loot) for possible tweaks to this shopping trip based on random loot from the Endar Spire
 
 ```
 SHOPPING: Larrim
@@ -442,25 +460,31 @@ SHOPPING: Larrim
   - Concussion Grenades (if you have any)
   - Stims (if you have any)
 - BUY:
-  - Grenades:
-    - By default, buy 2x Concussion Grenades
-    - If you have 2x Concussion but only 1 Frag Grenade, buy 1x Concussion and 1x Frag
-    - If you have 2x Concussion and 2 or more Frags, buy 2x Concussion
-  - Battle Stimulant (unless you already have one)
+  - 2x Concussion Grenades
+  - Battle Stimulant
   - All 4 Minor Mines
+- SCOUTS ALSO BUY:
+  - 1x Frag Grenade
 ```
 
 - Exit to Upper City South
   - If you already used Alacrity and Strength, *Stims: Use Battle Stimulant on MC* using the stim hotkey as you leave
 - ***Conditional Shopping: Zelka***
-  - Check the [Credit Route](#credit-route) section to see if you should shop with Zelka
+  - Check the [Credit Route](#buying-alacrities) section to see if you should shop with Zelka
   - *To shop with Zelka:*
     - Run towards statue at the end of the walkway
     - Activate Solo Mode
     - As Carth, open door to Upper City North
-    - As MC, talk to Zelka in the medical clinic: 3
-    - **BUY:** 4x Adrenal Alacrity (200 Credits)
-    - *Stims: Use one of each stim on MC (including Stamina if you randomly got one), use Alacrity on Carth*
+    - As MC, talk to Zelka in the medical clinic: 5
+
+```
+POSSIBLE SHOPPING: Zelka
+- BUY:
+  - 4x Adrenal Alacrity
+  - 1x Adrenal Stamina if you can afford it (and don't have a random one)
+```
+
+    - *Stims: Use one of each stim on MC (including Stamina if you got/bought one), use Alacrity on Carth*
     - Swap to Carth and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
     - Swap back to Carth and enter Upper City North
     - Swap to MC, QS/QL to fix party following AI
