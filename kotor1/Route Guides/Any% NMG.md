@@ -16,6 +16,7 @@ If you have additional questions, you can check out the [KotOR Speedrunning Disc
   - [Choosing a Build](#choosing-a-build)
   - [Character Creation](#character-creation)
   - [Leveling Plan](#leveling-plan)
+  - [Experience Thresholds](#experience-thresholds)
 - [Equipment Plan](#equipment-plan)
 - [Credit Route](#credit-route)
   - [Shopping Trips](#shopping-trips)
@@ -154,8 +155,6 @@ We choose Flurry because it's an overall better combat feat for the run; more at
 | 10 | 21 | Master Flurry | Knight Valor | Per to 12 |
 | AL11 | *22* | | *Stasis* | *Awareness to 2* |
 
-We are not guaranteed to hit level 11 in the run, but doing so makes the final Malak fight much more consistent, so we try to kill some extra stuff in Hrakert Station to ensure it.
-
 **Auto-Level Attributes:**
 - When Auto-Leveling the MC, the game only checks your Jedi class level when deciding whether to give an attribute point, rather than your overall character level.  That means you can use Auto-Leveling to gain extra points in STR at Jedi levels 4 and 8, which correspond to character levels 7 and 11.  This is why we Auto-Level at 7 and 11, making it to 22 base STR at level 11.
 
@@ -182,6 +181,23 @@ We are not guaranteed to hit level 11 in the run, but doing so makes the final M
 - Disable Droid is used to free the Captured Jedi during the Malak fight at the end of the game.  This denies them to Malak, meaning you only have to kill him twice.  It also fills up your Force Points as well, though not your health.
 - Affect Mind is used only to avoid landing fees on Manaan, Tatooine, and Kashyyyk.  This lets us afford 2 extra Life Support Packs, plus we don't really need the extra Force Power for anything else.
 - The Auto-Level granted powers Stun and Stasis aren't used by MC, but will be used by Bastila and Jolee...
+
+### Experience Thresholds
+
+There are three important XP thresholds in this run:
+- 36000 XP: Reaching Level 9 before the fight with Uthar and Yuthura in the Tomb of Naga Sadow
+- 55000 XP: Reaching Level 11 before the fight with Bastila on Star Forge
+- 55250-55430 XP: Bastila and Jolee reaching Level 10 (and Stasis) before the final fight with Darth Malak
+
+The minimum XP for the run misses all of these thresholds, so we bring Juhani and Zaalbar to Hrakert Station with us so that they and the insane Selkath can get extra kills while we run through the station collecting underwater gear.  The most extra experience needed to hit all three thresholds is 3,450 XP, which generally requires Juhani and Zaalbar to kill all three patrol droids in the first long hallway, and at least a couple insane Selkath to die from either each other or the droids.  There are a couple ways to check how your XP looks, and a couple backups if you're likely to fall short.
+
+**Checks:**
+- While leaving Hrakert Station, hover your mouse over your character portrait.  This pops up a tool-tip showing your character stats, including how much XP is needed to reach the next level.  This updates in real time, so you can see exactly where you are when you leave.  If you are at 900 XP left until level 8 or less before leaving the station, you'll hit all three thresholds without issue.
+- If you find that method of checking awkward, the timing of level 9 provides a convenient way to check as well.  If you hit level 9 after your first conversation with Uthar, then you are guaranteed to hit level 11 correctly.  This does not necessarily guarantee the final threshold, however.  There is a small range of XP where you can hit level 11 but Bastila and Jolee will not hit level 10.
+
+**Backups:**
+- The first backup is to try to kill an extra enemy or two on Korriban (shyracks), Leviathan (Sith Soldiers), Kashyyyk (Katarn or Kinrath), or Lehon (not many good options).  Depending on the enemy you pick and how quickly they die, this can be the fastest way to make up extra experience.
+- The second backup is to kill Bastila on the Star Forge.  This has the benefit of you knowing for sure whether or not you hit level 11, as well as giving a lot of experience (1350 XP for challenge rating 18 at level 10), almost always ensuring you hit your last two thresholds.  But this backup requires a longer conversation and a tougher fight than some random monster somewhere, so it may be slightly slower.
 
 ## Equipment Plan
 
@@ -904,7 +920,7 @@ SHOPPING: Larrim
 - Reenter station through righthand door
 - Return to surface with the submersible, return to Ebon Hawk and board
   - While running to the submersible, you can hover your mouse over your character portrait in the bottom left to check your XP
-  - If you leave Hrakert Station with 900 XP or less to go until level 8, you will hit both level 9 and level 11 as desired
+  - If you leave Hrakert Station with 900 XP or less to go until level 8, you will hit all important XP thresholds for the rest of the run
 - Fly to Tatooine with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
 
 ## Tatooine
@@ -1067,6 +1083,7 @@ SHOPPING: Czerka Shop
     - It is our passion that fuels the Force: 1. True
   - After this conversation, if you are not level 9, then you will not hit level 11 on Star Forge
     - If this is the case, try to kill one or two extra enemies on Leviathan, Kashyyyk, or Lehon
+    - Alternately, you can also commit to killing Bastila on Star Forge and reach level 11 that way
 - `Level to 9: Persuade to 11, Master Two-Weapon, Knight Speed`
 - Run backwards and click on Uthar to use [JMT](<../Techniques/Jedi Mine Trick>) on his conversation
   - You'll need to mash through 3,1 and then several clicks so that he congratulates you on getting enough prestige before the mine cancels the convo
@@ -1358,7 +1375,8 @@ SHOPPING: Czerka Shop
 - Defeat three Dark Jedi to unseal the door
   - Kill the center one first, then as a Scoundrel, try to get behind the other two before attacking them for Sneak Attacks
 - `Auto-Level to 11`
-  - *If you don't hit this, you won't be able to use the Stasis strat on Darth Malak's first phase.*
+  - *If you don't hit this here, you'll need to kill Bastila to hit level 11 (see below).*
+  - *Not hitting level 11 can lose up to a minute on the Malak fight due to no Stasis strat and worse combat rolls.*
 - Open the door to Bastila's chamber, then use the Sonic Emitter to skip the first phase
   - Start using the Emitter about 1-1.5s after the door starts opening
 - Run left to Bastila and talk to her
@@ -1368,7 +1386,9 @@ SHOPPING: Czerka Shop
   - Don't mash default action during this cutscene, as skipping the next phase causes a softlock!
   - If your Knight Speed and/or Valor wore off here, it's not worth casting them again until after the fight
 - The defeated Bastila talks to you one last time
-  - A Male MC will always be able to spare Bastila in the ensuing conversation, while a female MC has 25% chance to kill her, losing 5s
+  - If you need to kill Bastila to reach level 11, the convo is: 1,1,2,2,3,2, then kill her with Flurry
+  - Otherwise, mash the conversation; a male MC will always be able to spare Bastila during this conversation
+  - A female MC, however, has a 25% chance to kill her in a CS, which loses a little time
 - After the load but before the cutscene on the Harbinger, activate a [Map CS Skip](<../Techniques/Map Cutscene Skips>):
   - *Party: Add Jolee and Bastila*
   - Close the menu and watch the cutscene
