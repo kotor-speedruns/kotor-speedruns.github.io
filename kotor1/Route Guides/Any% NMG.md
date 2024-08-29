@@ -985,7 +985,7 @@ SHOPPING: Larrim
       - MC talks to T3; QS and use a mine to cancel movement
       - QL and immediately pause. MC should be running towards T3.
       - Let MC get [just inside the last sand texture](/assets/images/kotor1/NMGKraytMCPause.png) before the mouth of the cave and pause again
-        - This timing will have T3 get temporarily stuck on the MC while running to Bastila
+        - This timing will have T3 get temporarily stuck on the MC while running to Bastila, shown in [this diagram](/assets/images/kotor1/KraytSkip.png)
       - Swap to T3 and talk to Bastila while still paused
       - Swap to MC and unpause.  T3 will begin moving towards Bastila and the Krayt Dragon CS will start.
       - The [Conversation Overlay](<../Techniques/Conversation Overlay>) should cancel the Krayt CS *after* it starts walking but *before* your party is killed.
