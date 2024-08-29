@@ -4,7 +4,7 @@ redirect_from:
 ---
 # Star Wars: Knights of the Old Republic - Any% No Major Glitches Guide
 
-### v5.2: Male/Female Scout/Scoundrel -> Jedi Guardian Route (Light Side)
+### v5.3: Male/Female Scout/Scoundrel -> Jedi Guardian Route (Light Side)
 
 This route defeats Malak on the Star Forge as fast as possible without major glitches.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.   This guide will cover the character build for the run, as well as a detailed route.
 
@@ -16,8 +16,12 @@ If you have additional questions, you can check out the [KotOR Speedrunning Disc
   - [Choosing a Build](#choosing-a-build)
   - [Character Creation](#character-creation)
   - [Leveling Plan](#leveling-plan)
+  - [Experience Thresholds](#experience-thresholds)
 - [Equipment Plan](#equipment-plan)
 - [Credit Route](#credit-route)
+  - [Shopping Trips](#shopping-trips)
+  - [Buying Alacrities](#buying-alacrities)
+  - [Other Random Loot](#other-random-loot)
 - [Alignment Route](#alignment-route)
 - [Route Overview](#route-overview)
 - [Detailed Route](#detailed-route)
@@ -84,12 +88,15 @@ Overall the real comparison is the guaranteed Alacrity for the Scout vs. the bet
 Choose whichever class you want based on the discussion above.  Either Male or Female works for both builds, but Male has the very small advantage of an easier time with Persuade checks on Lashowe and Bastila.
 
 **Initial Attributes:**
-* Str - 18
-* Dex - 12
-* Con - 14
-* Int - 8/10
-* Wis - 8
-* Cha - 12/10
+
+| Attribute | Scoundrel | Scout |
+| :--- | --- | --- |
+| Strength | 18 | 18 |
+| Dexterity | 12 | 12 |
+| Constitution | 14 | 14 |
+| Intelligence | 8 | 10 |
+| Wisdom | 8 | 8 |
+| Charisma | 12 | 10 |
 
 We are going to focus on melee attacks with a lightsaber, so we max out Strength immediately, and get enough Dexterity and Constitution to help us survive.  The points in Charisma ensure all Persuade checks will succeed without the need for Force Valor; if you really wanted to, you could do 14 Dex and 2 fewer Cha at the cost of needing Force Valor before key Persuade checks with Yuthura, Lashowe, Czerka Guards on Kashyyyk (for Scouts), and Bastila.
 
@@ -148,8 +155,6 @@ We choose Flurry because it's an overall better combat feat for the run; more at
 | 10 | 21 | Master Flurry | Knight Valor | Per to 12 |
 | AL11 | *22* | | *Stasis* | *Awareness to 2* |
 
-We are not guaranteed to hit level 11 in the run, but doing so makes the final Malak fight much more consistent, so we try to kill some extra stuff in Hrakert Station to ensure it.
-
 **Auto-Level Attributes:**
 - When Auto-Leveling the MC, the game only checks your Jedi class level when deciding whether to give an attribute point, rather than your overall character level.  That means you can use Auto-Leveling to gain extra points in STR at Jedi levels 4 and 8, which correspond to character levels 7 and 11.  This is why we Auto-Level at 7 and 11, making it to 22 base STR at level 11.
 
@@ -177,6 +182,38 @@ We are not guaranteed to hit level 11 in the run, but doing so makes the final M
 - Affect Mind is used only to avoid landing fees on Manaan, Tatooine, and Kashyyyk.  This lets us afford 2 extra Life Support Packs, plus we don't really need the extra Force Power for anything else.
 - The Auto-Level granted powers Stun and Stasis aren't used by MC, but will be used by Bastila and Jolee...
 
+### Experience Thresholds
+
+There are three important XP thresholds in this run:
+- 36000 XP: Reaching Level 9 before the fight with Uthar and Yuthura in the Tomb of Naga Sadow
+- 55000 XP: Reaching Level 11 before the fight with Bastila on Star Forge
+- 55250-55430 XP: Bastila and Jolee reaching Level 10 before Viewing Platform (see Party Experience below)
+
+The minimum XP for the run misses all of these thresholds, so we bring Juhani and Zaalbar to Hrakert Station with us so that they and the insane Selkath can get extra kills while we run through the station collecting underwater gear.  The most extra experience needed to hit all three thresholds is 3,450 XP, which generally requires Juhani and Zaalbar to kill all three patrol droids in the first long hallway, and at least a couple insane Selkath to die from either each other or the droids.  There are a couple ways to check how your XP looks, and a couple backups if you're likely to fall short.
+
+**Checks:**
+- While leaving Hrakert Station, hover your mouse over your character portrait.  This pops up a tool-tip showing your character stats, including how much XP is needed to reach the next level.  This updates in real time, so you can see exactly where you are when you leave.  If you are at 900 XP left until level 8 or less before leaving the station, you'll hit all three thresholds without issue.  If you are at 1990 XP or less, you'll hit level 9 in time for the Uthar and Yuthura fight.
+- If you find that method of checking awkward, the timing of level 9 provides a convenient way to check as well.  If you hit level 9 anytime before the [Jedi Mine Trick](<../Techniques/Jedi Mine Trick>) on Uthar (including after his first conversation), then you are guaranteed to hit level 11 correctly.  This does not necessarily guarantee the final threshold, however, as there is a small range of XP where you can hit level 11 but Bastila and Jolee will not hit level 10.
+
+**Backups:**
+- The first backup is to try to kill an extra enemy or two on Korriban (shyracks), Leviathan (Sith Soldiers), Kashyyyk (Katarn or Kinrath), or Lehon (not many good options).  Depending on the enemy you pick and how quickly they die, this can be the fastest way to make up extra experience.
+- The second backup is to kill Bastila on the Star Forge.  This has the benefit of knowing for sure whether or not you hit level 11, as well as giving a lot of experience (1350 XP for challenge rating 18 at level 10), almost always ensuring you hit your last two thresholds.  But this backup requires a longer conversation and a tougher fight than some random monster somewhere, so it may be slightly slower.
+
+**Party Experience:**
+
+The reason the last threshold is a range is because of how Party Experience works in KotOR.  Typically, party members get 80% of the XP that the main character gets, whether or not they are in your party or even recruited yet.  There are, however, a few exceptions:
+
+- Any experience given to MC to force Level 2 on the Endar Spire bridge is not credited to party members.  The most XP that can be granted is 175 XP, which means party members could lose out on as much as 140 XP this way.  This can be mitigated by killing extra Sith Soldiers before the level up is forced; one extra means only 100 XP is granted (80 lost), two extra means only 25 XP is granted (20 lost), and three or more means no XP is granted, and thus none lost.
+- MC is supposed to earn 1000 XP when the party member chosen in the Leviathan Prison Block frees them from confinement.  However, due to a bug the MC does *not* receive that XP.  All party members, however, are correctly granted 80% of that amount, effectively giving each party member 800 extra XP.
+- For some reason, Carth's XP growth is nerfed after leaving Taris until he falls in line with the 80% XP threshold.  Carth is the only party member guaranteed to be recruited above your level, so this is probably an attempt to even out his XP with those of your other party members.  This is not relevant in the speedrun.
+
+Thus the last XP threshold depends on how many extra Sith Soldiers die on Endar Spire.  The level up is forced when you kill the front two soldiers in the bridge, and there are three relatively simple ways to try to kill extras:
+- Try to kill one of the Sith Soldiers in the second room after opening the door but before the CS starts.  Trask will rarely manage this by himself.
+- Delay the frag grenade throw to the three Sith Soldiers as long as possible.  This allows two additional soldiers to run in behind them, and one may be killed by the grenade.
+- Delay killing the front two bridge Soldiers until you run forward into the bridge.  Reaching a certain point triggers explosions which are guaranteed to kill the back two Sith Soldiers, which does grant you the XP for each kill.
+
+Whether you choose to do employ these methods or not is up to you; it's entirely possible to hit the highest XP threshold of 55430 XP without extra issue, and each of the above (except the first) does slightly slow you down on Spire.
+
 ## Equipment Plan
 
 **Head: Verpine Headband** - Found on Dantooine, Casus Sandral's corpse
@@ -203,12 +240,17 @@ All of our equipment should be equipped once we leave Tatooine, with the excepti
 
 The new credit route always has exactly three shopping trips.  Our credits all come from either selling items we don't need or looting credits; we also loot some extra corpses to be able to afford all the stims we want on Korriban.
 
+### Shopping Trips
+
 **1. Larrim on Taris**
 - Sell: All except Medpacs, Computer Spikes, Concussion and Frag Grenades, Stims
-- Buy: 2x Grenades, 1x Battle Stimulant, 4x Minor Mines
+- Scoundrels Buy: 2x Concussion Grenades, 1x Battle Stimulant, 4x Minor Mines
+- Scouts Buy: 2x Concussion Grenades, 1x Frag Grenade, 1x Battle Stimulant, 4x Minor Mines
+- For possible tweaks to this shopping trip, see [Other Random Loot](#other-random-loot) below
 
 **2a. Zelka on Taris**
 - Buy: 4x Adrenal Alacrity
+- Possible: 1x Adrenal Stamina
 
 **2b. Crattis Yurkal on Dantooine**
 - Buy: 3x Adrenal Alacrity
@@ -222,26 +264,41 @@ The new credit route always has exactly three shopping trips.  Our credits all c
 
 ### Buying Alacrities
 
-The second shopping trip for Adrenal Alacrities depends on whether or not you get an Alacrity on the Endar Spire.  Scouts are guaranteed an Adrenal Alacrity in their initial footlocker, while Scoundrels must rely on an unlikely random drop.  An Alacrity can drop randomly when recruiting Trask or when looting the Sith Heavy Trooper in the Starboard Section.  Both opportunities are only a 1 in 240 chance, meaning you have a net 0.83% chance of getting at least one random Alacrity on Spire.
+The second shopping trip for Adrenal Alacrities depends on whether or not you get an Alacrity on the Endar Spire.  Scouts are guaranteed an Adrenal Alacrity in their initial footlocker, while Scoundrels must rely on an unlikely random drop.  An Alacrity can drop randomly either when recruiting Trask or when looting the Sith Heavy Trooper in the Starboard Section.  Both opportunities are only a 1 in 240 chance, meaning you have a net 0.83% chance of getting at least one random Alacrity on Spire.
 
 Your second shopping trip should be:
-- With no Spire Alacrity: Shop with Zelka, skip Dantooine and Manaan
-- With one Spire Alacrity but no other random Alacrity: Skip Zelka, Shop at Dantooine, Skip Manaan
-- With one Spire Alacrity and at least 1 other random Alacrity: Skip Zelka and Dantooine, Shop on Manaan
+- With Zelka: Only if you are a Scoundrel that did not get a random Alacrity drop on Endar Spire
+  - Scouts should never shop with Zelka, and Scoundrels that get a random Spire Alacrity should use the same stim route on Taris as Scouts
+- On Dantooine: If you have no Alacrities at the start of Dantooine
+  - This will happen as a Scout with no random Taris alacrities, or a Scoundrel with Spire Alacrity but no other random Taris alacrities
+- On Manaan: If you have no Alacrities at the start of Manaan
+  - This will only happen if you have not shopped at either previous location
 
-As noted, the chance of a random Spire Alacrity is extremely low, so Scoundrels will almost always be shopping with Zelka, whereas Scouts should never shop with Zelka and will usually shop on Dantooine.  Shopping on Dantooine is 10-11s faster than shopping with Zelka.  Shopping on Manaan will be extremely rare, but saves about 4s over shopping on Dantooine if you are that lucky.
+As noted, the chance of a random Spire Alacrity is extremely low, so Scoundrels will almost always be shopping with Zelka, whereas Scouts should never shop with Zelka and will usually shop on Dantooine.  Shopping on Dantooine is 10-11s faster than shopping with Zelka.  Shopping on Manaan will be extremely rare, but saves about 4s over shopping on Dantooine if you are that fortunate.
+
+You should only have to do one of these shopping trips unless you use extra Alacrities somewhere, either because MC dies somewhere on Taris or you accidentally use one where you shouldn't have.
 
 ### Other Random Loot
 
-There are a couple other random drops possible on the Endar Spire that can affect your initial shopping trip with Larrim.
+There are a few other random drops possible on the Endar Spire that can affect your initial shopping trip with Larrim.  Most are centered around grenades; you need to leave Larrim with at least 2 Concussion Grenades and 1 Frag Grenade, but with random loot you could have up to 4 Concs and 3 Frags.  The more of each you get, the easier the fights with the Assault Droid (for Concussion Grenades) or the Lower Sewers Rakghouls (for Frag Grenades) will be.
 
-| Drop | Chance | Old Larrim Shopping | New Larrim Shopping |
-| :--- | --- | :--- | :--- |
-| 1-2x Frag Grenade | 10.7% | No Change | Use all Frags on Sewer Rakghouls |
-| 2x Concussion Grenade | 0.83% | Buy 2x Conc Grenade | Buy 1x Conc, 1x Frag Grenades |
-| 1x Battle Stimulant | 0.83% | Buy 1x Battle Stimulant | Don't Buy 1x Battle Stimulant |
+**1. 2x Concussion Grenade**
+- Chance: 0.83%
+- If you get this random drop as a Scoundrel and do *not* have 2 or more Frag Grenades at the start of the shopping trip, you should buy 1x Concussion Grenade and 1x Frag Grenade instead of 2x Concussion Grenades.  This lets you reach 3 Concs and 2 Frags without spending additional credits.  If you get this random drop and an additional random Frag from Spire, you should still buy 2x Concussion Grenades, as it's more important to hit 4 Concs than 3 Frags.
 
-Any other random loot can be sold to Larrim for extra credits that will eventually go towards Life Support Packs on Korriban.
+**2. 1-2x Frag Grenade**
+- Chance: 10.7% of at least one
+- This only changes Larrim's shopping if you're a Scout, in which case you can skip buying the Frag Grenade that you would normally buy.  For a Scoundrel, see the discussion under Concussion Grenades above.
+
+**3. 1x Battle Stimulant**
+- Chance: 0.83%
+- If you get a Battle Stimulant on the Spire, you don't have to buy one from Larrim.  This lets you spend those credits elsewhere, most notably buying an Adrenal Stamina as a Scoundrel from Zelka.
+
+**4. 1x Adrenal Stamina**
+- Chance: 0.83%
+- If you get an Adrenal Stamina and you're a Scoundrel, you never have to buy one from Zelka.  You only buy Stamina from Zelka if you can afford it, which only happens with other random loot; getting a Stamina on Spire means you don't have to worry about it.
+
+Any other random loot can be sold to Larrim for extra credits that will go towards either an Adrenal Stamina from Zelka as a Scoundrel, or additional Life Support Packs on Korriban.
 
 ## Alignment Route
 
@@ -432,6 +489,7 @@ Abbreviations:
 - *Party: No change when prompted*
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Sith Raid CS
 - Run down hall to right until Larrim accosts you: 1,2,4
+  - See the [Credit Route](#other-random-loot) for possible tweaks to this shopping trip based on random loot from the Endar Spire
 
 ```
 SHOPPING: Larrim
@@ -442,25 +500,26 @@ SHOPPING: Larrim
   - Concussion Grenades (if you have any)
   - Stims (if you have any)
 - BUY:
-  - Grenades:
-    - By default, buy 2x Concussion Grenades
-    - If you have 2x Concussion but only 1 Frag Grenade, buy 1x Concussion and 1x Frag
-    - If you have 2x Concussion and 2 or more Frags, buy 2x Concussion
-  - Battle Stimulant (unless you already have one)
+  - 2x Concussion Grenades
+  - Battle Stimulant
   - All 4 Minor Mines
+- SCOUTS ALSO BUY:
+  - 1x Frag Grenade
 ```
 
 - Exit to Upper City South
   - If you already used Alacrity and Strength, *Stims: Use Battle Stimulant on MC* using the stim hotkey as you leave
 - ***Conditional Shopping: Zelka***
-  - Check the [Credit Route](#credit-route) section to see if you should shop with Zelka
+  - Check the [Credit Route](#buying-alacrities) section to see if you should shop here; Scoundrels usually will
   - *To shop with Zelka:*
     - Run towards statue at the end of the walkway
     - Activate Solo Mode
     - As Carth, open door to Upper City North
-    - As MC, talk to Zelka in the medical clinic: 3
-    - **BUY:** 4x Adrenal Alacrity (200 Credits)
-    - *Stims: Use one of each stim on MC (including Stamina if you randomly got one), use Alacrity on Carth*
+    - As MC, talk to Zelka in the medical clinic: 5
+    - `BUY:`
+      - `4x Adrenal Alacrity`
+      - `1x Adrenal Stamina if you can afford it (and don't have a random one)`
+    - *Stims: Use one of each stim on MC (including Stamina if you got/bought one), use Alacrity on Carth*
     - Swap to Carth and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
     - Swap back to Carth and enter Upper City North
     - Swap to MC, QS/QL to fix party following AI
@@ -488,10 +547,7 @@ SHOPPING: Larrim
 
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) past Vulkar/Bek CS
 - *Equip Carth: Clothes (or Nothing)*
-- Enter Javyar's Cantina
-- Return to Hideout and immediately Transit Back
-  - This sets the Transit Point, which we will use after rescuing Bastila
-- Leave the cantina and enter the Hidden Bek Base
+- Enter the Hidden Bek Base, mash the Lookout's interruption
 - Activate Solo Mode
 - While MC opens door in front, Carth opens the exit door
 - Zaerdra accosts you, then talk to Gadon Thek: 1x10, 3, 2
@@ -589,6 +645,9 @@ SHOPPING: Larrim
 
 ### Rescuing Bastila
 
+- Enter Javyar's Cantina
+- Return to Hideout and immediately Transit Back
+  - This sets the Transit Point, which we will use after rescuing Bastila
 - Return to Hidden Bek base
 - Talk to Zaerdra and Gadon Thek
 - After loading into the Swoop Platform, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Ithorian convo
@@ -646,7 +705,7 @@ SHOPPING: Larrim
 - Assault droid fight:
   - Pause and use all remaining Concussion Grenades on Assault Droid
     - Whichever party member you buffered with is probably locked into an attack on the Assault Droid, so use the others
-    - You should always have at least one Concussion Grenade, more than that were from random drops
+    - You should always have at least one Concussion Grenade, any more than that were from random drops
     - Chance to stun with one is 55%, with two is 79.75%, and with three (highly unlikely) is 90.9%.
   - MC attacks Assault Droid with Flurry
   - Zaalbar attacks Assault Droid with Improved Power Strike
@@ -662,7 +721,7 @@ SHOPPING: Larrim
   - Once the governor is stunned, swap T3 to Shield Disruptors (especially if you get the round-one stun)
   - The first disruptor clears out his shield, the rest do 20 damage
 - Loot both strongboxes and Sith Governor's corpse for Launch Codes
-  - T3 can start to loot these during the fight if the Governor is about to die
+  - T3 can start to loot these during the fight if the Governor is certain to die
 - Use T3 to [Save Teleport](<../Techniques/Save Teleporting>) out of the Sith Base
 
 ### Escaping Taris
@@ -688,7 +747,7 @@ SHOPPING: Larrim
   - This should only happen if MC died during the Sith Base
   - You may not have an Alacrity here if you got a Spire Alacrity but no others
 - ***Conditional Shopping: Crattis Yurkal***
-  - Check the [Credit Route](#credit-route) section to see if you should shop here; Scouts usually will
+  - Check the [Credit Route](#buying-alacrities) section to see if you should shop here; Scouts usually will
   - *To shop with Crattis Yurkal:*
     - Run forward until you reach the top of the ramp
     - Activate Solo Mode and swap to T3
@@ -696,7 +755,7 @@ SHOPPING: Larrim
     - Swap back to MC and run down the first ramp until you make the right turn
     - Swap back to T3, use Default Action to talk to Crattis Yurkal, then immediately swap back to MC
       - This keeps MC on the ramp while shopping
-    - **BUY:** 3x Adrenal Alacrity
+    - `BUY: 3x Adrenal Alacrity`
     - As MC, continue running down the ramp
   - *To skip Crattis Yurkal:*
     - Run forward down the ramp
@@ -721,7 +780,7 @@ SHOPPING: Larrim
 - `Level to 4: Strength to 19, Save Skills, Improved Two-Weapon Fighting, Affect Mind and Stun Droid`
 - `Level to 5: Save Skills, Burst of Speed`
 - `Level to 6: Persuade to 9, TI to 9, Improved Flurry, Force Valor`
-  - From here, you can take each level up as soon as possible; they're listed where they are guaranteed to occur
+  - From here, you can take each level up as soon as possible; they're listed where they are most likely to occur
 - *Force: Cast Burst of Speed*
 - Swap to the same party member as before and talk to Master Zhar to construct a lightsaber
 - *Party: Remove T3 and Canderous*
@@ -753,7 +812,7 @@ SHOPPING: Larrim
 
 ### Ancient Ruins
 
-- *Party: Add Canderous, Keep Bastila when prompted*
+- *Party: Add Carth, Keep Bastila when prompted*
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip ancient droid conversation
 - Activate Solo Mode and do the following actions simultaneously:
 - As MC:
@@ -765,13 +824,13 @@ SHOPPING: Larrim
   - Open left hand door
   - Run through and loot droid wreckage
   - Hack the console through the left door: 3,5,3,1,1,3
-- As Canderous:
+- As Carth:
   - Move in front of middle door
   - *Stims: Use Adrenal Alacrity*
     - Use this stim only if you have at least 2 remaining beforehand
     - We need one Alacrity for Manaan's underwater sections
-- Once both consoles are hacked, swap to T3 and Deactivate Solo Mode
-- As Canderous, move forward through both doors
+- Once both consoles are hacked, swap to Carth and Deactivate Solo Mode
+- As Carth, move forward through both doors
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip short CS
   - The timing on this is tricky; open the door, wait a second, then start buffering
   - If done right, MC will end up in front of the Star Map without having to watch the CS
@@ -798,11 +857,11 @@ SHOPPING: Larrim
   - If you didn't add Bastila, [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip it instead
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Sith/Republic soldier conversation
   - If you miss this, the conversation is just: 4
-- **Conditional Shopping: Selkath Merchant**
-  - Check the [Credit Route](#credit-route) section to see if you should shop here (requires multiple random Alacrities)
+- ***Conditional Shopping: Selkath Merchant***
+  - Check the [Credit Route](#buying-alacrities) section to see if you should shop here
   - *To shop with Selkath Merchant:*
     - Talk to Selkath Merchant: 3
-    - **BUY:** 1x Adrenal Alacrity
+    - `BUY: 1x Adrenal Alacrity`
     - Open the door near the merchant and keep running
   - *To skip Selkath Merchant:*
     - Run past him and open the door
@@ -861,6 +920,7 @@ SHOPPING: Larrim
 - Kill Firaxan sharks while walking to the left door to Kolto Control
   - *It is faster to go into the inventory menu, use the Sonic Emitter, and exit the menu; this skips the animation of the Sonic Emitter*
 - Once inside, *Force: Cast Burst of Speed*
+- `Auto-Level to 7`
 - Loot the first footlocker for 4 Computer Spikes
 - Speak with scientists twice through force field
   - Mash default action during the first conversation to immediately start the second and skip being depressurized
@@ -873,8 +933,8 @@ SHOPPING: Larrim
 - Star Map: Manaan (watch the whole CS)
 - [Sonic Buffer](<../Techniques/Save Buffering#soft-buffers>) (with Emitter) to skip death trigger when leaving
 - Reenter station through righthand door
-- `Auto-Level to 7`
 - Return to surface with the submersible, return to Ebon Hawk and board
+  - While running to the submersible, you can hover your mouse over your character portrait to check your XP; see [Experience Thresholds](#experience-thresholds) for details
 - Fly to Tatooine with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
 
 ## Tatooine
@@ -897,14 +957,16 @@ SHOPPING: Larrim
 - [Save Teleport](<../Techniques/Save Teleporting>) past Eastern Dune Sea loading zone
   - This skips a trigger that prevents you from entering without a map
   - A [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) will also cancel the trigger preventing you from entering the loading zone
-- *Party: Add Bastila and Mission*
+- *Party: Add Bastila and T3*
   - If you're doing the 2-frame QS version of Krayt Skip, only add Bastila
+  - We use Bastila because she still has Speed active from Manaan
+  - We use T3 because he doesn't have a banter conversation with Bastila
 - Enter loading zone from the back to enter Eastern Dune Sea
 
 ### Krayt Dragon Skip
 
 - ***Method 1: [Conversation Overlay](<../Techniques/Conversation Overlay>)***
-  - *This is the recommended method.  With practice, this method is consistent, but it is roughly 12 seconds slower than a first try 2-frame QS (see Method 2 below)*
+  - *This is the recommended method.  With practice, this method is consistent, but it is roughly 10 seconds slower than a first try 2-frame QS (see Method 2 below)*
   - To perform Krayt Skip this way:
     - [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) from entrance all the way into the Krayt Dragon's cave
       - Make sure your party follows you!
@@ -915,20 +977,22 @@ SHOPPING: Larrim
     - Position Bastila in front of the Krayt Dragon in a [precise location](/assets/images/imgur-dump/GGjL3bL.png)
       - Here's [a look at the general spot](/assets/images/imgur-dump/wWAiCqs.png)
       - This position stops the Krayt Dragon in a specific spot during the [Conversation Overlay](<../Techniques/Conversation Overlay>)
-    - Swap to Mission and position her in this [precise location](/assets/images/kotor1/NMGKraytMissionExact.png)
-      - Here's [a look at the general spot](/assets/images/kotor1/NMGKraytMissionRough.png)
-      - This position puts Mission as far away from the Dragon as possible while still being able to speak to Bastila
-    - Position MC directly behind Mission and [where the sand texture changes](/assets/images/kotor1/NMGKraytMC.png)
+    - Swap to T3 and position it in this [precise location](/assets/images/kotor1/NMGKraytT3Exact.png)
+      - Here's [a look at the general spot](/assets/images/kotor1/NMGKraytT3Rough.png)
+      - This position puts T3 almost as far away from the Dragon as possible while still being able to speak to Bastila
+    - Position MC directly behind T3 and before [where the sand texture changes](/assets/images/kotor1/NMGKraytMCStart.png)
     - Begin the [Conversation Overlay](<../Techniques/Conversation Overlay>):
-      - MC talks to Mission; QS and use a mine to cancel movement
-      - QL and immediately pause. MC should be running towards Mission.
-      - Let MC get [just inside the last sand texture](/assets/images/kotor1/NMGKraytMC.png) before the mouth of the cave and pause again
-        - This timing will have Mission get temporarily stuck on the MC while running to Bastila
-      - Swap to Mission and talk to Bastila while still paused
-      - Swap to MC and unpause.  Mission will begin running towards Bastila and the Krayt Dragon CS will start.
+      - MC talks to T3; QS and use a mine to cancel movement
+      - QL and immediately pause. MC should be running towards T3.
+      - Let MC get [just inside the last sand texture](/assets/images/kotor1/NMGKraytMCPause.png) before the mouth of the cave and pause again
+        - This timing will have T3 get temporarily stuck on the MC while running to Bastila, shown in [this diagram](/assets/images/kotor1/KraytSkip.png)
+      - Swap to T3 and talk to Bastila while still paused
+      - Swap to MC and unpause.  T3 will begin moving towards Bastila and the Krayt Dragon CS will start.
       - The [Conversation Overlay](<../Techniques/Conversation Overlay>) should cancel the Krayt CS *after* it starts walking but *before* your party is killed.
-        - It is possible for Mission to get stuck on MC for too long and the party to be killed
-        - If this happens, click OK, load the QS, and adjust MC's distance from the cave before starting Mission's convo
+        - It is possible for T3 to get stuck on MC for too long and the party to be killed; this typically happens if T3 is too far left
+          - If this happens, click OK, load the QS, and adjust T3's position before trying again
+        - It is also possible for T3 to reach Bastila before the Krayt Dragon moves forward, typically if T3 is too far left or MC was too far away
+          - If this happens, QL and adjust either T3 or MC's positioning while trying again
     - After the interruption, finish Bastila's conversation: 2
     - Deactivate Solo Mode, swap to Bastila and talk to the Krayt Dragon
       - This fixes the dragon in place and you can now move past the right side to the Star Map
@@ -958,6 +1022,7 @@ SHOPPING: Larrim
   - If you can't loot this corpse, Bastila's position was slightly off
   - You can buy a Nerve Amplifier Belt from Mic'Tunan'Jus Orgu in the Tatooine Docking Bay, but it changes your shopping on Korriban (see below)
 - Use [JMT](<../Techniques/Jedi Mine Trick>) to skip the Star Map CS
+- `Level to 8: Strength to 21, Persuade to 10, Disable Droid`
 - [Save Teleport](<../Techniques/Save Teleporting>) back to the front of the Krayt Dragon
   - Make sure your party is following you
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Calo Nord fight (and possibly Krayt Death trigger)
@@ -991,20 +1056,18 @@ SHOPPING: Czerka Shop
   - Computer Spikes
   - All Mines
 - BUY:
-  - 7-8x Life Support Packs (but stay above 2500 Credits)
+  - 6-8x Life Support Packs (stay above 2500 Credits)
   - 5x Echani Battle Stim
   - 5x Hyper Adrenal Alacrity, Strength, and Stamina
   - If you had to buy the Nerve Amplifier Belt, buy instead 4x Echani, 3x Hyper Alacrity, 4x Hyper Strength (no Stamina)
-- End: <80 Credits
+- End: <150 Credits
 ```
 
 - Leave Dreshdae
 - Talk to guard outside academy
 - Reenter Dreshdae
-  - *Force: Cast Force Valor while the door is opening to improve Persuade*
-- QS near Yuthura for safety
 - Talk to Yuthura: 3,4,2,3,1 (-2 DSP)
-  - If you fail the 75% Persuade check, QL and retry
+  - You should never fail this Persuade check anymore
 
 ### Gaining Prestige
 
@@ -1012,7 +1075,6 @@ SHOPPING: Czerka Shop
 - Talk to Lashowe: 1x7, 3, 4
 - Speak with Uthar Wynn and students
 - Yuthura talks to you: 1,1,1,1,4,2,7,5
-- `Level to 8: Strength to 21, Persuade to 10, Disable Droid`
 - Talk to Kel Algwinn
 - Before exiting to Valley, *Stims/Force: Hyper Adrenal Strength, Hyper Adrenal Stamina, and Echani Battle Stimulant on MC, Cast Force Valor*
 - Exit to Valley of the Dark Lords
@@ -1037,6 +1099,8 @@ SHOPPING: Czerka Shop
     - There is nothing worse than love: 2. False
     - Victory by any means is desirable: 2. False
     - It is our passion that fuels the Force: 1. True
+  - You should be level 9 after this conversation; see [Experience Thresholds](#experience-thresholds) for details
+- `Level to 9: Persuade to 11, Master Two-Weapon, Knight Speed`
 - Run backwards and click on Uthar to use [JMT](<../Techniques/Jedi Mine Trick>) on his conversation
   - You'll need to mash through 3,1 and then several clicks so that he congratulates you on getting enough prestige before the mine cancels the convo
   - This skips being sent back to your room, saving around 10 seconds
@@ -1058,8 +1122,6 @@ SHOPPING: Czerka Shop
   - You should hear the Star Map begin to open if you hit the trigger
   - As an alternative, you can deactivate V-Sync for the buffer, then reactivate it afterwards
 - Loot Sith Statue for Sith Lightsaber
-- `Level to 9: Persuade to 11, Master Two-Weapon, Knight Speed`
-  - You may not have this level available if you didn't get enough extra XP in Hrakert Station
 - *Force: Cast Force Valor and Knight Speed*
 - Uthar accosts you: 5,1
 - Kill Uthar and Yuthura accosts you: 1
@@ -1068,7 +1130,6 @@ SHOPPING: Czerka Shop
   - Sparing her prevents the academy from going hostile and preserves our alignment for the Solari crystal later
 - [Save Teleport](<../Techniques/Save Teleporting>) back to the academy
 - After entering the academy, immediately leave and Return to Ebon Hawk to board
-- If you haven't already, `Level to 9: Persuade to 12, Master Two-Weapon, Knight Speed`
 - Fly to Kashyyyk (no Map CS Skip)
 
 ## The Leviathan
@@ -1149,6 +1210,8 @@ SHOPPING: Czerka Shop
 - Darth Malak accosts you again: 1,1,1,1,2,1,4,1
 - Darth Malak fight:
   - As a Scoundrel, use Flurry once next to or slightly behind him to get Sneak Attacks off
+  - Immediately after Malak goes non-hostile but before the CS, use the Sonic Emitter
+    - This breaks the next cutscene in such a way that MC is teleported to a waypoint that is slightly closer to the second phase, saving 3-4s
 - Run/[Save Teleport](<../Techniques/Save Teleporting>) through blast doors after Malak flees
   - *Force: Cast Knight Speed and Force Valor, Hyper Stim Suite on MC*
   - If you had to buy fewer stims on Korriban, don't use any stims here
@@ -1327,23 +1390,21 @@ SHOPPING: Czerka Shop
   - This [Open Buffer](<../Techniques/Save Buffering#open-buffers>) messes with the Dark Jedi AI so they won't attack you unless you attack them first
 - Defeat three Dark Jedi to unseal the door
   - Kill the center one first, then as a Scoundrel, try to get behind the other two before attacking them for Sneak Attacks
-- `If you hit Level 11, Auto-Level MC to reach 22 STR` 
-- Darth Waifu fight
-  - *As a male MC with 12 Persuade*, you can spam all conversations after the first
-  - *As a female MC or with less than 12 Persuade*, use the given conversations to guarantee sparing Bastila
-  - First conversation: 2
-  - First fight phase (use Flurry for all phases; try to make sure Speed stays active)
-    - You can again run slightly past her on the right while she uses Force Resistance to get Sneak Attacks as a Scoundrel
-  - Second conversation: 2, 2, 1
-    - Spam default action during this convo to immediately talk to Bastila and skip phase 2
-    - If you fail to skip it, just attack Bastila
-  - Third conversation: 2, 2 (if you got the phase skip, this convo is also skipped)
-    - Do NOT spam default action here; if you talk to Bastila again, it's a softlock
-  - Defeat her last phase
-    - If your Knight Speed and/or Valor wore off here, it's not worth casting them again until after the fight
-  - Last conversation
-    - *As a male character without enough Persuade*: 1, 1, 1, 3, 2, 3, 1, 1, 1, 1, 1
-    - *As a female character*: 1, 1, 1, 2, 2, 2, 1, 1, 1, 1
+- `Auto-Level to 11`
+  - *If you don't hit this here, you'll need to kill Bastila to hit level 11 (see below).*
+  - *Not hitting level 11 can lose up to a minute on the Malak fight due to no Stasis strat and worse combat rolls.*
+- Open the door to Bastila's chamber, then use the Sonic Emitter to skip the first phase
+  - Start using the Emitter about 1-1.5s after the door starts opening
+- Run left to Bastila and talk to her
+  - Spam default action during this convo to immediately talk to Bastila and skip the second phase as well
+  - If you fail to skip the second phase, just hit her with the saber to get to the next conversation
+- Bastila talks to you, then defeat her final phase
+  - Don't mash default action during this cutscene, as skipping the next phase causes a softlock!
+  - If your Knight Speed and/or Valor wore off here, it's not worth casting them again until after the fight
+- The defeated Bastila talks to you one last time
+  - If you need to kill Bastila to reach level 11, the convo is: 1,1,2,2,3,2, then kill her with Flurry
+  - Otherwise, mash the conversation; a male MC will always be able to spare Bastila during this conversation
+  - A female MC, however, has a 25% chance to kill her in a CS, which loses a little time
 - After the load but before the cutscene on the Harbinger, activate a [Map CS Skip](<../Techniques/Map Cutscene Skips>):
   - *Party: Add Jolee and Bastila*
   - Close the menu and watch the cutscene
@@ -1357,6 +1418,7 @@ SHOPPING: Czerka Shop
 ### Darth Malak Fight
 
 - Phase One, Stasis Strat:
+  - *If Bastila and Jolee are not level 10, you won't be able to use this strat.  This threshold is slightly higher than MC hitting level 11, but usually if you hit level 11 you can use this strat.*
   - QS just before triggering the fight
   - Malak convo: 2
   - IMMEDIATELY after his weapon flourish CS, pause the game
@@ -1378,6 +1440,14 @@ SHOPPING: Czerka Shop
     - This last part is RNG heavy, as you only have a 50% chance to hit Malak
 
 ## Version History
+
+**v5.3 (August 2024)**
+- Updated and rewrote some early game shopping and credit route notes
+- Added two Sonic Emitter Skips to skip Phase 1 Forge Bastila and a little running on Leviathan
+- Updated Krayt Skip with better positioning and party members
+- Added additional notes for XP thresholds to hit level 11
+- Move the Javyar's Cantina transit point to after the Vulkar Base
+- Miscellaneous minor fixes and corrections
 
 **v5.2 (August 2024)**
 - Added the old Scout Build back in as an option; Scoundrel and Scout builds are on average equal.
