@@ -977,14 +977,14 @@ SHOPPING: Larrim
     - Position Bastila in front of the Krayt Dragon in a [precise location](/assets/images/imgur-dump/GGjL3bL.png)
       - Here's [a look at the general spot](/assets/images/imgur-dump/wWAiCqs.png)
       - This position stops the Krayt Dragon in a specific spot during the [Conversation Overlay](<../Techniques/Conversation Overlay>)
-    - Swap to T3 and position her in this [precise location](/assets/images/kotor1/NMGKraytMissionExact.png)
-      - Here's [a look at the general spot](/assets/images/kotor1/NMGKraytMissionRough.png)
+    - Swap to T3 and position her in this [precise location](/assets/images/kotor1/NMGKraytT3Exact.png)
+      - Here's [a look at the general spot](/assets/images/kotor1/NMGKraytT3Rough.png)
       - This position puts T3 almost as far away from the Dragon as possible while still being able to speak to Bastila
-    - Position MC directly behind T3 and before [where the sand texture changes](/assets/images/kotor1/NMGKraytMC.png)
+    - Position MC directly behind T3 and before [where the sand texture changes](/assets/images/kotor1/NMGKraytMCStart.png)
     - Begin the [Conversation Overlay](<../Techniques/Conversation Overlay>):
       - MC talks to T3; QS and use a mine to cancel movement
       - QL and immediately pause. MC should be running towards T3.
-      - Let MC get [just inside the last sand texture](/assets/images/kotor1/NMGKraytMC.png) before the mouth of the cave and pause again
+      - Let MC get [just inside the last sand texture](/assets/images/kotor1/NMGKraytMCPause.png) before the mouth of the cave and pause again
         - This timing will have T3 get temporarily stuck on the MC while running to Bastila
       - Swap to T3 and talk to Bastila while still paused
       - Swap to MC and unpause.  T3 will begin moving towards Bastila and the Krayt Dragon CS will start.
