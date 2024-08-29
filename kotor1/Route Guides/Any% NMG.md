@@ -977,7 +977,7 @@ SHOPPING: Larrim
     - Position Bastila in front of the Krayt Dragon in a [precise location](/assets/images/imgur-dump/GGjL3bL.png)
       - Here's [a look at the general spot](/assets/images/imgur-dump/wWAiCqs.png)
       - This position stops the Krayt Dragon in a specific spot during the [Conversation Overlay](<../Techniques/Conversation Overlay>)
-    - Swap to T3 and position her in this [precise location](/assets/images/kotor1/NMGKraytT3Exact.png)
+    - Swap to T3 and position it in this [precise location](/assets/images/kotor1/NMGKraytT3Exact.png)
       - Here's [a look at the general spot](/assets/images/kotor1/NMGKraytT3Rough.png)
       - This position puts T3 almost as far away from the Dragon as possible while still being able to speak to Bastila
     - Position MC directly behind T3 and before [where the sand texture changes](/assets/images/kotor1/NMGKraytMCStart.png)
