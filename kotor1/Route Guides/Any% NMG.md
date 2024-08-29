@@ -957,14 +957,16 @@ SHOPPING: Larrim
 - [Save Teleport](<../Techniques/Save Teleporting>) past Eastern Dune Sea loading zone
   - This skips a trigger that prevents you from entering without a map
   - A [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) will also cancel the trigger preventing you from entering the loading zone
-- *Party: Add Bastila and Mission*
+- *Party: Add Bastila and T3*
   - If you're doing the 2-frame QS version of Krayt Skip, only add Bastila
+  - We use Bastila because she still has Speed active from Manaan
+  - We use T3 because he doesn't have a banter conversation with Bastila
 - Enter loading zone from the back to enter Eastern Dune Sea
 
 ### Krayt Dragon Skip
 
 - ***Method 1: [Conversation Overlay](<../Techniques/Conversation Overlay>)***
-  - *This is the recommended method.  With practice, this method is consistent, but it is roughly 12 seconds slower than a first try 2-frame QS (see Method 2 below)*
+  - *This is the recommended method.  With practice, this method is consistent, but it is roughly 10 seconds slower than a first try 2-frame QS (see Method 2 below)*
   - To perform Krayt Skip this way:
     - [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) from entrance all the way into the Krayt Dragon's cave
       - Make sure your party follows you!
@@ -975,20 +977,22 @@ SHOPPING: Larrim
     - Position Bastila in front of the Krayt Dragon in a [precise location](/assets/images/imgur-dump/GGjL3bL.png)
       - Here's [a look at the general spot](/assets/images/imgur-dump/wWAiCqs.png)
       - This position stops the Krayt Dragon in a specific spot during the [Conversation Overlay](<../Techniques/Conversation Overlay>)
-    - Swap to Mission and position her in this [precise location](/assets/images/kotor1/NMGKraytMissionExact.png)
+    - Swap to T3 and position her in this [precise location](/assets/images/kotor1/NMGKraytMissionExact.png)
       - Here's [a look at the general spot](/assets/images/kotor1/NMGKraytMissionRough.png)
-      - This position puts Mission as far away from the Dragon as possible while still being able to speak to Bastila
-    - Position MC directly behind Mission and [where the sand texture changes](/assets/images/kotor1/NMGKraytMC.png)
+      - This position puts T3 almost as far away from the Dragon as possible while still being able to speak to Bastila
+    - Position MC directly behind T3 and before [where the sand texture changes](/assets/images/kotor1/NMGKraytMC.png)
     - Begin the [Conversation Overlay](<../Techniques/Conversation Overlay>):
-      - MC talks to Mission; QS and use a mine to cancel movement
-      - QL and immediately pause. MC should be running towards Mission.
+      - MC talks to T3; QS and use a mine to cancel movement
+      - QL and immediately pause. MC should be running towards T3.
       - Let MC get [just inside the last sand texture](/assets/images/kotor1/NMGKraytMC.png) before the mouth of the cave and pause again
-        - This timing will have Mission get temporarily stuck on the MC while running to Bastila
-      - Swap to Mission and talk to Bastila while still paused
-      - Swap to MC and unpause.  Mission will begin running towards Bastila and the Krayt Dragon CS will start.
+        - This timing will have T3 get temporarily stuck on the MC while running to Bastila
+      - Swap to T3 and talk to Bastila while still paused
+      - Swap to MC and unpause.  T3 will begin moving towards Bastila and the Krayt Dragon CS will start.
       - The [Conversation Overlay](<../Techniques/Conversation Overlay>) should cancel the Krayt CS *after* it starts walking but *before* your party is killed.
-        - It is possible for Mission to get stuck on MC for too long and the party to be killed
-        - If this happens, click OK, load the QS, and adjust MC's distance from the cave before starting Mission's convo
+        - It is possible for T3 to get stuck on MC for too long and the party to be killed; this typically happens if T3 is too far left
+          - If this happens, click OK, load the QS, and adjust T3's position before trying again
+        - It is also possible for T3 to reach Bastila before the Krayt Dragon moves forward, typically if T3 is too far left or MC was too far away
+          - If this happens, QL and adjust either T3 or MC's positioning while trying again
     - After the interruption, finish Bastila's conversation: 2
     - Deactivate Solo Mode, swap to Bastila and talk to the Krayt Dragon
       - This fixes the dragon in place and you can now move past the right side to the Star Map
