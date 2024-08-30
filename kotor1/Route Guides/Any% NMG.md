@@ -4,7 +4,7 @@ redirect_from:
 ---
 # Star Wars: Knights of the Old Republic - Any% No Major Glitches Guide
 
-### v5.3: Male/Female Scout/Scoundrel -> Jedi Guardian Route (Light Side)
+### v5.4: Male/Female Scout/Scoundrel -> Jedi Guardian Route (Light Side)
 
 This route defeats Malak on the Star Forge as fast as possible without major glitches.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.   This guide will cover the character build for the run, as well as a detailed route.
 
@@ -295,7 +295,7 @@ There are a few other random drops possible on the Endar Spire that can affect y
 
 **4. 1x Adrenal Stamina**
 - Chance: 0.83%
-- If you get an Adrenal Stamina and you're a Scoundrel, you never have to buy one from Zelka.  You only buy Stamina from Zelka if you can afford it, which only happens with other random loot; getting a Stamina on Spire means you don't have to worry about it.
+- If you get an Adrenal Stamina and you're a Scoundrel, you never have to buy one from Zelka, and can buy the fourth Alacrity stim instead.  You can also afford both with enough other random loot, but getting a Stamina means you can buy 4 Alacrities without thinking about it.
 
 Any other random loot can be sold to Larrim for extra credits that will go towards either an Adrenal Stamina from Zelka as a Scoundrel, or additional Life Support Packs on Korriban.
 
@@ -874,18 +874,19 @@ SHOPPING: Larrim
   - As you open the door, swap to Bastila and *Force: Cast Burst of Speed on Bastila*
 - Talk to Port Authority: 1,3
 - Run to East Central
-- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Sith/Republic soldier conversation again
-- Run forward towards the embassy until the Republic soldier or Security Droid at the end of the fountain are targetable
-- Activate Solo Mode and click the soldier/droid
-- Swap to Bastila, turn right, and run forward until the door is in range and click it
-- Swap to MC and run forward until the Embassy Door is in range and click it
-- Swap to Bastila and run forward down the hall for about a second
-- Swap to MC and run forward to click on Roland Wann
-- Swap to Bastila and run forward until the door to Ahto East is in range and click it
-- Swap to MC and talk to Roland Wann: 3, 1x8
-- Enter the embassy and talk to the interrogator: 1x7,2,4,2,4,3,3
-- Swap to Bastila and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) MC to the Ahto East load zone
-- Enter Ahto East as MC
+- East Central Micro with Bastila (see this [video](https://youtu.be/cig6L-nXKxc)):
+  - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Sith/Republic soldier conversation again
+  - Run forward towards the embassy until the Republic soldier or Security Droid at the end of the fountain are targetable
+  - Activate Solo Mode and click the soldier/droid
+  - Swap to Bastila, turn right, and run forward until the door is in range and click it
+  - Swap to MC and run forward until the Embassy Door is in range and click it
+  - Swap to Bastila and run forward down the hall for about a second
+  - Swap to MC and run forward to click on Roland Wann
+  - Swap to Bastila and run forward until the door to Ahto East is in range and click it
+  - Swap to MC and talk to Roland Wann: 3, 1x8
+  - Enter the embassy and talk to the interrogator: 1x7,2,4,2,4,3,3
+  - Swap to Bastila and [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) MC to the Ahto East load zone
+  - Enter Ahto East as MC
 - *Force: Burst of Speed on MC*
 - QS/QL to fix party following AI
 - Open the first door and [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip rude Sith lady
@@ -971,6 +972,7 @@ SHOPPING: Larrim
 
 - ***Method 1: [Conversation Overlay](<../Techniques/Conversation Overlay>)***
   - *This is the recommended method.  With practice, this method is consistent, but it is roughly 10 seconds slower than a first try 2-frame QS (see Method 2 below)*
+  - *[This video](https://youtu.be/-evy3vIJyC8) demonstrates the Conversation Overlay method at speed.*
   - To perform Krayt Skip this way:
     - [Save Teleport](<../Techniques/Save Teleporting>)/[Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) from entrance all the way into the Krayt Dragon's cave
       - Make sure your party follows you!
@@ -1444,6 +1446,11 @@ SHOPPING: Czerka Shop
     - This last part is RNG heavy, as you only have a 50% chance to hit Malak
 
 ## Version History
+
+**v5.4 (August 2024)**
+- Add a video for Krayt Skip via Conversation Overlay
+- Add a video for the Bastila micro movement in East Central
+- Update info about Adrenal Stamina random loot
 
 **v5.3 (August 2024)**
 - Updated and rewrote some early game shopping and credit route notes
