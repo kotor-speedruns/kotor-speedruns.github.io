@@ -249,8 +249,7 @@ The new credit route always has exactly three shopping trips.  Our credits all c
 - For possible tweaks to this shopping trip, see [Other Random Loot](#other-random-loot) below
 
 **2a. Zelka on Taris**
-- Buy: 4x Adrenal Alacrity
-- Possible: 1x Adrenal Stamina
+- Buy: 3-4x Adrenal Alacrity, 0-1x Adrenal Stamina
 
 **2b. Crattis Yurkal on Dantooine**
 - Buy: 3x Adrenal Alacrity
@@ -503,7 +502,7 @@ SHOPPING: Larrim
   - 2x Concussion Grenades
   - Battle Stimulant
   - All 4 Minor Mines
-- SCOUTS ALSO BUY:
+- SCOUTS (AND SCOUNDRELS STARTING WITH AT LEAST 1014 CREDITS) ALSO BUY:
   - 1x Frag Grenade
 ```
 
@@ -516,9 +515,12 @@ SHOPPING: Larrim
     - Activate Solo Mode
     - As Carth, open door to Upper City North
     - As MC, talk to Zelka in the medical clinic: 5
-    - `BUY:`
-      - `4x Adrenal Alacrity`
-      - `1x Adrenal Stamina if you can afford it (and don't have a random one)`
+    - `Buy at least 4 stims:`
+      - `3 or 4 Adrenal Alacrity`
+      - `0 or 1 Adrenal Stamina`
+      - `Buying Stamina as your fourth stim gives a bit more survivability on Taris, especially in the Sewers and Sith Base.`
+      - `Buying Alacrity gives you a backup if MC or Carth dies in a bad place, or saves <1 second in Dantooine Ruins.`
+      - `If you can afford it (>250 Credits), you should buy all 5 stims (4 Alacrity and 1 Stamina)`
     - *Stims: Use one of each stim on MC (including Stamina if you got/bought one), use Alacrity on Carth*
     - Swap to Carth and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
     - Swap back to Carth and enter Upper City North
@@ -617,7 +619,9 @@ SHOPPING: Larrim
     - Juke past the rancor and enter the Vulkar Base
       - Try to run always at a 90 degree angle from the rancor's pursuit
       - Or, loot the bones and add a Frag Grenade and some Synthesized Odor to the pile of bones to kill the rancor (wastes 20 seconds)
+- ***Optional:*** If you're low on health and/or medpacs, you can Return to Hideout and Transit Back to heal here
 - Enter the Vulkar Base
+
 
 ### Vulkar Base
 
