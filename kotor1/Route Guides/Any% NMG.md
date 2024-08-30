@@ -515,12 +515,12 @@ SHOPPING: Larrim
     - Activate Solo Mode
     - As Carth, open door to Upper City North
     - As MC, talk to Zelka in the medical clinic: 5
-    - `Buy 4 Stims:`
+    - `Buy at least 4 stims:`
       - `3 or 4 Adrenal Alacrity`
       - `0 or 1 Adrenal Stamina`
       - `Buying Stamina as your fourth stim gives a bit more survivability on Taris, especially in the Sewers and Sith Base.`
       - `Buying Alacrity gives you a backup if MC or Carth dies in a bad place, or saves <1 second in Dantooine Ruins.`
-      - `If you can afford it, you should buy all 5 stims (4 Alacrity and 1 Stamina)`
+      - `If you can afford it (>250 Credits), you should buy all 5 stims (4 Alacrity and 1 Stamina)`
     - *Stims: Use one of each stim on MC (including Stamina if you got/bought one), use Alacrity on Carth*
     - Swap to Carth and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
     - Swap back to Carth and enter Upper City North
