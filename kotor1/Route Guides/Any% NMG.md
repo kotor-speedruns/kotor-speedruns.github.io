@@ -4,7 +4,7 @@ redirect_from:
 ---
 # Star Wars: Knights of the Old Republic - Any% No Major Glitches Guide
 
-### v5.3: Male/Female Scout/Scoundrel -> Jedi Guardian Route (Light Side)
+### v5.4: Male/Female Scout/Scoundrel -> Jedi Guardian Route (Light Side)
 
 This route defeats Malak on the Star Forge as fast as possible without major glitches.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.   This guide will cover the character build for the run, as well as a detailed route.
 
@@ -1446,6 +1446,11 @@ SHOPPING: Czerka Shop
     - This last part is RNG heavy, as you only have a 50% chance to hit Malak
 
 ## Version History
+
+**v5.4 (August 2024)**
+- Add a video for Krayt Skip via Conversation Overlay
+- Add a video for the Bastila micro movement in East Central
+- Update info about Adrenal Stamina random loot
 
 **v5.3 (August 2024)**
 - Updated and rewrote some early game shopping and credit route notes
