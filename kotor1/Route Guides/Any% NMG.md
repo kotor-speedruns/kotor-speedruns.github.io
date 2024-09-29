@@ -1191,6 +1191,8 @@ SHOPPING: Czerka Shop
   - *Jedi Knight Robe*
   - *Nerve Amplifier Belt*
   - *Double-Bladed Lightsaber*
+- ***Optional:*** Use a [Menu Item Duplication](<../Techniques/Item Duplication#menu-duping>) to dupe the Nerve Amplifier Belt onto Carth
+  - This prevents Carth from being stunned on the Leviathan Bridge, making the escape from the Bridge more consistent
 - [Save Teleport](<../Techniques/Save Teleporting>) to the elevator to Bridge: 2
 
 ### Bridge
@@ -1214,21 +1216,23 @@ SHOPPING: Czerka Shop
   - If that fails, the door may look open but be closed and solid (if your QS was slightly late)
   - If that happens, QS/QL and you can open the door without donning the suit
 - Once on the other side, Activate Solo Mode
-- As Carth and Bastila, [Save Teleport](<../Techniques/Save Teleporting>) through the door on the right
-  - Tuck them in the corner to attempt to deaggro them
+- As Carth and Bastila, [Save Teleport](<../Techniques/Save Teleporting>) to the door on the right
+  - Have the first party member open that door
   - The goal is to have them stay close enough to the exit while you do Saul Karath skip
 - Swap back to MC and [Save Teleport](<../Techniques/Save Teleporting>) up to bridge door
 - Saul Karath Skip:
-  - ***Optional:** Hard Save for safety; it is possible to softlock here
+  - ***Optional:*** Hard Save for safety; it is possible to softlock here
   - This trick is a [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>), but the timing is quite precise
   - Open Bridge Door and QS twice, then load immediately
   - If the trick works, the bridge door will be open, the fight will not start, and Bastila and Carth will be in your party
   - If Bastila and Carth are not in your party, you've softlocked
   - If your last QS was too late, your game will crash when you load
+- As soon as you load from the buffer, *Medpacs: Carth and Bastila via hotkey*
+  - This uses a Life Support Pack on each and helps ensure they stay alive until you reach the exit
 - Once successful, hack bridge terminal: 1,2
 - [Save Teleport](<../Techniques/Save Teleporting>) to the exit
-  - Bastila and Carth may be dead; if they're still on the farther half of the room that's fine
-  - If they died closer to the bridge, you'll have to kill the five soldiers to revive them
+  - If you can't go through, swap to Carth/Bastila and [Save Teleport](<../Techniques/Save Teleporting>) them towards the exit until you can leave
+  - If Carth or Bastila died too far from the exit, you'll need to kill all five Sith Soldiers to leave
 - Back on the Command Deck, *Medpacs: Everyone as needed*
 - *Force: Cast Knight Speed on MC*
 - Kill the Sith guard nearby to the left
