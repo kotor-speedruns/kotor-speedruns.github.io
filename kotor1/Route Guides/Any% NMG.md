@@ -1211,7 +1211,7 @@ SHOPPING: Czerka Shop
 - Run through next room, bash down door, and enter bridge storage
   - If you get stunned or your party wanders off, QL and retry
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the spacewalk
-  - Click the door, QS once, then QL
+  - Click the door, immediately QS once, then QL
   - Done perfectly, you can run through the space section without any trouble
   - If that fails, the door may look open but be closed and solid (if your QS was slightly late)
   - If that happens, QS/QL and you can open the door without donning the suit
@@ -1229,8 +1229,8 @@ SHOPPING: Czerka Shop
   - If your last QS was too late, your game will crash when you load
 - As soon as you load from the buffer, *Medpacs: Carth and Bastila via hotkey*
   - This uses a Life Support Pack on each and helps ensure they stay alive until you reach the exit
-- Once successful, hack bridge terminal: 1,2
-- [Save Teleport](<../Techniques/Save Teleporting>) to the exit
+- [Save Teleport](<../Techniques/Save Teleporting>) to hack bridge terminal: 1,2
+- [Save Teleport](<../Techniques/Save Teleporting>) straight down the ramp to the exit
   - If you can't go through, swap to Carth/Bastila and [Save Teleport](<../Techniques/Save Teleporting>) them towards the exit until you can leave
   - If Carth or Bastila died too far from the exit, you'll need to kill all five Sith Soldiers to leave
 - Back on the Command Deck, *Medpacs: Everyone as needed*
