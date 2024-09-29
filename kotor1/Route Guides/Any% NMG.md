@@ -253,9 +253,9 @@ The new credit route always has exactly three shopping trips.  Our credits all c
 ### Shopping Trips
 
 **1. Larrim on Taris**
-- Sell: All except Medpacs, Computer Spikes, Concussion and Frag Grenades, Stims
-- Scoundrels Buy: 2x Concussion Grenades, 1x Battle Stimulant, 4x Minor Mines
-- Scouts Buy: 2x Concussion Grenades, 1x Frag Grenade, 1x Battle Stimulant, 4x Minor Mines
+- Sell: All except Medpacs, Computer Spikes, Concussion and possibly Frag Grenades, Stims
+- Buy: 2x Concussion Grenades, 1x Battle Stimulant, 4x Minor Mines
+- Scouts Also Buy: 1x Frag Grenade
 - For possible tweaks to this shopping trip, see [Other Random Loot](#other-random-loot) below
 
 **2a. Zelka on Taris**
@@ -289,7 +289,7 @@ You should only have to do one of these shopping trips unless you use extra Alac
 
 ### Other Random Loot
 
-There are a few other random drops possible on the Endar Spire that can affect your initial shopping trip with Larrim.  Most are centered around grenades; you need to leave Larrim with at least 2 Concussion Grenades and 1 Frag Grenade, but with random loot you could have up to 4 Concs and 3 Frags.  The more of each you get, the easier the fights with the Assault Droid (for Concussion Grenades) or the Lower Sewers Rakghouls (for Frag Grenades) will be.
+There are a few other random drops possible on the Endar Spire that can affect your initial shopping trip with Larrim.  Most are centered around grenades; you need to leave Larrim with at least 2 Concussion Grenades (and 1 Frag Grenade if you're doing the Lower Sewers GP Warp), but with random loot you could have up to 4 Concs and 3 Frags.  The more of each you get, the easier the fights with the Assault Droid (for Concussion Grenades) or the Lower Sewers Rakghouls (for Frag Grenades) will be.
 
 **1. 2x Concussion Grenade**
 - Chance: 0.83%
@@ -297,17 +297,17 @@ There are a few other random drops possible on the Endar Spire that can affect y
 
 **2. 1-2x Frag Grenade**
 - Chance: 10.7% of at least one
-- This only changes Larrim's shopping if you're a Scout, in which case you can skip buying the Frag Grenade that you would normally buy.  For a Scoundrel, see the discussion under Concussion Grenades above.
+- This only changes Larrim's shopping if you're a Scout, in which case you can skip buying the Frag Grenade that you would normally buy.  For a Scoundrel, getting an extra Frag Grenade makes Lower Sewers GP Warp much more consistent; see the discussion under Concussion Grenades above as well.
 
 **3. 1x Battle Stimulant**
 - Chance: 0.83%
-- If you get a Battle Stimulant on the Spire, you don't have to buy one from Larrim.  This lets you spend those credits elsewhere, most notably buying an Adrenal Stamina as a Scoundrel from Zelka.
+- If you get a Battle Stimulant on the Spire, you don't have to buy one from Larrim.  This lets you spend those credits elsewhere, most notably buying a fifth stim as a Scoundrel from Zelka.
 
 **4. 1x Adrenal Stamina**
 - Chance: 0.83%
 - If you get an Adrenal Stamina and you're a Scoundrel, you never have to buy one from Zelka, and can buy the fourth Alacrity stim instead.  You can also afford both with enough other random loot, but getting a Stamina means you can buy 4 Alacrities without thinking about it.
 
-Any other random loot can be sold to Larrim for extra credits that will go towards either an Adrenal Stamina from Zelka as a Scoundrel, or additional Life Support Packs on Korriban.
+Any other random loot can be sold to Larrim for extra credits that will go towards either a fifth stim from Zelka as a Scoundrel, or additional Life Support Packs on Korriban.
 
 ## Alignment Route
 
@@ -505,15 +505,15 @@ SHOPPING: Larrim
 - SELL ALL EXCEPT:
   - Medpacs
   - Computer Spikes
-  - Frag Grenades
+  - Frag Grenades (if you want to do the Lower Sewers GP Warp)
   - Concussion Grenades (if you have any)
-  - Stims (if you have any)
+  - Alacrity, Stamina, or Battle Stims (if you have any)
 - BUY:
   - 2x Concussion Grenades
   - Battle Stimulant
   - All 4 Minor Mines
-- SCOUTS (AND SCOUNDRELS STARTING WITH AT LEAST 1014 CREDITS) ALSO BUY:
-  - 1x Frag Grenade
+- SCOUTS (AND SCOUNDRELS STARTING WITH AT LEAST 1014 CREDITS) CAN ALSO BUY:
+  - 1x Frag Grenade (only if you want to do the Lower Sewers GP Warp)
 ```
 
 - Exit to Upper City South
@@ -588,7 +588,9 @@ SHOPPING: Larrim
 *The Sewers are one of the riskiest parts of Taris, as MC has to run past a lot of enemies with not a lot of Vitality.  Try to keep MC's health high while in the Sewers and use medpacs as needed.*
 
 - ***Optional Strat: Lower Sewers [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)***
-  - *This strat saves about 4 seconds, if all goes well.  It is a high variance strat due to rakghoul combat and trying to [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) while MC is in combat.*
+  - *This strat saves about 4 seconds, if all goes well.  It is a high variance strat mostly due to rakghoul combat, but you also have to [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) while MC is in combat.*
+  - *If you have at least two Frag Grenades, this strat is recommended as the rakghoul fight is much more consistent.  Scouts will always have two Frag Grenades here.*
+  - *This strat is not recommended if you sold your Frag Grenade(s) to Larrim.*
   - *To perform this strat:*
     - Open first door, then door on right
     - Activate Solo Mode
@@ -640,25 +642,27 @@ SHOPPING: Larrim
 ### Vulkar Base
 
 - Kill the patrol droid if Carth is present
-  - You can skip it if MC is alone
+  - You should skip it if MC is alone
 - Defense Turret Skip
   - Open door to elevator area, stand in doorframe corner near terminal, QS and pause the game
-  - You can choose to try the 1-Grenade skip or 2-Grenade skip
-    - 1 Grenade is only recommended if Carth is not present; if you have Carth, throwing 2 Grenades is better
-    - For solo MC, 1 Grenade is up to 4s faster, but far riskier; it also saves an extra Concussion grenade for Sith Base
-  - For the 2-Grenade skip (up to 70.5% chance of success):
-    - Throw two Concussion Grenades (use Carth if he is present) at center turret
+  - You can choose to throw 1 Concussion Grenade (Conc) or 2
+    - 1 Conc is only recommended if Carth is not present
+      - If you have Carth, throwing 2 Concs is more consistent and not slower
+    - For solo MC, 1 Conc can be 4s faster, but far riskier; it also gives you at least 2 Concs for Assault Droid
+    - If you got a random Conc, you should always throw 2 unless you really want to try for that 4s timesave
+  - For the 2-Conc skip (up to 70.5% chance of success):
+    - Throw two Concs (use Carth if he is present) at center turret
     - If all three turrets are stunned (59.6% chance), take the elevator to the Garage
     - If two turrets are stunned (33.9% chance) and MC is alone, you can either QL or run for the elevator
       - The last turret has a 30% chance to miss you
       - If you are killed, reload the QS from the main menu and try again
     - If one or fewer turrets are stunned, QL and try again
       - You only have a 9% chance to survive if two turrets are active, and a 2.7% chance if all three are active
-  - For the 1-Grenade skip (up to 34.56% chance of success):
-    - Throw one Concussion grenade at the central turret
+  - For the 1-Conc skip (up to 34.56% chance of success):
+    - Throw one Conc at the central turret
     - If all three turrets are stunned (21.6% chance), take the elevator to the Garage
     - If two turrets are stunned (43.2% chance), run for the elevator
-      - 1 Grenade is really only worth it if you're willing to take this risk
+      - 1 Conc is really only worth it if you're willing to take this risk
     - If one or fewer turrets are stunned, QL and try again or throw a second grenade (see 2-Grenade)
 - In the Garage, if Carth is present, Activate Solo Mode
 - If Carth is present, have MC kill both Vulkars in central hallway
@@ -1501,6 +1505,7 @@ SHOPPING: Czerka Shop
 - Change how you return to the Sith Academy after killing Lashowe
 - Update XP Thresholds to include level 5
 - Update Turret Skip with more in-depth strategies
+- Update Larrim's shopping to allow for selling Frag Grenades
 - Update strats in the Sewers with better timing info
 
 **v5.4 (August 2024)**
