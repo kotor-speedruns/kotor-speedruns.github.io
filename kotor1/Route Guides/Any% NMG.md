@@ -1311,15 +1311,15 @@ SHOPPING: Czerka Shop
 - Activate Solo Mode
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) or [Save Teleport](<../Techniques/Save Teleporting>) to skip the Mandalorian CS
 - [Save Teleport](<../Techniques/Save Teleporting>) to skip a kinrath spawn
-  - If you miss it, kill the Kinrath, because we'll have to return with Jolee and T3
+  - If you miss it, you can either use the [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) backup below, or kill the kinrath
   - Try to QS a few steps after the hanging vine
-- Deactivate Solo Mode near the Star Map Computer
+- Only if you successfully skipped the kinrath spawn, deactivate Solo Mode near the Star Map Computer
 - Use [JMT](<../Techniques/Jedi Mine Trick>) on the Star Map Computer: 2
   - You need to spam through the conversation so that the Star Map starts to open before the mine cancels the convo
   - You should now be out of mines
-- Jolee (and possibly T3) teleport to you
 - Run/[Save Teleport](<../Techniques/Save Teleporting>) back to Upper Shadowlands
-  - Make sure your party follows you out!
+  - If needed, use a [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp your party to the exit
+  - This can either be timed from a distance, or you can disable V-Sync to make it easier
 
 ### Leaving Kashyyyk
 
@@ -1503,7 +1503,9 @@ SHOPPING: Czerka Shop
 
 **v5.5 (September 2024)**
 - Add a new Stasis strat for Phase 2 of Star Forge Malak
-- Add Save Buffers to skip two Zaalbar conversations on the Ebon Hawk
+- Add Save Buffers to skip two Zaalbar conversations on the Ebon 
+- Add two quick, useful safety strats to Leviathan
+- Add GP Warp backup strat to Lower Shadowlands
 - Change where Bastila is added on Manaan
 - Change how you return to the Sith Academy after killing Lashowe
 - Update XP Thresholds to include level 5
