@@ -289,15 +289,15 @@ You should only have to do one of these shopping trips unless you use extra Alac
 
 ### Other Random Loot
 
-There are a few other random drops possible on the Endar Spire that can affect your initial shopping trip with Larrim.  Most are centered around grenades; you need to leave Larrim with at least 2 Concussion Grenades (and 1 Frag Grenade if you're doing the Lower Sewers GP Warp), but with random loot you could have up to 4 Concs and 3 Frags.  The more of each you get, the easier the fights with the Assault Droid (for Concussion Grenades) or the Lower Sewers Rakghouls (for Frag Grenades) will be.
+There are a few other random drops possible on the Endar Spire that can affect your initial shopping trip with Larrim.  Most are centered around grenades; you need to leave Larrim with at least 2 Concussion Grenades (and 1 Frag Grenade if you're doing the [Lower Sewers GP Warp](#sewers)), but with random loot you could have up to 4 Concs and 3 Frags.  The more of each you get, the easier the fights with the Assault Droid (for Concussion Grenades) or the Rakghouls during [Lower Sewers GP Warp](#sewers) (for Frag Grenades) will be.
 
 **1. 2x Concussion Grenade**
 - Chance: 0.83%
-- If you get this random drop as a Scoundrel and do *not* have 2 or more Frag Grenades at the start of the shopping trip, you should buy 1x Concussion Grenade and 1x Frag Grenade instead of 2x Concussion Grenades.  This lets you reach 3 Concs and 2 Frags without spending additional credits.  If you get this random drop and an additional random Frag from Spire, you should still buy 2x Concussion Grenades, as it's more important to hit 4 Concs than 3 Frags.
+- As a Scout, this doesn't affect your shopping with Larrim at all, just how you use your Concussion Grenades.  If you get this random drop as a Scoundrel and do *not* have 2 or more Frag Grenades at the start of the shopping trip, you should buy 1x Concussion Grenade and 1x Frag Grenade instead of 2x Concussion Grenade, and then do [Lower Sewers GP Warp](#sewers).  If you really don't want to do [Lower Sewers GP Warp](#sewers) or got this drop *and* a random Frag Grenade on Spire, you can either still buy 2x Concussion Grenade (giving you a whopping 5 Concs for Taris), or buy 1 Conc and the fifth stim from Zelka.
 
 **2. 1-2x Frag Grenade**
 - Chance: 10.7% of at least one
-- This only changes Larrim's shopping if you're a Scout, in which case you can skip buying the Frag Grenade that you would normally buy.  For a Scoundrel, getting an extra Frag Grenade makes Lower Sewers GP Warp much more consistent; see the discussion under Concussion Grenades above as well.
+- This only changes Larrim's shopping if you're a Scout, in which case you can skip buying the Frag Grenade that you would normally buy.  For a Scoundrel, getting an extra Frag Grenade makes [Lower Sewers GP Warp](#sewers) much more consistent; see the discussion under Concussion Grenades above as well.
 
 **3. 1x Battle Stimulant**
 - Chance: 0.83%
