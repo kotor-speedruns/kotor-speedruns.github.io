@@ -1313,7 +1313,7 @@ SHOPPING: Czerka Shop
 - [Save Teleport](<../Techniques/Save Teleporting>) to skip a kinrath spawn
   - If you miss it, you can either use the [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) backup below, or kill the kinrath
   - Try to QS a few steps after the hanging vine
-- Only if you successfully skipped the kinrath spawn, deactivate Solo Mode near the Star Map Computer
+- If the kinrath are unspawned or dead, deactivate Solo Mode near the Star Map Computer
 - Use [JMT](<../Techniques/Jedi Mine Trick>) on the Star Map Computer: 2
   - You need to spam through the conversation so that the Star Map starts to open before the mine cancels the convo
   - You should now be out of mines
@@ -1460,6 +1460,8 @@ SHOPPING: Czerka Shop
 ### Darth Malak Fight
 
 *If Bastila and Jolee are not level 10, you won't be able to use the Stasis strat, as they only learn Stasis at Auto-Level 10.  This XP threshold is slightly higher than MC hitting level 11, but usually if you hit level 11 you can use this strat.*
+
+*[This video](https://youtu.be/g7umauLwQ28) shows the Stasis strats described below.*
 
 - Phase One:
   - ***Optional:*** QS at the end of the walkway leading to Malak
