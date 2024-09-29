@@ -1118,7 +1118,8 @@ SHOPPING: Czerka Shop
 - Speak with Uthar Wynn and students
 - Yuthura talks to you: 1,1,1,1,4,2,7,5
 - Talk to Kel Algwinn
-- Before exiting to Valley, *Stims/Force: Hyper Adrenal Strength, Hyper Adrenal Stamina, and Echani Battle Stimulant on MC, Cast Force Valor*
+- Open the door to Valley of the Dark Lords but don't enter yet
+- *Stims/Force: Hyper Adrenal Strength, Hyper Adrenal Stamina, and Echani Battle Stimulant on MC, Cast Force Valor*
 - Exit to Valley of the Dark Lords
 - [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk, then Transit Back 
   - This skips the Darth Bandon fight; you can also [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) instead
@@ -1383,13 +1384,11 @@ SHOPPING: Czerka Shop
 - Choose to remain true to the light side
   - This is faster than the Dark Side ending; no party members on Star Forge to get in the way
 - Hack computer terminal to lower disruptor field
-- Run/[Save Teleport](<../Techniques/Save Teleporting>) back to the main floor, but enter with Canderous
-- As Canderous, Run/[Save Teleport](<../Techniques/Save Teleporting>) out of the temple and back to Central Beach
+- Run/[Save Teleport](<../Techniques/Save Teleporting>) back to the Main Floor
+- Run/[Save Teleport](<../Techniques/Save Teleporting>) out of the temple and back to Central Beach
   - Make sure your party follows you in Temple Exterior; if you spend too long there, a STUNT CS will trigger!
-- As soon as you reach the Central Beach, board the nearby Ebon Hawk as Canderous
+- As soon as you reach the Central Beach, swap to Canderous and board the nearby Ebon Hawk
   - Canderous teleports to be there for the CS outside the Ebon Hawk, but stays in your party
-  - If it says you're in combat, move Jolee and MC as far away from the Rakatan Warriors as possible and try again
-  - If it still says you're in combat, MC will have to kill the Rakatan warriors before Canderous can board
 - **Upgrade Double-Bladed Lightsaber: Replace Opila with Solari**
 - Repair the hyperdrive on the Ebon Hawk
 - Fly to the Star Forge
