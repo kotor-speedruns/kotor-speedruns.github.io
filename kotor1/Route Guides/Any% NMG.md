@@ -903,10 +903,10 @@ SHOPPING: Larrim
     - Run past him and open the door
 - Exit to West Central Ahto City
 - Talk to Port Authority: 1,3
-- Run towards East Central
+- Open the door to East Central but don't enter yet
 - *Party: Add Bastila just before entering East Central*
-- Enter East Central
-  - As you open the door, swap to Bastila and *Force: Cast Burst of Speed on Bastila*
+- Swap to Bastila and *Force: Cast Burst of Speed*
+- Swap to MC and enter East Central Ahto City
 - East Central Micro with Bastila (see this [video](https://youtu.be/cig6L-nXKxc)):
   - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Sith/Republic soldier conversation again
   - Run forward towards the embassy until the Republic soldier or Security Droid at the end of the fountain are targetable
