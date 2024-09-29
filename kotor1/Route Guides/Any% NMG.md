@@ -4,7 +4,7 @@ redirect_from:
 ---
 # Star Wars: Knights of the Old Republic - Any% No Major Glitches Guide
 
-### v5.4: Male/Female Scout/Scoundrel -> Jedi Guardian Route (Light Side)
+### v5.5: Male/Female Scout/Scoundrel -> Jedi Guardian Route (Light Side)
 
 This route defeats Malak on the Star Forge as fast as possible without major glitches.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.   This guide will cover the character build for the run, as well as a detailed route.
 
@@ -184,7 +184,8 @@ We choose Flurry because it's an overall better combat feat for the run; more at
 
 ### Experience Thresholds
 
-There are three important XP thresholds in this run:
+There are four important XP thresholds in this run:
+- 10000 XP: Reaching Level 5 before becoming a Jedi, so that Jedi grants you Level 6
 - 36000 XP: Reaching Level 9 before the fight with Uthar and Yuthura in the Tomb of Naga Sadow
 - 55000 XP: Reaching Level 11 before the fight with Bastila on Star Forge
 - 55250-55430 XP: Bastila and Jolee reaching Level 10 before Viewing Platform (see Party Experience below)
@@ -578,31 +579,36 @@ SHOPPING: Larrim
 *The Sewers are one of the riskiest parts of Taris, as MC has to run past a lot of enemies with not a lot of Vitality.  Try to keep MC's health high while in the Sewers and use medpacs as needed.*
 
 - ***Optional Strat: Lower Sewers [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)***
-  - *This strat saves about 10 seconds, but can be risky as you may be trying to [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) while MC is in combat.*
+  - *This strat saves about 4 seconds, if all goes well.  It is a high variance strat due to rakghoul combat and trying to [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) while MC is in combat.*
   - *To perform this strat:*
     - Open first door, then door on right
     - Activate Solo Mode
     - Throw all remaining frag grenades at the rakghouls
-      - You should always have at least one; if you have more, throw one each as different party members
+      - You should always have at least one if you didn't sell it
+      - If you have more than one, use different party members to throw one each
     - As MC, run up the path past the Gamorrean and open first door on right
       - While this happens, Carth and Mission should finish off the rakghouls
       - We need them out of the way for the upcoming [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)
     - Swap to Carth and open door on left (before the force field)
     - Swap to MC and rescue Zaalbar
     - *Party: Add Carth, Keep Mission when prompted*
-    - Run MC slightly into Zaalbar's cell for protection from the Gamorreans (and use a medpac if needed)
+    - Run MC slightly into Zaalbar's cell for protection from the Gamorreans and use a medpac
+      - The Gamorreans can hit hard, so you should always medpac unless you're already at full health
     - Swap to Carth and use the console to have Mission lower the force field
     - Swap to Mission and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to teleport MC
   - *If you choose not to use the above strat:*
-    - Activate Solo Mode and place Mission next to ladder
-    - Run to cell and free Zaalbar
+    - Activate Solo Mode
+    - As MC, queue a Recover action on the mine ahead
+    - Swap to Mission and place her right next to the ladder
+    - Swap back to MC and interrupt the Recover action to open the door
+    - Run to Zaalbar's cell and free him
     - *Party: Keep Mission when prompted*
-    - Switch to Mission and leave by ladder
-    - Reenter sewers and Activate Solo Mode
+    - Immediately swap to Mission and leave by ladder
+    - Swap to MC and re-enter sewers
     - Interact with console to have Mission lower the force field
 - Enter Upper Sewers
 - ***Optional Strat: Upper Sewers [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)***
-  - *This strat saves about 10 seconds in the Vulkar Garage, but it can be finicky as Carth may be in combat, and your party members may move at inopportune times.*
+  - *This strat allows you to bring Carth to the Vulkar Base, but only saves at most 2 seconds.  It basically comes down to personal preference whether you'd rather do [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) or the alternate strat, Rancor Juke.*
   - *To perform this strat:*
     - *Party: Make sure Carth is in and Mission is out*
     - Activate Solo Mode
@@ -613,29 +619,41 @@ SHOPPING: Larrim
       - We want to eliminate these guards so MC doesn't die while Carth is running
     - Run through sewers to same point as before
     - Swap to MC and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to teleport Carth to end of sewers
+    - ***Optional:*** If you're low on health and/or medpacs, you can Return to Hideout and Transit Back to heal here
   - *If you choose not to use the above strat:*
     - *Party: Remove Mission and Carth*
     - Run through left tunnel, then take right tunnel
+      - Use medpacs via hotkey as you open doors to keep your health high
     - Juke past the rancor and enter the Vulkar Base
       - Try to run always at a 90 degree angle from the rancor's pursuit
-      - Or, loot the bones and add a Frag Grenade and some Synthesized Odor to the pile of bones to kill the rancor (wastes 20 seconds)
-- ***Optional:*** If you're low on health and/or medpacs, you can Return to Hideout and Transit Back to heal here
 - Enter the Vulkar Base
-
 
 ### Vulkar Base
 
 - Kill the patrol droid if Carth is present
   - You can skip it if MC is alone
 - Defense Turret Skip
-  - Open door to elevator area
-  - Stand in doorframe corner near terminal and QS
-  - Throw both concussion grenades (use Carth if present) at center turret
-  - If any turret remains unstunned, QL and try again
-  - If all three turrets are stunned (59.6% chance), take the elevator to the Garage
-  - If MC is alone, you can try to reach the garage with only 2 turrets stunned. There's about a 35% chance the remaining turret will miss you.
-- Activate Solo Mode (if Carth is present)
+  - Open door to elevator area, stand in doorframe corner near terminal, QS and pause the game
+  - You can choose to try the 1-Grenade skip or 2-Grenade skip
+    - 1 Grenade is only recommended if Carth is not present; if you have Carth, throwing 2 Grenades is better
+    - For solo MC, 1 Grenade is up to 4s faster, but far riskier; it also saves an extra Concussion grenade for Sith Base
+  - For the 2-Grenade skip (up to 70.5% chance of success):
+    - Throw two Concussion Grenades (use Carth if he is present) at center turret
+    - If all three turrets are stunned (59.6% chance), take the elevator to the Garage
+    - If two turrets are stunned (33.9% chance) and MC is alone, you can either QL or run for the elevator
+      - The last turret has a 30% chance to miss you
+      - If you are killed, reload the QS from the main menu and try again
+    - If one or fewer turrets are stunned, QL and try again
+      - You only have a 9% chance to survive if two turrets are active, and a 2.7% chance if all three are active
+  - For the 1-Grenade skip (up to 34.56% chance of success):
+    - Throw one Concussion grenade at the central turret
+    - If all three turrets are stunned (21.6% chance), take the elevator to the Garage
+    - If two turrets are stunned (43.2% chance), run for the elevator
+      - 1 Grenade is really only worth it if you're willing to take this risk
+    - If one or fewer turrets are stunned, QL and try again or throw a second grenade (see 2-Grenade)
+- In the Garage, if Carth is present, Activate Solo Mode
 - If Carth is present, have MC kill both Vulkars in central hallway
+  - You don't have to kill any Vulkars if you are alone
 - As Carth (or as MC if no Carth):
   - Take hallway on right and enter last door on right
   - Loot Garage Head's Desk (for keycard) and supplies (for Computer Spikes)
@@ -643,7 +661,7 @@ SHOPPING: Larrim
   - Continue past the mines, turn left and take last door on left
   - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Kandon Ark fight
 - Get the swoop accelerator
-  - Watch out for the frag mine in front of it
+  - Watch out for the frag mine in front of it; you can dodge it, or with at least 10 HP just tank it
 - Talk to Kandon Ark: 1,1,1 (-2 DSP)
 - This will teleport you outside the Vulkar base
 
@@ -737,8 +755,10 @@ SHOPPING: Larrim
 - Watch the Malak/Saul CS
 - After loading in Davik's Estate, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Davik/Calo convo and fight
 - Switch to T3 and [Save Teleport](<../Techniques/Save Teleporting>) through the door on the right, and the next door
-- Hack security terminal: 1,2,2,4,3
-- [Save Teleport](<../Techniques/Save Teleporting>) to enter the hangar and reach the Ebon Hawk
+- As T3, hack security terminal: 1,2,2,4,3
+- As T3, [Save Teleport](<../Techniques/Save Teleporting>) to enter the hangar and reach the Ebon Hawk
+  - You'll need to swap back to T3 when you open the hangar door
+  - Make sure one of the guards dies if you need XP to hit level 5; see [Experience Thresholds](#experience-thresholds) for details
 - Board the Ebon Hawk, then use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
   - This skips the cutscenes between Taris and Dantooine, as well as the fighter skirmish 
 
@@ -851,16 +871,15 @@ SHOPPING: Larrim
   - [Map CS Skip](<../Techniques/Map Cutscene Skips>) once
   - Reboard Ebon Hawk
   - [Map CS Skip](<../Techniques/Map Cutscene Skips>) again
-    - Add Bastila during the second Map CS Skip
+    - You do *not* need to add any party member here
 
 ## Manaan
 
 ### Ahto City
 
-- Having a party member skips a Selkath announcement after the first door
-  - If you didn't add Bastila, [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip it instead
-- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Sith/Republic soldier conversation
-  - If you miss this, the conversation is just: 4
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Selkath announcement after the first door
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Sith/Republic soldier conversation after the second door
+  - These two buffers can be combined into one if you're comfortable opening the second door while buffering 
 - ***Conditional Shopping: Selkath Merchant***
   - Check the [Credit Route](#buying-alacrities) section to see if you should shop here
   - *To shop with Selkath Merchant:*
@@ -869,11 +888,12 @@ SHOPPING: Larrim
     - Open the door near the merchant and keep running
   - *To skip Selkath Merchant:*
     - Run past him and open the door
-- Bastila accosts you; ignore her: 2
 - Exit to West Central Ahto City
-  - As you open the door, swap to Bastila and *Force: Cast Burst of Speed on Bastila*
 - Talk to Port Authority: 1,3
-- Run to East Central
+- Run towards East Central
+- *Party: Add Bastila just before entering East Central*
+- Enter East Central
+  - As you open the door, swap to Bastila and *Force: Cast Burst of Speed on Bastila*
 - East Central Micro with Bastila (see this [video](https://youtu.be/cig6L-nXKxc)):
   - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Sith/Republic soldier conversation again
   - Run forward towards the embassy until the Republic soldier or Security Droid at the end of the fountain are targetable
@@ -940,6 +960,9 @@ SHOPPING: Larrim
 - Reenter station through righthand door
 - Return to surface with the submersible, return to Ebon Hawk and board
   - While running to the submersible, you can hover your mouse over your character portrait to check your XP; see [Experience Thresholds](#experience-thresholds) for details
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Zaalbar's stowaway interruption
+  - There are two triggers for this; one at the entrance to the hawk, and one at the start of the hallway to the cockpit
+  - If you buffer the first trigger, the second one goes away; but if you [Save Teleport](<../Techniques/Save Teleporting>) over it instead, you'll need to buffer the second trigger also
 - Fly to Tatooine with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
 
 ## Tatooine
@@ -1093,13 +1116,9 @@ SHOPPING: Czerka Shop
 - Kill the Tukatas
 - Lashowe confronts you: 2,3
 - Kill Lashowe and loot her corpse for Holocron
-- Return to Ebon Hawk
-  - If you added Juhani and Zaalbar for the fight, remove them while returning
-- [Save Teleport](<../Techniques/Save Teleporting>) back to Sith Academy
-  - Make sure you skip triggers for Shaardan (if needed), the Sith Apprentice, and the Sith Thugs
-  - If at any time you think you've triggered one, you can [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip it
-- Re-enter the Academy through Sith Academy Entrance
-- Talk to Uthar Wynn: 3,1,4,3,2,3,4,4,X,4,2,2,4
+- *Party: Remove Juhani and Zaalbar if you added them*
+- [Save Teleport](<../Techniques/Save Teleporting>) back through the Valley to the Sith Academy
+- [Save Teleport](<../Techniques/Save Teleporting>) up the ramp to talk to Uthar Wynn: 3,1,4,3,2,3,4,4,X,4,2,2,4
   - The X is a variable answer based on one of three questions he asks after the Sith Code
   - Answers are:
     - There is nothing worse than love: 2. False
@@ -1107,7 +1126,7 @@ SHOPPING: Czerka Shop
     - It is our passion that fuels the Force: 1. True
   - You should be level 9 after this conversation; see [Experience Thresholds](#experience-thresholds) for details
 - `Level to 9: Persuade to 11, Master Two-Weapon, Knight Speed`
-- Run backwards and click on Uthar to use [JMT](<../Techniques/Jedi Mine Trick>) on his conversation
+- Run backwards slightly and click on Uthar to use [JMT](<../Techniques/Jedi Mine Trick>) on his conversation
   - You'll need to mash through 3,1 and then several clicks so that he congratulates you on getting enough prestige before the mine cancels the convo
   - This skips being sent back to your room, saving around 10 seconds
 - Talk to Uthar again: 3
@@ -1136,6 +1155,7 @@ SHOPPING: Czerka Shop
   - Sparing her prevents the academy from going hostile and preserves our alignment for the Solari crystal later
 - [Save Teleport](<../Techniques/Save Teleporting>) back to the academy
 - After entering the academy, immediately leave and Return to Ebon Hawk to board
+- [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) at the entry to skip Zaalbar's stowaway interruption
 - Fly to Kashyyyk (no Map CS Skip)
 
 ## The Leviathan
@@ -1423,29 +1443,56 @@ SHOPPING: Czerka Shop
 
 ### Darth Malak Fight
 
-- Phase One, Stasis Strat:
-  - *If Bastila and Jolee are not level 10, you won't be able to use this strat.  This threshold is slightly higher than MC hitting level 11, but usually if you hit level 11 you can use this strat.*
-  - QS just before triggering the fight
+*If Bastila and Jolee are not level 10, you won't be able to use the Stasis strat, as they only learn Stasis at Auto-Level 10.  This XP threshold is slightly higher than MC hitting level 11, but usually if you hit level 11 you can use this strat.*
+
+- Phase One:
+  - ***Optional:*** QS at the end of the walkway leading to Malak
   - Malak convo: 2
-  - IMMEDIATELY after his weapon flourish CS, pause the game
-  - If Malak already has a blue aura around him (Force Immunity), load the QS and try again
-  - If Malak hasn't cast Force Immunity yet, queue two Stasis casts with both Jolee and Bastila
-  - Swap to MC and swap combat feats to Flurry, then unpause, get behind him, and Flurry away
-  - The Stasis casts will always be saved, but each one slows Malak, reducing his AC by 4 each for a total of -16
-  - The makes the first phase a fairly consistent 2-3 round fight
+  - IMMEDIATELY after his weapon flourish CS, pause the game.  
+  - If Malak already has a blue aura around him (Force Immunity):
+    - He will always resist Stasis, so just use Flurry on him with MC
+    - Try to distract him with Jolee/Bastila for Sneak Attacks as well
+    - With no Stasis casts, MC has only a 40% chance to hit Malak, so this is usually 4-6 rounds
+    - If you have a QS, you can instead load it and retry; but this costs 10 seconds and is usually not worth it
+  - If Malak hasn't cast Force Immunity yet:
+    - Swap to Bastila, Stasis x2 on Malak
+    - Swap to Jolee, Stasis x2 on Malak
+    - Swap to MC and swap combat feats to Flurry, then unpause, get behind him, and Flurry x3
+    - Swap to Bastila and queue Burst of Speed
+    - The Stasis casts will always be saved, but each one slows Malak, reducing his AC by 4 each for a total of -16
+    - Using Stasis in this way makes the first phase a consistent 2-3 round fight
+  - As Malak runs to absorb the first Dead Jedi, run Bastila towards the opposite side to this point (pic coming)
 - Phase Two, The Jedi Popsicles:
-  - As Malak runs to absorb the first Dead Jedi, Activate Solo Mode and run either Jolee or Bastila towards the opposite side
-  - Mash the cutscene, then *Force: Burst of Speed as Jolee/Bastila*
-  - Use Disable Droid on the four Dead Jedi on that side with Jolee/Bastila
-  - Swap to MC and use Disable Droid on the three remaining Dead Jedi on the opposite side
+  - Mash the cutscene, then immediately pause
+  - If you didn't get the Stasis strat in Phase 1, Malak's Force Immunity is still active, so:
+    - Swap to MC and queue Flurry x3 on Malak, then swap to Bastila and unpause
+  - If you did get the Stasis strat in Phase 1, you can use it again in Phase 2:
+    - Swap to Jolee and use Stasis x1 on Malak
+    - Swap to MC and queue Stasis x1, then Basic Attack x3
+      - To make Malak less likely to heal twice, can do Stasis, Basic Attack x2, Life Support Pack instead
+    - Swap to Bastila and unpause
+  - As Bastila, use Disable Droid on the four Dead Jedi on her side
+  - Immediately swap to MC and use Disable Droid on the three remaining Dead Jedi on the opposite side
     - Using MC prevents Malak from losing too much health, which would trigger another absorption CS
+    - If you're using the Stasis strat, you need to be quick to prevent Malak from healing again
   - *Force: Recast Knight Speed and Knight Valor if needed*
-    - These have frequently been cancelled by Malak's Force Breach
-  - Kill Malak once and for all
-    - Bastila and Jolee can distract Malak to enable Sneak Attacks for Scoundrels, but his Force Immunity lasts 60 seconds, so Stasis won't work
-    - This last part is RNG heavy, as you only have a 50% chance to hit Malak
+    - Malak will often, but not always, use Force Breach to cancel your buffs
+    - Prioritize Knight Valor over Knight Speed if you don't have enough Force points
+  - Kill Malak with Flurry once and for all
+    - Bastila and Jolee can use Stasis on Malak if he doesn't have Force Immunity up, but this is rare
+    - In any case, Bastila and Jolee can distract Malak to enable Sneak Attacks for Scoundrels
+    - This last part is RNG heavy, as you only have a 40% chance to hit Malak
 
 ## Version History
+
+**v5.5 (September 2024)**
+- Add a new Stasis strat for Phase 2 of Star Forge Malak
+- Add Save Buffers to skip two Zaalbar conversations on the Ebon Hawk
+- Change where Bastila is added on Manaan
+- Change how you return to the Sith Academy after killing Lashowe
+- Update XP Thresholds to include level 5
+- Update Turret Skip with more in-depth strategies
+- Update strats in the Sewers with better timing info
 
 **v5.4 (August 2024)**
 - Add a video for Krayt Skip via Conversation Overlay
