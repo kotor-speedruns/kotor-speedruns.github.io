@@ -190,6 +190,15 @@ There are four important XP thresholds in this run:
 - 55000 XP: Reaching Level 11 before the fight with Bastila on Star Forge
 - 55250-55430 XP: Bastila and Jolee reaching Level 10 before Viewing Platform (see Party Experience below)
 
+**Level 5:**
+
+The minimum XP for the run leaves you up to 220 XP short of reaching Level 5 before becoming a Jedi.  This threshold is critical for the rest of the run, so you'll need to make sure to get enough extra XP before then.  Thankfully, this is usually trivial, and can be done in three possible ways:
+- If you do either of the [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) strats in the [Taris Sewers](#taris-1), you'll automatically kill enough extra enemies to reach this threshold without issue.
+- If you plan to skip those strats, check how much XP you have when leveling to 3 (right before the Hendar rakghoul fight).  This can vary a bit based on how many Sith you killed on Endar Spire and if any Vulkars died to the insta-kill turrets while entering the Undercity.
+- If you have 3320 XP or more, you'll hit level 5 without issue.  If you have less than 3320 XP when leveling to 3, then the easiest way to make up the deficit is to kill a guard in the terminal room of Davik's Estate; these give 250 XP each, so just one almost always enough.
+
+**Level 9, Level 11, and Bastila and Jolee's Level 10:**
+
 The minimum XP for the run misses all of these thresholds, so we bring Juhani and Zaalbar to Hrakert Station with us so that they and the insane Selkath can get extra kills while we run through the station collecting underwater gear.  The most extra experience needed to hit all three thresholds is 3,450 XP, which generally requires Juhani and Zaalbar to kill all three patrol droids in the first long hallway, and at least a couple insane Selkath to die from either each other or the droids.  There are a couple ways to check how your XP looks, and a couple backups if you're likely to fall short.
 
 **Checks:**
@@ -197,7 +206,7 @@ The minimum XP for the run misses all of these thresholds, so we bring Juhani an
 - If you find that method of checking awkward, the timing of level 9 provides a convenient way to check as well.  If you hit level 9 anytime before the [Jedi Mine Trick](<../Techniques/Jedi Mine Trick>) on Uthar (including after his first conversation), then you are guaranteed to hit level 11 correctly.  This does not necessarily guarantee the final threshold, however, as there is a small range of XP where you can hit level 11 but Bastila and Jolee will not hit level 10.
 
 **Backups:**
-- The first backup is to try to kill an extra enemy or two on Korriban (shyracks), Leviathan (Sith Soldiers), Kashyyyk (Katarn or Kinrath), or Lehon (not many good options).  Depending on the enemy you pick and how quickly they die, this can be the fastest way to make up extra experience.
+- The first backup is to try to kill an extra enemy or two on Korriban (shyracks), Leviathan (Sith Soldiers), Kashyyyk (Katarn or Kinrath), Lehon (not many good options), or Star Forge (random Dark Jedi/Sith soldier).  Depending on the enemy you pick and how quickly they die, this can be the fastest way to make up extra experience.
 - The second backup is to kill Bastila on the Star Forge.  This has the benefit of knowing for sure whether or not you hit level 11, as well as giving a lot of experience (1350 XP for challenge rating 18 at level 10), almost always ensuring you hit your last two thresholds.  But this backup requires a longer conversation and a tougher fight than some random monster somewhere, so it may be slightly slower.
 
 **Party Experience:**
@@ -209,7 +218,7 @@ The reason the last threshold is a range is because of how Party Experience work
 - For some reason, Carth's XP growth is nerfed after leaving Taris until he falls in line with the 80% XP threshold.  Carth is the only party member guaranteed to be recruited above your level, so this is probably an attempt to even out his XP with those of your other party members.  This is not relevant in the speedrun.
 
 Thus the last XP threshold depends on how many extra Sith Soldiers die on Endar Spire.  The level up is forced when you kill the front two soldiers in the bridge, and there are three relatively simple ways to try to kill extras:
-- Try to kill one of the Sith Soldiers in the second room after opening the door but before the CS starts.  Trask will rarely manage this by himself.
+- Try to kill one of the Sith Soldiers in the second room after opening the door but before the CS starts.  You'll only kill if you crit, but Trask will sometimes help, and he can rarely manage to kill one by himself.
 - Delay the frag grenade throw to the three Sith Soldiers as long as possible.  This allows two additional soldiers to run in behind them, and one may be killed by the grenade.
 - Delay killing the front two bridge Soldiers until you run forward into the bridge.  Reaching a certain point triggers explosions which are guaranteed to kill the back two Sith Soldiers, which does grant you the XP for each kill.
 
