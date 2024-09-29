@@ -193,7 +193,7 @@ There are four important XP thresholds in this run:
 **Level 5:**
 
 The minimum XP for the run leaves you up to 220 XP short of reaching Level 5 before becoming a Jedi.  This threshold is critical for the rest of the run, so you'll need to make sure to get enough extra XP before then.  Thankfully, this is usually trivial, and can be done in three possible ways:
-- If you do either of the [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) strats in the [Taris Sewers](#taris-1), you'll automatically kill enough extra enemies to reach this threshold without issue.
+- If you do either of the [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) strats in the [Taris Sewers](#sewers), you'll automatically kill enough extra enemies to reach this threshold without issue.
 - If you plan to skip those strats, check how much XP you have when leveling to 3 (right before the Hendar rakghoul fight).  This can vary a bit based on how many Sith you killed on Endar Spire and if any Vulkars died to the insta-kill turrets while entering the Undercity.
 - If you have 3320 XP or more, you'll hit level 5 without issue.  If you have less than 3320 XP when leveling to 3, then the easiest way to make up the deficit is to kill a guard in the terminal room of Davik's Estate; these give 250 XP each, so just one almost always enough.
 
