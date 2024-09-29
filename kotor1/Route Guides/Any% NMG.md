@@ -1454,6 +1454,8 @@ SHOPPING: Czerka Shop
 - Run through door on right
 - As you approach the next door, [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Darth Malak conversation
   - End this [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) by actually casting Knight Valor
+  - *Stims: Hyper-Adrenal Alacrity on Bastila*
+    - This keeps Speed active on Bastila during the Malak fight
   - To get to the elevator, run all party members towards the corner near the left Jedi and switch party leaders
   - One of your characters will end up next to the elevator door; take it to the Viewing Platform
 
@@ -1463,6 +1465,7 @@ SHOPPING: Czerka Shop
 
 *[This video](https://youtu.be/g7umauLwQ28) shows the Stasis strats described below.*
 
+- If necessary, swap to MC and QS/QL to keep your party following you
 - Phase One:
   - ***Optional:*** QS at the end of the walkway leading to Malak
   - Malak convo: 2
