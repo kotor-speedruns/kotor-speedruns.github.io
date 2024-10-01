@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic - All Star Maps Guide
 
-### v2.0: Male/Female Scoundrel Route
+### v3.0: Male/Female Scoundrel Route
 
 *Route and Guide by [indykenobi](https://www.speedrun.com/users/indykenobi)*
 
@@ -12,8 +12,6 @@ Finally, if you have additional questions, you can check out the [KotOR Speedrun
 **Table of Contents**
 - [Category Definition](#category-definition)
 - [Route Overview](#route-overview)
-  - [Choosing a Disguise](#choosing-a-disguise)
-  - [Route Outline](#route-outline)
 - [Character Build](#character-build)
   - [Character Creation](#character-creation)
   - [Leveling Plan](#leveling-plan)
@@ -39,27 +37,7 @@ Thus any glitches are allowed, including the Routine.  However, all KotOR speedr
 
 This route skips Jedi training on Dantooine, instead using [Coordinate Warps](<../Major Glitches/Hotshot#coordinate-warping>) and [Save Teleports](<../Techniques/Save Teleporting>) to move quickly.  The run should begin with *no save files*; eventually we will use six total save slots.
 
-### Choosing a Disguise
-
-This run requires one of two disguises in order to unequip the Envirosuit for the underwater sections of Manaan.  You have a choice of whether to obtain the Sith Armor from the North Apartments on Taris, or the Sand People Outfit from an Elite Warrior on Tatooine.  The differences are as follows:
-
-**Sand People Outfit:**
-- Ideally 10 seconds faster
-- Requires [Lower City DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>)
-- See a Sand Person underwater
-
-**Sith Armor:**
-- Skips the Lower City DLZ
-- While possibly 10 seconds slower, the volatilty of DLZs means you may not lose any time
-- Don't see a Sand Person underwater
-
-You'll need to decide ahead of time which outfit to obtain, as the first route difference based on this choice is less than 2 minutes into the run.  If you feel confident in your ability to get the [Lower City DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>) within 5 seconds, consider the Sand People Outfit; otherwise (or if you just want one less [DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>) to worry about), go for the Sith Armor.
-
-The [detailed route](#detailed-route) will have notes in certain places detailing differences in actions based on what disguise you choose to get.  These will be denoted by ***Sith Armor Only:*** or ***Sand People Outfit Only:***, as appropriate.
-
-### Route Outline
-
-The brief outline of the route for the ASM run, including planet order and major skips:
+A brief outline of the route for the ASM run, including planet order and major skips:
 
 *1. Endar Spire*
 
@@ -70,10 +48,9 @@ The brief outline of the route for the ASM run, including planet order and major
 *2. Taris*
 
 * Perform [Sneak Attack FLU](<../Major Glitches/Fake Level Up#sneak-attack-flu>) to get Sneak Attack IX and Improved/Master Two-Weapon Fighting
-* *Potentially* get the Sith Armor
 * [DLZ](<../Major Glitches/Displaced Load Zone#sith-base-dlz>) into the Sith Base
 * Kill and loot the Sith Governor to obtain Taris Launch Codes
-* Reach the Lower City (either with Sith Armor or a [DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>))
+* Reach the Lower City with a [DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>)
 * [Door Clip](<../Major Glitches/Door Clipping>) into the Vulkar Base door to [DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-dlz>) into the Vulkar Base
 * [DLZ](<../Major Glitches/Displaced Load Zone#bek-base-dlz>) into the Bek Base and [DLZ](<../Major Glitches/Displaced Load Zone#gadon-dlz>) to kill Gadon Thek
 * [Hotshot](<../Major Glitches/Hotshot>) to Vulkar Base and use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip one swoop race
@@ -88,26 +65,29 @@ The brief outline of the route for the ASM run, including planet order and major
 
 *4. Midgame Setup*
 
-* [Hotshot](<../Major Glitches/Hotshot>) and [GP Warp](<../Techniques/GP Warp>) to skip visiting the Wookiee Village
-* Recruit Jolee Bindo and reach the Lower Shadowlands
-* Reach the Valley of the Dark Lords by Persuading Yuthura
-* *Potentially* get the Sand People Outfit
-* Reach the Eastern Dune Sea
-* [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Valley of the Dark Lords
+* Reach the Valley of the Dark Lords
+* Reach the Upper Shadowlands
+* [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Bastila to Valley of the Dark Lords
 * Enter the Tomb of Naga Sadow
-
-*5. Manaan*
-
+* Reach West Central
+* [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Bastila to Upper Shadowlands
+* Reach Lower Shadowlands
+* [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) to West Central
 * Reach East Central
-* [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Lower Shadowlands
-* Kashyyyk Star Map
-* [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to East Central
-* Use submersible to go underwater
-* [Fast Lane](<../Major Glitch/Fast Lane>) to unequip the Scuba Suit
-* Manaan Star Map
-* [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Tomb of Naga Sadow
-* [Hotshot](<../Major Glitches/Hotshot>) to Eastern Dune Sea
-* Krayt Dragon Skip for Tatooine Star Map
+
+*5. Map Collection*
+
+* [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to get the Kashyyyk Star Map
+* [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to reach Hrakert Station
+* Get the Hunting License from the Czerka Office in Anchorhead
+* [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to get the Korriban Star Map
+* [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to get the Envirosuit and reach Sea Floor
+* [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee from a STUNT module to the Sea Floor to skip the disguise
+* [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Anchorhead to reach the Dune Sea
+* [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Kolto Control to reach Hrakert Rift
+* [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) to Hrakert Rift to get the Manaan Star Map
+* [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Dune Sea via Upper Shadowlands to reach Eastern Dune Sea
+* Krayt Dragon Skip to get the Tatooine Star Map
 
 *6. Lehon*
 
@@ -125,7 +105,7 @@ The brief outline of the route for the ASM run, including planet order and major
 * [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Bastila to Viewing Platform
 * Kill Darth Malak with Thermal Detonators and an [AMG](<../Major Glitches/Anywhere Menu Glitch>)
 
-Note that every Star Map is obtained while on Manaan, allowing the Scuba Suit [Fast Lanes](<../Major Glitch/Fast Lane>) to work correctly.
+This route used to obtain either Sith Armor or the Sand People Outfit so a [Fast Lane](<../Major Glitches/Fast Lane>) could be used to remove the Envirosuit.  These can now be skipped thanks to the STUNT module [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Sea Floor and the [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) to Hrakert Rift.  Those two warps, along with the [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to the Envirosuit, also enable Plot Armor Skip, since these (and the Taris Sith Base) are the only points that would have a high risk of death.
 
 ## Character Build
 
@@ -135,10 +115,10 @@ We begin as a Scoundrel; this guide as written can be completed as either a Male
 
 **Initial Attributes:**
 * Str - 8
-* Dex - 18
-* Con - 14
+* Dex - 16/18
+* Con - 18/16
 * Int - 8
-* Wis - 14
+* Wis - 10
 * Cha - 10
 
 **Initial Skills:**
@@ -160,7 +140,7 @@ We end the run at level 2 due to all the [Hotshots](<../Major Glitches/Hotshot>)
 
 **Character Build Notes:**
 
-- *Attributes:* Max Dexterity aids our chance to hit with blaster pistols for our three fights.  We choose pistols over melee weapons to abuse the +10 Ranged vs. Melee bonus, especially since two of our fights are done via Wire Targeting.  Con and Wis are used for saving throws against stunning powers.  10 Charisma is required for some Persuade checks on Kashyyyk.
+- *Attributes:* 16 Dexterity aids our chance to hit with blaster pistols for our three fights.  We choose pistols over melee weapons to abuse the +10 Ranged vs. Melee bonus, especially since one of our two fights is done via Wire Targeting.  Max Constitution helps us  and Wis are used for saving throws against stunning powers.  10 Charisma is required for some Persuade checks on Kashyyyk.
 - *Skills:* Persuade is used in a few places, namely to Persuade Yuthura, Lashowe, and the Manaan scientists in Kolto Control.  Security is only necessary for a skip on Endar Spire that allows us to skip Trask.  Points in Awareness allow us to see some mines to avoid them, but they're not really necessary.
 - *Feats:* Improved/Master Two-Weapon Fighting and Sneak Attack IX allow us to take out Gadon and the Sith Governor in short-order.  Weapon Focus: Blaster Pistols can help our chance to hit slightly if that build is chosen.  We use Sniper Shot as our main combat feat because it's the default combat feat for Scoundrels.
 
@@ -787,6 +767,13 @@ SHOPPING: Zelka Forn
 *On loading, there will be a black screen.  When the mouse disappears, the final death CS has begun and the run is over. Malak has been defeated once and for all, and you are now the Lord of the Sith (and you aren't even a Jedi!)*
 
 ## Version History
+
+v3.0 (October 2024)
+- Completely new midgame route
+- No longer get Plot Armor
+- New shopping on Taris to account for Plot Armor Skip
+- No longer need a disguise
+- Added a new optional DLZ from Zelka to Upper City North
 
 v2.0 (August 2023)
 - New Character Build using Dexterity and blaster pistols
