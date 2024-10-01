@@ -105,7 +105,7 @@ A brief outline of the route for the ASM run, including planet order and major s
 * [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Bastila to Viewing Platform
 * Kill Darth Malak with Thermal Detonators and an [AMG](<../Major Glitches/Anywhere Menu Glitch>)
 
-This route used to obtain either Sith Armor or the Sand People Outfit so a [Fast Lane](<../Major Glitches/Fast Lane>) could be used to remove the Envirosuit.  These can now be skipped thanks to the STUNT module [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Sea Floor and the [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) to Hrakert Rift.  Those two warps, along with the [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to the Envirosuit, also enable Plot Armor Skip, since these (and the Taris Sith Base) are the only points that would have a high risk of death.
+This route used to obtain either Sith Armor or the Sand People Outfit so a [Fast Lane](<../Major Glitches/Fast Lane>) could be used to remove the Envirosuit.  These can now be skipped thanks to the STUNT module [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Sea Floor and the [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) to Hrakert Rift.  Those two warps, along with the [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to the Envirosuit, also enable Plot Armor Skip (if desired), since these are the only points that would have a high risk of death (other than the Taris Sith Base).
 
 ## Character Build
 
@@ -140,8 +140,8 @@ We end the run at level 2 due to all the [Hotshots](<../Major Glitches/Hotshot>)
 
 **Character Build Notes:**
 
-- *Attributes:* 16 Dexterity aids our chance to hit with blaster pistols for our three fights.  We choose pistols over melee weapons to abuse the +10 Ranged vs. Melee bonus, especially since one of our two fights is done via Wire Targeting.  Max Constitution helps us  and Wis are used for saving throws against stunning powers.  10 Charisma is required for some Persuade checks on Kashyyyk.
-- *Skills:* Persuade is used in a few places, namely to Persuade Yuthura, Lashowe, and the Manaan scientists in Kolto Control.  Security is only necessary for a skip on Endar Spire that allows us to skip Trask.  Points in Awareness allow us to see some mines to avoid them, but they're not really necessary.
+- *Attributes:* Dexterity aids our chance to hit with blaster pistols for our two fights, while Constitution gives us a higher chance to survive in the Taris Sith Base.  It's personal preference whether to choose 18 Dex (for maximum chance to hit the Governor and Gadon) or 18 Con (for maximum Vitality).  We choose pistols over melee weapons to abuse the +10 Ranged vs. Melee bonus, especially since one of our two fights is done via Wire Targeting.  10 Wisdom is used for saving throws against stunning powers, while 10 Charisma is required for some Persuade checks on Kashyyyk.
+- *Skills:* Persuade is used to Persuade Yuthura and Lashowe on Korriban.  Security is only necessary for a skip on Endar Spire that allows us to skip Trask.  Points in Awareness allow us to see some mines to avoid them, but they're not really necessary.
 - *Feats:* Improved/Master Two-Weapon Fighting and Sneak Attack IX allow us to take out Gadon and the Sith Governor in short-order.  Weapon Focus: Blaster Pistols can help our chance to hit slightly if that build is chosen.  We use Sniper Shot as our main combat feat because it's the default combat feat for Scoundrels.
 
 ## Detailed Route
@@ -208,7 +208,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
 ### Character Creation
 
 - Male/Female Scoundrel - Custom Character
-- Dex to 18, Con to 14, Wis to 14, Cha to 10
+- Dex to 16/18, Con to 18/16, Wis to 10, Cha to 10
 - Awareness to 4, Persuade to 4, Security to 4
 - Initial Feat: Two-Weapon Fighting *or* Weapon Focus: Blaster Pistols
 - Pick a good name!
@@ -217,6 +217,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
 ### Command Module
 
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the intro CS
+- 
 - [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) into the Starboard Section through one of the following two methods:
   - ***Method One: Rubble [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>)***
     - *This strat is potentially 20 seconds faster, but the [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) is marginally harder.  This is the recommended method.*
@@ -236,13 +237,19 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
 
 ### Starboard Section
 
-- [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to the Command Module to activate Plot Armor:
-  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen after the prior [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>)
-  - After Carth's convo starts, [access the Options Menu](<../Major Glitches/Anywhere Menu Glitch#accessing-menus>) to **Hard Save in New Slot (Slot 1)**
-  - Immediately load the Slot 1 Hard Save and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
-    - This keeps your QS in the Command Module
-  - Perform the [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to return to the Command Module
-- [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) into the Starboard Section again, using whatever method you used before
+- ***Optional Strat: Plot Armor***  
+  - *This strat grants a minimum HP of 1 (called "Plot Armor" for short) for the rest of the run, but requires redoing the Spire DLZ and costs a minimum of 10 seconds (but likely more). The run can be done without it, but this strat provides a little safety if desired.*
+  - *To obtain Plot Armor:*
+    - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen after the prior [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>)
+    - After Carth's convo starts, [access the Options Menu](<../Major Glitches/Anywhere Menu Glitch#accessing-menus>) to **Hard Save in New Slot (Slot 1)**
+    - Immediately load the Slot 1 Hard Save and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
+      - This keeps your QS in the Command Module
+    - Perform the [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to return to the Command Module
+    - [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) into the Starboard Section again, using whatever method you used before     
+  - *If you choose not to use the above strat:*
+    - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen for the Starboard Section
+    - After Carth's convo starts, [begin moving to the next room](../Major%20Glitches/Anywhere%20Menu%20Glitch#moving-during-cutscenes) while Carth narrates  
+    - QS next to the footlocker to end the CS
 - Loot footlocker in Terminal Room 
 - Hack terminal console: 2,3 
 - Carth accosts you
@@ -260,15 +267,11 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
 - Perform the [Sneak Attack FLU](<../Major Glitches/Fake Level Up#sneak-attack-flu>)
   - See the discussion in [Character Build](#leveling-plan) for whether to include slow levels or not
   - Real Level 17: Persuade to 10, Improved/Master Two-Weapon Fighting, Sneak Attack IX
-- Use a [Conversation Queue](<../Techniques/Conversation Queue>) to skip Larrim
-  - Run MC slightly forward after the FLU
-  - Swap to Carth
-  - Use default action to talk to MC, then immediately swap to MC and run past Larrim
-  - When MC targets the door to Upper City South, use default action to open it
-  - Swap to Carth and move enough to cancel the [Conversation Queue](<../Techniques/Conversation Queue>)
-- *Unequip Carth: Remove Both Blasters*
-- *Equip MC: Carth's Blaster Mainhand, Blaster Pistol Offhand*
-- ***Sand People Outfit Only:*** **Hard Save to Slot 1**
+- Use a Menu Item Duplication to dupe Carth's Blaster to MC
+  - This also moves the Blaster Pistol in Carth's offhand to MC's offhand
+
+
+
 - Exit to Upper City South
 
 ### Upper City South
