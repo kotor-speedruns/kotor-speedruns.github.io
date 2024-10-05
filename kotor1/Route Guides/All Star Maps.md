@@ -342,7 +342,8 @@ SHOPPING: Larrim
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS if it isn't already active
   - If you have V-Sync disabled, you'll probably have to QS/QL and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the QL
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Upper City North using Slot 2
-- Enter the Lower City performing the [Lower City DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>)
+- Enter the Lower City by performing the [Lower City DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>)
+  - If it isn't already, disable V-Sync for this [DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>)
 
 ### Lower City
 
