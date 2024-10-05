@@ -640,9 +640,10 @@ SHOPPING: Larrim
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Upper Shadowlands using Slot 2
   - If Jolee doesn't spawn next to the Force Field, he didn't [Save Teleport](<../Techniques/Save Teleporting>) far enough in Hrakert Rift
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Dune Sea using Slot 3
+  - As long as Jolee spawned near the Force Field, you don't need to move him for this warp
 - As Jolee, trigger the CS in front of the Eastern Dune Sea load zone to warp MC there
 - **Hard Save in Slot 2**
-- As MC, [Save Teleport](<../Techniques/Save Teleporting>) to skip the previous CS and enter the Eastern Dune Sea
+- As MC, [Save Teleport](<../Techniques/Save Teleporting>) to skip the previous CS trigger and enter the Eastern Dune Sea
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - [Save Teleport](<../Techniques/Save Teleporting>) to mouth of Krayt Dragon Cave
   - If the hunter CS starts, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) it via QS/QL
