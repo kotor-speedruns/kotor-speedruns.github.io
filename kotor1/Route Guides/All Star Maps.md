@@ -504,10 +504,7 @@ SHOPPING: Larrim
 - QS, then return to Czerka Landing Port
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
 - [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Bastila to the Great Walkway
-  - Place Bastila behind the southernmost Czerka guard next to the Great Walkway exit
-
-![Image showing Bastila's position for the Coordinate Warp](/assets/images/imgur-dump/BfgfArb.png)
-
+  - Place Bastila [behind the southernmost Czerka guard](/assets/images/imgur-dump/BfgfArb.png) next to the Great Walkway exit
   - This will spawn Bastila slightly more than halfway to the Shadowlands elevator
 - Swap to MC and [GP Warp](<../Techniques/GP Warp>) to warp Bastila to the Shadowlands elevator
 - As Bastila, enter and take elevator to Upper Shadowlands
