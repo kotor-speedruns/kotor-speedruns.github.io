@@ -391,7 +391,7 @@ SHOPPING: Larrim
   - Speak to the race coordinator: 1
   - Finish the race with the quit dialog open
   - Don't shift into the final gear; doing so is actually slower by about a second
-  - Use your pop-up to [skip the mechanic conversation](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) when Anglu comes running up 
+  - When Anglu starts running towards you, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Lower City using Slot 2
   - Talk to the Ithorian a second time to "win" the second swoop race
   - Click twice then IMMEDIATELY activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and open the Options Menu
