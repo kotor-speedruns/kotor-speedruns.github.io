@@ -683,7 +683,7 @@ SHOPPING: Larrim
   - Be careful to avoid triggering the Mandalorians here
 - *Party: Add Jolee*
 - Deactivate V-Sync for the next two [DLZ](<../Major Glitches/Displaced Load Zone>)s
-- [DLZ](<../Major Glitches/Displaced Load Zone#temple-entry-dlz>) 
+- [DLZ](<../Major Glitches/Displaced Load Zone#temple-entry-dlz>) to enter the temple
 - [DLZ](<../Major Glitches/Displaced Load Zone#temple-summit-dlz>) again to enter Temple Summit
   - There are three spots for this [DLZ](<../Major Glitches/Displaced Load Zone#temple-summit-dlz>); pick the one you're most comfortable with!
 
