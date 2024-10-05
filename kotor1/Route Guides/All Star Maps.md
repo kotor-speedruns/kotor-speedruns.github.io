@@ -607,7 +607,7 @@ SHOPPING: Larrim
     - This will *not* skip the CS
   - Use blind mouse movement [to open the Map Screen](<../Major Glitches/Anywhere Menu Glitch#accessing-menu>)
   - Use the keyboard to add Jolee to the party: Enter, Up, Up, Enter
-  - Use blind mouse movement to close the Map Screen
+  - Use blind mouse movement to click "OK" and then "Close"
   - Swap to Jolee and [Save Teleport](<../Techniques/Save Teleporting>) up the ramp towards the left of the hallway
   - Put Jolee near the door on the left side of the hallway and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
   - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Sea Floor using Slot 3
