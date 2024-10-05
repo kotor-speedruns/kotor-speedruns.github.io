@@ -203,7 +203,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
 
 ## Endar Spire
 
-*Before beginning, disable VSync in Advanced Graphics Options if you are using the Rubble [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) on Endar Spire.  This makes the [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) more consistent.*
+*Before beginning, disable V-Sync in Advanced Graphics Options if you are using the Rubble [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) on Endar Spire.  This makes the [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) more consistent.*
 
 ### Character Creation
 
