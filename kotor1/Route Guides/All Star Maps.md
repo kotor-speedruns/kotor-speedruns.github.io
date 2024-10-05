@@ -787,24 +787,24 @@ SHOPPING: Larrim
 
 ## Version History
 
-v3.0 (October 2024)
+**v3.0 (October 2024)**
 - Completely new midgame route with 21 Hotshots and 10 Coordinate Warps
 - No longer get Plot Armor
 - New shopping on Taris to account for Plot Armor Skip
 - No longer need a disguise
 - Added a new optional DLZ from Zelka to Upper City North
 
-v2.0 (August 2023)
+**v2.0 (August 2023)**
 - New Character Build using Dexterity and blaster pistols
 - Added optional strats for Sand People Outfit over Sith Armor
 - Implemented Neo Hotshots into the route
 - Added more robust category rules
 
-v1.0 (March 2022)
+**v1.0 (March 2022)**
 - Uploaded the first ASM specific route, which skips Jedi training and features DLZs, Coordinate Warps, and Save Teleports
 - Planet "Order": Kashyyyk -> Korriban -> Tatooine -> Manaan
 
-v0.9 (January 2022)
+**v0.9 (January 2022)**
 - Borrowed an old Any% guide as a placeholder guide
 
 ## Closing
