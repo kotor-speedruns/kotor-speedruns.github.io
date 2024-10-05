@@ -41,8 +41,7 @@ A brief outline of the route for the ASM run, including planet order and major s
 
 *1. Endar Spire*
 
-* [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) into the starboard section
-* Use a [Hotshot](<../Major Glitches/Hotshot>) and second [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) to activate the Plot Armor glitch
+* [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) into the Starboard Section
 * Reach Taris
 
 *2. Taris*
