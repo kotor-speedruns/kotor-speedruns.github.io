@@ -35,7 +35,7 @@ Thus any glitches are allowed, including the Routine.  However, all KotOR speedr
 
 ## Route Overview
 
-This route skips Jedi training on Dantooine, instead using [Coordinate Warps](<../Major Glitches/Hotshot#coordinate-warping>) and [Save Teleports](<../Techniques/Save Teleporting>) to move quickly.  The run should begin with *no save files*; eventually we will use six total save slots.
+This route skips Jedi training on Dantooine, instead using [Coordinate Warps](<../Major Glitches/Hotshot#coordinate-warping>) and [Save Teleports](<../Techniques/Save Teleporting>) to move quickly.  The run should begin with *no save files*; eventually we will use five total save slots.
 
 A brief outline of the route for the ASM run, including planet order and major skips:
 
