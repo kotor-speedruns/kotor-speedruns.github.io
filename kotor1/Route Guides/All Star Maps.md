@@ -389,7 +389,7 @@ SHOPPING: Larrim
 - Use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip a swoop race
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
   - Speak to the race coordinator: 1
-  - Finish the race with the quit dialog open
+  - [Finish the race](<../Miscellaneous/Swoop Racing#planet-circuit-lap-1>) with the quit dialog open
   - Don't shift into the final gear; doing so is actually slower by about a second
   - When Anglu starts running towards you, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Lower City using Slot 2
