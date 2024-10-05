@@ -285,8 +285,8 @@ SHOPPING: Larrim
     - Transit Back to the default spawn point in Upper City South
   - *If you choose not to use the above strat:*
     - Run to the left down the street until you are close to the sculpture
-- ***Optional Strat: Upper City North DLZ***
-  - *This strat reaches Upper City North with a DLZ instead of using a GP Warp.  It should only be used if you did the Default Spawn Warp above, and only saves a few seconds.*
+- ***Optional Strat: Upper City North [DLZ](<../Major Glitches/Displaced Load Zone>)***
+  - *This strat reaches Upper City North with a [DLZ](<../Major Glitches/Displaced Load Zone>) instead of using a [GP Warp](<../Techniques/GP Warp>).  It should only be used if you did the Default Spawn Warp above, and only saves a few seconds.*
   - *To use this strat:*
     - Talk to Zelka: 5
     - `SHOPPING: Zelka Forn`
