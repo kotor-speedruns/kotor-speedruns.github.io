@@ -341,7 +341,7 @@ SHOPPING: Larrim
   - This will dupe the blasters when you [Hotshot](<../Major Glitches/Hotshot>)
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS if it isn't already active
   - If you have V-Sync disabled, you'll probably have to QS/QL and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the QL
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Upper City North using Slot 2
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Upper City North using Slot 2
 - Enter the Lower City performing the [Lower City DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>)
 
 ### Lower City
@@ -362,7 +362,7 @@ SHOPPING: Larrim
   - If the trick failed, just run into the corner and QS/QL again
   - You must have Solo Mode ON and V-Sync OFF for this [DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-dlz>) to work
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen immediately after the [DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-dlz>)
-- Use the pop-up to [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to South Apartments using Slot 1
+- Use the pop-up to [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to South Apartments using Slot 1
 - Transit Back to the Lower City
 
 ### Bek Base
@@ -379,7 +379,7 @@ SHOPPING: Larrim
   - It is possible but unlikely to die here if you get bad combat luck
   - Note that Kaeira doesn't have to die
 - As soon as Gadon is dead, activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to the Vulkar Base using Slot 1
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to the Vulkar Base using Slot 1
 
 ### Escaping Taris
 
@@ -391,11 +391,11 @@ SHOPPING: Larrim
   - Finish the race with the quit dialog open
   - Don't shift into the final gear; doing so is actually slower by about a second
   - Use your pop-up to [skip the mechanic conversation](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) when Anglu comes running up 
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Lower City using Slot 2
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Lower City using Slot 2
   - Talk to the Ithorian a second time to "win" the second swoop race
   - Click twice then IMMEDIATELY activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and open the Options Menu
-  - Perform the [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) from there
-  - Alternately, you can [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) after the 2nd Ithorian convo to skip the Brejik fight, then do the [Hotshot](<../Major Glitches/Hotshot#hss-hotshots>)
+  - Perform the [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) from there
+  - Alternately, you can [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) after the 2nd Ithorian convo to skip the Brejik fight, then do the [Hotshot](<../Major Glitches/Hotshot#neo-hotshots>)
   - If you forgot to save in Lower City, you can instead use the Autosave to do a [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Lower City
 - Enter Javyar's Cantina
 - Talk to Canderous: 1,1,1,2,1
@@ -442,7 +442,7 @@ SHOPPING: Larrim
   - Once it starts, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
 - Re-enable V-Sync in Options
   - We won't need to [DLZ](<../Major Glitches/Displaced Load Zone>) again until Lehon
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to the Jedi Enclave using Slot 2
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to the Jedi Enclave using Slot 2
 - QS/QL to warp Bastila to the Council Chamber
   - If you got the [Enclave DLZ](<../Major Glitches/Displaced Load Zone#enclave-dlz>) quickly, Bastila will still be outside the council chamber
   - If this is the case, *Stims: Adrenal Alacrity on Bastila*
@@ -481,7 +481,7 @@ SHOPPING: Larrim
   - This sets up a trick later
 - Exit to Valley of the Dark Lords
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Calo Nord fight
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to the Ebon Hawk using Slot 2
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to the Ebon Hawk using Slot 2
   - Slot 2 is now a Valley of the Dark Lords save
 - Fly to Kashyyyk with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
 
@@ -518,13 +518,13 @@ SHOPPING: Larrim
   - Swap to Bastila and run past Jolee and the Katarns to the right, until you reach the far wall
   - Swap to MC and run towards Jolee
   - Once you're close to Jolee but still out of his conversation range, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Bastila to Valley of the Dark Lords using Slot 2
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Bastila to Valley of the Dark Lords using Slot 2
   - Slot 2 is now an Upper Shadowlands save
 - Deactivate Solo Mode and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - Swap to Bastila and run towards Lashowe until her CS triggers
 - [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
 - As MC, run to and enter the Tomb of Naga Sadow
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to the Ebon Hawk using Slot 1
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to the Ebon Hawk using Slot 1
   - Slot 1 is now a Tomb of Naga Sadow save
 - **Hard Save in New Slot twice (Slots 3 + 4)**
 - Fly to Manaan with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
@@ -539,7 +539,7 @@ SHOPPING: Larrim
 - Immediately QL to return to the Manaan Docking Bay
 - Activate Solo Mode and [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - Swap to Bastila and run to the wall opposite the hallway to the Ebon Hawk
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Bastila to Upper Shadowlands using Slot 2
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Bastila to Upper Shadowlands using Slot 2
 - As Bastila, talk to first Czerka guard: 1,1,3,1,1
 - Swap to MC and hack the sonic emitter next to that guard
 - Talk to second Czerka guard: 1,1,1
@@ -564,22 +564,23 @@ SHOPPING: Larrim
 
 - As Jolee, [Save Teleport](<../Techniques/Save Teleporting>) to the left corner of the first door to Ahto East
   - You may trigger the Sith/Republic soldier CS; if so you can either mash it or turn the teleports into a [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>)
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Lower Shadowlands using Slot 5
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Lower Shadowlands using Slot 5
   - Slot 5 is now an East Central save
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - As Jolee, speak to the Star Map Computer: 1,3,1,1,1,1,1,5,1,4,1,4,1
   - Once the Star Map begins to open, [use CS movement](<../Major Glitches/Anywhere Menu Glitch#moving-during-cutscenes>) and [Save Teleports](<../Techniques/Save Teleporting>) to move Jolee towards the swoop bike clearing
   - Put Jolee in between the two hanging vines just before the swoop bike clearing, then [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
-- Immediately [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to East Central using Slot 5
+- Immediately [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to East Central using Slot 5
   - Slot 5 is now a Lower Shadowlands save
 - As Jolee, board the submersible to Hrakert Station
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to the Ebon Hawk using Slot 4
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to the Ebon Hawk using Slot 4
   - Slot 4 is now a Hrakert Station save
 - Fly to Tatooine with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
 
 ### Korriban Map
 
 - Czerka Guard accosts you: 1,1,5
+  - While this can be skipped it gets in the way again later, so it's better to mash it 
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Gizka
 - Enter Anchorhead
 - Enter Czerka Office, then activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) during or immediately after load
@@ -587,18 +588,17 @@ SHOPPING: Larrim
 - Talk to Protocol Officer: 1,1,1,3,2
 - *Party: Add Jolee*
 - Exit to Anchorhead
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Tomb of Naga Sadow using Slot 1
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Tomb of Naga Sadow using Slot 1
   - Slot 1 is now an Anchorhead save
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - Swap to Jolee and [Save Teleport](<../Techniques/Save Teleporting>) towards the door to trigger the Star Map CS
   - Once it starts, use [use CS movement](<../Major Glitches/Anywhere Menu Glitch#moving-during-cutscenes>) and [Save Teleports](<../Techniques/Save Teleporting>) to move Jolee to the bottom of the ramp past the door
   - Position Jolee in the middle of the hall right at the bottom of the ramp, then [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Hrakert Station using Slot 4
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Hrakert Station using Slot 4
 - Loot the Envirosuit
 - Go through the door in front, then two doors on the left and activate the airlock to reach the Sea Floor
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to the Ebon Hawk via Slot 3
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to the Ebon Hawk via Slot 3
   - Slot 3 is now a Sea Floor save
-
 
 ### Manaan Map
 
@@ -612,123 +612,61 @@ SHOPPING: Larrim
   - Use blind mouse movement to close the Map Screen
   - Swap to Jolee and [Save Teleport](<../Techniques/Save Teleporting>) up the ramp towards the left of the hallway
   - Put Jolee near the door on the left side of the hallway and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Sea Floor using Slot 3
-    - This [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) is a normal one *except* you cannot open the Options Menu via the hotkey
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Sea Floor using Slot 3
+    - This [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) is a normal one *except* you cannot open the Options Menu via the hotkey
     - Both times you need to open the Options Menu, use blind mouse movement to click the quick menu button in the top right
     - Also be aware that the game likes to eat your Enter inputs fairly often during this CS; be fast but deliberate
 - Once you spawn into the Sea Floor as Jolee, activate the airlock in front of you to reach Kolto Control
-- 
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Anchorhead using Slot 1
+  - Slot 1 is now a Kolto Control save
+- As Jolee, talk to the gate guard to reach the Dune Sea
+- **Hard Save in Slot 3**
+- Re-enter Anchorhead and activate Solo Mode
+- Swap to Jolee and [Save Teleport](<../Techniques/Save Teleporting>) towards the ronto next to the Cantina entrance
+- Place Jolee facing the ronto and even with the slanted pillars to his left
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Kolto Control using Slot 1
+- Activate the airlock to get the Hrakert Rift Autosave, then immediately QL
+- Swap to MC and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
+- [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) using the gate guard
+  - Face the gate guard, set up the Hotshot, then use default action to talk to him and reach the Dune Sea
+  - Load the Autosave after that
+- After loading in Hrakert Rift, activate Solo Mode
+- [Save Teleport](<../Techniques/Save Teleporting>) past or [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) the Progenitor Death CS
+  - Be very careful not to also buffer the Star Map CS or you will be unable to get the Manaan Star Map!
+- Run toward the Manaan Star Map to obtain it
 
+### Tatooine Map
 
-
-
-- [Save Teleport](<../Techniques/Save Teleporting>) to Gate Guard and exit to Dune Sea
-- **Sand People Outfit Only:**
-  - *Equip MC: Carth's Blaster Mainhand, Blaster Pistol Offhand*
-  - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the angry wife
-  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-  - [Save Teleport](<../Techniques/Save Teleporting>) past Tanis on the right and toward the piece of rubble on the left closest to the Eastern Dune Sea
-  - When the fade-in stops, let the CS happen, then cancel the pop-up and QS/QL
-  - Get behind the non-hostile Elite Warrior and QS
-  - Talk to the Elite Warrior to make him hostile, then use Wire Targeting to kill him
-  - Loot the Elite Warrior for the Sand People Outfit
-  - *Equip MC: Vibroblade Mainhand*
-  - *Party: Add Jolee*
-  - [Save Teleport](<../Techniques/Save Teleporting>) to enter the Eastern Dune Sea
-- **Sith Armor Only:**
-  - *Party: Add Jolee*
-  - QS then re-enter Anchorhead
-    - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
-  - Use the pop-up to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee back to the Dune Sea
-  - Activate Solo Mode
-  - As Jolee, [Save Teleport](<../Techniques/Save Teleporting>) to trigger the CS in front of the Eastern Dune Sea entrance
-    - This warps the MC to you
-  - [Save Teleport](<../Techniques/Save Teleporting>) to enter the Eastern Dune Sea
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Valley of the Dark Lords using Slot 2
-  - Slot 2 is now an Eastern Dune Sea save
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-- Swap to Jolee and trigger the Lashowe CS, then cancel and QS/QL
-  - This warps MC to Jolee
-- [Save Teleport](<../Techniques/Save Teleporting>) to the Tomb of Naga Sadow with Jolee
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to the Ebon Hawk using Slot 3
-  - Slot 3 is now a Tomb of Naga Sadow save
-- **Hard Save *twice* in New Slots (Slots 4 and 5)**
-- Fly to Manaan with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
-
-## Manaan
-
-### Kashyyyk Star Map
-
-- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip Selkath announcement and Sith/Republic convo
-- Enter West Central
-  - This is usually a good place for your first memory reset
-- Speak to Port Authority
-- Enter East Central
-- **Hard Save in New Slot (Slot 6)**
-- [Save Teleport](<../Techniques/Save Teleporting>) to left corner of door leading to hallway to Ahto East
-- *Party: Add Jolee*
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Lower Shadowlands using Slot 1
-  - Slot 1 is now an East Central save 
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-- Swap to Jolee and speak to computer: 1,3,1,1,1,1,1,5,1,4,1,4,1
-  - As soon as the Star Map begins to open, cancel pop-up
-  - Swap to Jolee and [Save Teleport](<../Techniques/Save Teleporting>) to a pair of vines just before the Mandalorian swoop bikes
-  - QS/QL and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to East Central using Slot 6
-  - Slot 6 is now a Lower Shadowlands save
-- As Jolee, board the submersible to Hrakert Station
-
-### Hrakert Station
-
-- [Save Teleport](<../Techniques/Save Teleporting>) through the station
-- Get the Envirosuit (don't need the Sonic Emitter)
-- Take airlock to Sea Floor
-- Perform a [Fast Lane](<../Major Glitches/Fast Lane>) using Slot 1
-- *Equip MC: Sith Armor **or** Sand People Outfit to remove Envirosuit*
-  - If you got Sith Armor, you probably have to unequip it first
-- Transit Back
-- [Save Teleport](<../Techniques/Save Teleporting>) past sharks to Kolto Control
-  - If the Survivor talks to you, spam the convo
-- Interact with Force Field twice: spam 1
-- After the second convo, activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-- Once the scientists start talking, cancel the dialog and QS/QL
-- Exit to Hrakert Rift
-- Perform a [Fast Lane](<../Major Glitches/Fast Lane>) using Slot 1
-- *Equip MC: Remove and re-equip your disguise to remove Envirosuit*
-- *Party: Add Jolee*
-- Transit Back
-- Activate Solo Mode
-- [Save Teleport](<../Techniques/Save Teleporting>) MC to the bridge to distract the firaxan shark
-- [Save Teleport](<../Techniques/Save Teleporting>) Jolee to a spot near the kolto console
-- [Save Teleport](<../Techniques/Save Teleporting>) MC to Manaan Star Map
-
-### Star Maps
-
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Tomb of Naga Sadow using Slot 3
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and swap to Jolee
-- Trigger the Korriban Star Map, then cancel the dialog and QS/QL
-  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Eastern Dune Sea using Slot 2
+- Swap to Jolee and [Save Teleport](<../Techniques/Save Teleporting>) away from the Progenitor past the kolto console
+  - The exact position isn't important, but he has to be far enough away to be OoB for the next warp
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Upper Shadowlands using Slot 2
+  - If Jolee doesn't spawn next to the Force Field, he didn't [Save Teleport](<../Techniques/Save Teleporting>) far enough in Hrakert Rift
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Dune Sea using Slot 3
+- As Jolee, trigger the CS in front of the Eastern Dune Sea load zone to warp MC there
+- **Hard Save in Slot 2**
+- As MC, [Save Teleport](<../Techniques/Save Teleporting>) to skip the previous CS and enter the Eastern Dune Sea
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - [Save Teleport](<../Techniques/Save Teleporting>) to mouth of Krayt Dragon Cave
-  - If the hunter CS starts, cancel the pop-up and QS/QL to skip it, then activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS again
+  - If the hunter CS starts, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) it via QS/QL
+  - Re-activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS if this happens
 - Krayt Dragon Skip:
   - Trigger the Krayt CS by walking into the mouth of the cave
   - Cancel the dialog and tab twice to reach MC
-  - Use Weapon Flourish and [Save Teleports](<../Techniques/Save Teleporting>) to move to right side near Chewed Twi'lek corpse
-  - Wait until Krayt Dragon starts walking forward, then QS/QL
+  - [Use Weapon Flourish movement](<../Major Glitches/Anywhere Menu Glitch#moving-during-cutscenes>) and [Save Teleports](<../Techniques/Save Teleporting>) to move to right side of cave near Chewed Twi'lek corpse
+  - Wait until Krayt Dragon starts walking forward, then [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
     - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
-- Trigger Tatooine Star Map, then cancel dialog and QS/QL
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to the Ebon Hawk using Slot 4
+- Trigger Tatooine Star Map, then [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to the Ebon Hawk using Slot 4
 
 ## Lehon
 
 ### Reaching Lehon
 
+- **Hard Save in Slot 1**
 - Fly to Lehon and use a [Free Look AMG](<../Major Glitches/Anywhere Menu Glitch#free-look-amgs>) to skip the Bastila torture CS
 - After the subsequent load, [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
-- Re-enter the Ebon Hawk and [Save Teleport](<../Techniques/Save Teleporting>) to the cockpit
-- QS in front of Galaxy Map
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to the Ebon Hawk using Slot 1
+- **Hard Save in Slot 1** and QS in front of Galaxy Map
 - Fly to Lehon and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
   - *If you get a fighter skirmish*
     - Press Alt-F4 to gain mouse control
@@ -745,26 +683,26 @@ SHOPPING: Larrim
 - [Save Teleport](<../Techniques/Save Teleporting>) to the back right side of the temple
   - Be careful to avoid triggering the Mandalorians here
 - *Party: Add Jolee*
-- Deactivate VSync for the next two [DLZ](<../Major Glitches/Displaced Load Zone>)s
+- Deactivate V-Sync for the next two [DLZ](<../Major Glitches/Displaced Load Zone>)s
 - [DLZ](<../Major Glitches/Displaced Load Zone#temple-entry-dlz>) 
 - [DLZ](<../Major Glitches/Displaced Load Zone#temple-summit-dlz>) again to enter Temple Summit
-  - There are three spots for this [DLZ](<../Major Glitches/Displaced Load Zone); pick the one you're most comfortable with!
+  - There are three spots for this [DLZ](<../Major Glitches/Displaced Load Zone#temple-summit-dlz>); pick the one you're most comfortable with!
 
 ### Confronting Bastila
 - Reactivate V-Sync in Options
-- Use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip the Darth Waifu fight
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-  - Run towards Bastila to start the CS
+- Darth Waifu Skip with [Fast Lane](<../Major Glitch/Fast Lane>):
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
+  - [Save Teleport](<../Techniques/Save Teleporting>) towards Bastila to start the CS
   - Cancel the quit dialog when the CS starts
   - Move slightly forward and hover your mouse over the Options Menu
   - As soon as Bastila starts speaking, QS and open the Options Menu
-  - Use Slot 1 to setup a [Fast Lane](<../Major Glitch/Fast Lane>)
+  - Use Slot 2 to setup a [Fast Lane](<../Major Glitch/Fast Lane>)
   - After the QL, talk to Bastila again: 3,2,3,2,2
   - As soon as the screen goes black, click "OK" to trigger the [Fast Lane](<../Major Glitch/Fast Lane>) to Return to the Ebon Hawk
   - We do not have to kill Jolee or lower the disruptor field
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-- Run towards the Hawk to trigger the party CS, then cancel dialog and QS/QL
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Ebon Hawk using Slot 5
+- Run towards the Hawk to trigger the party CS, then [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Ebon Hawk using Slot 1
   - This finishes Ship Parts skip
 - Fly to the Star Forge
 - Use a [Free Look AMG](<../Major Glitches/Anywhere Menu Glitch#free-look-amgs>) to skip the unskippable CS
@@ -775,10 +713,11 @@ SHOPPING: Larrim
 
 ### Deck One
 
+- *Stims: Hyper-Adrenal Stamina on MC*
 - Exit the Ebon Hawk with Bastila
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) immediately after the load screen
-  - When the CS starts, cancel the dialog and QS/QL
-- Activate Solo Mode and swap leader twice to fix Bastila
+  - When the CS starts, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) it via QS/QL
+- Activate Solo Mode and swap leader twice to fix Bastila in place
 - [GP Warp](<../Techniques/GP Warp>) MC to Deck 2:
   - [Save Teleport](<../Techniques/Save Teleporting>) with MC and click first door
   - Swap to Bastila and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
@@ -787,18 +726,18 @@ SHOPPING: Larrim
   - [Save Teleport](<../Techniques/Save Teleporting>) through doors and take the left path
   - At the two frozen assault droids, click the door behind them to get past them
   - Move to the right side near the end of the hallway, then activate the dialog option to [GP Warp](<../Techniques/GP Warp>)
-- Double [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to warp Bastila to MC
-  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Lower Shadowlands using Slot 6
+- Double [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to warp Bastila to MC
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Lower Shadowlands using Slot 5
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
-  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Deck 1 using Slot 6
-    - You don't have to open the Options Menu after canceling the pop-up during this [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>)
-  - This warps Bastila to MC because the second [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) spawns her OoB on Deck 1
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Deck 1 using Slot 5
+    - You don't have to open the Options Menu after canceling the pop-up during this [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>)
+  - This warps Bastila to MC because the second [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) spawns her OoB on Deck 1
 - Enter Deck 2
 
 ### Deck Two
 
-- Activate Solo Mode and swap leader twice to fix Bastila
-- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Malak CS
+- Activate Solo Mode and swap leader twice to fix Bastila in place
+- [Save Teleport](<../Techniques/Save Teleporting>)/[Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Malak CS
 - [GP Warp](<../Techniques/GP Warp>) MC to Command Center:
   - Click first door as MC
   - Swap to Bastila and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
@@ -806,46 +745,51 @@ SHOPPING: Larrim
   - Cancel the pop-up and swap to MC
   - [Save Teleport](<../Techniques/Save Teleporting>) through the second door
   - Move to the top of the ramp at the left turn, then activate the dialog option to [GP Warp](<../Techniques/GP Warp>)
-- Double [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to warp Bastila to MC
-  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Lower Shadowlands using Slot 6
+- Double [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to warp Bastila to MC
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Lower Shadowlands using Slot 5
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
-  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Deck 1 using Slot 6
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Deck 1 using Slot 5
 - Enter Command Center
 
 ### Command Center
 
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Malak/Sith CS
-- Double [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Bastila ahead
-  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Lower Shadowlands using Slot 6
+- Double [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Bastila ahead in the Command Center
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Lower Shadowlands using Slot 5
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
-  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Deck 1 using Slot 6
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Deck 1 using Slot 5
   - Bastila should already be in the correct position in the Lower Shadowlands
 - Use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip the Darth Malak droid CS
   - Swap to Bastila and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
   - [Save Teleport](<../Techniques/Save Teleporting>) to the nearby door to trigger the CS
   - Cancel the quit dialog and tab twice to reach MC
-  - Run forward, but as soon as Malak starts walking forward, QS/QL to skip the CS
+  - Run forward, but once Malak starts walking forward, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
   - This CS warps the MC to Bastila, allowing you to...
 - Take the elevator to the Viewing Platform
 
 ### Viewing Platform
 
-- ***Optional:*** **Safety Hard Save in New Slot (Slot 7)**
+- ***Optional:*** **Safety Hard Save in New Slot (Slot 6)**
+  - If you mess up the final [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>), you can softlock yourself out of finishing the game
+- Swap to Bastila and open the door
 - [Save Teleport](<../Techniques/Save Teleporting>) to Darth Malak, who accosts you: 2
 - Darth Malak Fight:
   - Throw Thermal Detonators with both MC and Bastila to defeat Malak's first phase
   - If you run out of detonators, use Bastila's Throw Lightsaber for slow but guaranteed damage
+  - MC may die to Malak's Force Lightning; this slows down the fight but Bastila can finish him by herself
+  - As Malak gets knocked back, you may need to cancel combat and requeue thermals so you don't miss him
+  - Try to get into a good rhythm of swapping between your party members and throwing thermals to keep Malak mostly stunlocked
   - Anytime before the first phase ends, activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
   - When Malak's conversation starts, click through to the first dialog option
   - Press Enter to simultaneously cancel the pop-up dialog and select the first conversation option
-  - Immediately QS/QL to skip the CS
+  - Immediately [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
 
 *On loading, there will be a black screen.  When the mouse disappears, the final death CS has begun and the run is over. Malak has been defeated once and for all, and you are now the Lord of the Sith (and you aren't even a Jedi!)*
 
 ## Version History
 
 v3.0 (October 2024)
-- Completely new midgame route
+- Completely new midgame route with 21 Hotshots and 10 Coordinate Warps
 - No longer get Plot Armor
 - New shopping on Taris to account for Plot Armor Skip
 - No longer need a disguise
