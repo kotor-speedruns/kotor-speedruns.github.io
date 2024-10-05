@@ -606,7 +606,7 @@ SHOPPING: Larrim
   - Once the Bandon Intro CS starts, cancel the pop-up and use Free-Look to put the camera behind MC
     - This will *not* skip the CS
   - Use blind mouse movement [to open the Map Screen](<../Major Glitches/Anywhere Menu Glitch#accessing-menu>)
-  - Use the keyboard to add Jolee to the party: Enter, Up Up, Enter
+  - Use the keyboard to add Jolee to the party: Enter, Up, Up, Enter
   - Use blind mouse movement to close the Map Screen
   - Swap to Jolee and [Save Teleport](<../Techniques/Save Teleporting>) up the ramp towards the left of the hallway
   - Put Jolee near the door on the left side of the hallway and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
