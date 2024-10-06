@@ -85,8 +85,7 @@ Overall the real comparison is the guaranteed Alacrity for the Scout vs. the bet
 
 ### Character Creation
 
-Choose whichever class you want based on the discussion above.  Either Male or Female works for both builds, but Male has the very small advantage of an easier time with Persuade checks on Lashowe and Bastila.
-
+Choose whichever class you want based on the discussion above.  Either Male or Female works for both builds, with the only difference being one conversation (plus another in a backup strat).
 **Initial Attributes:**
 
 | Attribute | Scoundrel | Scout |
@@ -1089,6 +1088,9 @@ SHOPPING: Larrim
 - Port Authority accosts you: 1,1,3,2
 - [Save Teleport](<../Techniques/Save Teleporting>) or [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Shaardan's conversation
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip Lashowe's conversation
+  - If you are a Female MC and miss this buffer, either QL to try again or use the convo: 1,4,1,1,1
+  - For Female MC, Lashowe's required Persuade check is Hard (and has 25% chance of failure) unless you skip this or tell her a joke
+  - For Male MC, we use a different Persuade check that's Easy, so if you miss the buffer you can mash the convo
 - Talk to the Czerka Shopkeeper
 
 ```
@@ -1116,9 +1118,7 @@ SHOPPING: Czerka Shop
 - [Force Skip](<../Techniques/Force Skips>) to delay Uthar conversation
 - Talk to Lashowe
   - As a Male MC: 1x7, 3, 4
-  - As a Female MC: 1x7, 2*, 1, 4
-    - The 2 option for Female MC is a Hard Persuade with a 25% fail rate
-    - If you fail the Persuade, talk to Lashowe again to retry
+  - As a Female MC: 1x7, 2, 1, 4
 - Speak with Uthar Wynn and students
 - Yuthura talks to you: 1,1,1,1,4,2,7,5
 - Talk to Kel Algwinn
@@ -1450,9 +1450,9 @@ SHOPPING: Czerka Shop
 - The defeated Bastila talks to you one last time
   - If you need to kill Bastila to reach level 11:
     - As a Male MC: 1,1,2,2,3,2
-    - As a Female MC: 1,1,1,2,2,2
+    - As a Female MC: 1,1,2,2,2,2
     - After she goes hostile, kill her with Flurry
-  - Otherwise, mash the conversation; both Male and Female MCs should always be able to spare her
+  - If you already have enough XP, mash the conversation; both Male and Female MCs should always have enough Persuade to spare her
 - After the load but before the cutscene on the Harbinger, activate a [Map CS Skip](<../Techniques/Map Cutscene Skips>):
   - *Party: Add Jolee and Bastila*
   - Close the menu and watch the cutscene
