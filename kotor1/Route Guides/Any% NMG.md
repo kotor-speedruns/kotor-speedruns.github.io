@@ -4,7 +4,7 @@ redirect_from:
 ---
 # Star Wars: Knights of the Old Republic - Any% No Major Glitches Guide
 
-### v5.5: Male/Female Scout/Scoundrel -> Jedi Guardian Route (Light Side)
+### v5.6: Male/Female Scout/Scoundrel -> Jedi Guardian Route (Light Side)
 
 This route defeats Malak on the Star Forge as fast as possible without major glitches.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.   This guide will cover the character build for the run, as well as a detailed route.
 
@@ -259,7 +259,7 @@ The new credit route always has exactly three shopping trips.  Our credits all c
 - For possible tweaks to this shopping trip, see [Other Random Loot](#other-random-loot) below
 
 **2a. Zelka on Taris**
-- Buy: 3-4x Adrenal Alacrity, 0-1x Adrenal Stamina
+- Buy: 3-4x Adrenal Alacrity, 1x Adrenal Stamina
 
 **2b. Crattis Yurkal on Dantooine**
 - Buy: 3x Adrenal Alacrity
@@ -305,7 +305,7 @@ There are a few other random drops possible on the Endar Spire that can affect y
 
 **4. 1x Adrenal Stamina**
 - Chance: 0.83%
-- If you get an Adrenal Stamina and you're a Scoundrel, you never have to buy one from Zelka, and can buy the fourth Alacrity stim instead.  You can also afford both with enough other random loot, but getting a Stamina means you can buy 4 Alacrities without thinking about it.
+- If you get an Adrenal Stamina and you're a Scoundrel, you never have to buy one from Zelka, and can buy the fourth Alacrity stim instead.
 
 Any other random loot can be sold to Larrim for extra credits that will go towards either a fifth stim from Zelka as a Scoundrel, or additional Life Support Packs on Korriban.
 
@@ -505,14 +505,14 @@ SHOPPING: Larrim
 - SELL ALL EXCEPT:
   - Medpacs
   - Computer Spikes
-  - Frag Grenades (if you want to do the Lower Sewers GP Warp)
+  - Frag Grenades (keep if you want to do the Lower Sewers GP Warp)
   - Concussion Grenades (if you have any)
   - Alacrity, Stamina, or Battle Stims (if you have any)
 - BUY:
   - 2x Concussion Grenades
   - Battle Stimulant
   - All 4 Minor Mines
-- SCOUTS (AND SCOUNDRELS STARTING WITH AT LEAST 1014 CREDITS) CAN ALSO BUY:
+- SCOUTS (AND SCOUNDRELS WITH AT LEAST 1014 CREDITS TO SPEND) CAN ALSO BUY:
   - 1x Frag Grenade (only if you want to do the Lower Sewers GP Warp)
 ```
 
@@ -527,11 +527,11 @@ SHOPPING: Larrim
     - As MC, talk to Zelka in the medical clinic: 5
     - `Buy at least 4 stims:`
       - `3 or 4 Adrenal Alacrity`
-      - `0 or 1 Adrenal Stamina`
-      - `Buying Stamina as your fourth stim gives a bit more survivability on Taris, especially in the Sewers and Sith Base.`
-      - `Buying Alacrity gives you a backup if MC or Carth dies in a bad place, or saves <1 second in Dantooine Ruins.`
+      - `1 Adrenal Stamina`
+      - `As a Scoundrel, buying Adrenal Stamina gives you an important Vitality buffer for the Sewers, Vulkar Base, and Sith Base`
+      - `The fourth Alacrity gives you a backup if MC or Carth dies in a bad place, or saves <1 second in Dantooine Ruins.`
       - `If you can afford it (>250 Credits), you should buy all 5 stims (4 Alacrity and 1 Stamina)`
-    - *Stims: Use one of each stim on MC (including Stamina if you got/bought one), use Alacrity on Carth*
+    - *Stims: Use one of each stim on MC, Alacrity on Carth*
     - Swap to Carth and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to warp MC
     - Swap back to Carth and enter Upper City North
     - Swap to MC, QS/QL to fix party following AI
@@ -654,10 +654,10 @@ SHOPPING: Larrim
     - Throw two Concs (use Carth if he is present) at center turret
     - If all three turrets are stunned (59.6% chance), take the elevator to the Garage
     - If two turrets are stunned (33.9% chance) and MC is alone, you can either QL or run for the elevator
-      - The last turret has a 30% chance to miss you
+      - The last turret has a 30% (as a Scoundrel) or 20% (as a Scout) chance to miss you
       - If you are killed, reload the QS from the main menu and try again
     - If one or fewer turrets are stunned, QL and try again
-      - You only have a 9% chance to survive if two turrets are active, and a 2.7% chance if all three are active
+      - You only have a 9% (or 4%) chance to survive if two turrets are active, and a 2.7% (or 0.8%) chance if all three are active
   - For the 1-Conc skip (up to 34.56% chance of success):
     - Throw one Conc at the central turret
     - If all three turrets are stunned (21.6% chance), take the elevator to the Garage
@@ -1114,7 +1114,11 @@ SHOPPING: Czerka Shop
 ### Gaining Prestige
 
 - [Force Skip](<../Techniques/Force Skips>) to delay Uthar conversation
-- Talk to Lashowe: 1x7, 3, 4
+- Talk to Lashowe
+  - As a Male MC: 1x7, 3, 4
+  - As a Female MC: 1x7, 2*, 1, 4
+    - The 2 option for Female MC is a Hard Persuade with a 25% fail rate
+    - If you fail the Persuade, talk to Lashowe again to retry
 - Speak with Uthar Wynn and students
 - Yuthura talks to you: 1,1,1,1,4,2,7,5
 - Talk to Kel Algwinn
@@ -1444,9 +1448,11 @@ SHOPPING: Czerka Shop
   - Don't mash default action during this cutscene, as skipping the next phase causes a softlock!
   - If your Knight Speed and/or Valor wore off here, it's not worth casting them again until after the fight
 - The defeated Bastila talks to you one last time
-  - If you need to kill Bastila to reach level 11, the convo is: 1,1,2,2,3,2, then kill her with Flurry
-  - Otherwise, mash the conversation; a male MC will always be able to spare Bastila during this conversation
-  - A female MC, however, has a 25% chance to kill her in a CS, which loses a little time
+  - If you need to kill Bastila to reach level 11:
+    - As a Male MC: 1,1,2,2,3,2
+    - As a Female MC: 1,1,1,2,2,2
+    - After she goes hostile, kill her with Flurry
+  - Otherwise, mash the conversation; both Male and Female MCs should always be able to spare her
 - After the load but before the cutscene on the Harbinger, activate a [Map CS Skip](<../Techniques/Map Cutscene Skips>):
   - *Party: Add Jolee and Bastila*
   - Close the menu and watch the cutscene
@@ -1505,6 +1511,11 @@ SHOPPING: Czerka Shop
     - This last part is RNG heavy, as you only have a 40% chance to hit Malak
 
 ## Version History
+
+**v5.6 (October 2024)**
+- Updated Zelka's shopping trip to make the Stamina purchase the preferred one
+- Added notes to Turret Skip to reflect Scout's lower defense
+- Added notes through the run to reflect differences for Male vs. Female MC
 
 **v5.5 (September 2024)**
 - Add a new Stasis strat for Phase 2 of Star Forge Malak
