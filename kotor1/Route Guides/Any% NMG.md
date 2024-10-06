@@ -728,6 +728,8 @@ SHOPPING: Larrim
 
 ***For most combat in the Sith Base, MC should use Flurry, Zaalbar should use Improved Power Attack, and T3 should use the Shield Disruptor.***
 
+***You will probably need your first memory reset somewhere in the Sith Base.***
+
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip secretary conversation
   - If you miss, the conversation is 3,1
 - Kill both patrol droids at the end of the first hallway
@@ -983,6 +985,8 @@ SHOPPING: Larrim
 
 ### Anchorhead and Dune Sea
 
+***You will probably need your second memory reset somewhere in Anchorhead or the Dune Sea.***
+
 - [Force Skip](<../Techniques/Force Skips>) the Czerka Officer
   - You'll end up doing this skip three times; or you can do the conversation: 1,1,5
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) to skip the Gizka conversation
@@ -1115,6 +1119,8 @@ SHOPPING: Czerka Shop
 
 ### Gaining Prestige
 
+***You will probably need your third memory reset somewhere in Valley of the Dark Lords.***
+
 - [Force Skip](<../Techniques/Force Skips>) to delay Uthar conversation
 - Talk to Lashowe
   - As a Male MC: 1x7, 3, 4
@@ -1202,6 +1208,8 @@ SHOPPING: Czerka Shop
 ### Bridge
 
 *For the rest of the Leviathan, you have to keep Carth and Bastila close to you in order to go through loading zones.  Do your best to make sure they don't wander off, as that can and will lose you a lot of time.  It can help to QS/QL here, and you may wish to use Speed for movement for consistentcy.*
+
+***You will probably need your fourth memory reset somewhere just before or just after Saul Karath Skip.***
 
 - Turn right and kill guard
   - It's possible to run past this guard without killing him
@@ -1327,6 +1335,8 @@ SHOPPING: Czerka Shop
 
 ### Leaving Kashyyyk
 
+***You will probably need your fifth memory reset somewhere while leaving Kashyyyk.***
+
 - Activate Solo Mode
 - Run/[Save Teleport](<../Techniques/Save Teleporting>) to Gorwooken
 - Speak to Gorwooken to reach the Great Walkway
@@ -1367,7 +1377,7 @@ SHOPPING: Czerka Shop
 - After the CS ends but before the load into the STUNT module, QS
   - You should mash QS as the party runs towards the temple
   - Kill the program with either ALT+F4 or Task Manager, then reload the QS
-  - This skips the Malak cutscene and acts as the final memory clear
+  - This skips the Malak cutscene and acts as the sixth and final memory clear
 - *Party: Remove Juhani, Add Canderous*
   - This enables a quicker escape to the Ebon Hawk later
 - Enter the Temple
@@ -1516,6 +1526,7 @@ SHOPPING: Czerka Shop
 - Updated Zelka's shopping trip to make the Stamina purchase the preferred one
 - Added notes to Turret Skip to reflect Scout's lower defense
 - Added notes through the run to reflect differences for Male vs. Female MC
+- Added notes for likely areas to require memory resets
 
 **v5.5 (September 2024)**
 - Add a new Stasis strat for Phase 2 of Star Forge Malak
