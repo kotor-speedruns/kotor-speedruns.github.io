@@ -70,11 +70,13 @@ The following sections contain details for all Coordinate Warps used in each Unr
 - To bypass obstacles or walls that would otherwise be untraversable
 - To reach areas early
 
-All of the following warps list the following information:
+All of the warps list the following information:
 - Runs the warp are used in (some have more than one)
 - Start Module and Destination Module
-- Approximate Warp Coordinates
+- Approximate Warp Coordinates in (x,y)
 - Precision Level of the Warp (None, Low, Moderate, High)
+- An image picturing the start and end of the warp with associated walkmesh maps
+- A video showing the warp in action
 
 Note that only true Coordinate Warps are listed here; Unrestricted runs use many other [Hotshots](<Hotshot>) that don't care about the positions of party members, or specifically want them to be out of bounds to take advantage of the [party spawn rules](#party-member-spawn-rules).
 
@@ -89,6 +91,22 @@ Note that only true Coordinate Warps are listed here; Unrestricted runs use many
 ## Warps in Any%
 
 ### Landing Port to Great Walkway
+
+- **Used In:** All Unrestricted Speedruns
+- **Start Module:** Czerka Landing Port, Kashyyyk
+- **Destination Module:** Great Walkway, Kashyyyk
+- **Approximate Coordinates:** (167.94, 138.83)
+- **Precision Level:** Low to Moderate
+
+**Positioning Image**
+
+![Image showing Bastila's positioning](/assets/images/imgur-dump/CWLPtoWalkway.png)
+
+**Video of Warp**
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/6kxr4ZSpnpc" frameborder="0"></iframe>
+</div>
 
 ### Landing Port to Lower Shadowlands
 
