@@ -6,9 +6,6 @@
     - [Warping in Place](#warping-in-place)
 - [Party Member Spawn Rules](#party-member-spawn-rules)
 - [Warps Used in Speedruns](#warps-used-in-speedruns)
-- [Warps in Any%](#warps-in-any)
-- [Warps in All Star Maps](#warps-in-all-star-maps)
-- [Warps in All Quests](#warps-in-all-quests)
 - [Other Coordinate Warps](#other-coordinate-warps)
 - [Related Glitches](#related-glitches) 
 
@@ -81,7 +78,26 @@ All of the following warps list the following information:
 
 Note that only true Coordinate Warps are listed here; Unrestricted runs use many other [Hotshots](<Hotshot>) that don't care about the positions of party members, or specifically want them to be out of bounds to take advantage of the [party spawn rules](#party-member-spawn-rules).
 
-## Warps Used in Any%
+**Jump to a specific run or warp:**
+- [Warps in Any%](#warps-in-any)
+    - [Landing Port to Great Walkway](#landing-port-to-great-walkway)
+    - [Landing Port to Lower Shadowlands](#landing-port-to-lower-shadowlands)
+    - [Lower Shadowlands to Command Center](#lower-shadowlands-to-command-center)
+- [Warps in All Star Maps](#warps-in-all-star-maps)
+- [Warps in All Quests](#warps-in-all-quests)
 
+## Warps in Any%
 
+### Landing Port to Great Walkway
 
+### Landing Port to Lower Shadowlands
+
+### Lower Shadowlands to Command Center
+
+## Warps in All Star Maps
+
+## Warps in All Quests
+
+## Other Coordinate Warps
+
+## Related Glitches
