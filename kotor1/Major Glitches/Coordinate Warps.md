@@ -100,7 +100,7 @@ Note that only true Coordinate Warps are listed here; Unrestricted runs use many
 
 **Positioning Image**
 
-![Image showing Bastila's positioning](/assets/images/imgur-dump/CWLPtoWalkway.png)
+![Image showing Bastila's positioning](/assets/images/kotor1/CWLPtoWalkway.png)
 
 **Video of Warp**
 
