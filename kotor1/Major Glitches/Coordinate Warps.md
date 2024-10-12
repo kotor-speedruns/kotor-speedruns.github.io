@@ -138,6 +138,8 @@ This warp is used to place Bastila on the Walkway closest to the Shadowlands ele
 
 This warp is used to warp Bastila from the entrance of the Lower Shadowlands to a position near the Star Map, saving running and avoiding enemies.  Both versions of the warp return to the Landing Port from Lower Shadowlands first; the initial warp uses a [Fast Lane](<Fast Lane>) to do so, while during [The Routine](<The Routine#use-in-any>) a double [QS Hotshot](<Hotshot#quick-save-hotshots>) is used instead.
 
+In both cases, Bastila does not need to be positioned within the Landing Port; any of her initial spawn locations will give valid coordinates for the warp back to the Lower Shadowlands.
+
 **Positioning Image**
 
 ![Image showing Bastila's positioning](/assets/images/kotor1/CWLPtoLS.png)
@@ -160,6 +162,8 @@ The video above shows the initial warp done with the [Fast Lane](<Fast Lane>); f
 - **Hotshot Used:** Double [Neo Hotshot](<Hotshot#neo-hotshots>)
 
 This warp is used to send Bastila from the start of the Command Center to the end in one fell swoop, skipping all fights and movement in the Command Center.  Note that Bastila typically spawns onto non-walkable mesh during this Coordinate Warp, so her coordinates change slightly.
+
+If the MC's position is correctly set before leaving the Lower Shadowlands for the last time, then Bastila does not need to change positions while performing this warp.
 
 **Positioning Image**
 
@@ -184,7 +188,7 @@ In addition to the warps listed below, All Star Maps also does the [Landing Port
 - **Precision Level:** Low
 - **Hotshot Used:** [Neo Hotshot](<Hotshot#neo-hotshots>)
 
-This warp is used to send Bastila to the far side of the Valley of the Dark Lords, avoiding a lot of running.  Triggering Lashowe's conversation with Bastila then warps MC to the far side of the Valley, so that the Tomb of Naga Sadow can be reached
+This warp is used to send Bastila to the far side of the Valley of the Dark Lords, avoiding a lot of running.  Triggering Lashowe's conversation with Bastila then warps MC to the far side of the Valley, so that the Tomb of Naga Sadow can be reached.
 
 **Positioning Image**
 
@@ -268,7 +272,9 @@ This warp is used to reach the Submersible to Hrakert Station right after obtain
 - **Precision Level:** None
 - **Hotshot Used:** [Neo Hotshot](<Hotshot#neo-hotshots>)
 
-This warp is used to reach the Submersible to Hrakert Station right after obtaining the Kashyyyk Star Map.  This skips the entire Manaan Sith Base and saves movement in East Central.
+This warp is used to obtain the Korriban Star Map with Jolee.  This skips the entire Sith Academy segment, including the fight with Uthar and Yuthura and all of the prestige gathering.
+
+Any of Jolee's spawn locations upon leaving the Czerka Office will result in valid coordinates for the warp, so he does not have to change positions before the [Neo Hotshot](<Hotshot#neo-hotshots>).
 
 **Positioning Image**
 
@@ -278,6 +284,27 @@ This warp is used to reach the Submersible to Hrakert Station right after obtain
 
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/ERzRLXY0NWc" frameborder="0"></iframe>
+</div>
+
+### Tomb of Naga Sadow to Hrakert Station
+
+- **Used In:** All Star Maps
+- **Start Module:** Tomb of Naga Sadow, Korriban
+- **Destination Module:** Hrakert Station, Manaan
+- **Approximate Coordinates:** (100.70, 108.20)
+- **Precision Level:** Low
+- **Hotshot Used:** [Neo Hotshot](<Hotshot#neo-hotshots>)
+
+This warp obtains the Envirosuit directly after the Korriban Star Map.  It skips running through Hrakert Station, which is normally one of the most dangerous parts of the run.  Thus this warp helps to enable Plot Armor Skip for All Star Maps.
+
+**Positioning Image**
+
+![Image showing Jolee's positioning](/assets/images/kotor1/CWNStoHS.png)
+
+**Video of Warp**
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/T7l78gt_0oc" frameborder="0"></iframe>
 </div>
 
 ## Warps in All Quests
