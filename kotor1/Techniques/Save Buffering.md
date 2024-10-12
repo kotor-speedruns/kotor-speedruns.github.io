@@ -125,3 +125,4 @@ As you progress in the game, Quick Saves take longer and longer to complete.  Wh
 
 * [Save Teleporting](<Save Teleporting>)
 * [Gather Party Warps](<GP Warp>)
+* [Jedi Mine Trick](<Jedi Mine Trick>)

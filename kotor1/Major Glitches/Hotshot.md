@@ -13,7 +13,6 @@
 - [Hard Save Hotshots](#hard-save-hotshots)
   - [Via Load Menu](#via-load-menu)
   - [Via Main Menu](#via-main-menu)
-- [Coordinate Warping](#coordinate-warping)
 - [Transit Point Storage](#transit-point-storage)
 - [Swoop Skips](#swoop-skips)
 - [Uses](#uses)
@@ -36,7 +35,7 @@ Save files are made up of a bunch of smaller saves called modules. Usually, we c
 **Effects:**
 
 - The Main Character (MC) spawns in their last location in the module.
-- Party members will spawn in the same coordinates they were in before the warp, provided they are not out of bounds.  This leads to a technique called [Coordinate Warping](#coordinate-warping).
+- Party members will spawn in the same coordinates they were in before the warp, provided they are not out of bounds.  This leads to a technique called [Coordinate Warps](<Coordinate Warps>).
 - The MC is reverted back to the stats, EXP, alignment and equipment they had when they were last in that module.  This can easily lose character progress, so be careful.  This does not apply to [Autosave Hotshots](#autosave-hotshots).
 - Party member characteristics are *not* reverted in any way.
 - We keep all inventory items, quest progress, module progressions, and global variable progress between warps.
@@ -107,7 +106,7 @@ Neo Hotshots, sometimes called HSS Hotshots, are always consistent and the faste
 **Additional Notes:**
 
 - This version of Hotshot works by loading a Quick Save that has been overwritten.  Thus your Quick Save will end up in the Start Module, not the Destination Module.
-- You can immediately Hotshot from the Destination Module back to the Start Module by replacing step 8 with a Quick Save, then a repeat of steps 5 through 7.  This can be used to set up [Coordinate Warps](#coordinate-warping).
+- You can immediately Hotshot from the Destination Module back to the Start Module by replacing step 8 with a Quick Save, then a repeat of steps 5 through 7.  This can be used to set up [Coordinate Warps within a module](<Coordinate Warps#warping-in-place>).
 - If you obtained [AMG](<Anywhere Menu Glitch>) by entering the Start Module, you can Quick Save in step 4 without closing the Options Menu first.
 - Instead of steps 5,6, and 8, you can load the Quick Save using the mouse.  This is nearly always slower than using the keyboard as described.
 
@@ -137,7 +136,6 @@ Neo Hotshots, sometimes called HSS Hotshots, are always consistent and the faste
 - This method of Hotshot works by loading an Autosave that has been overwritten.
 - The Autosave Hotshot is the only method of Hotshot that allows you to warp to a module that is not currently in your save file (either due to deletion or merely because it is unvisited).
 - The Autosave Hotshot also does not revert your Main Character's stats, equipment, alignment, or experience.
-- [Coordinate Warps](#coordinate-warping) do not work with Autosave Hotshots.  Instead, the spawn location of the MC and the party works as below.
 - An Autosave Hotshot can be used to bring Trask off the Endar Spire to any other location.
 
 **Spawn Location Notes:**
@@ -219,30 +217,6 @@ This was the original form of Hotshot, and is slower and more complicated than a
 - It is important for the [AMG](<Anywhere Menu Glitch>) to be done via Quick Save in the Destination Module.  We need to store the Teleport save in a Quick Save for the Hotshot to work.
 - Hard Save Hotshots are used twice in [All Quests](<../Route Guides/All Quests Unrestricted>) to warp while spawning party members near the Teleport save location.  In any other situation, [Neo Hotshots](#neo-hotshots) or [Quick Save Hotshots](#quick-save-hotshots) should be used instead.
 
-## Coordinate Warping
-
-Coordinate Warping is a Hotshot technique that warps your party members to any coordinates in the Destination Module that they can reach in the Start Module.  Since party member coordinates persist when doing a Hotshot, we can use this to help party members bypass locked doors and reach certain areas early.
-
-To perform a Coordinate Warp:
-
-1. Place your party member(s) at the coordinates you want them to keep.  This can be done with one or two party members, and they do not have to be near each other.
-2. Once they are positioned, save to the Hotshot Current slot.
-3. Hotshot using your preferred method to your Teleport save, which contains the location you wish to warp your party members to.
-
-<div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/QFl1q-pR7Ik" frameborder="0"></iframe>
-</div>
-
-**Additional Notes:**
-
-- Your party members will spawn in the Destination Module at the coordinates they had in the Start Module, with two exceptions:
-
-1. If the coordinates of the party member put them out of bounds, that party member will instead spawn at the origin, if it is in-bounds in the Destination Module.
-2. If the coordinates of the party member put them out of bounds and the origin is also out of bounds, the party member will spawn near the MC for [Neo Hotshots](#neo-hotshots) or [Quick Save Hotshots](#quick-save-hotshots), or at the location of the Teleport save for [Hard Save Hotshots](#hard-save-hotshots).
-3. It is possible for party members to land in-bounds, but on "non-walkable mesh".  In this case, the party member is moved to the nearest "walkable mesh" coordinates in the new module.  This happens to Carth in the example video above, so his coordinates change slightly.
-
-- Coordinate Warps do not work with [Autosave Hotshots](#autosave-hotshots).
-
 ## Transit Point Storage
 
 Transit Point Storage is a specialized application of [Autosave Hotshots](#autosave-hotshots), used when you want to return to a specific place in a module even after using fast transit elsewhere.
@@ -293,18 +267,18 @@ Note that swoop skips do not work on the Taris swoop races due to the difference
 
 ## Uses
 
-Hotshots are used many times in Unrestricted speedruns, usually to cut out backtracking or long stretches of walking.  However, there are some more major skips done with Hotshots, including:
+One major use of Hotshots are [Coordinate Warps](<Coordinate Warps>).  [Coordinate Warps](<Coordinate Warps>) allow you to apply a party member's coordinates from one module to another, leading to several skips and more efficient movement.
 
-1. Acquire Plot Armor (Immortality) on the Endar Spire in [All Quests](<../Route Guides/All Quests Unrestricted>) and [All Star Maps](<../Route Guides/All Star Maps>).
-2. A Coordinate Warp is used in conjunction with [the Routine](7wfpc) to obtain the Kashyyyk Star Map four times in quick succession in [Any%](<../Route Guides/Any%25 Unrestricted>).
-3. Used to skip the Leviathan in [All Star Maps](<../Route Guides/All Star Maps>) by avoiding flying the Ebon Hawk while in possession of four Star Maps.
-4. A Coordinate Warp is used to skip the Manaan Sith Base in [All Star Maps](<../Route Guides/All Star Maps>).
-5. A Coordinate Warp is used to obtain the Korriban Star Map without gaining prestige in [All Star Maps](<../Route Guides/All Star Maps>).
-6. Used to skip Ship Parts on Lehon in all Unrestricted speedruns.
-7. Used to skip the Bastila fight on the Star Forge in [Any%](<../Route Guides/Any%25 Unrestricted>) and [All Star Maps](<../Route Guides/All Star Maps>).
-8. Swoop Skips are used to skip all six races on Tatooine and Manaan in [All Quests](<../Route Guides/All Quests Unrestricted>).
-9. Transit Point Storage is used once in [All Quests](<../Route Guides/All Quests Unrestricted>) to warp from Manaan to Tatooine.
+In addition to [Coordinate Warps](<Coordinate Warps>), Hotshots are used many times in Unrestricted speedruns, usually to cut out backtracking.  However, there are some more major skips and glitches performed with Hotshots, including:
+
+1. Acquire Plot Armor (Immortality) on the Endar Spire in [All Quests](<../Route Guides/All Quests Unrestricted>).
+2. Used to skip the Leviathan in [All Star Maps](<../Route Guides/All Star Maps>) by avoiding flying the Ebon Hawk while in possession of four Star Maps.
+3. Used to skip Ship Parts on Lehon in all Unrestricted speedruns.
+4. Swoop Skips are used to skip all six races on Tatooine and Manaan in [All Quests](<../Route Guides/All Quests Unrestricted>).
+5. Transit Point Storage is used once in [All Quests](<../Route Guides/All Quests Unrestricted>) to warp from Manaan to Tatooine.
+6. [Autosave Hotshots](#autosave-hotshots) are used a few times to spawn at a module's default spawn in all Unrestricted routes.
 
 ## Related Glitches
 
 - [Anywhere Menu Glitch](<Anywhere Menu Glitch>)
+- [Coordinate Warps](<Coordinate Warps>)
