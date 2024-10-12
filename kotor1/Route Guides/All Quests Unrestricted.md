@@ -280,7 +280,7 @@ The GenoHaradan sidequests are the main routing constraint in the midgame.  Thes
 
 Other planet route notes:
 - Korriban does not require two visits if you get its Star Map last, since then you can do the Premium Merchant quest at that time. The Premium Merchant quest is only available after the Leviathan.
-- Kashyyyk could be done in one visit if done after Manaan 1; however, skipping Rulan lets us reach the Lower Shadowlands more quickly, and there is a convenient [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to go back for Rulan from the Manaan Sith Base.  It also streamlines the "Sunry Murder Trial" questline on Manaan to have Jolee for Manaan 1.
+- Kashyyyk could be done in one visit if done after Manaan 1; however, skipping Rulan lets us reach the Lower Shadowlands more quickly, and there is a convenient [Coordinate Warp](<../Major Glitches/Coordinate Warps>) to go back for Rulan from the Manaan Sith Base.  It also streamlines the "Sunry Murder Trial" questline on Manaan to have Jolee for Manaan 1.
 - Tatooine could be done in one visit if done after Manaan 1; however, it is faster to visit Senni Vek on Tatooine, even though we do Kashyyyk first.  Senni Vek is quite out of the way on Kashyyyk.
 
 ### Route Outline
@@ -595,7 +595,7 @@ SHOPPING: Larrim
 - Swap to Carth and leave the Cantina
 - Swap to MC and run forward until you reach the first archway
 - Return to the Hideout and Transit Back to set the transit point
-  - This positioning enables a fast [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) later
+  - This positioning enables a fast [Coordinate Warp](<../Major Glitches/Coordinate Warps>) later
   - ***Finishes "Rapid Transit System"***
 - Run towards Upper City North
 - Just before the floating sculpture, activate Solo Mode
@@ -635,7 +635,7 @@ SHOPPING: Zelka Forn
 - Swap to MC and loot Largo for Energy Projector
 - As MC, loot Largo's Footlocker and note whether you got a Computer Spike, Parts, or both
 - Swap back to Carth and wait until he opens the door
-- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Upper City Cantina via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 4
+- [Coordinate Warp](<../Major Glitches/Coordinate Warps>) to Upper City Cantina via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 4
   - **Slot 4 now North Apartments**
 
 ### The Duel Ring
@@ -787,7 +787,7 @@ SHOPPING: Zelka Forn
   - It is important to use a QS for this!
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to South Apartments using Slot 2
 - Transit Back to UCS and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
-- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Vulkar Garage via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) using your pop-up
+- [Coordinate Warp](<../Major Glitches/Coordinate Warps>) to Vulkar Garage via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) using your pop-up
   - If you set the transit point correctly earlier, you don't have to move Carth at all
 - As Carth, loot the prototype accelerator
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and talk to Kandon Ark
@@ -1170,7 +1170,7 @@ OPTIONAL SHOPPING: Eli Gand
 - *Party: Add Juhani*
 - Exit to the Great Walkway
 - QS, then reenter the Landing Pad and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
-- Use the pop-up to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Juhani to the Great Walkway via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
+- Use the pop-up to [Coordinate Warp](<../Major Glitches/Coordinate Warps>) Juhani to the Great Walkway via [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>)
   - Position Juhani in a [specific spot](/assets/images/imgur-dump/BfgfArb.png) first
 - After loading, activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - Swap to MC and [GP Warp](<../Techniques/GP Warp#amg-gp-warps>) Juhani to the Shadowlands elevator
@@ -1249,7 +1249,7 @@ OPTIONAL SHOPPING: Eli Gand
   - If Juhani and Jolee warped to MC, you'll have to run one of them back to the Ebon Hawk
 - As MC, talk to Eli Gand
   - ***Finishes "Honest Debt"***
-- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Lower Shadowlands via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 1
+- [Coordinate Warp](<../Major Glitches/Coordinate Warps>) to Lower Shadowlands via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 1
 
 ### Lower Shadowlands
 
@@ -1414,7 +1414,7 @@ SHOPPING: Junix Nard
   - You may need to skip over Manaa Demknot's convo again if you [Save Teleported](<../Techniques/Save Teleporting>) to skip it earlier
   - ***Begins "GenoHaradan"***
 - [Save Teleport](<../Techniques/Save Teleporting>) forward once into a small dead end, then RtEH
-  - This helps position us for a [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) later
+  - This helps position us for a [Coordinate Warp](<../Major Glitches/Coordinate Warps>) later
 - Board the Ebon Hawk
   - You may want to cast Master Speed to make your [Save Teleports](<../Techniques/Save Teleporting>) more manageable here
 - Workbench: Upgrade Lightsaber: Add Krayt Dragon Pearl
@@ -1560,20 +1560,20 @@ SHOPPING: Selkath Merchant
   - This swaps HK's position with MC's
   - ***Finishes "Fair Trade"***
 - Put HK in this [specific location](/assets/images/imgur-dump/O1RtV4j.png)
-- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Mission and HK to Dune Sea via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 6
-  - This puts HK-47 in the right place for the next [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>)
+- [Coordinate Warp](<../Major Glitches/Coordinate Warps>) Mission and HK to Dune Sea via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 6
+  - This puts HK-47 in the right place for the next [Coordinate Warp](<../Major Glitches/Coordinate Warps>)
 - *Stims: All Remaining Basic Stims **on Mission***
     - You'll should have at least a basic Alacrity, but we want to clear out this menu so stims are quicker to use later
     - The Alacrity makes Mission easier to position correctly here
 - [Save Teleport](<../Techniques/Save Teleporting>) to position Mission in a [specific spot](/assets/images/imgur-dump/RobinnA.png)
-- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Manaan Sith Base via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 9
+- [Coordinate Warp](<../Major Glitches/Coordinate Warps>) to Manaan Sith Base via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 9
   - If Mission spawns near MC, she spawned OoB in the Sith Base; to try again:
     - QS, load the Dune Sea save in Slot 9 and [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
     - Reposition Mission, then use the pop-up to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to the Sith Base
 - As Mission, talk to Shasa: 3
   - Don't go near the door or you'll warp the party to you!
 - Swap to HK-47 and loot the Data Module
-- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) HK to Upper Shadowlands via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 2
+- [Coordinate Warp](<../Major Glitches/Coordinate Warps>) HK to Upper Shadowlands via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 2
 - As HK-47, loot the Wookiee Corpse, then [Save Teleport](<../Techniques/Save Teleporting>) right next to the Rulan-Wookiee
 - *Stims/Force: Hyper Strength and Hyper Battle Stim on MC, Cast Master Speed*
 - Swap back to HK and talk to the Wookiee to start the Rulan fight
@@ -1584,7 +1584,7 @@ SHOPPING: Selkath Merchant
 - *Force: Cast Master Speed*
 - After a delay, talk to and kill the Rulan-tach
 - [Save Teleport](<../Techniques/Save Teleporting>) towards Jolee's house as MC until you're just past the fog patch on the ground
-  - This sets up a later [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>)
+  - This sets up a later [Coordinate Warp](<../Major Glitches/Coordinate Warps>)
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Czerka Office using Slot 3
   - **Slot 3 now Upper Shadowlands**
 - Talk to Czerka Protocol Officer: 1,2,2
@@ -1676,13 +1676,13 @@ SHOPPING: Selkath Merchant
   - This hits the flag that tells the game Dantooine is destroyed, part of Zuulan skip
 - Use the Detention Console to free the party
 - Loot your inventory from the right hand locker
-- Double Mixed Hotshot to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) within the Prison Block:
+- Double Mixed Hotshot to [Coordinate Warp](<../Major Glitches/Coordinate Warps>) within the Prison Block:
   - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Upper Shadowlands using Slot 3
     - **Slot 3 now Prison Block**  
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
   - Use the mouse to close the leftover menu
   - Use the pop-up to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) back to the Prison Block
-  - This [Coordinate Warps](<../Major Glitches/Hotshot#coordinate-warping>) Carth and Bastila past a locked door, and leaves a save in Prison Block
+  - This [Coordinate Warps](<../Major Glitches/Coordinate Warps>) Carth and Bastila past a locked door, and leaves a save in Prison Block
   - If you positioned MC correctly after killing Rulan, you don't need to reposition before the warp back
 - Swap to Carth or Bastila and [Save Teleport](<../Techniques/Save Teleporting>) up ramp
   - If you get to the door with no CS, run backwards a little to trigger Canderous's convo
@@ -1700,11 +1700,11 @@ SHOPPING: Selkath Merchant
   - The Dark Jedi here can stun you with Force Whirlwind or Force Choke, so be fast and lucky
 - Inside the Bridge, [Save Teleport](<../Techniques/Save Teleporting>) either Carth or Bastila to the far left corner of the room
   - This positions them so that the next warp places them OoB
-- [Double Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) within Leviathan Bridge:
+- [Double Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Coordinate Warps>) within Leviathan Bridge:
   - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Sea Floor using Slot 10
     - **Slot 10 now Leviathan Bridge**
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load and [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Leviathan Bridge using Slot 10
-  - This [Coordinate Warps](<../Major Glitches/Hotshot#coordinate-warping>) the party member from the corner into the bridge
+  - This [Coordinate Warps](<../Major Glitches/Coordinate Warps>) the party member from the corner into the bridge
 - Swap to the party member on the bridge and hack the computer console: 1,2
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Prison Block using Slot 3
 - Swap to MC and use the elevator controls to reach the Hangar: 3
@@ -1762,7 +1762,7 @@ SHOPPING: Selkath Merchant
 - Swap to MC and [Save Teleport](<../Techniques/Save Teleporting>) to the academy entrance
 - After the screen flashes black (when Canderous reaches the droid), talk to Sith Guard: 2
   - ***Begins "Enter the Sith Academy"***
-- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Ahto West via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 7
+- [Coordinate Warp](<../Major Glitches/Coordinate Warps>) to Ahto West via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 7
   - Canderous's position by the droid puts him inside the Ahto West prison
 - Talk to Shaelas: 2,1spam
   - ***Finishes "Missing Selkath"***
@@ -1843,7 +1843,7 @@ SHOPPING: Selkath Merchant
 - Thalia May accosts you: 1,3,1,3
   - ***Finishes "Renegade Sith"***
 - [Position MC](/assets/images/imgur-dump/Zt52j4W.png) on left side of mouth of passage to back of cave
-  - This is for a later [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>)
+  - This is for a later [Coordinate Warp](<../Major Glitches/Coordinate Warps>)
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to East Central using Slot 1
   - **Slot 1 now Shyrack Caves**
 - Talk to Roland Wann (or have him accost you)
@@ -1889,7 +1889,7 @@ SHOPPING: Selkath Merchant
   - ***Begins "The Hermit in the Hills"***
 - Swap to T3 and position him in front of the sarcophagus
   - If he didn't warp to the sarcophagus room, you'll have to [Save Teleport](<../Techniques/Save Teleporting>) T3 there
-- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Tomb of Marka Ragnos via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 14
+- [Coordinate Warp](<../Major Glitches/Coordinate Warps>) to Tomb of Marka Ragnos via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 14
 - IMMEDIATELY pause and [Combat Talk](<../Techniques/Combat Talking>) the rogue assassin droid
   - This may fail if the MC is in combat with the first droid in the hallway; if so, retry [Combat Talking](<../Techniques/Combat Talking>) again with QS/QL
 - Destroy the rogue assassin droid
@@ -1912,7 +1912,7 @@ SHOPPING: Selkath Merchant
   - **Slot 1 now Naga Sadow**
 - *Party: Add Juhani*
   - You don't have to move her if you were positioned correctly when you made this save
-- [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) back to Tomb of Naga Sadow via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 1
+- [Coordinate Warp](<../Major Glitches/Coordinate Warps>) back to Tomb of Naga Sadow via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 1
 - Activate Solo Mode
 - *Force: Cast Master Speed and Master Valor*
   - Your stims should still be active as well; if not, you can do without
@@ -2007,7 +2007,7 @@ SHOPPING: Selkath Merchant
     - ***Finishes "A Quest for the Star Forge"***
   - Swap to Juhani and move her two steps backward from where she is facing
   - Swap to Canderous and do the same
-  - [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) to Temple Main Floor via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 1
+  - [Coordinate Warp](<../Major Glitches/Coordinate Warps>) to Temple Main Floor via [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) using Slot 1
   - As Canderous, open the door to the Catacombs
   - Swap to MC and *Force: Cast Master Speed*
   - Swap back to Canderous and enter the Catacombs
@@ -2099,10 +2099,10 @@ SHOPPING: Selkath Merchant
 ### Command Center
 - [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load (or via QS after)
-- [Double Neo Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) within the Command Center:
+- [Double Neo Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to [Coordinate Warp](<../Major Glitches/Coordinate Warps>) within the Command Center:
   - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Deck 1 using Slot 17
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load and [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Command Center using Slot 17
-  - This [Coordinate Warps](<../Major Glitches/Hotshot#coordinate-warping>) Jolee to Bastila's room in the Command Center
+  - This [Coordinate Warps](<../Major Glitches/Coordinate Warps>) Jolee to Bastila's room in the Command Center
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS, then swap to Jolee and open the nearby door
   - When the CS starts, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the Bastila CS via [Force Skip](<../Techniques/Force Skips>)
   - Allow Master Speed to actually be cast
