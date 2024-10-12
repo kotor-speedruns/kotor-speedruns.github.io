@@ -74,8 +74,13 @@ All of the warps list the following information:
 - Runs the warp are used in (some have more than one)
 - Start Module and Destination Module
 - Approximate Warp Coordinates in (x,y)
-- Precision Level of the Warp (None, Low, Moderate, High)
-- Type of [Hotshots](<Hotshot>) used
+- Precision Level of the Warp
+    - None: No positioning required
+    - Low: Straightforward positioning required
+    - Moderate: Careful positioning required
+    - High: Extremely careful positioning required; easy to fail
+- Type of [Hotshot](<Hotshot>) used
+- A short description of the warp
 - An image picturing the start and end of the warp with associated walkmesh maps
 - A video showing the warp in action
 
@@ -97,8 +102,10 @@ Note that only true Coordinate Warps are listed here; Unrestricted runs use many
 - **Start Module:** Czerka Landing Port, Kashyyyk
 - **Destination Module:** Great Walkway, Kashyyyk
 - **Approximate Coordinates:** (167.94, 138.83)
-- **Precision Level:** Low to Moderate
+- **Precision Level:** Low
 - **Hotshot Used:** Abbreviated [Quick Save Hotshot](<Hotshot#quick-save-hotshots>)
+
+This warp is used to place Bastila on the Walkway closest to the Shadowlands elevator; it is followed by a [GP Warp](<../Techniques/GP Warp>) to reach the elevator and the Shadowlands using Bastila.
 
 **Positioning Image**
 
@@ -112,7 +119,47 @@ Note that only true Coordinate Warps are listed here; Unrestricted runs use many
 
 ### Landing Port to Lower Shadowlands
 
+- **Used In:** Any%
+- **Start Module:** Czerka Landing Port, Kashyyyk
+- **Destination Module:** Lower Shadowlands, Kashyyyk
+- **Approximate Coordinates:** (56.17, 52.37)
+- **Precision Level:** None
+- **Hotshot Used:** [QS Hotshot](<Hotshot#quick-save-hotshots>) with [Fast Lane](<Fast Lane>); Double [QS Hotshot](<Hotshot#quick-save-hotshots>)
+
+This warp is used to warp Bastila from the entrance of the Lower Shadowlands to a position near the Star Map, saving running and avoiding enemies.  Both versions of the warp return to the Landing Port from Lower Shadowlands first; the initial warp uses a [Fast Lane](<Fast Lane>) to do so, while during [The Routine](<The Routine#use-in-any>) a double [QS Hotshot](<Hotshot#quick-save-hotshots>) is used instead.
+
+**Positioning Image**
+
+![Image showing Bastila's positioning](/assets/images/kotor1/CWLPtoLS.png)
+
+**Video of Warp**
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/dnjiWZ9e2M0" frameborder="0"></iframe>
+</div>
+
+The video above shows the initial warp done with the [Fast Lane](<Fast Lane>); for the Double [QS Hotshot](<Hotshot#quick-save-hotshots>) version done later, see [The Routine](<The Routine#use-in-any>).
+
 ### Lower Shadowlands to Command Center
+
+- **Used In:** Any%, All Star Maps
+- **Start Module:** Lower Shadowlands, Kashyyyk
+- **Destination Module:** Command Center, Star Forge
+- **Approximate Coordinates:** (77.32, 19.66) -> (75.62, 21.36)
+- **Precision Level:** None
+- **Hotshot Used:** Double [Neo Hotshot](<Hotshot#neo-hotshots>)
+
+This warp is used to send Bastila from the start of the Command Center to the end in one fell swoop, skipping all fights and movement in the Command Center.  Note that Bastila typically spawns onto non-walkable mesh during this Coordinate Warp, so her coordinates change slightly.
+
+**Positioning Image**
+
+![Image showing Bastila's positioning](/assets/images/kotor1/CWLStoCommand.png)
+
+**Video of Warp**
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/djg38soPQZA" frameborder="0"></iframe>
+</div>
 
 ## Warps in All Star Maps
 
