@@ -307,8 +307,119 @@ This warp obtains the Envirosuit directly after the Korriban Star Map.  It skips
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/T7l78gt_0oc" frameborder="0"></iframe>
 </div>
 
+### Bandon Cutscene to Sea Floor
+
+- **Used In:** All Star Maps
+- **Start Module:** STUNT_14 (Darth Bandon Introduction Cutscene)
+- **Destination Module:** Sea Floor, Manaan
+- **Approximate Coordinates:** (247.10, 57.15)
+- **Precision Level:** Moderate
+- **Hotshot Used:** Modified [Neo Hotshot](<Hotshot#neo-hotshots>)
+
+This unique Coordinate Warp uses coordinates from the module STUNT_14, which shares coordinates with the bridge section of Leviathan Bridge.  STUNT_14 is reached by intentionally triggering the Darth Bandon cutscene by flying the Ebon Hawk after 3 Star Maps are obtained.  The [Anywhere Menu Glitch](<Anywhere Menu Glitch>) then allows us to gain control during the cutscene, add Jolee, and move him to the correct coordinates.  
+
+The difficult part of this warp is that, since it occurs during a cutscene, hotkeys are disabled and the mouse cursor is invisible.  Thus blind mouse movement is needed to open the Map Menu, close the Party Select and Map Menus, and then open the Options Menu twice while performing the [Neo Hotshot](<Hotshot#neo-hotshots>).
+
+Once complete, this warp skips the entire Sea Floor module, including the Firaxan Sharks that can instantly kill the player.  This warp, along with an Autosave Hotshot to Hrakert Rift, enables both Disguise Skip and Plot Armor Skip in All Star Maps.
+
+**Positioning Image**
+
+![Image showing Jolee's positioning](/assets/images/kotor1/CWSTUNTtoSea.png)
+
+**Video of Warp**
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/knM7dWrHNCI" frameborder="0"></iframe>
+</div>
+
+### Kolto Control to Anchorhead
+
+- **Used In:** All Star Maps
+- **Start Module:** Kolto Control, Manaan
+- **Destination Module:** Anchorhead, Tatooine
+- **Approximate Coordinates:** (252.52, 111.63)
+- **Precision Level:** None
+- **Hotshot Used:** [Neo Hotshot](<Hotshot#neo-hotshots>)
+
+This warp is done as soon as Kolto Control is reached, and warps Jolee to the end of Anchorhead right near the gate guard to the Dune Sea.  This sets up a [return Coordinate Warp](#anchorhead-to-kolto-control) as well as an [Autosave Hotshot](<Hotshot#autosave-hotshots>) to Hrakert Rift.
+
+Jolee has the correct coordinates no matter where he spawns upon entering Kolto Control, so the [Neo Hotshot](<Hotshot#neo-hotshots>) can be done immediately.
+
+**Positioning Image**
+
+![Image showing Jolee's positioning](/assets/images/kotor1/CWKCtoAnchor.png)
+
+**Video of Warp**
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/3h0RsZ7m1dc" frameborder="0"></iframe>
+</div>
+
+### Anchorhead to Kolto Control
+
+- **Used In:** All Star Maps
+- **Start Module:** Anchorhead, Tatooine
+- **Destination Module:** Kolto Control, Manaan
+- **Approximate Coordinates:** (215.70, 77.04)
+- **Precision Level:** Moderate
+- **Hotshot Used:** [Neo Hotshot](<Hotshot#neo-hotshots>)
+
+This warp is done to bypass the force field and scared scientists in Kolto Control and thus obtain the Hrakert Rift Autosave.  Make sure to stay far enough away from the ronto, or Jolee will be out of bounds in Kolto Control.
+
+**Positioning Image**
+
+![Image showing Jolee's positioning](/assets/images/kotor1/CWAnchortoKC.png)
+
+**Video of Warp**
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/d6ZCXzow3VM" frameborder="0"></iframe>
+</div>
+
+### Upper Shadowlands to Dune Sea
+
+- **Used In:** All Star Maps
+- **Start Module:** Upper Shadowlands, Kashyyyk
+- **Destination Module:** Dune Sea, Tatooine
+- **Approximate Coordinates:** (335.87, 171.08)
+- **Precision Level:** Low
+- **Hotshot Used:** Double [Neo Hotshot](<Hotshot#neo-hotshots>)
+
+This warp is the second of two successive [Neo Hotshots](<Hotshot#neo-hotshots>), and uses the coordinates near the force field in Upper Shadowlands to warp Jolee to the Dune Sea, close to the Eastern Dune Sea entrance.  
+
+The first [Neo Hotshot](<Hotshot#neo-hotshots>) goes from Hrakert Rift to Upper Shadowlands.  It requires Jolee to move away from the Star Map first so that his coordinates will be out of bounds in Upper Shadowlands, causing him to spawn at MC's last position next to the force field.
+
+**Positioning Image**
+
+![Image showing Jolee's positioning](/assets/images/kotor1/CWUStoDune.png)
+
+**Video of Warp**
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/RnQ6_GfNnzc" frameborder="0"></iframe>
+</div>
+
 ## Warps in All Quests
+
+Coming soon!
 
 ## Other Coordinate Warps
 
+There are a myriad of other Coordinate Warps in KotOR, since the mechanics of them are quite flexible.  Some of these may be useful in either Randomizer or Bingo, while others have been used in the past.  They include:
+
+- Hrakert Rift to Tomb of Naga Sadow (for the Korriban Map)
+- Valley of the Dark Lords to Tomb of Naga Sadow (for the Korriban Map)
+- Czerka Landing Port to Tomb of Naga Sadow (for the Korriban Map and/or the Solari crystal)
+- Courtyard to Great Walkway (to the Shadowlands Elevator)
+- Sith Academy Entrance to Lower Shadowlands (for the Kashyyyk Map)
+- Manaan Docking Bay to Shyrack Caves (for the Qel-Droma Robes)
+- Many others!
+
+If you're looking to discover or design your own Coordinate Warps, some tools that can help include:
+
+- Console cheats, including `warp` to travel between modules and `whereami` to get exact coordinates
+- The Walkmesh Visualizer by glasnonck, which allows you to overlay multiple modules and find matches for specific coordinates.
+
 ## Related Glitches
+- [Hotshot](<Hotshot>)
+- [Anywhere Menu Glitch](<Anywhere Menu Glitch>)
