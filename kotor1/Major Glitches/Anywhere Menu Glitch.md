@@ -172,6 +172,7 @@ This method of performing a Menu Glitch predated the Anywhere Menu Glitch, but i
 ## Related Glitches
 
 - [Hotshots](Hotshot)
+- [Coordinate Warps](<Coordinate Warps>)
 - [Fast Lane](<Fast Lane>)
 - [Fake Level Up](<Fake Level Up>)
 - [The Routine](<The Routine>)
