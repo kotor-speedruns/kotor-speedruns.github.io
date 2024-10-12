@@ -93,6 +93,15 @@ Note that only true Coordinate Warps are listed here; Unrestricted runs use many
     - [Lower Shadowlands to Command Center](#lower-shadowlands-to-command-center)
 - [Warps in All Star Maps](#warps-in-all-star-maps)
     - [Upper Shadowlands to Valley of the Dark Lords](#upper-shadowlands-to-valley-of-the-dark-lords)
+    - [Docking Bay to Upper Shadowlands](#docking-bay-to-upper-shadowlands)
+    - [East Central to Lower Shadowlands](#east-central-to-lower-shadowlands)
+    - [Lower Shadowlands to East Central](#lower-shadowlands-to-east-central)
+    - [Anchorhead to Tomb of Naga Sadow](#anchorhead-to-tomb-of-naga-sadow)
+    - [Tomb of Naga Sadow to Hrakert Station](#tomb-of-naga-sadow-to-hrakert-station)
+    - [Bandon Cutscene to Sea Floor](#bandon-cutscene-to-sea-floor)
+    - [Kolto Control to Anchorhead](#kolto-control-to-anchorhead)
+    - [Anchorhead to Kolto Control](#anchorhead-to-kolto-control)
+    - [Upper Shadowlands to Dune Sea](#upper-shadowlands-to-dune-sea)
 - [Warps in All Quests](#warps-in-all-quests)
 
 ## Warps in Any%
@@ -206,6 +215,69 @@ This warp is used after obtaining the West Central Autosave to warp Bastila next
 
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/FiBM4kIh4jg" frameborder="0"></iframe>
+</div>
+
+### East Central to Lower Shadowlands
+
+- **Used In:** All Star Maps
+- **Start Module:** East Central, Manaan
+- **Destination Module:** Lower Shadowlands, Kashyyyk
+- **Approximate Coordinates:** (71.33, 15.39)
+- **Precision Level:** Low
+- **Hotshot Used:** [Neo Hotshot](<Hotshot#neo-hotshots>)
+
+This warp is used to obtain the Kashyyyk Star Map quickly with Jolee.  It also sets up a Coordinate Warp [back to East Central](#lower-shadowlands-to-east-central) to reach the Submersible.
+
+**Positioning Image**
+
+![Image showing Jolee's positioning](/assets/images/kotor1/CWECtoLS.png)
+
+**Video of Warp**
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/ZsD_XGonDNg" frameborder="0"></iframe>
+</div>
+
+### Lower Shadowlands to East Central
+
+- **Used In:** All Star Maps
+- **Start Module:** Lower Shadowlands, Kashyyyk
+- **Destination Module:** East Central, Manaan
+- **Approximate Coordinates:** (35.11, 99.93)
+- **Precision Level:** Low
+- **Hotshot Used:** [Neo Hotshot](<Hotshot#neo-hotshots>)
+
+This warp is used to reach the Submersible to Hrakert Station right after obtaining the Kashyyyk Star Map.  This skips the entire Manaan Sith Base and saves movement in East Central.
+
+**Positioning Image**
+
+![Image showing Jolee's positioning](/assets/images/kotor1/CWLStoEC.png)
+
+**Video of Warp**
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/N3MlK-7YUFM" frameborder="0"></iframe>
+</div>
+
+### Anchorhead to Tomb of Naga Sadow
+
+- **Used In:** All Star Maps
+- **Start Module:** Anchorhead, Tatooine
+- **Destination Module:** Tomb of Naga Sadow, Korriban
+- **Approximate Coordinates:** (131.29, 107.63)
+- **Precision Level:** None
+- **Hotshot Used:** [Neo Hotshot](<Hotshot#neo-hotshots>)
+
+This warp is used to reach the Submersible to Hrakert Station right after obtaining the Kashyyyk Star Map.  This skips the entire Manaan Sith Base and saves movement in East Central.
+
+**Positioning Image**
+
+![Image showing Jolee's positioning](/assets/images/kotor1/CWAnchortoNS.png)
+
+**Video of Warp**
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/ERzRLXY0NWc" frameborder="0"></iframe>
 </div>
 
 ## Warps in All Quests
