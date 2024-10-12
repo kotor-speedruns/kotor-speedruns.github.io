@@ -490,12 +490,8 @@ SHOPPING: Zelka Forn
 - *Stims: Alacrity on MC*
 - Enter Great Walkway and QS  
 - Exit Great Walkway and activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen
-- Swap to Bastila
-- Place Bastila behind the southernmost Czerka guard next to the Great Walkway exit, as close to the wall as possible:
-
-![Image showing Bastila's positioning (with Juhani in place of Bastila)](/assets/images/imgur-dump/BfgfArb.png)
-
-- Use the pop-up to [QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to [Coordinate Warp](../Major%20Glitches/Hotshot#coordinate-warping) Bastila to the Great Walkway  
+- Swap to Bastila and [position her](../Major%20Glitches/Coordinate%20Warps#landing-port-to-great-walkway) behind the southernmost Czerka guard next to the Great Walkway exit, as close to the wall as possible:
+- Use the pop-up to [QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to [Coordinate Warp](../Major%20Glitches/Coordinate%20Warps#landing-port-to-great-walkway) Bastila to the Great Walkway  
   - With the right position, Bastila will spawn about halfway across the module, ready to be [GP Warped](../Techniques/GP%20Warp)  
 - Use MC to [GP Warp](../Techniques/GP%20Warp#amg-gp-warps) Bastila to Shadowlands elevator  
 - As Bastila, enter and take elevator to Upper Shadowlands  
@@ -536,7 +532,7 @@ SHOPPING: Zelka Forn
 ### Lower Shadowlands  
 
 - QS, then **Hard Save in New Slot 6**
-- [Fast Lane](../Major%20Glitches/Fast%20Lane) and [QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to [Coordinate Warp](../Major%20Glitches/Hotshot#coordinate-warping) Bastila and Jolee from Landing Pad to Lower Shadowlands
+- [Fast Lane](../Major%20Glitches/Fast%20Lane) and [QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to [Coordinate Warp](../Major%20Glitches/Coordinate%20Warps#landing-port-to-lower-shadowlands) Bastila and Jolee from Landing Pad to Lower Shadowlands
   - Use [Fast Lane](../Major%20Glitches/Fast%20Lane) to bring up the Return to Ebon Hawk dialog
   - After the QL, open the Options Menu via hotkey, then press Enter while selecting 'Load Game' and 'OK'
   - After loading in, QS and open the Options Menu
@@ -564,7 +560,7 @@ SHOPPING: Zelka Forn
   - Press Escape to return to the Main Menu and click OK to close the extra menu
   - Select Load Game and load your QS
 - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen (or via QS afterwards)
-- [Double QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to [Coordinate Warp](../Major%20Glitches/Hotshot#coordinate-warping) Bastila and Jolee to Lower Shadowlands
+- [Double QS Hotshot](../Major%20Glitches/Hotshot#quick-save-hotshots) to [Coordinate Warp](../Major%20Glitches/Coordinate%20Warps#landing-port-to-lower-shadowlands) Bastila and Jolee to Lower Shadowlands
   - Use the Map Menu to bring up the Transit Back dialog
   - Open the Options Menu and press enter with Load Game and OK highlighted
     - This Transits Back to Lower Shadowlands
@@ -572,13 +568,13 @@ SHOPPING: Zelka Forn
   - Press Enter, move the mouse up to select OK, and press Enter again
     - This [QS Hotshots](../Major%20Glitches/Hotshot#quick-save-hotshots) to Landing Pad
   - Repeat the above steps once (QS, Options, Enter, mouse up, Enter)
-    - This [QS Hotshots](../Major%20Glitches/Hotshot#quick-save-hotshots) back to Lower Shadowlands
+    - This [QS Hotshots](../Major%20Glitches/Hotshot#quick-save-hotshots) back to Lower Shadowlands to perform the [Coordinate Warp](../Major%20Glitches/Coordinate%20Warps#landing-port-to-lower-shadowlands)
 - `Level Bastila to 4: Burst of Speed`
   - You'll only need to do this the first time (while getting the second Kashyyyk Star Map)
 - Use [Fast Lane](../Major%20Glitches/Fast%20Lane) to bring up the Return to Ebon Hawk dialog
 - Obtain the Kashyyyk Star Map again by interacting with the Star Map item
 - If this is the fourth and last Kashyyyk Star Map, talk to the Star Map computer with Bastila
-  - This swaps Bastila and the MC, which is important for a later [Coordinate Warp](../Major%20Glitches/Hotshot#coordinate-warping)
+  - This swaps Bastila and the MC, which is important for a later [Coordinate Warp](../Major%20Glitches/Coordinate%20Warps#lower-shadowlands-to-command-center)
 - Click 'OK' on the pop-up to Return to the Ebon Hawk
 - If you need to obtain another Kashyyyk Star Map, go back to the start of this section
 - If you've obtained all four Star Maps, board the Ebon Hawk
@@ -679,16 +675,16 @@ SHOPPING: Zelka Forn
 - Double [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to warp Bastila to MC
   - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Lower Shadowlands using Slot 6
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
-  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Deck 1 using Slot 6
+  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Deck 2 using Slot 6
 - Enter Command Center
 
 ### Command Deck 
 
 - Immediately after loading, [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip Bastila/Malak CS
-- Double [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to [Coordinate Warp](<../Major Glitches/Hotshot#coordinate-warping>) Bastila ahead
+- Double [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to [Coordinate Warp](<../Major Glitches/Coordinate%20Warps#lower-shadowlands-to-command-center>) Bastila ahead
   - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Lower Shadowlands using Slot 6
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
-  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Deck 1 using Slot 6
+  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Command Center using Slot 6
   - Bastila should already be in the correct position in the Lower Shadowlands and end up near the Viewing Platform entrance
 - *Stims: Hyper-Adrenal Alacrity and Stamina on Bastila*
 - Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip the Darth Malak droid CS
