@@ -75,6 +75,7 @@ All of the warps list the following information:
 - Start Module and Destination Module
 - Approximate Warp Coordinates in (x,y)
 - Precision Level of the Warp (None, Low, Moderate, High)
+- Type of [Hotshots](<Hotshot>) used
 - An image picturing the start and end of the warp with associated walkmesh maps
 - A video showing the warp in action
 
@@ -97,6 +98,7 @@ Note that only true Coordinate Warps are listed here; Unrestricted runs use many
 - **Destination Module:** Great Walkway, Kashyyyk
 - **Approximate Coordinates:** (167.94, 138.83)
 - **Precision Level:** Low to Moderate
+- **Hotshot Used:** Abbreviated [Quick Save Hotshot](<Hotshot#quick-save-hotshots>)
 
 **Positioning Image**
 
