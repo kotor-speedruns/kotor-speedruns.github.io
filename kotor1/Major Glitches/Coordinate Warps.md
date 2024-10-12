@@ -40,10 +40,10 @@ When you [Hotshot](<Hotshot>), the locations that party members spawn in the Des
 
 1. If the coordinates of the party member in the Start Module are in-bounds in the Destination Module, the party member will spawn there.
 2. If the coordinates of the party member in the Start Module are out of bounds in the Destination Module:
-  - If the origin is in bounds in the Destination Module, the party member will spawn at the origin.  See the list below.
-  - If the origin is out of bounds in the Destination Module:
-    - If the Hotshot used is a [Neo Hotshot](<Hotshot#neo-hotshots>) or [Quick Save Hotshot](<Hotshot#quick-save-hotshots>), the party member will spawn near the MC's last location in the Destination Module.
-    - If the Hotshot used is a [Hard Save Hotshot](<Hotshot#hard-save-hotshots>), the party member will spawn near the location of the Teleport Hard Save you [Hotshot](<Hotshot>) to.
+  a. If the origin is in bounds in the Destination Module, the party member will spawn at the origin.  See the list below.
+  b. If the origin is out of bounds in the Destination Module:
+    I. If the Hotshot used is a [Neo Hotshot](<Hotshot#neo-hotshots>) or [Quick Save Hotshot](<Hotshot#quick-save-hotshots>), the party member will spawn near the MC's last location in the Destination Module.
+    II. If the Hotshot used is a [Hard Save Hotshot](<Hotshot#hard-save-hotshots>), the party member will spawn near the location of the Teleport Hard Save you [Hotshot](<Hotshot>) to.
    
 In addition, if a party member's coordinates are in-bounds in the Destination Module but on "non-walkable mesh", then the party member will move to nearby walkable mesh wherever possible.  This will cause the party member's coordinates to change slightly, such as what happens to Carth in the above video example.
 
