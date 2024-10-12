@@ -92,6 +92,7 @@ Note that only true Coordinate Warps are listed here; Unrestricted runs use many
     - [Landing Port to Lower Shadowlands](#landing-port-to-lower-shadowlands)
     - [Lower Shadowlands to Command Center](#lower-shadowlands-to-command-center)
 - [Warps in All Star Maps](#warps-in-all-star-maps)
+    - [Upper Shadowlands to Valley of the Dark Lords](#upper-shadowlands-to-valley-of-the-dark-lords)
 - [Warps in All Quests](#warps-in-all-quests)
 
 ## Warps in Any%
@@ -162,6 +163,29 @@ This warp is used to send Bastila from the start of the Command Center to the en
 </div>
 
 ## Warps in All Star Maps
+
+In addition to the warps listed below, All Star Maps also does the [Landing Port to Great Walkway](#landing-port-to-great-walkway) warp and the [Lower Shadowlands to Command Center](#lower-shadowlands-to-command-center) warps listed above in Any%.
+
+### Upper Shadowlands to Valley of the Dark Lords
+
+- **Used In:** All Star Maps
+- **Start Module:** Upper Shadowlands, Kashyyyk
+- **Destination Module:** Valley of the Dark Lords, Korriban
+- **Approximate Coordinates:** (79.55, 237.02)
+- **Precision Level:** Low
+- **Hotshot Used:** [Neo Hotshot](<Hotshot#neo-hotshots>)
+
+This warp is used to send Bastila to the far side of the Valley of the Dark Lords, avoiding a lot of running.  Triggering Lashowe's conversation with Bastila then warps MC to the far side of the Valley, so that the Tomb of Naga Sadow cane be reached
+
+**Positioning Image**
+
+![Image showing Bastila's positioning](/assets/images/kotor1/CWUStoValley.png)
+
+**Video of Warp**
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/j1pz0ZpA_5M" frameborder="0"></iframe>
+</div>
 
 ## Warps in All Quests
 
