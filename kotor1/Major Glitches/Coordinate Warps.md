@@ -175,7 +175,7 @@ In addition to the warps listed below, All Star Maps also does the [Landing Port
 - **Precision Level:** Low
 - **Hotshot Used:** [Neo Hotshot](<Hotshot#neo-hotshots>)
 
-This warp is used to send Bastila to the far side of the Valley of the Dark Lords, avoiding a lot of running.  Triggering Lashowe's conversation with Bastila then warps MC to the far side of the Valley, so that the Tomb of Naga Sadow cane be reached
+This warp is used to send Bastila to the far side of the Valley of the Dark Lords, avoiding a lot of running.  Triggering Lashowe's conversation with Bastila then warps MC to the far side of the Valley, so that the Tomb of Naga Sadow can be reached
 
 **Positioning Image**
 
@@ -185,6 +185,27 @@ This warp is used to send Bastila to the far side of the Valley of the Dark Lord
 
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/j1pz0ZpA_5M" frameborder="0"></iframe>
+</div>
+
+### Docking Bay to Upper Shadowlands
+
+- **Used In:** All Star Maps
+- **Start Module:** Docking Bay, Manaan
+- **Destination Module:** Upper Shadowlands, Kashyyyk
+- **Approximate Coordinates:** (250.28, 203.20)
+- **Precision Level:** Low
+- **Hotshot Used:** [Neo Hotshot](<Hotshot#neo-hotshots>)
+
+This warp is used after obtaining the West Central Autosave to warp Bastila next to the Czerka Poachers.  This saves movement in the Upper Shadowlands and sets up for an Autosave Hotshot back to West Central.
+
+**Positioning Image**
+
+![Image showing Bastila's positioning](/assets/images/kotor1/CWMDBtoUS.png)
+
+**Video of Warp**
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/FiBM4kIh4jg" frameborder="0"></iframe>
 </div>
 
 ## Warps in All Quests
