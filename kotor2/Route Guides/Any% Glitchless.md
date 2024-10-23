@@ -281,31 +281,33 @@ Here is the alignment route used in the run:
 | Neutral | Initial talk with Kreia | Low Light | 1/0 | 1 | 51 | 1 | 
 | Neutral | Agree to let Atton out of Force Cage | Low Light | 1/0 | 1 | 52 | 2 | 
 | Neutral | Talk with Atton, post T3-M4 solo | Low Light | 1/0 | 1 | 53 | 3 | 
-| Neutral | Not shooting the Asteroids during escape | Low Light | 2/0 | 2 | 55 | 5 | 
-| Neutral | Talk with Kreia on Ebon Hawk | Mid Light | 4/0 | 4 | 59 | 9 | 
-| Light | Talking to Atton before Telos | Low Light | 1/0 | 1 | 60 | 10 | 
-| Light | Help free the Sullustan from Mercenaries | Mid Light | 3/0 | 3 | 63 | 13 | 
-| Neutral | Bully Opo Chano for Droid Credentials | Mid Dark | 0/4 | -4 | 59 | 17 | 
-| Light | First Encounter with Handmaiden | Low Light | 1/0 | 1 | 60 | 18 | 
-| Light | Reassuring Bao-Dur (somewhat) | Low Light | 2/1 | 1 | 61 | 21 | 
-| Light | Reassure T3-M4 | Low Light | 1/0 | 1 | 62 | 22 | 
-| Light | Save Master Vrook | Low Light | 2/0 | 2 | 64 | 24 | 
-| Neutral | Dantooine (DS) Ending | High Dark | 0/8 | -8 | 56 | 32 | 
-| Neutral | Helping out Zuka | Low Light | 2/0 | 2 | 58 | 34 | 
-| Light | Don't hit people in Cantina | Low Light | 2/0 | 2 | 60 | 36 | 
-| Neutral | Threaten Quello | Low Dark | 0/1 | -1 | 59 | 37 | 
-| Light | Intervene to save a Refugee | Low Light | 2/0 | 2 | 61 | 39 | 
-| Light | Give beggar credits | Low Light | 1/0 | 1 | 62 | 40 | 
-| Light | Reassure Ebon Hawk Former Owner | Low Light | 2/0 | 2 | 64 | 42 | 
-| Light | Persuade Geriel to kill himself | Mid Dark | 0/4 | -4 | 59 | 46 |
-| Neutral | Talk to Thugs | Mid Dark | 0/4 | -4 | 55 | 50 | 
-| Light | Help out Geeda with Trade Routes | Mid Light | 2/0 | 2 | 57 | 52 |
+| Neutral | First encounter with HK-50 | Low Light | 2/0 | 2 | 55 | 5 |
+| Neutral | Not shooting the Asteroids during escape | Low Light | 2/0 | 2 | 57 | 7 | 
+| Neutral | Talk with Kreia on Ebon Hawk | Mid Light | 4/0 | 4 | 61 | 11 | 
+| Light | Talking to Atton before Telos | Low Light | 1/0 | 1 | 62 | 12 | 
+| Light | Help free the Sullustan from Mercenaries | Mid Light | 3/0 | 3 | 65 | 15 | 
+| Neutral | Bully Opo Chano for Droid Credentials | Mid Dark | 0/4 | -4 | 61 | 19 | 
+| Light | First Encounter with Handmaiden | Low Light | 1/0 | 1 | 62 | 20 | 
+| Light | Reassuring Bao-Dur (somewhat) | Low Light | 2/1 | 1 | 63 | 23 | 
+| Light | Reassure T3-M4 | Low Light | 1/0 | 1 | 64 | 24 | 
+| Light | Save Master Vrook | Low Light | 2/0 | 2 | 66 | 26 | 
+| Neutral | Dantooine (DS) Ending | High Dark | 0/8 | -8 | 58 | 34 | 
+| Neutral | Helping out Zuka | Low Light | 2/0 | 2 | 60 | 36 | 
+| Light | Don't hit people in Cantina | Low Light | 2/0 | 2 | 62 | 38 | 
+| Neutral | Threaten Quello | Low Dark | 0/1 | -1 | 61 | 39 | 
+| Light | Intervene to save a Refugee | Low Light | 2/0 | 2 | 63 | 41 | 
+| Light | Give beggar credits | Low Light | 1/0 | 1 | 64 | 42 | 
+| Light | Reassure Ebon Hawk Former Owner | Low Light | 2/0 | 2 | 66 | 44 | 
+| Light | Persuade Geriel to kill himself | Mid Dark | 0/4 | -4 | 62 | 48 |
+| Neutral | Talk to Thugs | Mid Dark | 0/4 | -4 | 58 | 52 | 
+| Light | Help out Geeda with Trade Routes | Mid Light | 2/0 | 2 | 60 | 54 |
 
 Alignment is not as important in this game, as we don’t use any equipment restricted by alignment. We do, however, stay on Light Side/Neutral in order to obtain Mira at Nar Shaddaa, as she is used for Goto’s ship segment to pass by the many deadly mines quickly without blowing them up, and to obtain deadly mines for Hanharr 2 later on at Malachor V.  
 
 Other than obtaining Mira, most of our decisions are done with the intention of getting the fastest result, while gaining as many alignment shifts as possible so that we can spawn Visas.  
 
 Getting Visas to spawn requires either 25/75 alignment (high dark/light, respectively), or 50 total alignment shifts.  We go for the 50 total alignment point shifts, since it is much easier to attain while taking the most efficient path.  After attaining Visas, our alignment doesn't matter anymore.
+We reach 54 total shifts before Visas, we can make it exactly 50 shifts, but there is a big risk of making a mistake and therefore not having enough alignment shifts to trigger Visas.
 
 ## Route Overview
 
@@ -404,7 +406,7 @@ T3 gets zapped and control transitions to MC
 - Continue on through the mining tunnels.  Loot all corpses on the way, and only the first droid you see for a Sonic Grenade.
 - You'll want to watch for an alacrity when looting corpses.  If you get an alacrity here, use it once your Force Speed runs off.
 - At the fuel depot, talk to the console: 2,1,2, then take the path to the right and make your way through to the next section (Loot the last corpse on your way).
-- HK-50: 7
+- HK-50: 5,1x9,2,2 (+2 Alignment Shift)
 - Loot the maintenance officer for some more items.
 - Run through and break the console (you do not need to actually hit this): 6
 - Loot the footlocker for a Space Suit, and try to have Force Speed (or Alacrity) up when entering space.
@@ -431,7 +433,7 @@ T3 gets zapped and control transitions to MC
 - After the Kreia/Sion Cutscene: 4
 
 ### Fuel Depot (pt 2)
-- Turn on solo mode, then talk to T3: 3 1
+- Turn on solo mode, then talk to T3: 3,1
 - Equip the Mining outfit and an energy shield.  Turn on the energy shield and run through all 3 of the mines around the ground floor (the mines are located inside the vents).  
 - If you get a level, hold off on it until you need healing.  After leveling, heal with medpacks as needed.
 - 1 spam the console, and make your way inside.  
@@ -483,8 +485,8 @@ Buy:
 - 1x Hyper Alacrity
 - 2x Hyper Stamina
 - 10x Alacrity
-- 8x Stamina
-- 8x Strength
+- 7x Stamina
+- 6x Strength
 ```
 
 - Run to Dendis and buy enough medpacs to have 30-35 total.
@@ -579,7 +581,7 @@ Afterwards, swap to MC:
 
 - HK-50s accost you: 4 (spam it to cast Force Speed as well), and run away to the hidden door.
 - Handmaiden talks to you: 2 
-  - *Note: On legacy client you need to do 1 3 since the option above softlocks you.  You will need to heal Geriel in Nar Shaddaa to make up the lost alignment point.*
+  - *Note: On legacy client you need to do 1 3 since the option above softlocks you.*
 - Atris talks to you: 5,1,6,4
 - Then, head to the prison room: 1,7,1 -> 1x-
 - When prompted with the party selection screen, take no one.
@@ -607,9 +609,9 @@ Afterwards, swap to MC:
 1. Make your way to the crossroads, then take the path to your right.
 2. Take the second left path all the way to the end (the purple path) and loot the footlocker there.  
 	- *You may get trapped by various monsters, bop them a few times and keep trying to move so they will get out of your way.*
-3. Head to the console at #2: 1 2 3 1 4 4 4 2 1 2 2
-4. Now run to the Training Room at #5 and activate the console twice: 1 \| 1 3 3-
-5. Run to the other end at #6, press 1 and loot Vash’s body, then console: 2 1 1 2
+3. Head to the console at #2: 1,2,3,1,4,4,4,2,1,2,2
+4. Now run to the Training Room at #5 and activate the console twice: 1 \| 1,3x-
+5. Run to the other end at #6, press 1 and loot Vash’s body, then console: 2,1,1,2
 6. Exit the academy with either Bao-Dur or Atton. (You don't need to activate the Sion cutscene, map to be updated later)
 
 - Make your way back to the Ebon Hawk (use an alacrity since you likely won't have any more Force), and fly to Dantooine.
@@ -781,7 +783,7 @@ Buy:
 
 Sell:
 All other items as needed to get 2000 credits EXCEPT:
-- Lightsaber
+- Lightsaber (unless 2 handed)
 - Plasma Torch
 - Stims
 - Mines
@@ -814,6 +816,7 @@ All other items as needed to get 2000 credits EXCEPT:
 #### Memory Reset
 
 - Once Visas is equipped, now is the time to do a memory reset if you didn't do it at the start of Dxun.
+  - *It is recommended that new runners do a reset here as well as the start of Dxun while learning the route, with this reset eventually becoming the main one.*
 - Simply make a save and Alt-F4 your game, open it again and load the save.
 - Now you can leave the Ebon Hawk and run to the back until the cutscene triggers (You cannot be in combat for this, if not in combat and you did not get the cutscene, reload the autosave). 
 - 2,2
@@ -943,7 +946,7 @@ All other items as needed to get 2000 credits EXCEPT:
   - `}` Unequip Visas's lightsabers, and helmet.
 
 ### Onderon Palace
-- Convo: 3 3
+- Convo: 1x-
 
 - Take Atton with you.
 
@@ -1109,7 +1112,7 @@ Traya: 4,4
 ## Version History
 
 ### v2.1.5 (November 2023) 
-- Alignment route is 52 Shifts before Visas.
+- Alignment route is 54 Shifts before Visas.
 - Removed looting MC's Armband from route since it doesn't grant us any bonuses.
 - Removed looting Museum in Onderon Palace.
 - We now get Pontite Crystal and Ossus Keeper Robes as a reward from Queen Talia.
@@ -1137,9 +1140,9 @@ Traya: 4,4
 
 ### v2.0 (February 2021)
 - Massive reroute from 30's initial route to incorporate more consistent equipment strategies.  
-- No longer relies on RNG shops on Telos/Dantooine, incorporate Geeda/Oondar's shop on Nar Shaddaa
-- Alignment Reroute to get a total of 50 alignment points to spawn Visas, rather than 75 alignment to spawn Visas
-- Used ChaosDrifter's calculator to analyze combat data to swap from Flurry build to Master Critical Strike build
+- No longer relies on RNG shops on Telos/Dantooine, incorporate Geeda/Oondar's shop on Nar Shaddaa.
+- Alignment Reroute to get a total of 50 alignment points to trigger Visas, rather than 75 alignment.
+- Used ChaosDrifter's calculator to analyze combat data to swap from Flurry build to Master Critical Strike build.
 - Now takes the DS option on Dantooine to skip a large combat segment.
 - Changed taken characters on Freedon Nadd for better consistency.
 - Skip grinding encounters on Dxun to only kill the necessary enemies.
