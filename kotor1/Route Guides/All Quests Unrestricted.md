@@ -299,7 +299,7 @@ Other planet route notes:
 
 **2. Taris 2**
 - Inventory Dupe from Hideout
-- Autosave Hotshot to Lower City
+- Default Spawn Warp to Lower City
 - Bounty for Selven
 - Eliminate Infected Outcasts
 - Recruit Mission and Zaalbar
@@ -703,8 +703,8 @@ SHOPPING: Zelka Forn
   - Load Slot 4 and exit the apartments to get an Autosave in Upper City North
   - QL and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
   - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to South Apartments using Slot 3
-  - [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>) to warp to Upper City North's default spawn
-    - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the Neo Hotshot load, then click to close the menu
+  - [Default Spawn Warp](<../Major Glitches/Spawn Warps#autosave-hotshots>) to Upper City North via [Transit Point Storage](<../Major Glitches/Spawn Warps#transit-point-storage>)
+    - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) load, then click to close the menu
     - Open the Map and click "Transit Back" to replace the pop-up
     - Swap to the Options Menu, highlight "Load Game" and "OK", then press enter
     - After the load, load the Autosave to warp to Upper City North
@@ -828,7 +828,7 @@ SHOPPING: Zelka Forn
 - [Full Inventory Dupe](<../Techniques/Item Duplication#via-anywhere-menu-glitch>) via the [AMG](<../Major Glitches/Anywhere Menu Glitch>) method
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load leaving the Hideout and immediately [Map CS Skip](<../Techniques/Map Cutscene Skips>) to open the map
   - This can be tricky because the [AMG](<../Major Glitches/Anywhere Menu Glitch>) pulls your mouse away from where it needs to be for the [Map CS Skip](<../Techniques/Map Cutscene Skips>)
-- Use the pop-up to [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>) to the Lower City
+- [Default Spawn Warp](<../Major Glitches/Spawn Warps#autosave-hotshots>) to Lower City via [Transit Point Storage](<../Major Glitches/Spawn Warps#transit-point-storage>) using the pop-up
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip extortion CS in front of apartments
 - *Party: Add Carth*
   - This duplicates your inventory once
@@ -1122,8 +1122,7 @@ to hit Sherruk
   - ***Begins "Juhani"***
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Ruins using Slot 4
 - Exit the Ruins and [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
-- [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) to Courtyard by re-entering the Ruins
-  - This puts you at the default spawn in the Courtyard, right next to Elise
+- [Default Spawn Warp](<../Major Glitches/Spawn Warps#autosave-hotshots>) to Courtyard via [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) by re-entering the Ruins
 - Talk to Elise
   - ***Finishes "Missing Companion"***
 - Talk to Jon
@@ -1386,7 +1385,7 @@ SHOPPING: Junix Nard
 - Loot talking rubble in swoop crash area to trigger Gamorrean ambush: 4,1
   - ***Finishes "A Desert Ambush"***
 - RtEH and Transit Back to create a transit point
-  - We will use this for [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>) later
+  - We will use this for [Transit Point Storage](<../Major Glitches/Spawn Warps#transit-point-storage>) later
 - [Save Teleport](<../Techniques/Save Teleporting>) to skip trigger and enter the Eastern Dune Sea
   - *Suggested Memory Reset #3*
 - [Soft Buffer](<../Techniques/Save Buffering#soft-buffers>) from entrance to Komad
@@ -1519,10 +1518,14 @@ SHOPPING: Selkath Merchant
 - When the CS ends, use the shuttle to reach the Manaan Sith Base
 - **Hard Save in New Slot (Slot 9)**
   - Do *NOT* use the keyboard for this or you'll break the transit pop-up!
-- After the Hard Save, use the pop-up to [Fast Lane](<../Major Glitches/Fast Lane>) to RtEH
-- QS, then load the Anchorhead save (Slot 5)
-- Talk to the Gate Guard to get the Dune Sea Autosave
-- QL and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load to perform [Transit Point Storage](<../Major Glitches/Hotshot#transit-point-storage>)
+- Perform [Transit Point Storage](<../Major Glitches/Spawn Warps#transit-point-storage>) to reach the Dune Sea:
+  - After the Hard Save, use the pop-up to [Fast Lane](<../Major Glitches/Fast Lane>) to RtEH
+  - QS, then load the Anchorhead save (Slot 5)
+  - Talk to the Gate Guard to get the Dune Sea Autosave
+  - QL and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
+  - Open the map and click Transit Back to replace the quit game pop-up with the fast travel pop-up
+  - Switch to the Options menu, ensure 'Load Game' and 'OK' are highlighted, and press Enter
+  - After the load, load the Autosave to finish the [Transit Point Storage](<../Major Glitches/Spawn Warps#transit-point-storage>)
 
 ## Tatooine 2
 
@@ -1692,7 +1695,7 @@ SHOPPING: Selkath Merchant
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load into Command Deck
 
 **Command Deck:**
-- Use the elevator controls to [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) to the Command Deck
+- [Default Spawn Warp](<../Major Glitches/Spawn Warps#autosave-hotshots>) to Command Deck via [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) by using the elevator controls
   - Instead of going through a load zone, first position MC so the controls are targeted
   - Once on the load game menu, unpause and use Default Action to select 1 go to Prison Block
 - *Force: Cast Master Speed*
