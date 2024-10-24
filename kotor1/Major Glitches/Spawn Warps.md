@@ -145,7 +145,49 @@ The following table contains all 28 modules that force an Autosave.  These are m
 
 This is a list of all modules that have unusual default spawn locations.  While some modules' default spawns are at the usual module transition locations, these modules have more interesting default spawns that may make a [Default Spawn Warp](#default-spawn-warps) worthwhile.
 
-*Table coming soon.*
+| **Planet** | **Module** | **Default Spawn Description** | **Coordinates** | 
+|---|---|---|---|
+| Taris | Upper City South | In front of the door to Zelka's medical clinic | (188.06, 80.30) |
+| Taris | Upper City North | Between Gorton Colu and the Lower City elevator | (109.38, 123.36) |
+| Taris | North Apartments | Between Sarna's apartment and the Sith Soldier fight apartment | (90.00, 125.21) |
+| Taris | Upper City Cantina | In doorway between first room and hub | (123.17, 110.00) |
+| Taris | Lower City | In main hall near Lower City Apartments West entrance | (322.53, 221.15) |
+| Taris | Lower City Apartments East | In front of Matrik's apartment | (131.78, 93.41) |
+| Taris | Javyar's Cantina | In front of Zax, the bounty Hutt | (110.00, 79.63) |
+| Taris | Undercity | In front of crashed Republic escape pod | (312.93, 234.66) |
+| Taris | Upper Sewers | On ramp next to severed arm outside rancor room | (215.16, 332.98) |
+| Taris | Vulkar Base | In hall outside mined pool room | (103.29, 115.92) |
+| Taris | Vulkar Garage | Next to Garage Head's Desk | (46.36, 104.77) |
+| Taris | Sith Base | In hall outside Assault Droid's room | (36.60, 3.80) |
+| Dantooine | Courtyard | Between Adum Larp and Elise | (163.22, 139.29) |
+| Dantooine | Matale Grounds | In front of Matale Estate | (320.48, 106.54) |
+
+
+manm26ac	West Central		Near Port Authority
+manm27aa	Manaan Sith Base	In room past Steam Vents
+manm28ad	Hrakert Rift		On bridge near Progenitor
+lev_m40aa	Prison Block		In detention cell (Saul CS)
+lev_m40ab	Command Deck		Near doors to Bridge
+unk_m41aa	Temple Exterior		Near Mandalorian fight trigger
+unk_m44aa	Temple Main Floor	In room with two Dark Jedi near Sith Master
+
+danm14ac	Grove			Near Juhani
+danm14ad	Sandral Grounds		In front of Sandral Estate
+korr_m34aa	Shyrack Caves		Near renegade Sith students
+korr_m38ab	Tomb of Tulak Hord	Near ancient console
+lev_m40ac	Hangar			In hall leading to Malak confrontation
+manm26aa	Ahto West		In prison next to Sunry
+manm26ab	Ahto East		At entrance to swoop bar
+manm26ad	Manaan Docking Bay	At end of short hall out of Ebon Hawk dock
+manm26ae	East Central		At Republic Embassy entrance
+manm28ac	Kolto Control		Force field room near scientists
+tat_m17ab	Tatooine Docking Bay	Somewhat closer to Mic'Tunan'Jus Orgu
+tat_m18ab	Sand People Territory	At Eastern Dune Sea entrance
+unk_m41ab	South Beach		In front of Elder Rakata settlement
+unk_m41ac	North Beach		On beach near Warrior Rakata settlement
+unk_m43aa	Rakatan Settlement	In cell with Elder Warrior (can escape with Security FLU)
+unk_m44ab	Temple Catacombs	In front of door leading to puzzle room
+
 
 ## Related Glitches
 
