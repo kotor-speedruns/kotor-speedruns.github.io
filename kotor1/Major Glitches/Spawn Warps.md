@@ -103,7 +103,7 @@ This glitch can be used to store only one transit point per module, but you can 
     - West Central (in [All Star Maps](<../Route Guides/All Star Maps>))
     - Hrakert Rift (in [All Star Maps](<../Route Guides/All Star Maps>))
     - Leviathan Command Deck (in [All Quests](<../Route Guides/All Quests Unrestricted>))
-    - Temple Exterior (in [Any%](<../Route Guides/Any%25Unrestricted>))
+    - Temple Exterior (in [Any%](<../Route Guides/Any%25 Unrestricted>))
  
 [Transit Point Storage](#transit-point-storage) is used once in All Quests Unrestricted to return to the Dune Sea from Manaan.
 
