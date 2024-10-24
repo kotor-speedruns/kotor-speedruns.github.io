@@ -71,7 +71,7 @@ A brief outline of the route for the ASM run, including planet order and major s
 * Reach West Central
 * [Coordinate Warp](<../Major Glitches/Coordinate Warps#docking-bay-to-upper-shadowlands>) Bastila to Upper Shadowlands
 * Reach Lower Shadowlands
-* [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) to West Central
+* [Default Spawn Warp](<../Major Glitches/Spawn Warps#default-spawn-warps>) to West Central
 * Reach East Central
 
 *5. Map Collection*
@@ -84,7 +84,7 @@ A brief outline of the route for the ASM run, including planet order and major s
 * [Coordinate Warp](<../Major Glitches/Coordinate Warps#bandon-cutscene-to-sea-floor>) Jolee from a STUNT module to the Sea Floor to skip the disguise
 * [Coordinate Warp](<../Major Glitches/Coordinate Warps#kolto-control-to-anchorhead>) Jolee to Anchorhead to reach the Dune Sea
 * [Coordinate Warp](<../Major Glitches/Coordinate Warps#anchorhead-to-kolto-control>) Jolee to Kolto Control to reach Hrakert Rift
-* [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) to Hrakert Rift to get the Manaan Star Map
+* [Default Spawn Warp](<../Major Glitches/Spawn Warps#default-spawn-warps>) to Hrakert Rift to get the Manaan Star Map
 * [Coordinate Warp](<../Major Glitches/Coordinate Warps#upper-shadowlands-to-dune-sea>) Jolee to Dune Sea via Upper Shadowlands to reach Eastern Dune Sea
 * Krayt Dragon Skip to get the Tatooine Star Map
 
@@ -104,7 +104,7 @@ A brief outline of the route for the ASM run, including planet order and major s
 * [Coordinate Warp](<../Major Glitches/Coordinate Warps#lower-shadowlands-to-command-center>) Bastila to Viewing Platform
 * Kill Darth Malak with Thermal Detonators and an [AMG](<../Major Glitches/Anywhere Menu Glitch>)
 
-This route used to obtain either Sith Armor or the Sand People Outfit so a [Fast Lane](<../Major Glitches/Fast Lane>) could be used to remove the Envirosuit.  These can now be skipped thanks to the [STUNT module Coordinate Warp](<../Major Glitches/Coordinate Warps#bandon-cutscene-to-sea-floor>) to Sea Floor and the [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) to Hrakert Rift.  Those two warps, along with the [Coordinate Warp to the Envirosuit](<../Major Glitches/Coordinate Warps#tomb-of-naga-sadow-to-hrakert-station>), also enable Plot Armor Skip, since these are the only points that would have a high risk of death (other than the Taris Sith Base).
+This route used to obtain either Sith Armor or the Sand People Outfit so a [Fast Lane](<../Major Glitches/Fast Lane>) could be used to remove the Envirosuit.  These can now be skipped thanks to the [STUNT module Coordinate Warp](<../Major Glitches/Coordinate Warps#bandon-cutscene-to-sea-floor>) to Sea Floor and the [Default Spawn Warp](<../Major Glitches/Spawn Warps#default-spawn-warps>) to Hrakert Rift.  Those two warps, along with the [Coordinate Warp to the Envirosuit](<../Major Glitches/Coordinate Warps#tomb-of-naga-sadow-to-hrakert-station>), also enable Plot Armor Skip, since these are the only points that would have a high risk of death (other than the Taris Sith Base).
 
 ## Character Build
 
@@ -277,7 +277,7 @@ SHOPPING: Larrim
 
 ### Upper City South
 
-- ***Optional Strat: Default Spawn Warp***
+- ***Optional Strat: [Default Spawn Warp](<../Major Glitches/Spawn Warps#the-routine>)***
   - *This strat uses [The Routine](<../Major Glitches/The Routine>) to warp to the default spawn in Upper City South, just outside Zelka's clinic.  It's a very complicated glitch that saves only 2-3 seconds, so it's only recommended for top runners.*
   - *To perform this strat:*
     - Return to the Hideout
@@ -307,7 +307,7 @@ SHOPPING: Larrim
 ### Upper City North
 
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the Upper City North load screen
-- [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) to warp to elevator:
+- [Default Spawn Warp](<../Major Glitches/Spawn Warps#the-routine>) via [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) to reach Lower City elevator:
   - With quit dialog up, unpause and open the door to Upper City South behind you
   - Open the Options menu, then press enter with Load Game and Cancel selected
   - Unpause and navigate blindly through the door to Upper City South
@@ -529,9 +529,8 @@ SHOPPING: Larrim
 
 - *Stims: Adrenal Alacrity on MC*
 - Open two doors, then [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Sith/Republic convo
-  - It is important not to QS again after this buffer until you reload the save
-- Enter West Central for the Autosave
-- Immediately QL to return to the Manaan Docking Bay
+  - It is important not to QS again until after you reach West Central
+- Enter West Central for the Autosave and immediately QL to return to the Manaan Docking Bay
 - Activate Solo Mode and [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - Swap to Bastila and run to the wall opposite the hallway to the Ebon Hawk
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Coordinate Warps#docking-bay-to-upper-shadowlands>) Bastila to Upper Shadowlands using Slot 2
@@ -549,7 +548,7 @@ SHOPPING: Larrim
   - *[Save Teleports](<../Techniques/Save Teleporting>) are now the most effective form of movement.*
 - Once in the Lower Shadowlands, **Hard Save in Slot 5**
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on this Hard Save (or via QS)
-- [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) using the Upper Shadowlands load zone
+- [Default Spawn Warp](<../Major Glitches/Spawn Warps#autosave-hotshots>) to West Central via [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) using the Upper Shadowlands load zone
 - Swap to MC and talk to Port Authority: 1,1
 - Swap to Jolee and [Save Teleport](<../Techniques/Save Teleporting>) to enter East Central
 
@@ -622,7 +621,7 @@ SHOPPING: Larrim
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Coordinate Warps#anchorhead-to-kolto-control>) Jolee to Kolto Control using Slot 1
 - Activate the airlock to get the Hrakert Rift Autosave, then immediately QL
 - Swap to MC and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
-- [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) using the gate guard
+- [Default Spawn Warp](<../Major Glitches/Spawn Warps#autosave-hotshots>) to Hrakert Rift via [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) using the gate guard
   - Face the gate guard, set up the Hotshot, then use default action to talk to him and reach the Dune Sea
   - Load the Autosave after that
 - After loading in Hrakert Rift, activate Solo Mode
