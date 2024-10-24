@@ -25,7 +25,7 @@ There are currently two methods for warping to the default spawn location of a m
 
 ### Autosave Hotshots
 
-**Description:** This method of Default Spawn Warp uses the property of [Autosave Hotshots](<Hotshot#autosave-hotshots>) that spawns the party at the default spawn location for a module.  Thus any time you use an Autosave Hotshot, you're also doing a Default Spawn Warp (unless you're performing [Transit Point Storage](#transit-point-storage).  While still a specialized glitch, Autosave Hotshots are the more flexible of the two Default Spawn Warp methods.
+**Description:** This method of Default Spawn Warp uses an [Autosave Hotshot](<Hotshot#autosave-hotshots>), which (almost) always spawns the party at the default spawn location for a module.  While still a specialized glitch, Autosave Hotshots are the more flexible of the two Default Spawn Warp methods.
 
 **Steps:**
 
@@ -50,12 +50,14 @@ There are currently two methods for warping to the default spawn location of a m
 3. Perform [the Routine](<The Routine>) to delete the Destination Module (and its transit waypoint data) from your save file.
 4. After loading your Quick Save, Transit Back to reach the Destination Module's default spawn location.
 
-*Video forthcoming*
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/vhXvSs_ilb4" frameborder="0"></iframe>
+</div>
 
 **Notes:**
 
 - Since [the Routine](<The Routine>) deletes most of your save file data, this method of Default Spawn Warp is best used very early in the run.
-- Also note that using [the Routine](<The Routine>) will make Save Teleporting ineffective.
+- Also note that using [the Routine](<The Routine>) will make [Save Teleporting](<../Techniques/Save Teleporting>) ineffective.
 
 ## Transit Point Storage
 
