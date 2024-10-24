@@ -47,6 +47,7 @@ Once you've made these choices, make sure you have the proper in-game setup.  Yo
 ## How To
 
 Once you are in the correct module and have the correct party members in your party, use the following steps to perform the Routine:
+
 - Activate an [Anywhere Menu Glitch](<Anywhere Menu Glitch>) (AMG) with a Quick Save
 - Open the Options menu ('O' by default) 
 - Click "Exit Game".  This replaces the Alt-F4 Quit pop-up with the Exit to Main Menu Quit pop-up.
@@ -117,11 +118,11 @@ This is all done with Bastila and Jolee in our party, so that we can finish the 
 
 ## Other Uses
 
-These uses are currently not speedrun relevant.  It's also important to note that the Routine is not necessarily fully explored yet, so other benefits may exist.
+Aside from duplicating Star Maps, the other main use of the Routine in speedruns is performing a [Default Spawn Warp](<Spawn Warps#the-routine>) in Upper City South.  This saves a few seconds over running to Zelka's shop normally.
 
-* Deletes transit waypoints, resulting in the MC being warped to a module's default spawn when transiting back
-* Can be used to delete party members, which could be situationally useful
+There are not currently any other uses for the Routine, but the full implications of this glitch have not been fully explored.
 
 ## Related Glitches
 
 * [Anywhere Menu Glitch](<Anywhere Menu Glitch>)
+* [Default Spawn Warps](<Spawn Warps#default-spawn-warps>)
