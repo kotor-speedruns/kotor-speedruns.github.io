@@ -358,7 +358,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 ### Character Creation
 - Female Jedi Guardian
 - Custom Character
-- Str - 18, Dex -o 14, Con - 14, Wis - 10
+- Str - 18, Dex - 14, Con - 14, Wis - 10
 - TI - 4
 - Feat - Weapon Focus: Melee Weapons
 - Pick a good name!
