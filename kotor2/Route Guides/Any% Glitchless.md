@@ -281,33 +281,32 @@ Here is the alignment route used in the run:
 | Neutral | Initial talk with Kreia | Low Light | 1/0 | 1 | 51 | 1 | 
 | Neutral | Agree to let Atton out of Force Cage | Low Light | 1/0 | 1 | 52 | 2 | 
 | Neutral | Talk with Atton, post T3-M4 solo | Low Light | 1/0 | 1 | 53 | 3 | 
-| Neutral | First encounter with HK-50 | Low Light | 2/0 | 2 | 55 | 5 |
-| Neutral | Not shooting the Asteroids during escape | Low Light | 2/0 | 2 | 57 | 7 | 
-| Neutral | Talk with Kreia on Ebon Hawk | Mid Light | 4/0 | 4 | 61 | 11 | 
-| Light | Talking to Atton before Telos | Low Light | 1/0 | 1 | 62 | 12 | 
-| Light | Help free the Sullustan from Mercenaries | Mid Light | 3/0 | 3 | 65 | 15 | 
-| Neutral | Bully Opo Chano for Droid Credentials | Mid Dark | 0/4 | -4 | 61 | 19 | 
-| Light | First Encounter with Handmaiden | Low Light | 1/0 | 1 | 62 | 20 | 
-| Light | Reassuring Bao-Dur (somewhat) | Low Light | 2/1 | 1 | 63 | 23 | 
-| Light | Reassure T3-M4 | Low Light | 1/0 | 1 | 64 | 24 | 
-| Light | Save Master Vrook | Low Light | 2/0 | 2 | 66 | 26 | 
-| Neutral | Dantooine (DS) Ending | High Dark | 0/8 | -8 | 58 | 34 | 
-| Neutral | Helping out Zuka | Low Light | 2/0 | 2 | 60 | 36 | 
-| Light | Don't hit people in Cantina | Low Light | 2/0 | 2 | 62 | 38 | 
-| Neutral | Threaten Quello | Low Dark | 0/1 | -1 | 61 | 39 | 
-| Light | Intervene to save a Refugee | Low Light | 2/0 | 2 | 63 | 41 | 
-| Light | Give beggar credits | Low Light | 1/0 | 1 | 64 | 42 | 
-| Light | Reassure Ebon Hawk Former Owner | Low Light | 2/0 | 2 | 66 | 44 | 
-| Light | Persuade Geriel to kill himself | Mid Dark | 0/4 | -4 | 62 | 48 |
-| Neutral | Talk to Thugs | Mid Dark | 0/4 | -4 | 58 | 52 | 
-| Light | Help out Geeda with Trade Routes | Mid Light | 2/0 | 2 | 60 | 54 |
+| Neutral | Not shooting the Asteroids during escape | Low Light | 2/0 | 2 | 55 | 5 |
+| Neutral | Talk with Kreia on Ebon Hawk | Mid Light | 4/0 | 4 | 59 | 9 | 
+| Light | Talking to Atton before Telos | Low Light | 1/0 | 1 | 60 | 10 | 
+| Light | Help free the Sullustan from Mercenaries | Mid Light | 3/0 | 3 | 63 | 13 | 
+| Neutral | Bully Opo Chano for Droid Credentials | Mid Dark | 0/4 | -4 | 59 | 17 | 
+| Light | First Encounter with Handmaiden | Low Light | 1/0 | 1 | 60 | 18 | 
+| Light | Reassuring Bao-Dur (somewhat) | Low Light | 2/1(+1 change) | 1 | 61 | 19 | 
+| Light | Reassure T3-M4 | Low Light | 1/0 | 1 | 62 | 20 | 
+| Light | Save Master Vrook | Low Light | 2/0 | 2 | 64 | 22 | 
+| Neutral | Dantooine (DS) Ending | High Dark | 0/8 | -8 | 56 | 30 | 
+| Neutral | Don't hit people in Cantina | Low Light | 2/0 | 2 | 58 | 32 | 
+| Neutral | Threaten Quello | Low Dark | 0/1 | -1 | 57 | 33 | 
+| Neutral | Intervene to save a Refugee | Low Light | 2/0 | 2 | 59 | 35 | 
+| Light | Give beggar credits | Low Light | 2/0 | 2 | 61 | 37 | 
+| Light | Reassure Ebon Hawk Former Owner | Low Light | 2/0 | 2 | 63 | 39 | 
+| Neutral | Persuade Geriel to kill himself | Mid Dark | 0/4 | -4 | 59 | 43 |
+| Light | Help out Geeda with Trade Routes | Mid Light | 2/0 | 2 | 61 | 45 |
+| Neutral | Talk to Thugs | High Dark | 0/6 | -6 | 55 | 51 | 
+
 
 Alignment is not as important in this game, as we don’t use any equipment restricted by alignment. We do, however, stay on Light Side/Neutral in order to obtain Mira at Nar Shaddaa, as she is used for Goto’s ship segment to pass by the many deadly mines quickly without blowing them up, and to obtain deadly mines for Hanharr 2 later on at Malachor V.  
 
 Other than obtaining Mira, most of our decisions are done with the intention of getting the fastest result, while gaining as many alignment shifts as possible so that we can spawn Visas.  
 
 Getting Visas to spawn requires either 25/75 alignment (high dark/light, respectively), or 50 total alignment shifts.  We go for the 50 total alignment point shifts, since it is much easier to attain while taking the most efficient path.  After attaining Visas, our alignment doesn't matter anymore.
-We reach 54 total shifts before Visas, we can make it exactly 50 shifts, but there is a big risk of making a mistake and therefore not having enough alignment shifts to trigger Visas.
+We reach 51 total shifts before Visas, we can make it exactly 50 shifts, but there is a big risk of making a mistake and therefore not being able to trigger Visas. This route is super tight as it is, even 1 mistake could ruin a good run!
 
 ## Route Overview
 
@@ -406,7 +405,7 @@ T3 gets zapped and control transitions to MC
 - Continue on through the mining tunnels.  Loot all corpses on the way, and only the first droid you see for a Sonic Grenade.
 - You'll want to watch for an alacrity when looting corpses.  If you get an alacrity here, use it once your Force Speed runs off.
 - At the fuel depot, talk to the console: 2,1,2, then take the path to the right and make your way through to the next section (Loot the last corpse on your way).
-- HK-50: 5,1x9,2,2 (+2 Alignment Shift)
+- HK-50: 7
 - Loot the maintenance officer for some more items.
 - Run through and break the console (you do not need to actually hit this): 6
 - Loot the footlocker for a Space Suit, and try to have Force Speed (or Alacrity) up when entering space.
@@ -1111,8 +1110,8 @@ Traya: 4,4
 
 ## Version History
 
-### v2.1.5 (November 2023) 
-- Alignment route is 54 Shifts before Visas.
+### v2.1.5 (October 2024) 
+- Alignment route is 51 Shifts before Visas.
 - Removed looting MC's Armband from route since it doesn't grant us any bonuses.
 - Removed looting Museum in Onderon Palace.
 - We now get Pontite Crystal and Ossus Keeper Robes as a reward from Queen Talia.
