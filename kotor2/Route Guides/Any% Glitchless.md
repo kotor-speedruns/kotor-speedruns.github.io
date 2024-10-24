@@ -287,7 +287,7 @@ Here is the alignment route used in the run:
 | Light | Help free the Sullustan from Mercenaries | Mid Light | 3/0 | 3 | 63 | 13 | 
 | Neutral | Bully Opo Chano for Droid Credentials | Mid Dark | 0/4 | -4 | 59 | 17 | 
 | Light | First Encounter with Handmaiden | Low Light | 1/0 | 1 | 60 | 18 | 
-| Light | Reassuring Bao-Dur (somewhat) | Low Light | 2/1(+1 change) | 1 | 61 | 19 | 
+| Light | Reassuring Bao-Dur (somewhat) | Low Light | 1/0 | 1 | 61 | 19 | 
 | Light | Reassure T3-M4 | Low Light | 1/0 | 1 | 62 | 20 | 
 | Light | Save Master Vrook | Low Light | 2/0 | 2 | 64 | 22 | 
 | Neutral | Dantooine (DS) Ending | High Dark | 0/8 | -8 | 56 | 30 | 
