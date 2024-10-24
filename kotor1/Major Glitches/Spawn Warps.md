@@ -25,11 +25,7 @@ There are currently two methods for warping to the default spawn location of a m
 
 ### Autosave Hotshots
 
-**Description:** Autosave Hotshots are a special method of [Hotshot](<Hotshot>) that loads an Autosave that has been saved over.  It requires a specific save setup, and thus is extremely situational.
-
-**Save Setup:**
-
-- Have the Autosave at the Destination Module
+**Description:** This method of Default Spawn Warp uses the property of [Autosave Hotshots](<Hotshot#autosave-hotshots>) that spawns the party at the default spawn location for a module.  Thus any time you use an Autosave Hotshot, you're also doing a Default Spawn Warp.  While still a specialized glitch, it is the more flexible of the two Default Spawn Warp methods.
 
 **Steps:**
 
