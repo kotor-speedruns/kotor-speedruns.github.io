@@ -199,14 +199,18 @@ This was the original form of Hotshot, and is slower and more complicated than a
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/XQrJdm3TRt8" frameborder="0"></iframe>
 </div>
 
-**Special Properties:**
+**Notes:**
 
-- This method of Hotshot works by loading an Autosave that has been overwritten.
-- The Autosave Hotshot is the only method of Hotshot that allows you to warp to a module that is not currently in your save file (either due to deletion or merely because it is unvisited).
-- Your party that spawns in the Destination Module is the party that triggered the Start Module Autosave.  This includes party statistics, character build, inventory and quest progress.  *The Destination Module Autosave party info is lost, so you can lose quest progress when performing an Autosave Hotshot.*
+- The Autosave Hotshot is unlike other Hotshots in almost every way.  The only similarity is in the mechanics of loading a save that has been overwritten.
+- The Autosave Hotshot is the only method of Hotshot that allows you to warp to a module that is not currently in your Start Module save file (either due to deletion or merely because it is unvisited).
+- Due to the nature of Autosave, the Autosave Hotshot can only be used in modules that force an Autosave to occur.  See the list of modules with [Forced Autosaves](<Spawn Warps#forced-autosaves>).
+- An Autosave Hotshot can be used to bring Trask off the Endar Spire to any other location, though this is sadly not useful in a speedrun context.
+
+**Party Spawn Info:**
+
+- Your party that spawns in the Destination Module is the party that triggered the Start Module Autosave.  This includes party statistics, character build, inventory and quest progress.  ***The Destination Module Autosave party info is lost, so you can lose quest progress when performing an Autosave Hotshot.***
 - Your party will spawn in the default spawn location for the module.  This is sometimes called a [Default Spawn Warp](<Spawn Warps#autosave-hotshots>).
-- A modified form of Autosave Hotshot is used to perform the [Transit Point Storage](<Spawn Warps#transit-point-storage>) glitch.  This causes your party to spawn at the most recent transit point in that module instead of the default spawn location.
-- An Autosave Hotshot can be used to bring Trask off the Endar Spire to any other location.
+- A modified form of Autosave Hotshot can be used to perform the [Transit Point Storage](<Spawn Warps#transit-point-storage>) glitch.
 
 ## Swoop Skips
 
