@@ -176,6 +176,7 @@ This method of performing a Menu Glitch predated the Anywhere Menu Glitch, but i
 - [Fast Lane](<Fast Lane>)
 - [Fake Level Up](<Fake Level Up>)
 - [The Routine](<The Routine>)
+- [Spawn Warps](<Spawn Warps>)
 - [Gather Party Warps](<../Techniques/GP Warp>)
 - [Save Buffers](<../Techniques/Save Buffering>)
 - [Force Skips](<../Techniques/Force Skips>)
