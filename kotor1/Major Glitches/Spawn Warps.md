@@ -59,7 +59,7 @@ There are currently two methods for warping to the default spawn location of a m
 
 ## Transit Point Storage
 
-Transit Point Storage is a specialized application of [Autosave Hotshots](#autosave-hotshots) that allows you to return to a fast travel waypoint in a module, even after using fast transit elsewhere.
+Transit Point Storage is a specialized application of [Autosave Hotshots](<Hotshot#autosave-hotshots>) that allows you to return to a fast travel waypoint in a module, even after using fast transit elsewhere.
 
 There are three restrictions:
 
@@ -84,7 +84,7 @@ There are three restrictions:
 </div>
 
 **Notes:**
-- Notice that steps 5-9 are a modified [Autosave Hotshot](#autosave-hotshots) using fast transit to trigger an Autosave while the Load Menu is open, rather than moving through a load zone.
+- Notice that steps 5-9 are a modified [Autosave Hotshots](<Hotshot#autosave-hotshots>) using fast transit to trigger an Autosave while the Load Menu is open, rather than moving through a load zone.
 - If no transit point has ever been set in the Destination Module, Transit Point Storage will spawn you at the default spawn location for the module.
 
 This glitch can be used to store only one transit point per module, but you can store one for every module and travel there as long as the Autosave conditions are met.  See [Forced Autosaves](#forced-autosaves) for a list of modules whose transit points can be warped to.
@@ -94,7 +94,7 @@ This glitch can be used to store only one transit point per module, but you can 
 [Default Spawn Warps](#default-spawn-warps) are used several times in Unrestricted speedruns:  
 
 - [The Routine](#the-routine) method is used to warp to Upper City South's default spawn location (near Zelka's shop).
-- [Autosave Hotshots](#autosave-hotshots) are used to warp to the following modules:
+- [Autosave Hotshots](<Hotshot#autosave-hotshots>) are used to warp to the following modules:
     - Upper City North (in all Unrestricted categories)
     - Lower City (in All Quests)
     - Dantooine Courtyard (in All Quests)
@@ -109,7 +109,7 @@ This glitch can be used to store only one transit point per module, but you can 
 
 ### Forced Autosaves
 
-The following table contains all 28 modules that force an Autosave.  These are modules that are eligible for [Autosave Hotshots](#autosave-hotshots) or [Transit Point Storage](#transit-point-storage).
+The following table contains all 28 modules that force an Autosave.  These are modules that are eligible for [Autosave Hotshots](<Hotshot#autosave-hotshots>) or [Transit Point Storage](#transit-point-storage).
 
 | **Planet** | **Module** | | **Planet** | **Module** |
 |---|---|---|---|---|
