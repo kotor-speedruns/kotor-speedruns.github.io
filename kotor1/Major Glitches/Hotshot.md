@@ -9,11 +9,10 @@
 - [Hotshot Details](#hotshot-details)
 - [Neo Hotshots](#neo-hotshots)
 - [Quick Save Hotshots](#quick-save-hotshots)
-- [Autosave Hotshots](#autosave-hotshots)
 - [Hard Save Hotshots](#hard-save-hotshots)
   - [Via Load Menu](#via-load-menu)
   - [Via Main Menu](#via-main-menu)
-- [Transit Point Storage](#transit-point-storage)
+- [Autosave Hotshots](#autosave-hotshots)
 - [Swoop Skips](#swoop-skips)
 - [Uses](#uses)
 - [Related Glitches](#related-glitches)
@@ -36,7 +35,7 @@ Save files are made up of a bunch of smaller saves called modules. Usually, we c
 
 - The Main Character (MC) spawns in their last location in the module.
 - Party members will spawn in the same coordinates they were in before the warp, provided they are not out of bounds.  This leads to a technique called [Coordinate Warps](<Coordinate Warps>).
-- The MC is reverted back to the stats, EXP, alignment and equipment they had when they were last in that module.  This can easily lose character progress, so be careful.  This does not apply to [Autosave Hotshots](#autosave-hotshots).
+- The MC is reverted back to the stats, EXP, alignment and equipment they had when they were last in that module.  This can easily lose character progress, so be careful.
 - Party member characteristics are *not* reverted in any way.
 - We keep all inventory items, quest progress, module progressions, and global variable progress between warps.
 
@@ -110,40 +109,6 @@ Neo Hotshots, sometimes called HSS Hotshots, are always consistent and the faste
 - If you obtained [AMG](<Anywhere Menu Glitch>) by entering the Start Module, you can Quick Save in step 4 without closing the Options Menu first.
 - Instead of steps 5,6, and 8, you can load the Quick Save using the mouse.  This is nearly always slower than using the keyboard as described.
 
-## Autosave Hotshots
-
-**Description:** Autosave Hotshots are a special method that loads an Autosave that has been saved over.  It has some useful special properties but is extremely situational.
-
-**Save Setup:**
-
-- Have an Autosave at the Destination Module
-- Have any save (or actually be) in the Start Module.  This should be near a module transition that Autosaves the game, but it does not have to be the same Autosave as in the Destination Module.
-
-**Steps:**
-
-1. Obtain an [AMG](<Anywhere Menu Glitch>) in the Start Module through either a Quick Save or a module transition.  Loading a Hard Save will not allow you to unpause.
-2. Open the Options Menu and ensure 'Load Game' and 'Cancel' are highlighted.
-3. Press 'Enter'.  This cancels the pop-up and opens the Load Game menu.
-4. Unpause the game, then walk blindly into the module transition.
-5. After the load, the Load Game Menu should still be there.  Use this to load the Autosave.
-
-<div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/XQrJdm3TRt8" frameborder="0"></iframe>
-</div>
-
-**Special Properties:**
-
-- This method of Hotshot works by loading an Autosave that has been overwritten.
-- The Autosave Hotshot is the only method of Hotshot that allows you to warp to a module that is not currently in your save file (either due to deletion or merely because it is unvisited).
-- The Autosave Hotshot also does not revert your Main Character's stats, equipment, alignment, or experience.
-- An Autosave Hotshot can be used to bring Trask off the Endar Spire to any other location.
-
-**Spawn Location Notes:**
-
-- You will spawn in the Destination Module Autosave, but with the file that walked through the Start Module Autosave.  This includes party, character build, inventory and quest progress.
-- With one possible exception, you will spawn in the default spawn location for the module.  This is sometimes called a Default Spawn Warp.
-- The exception is if you have previously used Return to Hideout/Ebon Hawk in the Destination Module, and use the [Transit Point Storage](#transit-point-storage) glitch described below.  Then you will spawn at the most recent transit point in that module, even if you have since created other transit points in other modules.
-
 ## Hard Save Hotshots
 
 Hard Save Hotshots were the original form of Hotshots, and are somewhat misnamed, since they actually load a Hard Save as a Quick Save.  This type of Hotshot is *not* consistent, and thus has been almost entirely obsoleted by the consistent methods of hotshot, [Neo Hotshots](#neo-hotshots) and [Quick Save Hotshots](#quick-save-hotshots).  There are two ways to perform this type of Hotshot, but both share the same save setup.
@@ -208,44 +173,44 @@ This was the original form of Hotshot, and is slower and more complicated than a
 
 **Additional Notes:**
 
-- Hard Save Hotshots have two unique uses over other Hotshot methods:
-
-  1. Spawning OoB party members at the Teleport save location, rather than the MC's location.
-  2. [Swoop Skips](#swoop-skips) can only be done with either a Hard Save Hotshot or an [Neo Hotshot](#neo-hotshots), as you cannot load a save in the swoop race modules (and they do not have Autosaves).
-
+- Hard Save Hotshots have one niche effect that gives them a use in speedruns: OoB party members spawn at the Teleport save location, rather than the MC's location.
 - Notice that Hard Save Hotshots are not entirely consistent.  It may take several tries for the Hotshot Current save to change to QUICKSAVE, though that is unusual.
 - It is important for the [AMG](<Anywhere Menu Glitch>) to be done via Quick Save in the Destination Module.  We need to store the Teleport save in a Quick Save for the Hotshot to work.
 - Hard Save Hotshots are used twice in [All Quests](<../Route Guides/All Quests Unrestricted>) to warp while spawning party members near the Teleport save location.  In any other situation, [Neo Hotshots](#neo-hotshots) or [Quick Save Hotshots](#quick-save-hotshots) should be used instead.
 
-## Transit Point Storage
+## Autosave Hotshots
 
-Transit Point Storage is a specialized application of [Autosave Hotshots](#autosave-hotshots), used when you want to return to a specific place in a module even after using fast transit elsewhere.
+**Description:** Autosave Hotshots are a special method of Hotshot that loads an Autosave that has been saved over.  It has some useful special properties (in particular enabling [Default Spawn Warps](<Spawn Warps#autosave-hotshots>)) but is extremely situational.
 
-There are three restrictions:
+**Save Setup:**
 
-- Only transit points stored in modules that Autosave upon entry can be warped to.
-- Stored transit points can only be warped to from modules that Autosave upon entry.
-- The Autosave must be in the module with your stored transit point.  This can be accomplished using a Hard Save in an adjacent module.
+- Have an Autosave at the Destination Module
+- Have any save (or actually be) in the Start Module.  This should be near a module transition that Autosaves the game, but it does not have to be the same Autosave as in the Destination Module.
 
 **Steps:**
 
-1. When you first visit the module, set the transit point where you want to spawn.
-2. When you want to warp to that stored transit point, make sure you are in a module that Autosaves. 
-3. Quick Save your current game and load the save described above.
-4. Go to the module you want to warp to so that the Autosave triggers, then Quick Load.
-5. Return to the Ebon Hawk/Hideout (possibly using a Fast Lane) and activate [AMG](<Anywhere Menu Glitch>) on the load.
-6. Open the map and click Transit Back.  This replaces the Quit pop-up with the Transit Back pop-up.
-7. Switch to the Options Menu and ensure both "OK" and "Load Game" are highlighted using the mouse.
-8. Press Enter.  This transits back to the module you Quick Saved in, triggering an Autosave, and opens the Load Game menu.
-9. After loading in, use the Load Game menu to load the Autosave.
+1. Obtain an [AMG](<Anywhere Menu Glitch>) in the Start Module through either a Quick Save or a module transition.  Loading a Hard Save will not allow you to unpause.
+2. Open the Options Menu and ensure 'Load Game' and 'Cancel' are highlighted.
+3. Press 'Enter'.  This cancels the pop-up and opens the Load Game menu.
+4. Unpause the game, then walk blindly into the module transition.
+5. After the load, the Load Game Menu should still be there.  Use this to load the Autosave.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/oeJRPTpj1e8" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/XQrJdm3TRt8" frameborder="0"></iframe>
 </div>
 
-Notice that steps 5-9 are a modified [Autosave Hotshot](#autosave-hotshots).  It uses fast transit to trigger an Autosave while the Load Menu is open, rather than moving through a load zone.
+**Notes:**
 
-This glitch can be used to store only one transit point per module, but you can store one for every module and travel there as long as the Autosave conditions are met.
+- The Autosave Hotshot is unlike other Hotshots in almost every way.  The only similarity is in the mechanics of loading a save that has been overwritten.
+- The Autosave Hotshot is the only method of Hotshot that allows you to warp to a module that is not currently in your Start Module save file (either due to deletion or merely because it is unvisited).
+- Due to the nature of Autosave, the Autosave Hotshot can only be used in modules that force an Autosave to occur.  See the list of modules with [Forced Autosaves](<Spawn Warps#forced-autosaves>).
+- An Autosave Hotshot can be used to bring Trask off the Endar Spire to any other location, though this is sadly not useful in a speedrun context.
+
+**Party Spawn Info:**
+
+- Your party that spawns in the Destination Module is the party that triggered the Start Module Autosave.  This includes party statistics, character build, inventory and quest progress.  ***The Destination Module Autosave party info is lost, so you can lose quest progress when performing an Autosave Hotshot.***
+- Your party will spawn in the default spawn location for the module.  This is sometimes called a [Default Spawn Warp](<Spawn Warps#autosave-hotshots>).
+- A modified form of Autosave Hotshot can be used to perform the [Transit Point Storage](<Spawn Warps#transit-point-storage>) glitch.
 
 ## Swoop Skips
 
@@ -275,10 +240,11 @@ In addition to [Coordinate Warps](<Coordinate Warps>), Hotshots are used many ti
 2. Used to skip the Leviathan in [All Star Maps](<../Route Guides/All Star Maps>) by avoiding flying the Ebon Hawk while in possession of four Star Maps.
 3. Used to skip Ship Parts on Lehon in all Unrestricted speedruns.
 4. Swoop Skips are used to skip all six races on Tatooine and Manaan in [All Quests](<../Route Guides/All Quests Unrestricted>).
-5. Transit Point Storage is used once in [All Quests](<../Route Guides/All Quests Unrestricted>) to warp from Manaan to Tatooine.
-6. [Autosave Hotshots](#autosave-hotshots) are used a few times to spawn at a module's default spawn in all Unrestricted routes.
+5. Autosave Hotshots are used to perform [Default Spawn Warps](<Spawn Warps#autosave-hotshots>) in all Unrestricted speedruns.
 
 ## Related Glitches
 
 - [Anywhere Menu Glitch](<Anywhere Menu Glitch>)
 - [Coordinate Warps](<Coordinate Warps>)
+- [Default Spawn Warps](<Spawn Warps#default-spawn-warps>)
+- [Transit Point Storage](<Spawn Warps#transit-point-storage>)

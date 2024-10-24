@@ -37,13 +37,12 @@ Glitch guides are split into two types:
 |---|---|---|---|---|---|---|
 | [Anywhere Menu Glitch](./Major%20Glitches/Anywhere%20Menu%20Glitch) | [Coordinate Warps](./Major%20Glitches/Coordinate%20Warps) | [Displaced Load Zone](./Major%20Glitches/Displaced%20Load%20Zone) | | [Combat Talking](./Techniques/Combat%20Talking) | [Conversation Overlay](./Techniques/Conversation%20Overlay) | [Conversation Queue](./Techniques/Conversation%20Queue) |
 | [Door Clipping](./Major%20Glitches/Door%20Clipping) | [Fake Level Up](./Major%20Glitches/Fake%20Level%20Up) | [Fast Lane](./Major%20Glitches/Fast%20Lane) | | [Damage Stacking](./Techniques/Damage%20Stacking) | [Force Skips](./Techniques/Force%20Skips) | [Gather Party Warp](./Techniques/GP%20Warp) |
-| [Hotshot](./Major%20Glitches/Hotshot) | [The Routine](./Major%20Glitches/The%20Routine) | | | [Item Duplication](./Techniques/Item%20Duplication) | [Jedi Mine Trick](./Techniques/Jedi%20Mine%20Trick) | [Map Cutscene Skips](./Techniques/Map%20Cutscene%20Skips) |
+| [Hotshot](./Major%20Glitches/Hotshot) | [The Routine](./Major%20Glitches/The%20Routine) | [Spawn Warps](./Major%20Glitches/Spawn%20Warps) | | [Item Duplication](./Techniques/Item%20Duplication) | [Jedi Mine Trick](./Techniques/Jedi%20Mine%20Trick) | [Map Cutscene Skips](./Techniques/Map%20Cutscene%20Skips) |
 | | | | | [Save Buffering](./Techniques/Save%20Buffering) | [Save Teleporting](./Techniques/Save%20Teleporting) | [Wired Targeting](./Techniques/Wired%20Targeting) |
 
 ## Miscellaneous Info
 
 - [Enemy Spawn Triggers](./Miscellaneous/Enemy%20Spawn%20Triggers)
-
 
 ## Useful Links
 
