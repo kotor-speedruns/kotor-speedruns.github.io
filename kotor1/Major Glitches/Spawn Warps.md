@@ -1,4 +1,4 @@
-# Spawn Warps
+# Default Spawn Warps
 
 **Table of Contents**
 - [Description](#description)
@@ -96,12 +96,12 @@ This glitch can be used to store only one transit point per module, but you can 
 - [The Routine](#the-routine) method is used to warp to Upper City South's default spawn location (near Zelka's shop).
 - [Autosave Hotshots](<Hotshot#autosave-hotshots>) are used to warp to the following modules:
     - Upper City North (in all Unrestricted categories)
-    - Lower City (in All Quests)
-    - Dantooine Courtyard (in All Quests)
-    - West Central (in All Star Maps)
-    - Hrakert Rift (in All Star Maps)
-    - Leviathan Command Deck (in All Quests)
-    - Temple Exterior (in Any%)
+    - Lower City (in [All Quests](<../Route Guides/All Quests Unrestricted>))
+    - Dantooine Courtyard (in [All Quests](<../Route Guides/All Quests Unrestricted>))
+    - West Central (in [All Star Maps](<../Route Guides/All Star Maps>))
+    - Hrakert Rift (in [All Star Maps](<../Route Guides/All Star Maps>))
+    - Leviathan Command Deck (in [All Quests](<../Route Guides/All Quests Unrestricted>))
+    - Temple Exterior (in [Any%](<../Route Guides/Any%25Unrestricted>))
  
 [Transit Point Storage](#transit-point-storage) is used once in All Quests Unrestricted to return to the Dune Sea from Manaan.
 
