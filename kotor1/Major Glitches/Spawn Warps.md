@@ -33,7 +33,7 @@ There are currently two methods for warping to the default spawn location of a m
 2. Use another Autosave with your desired party to perform an [Autosave Hotshot](<Hotshot#autosave-hotshots>).
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/XQrJdm3TRt8" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/aKzAqeaHjts" frameborder="0"></iframe>
 </div>
 
 **Notes:**
