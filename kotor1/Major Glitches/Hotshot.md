@@ -12,6 +12,7 @@
 - [Hard Save Hotshots](#hard-save-hotshots)
   - [Via Load Menu](#via-load-menu)
   - [Via Main Menu](#via-main-menu)
+- [Autosave Hotshots](#autosave-hotshots)
 - [Swoop Skips](#swoop-skips)
 - [Uses](#uses)
 - [Related Glitches](#related-glitches)
@@ -177,6 +178,36 @@ This was the original form of Hotshot, and is slower and more complicated than a
 - It is important for the [AMG](<Anywhere Menu Glitch>) to be done via Quick Save in the Destination Module.  We need to store the Teleport save in a Quick Save for the Hotshot to work.
 - Hard Save Hotshots are used twice in [All Quests](<../Route Guides/All Quests Unrestricted>) to warp while spawning party members near the Teleport save location.  In any other situation, [Neo Hotshots](#neo-hotshots) or [Quick Save Hotshots](#quick-save-hotshots) should be used instead.
 
+## Autosave Hotshots
+
+**Description:** Autosave Hotshots are a special method of Hotshot that loads an Autosave that has been saved over.  It has some useful special properties (in particular enabling [Default Spawn Warps](<Spawn Warps#autosave-hotshots>)) but is extremely situational.
+
+**Save Setup:**
+
+- Have an Autosave at the Destination Module
+- Have any save (or actually be) in the Start Module.  This should be near a module transition that Autosaves the game, but it does not have to be the same Autosave as in the Destination Module.
+
+**Steps:**
+
+1. Obtain an [AMG](<Anywhere Menu Glitch>) in the Start Module through either a Quick Save or a module transition.  Loading a Hard Save will not allow you to unpause.
+2. Open the Options Menu and ensure 'Load Game' and 'Cancel' are highlighted.
+3. Press 'Enter'.  This cancels the pop-up and opens the Load Game menu.
+4. Unpause the game, then walk blindly into the module transition.
+5. After the load, the Load Game Menu should still be there.  Use this to load the Autosave.
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/XQrJdm3TRt8" frameborder="0"></iframe>
+</div>
+
+**Special Properties:**
+
+- This method of Hotshot works by loading an Autosave that has been overwritten.
+- The Autosave Hotshot is the only method of Hotshot that allows you to warp to a module that is not currently in your save file (either due to deletion or merely because it is unvisited).
+- Your party that spawns in the Destination Module is the party that triggered the Start Module Autosave.  This includes party statistics, character build, inventory and quest progress.  *The Destination Module Autosave party info is lost, so you can lose quest progress when performing an Autosave Hotshot.*
+- Your party will spawn in the default spawn location for the module.  This is sometimes called a [Default Spawn Warp](<Spawn Warps#autosave-hotshots>).
+- A modified form of Autosave Hotshot is used to perform the [Transit Point Storage](<Spawn Warps#transit-point-storage>) glitch.  This causes your party to spawn at the most recent transit point in that module instead of the default spawn location.
+- An Autosave Hotshot can be used to bring Trask off the Endar Spire to any other location.
+
 ## Swoop Skips
 
 Swoop Skips are a method for exiting swoop races early in [All Quests](<../Route Guides/All Quests Unrestricted>) runs, thus saving the time of actually doing the races.  The fastest version of the skip uses a [Neo Hotshot](#neo-hotshots), but it can also use a modified [Hard Save Hotshot](#hard-save-hotshots).  The fastest version follows these steps:
@@ -205,9 +236,11 @@ In addition to [Coordinate Warps](<Coordinate Warps>), Hotshots are used many ti
 2. Used to skip the Leviathan in [All Star Maps](<../Route Guides/All Star Maps>) by avoiding flying the Ebon Hawk while in possession of four Star Maps.
 3. Used to skip Ship Parts on Lehon in all Unrestricted speedruns.
 4. Swoop Skips are used to skip all six races on Tatooine and Manaan in [All Quests](<../Route Guides/All Quests Unrestricted>).
+5. Autosave Hotshots are used to perform [Default Spawn Warps](<Spawn Warps#autosave-hotshots>) in all Unrestricted speedruns.
 
 ## Related Glitches
 
 - [Anywhere Menu Glitch](<Anywhere Menu Glitch>)
 - [Coordinate Warps](<Coordinate Warps>)
-- [Autosave Hotshots](<Spawn Warps#autosave-hotshots>)
+- [Default Spawn Warps](<Spawn Warps#default-spawn-warps>)
+- [Transit Point Storage](<Spawn Warps#transit-point-storage>)
