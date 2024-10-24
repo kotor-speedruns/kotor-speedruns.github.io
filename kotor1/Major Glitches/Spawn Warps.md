@@ -161,33 +161,29 @@ This is a list of all modules that have unusual default spawn locations.  While 
 | Taris | Sith Base | In hall outside Assault Droid's room | (36.60, 3.80) |
 | Dantooine | Courtyard | Between Adum Larp and Elise | (163.22, 139.29) |
 | Dantooine | Matale Grounds | In front of Matale Estate | (320.48, 106.54) |
-
-
-manm26ac	West Central		Near Port Authority
-manm27aa	Manaan Sith Base	In room past Steam Vents
-manm28ad	Hrakert Rift		On bridge near Progenitor
-lev_m40aa	Prison Block		In detention cell (Saul CS)
-lev_m40ab	Command Deck		Near doors to Bridge
-unk_m41aa	Temple Exterior		Near Mandalorian fight trigger
-unk_m44aa	Temple Main Floor	In room with two Dark Jedi near Sith Master
-
-danm14ac	Grove			Near Juhani
-danm14ad	Sandral Grounds		In front of Sandral Estate
-korr_m34aa	Shyrack Caves		Near renegade Sith students
-korr_m38ab	Tomb of Tulak Hord	Near ancient console
-lev_m40ac	Hangar			In hall leading to Malak confrontation
-manm26aa	Ahto West		In prison next to Sunry
-manm26ab	Ahto East		At entrance to swoop bar
-manm26ad	Manaan Docking Bay	At end of short hall out of Ebon Hawk dock
-manm26ae	East Central		At Republic Embassy entrance
-manm28ac	Kolto Control		Force field room near scientists
-tat_m17ab	Tatooine Docking Bay	Somewhat closer to Mic'Tunan'Jus Orgu
-tat_m18ab	Sand People Territory	At Eastern Dune Sea entrance
-unk_m41ab	South Beach		In front of Elder Rakata settlement
-unk_m41ac	North Beach		On beach near Warrior Rakata settlement
-unk_m43aa	Rakatan Settlement	In cell with Elder Warrior (can escape with Security FLU)
-unk_m44ab	Temple Catacombs	In front of door leading to puzzle room
-
+| Dantooine | Grove | Near Juhani's ruins | (427.97, 388.46) |
+| Dantooine | Sandral Grounds | In front of Sandral Estate | (335.47, 152,35) |
+| Tatooine | Docking Bay | Behind Czerka Customs Officer | (-6.83, -26.73) |
+| Tatooine | Sand People Territory | In front of Eastern Dune Sea entrance | (311.22, 312.25) |
+| Manaan | Docking Bay | At end of short hall out of Ebon Hawk dock | (252.15, 190.30) |
+| Manaan | West Central | In small room near Selkath Port Official | (-40.48, 65.02) |
+| Manaan | East Central | Just inside Republic Embassy entrance | (66.14, 63.00) |
+| Manaan | Ahto West | In prison next to Sunry's cell | (29.74, 12.33) |
+| Manaan | Ahto East | Just inside entrance to swoop bar | (-86.82, 25.05) |
+| Manaan | Sith Base | In small room past steam vents | (205.71, 110.68) |
+| Manaan | Kolto Control | In depressurization room with force field | (219.06, 105.57) |
+| Manaan | Hrakert Rift | On bridge just in front of the Progenitor | (163.34, 105.25) |
+| Korriban | Shyrack Caves | At mouth of cave with renegade Sith students | (98.51, 108.55) |
+| Korriban | Tomb of Tulak Hord | Right in front of ancient console | (92.17, 74.55) |
+| Leviathan | Prison Block | Inside cell from Saul torture cutscene | (21.25, 44.01) |
+| Leviathan | Command Deck | Right outside door from Leviathan Bridge | (137.20, 54.66) |
+| Leviathan | Hangar | At top of ramp leading to Malak confrontation | (154.16, 154.91) |
+| Unknown Planet | Temple Exterior | Near Mandalorian fight trigger to right of temple | (264.19, 86.21) |
+| Unknown Planet | South Beach | Outside entrance to Elder Rakata settlement | (44.58, 125.22) |
+| Unknown Planet | North Beach | On beach outside Warrior Rakata settlement | (164.64, 182.47) |
+| Unknown Planet | Rakatan Settlement | In cell with Elder Warrior | (49.97, 158.84) |
+| Unknown Planet | Temple Main Floor | In room with two Dark Jedi next to Sith Master | (78.75, 70.10) |
+| Unknown Planet | Temple Catacombs | In front of door to tile puzzle room | (74.92, 79.60) |
 
 ## Related Glitches
 
