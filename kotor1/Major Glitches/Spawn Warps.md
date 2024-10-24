@@ -1,44 +1,78 @@
 # Spawn Warps
 
+**Table of Contents**
+- [Description](#description)
+- [Default Spawn Warps](#default-spawn-warps)
+  - [Autosave Hotshots](#autosave-hotshots)
+  - [The Routine](#the-routine)
+- [Transit Point Storage](#transit-point-storage)
+- [Uses](#uses)
+- [Module Lists](#module-lists)
+  - [Forced Autosaves](#forced-autosaves)
+  - [Unusual Default Spawns](#unusual-default-spawns)
+- [Related Glitches](#related-glitches)
 
 
-## Autosave Hotshots
+## Description
 
-**Description:** Autosave Hotshots are a special method that loads an Autosave that has been saved over.  It has some useful special properties but is extremely situational.
+Spawn Warps are a class of glitches that cause the party to warp to a specific spawn waypoint within a module.  This can be used to cut out movement or in rare cases skip past otherwise problematic obstacles.
+
+## Default Spawn Warps
+
+Every module has a waypoint inside of it that acts as a default spawn point.  Under certain circumstances, an entry made to the module in a non-standard way (i.e. not by entering from an adjacent module) will cause the entire party to spawn at this default spawn point.  A Default Spawn Warp, therefore, is any method of entering a module in a non-standard way. 
+
+There are currently two methods for warping to the default spawn location of a module; we'll call the module we're warping to the Destination Module.
+
+### Autosave Hotshots
+
+**Description:** Autosave Hotshots are a special method of [Hotshot](<Hotshot>) that loads an Autosave that has been saved over.  It requires a specific save setup, and thus is extremely situational.
 
 **Save Setup:**
 
-- Have an Autosave at the Destination Module
-- Have any save (or actually be) in the Start Module.  This should be near a module transition that Autosaves the game, but it does not have to be the same Autosave as in the Destination Module.
+- Have the Autosave at the Destination Module
 
 **Steps:**
 
-1. Obtain an [AMG](<Anywhere Menu Glitch>) in the Start Module through either a Quick Save or a module transition.  Loading a Hard Save will not allow you to unpause.
-2. Open the Options Menu and ensure 'Load Game' and 'Cancel' are highlighted.
-3. Press 'Enter'.  This cancels the pop-up and opens the Load Game menu.
-4. Unpause the game, then walk blindly into the module transition.
-5. After the load, the Load Game Menu should still be there.  Use this to load the Autosave.
+1. Obtain an [AMG](<Anywhere Menu Glitch>) through either a Quick Save or a module transition.  Loading a Hard Save will not allow you to unpause.
+2. Be near some way of triggering a module transition that will force an Autosave.
+3. Open the Options Menu and ensure 'Load Game' and 'Cancel' are highlighted.
+4. Press 'Enter'.  This cancels the pop-up and opens the Load Game menu.
+5. Unpause the game, then blindly trigger the module transition (either by walking or otherwise).
+6. After the load, the Load Game Menu should still be there.  Use this to load the Autosave.
 
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/XQrJdm3TRt8" frameborder="0"></iframe>
 </div>
 
-**Special Properties:**
+**Notes:**
 
-- This method of Hotshot works by loading an Autosave that has been overwritten.
-- The Autosave Hotshot is the only method of Hotshot that allows you to warp to a module that is not currently in your save file (either due to deletion or merely because it is unvisited).
-- The Autosave Hotshot also does not revert your Main Character's stats, equipment, alignment, or experience.
+- The Autosave Hotshot is unlike other [Hotshots](<Hotshot>) in almost every way.  The only similarity is in the mechanics of loading a save that has been overwritten.
+- Due to the nature of Autosave, the Autosave Hotshot can only be used in modules that force an Autosave to occur.  See the list of [Forced Autosaves](#forced-autosaves) below.
+- The Destination Module does not have to exist in your current save file.  This is also unlike other [Hotshots](<Hotshot>).
+- Your entire party will spawn together at the default spawn location in the Destination Module, but with the file that walked through the Start Module Autosave.  This includes party, character build, inventory and quest progress.
+- An Autosave Hotshot can be triggered by using fast travel to Transit Back to a module that forces an Autosave.  This can be used to perform [Transit Point Storage](#transit-point-storage).
 - An Autosave Hotshot can be used to bring Trask off the Endar Spire to any other location.
 
-**Spawn Location Notes:**
+### The Routine
 
-- You will spawn in the Destination Module Autosave, but with the file that walked through the Start Module Autosave.  This includes party, character build, inventory and quest progress.
-- With one possible exception, you will spawn in the default spawn location for the module.  This is sometimes called a Default Spawn Warp.
-- The exception is if you have previously used Return to Hideout/Ebon Hawk in the Destination Module, and use the [Transit Point Storage](#transit-point-storage) glitch described below.  Then you will spawn at the most recent transit point in that module, even if you have since created other transit points in other modules.
+**Description:** By using [the Routine](<The Routine>) to delete data from our save file, we can also delete the transit waypoint that we have set in the Destination Module.  Using fast travel to Transit Back after performing a Routine will then return the party to the default spawn location in the Destination Module.
+
+**Steps:**
+1. Reach the Destination Module whose default spawn location you want to reach.
+2. Return to the Hideout/Ebon Hawk.  This can be done either naturally or with a [Fast Lane](<Fast Lane>).
+3. Perform [the Routine](<The Routine>) to delete the Destination Module (and its transit waypoint data) from your save file.
+4. After loading your Quick Save, Transit Back to reach the Destination Module's default spawn location.
+
+*Video forthcoming*
+
+**Notes:**
+
+- Since [the Routine](<The Routine>) deletes most of your save file data, this method of Default Spawn Warp is best used very early in the run.
+- Also note that using [the Routine](<The Routine>) will make Save Teleporting ineffective.
 
 ## Transit Point Storage
 
-Transit Point Storage is a specialized application of [Autosave Hotshots](#autosave-hotshots), used when you want to return to a specific place in a module even after using fast transit elsewhere.
+Transit Point Storage is a specialized application of [Autosave Hotshots](#autosave-hotshots) that allows you to return to a fast travel waypoint in a module, even after using fast transit elsewhere.
 
 There are three restrictions:
 
@@ -62,7 +96,71 @@ There are three restrictions:
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/oeJRPTpj1e8" frameborder="0"></iframe>
 </div>
 
-Notice that steps 5-9 are a modified [Autosave Hotshot](#autosave-hotshots).  It uses fast transit to trigger an Autosave while the Load Menu is open, rather than moving through a load zone.
+**Notes:**
+- Notice that steps 5-9 are a modified [Autosave Hotshot](#autosave-hotshots) using fast transit to trigger an Autosave while the Load Menu is open, rather than moving through a load zone.
+- If no transit point has ever been set in the Destination Module, Transit Point Storage will spawn you at the default spawn location for the module.
 
-This glitch can be used to store only one transit point per module, but you can store one for every module and travel there as long as the Autosave conditions are met.
+This glitch can be used to store only one transit point per module, but you can store one for every module and travel there as long as the Autosave conditions are met.  See [Forced Autosaves](#forced-autosaves) for a list of modules whose transit points can be warped to.
 
+## Uses
+
+[Default Spawn Warps](#default-spawn-warps) are used several times in Unrestricted speedruns:  
+
+- [The Routine](#the-routine) method is used to warp to Upper City South's default spawn location (near Zelka's shop).
+- [Autosave Hotshots](#autosave-hotshots) are used to warp to the following modules:
+    - Upper City North (in all Unrestricted categories)
+    - Lower City (in All Quests)
+    - Dantooine Courtyard (in All Quests)
+    - West Central (in All Star Maps)
+    - Hrakert Rift (in All Star Maps)
+    - Leviathan Command Deck (in All Quests)
+    - Temple Exterior (in Any%)
+ 
+[Transit Point Storage](#transit-point-storage) is used once in All Quests Unrestricted to return to the Dune Sea from Manaan.
+
+## Module Lists
+
+### Forced Autosaves
+
+The following list contains all modules that force an Autosave.  These are modules that are eligible for [Autosave Hotshots](#autosave-hotshots) or [Transit Point Storage](#transit-point-storage).
+
+- Command Module
+- Starboard Section
+- Upper City South
+- Upper City North
+- Lower City
+- Undercity
+- Lower Sewers
+- Vulkar Base
+- Davik's Estate
+- Courtyard
+- Ruins
+- Sandral Estate
+- Great Walkway
+- Upper Shadowlands
+- Sith Academy Entrance
+- Valley of the Dark Lords
+- Anchorhead
+- Dune Sea
+- Eastern Dune Sea
+- West Central
+- Manaan Sith Base
+- Hrakert Station
+- Hrakert Rift
+- Prison Block
+- Command Deck
+- Temple Exterior
+- Temple Main Floor
+- Deck 1
+
+### Unusual Default Spawns
+
+This is a list of all modules that have unusual default spawn locations.  While some module's default spawns are at the usual module transition locations, these spawns are elsewhere and thus may be useful to [Default Spawn Warp](#default-spawn-warps) to.
+
+*Table coming soon.*
+
+## Related Glitches
+
+- [Anywhere Menu Glitch](<Anywhere Menu Glitch>)
+- [Hotshot](<Hotshot>)
+- [The Routine](<The Routine>)
