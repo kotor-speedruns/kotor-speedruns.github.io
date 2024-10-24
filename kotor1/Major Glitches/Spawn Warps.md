@@ -155,7 +155,7 @@ The following list contains all modules that force an Autosave.  These are modul
 
 ### Unusual Default Spawns
 
-This is a list of all modules that have unusual default spawn locations.  While some module's default spawns are at the usual module transition locations, these spawns are elsewhere and thus may be useful to [Default Spawn Warp](#default-spawn-warps) to.
+This is a list of all modules that have unusual default spawn locations.  While some module's default spawns are at the usual module transition locations, these modules have more interesting default spawns that may make a [Default Spawn Warp](#default-spawn-warps) worthwhile.
 
 *Table coming soon.*
 
