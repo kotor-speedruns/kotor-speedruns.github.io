@@ -1,4 +1,4 @@
-# Default Spawn Warps
+# Spawn Warps
 
 **Table of Contents**
 - [Description](#description)
