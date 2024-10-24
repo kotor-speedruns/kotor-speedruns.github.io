@@ -114,7 +114,7 @@ This glitch can be used to store only one transit point per module, but you can 
 The following table contains all 28 modules that force an Autosave.  These are modules that are eligible for [Autosave Hotshots](<Hotshot#autosave-hotshots>) or [Transit Point Storage](#transit-point-storage).
 
 | **Planet** | **Module** | | **Planet** | **Module** |
-|---|---|---|---|---|
+| :--- | :--- | :--- | :--- | :--- |
 | Endar Spire | Command Module | | Korriban | Sith Academy Entrance |
 | Endar Spire | Starboard Section | | Korriban | Valley of the Dark Lords |
 | Taris | Upper City South | | Tatooine | Anchorhead |
@@ -135,7 +135,7 @@ The following table contains all 28 modules that force an Autosave.  These are m
 This is a list of all 37 modules that have notable default spawn locations.  While some modules' default spawns are at the usual module transition locations, these modules have more interesting default spawns that may make a [Default Spawn Warp](#default-spawn-warps) worthwhile.
 
 | **Planet** | **Module** | **Default Spawn Description** | **Coordinates** | 
-|---|---|---|---|
+| :--- | :--- | :--- | :--- |
 | Taris | Upper City South | In front of the door to Zelka's medical clinic | (188.06, 80.30) |
 | Taris | Upper City North | Between Gorton Colu and the Lower City elevator | (109.38, 123.36) |
 | Taris | North Apartments | Between Sarna's apartment and the Sith Soldier fight apartment | (90.00, 125.21) |
