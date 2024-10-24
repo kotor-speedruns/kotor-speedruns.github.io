@@ -122,36 +122,24 @@ This glitch can be used to store only one transit point per module, but you can 
 
 ### Forced Autosaves
 
-The following list contains all modules that force an Autosave.  These are modules that are eligible for [Autosave Hotshots](#autosave-hotshots) or [Transit Point Storage](#transit-point-storage).
+The following table contains all 28 modules that force an Autosave.  These are modules that are eligible for [Autosave Hotshots](#autosave-hotshots) or [Transit Point Storage](#transit-point-storage).
 
-- Command Module
-- Starboard Section
-- Upper City South
-- Upper City North
-- Lower City
-- Undercity
-- Lower Sewers
-- Vulkar Base
-- Davik's Estate
-- Courtyard
-- Ruins
-- Sandral Estate
-- Great Walkway
-- Upper Shadowlands
-- Sith Academy Entrance
-- Valley of the Dark Lords
-- Anchorhead
-- Dune Sea
-- Eastern Dune Sea
-- West Central
-- Manaan Sith Base
-- Hrakert Station
-- Hrakert Rift
-- Prison Block
-- Command Deck
-- Temple Exterior
-- Temple Main Floor
-- Deck 1
+| **Planet** | **Module** | | **Planet** | **Module** |
+|---|---|---|---|---|
+| Endar Spire | Command Module | | Korriban | Sith Academy Entrance |
+| Endar Spire | Starboard Section | | Korriban | Valley of the Dark Lords |
+| Taris | Upper City South | | Tatooine | Anchorhead |
+| Taris | Upper City North | | Tatooine | Dune Sea |
+| Taris | Lower City | | Tatooine | Eastern Dune Sea |
+| Taris | Undercity | | Manaan | West Central |
+| Taris | Lower Sewers | | Manaan | Sith Base |
+| Taris | Vulkar Base | | Manaan | Hrakert Station |
+| Taris | Davik's Estate | | Manaan | Hrakert Rift |
+| Dantooine | Courtyard | | Leviathan | Prison Block |
+| Dantooine | Ruins | | Leviathan | Command Deck |
+| Dantooine | Sandral Estate | | Unknown Planet | Temple Exterior |
+| Kashyyyk | Great Walkway | | Unknown Planet | Temple Main Floor |
+| Kashyyyk | Upper Shadowlands | | Star Forge | Deck 1 |
 
 ### Unusual Default Spawns
 
