@@ -306,7 +306,7 @@ Alignment is not as important in this game, as we don’t use any equipment rest
 Other than obtaining Mira, most of our decisions are done with the intention of getting the fastest result, while gaining as many alignment shifts as possible so that we can spawn Visas.  
 
 Getting Visas to spawn requires either 25/75 alignment (high dark/light, respectively), or 50 total alignment shifts.  We go for the 50 total alignment point shifts, since it is much easier to attain while taking the most efficient path.  After attaining Visas, our alignment doesn't matter anymore.
-We reach 54 total shifts before Visas, we can make it exactly 50 shifts, but there is a big risk of making a mistake and therefore not having enough alignment shifts to trigger Visas.
+We reach 51 total shifts before Visas, we can make it exactly 50 shifts, but there is a big risk of making a mistake and therefore not being able to trigger Visas. This route is super tight as it is, even 1 mistake could ruin a good run!
 
 ## Route Overview
 
