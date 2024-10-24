@@ -9,7 +9,7 @@
 - [Uses](#uses)
 - [Module Lists](#module-lists)
   - [Forced Autosaves](#forced-autosaves)
-  - [Unusual Default Spawns](#unusual-default-spawns)
+  - [Notable Default Spawns](#notable-default-spawns)
 - [Related Glitches](#related-glitches)
 
 
@@ -141,9 +141,9 @@ The following table contains all 28 modules that force an Autosave.  These are m
 | Kashyyyk | Great Walkway | | Unknown Planet | Temple Main Floor |
 | Kashyyyk | Upper Shadowlands | | Star Forge | Deck 1 |
 
-### Unusual Default Spawns
+### Notable Default Spawns
 
-This is a list of all modules that have unusual default spawn locations.  While some modules' default spawns are at the usual module transition locations, these modules have more interesting default spawns that may make a [Default Spawn Warp](#default-spawn-warps) worthwhile.
+This is a list of all 37 modules that have notable default spawn locations.  While some modules' default spawns are at the usual module transition locations, these modules have more interesting default spawns that may make a [Default Spawn Warp](#default-spawn-warps) worthwhile.
 
 | **Planet** | **Module** | **Default Spawn Description** | **Coordinates** | 
 |---|---|---|---|
