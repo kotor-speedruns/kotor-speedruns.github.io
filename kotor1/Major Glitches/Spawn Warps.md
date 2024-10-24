@@ -25,29 +25,20 @@ There are currently two methods for warping to the default spawn location of a m
 
 ### Autosave Hotshots
 
-**Description:** This method of Default Spawn Warp uses the property of [Autosave Hotshots](<Hotshot#autosave-hotshots>) that spawns the party at the default spawn location for a module.  Thus any time you use an Autosave Hotshot, you're also doing a Default Spawn Warp.  While still a specialized glitch, it is the more flexible of the two Default Spawn Warp methods.
+**Description:** This method of Default Spawn Warp uses the property of [Autosave Hotshots](<Hotshot#autosave-hotshots>) that spawns the party at the default spawn location for a module.  Thus any time you use an Autosave Hotshot, you're also doing a Default Spawn Warp (unless you're performing [Transit Point Storage](#transit-point-storage).  While still a specialized glitch, Autosave Hotshots are the more flexible of the two Default Spawn Warp methods.
 
 **Steps:**
 
-1. Obtain an [AMG](<Anywhere Menu Glitch>) through either a Quick Save or a module transition.  Loading a Hard Save will not allow you to unpause.
-2. Be near some way of triggering a module transition that will force an Autosave.
-3. Open the Options Menu and ensure 'Load Game' and 'Cancel' are highlighted.
-4. Press 'Enter'.  This cancels the pop-up and opens the Load Game menu.
-5. Unpause the game, then blindly trigger the module transition (either by walking or otherwise).
-6. After the load, the Load Game Menu should still be there.  Use this to load the Autosave.
+1. Have an Autosave in your Destination Module.
+2. Use another Autosave with your desired party to perform an [Autosave Hotshot](<Hotshot#autosave-hotshots>).
 
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/XQrJdm3TRt8" frameborder="0"></iframe>
 </div>
 
 **Notes:**
-
-- The Autosave Hotshot is unlike other [Hotshots](<Hotshot>) in almost every way.  The only similarity is in the mechanics of loading a save that has been overwritten.
-- Due to the nature of Autosave, the Autosave Hotshot can only be used in modules that force an Autosave to occur.  See the list of [Forced Autosaves](#forced-autosaves) below.
-- The Destination Module does not have to exist in your current save file.  This is also unlike other [Hotshots](<Hotshot>).
-- Your entire party will spawn together at the default spawn location in the Destination Module, but with the file that walked through the Start Module Autosave.  This includes party, character build, inventory and quest progress.
-- An Autosave Hotshot can be triggered by using fast travel to Transit Back to a module that forces an Autosave.  This can be used to perform [Transit Point Storage](#transit-point-storage).
-- An Autosave Hotshot can be used to bring Trask off the Endar Spire to any other location.
+- Remember that the party that spawns in the Destination Module is the one that triggers the Autosave Hotshot.  You can lose quest progress in this way if that party has less progress than the Destination Module autosave party.
+- The only situation in which an [Autosave Hotshot](<Hotshot#autosave-hotshots>) does not spawn the party at the default spawn location is if [Transit Point Storage](#transit-point-storage) is used instead.
 
 ### The Routine
 
