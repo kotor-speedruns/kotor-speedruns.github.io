@@ -32,15 +32,17 @@ These guides will cover all information relevant to the speedrun of the given ca
 
 These guides cover specific glitches used frequently in KotOR speedrunning, including detailed instructions and videos for performing the glitch.  If you're looking to polish up on a specific type of glitch, these are the guides for you.
 
-Glitch guides are split into two types:
-- **Dev Tools:** These glitches are more are actually features left in by the developers to play test parts of the game; they do not exist at all in the legacy versions of the game. They are characterized by extreme game-breaking skips and abilities, and only allowed in the Unrestricted ruleset. 
-- **Other Glitches:** All other glitches are grouped together in KotOR II, regardless of their power or difficulty.  Some can significantly sequence-break the game, or completely bypass the usual rules of normal gameplay, while others have more minor effects.  These glitches are legal in the Unrestricted and No Dev Tools rulesets.
+Glitch guides are split into three types:
+- **Dev Tools:** These glitches are actually features left in by the developers to play test parts of the game; they do not exist at all in the legacy versions of the game. They are characterized by extreme game-breaking skips and abilities, and only allowed in the Unrestricted ruleset. 
+- **Major Glitches:** These glitches are not to the same level as Dev Tools, but still have game breaking effects that bypass normal gameplay.  These glitches are legal in the Unrestricted and No Dev Tools rulesets.
+- **Techniques:** These glitches have more minor effects, such as skipping cutscenes or other minor timesaves.  These glitches are legal in the Unrestricted and No Dev Tools rulesets.
 
-| Dev Tools | | | | Other Glitches | | |
+| | Dev Tools | | | | Techniques | |
 |---|---|---|---|---|---|---|
-| [3C-FD](./Dev%20Tools/3C-FD) | | [Anywhere Menu Glitch](./Major%20Glitches/Anywhere%20Menu%20Glitch) | [Displaced Load Zone](./Major%20Glitches/Displaced%20Load%20Zone) | [Door Clipping](./Major%20Glitches/Door%20Clipping) | [Combat Talking](/kotor2/Techniques/Combat Talking) | [Conversation Queue](/kotor2/Techniques/Conversation Queue) |
-| [Dev Character](./Dev%20Tools/Dev%20Character) | | [Damage Stacking](/kotor2/Techniques/Damage Stacking) | [Fake Level Up](./Major%20Glitches/Fake Level Up) | [Hotshot](./Major%20Glitches/Hotshot) | [Revive Your Party Warp](./Techniques/RYP%20Warp) | [Save Buffering](./Techniques/Save%20Buffering) |
-| | | [Save Teleporting](./Techniques/Save%20Teleporting) | [Wired Targeting](/kotor2/Techniques/Wired%20Targeting) | | | |
+| [Dev Droid](./Dev%20Tools/3C-FD) | [Dev Character](./Dev%20Tools/Dev%20Character) | | | [Combat Talking](</kotor2/Techniques/Combat Talking>) | [Conversation Queue](</kotor2/Techniques/Conversation Queue>) | [Damage Stacking](</kotor2/Techniques/Damage Stacking>) |
+| | **Major Glitches** | | | [Revive Your Party Warp](./Techniques/RYP%20Warp) | [Save Buffering](./Techniques/Save%20Buffering) | [Save Teleporting](./Techniques/Save%20Teleporting) |
+| [Anywhere Menu Glitch](./Major%20Glitches/Anywhere%20Menu%20Glitch) | [Coordinate Warps](./Major%20Glitches/Coordinate%20Warps) | [Displaced Load Zone](./Major%20Glitches/Displaced%20Load%20Zone) | | [Wired Targeting](/kotor2/Techniques/Wired%20Targeting) | | |
+| [Door Clipping](./Major%20Glitches/Door%20Clipping) | [Fake Level Up](<./Major%20Glitches/Fake Level Up>) | [Hotshot](./Major%20Glitches/Hotshot) | | | | |
 
 ## Useful Links
 
