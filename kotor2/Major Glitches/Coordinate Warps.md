@@ -21,7 +21,7 @@ While the details of each Coordinate Warp vary from situation to situation, they
 2. Once they are positioned correctly, [Hotshot](<Hotshot>) via any method to the Destination Module, following the procedure for the [Hotshot](<Hotshot>) type that you're using.
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/QFl1q-pR7Ik" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/mp3QCD8GrN8" frameborder="0"></iframe>
 </div>
 
 Note that Coordinate Warps do not work with [Autosave Hotshots](<Hotshot#autosave-hotshots>); party members will always spawn near the default spawn for the module when performing an [Autosave Hotshot](<Hotshot#autosave-hotshots>).  However, Coordinate Warps can be done with [Main Menu Hotshots](<Hotshot#main-menu-hotshots>), even when done as a [Forward Hotshot](<Hotshot#forward-hotshot>).
@@ -31,7 +31,7 @@ Note that Coordinate Warps do not work with [Autosave Hotshots](<Hotshot#autosav
 A Coordinate Warp can be done "within" a module by temporarily [Hotshotting](<Hotshot>) to another module that has the coordinates you want, then immediately Coordinate Warping back to the original module.  This is used in a few places, and if the save in the temporary module is done in the right position, the two [Hotshots](<Hotshot>) can be chained together, commonly called a Double [Hotshot](<Hotshot>).
 
 <div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/djg38soPQZA" frameborder="0"></iframe>
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/-CEqqqyV3bY" frameborder="0"></iframe>
 </div>
 
 The type of Double Hotshot you use depends on which module you want that Hard Save to end up in.  A Double [Neo Hotshot](<Hotshot#neo-hotshots>) or a Double [Quick Save Hotshot](<Hotshot#quick-save-hotshots>) will both leave the Hard Save as it was, whereas a Mixed Double Hotshot (a [Neo Hotshot](<Hotshot#neo-hotshots>) followed by a [Quick Save Hotshot](<Hotshot#quick-save-hotshots>)) will change the Hard Save to the module you're warping within.
@@ -122,9 +122,7 @@ Description
 
 **Video of Warp**
 
-<div class="video-container">
-    <iframe title="YouTube video player" src="https://www.youtube.com/embed/6kxr4ZSpnpc" frameborder="0"></iframe>
-</div>
+
 
 ## Warps in All Planets
 
