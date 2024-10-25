@@ -420,7 +420,7 @@ There are a myriad of other Coordinate Warps in KotOR, since the mechanics of th
 If you're looking to discover or design your own Coordinate Warps, some tools that can help include:
 
 - Console cheats, including `warp` to travel between modules and `whereami` to get exact coordinates
-- The Walkmesh Visualizer by glasnonck, which allows you to overlay multiple modules and find matches for specific coordinates.
+- The [Walkmesh Visualizer](https://github.com/glasnonck/WalkmeshVisualizer) by [glasnonck](https://www.speedrun.com/users/glasnonck), which allows you to overlay multiple modules and find matches for specific coordinates.
 
 ## Related Glitches
 - [Hotshot](<Hotshot>)
