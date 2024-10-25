@@ -139,7 +139,7 @@ Coming soon!
 There are a myriad of other Coordinate Warps in KotOR II, since the mechanics of them are quite flexible.  Anytime two modules share coordinates, a Coordinate Warp is possible (though possibly not useful). If you're looking to discover or design your own Coordinate Warps, some tools that can help include:
 
 - Console cheats, including `warp` to travel between modules.
-- The Walkmesh Visualizer by glasnonck, which allows you to overlay multiple modules and find matches for specific coordinates.
+- The [Walkmesh Visualizer](https://github.com/glasnonck/WalkmeshVisualizer) by [glasnonck](https://www.speedrun.com/users/glasnonck), which allows you to overlay multiple modules and find matches for specific coordinates.
 
 ## Related Glitches
 - [Hotshot](<Hotshot>)
