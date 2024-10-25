@@ -105,24 +105,24 @@ Note that only true Coordinate Warps are listed here; Unrestricted runs use many
 
 ## Warps in Any%
 
-### Start Module to Destination Module
+### Admin Level to Hangar Level
 
-- **Used In:** 
-- **Start Module:** 
-- **Destination Module:** 
-- **Approximate Coordinates:** 
-- **Precision Level:** 
-- **Hotshot Used:** 
+- **Used In:** Any% Unrestricted
+- **Start Module:** Hangar Level
+- **Destination Module:** Hangar Level
+- **Approximate Coordinates:** (-2.40, 20.20)
+- **Precision Level:** None
+- **Hotshot Used:** Double Mixed Hotshot (Load Menu Hotshot to Neo Hotshot)
 
-Description
+This Coordinate Warp uses a Load Menu Hotshot to place party members in the Kolto Tanks area at the start of the Administration Level, which has the right coordinates to warp back to the Hangar Level with a Neo Hotshot.  With the help of the Dev Droid, this skips all of Peragus except the Admin Level.
 
 **Positioning Image**
 
-![Image showing Bastila's positioning](/assets/images/kotor1/CWLPtoWalkway.png)
+![Image showing party's positioning](/assets/images/kotor1/CWLPtoWalkway.png)
 
 **Video of Warp**
 
-
+*Video forthcoming*
 
 ## Warps in All Planets
 
