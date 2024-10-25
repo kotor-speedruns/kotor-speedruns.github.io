@@ -136,19 +136,9 @@ Coming soon!
 
 ## Other Coordinate Warps
 
-There are a myriad of other Coordinate Warps in KotOR, since the mechanics of them are quite flexible.  Some of these may be useful in either Randomizer or Bingo, while others have been used in the past.  They include:
+There are a myriad of other Coordinate Warps in KotOR II, since the mechanics of them are quite flexible.  Anytime two modules share coordinates, a Coordinate Warp is possible (though possibly not useful). If you're looking to discover or design your own Coordinate Warps, some tools that can help include:
 
-- Hrakert Rift to Tomb of Naga Sadow (for the Korriban Map)
-- Valley of the Dark Lords to Tomb of Naga Sadow (for the Korriban Map)
-- Czerka Landing Port to Tomb of Naga Sadow (for the Korriban Map and/or the Solari crystal)
-- Courtyard to Great Walkway (to the Shadowlands Elevator)
-- Sith Academy Entrance to Lower Shadowlands (for the Kashyyyk Map)
-- Manaan Docking Bay to Shyrack Caves (for the Qel-Droma Robes)
-- Many others!
-
-If you're looking to discover or design your own Coordinate Warps, some tools that can help include:
-
-- Console cheats, including `warp` to travel between modules and `whereami` to get exact coordinates
+- Console cheats, including `warp` to travel between modules.
 - The Walkmesh Visualizer by glasnonck, which allows you to overlay multiple modules and find matches for specific coordinates.
 
 ## Related Glitches
