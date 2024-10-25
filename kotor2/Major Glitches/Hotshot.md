@@ -230,6 +230,7 @@ In addition to the standard use of Hotshots to cut out backtracking, Hotshots en
 
 ## Related Glitches
 
+- [Anywhere Menu Glitch](<Anywhere Menu Glitch>)
 - [Dev Character](<../Dev Tools/Dev Character>)
 - [Dev Droid](<../Dev Tools/Dev Droid>)
 - [Coordinate Warps](<Coordinate Warps>)
