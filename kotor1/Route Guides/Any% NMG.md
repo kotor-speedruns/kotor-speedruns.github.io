@@ -4,7 +4,7 @@ redirect_from:
 ---
 # Star Wars: Knights of the Old Republic - Any% No Major Glitches Guide
 
-### v5.6: Male/Female Scout/Scoundrel -> Jedi Guardian Route (Light Side)
+### v5.7: Male/Female Scout/Scoundrel -> Jedi Guardian Route (Light Side)
 
 This route defeats Malak on the Star Forge as fast as possible without major glitches.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.   This guide will cover the character build for the run, as well as a detailed route.
 
@@ -37,7 +37,8 @@ The following glitches and tricks are banned in Any% NMG:
 - [Fake Level Up](<../Major Glitches/Fake Level Up>)
 - [Menu Glitch](<../Major Glitches/Anywhere Menu Glitch>) including AMG
 - [Fast Lane](<../Major Glitches/Fast Lane>)
-- All varieties of [Hotshot](<../Major Glitches/Hotshot>)
+- All varieties of [Hotshot](<../Major Glitches/Hotshot>), including [Coordinate Warps](<../Major Glitches/Coordinate Warps>)
+- All types of [Spawn Warps](<../Major Glitches/Spawn Warps>)
 - [Full Inventory Duping](</kotor1/Techniques/Item Duplication#full-inventory-duplication>)
 - [Door Clipping](<../Major Glitches/Door Clipping>)
 
@@ -64,9 +65,9 @@ These glitches and tricks are allowed:
 There are two character builds that are nearly identical in terms of average performance for the Any% NMG run: a Scoundrel build focused on Sneak Attack and a Scout build. Both builds use Two-Weapon Fighting and Flurry for their combat, and both become a Jedi Guardian at level 4.  Which build you pick is up to personal preference, but the general benefits of each are as follows:
 
 **Scoundrel:**
-- Better combat vs. major Taris targets, Uthar, and Leviathan Malak
+- Better combat vs. major Taris targets, Uthar, and both Malak fights
 - No Weapon Focus: Melee Weapons for Taris
-- Less Vitality (-6) but more Defense (+2 due to Scoundrel's Luck)
+- More Defense (+2 due to Scoundrel's Luck) and equal Vitality (with Stamina stim)
 - Less Treat Injury (TI) on Taris but more TI after Taris (+3)
 - Worse Fortitude and Will saves (-2)
 - Must swap combat feats to Flurry for all fights
@@ -76,7 +77,7 @@ There are two character builds that are nearly identical in terms of average per
 - Guaranteed Alacrity on Spire, saving 10-11 seconds due to better shopping route
 - Weapon Focus: Melee Weapons for Taris
 - Better Fortitude and Will saves (+2)
-- More Vitality (+6) but less Defense (-2)
+- Less Defense (-2) and equal Vitality (unless a random Stamina stim drops)
 - More TI on Taris (+5 with Empathy) but less TI after Taris (-2)
 - Flurry is the default combat feat
 - Can spam Flurry in all fights
@@ -148,11 +149,11 @@ We choose Flurry because it's an overall better combat feat for the run; more at
 | 4 | 19 | Improved Two-Weapon Fighting | Affect Mind, Stun Droid | Save All |
 | 5 | 19 | | Force Valor | Save All |
 | 6 | 19 | Improved Flurry | Burst of Speed | Per to 9, Rest in TI |
-| AL7 | *20* | | *Stun* | *Awareness to 1* |
+| AL7 | *20* | | *Stun* | *+1 to Awareness (Scoundrel) or TI (Scout)* |
 | 8 | 21 | | Disable Droid | Per to 10 |
 | 9 | 21 | Master Two-Weapon Fighting | Knight Speed | Per to 11 |
 | 10 | 21 | Master Flurry | Knight Valor | Per to 12 |
-| AL11 | *22* | | *Stasis* | *Awareness to 2* |
+| AL11 | *22* | | *Stasis* | *+1 to TI* |
 
 **Auto-Level Attributes:**
 - When Auto-Leveling the MC, the game only checks your Jedi class level when deciding whether to give an attribute point, rather than your overall character level.  That means you can use Auto-Leveling to gain extra points in STR at Jedi levels 4 and 8, which correspond to character levels 7 and 11.  This is why we Auto-Level at 7 and 11, making it to 22 base STR at level 11.
@@ -183,18 +184,10 @@ We choose Flurry because it's an overall better combat feat for the run; more at
 
 ### Experience Thresholds
 
-There are four important XP thresholds in this run:
-- 10000 XP: Reaching Level 5 before becoming a Jedi, so that Jedi grants you Level 6
+There are three important XP thresholds in this run:
 - 36000 XP: Reaching Level 9 before the fight with Uthar and Yuthura in the Tomb of Naga Sadow
 - 55000 XP: Reaching Level 11 before the fight with Bastila on Star Forge
 - 55250-55430 XP: Bastila and Jolee reaching Level 10 before Viewing Platform (see Party Experience below)
-
-**Level 5:**
-
-The minimum XP for the run leaves you up to 220 XP short of reaching Level 5 before becoming a Jedi.  This threshold is critical for the rest of the run, so you'll need to make sure to get enough extra XP before then.  Thankfully, this is usually trivial, and can be done in three possible ways:
-- If you do either of the [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) strats in the [Taris Sewers](#sewers), you'll automatically kill enough extra enemies to reach this threshold without issue.
-- If you plan to skip those strats, check how much XP you have when leveling to 3 (right before the Hendar rakghoul fight).  This can vary a bit based on how many Sith you killed on Endar Spire and if any Vulkars died to the insta-kill turrets while entering the Undercity.
-- If you have 3320 XP or more, you'll hit level 5 without issue.  If you have less than 3320 XP when leveling to 3, then the easiest way to make up the deficit is to kill a guard in the terminal room of Davik's Estate; these give 250 XP each, so just one almost always enough.
 
 **Level 9, Level 11, and Bastila and Jolee's Level 10:**
 
@@ -252,7 +245,7 @@ The new credit route always has exactly three shopping trips.  Our credits all c
 ### Shopping Trips
 
 **1. Larrim on Taris**
-- Sell: All except Medpacs, Computer Spikes, Concussion and possibly Frag Grenades, Stims
+- Sell: All except Medpacs, Computer Spikes, Concussion and Frag Grenades, Stims
 - Buy: 2x Concussion Grenades, 1x Battle Stimulant, 4x Minor Mines
 - Scouts Also Buy: 1x Frag Grenade
 - For possible tweaks to this shopping trip, see [Other Random Loot](#other-random-loot) below
@@ -288,15 +281,15 @@ You should only have to do one of these shopping trips unless you use extra Alac
 
 ### Other Random Loot
 
-There are a few other random drops possible on the Endar Spire that can affect your initial shopping trip with Larrim.  Most are centered around grenades; you need to leave Larrim with at least 2 Concussion Grenades (and 1 Frag Grenade if you're doing the [Lower Sewers GP Warp](#sewers)), but with random loot you could have up to 4 Concs and 3 Frags.  The more of each you get, the easier the fights with the Assault Droid (for Concussion Grenades) or the Rakghouls during [Lower Sewers GP Warp](#sewers) (for Frag Grenades) will be.
+There are a few other random drops possible on the Endar Spire that can affect your initial shopping trip with Larrim.  Most are centered around grenades; you need to leave Larrim with at least 2 Concussion Grenades and 1 Frag Grenade (for the Lower Sewers), but with random loot you could have up to 4 Concs and 3 Frags.  The more of each you get, the easier the fights with the Assault Droid (for Concussion Grenades) or the Lower Sewers Rakghouls (for Frag Grenades) will be.
 
 **1. 2x Concussion Grenade**
 - Chance: 0.83%
-- As a Scout, this doesn't affect your shopping with Larrim at all, just how you use your Concussion Grenades.  If you get this random drop as a Scoundrel and do *not* have 2 or more Frag Grenades at the start of the shopping trip, you should buy 1x Concussion Grenade and 1x Frag Grenade instead of 2x Concussion Grenade, and then do [Lower Sewers GP Warp](#sewers).  If you really don't want to do [Lower Sewers GP Warp](#sewers) or got this drop *and* a random Frag Grenade on Spire, you can either still buy 2x Concussion Grenade (giving you a whopping 5 Concs for Taris), or buy 1 Conc and the fifth stim from Zelka.
+- As a Scout, this doesn't affect your shopping with Larrim at all, just how you use your Concussion Grenades.  If you get this random drop as a Scoundrel and do *not* have 2 or more Frag Grenades at the start of the shopping trip, you should buy 1x Concussion Grenade and 1x Frag Grenade instead of 2x Concussion Grenade.  If you got this drop *and* a random Frag Grenade on Spire, you can either still buy 2x Concussion Grenade (giving you a whopping 5 Concs for Taris), or buy 1 Conc and the fifth stim from Zelka.
 
 **2. 1-2x Frag Grenade**
 - Chance: 10.7% of at least one
-- This only changes Larrim's shopping if you're a Scout, in which case you can skip buying the Frag Grenade that you would normally buy.  For a Scoundrel, getting an extra Frag Grenade makes [Lower Sewers GP Warp](#sewers) much more consistent; see the discussion under Concussion Grenades above as well.
+- This only changes Larrim's shopping if you're a Scout, in which case you can skip buying the Frag Grenade that you would normally buy.  For a Scoundrel, getting an extra Frag Grenade makes the Lower Sewers a bit more consistent; see the discussion under Concussion Grenades above as well.
 
 **3. 1x Battle Stimulant**
 - Chance: 0.83%
@@ -504,7 +497,7 @@ SHOPPING: Larrim
 - SELL ALL EXCEPT:
   - Medpacs
   - Computer Spikes
-  - Frag Grenades (keep if you want to do the Lower Sewers GP Warp)
+  - Frag Grenades
   - Concussion Grenades (if you have any)
   - Alacrity, Stamina, or Battle Stims (if you have any)
 - BUY:
@@ -512,7 +505,7 @@ SHOPPING: Larrim
   - Battle Stimulant
   - All 4 Minor Mines
 - SCOUTS (AND SCOUNDRELS WITH AT LEAST 1014 CREDITS TO SPEND) CAN ALSO BUY:
-  - 1x Frag Grenade (only if you want to do the Lower Sewers GP Warp)
+  - 1x Frag Grenade (to make Rakghouls in Lower Sewers more consistent)
 ```
 
 - Exit to Upper City South
@@ -584,43 +577,23 @@ SHOPPING: Larrim
 
 ### Sewers
 
-*The Sewers are one of the riskiest parts of Taris, as MC has to run past a lot of enemies with not a lot of Vitality.  Try to keep MC's health high while in the Sewers and use medpacs as needed.*
+*The Sewers are one of the riskiest parts of Taris, as MC has to run past a lot of enemies with not a lot of Vitality.  Try to keep MC's health high while in the Sewers and use as many medpacs as needed.*
 
-- ***Optional Strat: Lower Sewers [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)***
-  - *This strat saves about 4 seconds, if all goes well.  It is a high variance strat mostly due to rakghoul combat, but you also have to [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) while MC is in combat.*
-  - *If you have at least two Frag Grenades, this strat is recommended as the rakghoul fight is much more consistent.  Scouts will always have two Frag Grenades here.*
-  - *This strat is not recommended if you sold your Frag Grenade(s) to Larrim.*
-  - *To perform this strat:*
-    - Open first door, then door on right
-    - Activate Solo Mode
-    - Throw all remaining frag grenades at the rakghouls
-      - You should always have at least one if you didn't sell it
-      - If you have more than one, use different party members to throw one each
-    - As MC, run up the path past the Gamorrean and open first door on right
-      - While this happens, Carth and Mission should finish off the rakghouls
-      - We need them out of the way for the upcoming [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)
-    - Swap to Carth and open door on left (before the force field)
-    - Swap to MC and rescue Zaalbar
-    - *Party: Add Carth, Keep Mission when prompted*
-    - Run MC slightly into Zaalbar's cell for protection from the Gamorreans and use a medpac
-      - The Gamorreans can hit hard, so you should always medpac unless you're already at full health
-    - Swap to Carth and use the console to have Mission lower the force field
-    - Swap to Mission and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to teleport MC
-  - *If you choose not to use the above strat:*
-    - Activate Solo Mode
-    - As MC, queue a Recover action on the mine ahead
-    - Swap to Mission and place her right next to the ladder
-    - Swap back to MC and interrupt the Recover action to open the door
-    - Run to Zaalbar's cell and free him
-    - *Party: Keep Mission when prompted*
-    - Immediately swap to Mission and leave by ladder
-    - Swap to MC and re-enter sewers
-    - Interact with console to have Mission lower the force field
+- Open first door, then throw all frag grenades you have to kill the rakghouls
+  - Throw one each as different party members if you have multiples
+  - You should always have at least one
+- Activate Solo Mode and swap to Carth
+- As Carth, go through the right door, run up the path past the Gamorrean and click the first door on right
+  - While this happens, MC and Mission should finish off any straggling rakghouls
+- Swap to MC and click door on left (before the force field)
+- Swap to Carth and rescue Zaalbar
+  - *Party: Keep Mission when prompted; DO NOT ADD CARTH*
+- As MC, activate nearby terminal to have Mission hack the force field
 - Enter Upper Sewers
 - ***Optional Strat: Upper Sewers [GP Warp](<../Techniques/GP Warp#buffered-gp-warps>)***
   - *This strat allows you to bring Carth to the Vulkar Base, but only saves at most 2 seconds.  It basically comes down to personal preference whether you'd rather do [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) or the alternate strat, Rancor Juke.*
   - *To perform this strat:*
-    - *Party: Make sure Carth is in and Mission is out*
+    - *Party: Remove Mission and add Carth*
     - Activate Solo Mode
     - As Carth, open the door behind you to Lower Sewers
     - As MC, run through sewers until just past the Minor Gas Mine and just before the Malfunctioning Droid
@@ -631,7 +604,7 @@ SHOPPING: Larrim
     - Swap to MC and [Buffer GP Warp](<../Techniques/GP Warp#buffered-gp-warps>) to teleport Carth to end of sewers
     - ***Optional:*** If you're low on health and/or medpacs, you can Return to Hideout and Transit Back to heal here
   - *If you choose not to use the above strat:*
-    - *Party: Remove Mission and Carth*
+    - *Party: Remove Mission*
     - Run through left tunnel, then take right tunnel
       - Use medpacs via hotkey as you open doors to keep your health high
     - Juke past the rancor and enter the Vulkar Base
@@ -1521,6 +1494,11 @@ SHOPPING: Czerka Shop
     - This last part is RNG heavy, as you only have a 40% chance to hit Malak
 
 ## Version History
+
+**v5.7 (October 2024)**
+- Add new Lower Sewers strat that is faster and easier than the old GP Warp strat
+- Removed info about the level 5 XP threshold since the above strat ensures you will always hit it
+- Updated info about Larrim's shopping trip and Spire loot to reflect that frags aren't as important
 
 **v5.6 (October 2024)**
 - Updated Zelka's shopping trip to make the Stamina purchase the preferred one
