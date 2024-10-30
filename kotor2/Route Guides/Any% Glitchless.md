@@ -6,6 +6,7 @@ redirect_from:
 # Star Wars: Knights of the Old Republic II - The Sith Lords - Any% Glitchless Guide
 
 ## v2.1.5: Female Jedi Guardian Route (Light Side)
+Original Route created by Sanjan, updated by Ninko.
 
 *I want to credit 30cents for his initial route for KOTOR 2 Glitchless.  This would not have been done without his initial work on the route!  I also want to credit ChaosDrifter for helping me with much of the calculations and theory crafting into the category improvements.*
 
