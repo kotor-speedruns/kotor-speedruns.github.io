@@ -272,7 +272,7 @@ The guaranteed items we sell are as follows:
 7. Lightsaber (or double-sided lightsaber).  Sells for ~680 and is used to help bribe Kaalah-Nah.
 
 ## Alignment Route
-Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher numbers are Light, lower numbers are dark.  Shifts in alignment are determined by a matrix; every alignment-shifting action is classified as Light or Dark, and then assigned a level (either Low, Mid, or High).  The player character (Exile) can either be aligned as Very Dark, Dark, Neutral, Light, or Very Light.  The more opposed your alignment and the action's classification, the more drastic your shift in alignment; for example, a Light-aligned character performing a High Dark action will have a large shift, while a Dark character performing a High Dark action will have a smaller shift.
+Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher numbers are Light, lower numbers are dark.  Shifts in alignment are determined by a matrix; every alignment-shifting action is classified as Light or Dark, and then assigned a level (either Low, Mid, or High).  The player character (Exile/MC) can either be aligned as Very Dark, Dark, Neutral, Light, or Very Light.  The more opposed your alignment and the action's classification, the more drastic your shift in alignment; for example, a Light-aligned character performing a High Dark action will have a large shift, while a Dark character performing a High Dark action will have a smaller shift.<br>
 Here is the alignment route used in the run:
 
 | Aligned | Action | Type | LS/DS | Delta | New | Total Shifts | 
@@ -283,10 +283,10 @@ Here is the alignment route used in the run:
 | Neutral | Talk with Atton, post T3-M4 solo | Low Light | 1/0 | 1 | 53 | 3 | 
 | Neutral | Not shooting the Asteroids during escape | Low Light | 2/0 | 2 | 55 | 5 |
 | Neutral | Talk with Kreia on Ebon Hawk | Mid Light | 4/0 | 4 | 59 | 9 | 
-| Light | Talking to Atton before Telos | Low Light | 1/0 | 1 | 60 | 10 | 
+| Neutral | Talking to Atton before Telos | Low Light | 1/0 | 1 | 60 | 10 | 
 | Light | Help free the Sullustan from Mercenaries | Mid Light | 3/0 | 3 | 63 | 13 | 
 | Neutral | Bully Opo Chano for Droid Credentials | Mid Dark | 0/4 | -4 | 59 | 17 | 
-| Light | First Encounter with Handmaiden | Low Light | 1/0 | 1 | 60 | 18 | 
+| Neutral | First Encounter with Handmaiden | Low Light | 1/0 | 1 | 60 | 18 | 
 | Light | Reassuring Bao-Dur (somewhat) | Low Light | 1/0 | 1 | 61 | 19 | 
 | Light | Reassure T3-M4 | Low Light | 1/0 | 1 | 62 | 20 | 
 | Light | Save Master Vrook | Low Light | 2/0 | 2 | 64 | 22 | 
@@ -305,8 +305,8 @@ Alignment is not as important in this game, as we don’t use any equipment rest
 
 Other than obtaining Mira, most of our decisions are done with the intention of getting the fastest result, while gaining as many alignment shifts as possible so that we can spawn Visas.  
 
-Getting Visas to spawn requires either 25/75 alignment (high dark/light, respectively), or 50 total alignment shifts.  We go for the 50 total alignment point shifts, since it is much easier to attain while taking the most efficient path.  After attaining Visas, our alignment doesn't matter anymore.
-We reach 51 total shifts before Visas, we can make it exactly 50 shifts, but there is a big risk of making a mistake and therefore not being able to trigger Visas. This route is super tight as it is, even 1 mistake could ruin a good run!
+Getting Visas to spawn requires either 25/75 alignment (high dark/light, respectively), or 50 total alignment points, whether LS or DS.  We go for the 50 total alignment points in this run, since it is much easier to attain while taking the most efficient path.  After attaining Visas, our alignment doesn't matter anymore.
+We reach 51 total points before Visas, we can make it exactly 50, but there is a big risk of making a mistake and therefore not being able to trigger Visas. This route is super tight as it is, even 1 mistake could ruin a good run!
 
 ## Route Overview
 
@@ -321,20 +321,22 @@ The reasoning for the middle planets:
 
 ## Detailed Route
 
-This section will describe all the actions you'll need to take for the Glitchless Any% run.
-
-Notation:
-- `>` indicates a level up to be done
-- `}` indicates an inventory/equipment action to be done
-- MC indicates the Main Character (aka you/The Exile)
-
-Conversation Notes: 
-If no conversation choices are specified, spamming will work (this chooses all 1 options).
-\| indicates a break in the conversation.  You will have to talk to the person again.
-`->` indicates a secondary part to the conversation.  This is different from -> in that the conversation automatically initiates, rather than having to talk to the same person.
-`#xY` indicates repeat that option Y times, as in HK-50's first conversation.
-`#x-` indicates the rest of this conversation uses that particular number, generally used to indicate conversation spam not using 1 (e.g Saedie's conversation: 2x-)
-
+This section will describe all the actions you'll need to take for the Glitchless Any% run.<br>
+<br>
+Notation:<br>
+- `>` indicates a level up to be done<br>
+- `}` indicates an inventory/equipment action to be done<br>
+- `=` indicates a party change<br>
+- `^` indicates to the player to switch weapons<br>
+- MC is the Main Character (aka you/The Exile)<br>
+<br>
+Conversation Notes: <br>
+If no conversation choices are specified, spamming will work (this chooses all 1 options).<br>
+\| indicates a break in the conversation.  You will have to talk to the npc again.<br>
+`->` indicates a secondary part to the conversation.  This is different from -> in that the conversation automatically initiates, rather than having to talk to the same person.<br>
+`#xY` indicates repeat that option Y times, as in our dialog with Kreia during Ebon Hawk to Telos.<br>
+`#x-` indicates the rest of this conversation uses that particular number, generally used to indicate conversation spam not using 1 (e.g Saedie's conversation: 2x-)<br>
+<br>
 **Jump to a Section:**
 - [Prologue](#prologue)
 - [Peragus](#peragus)
@@ -380,7 +382,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Mouse spam through the kolto cutscene (parts of it are skippable)
 - Go to the console in the medical room: 4,3,6
 - Run into the room and loot the corpse
-- Kreia wakes up: spam 1 
+- Kreia wakes up: spam 1 (+1 Alignment Point)
 - `}` Equip Plasma Torch
 - Proceed through the area, looting corpses (not the droids) as you go
 - Break the locker (skip the corpse here) for an Ion Grenade
@@ -388,7 +390,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Head to the administration console, 1 spam
 	`>` Level to 2: Recommended, Two-Handed Fighting, Force Speed
   - *Remember now that you have Force Speed, keep it active as much as possible*
-- Run to the prison to free Atton: 1 spam through everything (to avoid Carth cutscene)
+- Run to the prison to free Atton: 1 spam through everything (to avoid Carth cutscene) (+1 Alignment Point)
 - Head back to the administration console: 2,2,2 -> 2,2,2,2
 
 ### Fuel Depot - T3 Section
@@ -397,7 +399,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 T3 gets zapped and control transitions to MC
 
 ### Mining Tunnels
-- Atton talks to you again: 1 spam
+- Atton talks to you again: 1 spam (+1 Alignment Point)
 - Run to the mining tunnels (the room right before the room with the locker).  
 - When Atton talks to you: 4 (to skip any further conversations until the end)
 - Loot the plasteel container near you for a Mining Outfit as well as many other items.
@@ -436,7 +438,7 @@ T3 gets zapped and control transitions to MC
 - Equip the Mining outfit and an energy shield.  Turn on the energy shield and run through all 3 of the mines around the ground floor (the mines are located inside the vents).  
 - If you get a level, hold off on it until you need healing.  After leveling, heal with medpacks as needed.
 - 1 spam the console, and make your way inside.  
-- Inside, run to the console and input: 1x5 2.  Then run through the newly opened door, take the first door. 
+- Inside, run to the console and input: 1x5,2.  Then run through the newly opened door, take the first door. 
 - You’ll be going through 6 mines that deal either 15 or 7 damage, so make sure to heal up and level as needed.
 	`>` Level to 3: Recommended, Weapon Focus: Lightsaber, Affect Mind
 - Console: 3
@@ -446,8 +448,8 @@ T3 gets zapped and control transitions to MC
 ### Ebon Hawk to Telos
 - Immediate dialog cutscene after the load screen: 6,2 -> 4,3,3 (+2 Alignment Shift)
 - Cast Burst of speed, turn around and run through to the right to where Kreia resides on the Ebon Hawk.
-- Speak to Kreia: 2x7,1,5,1 (+4 Alignment Shift)
-- Now run back to the Cockpit and speak to Atton: 1x- (+1 Alignment Shift)
+- Speak to Kreia: 2x7,1,5,1 (+4 Alignment Points)
+- Now run back to the Cockpit and speak to Atton: 1x- (+1 Alignment Shift, Alignment points so far = 10)
 - Use the Galaxy Map and select Telos. (1 left)
 
 ## Telos
@@ -466,7 +468,7 @@ You'll get called twice.  Press 2,1 to skip the call and rest.
 - Chodo: 1x-
 - Swap to Kreia and access the Information Terminal: 2,1
 - Open the first door you see and park Kreia near Samhan.  
-- Turn on solo mode and proceed to the thugs: 1,1,2,1
+- Turn on solo mode and proceed to the thugs: 1,1,2,1 (+3 Alignment Points)
 - Run away from them, and head back to the holding cell
   - *Don't forget to access the terminal near the cantina!!!*
 - Information Terminal: 3
@@ -517,9 +519,10 @@ Afterwards, swap to MC:
 - Go inside the Cantina, turn on solo mode and swap to MC to talk to the czerka guy.
   - *Stay on the right side of the group of people to avoid a cutscene.*
 - Leave with Kreia and transition back to the Czerka area: 2,2
-- Solo Mode, swap to MC and run to the apartments at the end of the area.  
-- Open the middle door and threaten Opo: 1,2x-
-- Enter Czerka, speak to B4-D4: 2,1,1
+- Solo Mode, swap to MC and run to the apartments at the end of the area.
+  - *For this next dialog with Opo Chano, do not speak to him as Kreia as we won't get the alignment points.*
+- Open the middle door and threaten Opo: 1,2x- (-4 Alignment Points, Alignment Points so far = 17)
+- Enter Czerka, speak to B4-D4: 2,1,1 
 - 1x- until we gain control of B4-D4.
 - Head to Czerka with the Information Terminal: 2,3
 - Enter Czerka and speak to Jana Lorso: 1x-
@@ -581,11 +584,11 @@ Afterwards, swap to MC:
 - HK-50s accost you: 4 (spam it to cast Force Speed as well), and run away to the hidden door.
 - Handmaiden talks to you: 2 
   - *Note: On legacy client you need to do 1 3 since the option above softlocks you.*
-- Atris talks to you: 5,1,6,4
-- Then, head to the prison room: 1,7,1 -> 1x-
+- Atris talks to you: 5,1,6,4 (+1 Alignment Point)
+- Then, head to the prison room: 1,7,1 -> 1x- (+1 Alignment Point)
 - When prompted with the party selection screen, take no one.
 
-- Head towards the Ebon Hawk, T3 accosts you: 1x- -> 1
+- Head towards the Ebon Hawk, T3 accosts you: 1x- -> 1 (+1 Alignment Point)
 - `}` Equip Vibroswords and Plasma Torch to MC.
 - Cast Burst of Speed, enter the Ebon Hawk: 1
 
@@ -643,7 +646,7 @@ Buy:
 - After the initial cutscene, turn on Solo Mode and leave Kreia at the door.
 - Loot the rubble near the crossroads in front of you for the Atmospheric Sensors.  
 - Stim and buff up, then take the left path and the first left to fight the mercenaries and free Vrook (1 spam)
-- After killing the mercenaries and talking to Vrook (1 spam again), exit with Kreia.
+- After killing the mercenaries and talking to Vrook (1 spam again), exit with Kreia. (+2 Alignment Points)
 
 - Azkul talks to you: 1,2,1,4
 - Go back to Saedhe and turn in the quest for 3000 credits (1 spam)
@@ -651,7 +654,7 @@ Buy:
 - Talk to Zherron: 4,1
 - While outside: 1,3 (this skips the large first battle, DO NOT mess this up)
 - Azkul talks to you (again): 5,3, to get 1k credits and skip the battle
-- Vrook: 9 (teaches you Ataru force form)
+- Vrook: 9 (teaches you Ataru force form) (-8 Alignment Points, Alignment Points so far = 30)
 - Afterwards, exit to the Ebon Hawk and fly to Onderon.
 
 ## Dxun
@@ -715,8 +718,8 @@ Buy:
 - Switch to Kreia and enter the cantina again.
 - Use MC to talk to Kiph, Nikko, Riiken, and Dhagon: all 1 spam
 - Enter the Cantina and turn on solo mode.  Stim/Buff up w/ MC and talk to Bakkel to kill her, then loot her.
-- Meanwhile, Run Kreia over to Sakarie at the northern part and talk to her: 1,3,2 for 5k credits
-- Exit with Mandalore, and run MC over to Dhagon again: 1 spam through everything.
+- Meanwhile, Run Kreia over to Sakarie at the northern part and talk to her: 1,3,2 for 5k credits (Because we are Kreia we don't get the -4 Alignment Points for this)
+- Exit with Mandalore, and run MC over to Dhagon again: 1 spam through everything. (+2 Alignment Points)
 - Exit the Cantina and make your way back to the docks to exit (turn on solo mode through each area and run MC through there)
 - Random guard accosts you on the way to the docks: 4
 
@@ -741,18 +744,18 @@ Buy:
 
   - *This planet requires you to be precise with convos, especially when spawning the Exchange cutscene.  If the conversation with Sasquesh is done wrong, you will never get the cutscene and your run ends there.*
 
-- Party Convos: 5 -> 5,6  -> 7,7
+- Party Convos: 5 -> 5,6  -> 7,7 (-1 Alignment Point, Alignment Points so far = 33)
 - Take Kreia with you, and turn on Solo Mode
-- Bullies accost you: 4,2
-- Begging Refugee: 1,4
+- Bullies accost you: 4,2 (+2 Alignment Points)
+- Begging Refugee: 1,4 (+2 Alignment Points)
 
 - In the main area, take a right and head through the doors to the Refugee Sector.
-- 1 spam Ebon Hawk former owner
+- 1 spam Ebon Hawk former owner (+2 Alignment Points)
 
 - Turn on solo mode again, and run with MC
 - Exchange Thugs accost you: 4,2
 
-- In the main square, when you enter, talk to Geriel to get 4 DSP from him: 2
+- In the main square, when you enter, talk to Geriel: 2 (-4 Alignment Points, Alignment Points so far = 43)
 
 - Take the right side, then talk to Nadda (1 spam)
 - Head to the other side inside, take the right path and follow all doors to the right until you see Saquesh.  
@@ -790,8 +793,9 @@ All other items as needed to get 2000 credits EXCEPT:
 ```
 
 - Ending Credits: 2k (required for talking to Kaalah-Nah, DO NOT talk to Kaalah-Nah without 2k credits)
+(+2 Alignment Points)
 
-- Trigger the cutscene with MC next to Geeda: 5,1,1
+- Trigger the cutscene with MC next to Geeda: 5,1,1 (-6 Alignment Points, 51 Alignment Points reached)
 - Head inside the Cantina, activate solo mode and cast Knight Speed.
 - Talk to Kaalah-Nah twice: 4 \| 1,1
 
