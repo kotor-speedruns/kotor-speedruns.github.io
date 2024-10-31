@@ -3,9 +3,7 @@ redirect_from:
   - /kotor2/Route Guides/Any Glitchless
 ---
 
-# Star Wars: Knights of the Old Republic II - The Sith Lords - Any% Glitchless Guide
-
-## v2.1.5: Female Jedi Guardian Route (Light Side)
+## v3.0: Female Jedi Guardian Route (Light Side)
 Route created by [Sanjan](https://www.speedrun.com/user/Sanjan), updated by [Ninko](https://www.speedrun.com/users/NinkoHD). <br>
 <br>
 *I want to credit [30cents](https://www.speedrun.com/user/30Cents) for his initial route for KOTOR 2 Glitchless.  This would not have been done without his initial work on the route!  I also want to credit [ChaosDrifter](https://www.speedrun.com/users/ChaosDrifting) for helping me with much of the calculations and theory crafting into the category improvements.*
@@ -203,16 +201,16 @@ We do anywhere from 6-8 shopping trips during the run; the credit route branches
 	- 2x Vibroblades (+208 credits)
 	- Droid Self-Sustaining Parts (+3300 credits)
 	This will bring our credit total somewhere between 4000 and 4300 credits.
-	*We are allocating 1550 credits for the bare essentials, although we will usually spend a bit less than that here.*
+	*We are allocating 1900 credits for the bare essentials, although we will usually spend a bit less than that here.*
 	Next is to buy some essential items that will get us to Dantooine, credits are scarce with the tightness of this route so only buy what you need. We are only buying enough items here to end at the total amount given below:
-	(e.g. If you have 2 Strength stims and you need 4, only buy 2. This is true for all but the Ion Grenades which we will only buy the 2 of.)
+	(e.g. If you have 2 Strength stims and you need 7, only buy 5. This is true for non-Hyper Stims and Medpacs.)
 	- 2x Ion Grenades (-260 credits)
 	- 3x Frag Grenades (-240 credits)
 	- 1x Hyper Alacrity (-100 credits)
 	- 2x Hyper Stamina (-200 credits)
-	- 10x Alacrity (-500 credits)
-	- 7x Stamina (-250 credits)
-	- 6x Strength (-200 credits) <br>
+	- 11x Alacrity (-550 credits)
+	- 8x Stamina (-300 credits)
+	- 7x Strength (-250 credits) <br>
 	This will leave us at a credit total between 2250 and 2750. <br>
 
 2. **Dendis Dobo**; Telos Station <br>
@@ -273,41 +271,31 @@ The guaranteed items we sell are as follows:
 7. Lightsaber (or double-sided lightsaber).  Sells for ~680 and is used to help bribe Kaalah-Nah.
 
 ## Alignment Route
-Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher numbers are Light, lower numbers are dark.  Shifts in alignment are determined by a matrix; every alignment-shifting action is classified as Light or Dark, and then assigned a level (either Low, Mid, or High).  The player character (Exile/MC) can either be aligned as Very Dark, Dark, Neutral, Light, or Very Light.  The more opposed your alignment and the action's classification, the more drastic your shift in alignment; for example, a Light-aligned character performing a High Dark action will have a large shift, while a Dark character performing a High Dark action will have a smaller shift.<br>
+Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher numbers are Light, lower numbers are dark.  Shifts in alignment are determined by a matrix; every alignment-shifting action is classified as Light or Dark, and then assigned a level (either Low, Mid, or High).  The player character (Exile/MC) can either be aligned as Very Dark, Dark, Neutral, Light, or Very Light.  The more opposed your alignment and the action's classification, the more drastic your shift in alignment; for example, a Light-aligned character performing a High Dark action will have a large shift, while a Dark character performing a High Dark action will have a smaller shift. Most of the alignment shifts we get in the run are hardcoded, meaning that we would get those points regardless of our alignment.<br>
 Here is the alignment route used in the run:
 
-| Aligned | Action | Type | LS/DS | Delta | New | Total Shifts | 
+| Aligned | Action | Type | LS/DS | Delta | New |
 | --- | :--- | :--- | :--- | :--- | :--- | :--- | 
 | Neutral | Game Start | -- | -- | -- | 50 | 0 | 
-| Neutral | Initial talk with Kreia | Low Light | 1/0 | 1 | 51 | 1 | 
-| Neutral | Agree to let Atton out of Force Cage | Low Light | 1/0 | 1 | 52 | 2 | 
-| Neutral | Talk with Atton, post T3-M4 solo | Low Light | 1/0 | 1 | 53 | 3 | 
-| Neutral | Not shooting the Asteroids during escape | Low Light | 2/0 | 2 | 55 | 5 |
-| Neutral | Talk with Kreia on Ebon Hawk | Mid Light | 4/0 | 4 | 59 | 9 | 
-| Neutral | Talking to Atton before Telos | Low Light | 1/0 | 1 | 60 | 10 | 
-| Light | Help free the Sullustan from Mercenaries | Mid Light | 3/0 | 3 | 63 | 13 | 
-| Neutral | Bully Opo Chano for Droid Credentials | Mid Dark | 0/4 | -4 | 59 | 17 | 
-| Neutral | First Encounter with Handmaiden | Low Light | 1/0 | 1 | 60 | 18 | 
-| Light | Reassuring Bao-Dur (somewhat) | Low Light | 1/0 | 1 | 61 | 19 | 
-| Light | Reassure T3-M4 | Low Light | 1/0 | 1 | 62 | 20 | 
-| Light | Save Master Vrook | Low Light | 2/0 | 2 | 64 | 22 | 
-| Neutral | Dantooine (DS) Ending | High Dark | 0/8 | -8 | 56 | 30 | 
-| Neutral | Don't hit people in Cantina | Low Light | 2/0 | 2 | 58 | 32 | 
-| Neutral | Threaten Quello | Low Dark | 0/1 | -1 | 57 | 33 | 
-| Neutral | Intervene to save a Refugee | Low Light | 2/0 | 2 | 59 | 35 | 
-| Light | Give beggar credits | Low Light | 2/0 | 2 | 61 | 37 | 
-| Light | Reassure Ebon Hawk Former Owner | Low Light | 2/0 | 2 | 63 | 39 | 
-| Neutral | Persuade Geriel to kill himself | Mid Dark | 0/4 | -4 | 59 | 43 |
-| Light | Help out Geeda with Trade Routes | Mid Light | 2/0 | 2 | 61 | 45 |
-| Neutral | Talk to Thugs | High Dark | 0/6 | -6 | 55 | 51 | 
+| Neutral | Initial talk with Kreia | Hardcoded | 1/0 | 1 | 51 |
+| Neutral | Agree to let Atton out of Force Cage | Hardcoded | 1/0 | 1 | 52 |
+| Neutral | Talk with Atton, post T3-M4 solo | Hardcoded | 1/0 | 1 | 53 |
+| Neutral | Tell HK-50 you want to save the miners | Low Light | 2/0 | 2 | 55 | 
+| Neutral | Not shooting the Asteroids during escape | Hardcoded | 2/0 | 2 | 57 |
+| Light | Talk with Kreia on Ebon Hawk | Hardcoded | 8/0 | 8 | 65 |
+| Light | Talking to Atton before Telos | Hardcoded | 1/0 | 1 | 66 |
+| Light | Help free the Sullustan from Mercenaries | Hardcoded | 3/0 | 3 | 69 |
+| Light | Refuse Chodo Habat's reward | Hardcoded | 3/0 | 3 | 72 |
+| Light | First Encounter with Handmaiden | Hardcoded | 1/0 | 1 | 73 |
+| Light | Show concern for Bao-Dur | Hardcoded | 1/0 | 1 | 74 | 
+| Light | Show concern for T3-M4 | Hardcoded | 1/0 | 1 | 75 | 
 
 
-Alignment is not as important in this game, as we don’t use any equipment restricted by alignment. We do, however, stay on Light Side/Neutral in order to obtain Mira at Nar Shaddaa, as she is used for Goto’s ship segment to pass by the many deadly mines quickly without blowing them up, and to obtain deadly mines for Hanharr 2 later on at Malachor V.  
+Alignment is important in this run, as we need to reach 75 to trigger Visas. We also stay on Light Side/Neutral in order to obtain Mira at Nar Shaddaa, as she is used for Goto’s ship segment to pass by the many deadly mines quickly without blowing them up, and to obtain deadly mines for Hanharr 2 later on at Malachor V.  
 
-Other than obtaining Mira, most of our decisions are done with the intention of getting the fastest result, while gaining as many alignment shifts as possible so that we can spawn Visas.  
+Other than obtaining Mira, most of our decisions are done with the intention of getting the fastest result, while getting early game LS points to trigger Visas
 
-Getting Visas to spawn requires either 25/75 alignment (high dark/light, respectively), or 50 total alignment points, whether LS or DS.  We go for the 50 total alignment points in this run, since it is much easier to attain while taking the most efficient path.  After attaining Visas, our alignment doesn't matter anymore.
-We reach 51 total points before Visas, we can make it exactly 50, but there is a big risk of making a mistake and therefore not being able to trigger Visas. This route is super tight as it is, even 1 mistake could ruin a good run!
+Getting Visas to spawn requires either 25/75 alignment (dark/light, respectively), or 50 total alignment points, whether LS or DS.  We go for the 75(Light) Alignment Points, since this is the fastest and most effective way for us to trigger Visas.  After attaining Visas, our alignment doesn't matter anymore.
 
 ## Route Overview
 
@@ -383,7 +371,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Mouse spam through the kolto cutscene (parts of it are skippable)
 - Go to the console in the medical room: 4,3,6
 - Run into the room and loot the corpse
-- Kreia wakes up: spam 1 (+1 Alignment Point)
+- Kreia wakes up: spam 1 (+1 LS Point)
 - `}` Equip Plasma Torch
 - Proceed through the area, looting corpses (not the droids) as you go
 - Break the locker (skip the corpse here) for an Ion Grenade
@@ -391,7 +379,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Head to the administration console, 1 spam
 	`>` Level to 2: Recommended, Two-Handed Fighting, Force Speed
   - *Remember now that you have Force Speed, keep it active as much as possible*
-- Run to the prison to free Atton: 1 spam through everything (to avoid Carth cutscene) (+1 Alignment Point)
+- Run to the prison to free Atton: 1 spam through everything (to avoid Carth cutscene) (+1 LS Point)
 - Head back to the administration console: 2,2,2 -> 2,2,2,2
 
 ### Fuel Depot - T3 Section
@@ -400,7 +388,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 T3 gets zapped and control transitions to MC
 
 ### Mining Tunnels
-- Atton talks to you again: 1 spam (+1 Alignment Point)
+- Atton talks to you again: 1 spam (+1 LS Point)
 - Run to the mining tunnels (the room right before the room with the locker).  
 - When Atton talks to you: 4 (to skip any further conversations until the end)
 - Loot the plasteel container near you for a Mining Outfit as well as many other items.
@@ -408,7 +396,7 @@ T3 gets zapped and control transitions to MC
 - Continue on through the mining tunnels.  Loot all corpses on the way, and only the first droid you see for a Sonic Grenade.
 - You'll want to watch for an alacrity when looting corpses.  If you get an alacrity here, use it once your Force Speed runs off.
 - At the fuel depot, talk to the console: 2,1,2, then take the path to the right and make your way through to the next section (Loot the last corpse on your way).
-- HK-50: 7
+- HK-50: 5,1x9,2,2 (+2 LS Points)
 - Loot the maintenance officer for some more items.
 - Run through and break the console (you do not need to actually hit this): 6
 - Loot the footlocker for a Space Suit, and try to have Force Speed (or Alacrity) up when entering space.
@@ -447,10 +435,11 @@ T3 gets zapped and control transitions to MC
 - Afterwards, spam 1 for the cutscene with Kreia
 
 ### Ebon Hawk to Telos
-- Immediate dialog cutscene after the load screen: 6,2 -> 4,3,3 (+2 Alignment Shift)
+- Immediate dialog cutscene after the load screen: 6,2 -> 4,3,3 (+2 LS Points)
 - Cast Burst of speed, turn around and run through to the right to where Kreia resides on the Ebon Hawk.
-- Speak to Kreia: 2x7,1,5,1 (+4 Alignment Points)
-- Now run back to the Cockpit and speak to Atton: 1x- (+1 Alignment Shift, Alignment points so far = 10)
+- Speak to Kreia: 2x7,1,3,1x10,4,3,2,1x6,2,1 (+8 LS Points)
+- Now run back to the Cockpit and speak to Atton: 1x- (+1 LS Point)
+  - *Finishing Peragus with an alignment of 66!*
 - Use the Galaxy Map and select Telos. (1 left)
 
 ## Telos
@@ -462,14 +451,14 @@ T3 gets zapped and control transitions to MC
 - 1 spam through the next dialog, then spam 2 (Get out + I don't want to talk about this).
 You'll get called twice.  Press 2,1 to skip the call and rest.
 - Once the officers come back in, spam 4 to end the conversation with Kreia/Atton (this should cast Force Speed as well).
-- 1 spam through the Ithorian that talks to you outside the apartment.
+- Moza accosts you outside of the apartments: 2,2,3,3,3
 - Interact with the Information Terminal: 3
 - Head to 082 West to the Ithorian Compound.
 - At the Ithorian Compound, leave Kreia at the nearby terminal, turn on solo mode and as MC go in and speak to Chodo.
 - Chodo: 1x-
 - Swap to Kreia and access the Information Terminal: 2,1
 - Open the first door you see and park Kreia near Samhan.  
-- Turn on solo mode and proceed to the thugs: 1,1,2,1 (+3 Alignment Points)
+- Turn on solo mode and proceed to the thugs: 1,1,2,1 (+3 LS Points)
 - Run away from them, and head back to the holding cell
   - *Don't forget to access the terminal near the cantina!!!*
 - Information Terminal: 3
@@ -486,9 +475,9 @@ Buy:
 - 3x Frag Grenades
 - 1x Hyper Alacrity
 - 2x Hyper Stamina
-- 10x Alacrity
-- 7x Stamina
-- 6x Strength
+- 11x Alacrity
+- 8x Stamina
+- 7x Strength
 ```
 
 - Run to Dendis and buy enough medpacs to have 30-35 total.
@@ -516,13 +505,15 @@ Afterwards, swap to MC:
 - Afterwards, swap weapons (default key: H) to open the door (swap back to swords after) and talk to the gamorrean.  Kill the two droids.
 - 1 spam through the next cutscene and kill Luxa and bodyguards.  After the convo (1 spam) loot Luxa and Benok's corpses for an Exchange Negotiator + Benok’s Blaster.
 
-- Leave the area and run back to the Ithorian Compound.  Turn on solo mode and leave Kreia at the console, and head inside with the MC to talk to Chodo (1 spam).  Afterwards, swap to Kreia and transport to the Cantina (2 2)
+- Leave the area and run back to the Ithorian Compound.  Turn on solo mode and leave Kreia at the console, and head inside with the MC to talk to Chodo: 1,2,1x- (+3 LS Points)
+  - *This dialog with Chodo refuses his reward for getting rid of the Exchange.*
+- Afterwards, swap to Kreia and transport to the Cantina (2 2)
 - Go inside the Cantina, turn on solo mode and swap to MC to talk to the czerka guy.
   - *Stay on the right side of the group of people to avoid a cutscene.*
 - Leave with Kreia and transition back to the Czerka area: 2,2
 - Solo Mode, swap to MC and run to the apartments at the end of the area.
-  - *For this next dialog with Opo Chano, do not speak to him as Kreia as we won't get the alignment points.*
-- Open the middle door and threaten Opo: 1,2x- (-4 Alignment Points, Alignment Points so far = 17)
+  - *For this next dialog with Opo Chano we open the door as MC but quickly swap to Kreia before the dialog starts, this gives the 4 DS Points to Kreia instead of MC for some reason, keeping us at an alignment of 72.*
+- Open the middle door and threaten Opo: 1,2x-
 - Enter Czerka, speak to B4-D4: 2,1,1 
 - 1x- until we gain control of B4-D4.
 - Head to Czerka with the Information Terminal: 2,3
@@ -602,10 +593,12 @@ Afterwards, swap to MC:
 - Cast Burst of Speed, run to the cockpit and fly to Korriban
 
 - Kreia talks to you: 3,2
-- Exit the Ebon Hawk, take Atton and Bao-Dur with you. 
-- Turn on solo mode, and make your way to the Academy.  
+- Exit the Ebon Hawk
+- = Take Atton with you 
+- + Cast Burst of Speed and make your way to the Sith Academy.
 - Avoid the charred corpses on the way, since a cutscene with Kreia will activate.
-- After the initial cutscene in the Academy, turn on Force Speed again.  
+- After the initial cutscene in the Academy, + cast Burst of Speed, leaving atton at the Academy entrance.
+Follow the route below on the map, plus the instructions.
 
 ![Sith Academy Route Map](/assets/images/Sith%20Academy%20Map%20Final.png)
 
@@ -614,16 +607,34 @@ Afterwards, swap to MC:
 	- *You may get trapped by various monsters, bop them a few times and keep trying to move so they will get out of your way.*
 3. Head to the console at #2: 1,2,3,1,4,4,4,2,1,2,2
 4. Now run to the Training Room at #5 and activate the console twice: 1 \| 1,3x-
-5. Run to the other end at #6, press 1 and loot Vash’s body, then console: 2,1,1,2
-6. Exit the academy with either Bao-Dur or Atton. (You don't need to activate the Sion cutscene, map to be updated later)
+5. Run to the other end at #6, mouse spam through dialog and loot Vash’s body.
+6. Now use the console to unlock the entrance door: 2,1,1,2
+6. Swap to and exit the academy with Atton.
 
-- Make your way back to the Ebon Hawk (use an alacrity since you likely won't have any more Force), and fly to Dantooine.
+- Swap back to MC, cast Burst of Speed, and make your way back to the Ebon Hawk.
+
+#### Visas
+
+- If done correctly, our alignment should be at 75 which will trigger Visas here on entry to the Ebon Hawk.
+  - *If Visas doesn't trigger then your run ends here as a mistake with the tight alignment route was likely made.*
+- When Visas approaches us: 1
+- As soon as we gain control of MC, immediately activate our psuedo stim suite -battle, and cast Force Valor.
+- Bring Visas below half HP with our Vibroswords.
+- Dialog with Visas/Atton after the fight: 1,1 -> 4,1
+  - *From here on out or alignment no longer matters, so any dialog option that gives alignment change from here on out won't effect any outcome.*
+<br>
+- Cast Burst of Speed, then go and speak with Bao-Dur to get our Lightsaber: 1,1 \| 4,4,2
+- Speak to T3-M4 for Computer Spikes on the way to the Galaxy Map: 6,2x-
+- Now we can fly to Dantooine! (1 Left)
 
 ## Dantooine
 
-- Leave the Ebon Hawk and take Kreia with you.
-- Make your way to Khoonda.  Solo mode to leave Kreia at the door, and head to a small room on the right.
-- Go in the room to the merchant Adum Larp: 1,1
+- Leave the Ebon Hawk.
+- = Take Kreia.
+- Dillan stops you: 4
+- Make your way to Khoonda.  Solo mode to leave Kreia at the door, head into the main room to talk to Terena: 1x6,5
+- Now head to a small room on the right where we will find our next shopping trip, the merchant Adum Larp: 1,1
+
 
 ```
 Sell:
@@ -633,21 +644,32 @@ Buy:
 - 11x Battle Stim
 ```
 
-- Head into the main room to talk to Terena: 1x6,5
+
 - Swap to Kreia and exit Khoonda and head to the Ruined Enclave.
-- Turn on solo mode, Use MC to run through the Ruined Enclave, follow the path to the right until you bash open a door to the right where a whole bunch of Laireks are.
+  - *We can run this section as MC incase we have an opportunity to Force Jump.*
+- + Solo Mode when you get through to the Enclave Courtyard, cast Burst of Speed, then run through towards the Enclave Sublevel as Kreia where some salvagers will accost you: 1x-
+- Swap to MC, enter Enclave Sublevel.
+- + Cast Burst of Speed Use MC to run/force jump through the Ruined Enclave, activate an Alacrity Stim when you're half way around the path.
+- Follow the path to the right until you bash open the door half way around the Sublevel where there are lots of Deadly Laigrek's are.
 
 - Disciple talks to you: 1,5,5,1
-  - *Take off Disciple from your team before proceeding.  If you do not do this you are in trouble*
-- Afterwards, run forward and loot the mercenaries, and exit the Enclave.  There will be people who ambush you at the end, just simply ignore them and exit. (Heal as needed)
-
-- Add Kreia back to the party, and head to the next area (take the left path, then the exit to the right).  
-- On the second screen turn on solo mode, run to the right and talk to Saedhe with MC: 2x-
+- = Remove Disciple from your Party. If you miss this step your run is as good as over.
+- Run forward and loot the mercenaries bodies to trigger the next part of the main quest, then exit the enclave, but continue around, not the way you came.
+  - Gerevick and some thugs will ambush you at the end, just simply ignore them (spam 1) and exit. (Heal as needed)
+<br>
+- Cast Burst of Speed
+- = Add Kreia back to the party
+- Head to the next area, take the left path, then the exit to the right, Force Jump where you can.
+  - *It can help to turn solo mode on but it's not required.*  
+- + Cast Burst of Speed.
+- Run straight ahead and talk to Saedhe: 2x-
 - Head to the Kinrath Caves. 
-- After the initial cutscene, turn on Solo Mode and leave Kreia at the door.
+- Mouse spam cutscene with mercenary.
+- + Cast Burst of Speed, activate Psuedo-Stim Suite (+battle stim as we have those now).
 - Loot the rubble near the crossroads in front of you for the Atmospheric Sensors.  
-- Stim and buff up, then take the left path and the first left to fight the mercenaries and free Vrook (1 spam)
-- After killing the mercenaries and talking to Vrook (1 spam again), exit with Kreia. (+2 Alignment Points)
+- Take the left path and the first left to find Vrook captured by the mercenaries: 1x-
+- Cast Force Valor and take our the enemies.
+- Vrook freed: 1x- / swap to and exit with Kreia.
 
 - Azkul talks to you: 1,2,1,4
 - Go back to Saedhe and turn in the quest for 3000 credits (1 spam)
@@ -655,7 +677,7 @@ Buy:
 - Talk to Zherron: 4,1
 - While outside: 1,3 (this skips the large first battle, DO NOT mess this up)
 - Azkul talks to you (again): 5,3, to get 1k credits and skip the battle
-- Vrook: 9 (teaches you Ataru force form) (-8 Alignment Points, Alignment Points so far = 30)
+- Vrook: 9 (teaches you Ataru force form)
 - Afterwards, exit to the Ebon Hawk and fly to Onderon.
 
 ## Dxun
@@ -720,7 +742,7 @@ Buy:
 - Use MC to talk to Kiph, Nikko, Riiken, and Dhagon: all 1 spam
 - Enter the Cantina and turn on solo mode.  Stim/Buff up w/ MC and talk to Bakkel to kill her, then loot her.
 - Meanwhile, Run Kreia over to Sakarie at the northern part and talk to her: 1,3,2 for 5k credits (Because we are Kreia we don't get the -4 Alignment Points for this)
-- Exit with Mandalore, and run MC over to Dhagon again: 1 spam through everything. (+2 Alignment Points)
+- Exit with Mandalore, and run MC over to Dhagon again: 1 spam through everything.
 - Exit the Cantina and make your way back to the docks to exit (turn on solo mode through each area and run MC through there)
 - Random guard accosts you on the way to the docks: 4
 
@@ -745,25 +767,25 @@ Buy:
 
   - *This planet requires you to be precise with convos, especially when spawning the Exchange cutscene.  If the conversation with Sasquesh is done wrong, you will never get the cutscene and your run ends there.*
 
-- Party Convos: 5 -> 5,6  -> 7,7 (-1 Alignment Point, Alignment Points so far = 33)
+- Party Convos: 5 -> 5,6  -> 7,7
 - Take Kreia with you, and turn on Solo Mode
-- Bullies accost you: 4,2 (+2 Alignment Points)
-- Begging Refugee: 1,4 (+2 Alignment Points)
+- Bullies accost you: 4,2
+- Begging Refugee: 1,4
 
 - In the main area, take a right and head through the doors to the Refugee Sector.
-- 1 spam Ebon Hawk former owner (+2 Alignment Points)
+- 1 spam Ebon Hawk former owner
 
 - Turn on solo mode again, and run with MC
 - Exchange Thugs accost you: 4,2
 
-- In the main square, when you enter, talk to Geriel: 2 (-4 Alignment Points, Alignment Points so far = 43)
+- Take the right side, then talk to Nadda: 1x-
+- Head to the other side inside, take the right path and follow all doors to the right until you find Saquesh.  
 
-- Take the right side, then talk to Nadda (1 spam)
-- Head to the other side inside, take the right path and follow all doors to the right until you see Saquesh.  
-
-- Stim/Force power up when near Saquesh to kill him: 1,2,5
+- Use a Psuedo Stim Suite and cast Force Valor when near Saquesh to kill him: 1,2,5
 - Swap to Kreia after he dies and leave (Make sure to keep Kreia alive if needed, be careful not to accidently transition to the next area too soon).
 
+- Mouse spam through Red Ecliple cutscene.
+- Cast Burst of Speed.
 - Go to the bottom right corner near Oondar, turn on solo mode and leave Kreia there.
 - Talk to Geeda: 4, then Oondar (1 spam).  
 - Talk to Geeda again (1 spam, exit shop)
@@ -785,7 +807,7 @@ Buy:
 -Power Implant
 
 Sell:
-All other items as needed to get 2000 credits EXCEPT:
+Any other items as needed to get 2000 credits EXCEPT:
 - Lightsaber (unless 2 handed)
 - Plasma Torch
 - Stims
@@ -794,9 +816,8 @@ All other items as needed to get 2000 credits EXCEPT:
 ```
 
 - Ending Credits: 2k (required for talking to Kaalah-Nah, DO NOT talk to Kaalah-Nah without 2k credits)
-(+2 Alignment Points)
 
-- Trigger the cutscene with MC next to Geeda: 5,1,1 (-6 Alignment Points, 51 Alignment Points reached)
+- Trigger the cutscene with MC next to Geeda: 5,1,1
 - Head inside the Cantina, activate solo mode and cast Knight Speed.
 - Talk to Kaalah-Nah twice: 4 \| 1,1
 
@@ -805,14 +826,9 @@ All other items as needed to get 2000 credits EXCEPT:
 
 - Go to the workshop and enhance your lightsaber with the Opila/Nextor Crystal, after you enter the Ebon Hawk. 
 - Run towards the cockpit and 1 spam.
+- Mouse spam through Ebon Hawk OnEnter cutscenes.
 
-#### Visas
-
-- If done correctly, you should be getting Visas after this cutscene (Your run will end here if you did not get Visas).  
-- Use Knight Speed and hit her until half health.
-- Visas/Atton: 1,1 -> 4,1 -> 1
-<br>
-  - *DO NOT LEAVE THE EBON HAWK AFTER THIS CUTSCENE UNTIL THE FOLLOWING MENU HAS BEEN DONE*
+  - *DO NOT LEAVE THE EBON HAWK AFTER THE CUTSCENES UNTIL THE FOLLOWING MENU HAS BEEN DONE*
   - `}` Unequip MC’s weapons + Plasma Torch (give them 1 spare lightsaber for Force Jump)
   - `}` Give Visas (change 2 right): Lightsaber Mainhand + any Offhand Lightsaber OR Vibrosword if all double sided lightsabers, Energy Shield, Stealth Field Generator, Targeting Visor
 <br>
@@ -1115,8 +1131,25 @@ Traya: 4,4
 
 ## Version History
 
+### v3.0 (October 2024)
+- Added Dialog with HK-50 on Peragus to give us 2 LS Alignment Points.
+- Updated Dialog with Kreia during Ebon Hawk to Telos to give us 8 LS Alignment Points.
+- Updated Credit Route / Shopping trip on Telos Station, now buying 1 extra of each regular stim.
+- Updated Dialog with Chodo Habat on Telos Station to refuse his reward after dealing with the Exchange, resulting in 3 LS Alignment Points.
+- Visas trigger now requires 75 Alignment, instead of 50 points.
+- Updated Alignment Route
+- Visas now triggers after Korriban.
+- Updated Visas fight sequence and dialog.
+- Updated dialog with Bao-Dur to get our Lightsaber before the start of Dantooine.
+- Updated dialog with T3-M4 to get Computer Spikes before the start of Dantooine.
+- Added Equipment change before exiting Ebon Hawk to Dantooine.
+- Updated Dialog with Dillan on Dantooine.
+- Updated Equips section after Red Eclipse on Nar Shaddaa.
+- Removed speaking with Geriel on Nar Shaddaa.
+
+
 ### v2.1.5 (November 2023) 
-- Alignment route is 51 Shifts before Visas.
+- Alignment route is 51 Points before Visas.
 - Removed looting MC's Armband from route since it doesn't grant us any bonuses.
 - Removed looting Museum in Onderon Palace.
 - We now get Pontite Crystal and Ossus Keeper Robes as a reward from Queen Talia.
