@@ -214,14 +214,6 @@ This Coordinate Warp is the second half of a Double [Neo Hotshot](<Hotshot#neo-h
 
 *Coming soon!*
 
-## Warps in All Planets
-
-Coming soon!
-
-## Warps in All Quests
-
-Coming soon!
-
 ### Residential East to Command Deck
 
 - **Used In:** Any% Unrestricted
