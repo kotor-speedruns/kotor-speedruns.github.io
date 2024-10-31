@@ -110,7 +110,7 @@ Note that only true Coordinate Warps are listed here; Unrestricted runs use many
 - **Used In:** Any% Unrestricted
 - **Start Module:** Hangar Level
 - **Destination Module:** Hangar Level
-- **Approximate Coordinates:** (-2.40, 20.20)
+- **Approximate Coordinates:** (-0.30, 21.63)
 - **Precision Level:** None
 - **Hotshot Used:** Double Mixed Hotshot (Load Menu Hotshot to Neo Hotshot)
 
@@ -118,11 +118,13 @@ This Coordinate Warp uses a Load Menu Hotshot to place party members in the Kolt
 
 **Positioning Image**
 
-![Image showing party's positioning](/assets/images/kotor1/CWLPtoWalkway.png)
+![Image showing party's positioning](/assets/images/kotor1/CWAdmintoHangar.png)
 
 **Video of Warp**
 
-*Video forthcoming*
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/OsxTYoceieA" frameborder="0"></iframe>
+</div>
 
 ## Warps in All Planets
 
