@@ -121,7 +121,7 @@ This Coordinate Warp uses a [Load Menu Hotshot](<Hotshot#load-menu-hotshots>) to
 
 **Positioning Image**
 
-![Image showing party's positioning](/assets/images/kotor2/CWAdmintoHangar.png)
+![Image showing party's positioning](/assets/images/kotor2/CWAdminToHangar.png)
 
 **Video of Warp**
 
@@ -149,6 +149,29 @@ This Coordinate Warp uses a [QS Hotshot](<Hotshot#quick-save-hotshots>) to retur
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/jfa7USmHAfA" frameborder="0"></iframe>
 </div>
+
+### Prologue Hawk to Dock Module 2
+
+- **Used In:** Any% Unrestricted
+- **Start Module:** Prologue Interior
+- **Destination Module:** Dock Module
+- **Approximate Coordinates:** (61.43, 42.19)
+- **Precision Level:** Low
+- **Hotshot Used:** [Neo Hotshot](<Hotshot#neo-hotshots>)
+
+This Coordinate Warp positions Kreia in a short hall ending at a blast door, which is just far enough for the [Neo Hotshot](<Hotshot#neo-hotshots>) to place her in the Czerka Hangar upon warping to the Dock Module.  This warp is used to quickly board the surface shuttle after speaking with Jana Lorso in the Czerka Offices.
+
+**Positioning Image**
+
+![Image showing party's positioning](/assets/images/kotor2/CWPHawktoDock2.png)
+
+**Video of Warp**
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/CqH3HulCJX4" frameborder="0"></iframe>
+</div>
+
+
 
 ## Warps in All Planets
 
