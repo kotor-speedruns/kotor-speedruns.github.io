@@ -275,8 +275,8 @@ Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher n
 Here is the alignment route used in the run:
 
 | Aligned | Action | Type | LS/DS | Delta | New |
-| --- | :--- | :--- | :--- | :--- | :--- | :--- | 
-| Neutral | Game Start | -- | -- | -- | 50 | 0 | 
+| --- | :--- | :--- | :--- | :--- | :--- |
+| Neutral | Game Start | -- | -- | -- | 50 |
 | Neutral | Initial talk with Kreia | Hardcoded | 1/0 | 1 | 51 |
 | Neutral | Agree to let Atton out of Force Cage | Hardcoded | 1/0 | 1 | 52 |
 | Neutral | Talk with Atton, post T3-M4 solo | Hardcoded | 1/0 | 1 | 53 |
