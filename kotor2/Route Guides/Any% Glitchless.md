@@ -1115,7 +1115,7 @@ Traya: 4,4
 
 ## Version History
 
-### v2.1.5 (October 2024) 
+### v2.1.5 (November 2023) 
 - Alignment route is 51 Shifts before Visas.
 - Removed looting MC's Armband from route since it doesn't grant us any bonuses.
 - Removed looting Museum in Onderon Palace.
