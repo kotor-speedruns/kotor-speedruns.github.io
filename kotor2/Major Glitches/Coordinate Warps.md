@@ -100,6 +100,9 @@ Note that only true Coordinate Warps are listed here; Unrestricted runs use many
 
 **Jump to a specific run or warp:**
 - [Warps in Any%](#warps-in-any)
+    - [Admin Level to Hangar Level](#admin-level-to-hangar-level)
+    - [Prologue Hawk to Dock Module 1](#prologue-hawk-to-dock-module-1)
+    - [Prologue Hawk to Dock Module 2](#prologue-hawk-to-dock-module-2)
 - [Warps in All Planets](#warps-in-all-planets)
 - [Warps in All Quests](#warps-in-all-quests)
 
@@ -112,18 +115,39 @@ Note that only true Coordinate Warps are listed here; Unrestricted runs use many
 - **Destination Module:** Hangar Level
 - **Approximate Coordinates:** (-0.30, 21.63)
 - **Precision Level:** None
-- **Hotshot Used:** Double Mixed Hotshot (Load Menu Hotshot to Neo Hotshot)
+- **Hotshot Used:** Double Mixed Hotshot ([Load Menu Hotshot](<Hotshot#load-menu-hotshots>) to [Neo Hotshot](<Hotshot#neo-hotshots>))
 
-This Coordinate Warp uses a Load Menu Hotshot to place party members in the Kolto Tanks area at the start of the Administration Level, which has the right coordinates to warp back to the Hangar Level with a Neo Hotshot.  With the help of the Dev Droid, this skips all of Peragus except the Admin Level.
+This Coordinate Warp uses a [Load Menu Hotshot](<Hotshot#load-menu-hotshots>) to place party members in the Kolto Tanks area at the start of the Administration Level, which has the right coordinates to warp back to the Hangar Level with a [Neo Hotshot](<Hotshot#neo-hotshots>).  With the help of the Dev Droid, this skips all of Peragus except the Admin Level.
 
 **Positioning Image**
 
-![Image showing party's positioning](/assets/images/kotor1/CWAdmintoHangar.png)
+![Image showing party's positioning](/assets/images/kotor2/CWAdmintoHangar.png)
 
 **Video of Warp**
 
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/OsxTYoceieA" frameborder="0"></iframe>
+</div>
+
+### Prologue Hawk to Dock Module 1
+
+- **Used In:** Any% Unrestricted
+- **Start Module:** Dock Module
+- **Destination Module:** Dock Module
+- **Approximate Coordinates:** (36.48, 26.55)
+- **Precision Level:** None
+- **Hotshot Used:** Double [QS Hotshot](<Hotshot#quick-save-hotshots>)
+
+This Coordinate Warp uses a [QS Hotshot](<Hotshot#quick-save-hotshots>) to return to the Prologue Hawk, whose last location in the storage room has the right coordinates to warp back to the Hangar Level and reach the Ithorian Shuttle.  This skips the entire detention sequence of Citadel Station.
+
+**Positioning Image**
+
+![Image showing party's positioning](/assets/images/kotor2/CWPHawktoDock1.png)
+
+**Video of Warp**
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/jfa7USmHAfA" frameborder="0"></iframe>
 </div>
 
 ## Warps in All Planets
