@@ -6,7 +6,8 @@ redirect_from:
 # Star Wars: Knights of the Old Republic II - The Sith Lords - Any% Glitchless Guide
 
 ## v2.1.5: Female Jedi Guardian Route (Light Side)
-
+Route created by Sanjan, update by Ninko. <br>
+<br>
 *I want to credit 30cents for his initial route for KOTOR 2 Glitchless.  This would not have been done without his initial work on the route!  I also want to credit ChaosDrifter for helping me with much of the calculations and theory crafting into the category improvements.*
 
 This route defeats Darth Traya on Malachor V as fast as possible without the use of glitches.  Timing begins upon clicking "PLAY" after character creation and ends on the last hit on Traya.  A load-removal tool is available for LiveSplit thanks to glasnonck; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.  This guide will cover the character build for the run, as well as a detailed route.
