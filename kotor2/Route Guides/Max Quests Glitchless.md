@@ -1,8 +1,9 @@
 # Star Wars: Knights of the Old Republic II - The Sith Lords - Max Quests Glitchless Guide
 
 ## v2.0.2: Female Jedi Guardian Route (Light Side)
+Route created by Ninko.
 
-*First of all, major credit to goes out to [30cents](https://www.speedrun.com/user/30Cents) for his help with some route improvements and [Sanjan](https://www.speedrun.com/user/Sanjan) for their work on the Any% Glitchless route.*
+*First of all, major credit goes out to [30cents](https://www.speedrun.com/user/30Cents) for his help with some route improvements and [Sanjan](https://www.speedrun.com/user/Sanjan) for their work on the Any% Glitchless route.*
 
 This route defeats Darth Traya on Malachor V while also completing the Max amount of the Quests in a single run as fast as possible without the use of glitches. Timing begins upon clicking "PLAY" after character creation and ends on the last hit on Traya as the screen fades to black. A load-removal tool is available for LiveSplit thanks to glasnonck; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the character build for the run, as well as a detailed route.
 
@@ -38,7 +39,7 @@ No mods are allowed to be used (Yes, this also includes the restoration mod!)
 - If running on any monitor over 60 Hertz (hz), underclock it to 60hz exactly. If not done, your game will hang after combat and restrict you from moving. This is due to this game being made to suit a maximum of 60hz and to not be played exceeding 60 FPS.
 - Unbind your quicksave key! You can do this by setting the Quicksave key (default F4) to the Quickload Key (default F5) then setting the Quickload key back to F5.
 - Learn how to swap abilities easily. Shift +# swaps the ability. (e.g shift+1 swaps from Critical Strike to Flurry etc. Shift+4 swaps force powers)
-- Watch someone's PB video while going through the notes! This is very important to fundamentally understand the run and how it flows, and learn possible tricks to make your run much faster and smoother.
+- Watch someone's PB video (if there is one) while going through the notes! This is very important to fundamentally understand the run and how it flows, and learn possible tricks to make your run much faster and smoother.
 - Manual save a lot! The game tends to be very wonky, it can be prone to crashing in the worst moments, especially if you're on a good run! You'll figure out key points to save while you practice the run.
 - Once you understand the fundamentals from these notes, make your own copy of the notes and modify them to your own use. These notes are made detailed for a new player, and once you become more experienced you will need less of these notes.
 - Remember to have fun!
