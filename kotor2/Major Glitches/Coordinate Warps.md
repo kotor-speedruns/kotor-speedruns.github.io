@@ -103,6 +103,9 @@ Note that only true Coordinate Warps are listed here; Unrestricted runs use many
     - [Admin Level to Hangar Level](#admin-level-to-hangar-level)
     - [Prologue Hawk to Dock Module 1](#prologue-hawk-to-dock-module-1)
     - [Prologue Hawk to Dock Module 2](#prologue-hawk-to-dock-module-2)
+    - [Prologue Hawk to Underground Base](#prologue-hawk-to-underground-base)
+    - [Czerka Offices to Polar Academy](#czerka-offices-to-polar-academy)
+    - [Residential East to Command Deck](#residential-east-to-command-deck)
 - [Warps in All Planets](#warps-in-all-planets)
 - [Warps in All Quests](#warps-in-all-quests)
 
@@ -115,9 +118,9 @@ Note that only true Coordinate Warps are listed here; Unrestricted runs use many
 - **Destination Module:** Hangar Level
 - **Approximate Coordinates:** (-0.30, 21.63)
 - **Precision Level:** None
-- **Hotshot Used:** Double Mixed Hotshot ([Load Menu Hotshot](<Hotshot#load-menu-hotshots>) to [Neo Hotshot](<Hotshot#neo-hotshots>))
+- **Hotshot Used:** Mixed Double Hotshot ([Load Menu Hotshot](<Hotshot#load-menu-hotshots>) to [Neo Hotshot](<Hotshot#neo-hotshots>))
 
-This Coordinate Warp uses a [Load Menu Hotshot](<Hotshot#load-menu-hotshots>) to place party members in the Kolto Tanks area at the start of the Administration Level, which has the right coordinates to warp back to the Hangar Level with a [Neo Hotshot](<Hotshot#neo-hotshots>).  With the help of the Dev Droid, this skips all of Peragus except the Admin Level.
+This Coordinate Warp uses a [Load Menu Hotshot](<Hotshot#load-menu-hotshots>) to place party members in the Kolto Tanks area at the start of the Administration Level, which has the right coordinates to warp back to the Hangar Level with a [Neo Hotshot](<Hotshot#neo-hotshots>).  With the help of the [Dev Droid](<../Dev Tools/3C-FD>), this skips all of Peragus except the Admin Level.
 
 **Positioning Image**
 
@@ -171,7 +174,76 @@ This Coordinate Warp positions Kreia in a short hall ending at a blast door, whi
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/CqH3HulCJX4" frameborder="0"></iframe>
 </div>
 
+### Prologue Hawk to Underground Base
 
+- **Used In:** Any% Unrestricted
+- **Start Module:** Underground Base
+- **Destination Module:** Underground Base
+- **Approximate Coordinates:** (53.09, 76.45)
+- **Precision Level:** None
+- **Hotshot Used:** Mixed Double Hotshot ([Load Menu Hotshot](<Hotshot#load-menu-hotshots>) to [Neo Hotshot](<Hotshot#neo-hotshots>))
+
+This Coordinate Warp is the second half of a Mixed Double Hotshot that uses a [Load Menu Hotshot](<Hotshot#load-menu-hotshots>) to place Kreia and Bao-Dur in the Prologue Hawk's cockpit, which is the right coordinates for the [Neo Hotshot](<Hotshot#neo-hotshots>) to just spawn them in the corner of the shuttle bay in the Underground Base.  This would be a fairly precise warp without the convenient save made in the first second of the run.
+
+There is unfortunately no better Coordinate Warp to deeper in the Underground Base with the modules available at this point in the run.  Additionally, the first Hotshot could be a [Neo Hotshot](<Hotshot#neo-hotshots>), but both Kreia *and* Bao-Dur would need to be positioned in the Prologue Hawk's cockpit, and the timeloss means a [Load Menu Hotshot](<Hotshot#load-menu-hotshots>) is preferred even with the possible inconsistency.
+
+**Positioning Image**
+
+*Coming soon!*
+
+**Video of Warp**
+
+*Coming soon!*
+
+### Czerka Offices to Polar Academy
+
+- **Used In:** Any% Unrestricted
+- **Start Module:** Polar Academy
+- **Destination Module:** Polar Academy
+- **Approximate Coordinates:** (-10.01, -28.17)
+- **Precision Level:** None
+- **Hotshot Used:** Double [Neo Hotshot](<Hotshot#neo-hotshots>)
+
+This Coordinate Warp is the second half of a Double [Neo Hotshot](<Hotshot#neo-hotshots>).  Once Polar Academy is reached, we warp to Czerka Offices to add 3C-FD and Kreia to the party (since it cannot be modified in the Polar Academy).  The coordinates just happen to conveniently warp them deeper into the Academy than where we started, but only a little movement is saved by this; the main point is to bring the [Dev Droid](<../Dev Tools/3C-FD>) so it can start the endgame.
+
+**Positioning Image**
+
+*Coming soon!*
+
+**Video of Warp**
+
+*Coming soon!*
+
+## Warps in All Planets
+
+Coming soon!
+
+## Warps in All Quests
+
+Coming soon!
+
+### Residential East to Command Deck
+
+- **Used In:** Any% Unrestricted
+- **Start Module:** Residential East (Wartime)
+- **Destination Module:** Command Deck, Ravager
+- **Approximate Coordinates:**
+    - Atton: (-16.40, -15.70)
+    - 2nd Member: (78.69, -16.24)
+- **Precision Level:** Atton: Low, 2nd Member: High
+- **Hotshot Used:** [Forward Hotshot](<Hotshot#forward-hotshots>)
+
+This Coordinate Warp is used to place each party member near one of the four proton core sites on the Ravager's Command Deck.  It saves a significant amount of movement on the Ravager and avoids many dangerous enemies.  The second party member used should be an organic member (in case Revitalize is needed) that isn't Mandalore or Visas (to avoid cutscenes).  This party member will take heavy fire and having a level up ready for healing is ideal.
+
+This warp can be set up with identical positioning using the Residential East module from peacetime Citadel Station, but depending on whether or not you choose to use Exchange DLZ, you may not have even visited that module or have a hard save to use to setup the warp.
+
+**Positioning Images**
+
+*Coming soon!*
+
+**Video of Warp**
+
+*Coming soon!*
 
 ## Warps in All Planets
 
