@@ -3,13 +3,28 @@ redirect_from:
   - /kotor2/Route Guides/Any No Dev Tools
 ---
 
-# Star Wars: Knights of the Old Republic II: The Sith Lords: Any% No Dev Tools
+# Star Wars: Knights of the Old Republic II: The Sith Lords: Any% No Dev Tools Guide
 
 **v1.2: Male Jedi Guardian Route (Light Side)**
 
 This route defeats Darth Traya on Malachor V as fast as possible without the use of Dev Tools.  Timing begins upon clicking "PLAY" after character creation and ends on reaching Traya's last conversation.  A load-remover and autosplitter tool is available for LiveSplit thanks to glasnonck, Lane, the_kovic, and Xero; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.  This guide will cover the character build for the run, as well as a detailed route.
 
-If you have additional questions, you can check out the KotOR Speedrunning Discord which is linked on the game's sidebar on speedrun.com.  There's a bunch of friendly folks there willing to answer questions!
+Finally, if you have additional questions, you can check out the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu).  There's a bunch of friendly folks there willing to answer questions!
+
+**Table of Contents**
+- [NDT Ruleset](#ndt-ruleset)
+- [Character Build](#character-build)
+  - [Character Creation](#character-creation)
+  - [Leveling Plan](#leveling-plan)
+- [Equipment Plan](#equipment-plan)
+- [Credits Route](#credits-route)
+- [Alignment Route](#alignment-route)
+- [Route Overview](#route-overview)
+  - [Notes on Save Files](#notes-on-save-files)
+  - [Route Outline](#route-outline)
+- [Detailed Route](#detailed-route)
+- [Version History](#version-history)
+- [Closing](#closing)
 
 ## Character Build
 
@@ -41,7 +56,17 @@ We choose Dueling over Two-Weapon Fighting because our chance to hit is too low 
 
 ### Leveling Plan
 
-/assets/images/imgur-dump/AojS9fj.png
+| Level | Feat | Force | Skills |
+|---|:---|:---|:---|
+| 1 | Dueling | | Stealth to 1, Persuade to 2 |
+| 2 | Focus: Melee Weapons | | Persuade to 3 |
+| 3 | Empathy | | Persuade to 4 |
+| FLU | | | |
+| 5->15 | Master Critical Strike | Master Speed, Master Valor | Stealth to 18, Aware to 7, Repair to 18, TI to 18 |
+| 6 | Improved Dueling | Force Aura, Force Shield | Persuade to 5 |
+| 7 | | Force Deflection | Persuade to 6 |
+| 8 | | Battle Meditation | Persuade to 7 |
+| 9 | | Master Dueling | Affect Mind, Dominate Mind | Persuade to 8 |
 
 Our main combat plan is lots of Strength, Master Dueling, Master Critical Strike, and Master Speed, using an upgraded vibroblade/lightsaber.  This gives us three attacks per round with a 40% chance to crit on each attack; with decent luck on the few fights we do, many fights will be one round long.  Dueling and Critical Strike also maximize our chances to hit people, so it's relatively consistent even without good luck on crits.
 
@@ -126,6 +151,14 @@ Two other notes on the starred actions above:
 - The conversation with Atris is able to be skipped with a difficult Hard Buffer, which also skips +1 LSP.  If successful, the makeup is to talk to Kreia upon reaching Dxun to get the required LSP.
 
 ## Route Overview
+
+### Notes on Save Files
+
+This route makes use of several Hotshots, most of which require their own hardsave.  Since KotOR II organizes save files by character, there's no need to make space for or setup save files ahead of time; all saves needed for the run will be made during the run.  In fact, every Hardsave made during the run will be in a new slot.
+
+In addition, Hotshots in KotOR II are sadly inconsistent.  Their consistency seems to be affected by the total number of save files that exist across all characters (among other things).  Many runners report more consistency with around 200-300 saves, but others run with fewer and some run with as many as 900.  You may need to experiment on your own to see what works for your setup.
+
+### Route Outline
 
 This is a brief outline of the route for the Any% run, including planet order and major skips:
 
