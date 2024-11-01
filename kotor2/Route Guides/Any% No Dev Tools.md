@@ -2,17 +2,19 @@
 redirect_from:
   - /kotor2/Route Guides/Any No Dev Tools
 ---
-[center]**[big][big]Star Wars: Knights of the Old Republic II: The Sith Lords[/big]
 
-Any% Guide v1.2: Male Jedi Guardian Route (Light Side)[/big]**[/center]
+# Star Wars: Knights of the Old Republic II: The Sith Lords: Any% No Dev Tools
 
-This route defeats Darth Traya on Malachor V as fast as possible; Timing begins upon clicking "PLAY" after character creation and ends on reaching Traya's last conversation.  A load-removal tool is available for LiveSplit thanks to glasnonck; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.  This guide will cover the character build for the run, as well as a detailed route.
+**v1.2: Male Jedi Guardian Route (Light Side)**
+
+This route defeats Darth Traya on Malachor V as fast as possible without the use of Dev Tools.  Timing begins upon clicking "PLAY" after character creation and ends on reaching Traya's last conversation.  A load-remover and autosplitter tool is available for LiveSplit thanks to glasnonck, Lane, the_kovic, and Xero; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.  This guide will cover the character build for the run, as well as a detailed route.
 
 If you have additional questions, you can check out the KotOR Speedrunning Discord which is linked on the game's sidebar on speedrun.com.  There's a bunch of friendly folks there willing to answer questions!
 
-[section=Character Build]
+## Character Build
 
-[big]***Character Creation***[/big]
+### Character Creation
+
 We begin as a Male Jedi Guardian; Male characters have around a 45 second advantage to Female characters because they automatically recruit the Handmaiden, while female characters have to go out of their way to recruit the Disciple.  Jedi Guardian is our class for maximum attack power and the Force Jump feat; however, due to a Fake Level Up we will reclass to Jedi Consular a few levels in.
 
 **Initial Attributes**
@@ -37,7 +39,7 @@ Skills in this run are important mostly for upgrade crafting; the skills from th
 
 We choose Dueling over Two-Weapon Fighting because our chance to hit is too low to use two weapons effectively.
 
-[big]***Leveling Plan***[/big]
+### Leveling Plan
 
 /assets/images/imgur-dump/AojS9fj.png
 
@@ -54,13 +56,11 @@ It's also important to note that you may never reach level 9 in this run.  This 
 * - We grab Stealth and Repair during the FLU so we can craft the appropriate melee upgrades immediately afterwards.
 * - After the FLU, we have all the skills we need, so we just dump them into Persuade after that.
 
-
 **Feat notes:**
 
 * - We actually do more fights with a vibroblade than a lightsaber, so Focus: Melee Weapons is an important feat to grab early.  We never actually use a lightsaber for a fight, so we grab Toughness to give ourselves a little extra survivability.
 * - Critical Strike and Dueling are our main feats; when combined with the upgrades we craft, this creates a quite potent combat core.
 * - We grab Empathy to help with one specific Persuade check: Persuading Corrun Falt to aid in stealing Czerka's information for only 500 credits, instead of 1000.  This is important as credits are tight at that part of the run.
-
 
 **Force Power notes:**
 
@@ -72,7 +72,8 @@ It's also important to note that you may never reach level 9 in this run.  This 
 * - Force Enlightenment is obtained upon reaching the rebuilt Jedi Enclave.  It automatically casts our highest level of Force Speed, Force Valor, and Force Aura, making it the best and only necessary power for the endgame.
 * - If we reach level 9, Affect/Dominate Mind is taken to keep our menus clean.
 
-[section=Equipment Plan]
+## Equipment Plan
+
 This section contains the equipment we'll use during the run, as well as where we obtain it.  Equipment is much less important in KotOR II speedruns, so we really only worry about our weapons.
 
 **Armband: MC's Armband** - Found on Harbinger
@@ -95,7 +96,8 @@ This section contains the equipment we'll use during the run, as well as where w
 **Weapon: Lightsaber** - Found/Crafted after Onderon
 - We equip this in our secondary weapon slot after defeating Visas on our way off of Dxun; however, it's only ever used for movement (via Force Jumps) and defense for deflecting blaster bolts.  Every fight is done with the upgraded vibroblade.
 
-[section=Credits Route]
+## Credits Route
+
 We do only one shopping and crafting trip during the run as follows:
 
 **1. Crafting on Citadel Station**
@@ -109,8 +111,8 @@ We do only one shopping and crafting trip during the run as follows:
 
 Notice that the only things we buy are medpacs and stims; with the possible exception of a robe, any equipment we use is found during the run.  Because of this, we're able to get by on credits without making any detours.
 
+## Alignment Route
 
-[section=Alignment Route]
 Alignment in KotOR II is a sliding scale from 0 to 100, initialized at 50; higher numbers are Light, lower numbers are dark.  Unlike in KotOR I, many of the alignment shifts in KotOR II have a fixed value, regardless of the character's current alignment; the usual Low/Mid/High Light/Dark actions do exist, but they are much rarer. The main goal of the alignment route in this speedrun is to hit 75 alignment, which causes Visas to appear on the Ebon Hawk the next time we arrive.
 
 Here is the current alignment route used in the run:
@@ -123,50 +125,51 @@ Two other notes on the starred actions above:
 - The conversation with Kreia upon leaving Peragus has several options that are hardcoded to give +1 LSP.  The conversation chosen hits the maximum of 8 of those for +8 LSP total.
 - The conversation with Atris is able to be skipped with a difficult Hard Buffer, which also skips +1 LSP.  If successful, the makeup is to talk to Kreia upon reaching Dxun to get the required LSP.
 
-[section=Route Overview]
+## Route Overview
+
 This is a brief outline of the route for the Any% run, including planet order and major skips:
 
 **1. Peragus II**
 
-* - Defeat HK-50 to escape to the Harbinger
-* - Make it through the Harbinger and Fuel Depot to the Ebon Hawk
+* Defeat HK-50 to escape to the Harbinger
+* Make it through the Harbinger and Fuel Depot to the Ebon Hawk
 
 **2. Citadel Station**
 
-* - Clip into the Ithorian Hangar to rescue the Ithorian droid
-* - Fake Level Up to gain Master Speed, Master Valor, and Master Critical Strike
-* - Construct and upgrade weapon; buy stims
-* - Clip into the Czerka mainframe to steal their information
-* - Use the Ithorian's shuttle to reach the surface of Telos
+* Clip into the Ithorian Hangar to rescue the Ithorian droid
+* Fake Level Up to gain Master Speed, Master Valor, and Master Critical Strike
+* Construct and upgrade weapon; buy stims
+* Clip into the Czerka mainframe to steal their information
+* Use the Ithorian's shuttle to reach the surface of Telos
 
 **3. Telos Surface**
 
-* - Reach and survive the Military Base
-* - Take the shuttle to the Polar Academy
-* - Regain the Ebon Hawk from Atris
+* Reach and survive the Military Base
+* Take the shuttle to the Polar Academy
+* Regain the Ebon Hawk from Atris
 
 **4. Dxun/Onderon**
 
-* - Gain enough influence with Mandalore to reach Onderon
-* - Clear Dhagon Ghent of the murder charge
-* - "Meet" with Master Kavar
-* - Recruit Mandalore and Visas
+* Gain enough influence with Mandalore to reach Onderon
+* Clear Dhagon Ghent of the murder charge
+* "Meet" with Master Kavar
+* Recruit Mandalore and Visas
 
 **5. Dantooine**
 
-* - Clip into the Rebuilt Jedi Enclave
-* - Defeat Atris on Telos
+* Clip into the Rebuilt Jedi Enclave
+* Defeat Atris on Telos
 
 **6. Ravager**
 
-* - Defeat Darth Nihilus on the bridge
-* - Plant proton cores to destroy the ship
+* Defeat Darth Nihilus on the bridge
+* Plant proton cores to destroy the ship
 
 **7. Malachor V**
 
-* - Reach the Sith Academy
-* - Skip the Darth Sion fight
-* - Skip the Darth Traya fight
+* Reach the Sith Academy
+* Skip the Darth Sion fight
+* Skip the Darth Traya fight
 
 The clip on Dantooine skips the entirety of Nar Shaddaa, Dantooine itself, and Korriban, along with half of Dxun/Onderon.  However, we need the appropriate party members in order to not softlock in the end game:
 
@@ -176,32 +179,32 @@ The clip on Dantooine skips the entirety of Nar Shaddaa, Dantooine itself, and K
 
 Hence, we go to Dxun/Onderon to recruit Mandalore.  We get Visas by reaching 75 alignment and returning to the Ebon Hawk.  And as a male character, the Handmaiden is automatically recruited after Telos. We don't need G0-T0 or Mira/Hanharr at all.
 
-[section=Detailed Route]
+## Detailed Route
 
-This section will describe all the actions you'll need to take for the Any% run.
+This section will describe all the actions you'll need to take for the Any% NDT run.
 
-Notation:
+**Notation:**
+
 ¤ indicates a glitch or trick to be done
 > indicates a level up to be done
 } indicates an inventory/equipment action to be done
 
-Conversation Notes: 
+**Conversation Notes:**
+
 If no conversation choices are specified, spamming will work (this chooses all 1 options).
 A | indicates a break in the conversation.  You have to talk to the person again.
 A ¤ indicates a variable answer, such as in reciting the Sith Code.
 A #¤ indicates a Persuade check that may fail.
 A #xY indicates repeat that option Y times, as in Gadon Thek's first conversation.
 
-[center][big]***----------------------------
-Character Creation
-----------------------------***[/big][/center]
+**Character Creation:**
 
-> Male Jedi Guardian - Custom Character
-> Str to 18, Dex to 14, Con to 14, Wis to 10
-> Stealth to 1, Persuade to 2
-> Initial Feat: Dueling
-> Pick a good name!
-> Hit Play!
+- Male Jedi Guardian - Custom Character
+- Str to 18, Dex to 14, Con to 14, Wis to 10
+- Stealth to 1, Persuade to 2
+- Initial Feat: Dueling
+- Pick a good name!
+- Hit Play!
 
 [center][big]***----------------------------
 Prologue
