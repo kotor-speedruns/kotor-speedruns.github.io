@@ -682,7 +682,7 @@ Buy:
 
 ## Dxun
 
-- Atton and Kreia: 2,3,4,4,1
+- Atton and Kreia: 2,3,4,1
 - Talk to T3 for spikes: 6,2x- until it exits the convo.
 - Talk to Bao-Dur for your lightsaber: 4,4,2
   - `}` Equip your lightsaber in the main hand and vibrosword/better 1h weapon in the off-hand.
@@ -1144,6 +1144,7 @@ Traya: 4,4
 - Updated dialog with T3-M4 to get Computer Spikes before the start of Dantooine.
 - Added Equipment change before exiting Ebon Hawk to Dantooine.
 - Updated Dialog with Dillan on Dantooine.
+- Updated Dialog with Kreia and Atton at the start of Dxun.
 - Updated Equips section after Red Eclipse on Nar Shaddaa.
 - Removed speaking with Geriel on Nar Shaddaa.
 
