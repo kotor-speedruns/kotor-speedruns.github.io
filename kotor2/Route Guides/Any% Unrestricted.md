@@ -99,7 +99,7 @@ The brief outline of the route for the Any% run, including planet order and majo
 
 * [Coordinate Warp](<../Major Glitches/Coordinate Warps#polar-academy-to-malachor-surface>) to skip most of Malachor Surface
 * [Origin Warp](<../Major Glitches/Coordinate Warps#malachor-surface-to-malachor-depths>) to skip most of Malachor Depths
-* [Coordinate Warp](<../Major Glitches/Coordinate Warps#ravager-command-to-trayus-academy>) to skip the entire Trayus Academy
+* [Coordinate Warp](<../Major Glitches/Coordinate Warps#command-deck-to-trayus-academy>) to skip the entire Trayus Academy
 * Use KillBlaster to defeat Darth Traya
 
 Note that the entire middle section of the game is skipped by using [3C-FD](<../Dev Tools/3C-FD>) in the Polar Academy.
