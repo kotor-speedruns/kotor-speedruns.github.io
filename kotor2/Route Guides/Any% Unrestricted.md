@@ -229,19 +229,18 @@ Abbreviations:
 
 ### Leaving Peragus
 
-- Forward Hotshot to warp party to Hangar Level
-  - Immediately after load screen, activate AMG via QS
-  - Use the pop-up to perform a Forward Hotshot
+- Immediately after load screen, activate AMG via QS
+- Forward Hotshot to warp party to Hangar Level (Down 1)
   - This Hotshot also activates the Dev Character
-- Load Menu Hotshot to Admin Level
+- Load Menu Hotshot to Admin Level:
   - **Make a Hardsave**, then load Autosave (2nd from bottom)
   - Activate AMG via QS
   - Open Options, Highlight "Load Game" and "Cancel", and press Enter
   - Use the mouse to select the Hangar Level Hard Save (2nd from top)
   - Press Enter; if the save name changes to "QUICKSAVE", cancel the pop-up and load that save
   - If the save name does not change, press Escape twice, click a different save and back to the Hangar save, then press Enter to retry
-  - This warps your party members to the Kolto Tank area
-- Neo Hotshot to Coordinate Warp to Hangar Level
+  - This warps your party members to the Kolto Tank area, instead of near MC's last known position in the main area
+- Neo Hotshot to Coordinate Warp party to Hangar Level
   - The menuing is Down 1 in save menu, Down 2 in load menu
   - This warps your party members to just outside the Ebon Hawk
   - We are now the Dev Character for the remainder of the run
@@ -263,7 +262,7 @@ Abbreviations:
 ### Citadel Docks
 
 - Click the Options icon to Hardsave before the CS
-- Double Quick Save Hotshot to Coordinate Warp within the Dock Module:
+- Double Quick Save Hotshot to Coordinate Warp party within the Dock Module:
   - Load the first Prologue Hawk Hard Save (last in list)
   - QS and load the Dock Module Hard Save (2nd from top)
   - Activate AMG on the load and open the Options Menu
