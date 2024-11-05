@@ -20,8 +20,8 @@ These guides will cover all information relevant to the speedrun of the given ca
 
 | | **Written Guides** | | 
 |---|---|---|
-| [Any% Unrestricted](./Route%20Guides/Any%25%20Unrestricted) | [Any% No Dev Tools](./Route%20Guides/Any%25%20No%20Dev%20Tools) | [Any% Glitchless](./Route%20Guides/Any%25%20Glitchless) | 
-| [Max Quests Unrestricted](./Route%20Guides/Max%20Quests%20Unrestricted) | | [Max Quests Glitchless](./Route%20Guides/Max%20Quests%20Glitchless) | 
+| [Any% Unrestricted](./Route%20Guides/Any%25%20Unrestricted) | Any% No Dev Tools | [Any% Glitchless](./Route%20Guides/Any%25%20Glitchless) | 
+| Max Quests Unrestricted | | [Max Quests Glitchless](./Route%20Guides/Max%20Quests%20Glitchless) | 
 | [All Planets Unrestricted](./Route%20Guides/All%20Planets%20Unrestricted) | | | 
 
 **Video Tutorials**
@@ -41,7 +41,7 @@ Glitch guides are split into three types:
 |---|---|---|---|---|---|---|
 | [Dev Droid](./Dev%20Tools/3C-FD) | [Dev Character](./Dev%20Tools/Dev%20Character) | | | [Combat Talking](</kotor2/Techniques/Combat Talking>) | [Conversation Queue](</kotor2/Techniques/Conversation Queue>) | [Damage Stacking](</kotor2/Techniques/Damage Stacking>) |
 | | **Major Glitches** | | | [Revive Your Party Warp](./Techniques/RYP%20Warp) | [Save Buffering](./Techniques/Save%20Buffering) | [Save Teleporting](./Techniques/Save%20Teleporting) |
-| [Anywhere Menu Glitch](./Major%20Glitches/Anywhere%20Menu%20Glitch) | Coordinate Warps | [Displaced Load Zone](./Major%20Glitches/Displaced%20Load%20Zone) | | [Wired Targeting](/kotor2/Techniques/Wired%20Targeting) | | |
+| [Anywhere Menu Glitch](./Major%20Glitches/Anywhere%20Menu%20Glitch) | [Coordinate Warps](./Major%20Glitches/Coordinate%20Warps) | [Displaced Load Zone](./Major%20Glitches/Displaced%20Load%20Zone) | | [Wired Targeting](/kotor2/Techniques/Wired%20Targeting) | | |
 | [Door Clipping](./Major%20Glitches/Door%20Clipping) | [Fake Level Up](<./Major%20Glitches/Fake Level Up>) | [Hotshot](./Major%20Glitches/Hotshot) | | | | |
 
 ## Useful Links

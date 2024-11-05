@@ -4,13 +4,14 @@ redirect_from:
 ---
 # Star Wars: Knights of the Old Republic II - The Sith Lords - Any% Unrestricted Guide
 
-**v2.5: Female Jedi Sentinel/Consular Route**
+### v3.0: Female Jedi Sentinel/Consular Route
 
 This route defeats Darth Traya on Malachor V as fast as possible.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black after the final hit on Traya.  A load-removal tool and autosplitter is available for LiveSplit thanks to glasnonck and Xero; times are sorted based on load-removed times, since load times vary significantly with hardware in this game, and saving is frequent.  This guide will cover the detailed route for the run, as well as an alternate route for Citadel Station which requires an extremely difficult [Displaced Load Zone](../Major%20Glitches/Displaced%20Load%20Zone#exchange-dlz).
 
 Finally, if you have additional questions, you can check out the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu).  There's a bunch of friendly folks there willing to answer questions!
 
 **Table of Contents**
+- [Unrestricted Ruleset](#unrestricted-ruleset)
 - [Guide Organization](#guide-organization)
 - [Route Overview](#route-overview)
   - [Notes on Save Files](#notes-on-save-files)
@@ -19,6 +20,19 @@ Finally, if you have additional questions, you can check out the [KotOR Speedrun
 - [Detailed Route](#detailed-route)
 - [Version History](#version-history)
 - [Closing](#closing)
+
+## Unrestricted Ruleset
+
+**REMEMBER to show yourself restarting the game at the beginning of each attempt.**
+
+Any% Unrestricted is the fastest speedrun in KotOR speedrunning, thanks to the power of Dev Tools.
+
+All glitches are allowed in Unrestricted; however, all KotOR speedruns ban the following:
+- Abusing the windowed nature of the game to teleport a character (including Super Save Teleports)
+- Severe underclocking of one's monitor to increase Save Teleport distance
+- Abusing the load removal to excessively pause the timer
+- Loading saves created prior to the run
+- Use of mods or other external tools to modify the software in any way 
 
 ## Guide Organization
 
@@ -34,7 +48,7 @@ Because of the power of the Unrestricted Ruleset, this run skips a huge amount o
 
 This route makes use of several Hotshots, most of which require their own hardsave.  Since KotOR II organizes save files by character, there's no need to make space for or setup save files ahead of time; all saves needed for the run will be made during the run.  In fact, every Hardsave made during the run will be in a new slot.
 
-In addition, Hotshots in KotOR II are sadly inconsistent.  Their consistency seems to be affected by the total number of save files that exist across all characters (among other things).  Many runners report more consistency with around 200-300 saves, but others run with fewer and some run with as many as 900.  You may need to experiment on your own to see what works for your setup.
+In addition, some Hotshots ( in KotOR II are sadly inconsistent.  Their consistency seems to be affected by the total number of save files that exist across all characters (among other things).  Many runners report more consistency with around 200-300 saves, but others run with fewer and some run with as many as 900.  You may need to experiment on your own to see what works for your setup.
 
 ### Route Outline
 
@@ -45,16 +59,19 @@ The brief outline of the route for the Any% run, including planet order and majo
 * Use Hotshots to teleport 3C-FD to Peragus
 * Free Atton from his cell
 * Use 3C-FD to dock the Harbinger
-* Use 3C-FD to begin the T3 section
+* Use 3C-FD and a Forward Hotshot to reach the Hangar Level
 * Coordinate Warp to the Ebon Hawk
+* Pass the turret minigame to escape Peragus II
 
 *2. Citadel Station*
 
 * Coordinate Warp to rescue the Ithorian droid
-* Betray and kill Luxa inside the Exchange
-* Obtain droid technician credentials
-* Coordinate Warp into the Czerka Mainframe to skip the B-4D4 section
-* Hotshot to the Ithorian hangar and leave
+* Bring the droid to Czerka and make a save
+* Reload and bring the droid to the Ithorians
+* Talk to Luxa and enter the Exchange
+* Forward Hotshot the Czerka Save to the Exchange
+* Kill Loppak and Luxa
+* Hotshot to talk to Jana and Coordinate Warp to the Czerka hangar
 
 *3. Military Base*
 
@@ -73,9 +90,9 @@ The brief outline of the route for the Any% run, including planet order and majo
 *5. The Ravager*
 
 * Board the Ravager
-* Coordinate Warp Kreia and 3C-FD to two proton core sites
+* Coordinate Warp Kreia and Atton to two proton core sites
 * Save Teleport Kreia to the other two proton core sites
-* Forward Hotshot to warp to Nihilus
+* Forward Hotshot to Default Spawn Warp MC to Nihilus
 * Kill Nihilus and leave the Ravager
 
 *6. Malachor V*
@@ -102,9 +119,9 @@ We use the following aspects of the Dev Character during this run:
 - Rapid Shot: Gives two chances to kill with the KillBlaster during combat instead of one.
 - Revitalize: An emergency backup if a party member dies in the Military Base
 - Master Heal: Can be used for healing if needed
-- Force Storm: Could be used during the Exchange fight, but is unlikely to be faster than the KillBlaster.
+- Force Storm: Used to slightly speed up the Exchange Fight and can be used on the thugs.
 
-The KillBlaster is duped once to allow a party member to equip one in the Military Base.  The Lightsaber is used to open one door, could be used to Force Jump in certain places.  However, by the time that's useful, Save Teleports are the best form of movement.  The Plasma Torch is also used to open one door on Peragus.
+The KillBlaster is duped once to allow a party member to equip one in the Military Base.  The Lightsaber is used to open one door; while it could be used to Force Jump in certain places, by the time that's useful, Save Teleports are the best form of movement.  The Plasma Torch is also used to open one door on Peragus.
 
 ## Detailed Route
 
@@ -131,14 +148,12 @@ Abbreviations:
   - [Leaving Peragus](#leaving-peragus)
 - [Citadel Station](#citadel-station)
   - [Citadel Docks](#citadel-docks)
-  - [The Exchange](#the-exchange)
-  - [Infiltrating Czerka](#inflitrating-czerka)
+  - [Entering The Exchange](#entering-the-exchange)
+  - [Leaving Citadel Station](#leaving-citadel-station)
 - [Telos Surface](#telos-surface)
   - [Restoration Zone](#restoration-zone)
   - [Military Base](#military-base)
-- [Polar Academy](#polar-academy)
-  - [Setting up Saves](#setting-up-saves)
-  - [Atris](#atris)
+  - [Polar Academy](#polar-academy)
 - [The Ravager](#the-ravager)
   - [Wartime Citadel](#wartime-citadel)
   - [Mining the Ravager](#mining-the-ravager)
@@ -161,8 +176,8 @@ Abbreviations:
 - Close menu and skip Prologue: 2
 - Activate AMG on the load screen
 - Mash the CS until MC is on the ground, then cancel the popup and QS/QL
-- Forward Hotshot to Ebon Hawk:
-  - **Make a Hardsave**, then load the Ebon Hawk save (last in list)
+- Forward Hotshot to Prologue Hawk:
+  - **Make a Hardsave**, then load the Prologue Hawk save (last in list)
   - Activate AMG via QS, Open Options, click "Exit Game"
   - Highlight "OK" and "Save Game" simultaneously, then press Enter
   - Press down once in the main menu and click Load Game
@@ -171,21 +186,26 @@ Abbreviations:
   - This Forward Hotshot activates the Dev Character
 - Cast Master Speed
 - Loot plasteel cylinder for Computer Spike
-- Hack console to open main hold
+- Use console to open main hold
 - Loot broken droid for Parts
 - Open cargo hold with Security
 - Repair and recruit 3C-FD
-- Hotshot to Peragus Administration Level:
-  - **Make a Hardsave**, then load the Kolto Tank save (3rd from top)
-  - Activate AMG via QS to perform the Hotshot
-  - ***All Hotshots press down once on the main menu* unless otherwise noted**
-  - This Hotshot reverts to the original character
+- Neo Hotshot to Peragus Administration Level:
+  - Activate AMG via QS
+  - Open Options, Highlight "Load Game" and "Cancel", and press Enter
+  - Open Options, Press Up and Enter to open the Save Game menu
+  - Press Escape to cancel the pop-up
+  - Use arrow keys to navigate to the desired save (here, Down 1)
+  - Press Enter and overwrite the Hard Save
+  - Use arrow keys to navigate to the overwritten save in the Load Menu (here, Down 2)
+  - Press Enter and OK to finish the Hotshot
+  - This Hotshot reverts to the original character and overwrites the Admin Level Hardsave with one in the Prologue Hawk's storage room
 
 ### Administration Level
 
 - QS 4-5 times to cancel the fadeout
 - Use the Medical Computer: 4,3,6
-- Swap to 3C-FD 
+- Swap to 3C-FD
 - Loot plasma torch, then immediately swap to MC
 - Kreia accosts you
 - *Equip MC: Plasma Torch Mainhand*
@@ -209,17 +229,19 @@ Abbreviations:
 
 ### Leaving Peragus
 
-- Forward Hotshot to warp party to Hangar Level
-  - Immediately after load screen, activate AMG via QS
-  - Use a QS AMG to perform a Hotshot
+- Immediately after load screen, activate AMG via QS
+- Forward Hotshot to warp party to Hangar Level (Down 1)
   - This Hotshot also activates the Dev Character
-- Hotshot to Admin Level
-  - **Make a Hardsave**, then load Kolto Tank save (3rd from bottom)
-  - Activate AMG via QS to perform a Hotshot
-  - This warps your party members to the Kolto Tank area
-- Hotshot to Coordinate Warp to Hangar Level
-  - **Make a Hardsave**, then load Hangar Level save (3rd from top)
-  - Activate AMG via QS to perform a Hotshot
+- Load Menu Hotshot to Admin Level:
+  - **Make a Hardsave**, then load Autosave (2nd from bottom)
+  - Activate AMG via QS
+  - Open Options, Highlight "Load Game" and "Cancel", and press Enter
+  - Use the mouse to select the Hangar Level Hard Save (2nd from top)
+  - Press Enter; if the save name changes to "QUICKSAVE", cancel the pop-up and load that save
+  - If the save name does not change, press Escape twice, click a different save and back to the Hangar save, then press Enter to retry
+  - This warps your party members to the Kolto Tank area, instead of near MC's last known position in the main area
+- Neo Hotshot to Coordinate Warp party to Hangar Level
+  - The menuing is Down 1 in save menu, Down 2 in load menu
   - This warps your party members to just outside the Ebon Hawk
   - We are now the Dev Character for the remainder of the run
 - Swap to 3C-FD and board the Ebon Hawk
@@ -235,15 +257,20 @@ Abbreviations:
 
 ## Citadel Station
 
+*This version of Citadel Station is consistent, but slower.  If you want to try the faster Exchange DLZ version of Citadel Station, see below.  This can save up to 45 seconds with a good DLZ, but that is very inconsistent.*
+
 ### Citadel Docks
 
 - Click the Options icon to Hardsave before the CS
-- Hotshot to Ebon Hawk:
-  - Load the Ebon Hawk storage hold save (third from bottom)
-  - Activate AMG via QS to perform a Hotshot
-- Hotshot to Coordinate Warp to Docks Module
-  - **Make a Hardsave**, then load the Citadel Docks save (third from top)
-  - Activate AMG via QS to perform a Hotshot
+- Double Quick Save Hotshot to Coordinate Warp party within the Dock Module:
+  - Load the first Prologue Hawk Hard Save (last in list)
+  - QS and load the Dock Module Hard Save (2nd from top)
+  - Activate AMG on the load and open the Options Menu
+  - Highlight "Load Game" and "Cancel", then press Enter
+  - Press the Options hotkey to close the background menu, QS, then re-open the options menu
+  - Press Enter and OK to warp to the Prologue Hawk
+  - QS again and Load the Quick Save with the mouse to Coordinate Warp in the Dock Module
+    - You can instead QS, open the Options Menu, and press Enter and OK to load, but you'll have to clear menus after the Hotshot
   - This warps Kreia and Atton into the Ithorian Hangar
 - Swap MC's weapon (to KillBlaster)
 - Swap to Kreia and cast Force Speed
@@ -252,90 +279,56 @@ Abbreviations:
 - As Atton/MC fight the thugs, use Kreia to:
   - Activate the hangar console: 1 
   - Activate the airlock console: 1
-  - Activate the console outside: 2
+  - Run to and open the door to the Entertainment Module
   - During this, the Ithorian may accost the MC if the fight finishes.  Mash this convo and finish Kreia's tasks
-- Swap to MC and talk to Ithorian droid: 1,1
+- QS, then enter the Entertainment Module
+  - This removes active party members and your inventory
+- *Force: Cast Master Speed*
+- Run to the Cantina and enter
+- **Make a Hardsave** and activate AMG on the save
+- Abbreivated QS Hotshot back to the Dock Module:
+  - Open the Options Menu, highlight "Load Game" and "Cancel", and press Enter
+  - Press Options, QS, then load the QS with the mouse
+    - If you prefer to use the keyboard, press Options, **Down**, Enter and OK
 
-### The Exchange
+### Entering The Exchange
 
+- **Make a Hardsave**
+- Talk to the Ithorian Droid: 2,2
+- Activate AMG on the load
+- Once the cutscene starts, cancel the pop-up and QS/QL to skip it
+- Talk to Jana Lorso twice: 2 | 1,1,1
+- **Make a Hardsave**, then load the previous save (third from top)
+- Talk to the Ithorian Droid: 1
 - *Force: Cast Master Speed* before Chodo Habat accosts you
-- **Make a Hardsave**
-- Run outside to console: 1,2
-- **Make a Hardsave**
-- Use console to transit to docks: 2,1
-- Enter Entertainment Module
-  - This removes your party and equipment
-- Enter the Cantina
-- Forward Hotshot to regain weapons
-  - Activate AMG via QS to perform a Hotshot
-  - This also resets your position inside the Dock Module
+- Enter Residential East
+- Neo Hotshot to Cantina (Down 3, Down 4)
 - Talk to Luxa
-- ***Optional:*** *Unequip MC: Remove KillBlaster*
-- Hotshot to Residential West:
-  - **Make a Hardsave**, then load the terminal save (fourth from top)
-  - Activate AMG via QS to perform a Hotshot
-- Run to Residential East
-- Talk to Exchange Thug: 2
+- Neo Hotshot to Residential East (Down 1, Down 2)
+- Talk to the Rodian guard: 2
 - Enter the Exchange
-- Forward Hotshot to reset party position
-  - Activate AMG via QS to perform a Hotshot
-  - This resets your party's position in Residential West for the next Hotshot
+- Forward Hotshot the Czerka Hardsave to the Exchange (Down 2)
+
+### Leaving Citadel Station
+
 - *Party: Add Kreia*
-- ***Optional:*** If you unequipped earlier, *Equip Kreia: KillBlaster*
 - *Force: Cast Master Speed as MC*
 - Secretary accosts you
 - Run through door on right
 - Hard Buffer as you open the next door to skip fight with Benok
-- Talk to Gamorrean Guard in next room
+- Talk to Gamorrean Boss in next room
 - Use Rapid Shot to kill both droids
-- Luxa and Loppak try to negotiate
-- Use Rapid Shot to kill Luxa and her Gamorreans
-- Loppak accosts you
-- Hotshot to Ithorian Compound
-  - **Make a Hardsave**, then load Chodo Habat save (sixth from top)
-  - Activate AMG via QS to perform a Hotshot
-
-### Infiltrating Czerka
-
-- Swap to Kreia and talk to Chodo Habat
-- Hotshot to Cantina
-  - **Make a Hardsave**, then load Cantina save (fourth from top)
-  - Activate AMG via QS to perform a Hotshot
-- Activate Solo Mode
-- Swap to MC and cast Master Speed
-- Talk to Corrun Falt
-  - *Be careful moving to him; too far left triggers a CS, and too far right a different CS.  If you trigger either, mash them.*
-- Swap to Kreia and leave the cantina
-- Use terminal to transit to Residential West: 2,2
-- Enter Residential East
-- As you pass terminal in center, add Kreia and activate Solo Mode
-- Enter apartment B2 and Opo Chano accosts you: 1,2,2,2,2
-- *Force: Cast Burst of Speed as Kreia*
-- Use terminal to transit to Entertainment Module: 2,2
-- Activate Solo Mode and position Kreia in the corner (picture coming)
-
-![mainframecorner](/assets/images/kotor2/mainframecorner.png)
-
-- **Make a Hardsave**
-- Swap to MC and use terminal to transit to Residential East: 2,2
-- Enter the Czerka Office
-  - Kreia will accost you
-- B-4D4 accosts you: 3
-- Forward Hotshot to Coordinate Warp to Czerka Mainframe
-  - Activate AMG via QS to perform a Hotshot
-  - This warps Kreia into the Czerka Mainframe
-- B-4D4 accosts you: 3
-- Use Kreia to hack the mainframe
-- **Make a Hardsave**
-- Swap to MC and talk to B-4D4
-- Chodo Habat accosts you
-- As B-4D4, talk to Chodo Habat
-- As MC, talk to Chodo Habat one last time
-- Hotshot to Dock Module
-  - **Make a Hardsave**, then load the Autosave (eighth from top)
-  - Activate AMG via QS to perform a Hotshot
-- Save Teleport to board the shuttle
-  - We want to avoid casting Master Speed as we don't want it active on the surface
+- Loppak and Luxa talk with you: 1,3
+- Use Force Storm and Rapid Shot to kill everyone
+- Neo Hotshot to Czerka Offices (Down 2, Down 3)
+- Talk to Jana Lorso to gain access to surface shuttle
+- Neo Hotshot to Prologue Hawk (Up 2, Up 1)
+  - It is important to use the save in the storage room, and *not* the save in the cockpit
+- Swap to Kreia and *Force: Cast Burst of Speed*
+- Run to the short hallway in front of the blast door, near Kreia's body
+- Neo Hotshot to Coordinate Warp to Dock Module (Up 4, Up 4)
+- As Kreia, *Force: Cast Burst of Speed*
+- Board the surface shuttle
 
 ## Telos Surface
 
@@ -360,14 +353,12 @@ Abbreviations:
 ### Military Base
 
 - *Party: Add Bao-Dur and Kreia*
-- Hotshot to Ebon Hawk:
+- Load Menu Hotshot to Prologue Hawk
   - **Make a Hardsave**, then load the Ebon Hawk cockpit save (last in list)
-  - Activate AMG via QS to perform a Hotshot
-- *Unequip MC: Remove KillBlaster and Lightsaber**
-- Hotshot to Coordinate Warp to Military Base:
-  - **Make a Hardsave**, then load the Military Base save (third from top)
-  - Activate AMG via QS to perform a Hotshot
-- *Equip Kreia: KillBlaster in Mainhand, Lightsaber Offhand*
+  - Activate AMG via QS to perform the Load Menu Hotshot using the Military Base save
+- *Unequip MC: Remove KillBlaster and Lightsaber*
+- Neo Hotshot to Coordinate Warp to Military Base (Down 1, Down 2)
+- *Equip Kreia: KillBlaster in Primary Mainhand, Lightsaber Secondary Mainhand*
 - Swap to Bao-Dur and save TP past ship
 - Use Security to open both doors here
 - For the next segment, we'll be moving Kreia and Bao-Dur through the hallway together
@@ -375,62 +366,60 @@ Abbreviations:
   - Use Kreia to shoot the droids
   - Use Bao-Dur to break down the force fields
   - Use Bao-Dur's Security to open the locked doors
-  - *If MC warps to Bao-Dur and Kreia, you can use Solo Mode to leave the MC at the hangar controls and micro manage Kreia/Bao-Dur through the hallways.  This is inconsistent.*
+  - *If MC warps to Bao-Dur and Kreia, you can use Solo Mode to leave the MC at the hangar controls and micro manage Kreia/Bao-Dur through the hallways.  This saves time depending on when MC warps to you, but when he does (or even if he does) is inconsistent.*
   - If Bao-Dur dies, he'll get up once Kreia is out of combat
   - If Kreia dies, use MC's Revitalize to revive her
 - Upon reaching the room with the terminal, activate Solo Mode if it isn't already active
 - Use the terminal to destroy the droids
 - Leave Kreia at the terminal
 - Use Bao-Dur (and Save Teleports) to reach the reactor room
-- Activate AMG via QS, then activate terminal
-- Cancel popup once CS starts
-- Once door near Kreia is *fully* open, QS/QL
-- Swap to Kreia and use Lightsaber to bash open door
+- Tank Droid fight skip:
+  - Activate AMG via QS, then activate terminal
+  - Cancel popup once CS starts
+  - Once door near Kreia is *fully* open, QS/QL to skip the tank droid
+- Swap to Kreia and swap weapons to Lightsaber
+- Use the lightsaber to open the nearby door
 - Loot footlocker in left corner for hangar codes
 - Save Teleport with Kreia to hangar controls (or swap to MC if you were able to leave them there)
 - Activate hangar controls
 - Save Teleport to shuttle and board it
 
-## Polar Academy
-
-### Setting up Saves
+### Polar Academy
 
 - After the load screen, Hard Buffer to skip the HK fight
 - Save Teleport to enter the Polar Academy
-- Click the Options icon to **Make a Hardsave**
-- Hotshot to Czerka Office:
-  - Load the Czerka save (seventh from top)
-  - Activate AMG via QS to perform a Hotshot
+- Hard Buffer to skip the Handmaiden conversation
+- Neo Hotshot to Czerka Offices (Down 3, Down 5)
 - *Party: Add 3C-FD and Kreia*
-- Activate Solo Mode and position Kreia near right side of window (picture coming)
-- **Make a Hardsave**
-- Swap to 3C and leave
-- Moza accosts you
-- Activate Solo Mode
-- Position 3C on dark strip opposite Exchange entrance (picture coming)
-- Position Kreia next to left edge of terminal in B apartment lobby (picture coming)
-- **Make a Hardsave**
-
-### Atris
-
-- Hotshot to Coordinate Warp to Polar Academy
-  - Load the Polar Academy save (fourth from top)
-  - Activate AMG via QS to perform a Hotshot
-  - For this Hotshot, **press down twice** on main menu
-  - This loads Kreia into the room just outside Atris, and 3C should be near MC
-- Swap to MC and talk to 3C-FD: 2
-  - This starts the endgame sequence, skipping the entire midgame
+- Neo Hotshot to Polar Academy (Down 1, Down 2)
+- Swap to Kreia, pause the game, and talk to 3C-FD
+- Swap to MC and unpause to talk to 3C-FD: 2
+  - This starts the endgame and skips every other planet
 - Swap to Kreia and swap weapons to KillBlaster
-- Save Teleport to Atris and kill her (mash all convos)
+- As Kreia, Save Teleport to open the Meditation Room door
+- **Make a Hardsave** with Kreia in the short rectangular floor tile between the Meditation Room door and the circular area Atris is in
+- Atris fight:
+  - First convo: 5
+  - Shoot her with the KillBlaster
+  - Mash the second convo
 
 ## The Ravager
 
-### Citadel Station
+### Wartime Citadel
 
 - After load screen, Hard Buffer to skip CS
 - Save Teleport or Hard Buffer to skip Mandalore CS
-- Save Teleport through Residential East and Entertainment Module to Dock Module
-- Mandalore and Visas accost you
+- Save Teleport to Residential East
+- Set up the Ravager Coordinate Warp:
+  - *Party: Add Kreia (Keep Atton)*
+  - Activate Solo Mode
+  - As MC, Save Teleport up the left side and use Force Storm to attack the group of Sith
+    - This draws fire away from Kreia
+  - Swap to Atton and make sure he's on the right half of the hallway just past the archway to Residential West
+  - Swap to Kreia and Save Teleport all the way down the right side into the far right corner of the hallway (on the same wall as the Apartments B door)
+  - While running into the corner as Kreia, **Make a Hardsave**
+- Swap to MC and enter the Entertainment Module
+- Save Teleport towards the Dock Module until Mandalore accosts you
 - *Party: Keep Visas*
 - Run forward and Mandalore accosts you again
 
@@ -438,52 +427,52 @@ Abbreviations:
 
 - Activate AMG on or slightly after the load screen
 - Unpause, and after CS starts, cancel popup and QS/QL
-- Forward Hotshot to Coordinate Warp Kreia and 3C to The Ravager:
-  - Activate AMG via QS to perform a Hotshot
-- Activate AMG on load screen from Hotshot
+- Forward Hotshot to Coordinate Warp Kreia and Atton to The Ravager (Down 1)
+  - Activate AMG on the load screen after this Hotshot
 - Unpause, and after CS starts (mouse disappears), cancel popup and QS/QL
-- You should be Kreia when you load in; run slightly backwards to plant first proton core
+- You should be Kreia when you load in; Save Teleport forward to plant the first proton core
 - Save Teleport to top right proton core site
   - Down the hallway, turn right in the main hall, take door in back left, straight through next door, then turn right and take door on left
+  - If Kreia gets low on health, use her Auto-Level to heal her; if she dies, use MC's Revitalize to revive her
 - Activate AMG via QS
-- Swap to 3C and move forward to trigger third proton core site
+- Swap to Atton and move forward to trigger third proton core site
 - When the Mandalorian talks *after* planting the core, cancel the popup and QS/QL
+  - Click on the first Mandalorian dialogue after the core is planted, press Enter to cancel pop-up and clear the second line, then QS/QL with dialog options up
   - This skips losing the last core and having to create a new one in the missile bay
 - Swap to Kreia and Save Teleport to bottom right proton core site
-  - Turn left and follow hallway all the way around
+  - Turn left out of the previous site and follow hallway all the way around
 - Save Teleport back along hallway to elevator door
 - **Make a Hardsave**, then board the elevator
 
 ### Ravager Bridge
 
-- Forward Hotshot to Coordinate Warp to Nihilus
-  - Activate AMG via QS to perform a Hotshot
+- Forward Hotshot to Default Spawn Warp to Darth Nihilus (Down 1)
 - Swap to MC and swap weapons to KillBlaster
 - Nihilus fight:
   - Move forward to get stunned in a CS
-  - Shoot him through the stun (Tab through party and immediately shoot)
+  - Use Stunned Combat to shoot him (Tab through party and immediately shoot)
   - As the fade-in happens, target him and shoot again
-- Hotshot to Ravager:
-  - As soon as black screen happens, **Make a Hardsave**
-  - Load the elevator save (third from top)
-  - Activate AMG via QS to perform a Hotshot
-- Swap to Kreia and position her in doorway (picture coming)
-- **Make a Hardsave**, then Save Teleport through the hole in wall to leave
+- Immediately after screen goes black, Neo Hotshot to Ravager Command Deck (Down 1, Down 2)
+- Swap to Kreia and run through doorway on left
+- As Kreia, Save Teleport to door on opposite wall
+- **Make a Hardsave** while Kreia is standing against this door
+- As Kreia, Save Teleport through the hole in wall to travel to Malachor V
 
 ## Malachor V
 
 ### Malachor Depths
 
 - Long cutscene with Sion (who?) and Traya
-- Forward Hotshot to Coordinate Warp Kreia
-  - Activate AMG via QS to perform a Hotshot
-  - For this Hotshot, **press down five times** on main menu
+- Forward Hotshot to Coordinate Warp Kreia (Down 4)
 - Save Teleport as Kreia to Malachor Depths
-- Forward Hotshot to Coordinate Warp Kreia
-  - Activate AMG via QS to perform a Hotshot
-- Save Teleport as Kreia into the Trayus Academy
-- Forward Hotshot to Coordinate Warp Kreia
-  - Activate AMG via QS to perform a Hotshot
+  - Activate AMG on the load
+- Double QS Hotshot to warp Kreia or 3C to the origin:
+  - Open Options, highlight "Load Game" and "Cancel", and press Enter
+  - QS, then press Enter and OK to load the Quick Save
+  - After the load, QS again, then use the mouse to load the Quick Save
+    - As before, you can instead open Options and press Enter and OK, then clear menus afterwards
+- Swap to the party member near the academy and Save Teleport inside
+- Forward Hotshot to Coordinate Warp Kreia (Down 1)
 - Run backwards as Kreia to enter the Trayus Core
 
 ### Darth Traya
@@ -492,10 +481,10 @@ Abbreviations:
 - Hard Buffer the initial cutscene
 - Stand next to Traya
 - First Phase skip:
-  - Talk to Traya: 4
+  - Talk to Traya: 4,4
   - Mash default action as the convo ends to start the next one
   - If you miss this, just shoot her
-- Second conversation: mash 1
+- Second conversation: 4
   - You can also skip the second phase by mashing default action but it's very difficult
 - Shoot her again to win!
 
@@ -503,102 +492,118 @@ Abbreviations:
 
 ### Notes on this Route
 
-The alternate Citadel route sides with the Czerka corporation rather than the Ithorians.  This would be slower, except for a trick known as the Exchange DLZ, which lets us enter the Exchange early.  In the Ithorian route, this doesn't save enough time to be worthwhile, but in the Czerka route, the Exchange DLZ allows us to completely skip talking to Luxa and doing her fetch quests.
+The alternate Citadel route uses the trick known as the Exchange DLZ to enter the Exchange early, instead of going down the Ithorian route until you can Forward Hotshot the Czerka route into the Exchange.  This is faster than the Citadel Station route above by up to 45 seconds, assuming a quick Exchange DLZ.
 
-This route is therefore faster than the Ithorian route by about 90 seconds, assuming a quick Exchange DLZ.  Unfortunately, the Exchange DLZ is an **extremely** difficult trick due to the geometry of the load zone and the coordinates it occupies.  As a result, only 1 runner have completed a run with this trick to date. For these reasons, the Czerka route is included here rather than in the standard route.
+Unfortunately, the Exchange DLZ is an **extremely** difficult trick due to the geometry of the load zone and the coordinates it occupies.  As a result, only a few runners have completed a run with this trick to date.  For these reasons, the Czerka route is included here rather than in the standard route.
 
-If you decide to do this route, all other sections of the run are identical to the standard route, with the possible exception of save locations in the save list during hotshots.
+If you decide to do this route, all other sections of the run are identical to the standard route, with the minor exception of a slight variation in the strength of Save Teleports due to different modules visited.  Even the menuing for the post-Citadel hotshots remains the same for both Citadel routes.
 
-### Czerka Citadel Route
+### DLZ Citadel Route
 
 #### Citadel Docks
 
 - Click the Options icon to Hardsave before the CS
-- Hotshot to Ebon Hawk:
-  - Load the Ebon Hawk storage hold save (third from bottom)
-  - Activate AMG via QS to perform a Hotshot
-- *Unequip MC: Remove KillBlaster and Lightsaber*
-- Hotshot to Coordinate Warp to Docks Module:
-  - **Make a Hardsave**, then load the Citadel Docks save (third from top)
-  - Activate AMG via QS to perform a Hotshot
+- Double Quick Save Hotshot to Coordinate Warp within the Dock Module:
+  - Load the first Prologue Hawk Hard Save (last in list)
+  - QS and load the Dock Module Hard Save (2nd from top)
+  - Activate AMG on the load and open the Options Menu
+  - Highlight "Load Game" and "Cancel", then press Enter
+  - Press the Options hotkey to close the background menu, QS, then re-open the options menu
+  - Press Enter and OK to warp to the Prologue Hawk
+  - QS again and Load the Quick Save with the mouse to Coordinate Warp in the Dock Module
+    - You can instead QS, open the Options Menu, and press Enter and OK to load, but you'll have to clear menus after the Hotshot
   - This warps Kreia and Atton into the Ithorian Hangar
 - Swap MC's weapon (to KillBlaster)
-- *Equip Kreia: KillBlaster Mainhand*
-- Use Kreia (or Atton) to trigger the thug ambush
+- Swap to Kreia (or Atton) to trigger the thug ambush
 - Kill the thugs (no need to trigger consoles)
+  - MC can make good use of Force Storm here to shorten the fight
 - Ithorian accosts you
-- **Make a Hardsave**
 - Talk to droid: 2,2
 
 #### The Exchange
 
 - Activate AMG on the load screen
 - Unpause, then when CS starts, cancel popup and QS/QL
-- *Force: Cast Master Speed*
-- Talk to Jana Lorso twice: 2 \| mash 1
+- Talk to Jana Lorso twice: 2 | 1,1,1
 - **Make a Hardsave**
 - Activate Solo Mode
-- Exit Czerka as MC
-  - B-4D4 accosts you: 3
-- Run to left and perform the Exchange DLZ
+- *Force: Cast Master Speed*
+- Swap to Kreia and *Force: Cast Burst of Speed*
+- Exit Czerka as Kreia
+- Now as MC, run to left and perform the Exchange DLZ
+  - This is frequently done as 3C-FD, so *Party: Add 3C-FD* if desired
   - In Options, go to Graphics -> Advanced and disable V-Sync
-  - Walk into a precise part of the wall opposite the Exchange entrance (picture coming)
+  - Walk into a precise part of the wall opposite the Exchange entrance
   - If you succeed you'll enter the Exchange as if you walked in through the door
   - Once successful, re-enable V-Sync in Options
-- *Party: Add Kreia*
-- *Force: Cast Master Speed*
+- Swap to MC and *Force: Cast Master Speed*
+- *Party: Remove Everyone, Add Kreia*
 - Secretary accosts you
 - Run through door on right
 - Hard Buffer as you open the next door to skip fight with Benok
 - Talk to Gamorrean Guard in next room
 - Use Rapid Shot to kill both droids
-- Loppak and Luxa: 1,3
+- Confrontation with Loppak and Luxa: 1,3
 - Use Force Storm and/or Rapid Shot to kill everyone
 
 #### Leaving Citadel Station
-- Hotshot to Czerka
-  - **Make a Hardsave**, then load Czerka save (third from top)
-  - Activate AMG via QS to perform a Hotshot
-- Swap to Kreia and talk to Jana Lorso
-- Swap to MC and leave
-- Swap to Kreia and use Force Speed
-- Position Kreia in the center of Apartment B2's closed door
-- Hotshot to Coordinate Warp to Docks Module:
-  - **Make a Hardsave**, then load Docks Module Hardsave (fifth from top)
-  - Activate AMG via QS to perform a Hotshot
-- As Kreia, use the shuttle to reach Telos Surface
+
+- Neo Hotshot to Czerka Offices (Down 1, Down 2)
+- Talk to Jana Lorso to gain access to surface shuttle
+- Neo Hotshot to Prologue Hawk (Up 2, Up 1)
+  - It is important to use the save in the storage room, and *not* the save in the cockpit
+- Swap to Kreia and *Force: Cast Burst of Speed*
+- Run to the short hallway in front of the blast door, near Kreia's body
+- Neo Hotshot to Coordinate Warp Kreia to Dock Module (Down 3, Down 4)
+- As Kreia, *Force: Cast Burst of Speed*
+- Board the surface shuttle
 
 ## Version History
+
+**v3.0 (November 2024)**
+
+- Updated all hotshots to include new varieties: Neos, Quick Save, and Load Menu Hotshots now used where possible
+- New Citadel Station route (non-DLZ) that uses the Ithorian route to Forward Hotshot the Czerka route into the Exchange
+- New Coordinate Warp to reach Czerka Shuttle via Prologue Ebon Hawk
+- New Coordinate Warp within the Ravager using a wartime Residential East save; new positioning for Kreia
+- New Coordinate Warp to Polar Academy from Czerka Offices with no setup time
+- New Coordinate Warp to Malachor Surface using a Polar Academy save
+- Skips setting up saves in Czerka Offices and peacetime Residential East
+- Clarifies the warp in Ravager Bridge is a Default Spawn Warp, not a Coordinate Warp
+- Clarifies that the warp in Malachor Depths sends a party member to the origin due to party spawn rules
+- No KillBlaster dupe until Military Base; slightly heavier use of Force Storm in combat
 
 **v2.5 (July 2023)**
 
 - Reformatted guide to fit new guide website
 
 **v2.1 (February 2022)**
+
 - Added a slightly faster and much more consistent Peragus strat
 - Uses Ithorian version of Citadel Station, with Czerka version as an aside.
 
 **v2.0 (January 2022)**
+
 - Changed entire route to include major new glitches: Hotshots, Dev Character, 3C-FD, AMG, etc.
-- indykenobi Committed to writing route worked on by 30Cents and Redmage08
+- indykenobi committed to writing route worked on by 30Cents and Redmage08
 
 **v1.2 (April 2019)**
+
 - Moved the FLU to earlier in the run to allow for more convenient upgrading
 - Tweaked the upgrades built
 - Tweaked the shopping trip
 - Cut the shopping trip on Dxun
 
 **v1.1 (April 2019)**
-- Some major tweaks, including:
 
-- Tweaked character build to include enough Stealth and Repair for upgrade crafting
-- Streamlined alignment route to include threatening Opo Chano for droid credentials
-- Rerouted Dxun prestige hunting to cut Kelborn and Kumas, and do the phase converter instead.
+- Some major tweaks, including:
+  - Tweaked character build to include enough Stealth and Repair for upgrade crafting
+  - Streamlined alignment route to include threatening Opo Chano for droid credentials
+  - Rerouted Dxun prestige hunting to cut Kelborn and Kumas, and do the phase converter instead.
 
 **v1.0 (April 2019)**
-- indykenobi Uploaded the initial guide with the Male Jedi Guardian route by glasnonck and redmage08
 
-
+- indykenobi uploaded the initial guide with the Male Jedi Guardian route by glasnonck and redmage08
 
 ## Closing
 
