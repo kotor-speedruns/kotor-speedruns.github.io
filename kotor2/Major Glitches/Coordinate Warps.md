@@ -106,6 +106,9 @@ Note that only true Coordinate Warps are listed here; Unrestricted runs use many
     - [Prologue Hawk to Underground Base](#prologue-hawk-to-underground-base)
     - [Czerka Offices to Polar Academy](#czerka-offices-to-polar-academy)
     - [Residential East to Command Deck](#residential-east-to-command-deck)
+    - [Polar Academy to Malachor Surface](#polar-academy-to-malachor-surface)
+    - [Origin Warp to Malachor Depths](#origin-warp-to-malachor-depths)
+    - [Command Deck to Trayus Academy](#command-deck-to-trayus-academy)
 
 ## Warps in Any%
 
@@ -226,6 +229,65 @@ This Coordinate Warp is the second half of a Double [Neo Hotshot](<Hotshot#neo-h
 This Coordinate Warp is used to place each party member near one of the four proton core sites on the Ravager's Command Deck.  It saves a significant amount of movement on the Ravager and avoids many dangerous enemies.  The second party member used should be an organic member (in case Revitalize is needed) that isn't Mandalore or Visas (to avoid cutscenes).  This party member will take heavy fire and having a level up ready for healing is ideal.
 
 This warp can be set up with identical positioning using the Residential East module from peacetime Citadel Station, but depending on whether or not you choose to use Exchange DLZ, you may not have even visited that module or have a hard save to use to setup the warp.
+
+**Positioning Images**
+
+*Coming soon!*
+
+**Video of Warp**
+
+*Coming soon!*
+
+### Polar Academy to Malachor Surface
+
+- **Used In:** Any% Unrestricted
+- **Start Module:** Polar Academy
+- **Destination Module:** Malachor Surface
+- **Approximate Coordinates:** (2.38, -100.24)
+- **Precision Level:** Medium
+- **Hotshot Used:** [Forward Hotshot](<Hotshot#forward-hotshots>)
+
+This Coordinate Warp skips most of the movement in Malachor Surface.  It must be done as a [Forward Hotshot](<Hotshot#forward-hotshots>) because the Polar Academy module was deleted upon reaching Wartime Citadel.
+
+**Positioning Images**
+
+*Coming soon!*
+
+**Video of Warp**
+
+*Coming soon!*
+
+### Origin Warp to Malachor Depths
+
+- **Used In:** Any% Unrestricted
+- **Start Module:** Malachor Surface
+- **Destination Module:** Malachor Depths
+- **Approximate Coordinates:** (0,0)
+- **Precision Level:** None
+- **Hotshot Used:** Double [QS Hotshot](<Hotshot#quick-save-hotshots>)
+
+This is not a true Coordinate Warp, but instead uses the property that causes OoB party members to spawn at the origin in modules that contain it.  Since Malachor Depths contains the origin right outside Trayus Academy, warping there with any OoB party member skips the entire module.
+
+Doing this as a Double [QS Hotshot](<Hotshot#quick-save-hotshots>) is both fast and consistent, but a first try [Forward Hotshot](<Hotshot#forward-hotshots>) using the Ravager Exit save has the same effect and can be just as fast.
+
+**Positioning Images**
+
+*Coming soon!*
+
+**Video of Warp**
+
+*Coming soon!*
+
+### Command Deck to Trayus Academy
+
+- **Used In:** Any% Unrestricted
+- **Start Module:** Command Deck, Ravager
+- **Destination Module:** Trayus Academy, Malachor
+- **Approximate Coordinates:** (0, 93.47)
+- **Precision Level:** Low
+- **Hotshot Used:** [Forward Hotshot](<Hotshot#forward-hotshots>)
+
+This Coordinate Warp skips the entire Trayus Academy, including going through either Trayus Proving Grounds or Trayus Crescent, to go straight to Trayus Core and the fight with Darth Traya.  It must be done as a [Forward Hotshot](<Hotshot#forward-hotshots>) since the Ravager is deleted upon reaching Malachor Surface.
 
 **Positioning Images**
 
