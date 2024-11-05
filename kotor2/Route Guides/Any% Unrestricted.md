@@ -8,6 +8,8 @@ redirect_from:
 
 This route defeats Darth Traya on Malachor V as fast as possible.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black after the final hit on Traya.  A load-removal tool and autosplitter is available for LiveSplit thanks to glasnonck and Xero; times are sorted based on load-removed times, since load times vary significantly with hardware in this game, and saving is frequent.  This guide will cover the detailed route for the run, as well as an alternate route for Citadel Station which requires an extremely difficult [Displaced Load Zone](<../Major Glitches/Displaced Load Zone#exchange-dlz>).
 
+***IMPORTANT NOTE:*** This route makes heavy use of [Forward Hotshots](<../Major Glitches/Hotshot#forward-hotshots>) and [Dev](<../Dev Tools/3C-FD>) [Tools](<../Dev Tools/Dev Character>), and thus only works on the Steam/Aspyr versions of KotOR II.  Legacy versions (including the CD version) will crash whenever a [Forward Hotshot](<../Major Glitches/Hotshot#forward-hotshots>) is used.  If you wish to speedrun the legacy versions of KotOR II, see the guide for Any% No Dev Tools.
+
 Finally, if you have additional questions, you can check out the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu).  There's a bunch of friendly folks there willing to answer questions!
 
 **Table of Contents**
@@ -25,7 +27,7 @@ Finally, if you have additional questions, you can check out the [KotOR Speedrun
 
 **REMEMBER to show yourself restarting the game at the beginning of each attempt.**
 
-Any% Unrestricted is the fastest speedrun in KotOR speedrunning, thanks to the power of Dev Tools.
+Any% Unrestricted for KotOR II is the fastest speedrun in KotOR speedrunning, thanks to the power of [Dev](<../Dev Tools/3C-FD>) [Tools](<../Dev Tools/Dev Character>).
 
 All glitches are allowed in Unrestricted; however, all KotOR speedruns ban the following:
 - Abusing the windowed nature of the game to teleport a character (including Super Save Teleports)
