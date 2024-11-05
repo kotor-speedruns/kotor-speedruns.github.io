@@ -493,102 +493,118 @@ Abbreviations:
 
 ### Notes on this Route
 
-The alternate Citadel route sides with the Czerka corporation rather than the Ithorians.  This would be slower, except for a trick known as the Exchange DLZ, which lets us enter the Exchange early.  In the Ithorian route, this doesn't save enough time to be worthwhile, but in the Czerka route, the Exchange DLZ allows us to completely skip talking to Luxa and doing her fetch quests.
+The alternate Citadel route uses the trick known as the Exchange DLZ to enter the Exchange early, instead of going down the Ithorian route until you can Forward Hotshot the Czerka route into the Exchange.  This is faster than the Citadel Station route above by up to 45 seconds, assuming a quick Exchange DLZ.
 
-This route is therefore faster than the Ithorian route by about 90 seconds, assuming a quick Exchange DLZ.  Unfortunately, the Exchange DLZ is an **extremely** difficult trick due to the geometry of the load zone and the coordinates it occupies.  As a result, only 1 runner have completed a run with this trick to date. For these reasons, the Czerka route is included here rather than in the standard route.
+Unfortunately, the Exchange DLZ is an **extremely** difficult trick due to the geometry of the load zone and the coordinates it occupies.  As a result, only a few runners have completed a run with this trick to date.  For these reasons, the Czerka route is included here rather than in the standard route.
 
-If you decide to do this route, all other sections of the run are identical to the standard route, with the possible exception of save locations in the save list during hotshots.
+If you decide to do this route, all other sections of the run are identical to the standard route, with the minor exception of a slight variation in the strength of Save Teleports due to different modules visited.  Even the menuing for the post-Citadel hotshots remains the same for both Citadel routes.
 
-### Czerka Citadel Route
+### DLZ Citadel Route
 
 #### Citadel Docks
 
 - Click the Options icon to Hardsave before the CS
-- Hotshot to Ebon Hawk:
-  - Load the Ebon Hawk storage hold save (third from bottom)
-  - Activate AMG via QS to perform a Hotshot
-- *Unequip MC: Remove KillBlaster and Lightsaber*
-- Hotshot to Coordinate Warp to Docks Module:
-  - **Make a Hardsave**, then load the Citadel Docks save (third from top)
-  - Activate AMG via QS to perform a Hotshot
+- Double Quick Save Hotshot to Coordinate Warp within the Dock Module:
+  - Load the first Prologue Hawk Hard Save (last in list)
+  - QS and load the Dock Module Hard Save (2nd from top)
+  - Activate AMG on the load and open the Options Menu
+  - Highlight "Load Game" and "Cancel", then press Enter
+  - Press the Options hotkey to close the background menu, QS, then re-open the options menu
+  - Press Enter and OK to warp to the Prologue Hawk
+  - QS again and Load the Quick Save with the mouse to Coordinate Warp in the Dock Module
+    - You can instead QS, open the Options Menu, and press Enter and OK to load, but you'll have to clear menus after the Hotshot
   - This warps Kreia and Atton into the Ithorian Hangar
 - Swap MC's weapon (to KillBlaster)
-- *Equip Kreia: KillBlaster Mainhand*
-- Use Kreia (or Atton) to trigger the thug ambush
+- Swap to Kreia (or Atton) to trigger the thug ambush
 - Kill the thugs (no need to trigger consoles)
+  - MC can make good use of Force Storm here to shorten the fight
 - Ithorian accosts you
-- **Make a Hardsave**
 - Talk to droid: 2,2
 
 #### The Exchange
 
 - Activate AMG on the load screen
 - Unpause, then when CS starts, cancel popup and QS/QL
-- *Force: Cast Master Speed*
-- Talk to Jana Lorso twice: 2 \| mash 1
+- Talk to Jana Lorso twice: 2 | 1,1,1
 - **Make a Hardsave**
 - Activate Solo Mode
-- Exit Czerka as MC
-  - B-4D4 accosts you: 3
-- Run to left and perform the Exchange DLZ
+- *Force: Cast Master Speed*
+- Swap to Kreia and *Force: Cast Burst of Speed*
+- Exit Czerka as Kreia
+- Now as MC, run to left and perform the Exchange DLZ
+  - This is frequently done as 3C-FD, so *Party: Add 3C-FD* if desired
   - In Options, go to Graphics -> Advanced and disable V-Sync
-  - Walk into a precise part of the wall opposite the Exchange entrance (picture coming)
+  - Walk into a precise part of the wall opposite the Exchange entrance
   - If you succeed you'll enter the Exchange as if you walked in through the door
   - Once successful, re-enable V-Sync in Options
-- *Party: Add Kreia*
-- *Force: Cast Master Speed*
+- Swap to MC and *Force: Cast Master Speed*
+- *Party: Remove Everyone, Add Kreia*
 - Secretary accosts you
 - Run through door on right
 - Hard Buffer as you open the next door to skip fight with Benok
 - Talk to Gamorrean Guard in next room
 - Use Rapid Shot to kill both droids
-- Loppak and Luxa: 1,3
+- Confrontation with Loppak and Luxa: 1,3
 - Use Force Storm and/or Rapid Shot to kill everyone
 
 #### Leaving Citadel Station
-- Hotshot to Czerka
-  - **Make a Hardsave**, then load Czerka save (third from top)
-  - Activate AMG via QS to perform a Hotshot
-- Swap to Kreia and talk to Jana Lorso
-- Swap to MC and leave
-- Swap to Kreia and use Force Speed
-- Position Kreia in the center of Apartment B2's closed door
-- Hotshot to Coordinate Warp to Docks Module:
-  - **Make a Hardsave**, then load Docks Module Hardsave (fifth from top)
-  - Activate AMG via QS to perform a Hotshot
-- As Kreia, use the shuttle to reach Telos Surface
+
+- Neo Hotshot to Czerka Offices (Down 1, Down 2)
+- Talk to Jana Lorso to gain access to surface shuttle
+- Neo Hotshot to Prologue Hawk (Up 2, Up 1)
+  - It is important to use the save in the storage room, and *not* the save in the cockpit
+- Swap to Kreia and *Force: Cast Burst of Speed*
+- Run to the short hallway in front of the blast door, near Kreia's body
+- Neo Hotshot to Coordinate Warp Kreia to Dock Module (Down 3, Down 4)
+- As Kreia, *Force: Cast Burst of Speed*
+- Board the surface shuttle
 
 ## Version History
+
+**v3.0 (November 2024)**
+
+- Updated all hotshots to include new varieties: Neos, Quick Save, and Load Menu Hotshots now used where possible
+- New Citadel Station route (non-DLZ) that uses the Ithorian route to Forward Hotshot the Czerka route into the Exchange
+- New Coordinate Warp to reach Czerka Shuttle via Prologue Ebon Hawk
+- New Coordinate Warp within the Ravager using a wartime Residential East save; new positioning for Kreia
+- New Coordinate Warp to Polar Academy from Czerka Offices with no setup time
+- New Coordinate Warp to Malachor Surface using a Polar Academy save
+- Skips setting up saves in Czerka Offices and peacetime Residential East
+- Clarifies the warp in Ravager Bridge is a Default Spawn Warp, not a Coordinate Warp
+- Clarifies that the warp in Malachor Depths sends a party member to the origin due to party spawn rules
+- No KillBlaster dupe until Military Base; slightly heavier use of Force Storm in combat
 
 **v2.5 (July 2023)**
 
 - Reformatted guide to fit new guide website
 
 **v2.1 (February 2022)**
+
 - Added a slightly faster and much more consistent Peragus strat
 - Uses Ithorian version of Citadel Station, with Czerka version as an aside.
 
 **v2.0 (January 2022)**
+
 - Changed entire route to include major new glitches: Hotshots, Dev Character, 3C-FD, AMG, etc.
-- indykenobi Committed to writing route worked on by 30Cents and Redmage08
+- indykenobi committed to writing route worked on by 30Cents and Redmage08
 
 **v1.2 (April 2019)**
+
 - Moved the FLU to earlier in the run to allow for more convenient upgrading
 - Tweaked the upgrades built
 - Tweaked the shopping trip
 - Cut the shopping trip on Dxun
 
 **v1.1 (April 2019)**
-- Some major tweaks, including:
 
-- Tweaked character build to include enough Stealth and Repair for upgrade crafting
-- Streamlined alignment route to include threatening Opo Chano for droid credentials
-- Rerouted Dxun prestige hunting to cut Kelborn and Kumas, and do the phase converter instead.
+- Some major tweaks, including:
+  - Tweaked character build to include enough Stealth and Repair for upgrade crafting
+  - Streamlined alignment route to include threatening Opo Chano for droid credentials
+  - Rerouted Dxun prestige hunting to cut Kelborn and Kumas, and do the phase converter instead.
 
 **v1.0 (April 2019)**
-- indykenobi Uploaded the initial guide with the Male Jedi Guardian route by glasnonck and redmage08
 
-
+- indykenobi uploaded the initial guide with the Male Jedi Guardian route by glasnonck and redmage08
 
 ## Closing
 
