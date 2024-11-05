@@ -4,7 +4,7 @@ redirect_from:
 ---
 # Star Wars: Knights of the Old Republic II - The Sith Lords - Any% Unrestricted Guide
 
-**v3.0: Female Jedi Sentinel/Consular Route**
+### v3.0: Female Jedi Sentinel/Consular Route
 
 This route defeats Darth Traya on Malachor V as fast as possible.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black after the final hit on Traya.  A load-removal tool and autosplitter is available for LiveSplit thanks to glasnonck and Xero; times are sorted based on load-removed times, since load times vary significantly with hardware in this game, and saving is frequent.  This guide will cover the detailed route for the run, as well as an alternate route for Citadel Station which requires an extremely difficult [Displaced Load Zone](../Major%20Glitches/Displaced%20Load%20Zone#exchange-dlz).
 
@@ -153,9 +153,7 @@ Abbreviations:
 - [Telos Surface](#telos-surface)
   - [Restoration Zone](#restoration-zone)
   - [Military Base](#military-base)
-- [Polar Academy](#polar-academy)
-  - [Setting up Saves](#setting-up-saves)
-  - [Atris](#atris)
+  - [Polar Academy](#polar-academy)
 - [The Ravager](#the-ravager)
   - [Wartime Citadel](#wartime-citadel)
   - [Mining the Ravager](#mining-the-ravager)
@@ -356,14 +354,12 @@ Abbreviations:
 ### Military Base
 
 - *Party: Add Bao-Dur and Kreia*
-- Hotshot to Ebon Hawk:
+- Load Menu Hotshot to Prologue Hawk
   - **Make a Hardsave**, then load the Ebon Hawk cockpit save (last in list)
-  - Activate AMG via QS to perform a Hotshot
-- *Unequip MC: Remove KillBlaster and Lightsaber**
-- Hotshot to Coordinate Warp to Military Base:
-  - **Make a Hardsave**, then load the Military Base save (third from top)
-  - Activate AMG via QS to perform a Hotshot
-- *Equip Kreia: KillBlaster in Mainhand, Lightsaber Offhand*
+  - Activate AMG via QS to perform the Load Menu Hotshot using the Military Base save
+- *Unequip MC: Remove KillBlaster and Lightsaber*
+- Neo Hotshot to Coordinate Warp to Military Base (Down 1, Down 2)
+- *Equip Kreia: KillBlaster in Primary Mainhand, Lightsaber Secondary Mainhand*
 - Swap to Bao-Dur and save TP past ship
 - Use Security to open both doors here
 - For the next segment, we'll be moving Kreia and Bao-Dur through the hallway together
@@ -371,53 +367,42 @@ Abbreviations:
   - Use Kreia to shoot the droids
   - Use Bao-Dur to break down the force fields
   - Use Bao-Dur's Security to open the locked doors
-  - *If MC warps to Bao-Dur and Kreia, you can use Solo Mode to leave the MC at the hangar controls and micro manage Kreia/Bao-Dur through the hallways.  This is inconsistent.*
+  - *If MC warps to Bao-Dur and Kreia, you can use Solo Mode to leave the MC at the hangar controls and micro manage Kreia/Bao-Dur through the hallways.  This saves time depending on when MC warps to you, but when he does (or even if he does) is inconsistent.*
   - If Bao-Dur dies, he'll get up once Kreia is out of combat
   - If Kreia dies, use MC's Revitalize to revive her
 - Upon reaching the room with the terminal, activate Solo Mode if it isn't already active
 - Use the terminal to destroy the droids
 - Leave Kreia at the terminal
 - Use Bao-Dur (and Save Teleports) to reach the reactor room
-- Activate AMG via QS, then activate terminal
-- Cancel popup once CS starts
-- Once door near Kreia is *fully* open, QS/QL
-- Swap to Kreia and use Lightsaber to bash open door
+- Tank Droid fight skip:
+  - Activate AMG via QS, then activate terminal
+  - Cancel popup once CS starts
+  - Once door near Kreia is *fully* open, QS/QL to skip the tank droid
+- Swap to Kreia and swap weapons to Lightsaber
+- Use the lightsaber to open the nearby door
 - Loot footlocker in left corner for hangar codes
 - Save Teleport with Kreia to hangar controls (or swap to MC if you were able to leave them there)
 - Activate hangar controls
 - Save Teleport to shuttle and board it
 
-## Polar Academy
-
-### Setting up Saves
+### Polar Academy
 
 - After the load screen, Hard Buffer to skip the HK fight
 - Save Teleport to enter the Polar Academy
-- Click the Options icon to **Make a Hardsave**
-- Hotshot to Czerka Office:
-  - Load the Czerka save (seventh from top)
-  - Activate AMG via QS to perform a Hotshot
+- Hard Buffer to skip the Handmaiden conversation
+- Neo Hotshot to Czerka Offices (Down 3, Down 5)
 - *Party: Add 3C-FD and Kreia*
-- Activate Solo Mode and position Kreia near right side of window (picture coming)
-- **Make a Hardsave**
-- Swap to 3C and leave
-- Moza accosts you
-- Activate Solo Mode
-- Position 3C on dark strip opposite Exchange entrance (picture coming)
-- Position Kreia next to left edge of terminal in B apartment lobby (picture coming)
-- **Make a Hardsave**
-
-### Atris
-
-- Hotshot to Coordinate Warp to Polar Academy
-  - Load the Polar Academy save (fourth from top)
-  - Activate AMG via QS to perform a Hotshot
-  - For this Hotshot, **press down twice** on main menu
-  - This loads Kreia into the room just outside Atris, and 3C should be near MC
-- Swap to MC and talk to 3C-FD: 2
-  - This starts the endgame sequence, skipping the entire midgame
+- Neo Hotshot to Polar Academy (Down 1, Down 2)
+- Swap to Kreia, pause the game, and talk to 3C-FD
+- Swap to MC and unpause to talk to 3C-FD: 2
+  - This starts the endgame and skips every other planet
 - Swap to Kreia and swap weapons to KillBlaster
-- Save Teleport to Atris and kill her (mash all convos)
+- As Kreia, Save Teleport to open the Meditation Room door
+- **Make a Hardsave** with Kreia in the short rectangular floor tile between the Meditation Room door and the circular area Atris is in
+- Atris fight:
+  - First convo: 5
+  - Shoot her with the KillBlaster
+  - Mash the second convo
 
 ## The Ravager
 
@@ -425,8 +410,17 @@ Abbreviations:
 
 - After load screen, Hard Buffer to skip CS
 - Save Teleport or Hard Buffer to skip Mandalore CS
-- Save Teleport through Residential East and Entertainment Module to Dock Module
-- Mandalore and Visas accost you
+- Save Teleport to Residential East
+- Set up the Ravager Coordinate Warp:
+  - *Party: Add Kreia (Keep Atton)*
+  - Activate Solo Mode
+  - As MC, Save Teleport up the left side and use Force Storm to attack the group of Sith
+    - This draws fire away from Kreia
+  - Swap to Atton and make sure he's on the right half of the hallway just past the archway to Residential West
+  - Swap to Kreia and Save Teleport all the way down the right side into the far right corner of the hallway (on the same wall as the Apartments B door)
+  - While running into the corner as Kreia, **Make a Hardsave**
+- Swap to MC and enter the Entertainment Module
+- Save Teleport towards the Dock Module until Mandalore accosts you
 - *Party: Keep Visas*
 - Run forward and Mandalore accosts you again
 
@@ -434,52 +428,52 @@ Abbreviations:
 
 - Activate AMG on or slightly after the load screen
 - Unpause, and after CS starts, cancel popup and QS/QL
-- Forward Hotshot to Coordinate Warp Kreia and 3C to The Ravager:
-  - Activate AMG via QS to perform a Hotshot
-- Activate AMG on load screen from Hotshot
+- Forward Hotshot to Coordinate Warp Kreia and Atton to The Ravager (Down 1)
+  - Activate AMG on the load screen after this Hotshot
 - Unpause, and after CS starts (mouse disappears), cancel popup and QS/QL
-- You should be Kreia when you load in; run slightly backwards to plant first proton core
+- You should be Kreia when you load in; Save Teleport forward to plant the first proton core
 - Save Teleport to top right proton core site
   - Down the hallway, turn right in the main hall, take door in back left, straight through next door, then turn right and take door on left
+  - If Kreia gets low on health, use her Auto-Level to heal her; if she dies, use MC's Revitalize to revive her
 - Activate AMG via QS
-- Swap to 3C and move forward to trigger third proton core site
+- Swap to Atton and move forward to trigger third proton core site
 - When the Mandalorian talks *after* planting the core, cancel the popup and QS/QL
+  - Click on the first Mandalorian dialogue after the core is planted, press Enter to cancel pop-up and clear the second line, then QS/QL with dialog options up
   - This skips losing the last core and having to create a new one in the missile bay
 - Swap to Kreia and Save Teleport to bottom right proton core site
-  - Turn left and follow hallway all the way around
+  - Turn left out of the previous site and follow hallway all the way around
 - Save Teleport back along hallway to elevator door
 - **Make a Hardsave**, then board the elevator
 
 ### Ravager Bridge
 
-- Forward Hotshot to Coordinate Warp to Nihilus
-  - Activate AMG via QS to perform a Hotshot
+- Forward Hotshot to Default Spawn Warp to Darth Nihilus (Down 1)
 - Swap to MC and swap weapons to KillBlaster
 - Nihilus fight:
   - Move forward to get stunned in a CS
-  - Shoot him through the stun (Tab through party and immediately shoot)
+  - Use Stunned Combat to shoot him (Tab through party and immediately shoot)
   - As the fade-in happens, target him and shoot again
-- Hotshot to Ravager:
-  - As soon as black screen happens, **Make a Hardsave**
-  - Load the elevator save (third from top)
-  - Activate AMG via QS to perform a Hotshot
-- Swap to Kreia and position her in doorway (picture coming)
-- **Make a Hardsave**, then Save Teleport through the hole in wall to leave
+- Immediately after screen goes black, Neo Hotshot to Ravager Command Deck (Down 1, Down 2)
+- Swap to Kreia and run through doorway on left
+- As Kreia, Save Teleport to door on opposite wall
+- **Make a Hardsave** while Kreia is standing against this door
+- As Kreia, Save Teleport through the hole in wall to travel to Malachor V
 
 ## Malachor V
 
 ### Malachor Depths
 
 - Long cutscene with Sion (who?) and Traya
-- Forward Hotshot to Coordinate Warp Kreia
-  - Activate AMG via QS to perform a Hotshot
-  - For this Hotshot, **press down five times** on main menu
+- Forward Hotshot to Coordinate Warp Kreia (Down 4)
 - Save Teleport as Kreia to Malachor Depths
-- Forward Hotshot to Coordinate Warp Kreia
-  - Activate AMG via QS to perform a Hotshot
-- Save Teleport as Kreia into the Trayus Academy
-- Forward Hotshot to Coordinate Warp Kreia
-  - Activate AMG via QS to perform a Hotshot
+  - Activate AMG on the load
+- Double QS Hotshot to warp Kreia or 3C to the origin:
+  - Open Options, highlight "Load Game" and "Cancel", and press Enter
+  - QS, then press Enter and OK to load the Quick Save
+  - After the load, QS again, then use the mouse to load the Quick Save
+    - As before, you can instead open Options and press Enter and OK, then clear menus afterwards
+- Swap to the party member near the academy and Save Teleport inside
+- Forward Hotshot to Coordinate Warp Kreia (Down 1)
 - Run backwards as Kreia to enter the Trayus Core
 
 ### Darth Traya
@@ -488,10 +482,10 @@ Abbreviations:
 - Hard Buffer the initial cutscene
 - Stand next to Traya
 - First Phase skip:
-  - Talk to Traya: 4
+  - Talk to Traya: 4,4
   - Mash default action as the convo ends to start the next one
   - If you miss this, just shoot her
-- Second conversation: mash 1
+- Second conversation: 4
   - You can also skip the second phase by mashing default action but it's very difficult
 - Shoot her again to win!
 
