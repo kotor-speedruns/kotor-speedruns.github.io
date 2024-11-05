@@ -299,7 +299,7 @@ Abbreviations:
 - Talk to the Ithorian Droid: 2,2
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
 - Once the cutscene starts, cancel the pop-up and QS/QL to skip it
-- Talk to Jana Lorso twice: 2 | 1,1,1
+- Talk to Jana Lorso twice: 2 ... 1,1,1
 - **Make a Hardsave**, then load the previous save (third from top)
 - Talk to the Ithorian Droid: 1
 - *Force: Cast Master Speed* before Chodo Habat accosts you
@@ -527,7 +527,7 @@ If you decide to do this route, all other sections of the run are identical to t
 
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
 - Unpause, then when CS starts, cancel popup and QS/QL
-- Talk to Jana Lorso twice: 2 | 1,1,1
+- Talk to Jana Lorso twice: 2 ... 1,1,1
 - **Make a Hardsave**
 - Activate Solo Mode
 - *Force: Cast Master Speed*
