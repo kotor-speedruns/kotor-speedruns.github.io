@@ -406,7 +406,7 @@ Abbreviations:
 
 ## The Ravager
 
-### Citadel Station
+### Wartime Citadel
 
 - After load screen, Hard Buffer to skip CS
 - Save Teleport or Hard Buffer to skip Mandalore CS
