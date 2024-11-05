@@ -106,8 +106,6 @@ Note that only true Coordinate Warps are listed here; Unrestricted runs use many
     - [Prologue Hawk to Underground Base](#prologue-hawk-to-underground-base)
     - [Czerka Offices to Polar Academy](#czerka-offices-to-polar-academy)
     - [Residential East to Command Deck](#residential-east-to-command-deck)
-- [Warps in All Planets](#warps-in-all-planets)
-- [Warps in All Quests](#warps-in-all-quests)
 
 ## Warps in Any%
 
@@ -236,14 +234,6 @@ This warp can be set up with identical positioning using the Residential East mo
 **Video of Warp**
 
 *Coming soon!*
-
-## Warps in All Planets
-
-Coming soon!
-
-## Warps in All Quests
-
-Coming soon!
 
 ## Other Coordinate Warps
 
