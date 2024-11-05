@@ -98,7 +98,7 @@ The brief outline of the route for the Any% run, including planet order and majo
 *6. Malachor V*
 
 * [Coordinate Warp](<../Major Glitches/Coordinate Warps#polar-academy-to-malachor-surface>) to skip most of Malachor Surface
-* [Origin Warp](<../Major Glitches/Coordinate Warps#malachor-surface-to-malachor-depths>) to skip most of Malachor Depths
+* [Origin Warp](<../Major Glitches/Coordinate Warps#origin-warp-to-malachor-depths>) to skip most of Malachor Depths
 * [Coordinate Warp](<../Major Glitches/Coordinate Warps#command-deck-to-trayus-academy>) to skip the entire Trayus Academy
 * Use KillBlaster to defeat Darth Traya
 
@@ -469,7 +469,7 @@ Abbreviations:
 - [Forward Hotshot](<../Major Glitches/Hotshot#main-menu-hotshots>) to [Coordinate Warp Kreia to Malachor Surface](<../Major Glitches/Coordinate Warps#polar-academy-to-malachor-surface>) (Down 4)
 - [Save Teleport](<../Techniques/Save Teleporting>) as Kreia to Malachor Depths
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
-- Double [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to [Coordinate Warp Kreia or 3C to the origin](<../Major Glitches/Coordinate Warps#malachor-surface-to-malachor-depths>):
+- Double [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to [Coordinate Warp Kreia or 3C to the origin](<../Major Glitches/Coordinate Warps#origin-warp-to-malachor-depths>):
   - Open Options, highlight "Load Game" and "Cancel", and press Enter
   - QS, then press Enter and OK to load the Quick Save
   - After the load, QS again, then use the mouse to load the Quick Save
