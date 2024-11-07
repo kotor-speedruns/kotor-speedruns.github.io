@@ -682,7 +682,7 @@ Buy:
 
 ## Dxun
 
-- Atton and Kreia: 2,3,4,1
+- Atton and Kreia: 2,3,4,4,1
 - Talk to T3 for spikes: 6,2x- until it exits the convo.
 - Talk to Bao-Dur for your lightsaber: 4,4,2
   - `}` Equip your lightsaber in the main hand and vibrosword/better 1h weapon in the off-hand.
@@ -769,11 +769,11 @@ Buy:
 
 - Party Convos: 5 -> 5,6  -> 7,7
 - Take Kreia with you, and turn on Solo Mode
-- Bullies accost you: 4,2
+- Bullies accost you: 1
 - Begging Refugee: 1,4
 
 - In the main area, take a right and head through the doors to the Refugee Sector.
-- 1 spam Ebon Hawk former owner
+- Ebon Hawk's former owner stops you: 4,4
 
 - Turn on solo mode again, and run with MC
 - Exchange Thugs accost you: 4,2
@@ -789,7 +789,7 @@ Buy:
 - Go to the bottom right corner near Oondar, turn on solo mode and leave Kreia there.
 - Talk to Geeda: 4, then Oondar (1 spam).  
 - Talk to Geeda again (1 spam, exit shop)
-- Talk to Oondar (1 spam again)
+- Talk to Oondar twice: 1x- `|` 1
 
 Then shop at Oondar:
 
@@ -819,7 +819,7 @@ Any other items as needed to get 2000 credits EXCEPT:
 
 - Trigger the cutscene with MC next to Geeda: 5,1,1
 - Head inside the Cantina, activate solo mode and cast Knight Speed.
-- Talk to Kaalah-Nah twice: 4 \| 1,1
+- Talk to Kaalah-Nah twice: 4 `|` 1,1
 
 - Leave the bar, and run to the Docks.  After the cutscene, turn around and exit back to Landing Pad.
 - Turn on solo mode, and head back to the Ebon Hawk for the Red Eclipse hijacking sequence.  You may want to make a manual save here to get more alignment points if you think you messed up.
@@ -830,7 +830,7 @@ Any other items as needed to get 2000 credits EXCEPT:
 
   - *DO NOT LEAVE THE EBON HAWK AFTER THE CUTSCENES UNTIL THE FOLLOWING MENU HAS BEEN DONE*
   - `}` Unequip MC’s weapons + Plasma Torch (give them 1 spare lightsaber for Force Jump)
-  - `}` Give Visas (change 2 right): Lightsaber Mainhand + any Offhand Lightsaber OR Vibrosword if all double sided lightsabers, Energy Shield, Stealth Field Generator, Targeting Visor
+  - `}` Give Visas (change 2 left): Lightsaber Mainhand + any Offhand Lightsaber OR Vibrosword if all double sided lightsabers, Energy Shield, Stealth Field Generator, Targeting Visor
 <br>
 
 #### Memory Reset
@@ -839,7 +839,7 @@ Any other items as needed to get 2000 credits EXCEPT:
   - *It is recommended that new runners do a reset here as well as the start of Dxun while learning the route, with this reset eventually becoming the main one.*
 - Simply make a save and Alt-F4 your game, open it again and load the save.
 - Now you can leave the Ebon Hawk and run to the back until the cutscene triggers (You cannot be in combat for this, if not in combat and you did not get the cutscene, reload the autosave). 
-- 2,2
+- 2,2: Cast Knight Speed.
 - Take MC to the docks. In the next cutscene run forward and 1 spam through Mira's cutscene.
 
   - *Note that if you still have Fast Text, you MUST make a manual save reload your game here or else you will softlock later on with Zez.*
