@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic - All Quests Glitchless Guide 
 
-### v3.3: Male Scout -> Jedi Guardian Route
+### v3.4: Male Scout -> Jedi Guardian Route
 
 *Route and Guide by [indykenobi](https://www.speedrun.com/users/indykenobi)*
 
@@ -92,13 +92,13 @@ For skills, we will use Computer Use to help save on spikes throughout the run, 
 
 | Level | Feat | Power | Skills |
 |---| :--- | :--- | :--- |
-| 1 | Weapon Focus: Melee Weapons, *Flurry* | | Com to 4, TI to 4, Save 4 |
+| 1 | Weapon Focus: Melee Weapons, *Flurry* | | Com to 4, Stealth to 1, TI to 4, Save 2 |
 | 2 | Two-Weapon Fighting | | Save All |
 | 3 | Empathy | | Save All |
 | 4 | *Implant 2, Uncanny Dodge* | | Save All |
-| 5 | Improved Two-Weapon Fighting | | Com to 8, TI to 8, Save Rest |
+| 5 | Improved Two-Weapon Fighting | | Save All |
 | 6 | Improved Flurry, *Force Jump* | Burst of Speed, Force Valor | Save All |
-| 7 | | Affect Mind | Per to 10 |
+| 7 | | Affect Mind | Per to 10, TI to 10 |
 | 8 | Master Two-Weapon Fighting | Dominate Mind | Per to 11 |
 | 9 | | Knight Speed | Per to 12 |
 | 10 | | Knight Valor | Per to 13 |
@@ -121,7 +121,7 @@ Our main plan is to combine Master Speed with Master Flurry and a double-bladed 
 - Force Resistance is used on Manaan, Korriban and the Star Forge to help protect against hostile Force Powers, particularly on Deck 2 of the Forge.
 - Dominate Mind allows us to pass certain Persuade checks, particularly Lashowe on Korriban.  Affect Mind allows us to access Manaan, Tatooine and Kashyyyk without paying the docking fee, among other things.
 
-For skills, the 10 points in Intelligence allow us to get up to 8 net Computer Use, saving 2 spikes per hacking with our MC.  Treat Injury helps us preserve some medpacs by making them more effective. Persuade helps us shortcut some quests and bypass some fights, and we max this out as soon as we become a Jedi.  We keep putting points in Persuade because as we level, we need more Persuasion to continue to pass important Persuade checks, including Jagi and the Sandral-Matale feud.
+For skills, the 10 points in Intelligence allow us to have 4 net Computer Use, saving 1 spike per hacking with our MC.  Treat Injury helps us preserve some medpacs by making them more effective. Persuade helps us shortcut some quests and bypass some fights, and we max this out as soon as we become a Jedi.  We keep putting points in Persuade because as we level, we need more Persuasion to continue to pass important Persuade checks, including Jagi and the Sandral-Matale feud. The point in Stealth is solely to get a Stealth Field Generator from the initial footlocker on Endar Spire, which we sell for 40 Credits.
 
 ## Equipment Plan
 
@@ -163,28 +163,28 @@ The only major purchases made during the run are the CNS Strength Enhancer, HK-4
 These are the shopping trips we make during the run; notice we sell items as few times as possible.
 
 **1. Larrim on Taris**
-- *Sell*: Unneeded Items to reach 1400-1500 Credits
-- *Buy:* 2x Concussion Grenade and Battle Stimulant (~1100 or ~1200 Credits left)
+- *Sell*: Unneeded Items to reach around 1440-1540 Credits
+- *Buy:* 2x Concussion Grenade and Battle Stimulant (~1150 or ~1250 Credits left)
 
 **2. Zelka Forn on Taris**
-- *Buy*: Nerve Enhancement Package, 9-10x Adrenal Alacrity, 3-4x Adrenal Strength (<50 Credits left)
+- *Buy*: Nerve Enhancement Package, 10x Adrenal Alacrity, 3-5x Adrenal Strength (<50 Credits left)
 
 **3. Janice Nall on Taris**
 - *Buy*: 2x Computer Spike
 - *Sell*: Unneeded Items to reach around 6269 Credits
 
 **4. Mic'Tunan'Jus Orgu on Tatooine**
-- *Buy*: 4x Life Support Pack, 9-10x Advanced Medpac, Adrenal Strength, Bantha Fodder (~7818 Credits left)
-- *Sell*: Unneeded Items to reach around 10971 Credits
+- *Buy*: 4x Life Support Pack, 9-10x Advanced Medpac, 0-1x Adrenal Strength, Bantha Fodder (~7818 Credits left)
+- *Sell*: Unneeded Items to reach around 11023 Credits
 
 **5. Selkath Merchant on Manaan**
-- *Buy*: 6x Computer Spike, 7x Parts, 5x All Hyper Stims (~2151 Credits left)
+- *Buy*: 8x Computer Spike, 7x Parts, 5x All Hyper Stims (~1703 Credits left)
 
 **6. Crattis Yurkal on Dantooine**
-- *Buy*: CNS Strength Enhancer, Breath Mask, +/-1, +/-3, +/-5 Pazaak Cards (~351 Credits left)
+- *Buy*: CNS Strength Enhancer, Breath Mask, +/-3, +/-5 Pazaak Cards (~103 Credits left)
 
 **7. Junix Nard on Tatooine**
-- *Buy*: 2x +/-2, 2x +/-3, 2x +/-4 Pazaak Cards (~1451 Credits left)
+- *Buy*: 1x +/-1, 2x +/-2, 2x +/-3, 2x +/-4 Pazaak Cards (~1003 Credits left)
 
 **8. Czerka Store on Korriban**
 - *Buy*: 5x Echani Battle Stim, 5x Each of Hyper Alacrity, Strength, and Stamina (~1 Credit Left) 
@@ -239,21 +239,22 @@ Here's the full list of alignment shifts that happen during the run; there are 4
 | Neutral | Kill Vorn | Low Dark | -2 | 38 |
 | Dark | Order Sasha off your ship | Mid Dark | -2 | 36 |
 | Dark | Kill Ithorak | Low Dark | -1 | 35 |
-| Dark | Prevent Carth from killing Saul | Low Light | +4 | 39 |
-| Dark | Tell Shaardan not to kill the hopefuls | Low Light | +4 | 43 |
-| Neutral | Persuade Yuthura to admit you to the Sith Academy | Low Dark | -2 | 41 |
-| Neutral | Persuade Kel Algwinn to return to the Jedi | Hardcoded | +3 | 44 |
-| Neutral | Give Dustil evidence of Uthar's betrayal | High Light | +6 | 50 |
-| Neutral | Use serum on the Mandalorian prisoner | Hardcoded | -3 | 47 |
-| Neutral | Use serum on the Mandalorian prisoner again | Hardcoded | -3 | 44 |
-| Neutral | Give dark answers during Jorak Uln's quiz | Mid Dark | -4 | 40 |
-| Neutral | Tell the Sith renegades they're free | High Light | +6 | 46 |
-| Neutral | Spare Yuthura Ban | Mid Light | +4 | 50 |
-| Neutral | Profess your faith in Bastila | Low Light | +2 | 52 |
-| Neutral | | Low Light | +2 | 54 |
-| Neutral | Remain true to the Light Side on Lehon | High Light | +6 | 60 |
-| Neutral | | Highest Light | +10 | 70 |
-| Light | Tell Malak that you serve the light | Low Light | +1 | 71 |
+| Dark | Threaten Shasa | High Dark | -4 | 31 |
+| Dark | Prevent Carth from killing Saul | Low Light | +4 | 35 |
+| Dark | Tell Shaardan not to kill the hopefuls | Low Light | +4 | 39 |
+| Dark | Persuade Yuthura to admit you to the Sith Academy | Low Dark | -1 | 38 |
+| Dark | Persuade Kel Algwinn to return to the Jedi | Hardcoded | +3 | 41 |
+| Neutral | Give Dustil evidence of Uthar's betrayal | High Light | +6 | 47 |
+| Neutral | Use serum on the Mandalorian prisoner | Hardcoded | -3 | 44 |
+| Neutral | Use serum on the Mandalorian prisoner again | Hardcoded | -3 | 41 |
+| Neutral | Give dark answers during Jorak Uln's quiz | Mid Dark | -4 | 37 |
+| Neutral | Tell the Sith renegades they're free | High Light | +8 | 45 |
+| Neutral | Spare Yuthura Ban | Mid Light | +4 | 49 |
+| Neutral | Profess your faith in Bastila | Low Light | +2 | 51 |
+| Neutral | | Low Light | +2 | 53 |
+| Neutral | Remain true to the Light Side on Lehon | High Light | +6 | 59 |
+| Neutral | | Highest Light | +10 | 69 |
+| Light | Tell Malak that you serve the light | Low Light | +1 | 70 |
 
 If you're more of a visual learner, you can see the overall alignment in chart form here:
 
@@ -262,11 +263,11 @@ If you're more of a visual learner, you can see the overall alignment in chart f
 The alignment route is quite lenient, since we no longer try to equip the Solari crystal until after Lehon, when we get a massive infusion of light side points when we choose to renounce our former identity.
 
 Some other fun facts for the alignment route:
-- The lowest alignment is 33, after killing Lorgal on Manaan; the highest is 69, at the very end.
-- Of the 46 alignment shifts, 7 are high shifts, 7 are mid shifts, and 29 are low shifts.  3 are specially coded to be a specific amount regardless of your alignment.
-- Before the Leviathan, there are only 8 light side shifts against 23 dark shifts; after Leviathan there are 11 light vs. only 4 dark.
-- When you fly to Lehon, your alignment is exactly 50, right where it started.
-- Staying true to the light side is the first time the route is light-aligned; in fact, it's the first time the alignment goes above 52.
+- The lowest alignment is 31, after attacking Shasa on Manaan; the highest is 70, at the very end.
+- Of the 47 alignment shifts, 8 are high shifts, 7 are mid shifts, and 29 are low shifts.  3 are specially coded to be a specific amount regardless of your alignment.
+- Before the Leviathan, there are only 8 light side shifts against 24 dark shifts; after Leviathan there are 11 light vs. only 4 dark.
+- When you fly to Lehon, your alignment is 51, almost exactly where it started.
+- Staying true to the light side is the first time the route is light-aligned; in fact, it's the first time the alignment goes above 51.
 
 The ending for the run is the light side ending; see below.
 
@@ -307,19 +308,22 @@ In general, every quest outcome is chosen to get the fastest time, regardless of
 **11. Middleman - Dark**
   - We give Sharina half-price for her wraid plate, as it's cheaper, very slightly faster, and we don't need the light side points anymore.
 
-**12. Korriban Sidequests and Prestige** 
+**12. Missing Selkath - Dark**
+  - Threatening and attacking Shasa is a few seconds faster than Persuading her to leave, and in the long term, the dark alignment shift doesn't affect anything.
+
+**13. Korriban Sidequests and Prestige** 
   - Many of the Korriban choices are made because we can only turn in five prestige points before Uthar stops accepting other quests.  Choosing the Dark Mandalorian Weapons Cache, Light Doubting Sith, Neutral Ajunta Pall's Sword, and Light Renegade Sith allows those sidequests to be completed without talking to Uthar; this leaves only five quests (Code of the Sith, Hermit in the Hills, Rogue Droid, Aiding Lashowe, and Double-Double Cross) that require getting a prestige point from Uthar.  The only other reasonable possibility is Neutral Renegade Sith and Light Rogue Droid; this is slower on average by 2-3s. 
 
-**13. Finding Dustil - Light** 
+**14. Finding Dustil - Light** 
   - Choosing to give Dustil the evidence of Uthar's treachery is just barely slower, but prevents having to fight him and also prevents a large alignment swing that could affect our ability to equip Solari.
 
-**14. The Sword of Ajunta Pall - Neutral**
+**15. The Sword of Ajunta Pall - Neutral**
   - Since we are no longer light-aligned when we do this quest, we now opt for the neutral ending of just saying goodbye after finding his sword.
 
-**15. Hermit in the Hills - Dark** 
+**16. Hermit in the Hills - Dark** 
   - Choosing the Dark Hermit in the Hills completion is faster and prevents having to fight Jorak Uln, who's actually kind of a pain.
 
-**16. Trapped on a Nameless World - Light**
+**17. Trapped on a Nameless World - Light**
   - We stay true to the Light Side on Lehon because otherwise the "Juhani" quest does not complete.  It's also faster, since we would otherwise have to bring Bastila through the Star Forge with us.
 
 ## Route Overview
@@ -417,7 +421,7 @@ This route does not visit Yavin space station, as there are no official quests t
 
 **9. Manaan 2**
 - Kill Ithorak and enter the Sith Base
-- Force Persuade the Selkath youths to abandon the Sith
+- Attack the missing Selkath youths for joining the Sith
 - Find the Data Module
 - Start Sunry's Murder Trial
 - Talk to Hulas to finish the GenoHaradan sidequests
@@ -513,7 +517,7 @@ Quest Notes:
 - Male Scout - Custom Character
 - Choose Mullet Man (or not, but Mullet Man is the best)
 - Str to 18, Dex to 12, Con to 12, Int to 10, Cha to 12
-- Computer Use to 4, Treat Injury to 4, Save Rest
+- Computer Use to 4, Stealth to 1, Treat Injury to 4, Save Rest
 - Initial Feat - Weapon Focus: Melee Weapons
 - Pick a good name!
 - Timer starts when you hit Play!
@@ -574,16 +578,15 @@ Quest Notes:
 ```
 SHOPPING: Larrim
 - SELL ALL EXCEPT:
+  - Medpacs (but sell 1 of them)
   - 3 Computer Spikes (if you got one from Dia's bag, sell it)
   - Vibroblade
   - Grenades
   - Stims
-- BUY
+- BUY:
   - 2x Concussion Grenade
   - Battle Stimulant
-- End: ~1100 or ~1200 Credits (1100 with only one of Parts or Spike, 1200 with both)
-- Note: There is a small chance (~10%) that you'll be slightly under 1100 or 1200.
-- If this happens, sell one Medpac, as it's important to be above your target for Zelka's stims.
+- End: ~1150 or ~1250 Credits (1150 with only one of Parts or Spike, 1250 with both)
 ```
 
 - Talk to Carth for Carth #1 after shopping
@@ -607,11 +610,11 @@ SHOPPING: Larrim
 
 ```
 SHOPPING: Zelka Forn
--BUY:
+- BUY:
   - Nerve Enhancement Package
-  - 9x Adrenal Alacrity
+  - 10x Adrenal Alacrity
   - 3x Adrenal Strength
-  - If you can, buy 1 extra Alacrity and 1 extra Strength
+  - If you can, buy 2 additional Adrenal Strength 
     - This only happens if you got a Spike and Parts from Dia's bag
 - End: <50 Credits
 ```
@@ -678,13 +681,17 @@ SHOPPING: Zelka Forn
 
 ### Undercity and Sewers
 - Beggars accost you: 3,1,4
-- Open gate on right to speak to healer: 1,2
-- Avoid rakghouls in pen to speak to outcasts: 2,2
-  - If you get into combat, you'll have to kill the rakghouls, and that's not an easy fight.
-  - ***Starts and Finishes "Infected Outcasts"***
-- Hug the right side of the right ramps to avoid the Igear conversation
-  - This is essential, as we'll use this conversation later for a trick
 - *Party: Add Carth*
+- Swap to Carth and click on Outcast Healer
+- Swap to MC and run towards gate, but stop moving before Carth's convo triggers
+- When it triggers, healer convo: 1,2
+- Swap to Carth and avoid rakghouls in pen to speak to outcasts: 2,2
+  - If you get into combat, you'll have to kill the rakghouls, and that's not an easy fight.
+  - This swaps MC and Carth's positions
+  - ***Starts and Finishes "Infected Outcasts"***
+- As Carth, hug the left side of the left ramps to avoid the Igear conversation
+  - This is essential, as we'll use this conversation later for a trick
+- As Carth, run forward to trigger the Run, Hendar, Run cutscene
 - Kill rakghoul attacking Hendar
 - Mission joins the party
   - *Party: Keep Mission and Carth when prompted*
@@ -791,7 +798,7 @@ SHOPPING: Zelka Forn
 - Bastila #1 and Carth #3
   - The Bastila conversation can be skipped, but then she'll try to talk to you while you're moving later, so it's best to mash through it quickly here
   - ***Starts "Bastila"***
-- `Level to 5: Com/TI to 8, Improved Two-Weapon Fighting`
+- `Level to 5: Save all Skills, Improved Two-Weapon Fighting`
 - Carth #4
 - Exit the Hideout
   - *Party: Add Bastila when prompted*
@@ -948,7 +955,7 @@ SHOPPING: Janice Nall
   - ***Starts "Jedi Trials"***
 - Talk to Master Dorak to become a Jedi Guardian
 - `Level 6: Save Skills, Improved Flurry, Burst of Speed and Force Valor`
-- `Level 7: Persuade to 10, Affect Mind`
+- `Level 7: Persuade to 10, TI to 10, Affect Mind`
 - Talk to Master Zhar again to construct lightsaber
 - Talk to Zhar a fourth time (ugh)
 - *Equip MC: Double-bladed Lightsaber, Strength Gauntlets*
@@ -1051,7 +1058,7 @@ SHOPPING: Mic'Tunan'Jus Orgu
 - BUY
   - 4x Life Support Pack
   - 9-10x Advanced Medpac (need at least 7880 credits left after medpacs)
-  - Adrenal Strength
+  - Adrenal Strength (only if you bought 3 from Zelka; if you bought 5 you don't need this)
   - Bantha Fodder
 - SELL ALL EXCEPT
   - Medpacs
@@ -1162,10 +1169,10 @@ SHOPPING: Mic'Tunan'Jus Orgu
 ```
 SHOPPING: Selkath Merchant
 - BUY:
-  - 6x Computer Spikes
+  - 8x Computer Spikes
   - 7x Parts
   - All 20 Hyper Stimulants
-- End: ~2151 Credits
+- End: ~1703 Credits
 ```
 
 - Talk to Nubassa: 3,2,1
@@ -1230,8 +1237,8 @@ SHOPPING: Aratech Mercantile
 - BUY:
   - Breath Mask
   - CNS Strength Enhancer
-  - +/-1, +/-3 and +/-5 Pazaak Cards
-- End: ~351 Credits
+  - +/-3 and +/-5 Pazaak Cards
+- End: ~103 Credits
 ```
 
 - *Equip MC: Breath Mask and CNS Strength Enhancer*
@@ -1420,10 +1427,11 @@ SHOPPING: Aratech Mercantile
 ```
 SHOPPING: Junix Nard
 - BUY:
+  - 1x +/-1
   - 2x +/-2
   - 2x +/-3
   - 2x +/-4
-- End: ~1451 Credits
+- End: ~1003 Credits
 ```
 
 - Talk to Furko Nellis twice: 1,1,2,2 ... 1,1,1
@@ -1447,8 +1455,6 @@ SHOPPING: Junix Nard
 - Jagi accosts you and Canderous: 2,2,2,2,2,2,2
   - ***Finishes "Jagi's Challenge"***
 - *Party: Remove Canderous*
-- At the load zone, *Stims/Force: Cast Knight Valor, Hyper Strength, Stamina, and Battle Stim, but NOT ALACRITY*
-  - We need to save the Alacrity for the underwater section of Manaan
 - Enter Sand People Territory
 - Run towards the left and Force Jump to take out Vorn's Assault Droid
 - Immediately hack Vorn's Assault Droid: 1,4,4
@@ -1478,7 +1484,7 @@ SHOPPING: Junix Nard
 
 - Leave Ebon Hawk
   - *Party: Add Juhani when prompted*
-- Vek accosts you: 1,1,1
+- Vek accosts you: 1,1,2
 - *Force: Cast Knight Valor (Knight Speed already active)*
 - Enter Ithorak's hangar and attack him with MC's Flurry
 - As Juhani, use Force Speed to run to the Sith Hangar 
@@ -1495,7 +1501,7 @@ SHOPPING: Junix Nard
 - Swap to MC and go through two doors, then turn left and through two more
 - As MC, run/Force Jump down hall and target door near Selkath Apprentice
 - Swap to Juhani and run down hall to target door to reception
-- Swap to MC, enter dormitory, and speak to Shasa: 1,1,1,1,2
+- Swap to MC, enter dormitory, and speak to Shasa: 3
   - You may wish to medpac MC and/or Juhani here if health is low
 - Swap to Juhani and enter reception
 - Rude secretary accosts you and sics security on you
@@ -1777,7 +1783,7 @@ SHOPPING: Czerka Store
     - ***Finishes "Finding Dustil"***
   - As Juhani, Deactivate Solo Mode and run forward to talk to Interrogator: 1,2
     - This warps the MC and Carth to Juhani's location so that the party is together from here
-- As MC, use interrogation computer: 5,1,4,5,4,1,1
+- As MC, use interrogation computer: 5,1,4,1
 - Interrogator accosts you again: 3
   - ***Finishes "The Mandalorian Weapons Cache"***
 - Return to central room and take ramp down
@@ -2121,6 +2127,16 @@ This is a list of all the quests in the game, as well as the alignment we comple
 - A Quest for the Star Forge
 
 ## Version History
+
+**v3.4 (December 2023)**
+- New micro strat in Undercity with Carth
+- Threaten Shasa in the Sith Base
+- Kill the Mandalorian Prisoner in the Sith Academy
+- Tweak build to stay at 4 Com, get 1 Stealth for Stealth Field Generator, and reach 10 TI at Jedi
+- Tweak Larrim and Zelka's shopping to always get 10 Alacrity and 3-5 Strength (depending on Dia's bag loot)
+- Tweak Selkath Merchant shopping to buy 8 Spikes instead of 6
+- Persuade Vek instead of bribing him to save Credits
+- Buy the +/-1 Paazak Card on Tatooine instead of Dantooine
 
 **v3.3 (August 2023)**
 - Reformat for the transfer from SRC to GitHub.
