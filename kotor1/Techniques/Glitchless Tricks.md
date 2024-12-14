@@ -16,7 +16,17 @@ Each of the following tricks or techniques are allowed in all rulesets, includin
 
 ### Description
 
+Duration Glitch is a glitch that causes the duration of temporary effects to be greatly extended whenever the party goes through a module transition.  While Duration Glitch is not fully understood, the following conditions seem necessary:
+
+1. The last loaded save must have been a Manual Save or Quick Save.  Loading an Autosave or starting from a New Game disables Duration Glitch.
+2. With any effect active, go through a module transition.  This will modify the duration of the active effects.
+
 *Video forthcoming*
+
+**Additional Notes:**
+
+- The amount the effects are extended seems to partly depend on which module is being loaded.  In particular, Duration Glitch seems to not work as well in the Upper Shadowlands, and in some places can even "cancel" effects by modifying their durations so that they expire immediately.
+- The amount the effects are extended seems to also depend on the original duration of the effect.  For example, stimulants (with a base duration of 120 seconds) extend further than Force Valor (with a base duration of 20 seconds).
 
 Duration Glitch does not exist on the XBox version of KotOR.
 
@@ -26,7 +36,9 @@ The only way to avoid Duration Glitch is to either never load a manual save or q
 
 ### Uses
 
-Duration Glitch is used in every KotOR speedrun, but is especially valuable in NMG and Glitchless to make a set of stims last for an entire planet.
+Duration Glitch is used in every KotOR speedrun to extend the duration of Force Powers and stimulants, particularly Force Speed and Adrenal Alacrity.  It is especially valuable in NMG and Glitchless to make a set of stims last for an entire planet, allowing fewer stims to cover all necessary fights.
+
+Duration Glitch can also extend negative temporary effects, such as Stun or the attribute loss from Sonic damage or Force Choke.  In particular, it can lead to seemingly indefinite Stuns on party members, particularly on the Leviathan.
 
 ## Speed Extension
 
@@ -88,3 +100,23 @@ Auto-Level Attributes are currently used in All Quests Unrestricted, Any% NMG, a
 ## Fast Text
 
 ### Description
+
+Fast Text is a memory-based glitch where the sound files for dialogue do not load properly, allowing dialogue to progress instantly instead of being mashed.  This version of Fast Text occurs naturally as the game is played, unlike Forced Fast Text, which uses the Anywhere Menu Glitch and is only legal in Unrestricted speedruns.
+
+*Video forthcoming*
+
+### Legality
+
+Fast Text is an uncontrollable side-effect of a memory leak, and thus cannot be prevented without regularly restarting the game.  It is therefore allowed in Glitchless.
+
+### Uses
+
+Fast Text typically only occurs in Glitchless speedruns; other runs are either over before Fast Text would occur, or restart the game frequently enough that Fast Text is never encountered.  The same memory leak that causes Fast Text also eventually causes textures to fail to load correctly and be replaced with a white polygon.  Once the textures fail to load, the next Save or Load will crash the game; Any% Glitchless can usually finish (barely) before this happens, while All Quests Glitchless must restart the game once, which disables Fast Text until later on in the run.
+
+Modules that typically have Fast Text include:
+- East Central
+- Hrakert Station
+- Viewing Platform
+Modules that sometimes have Fast Text include:
+- Manaan Docking Bay
+- Ahto West
