@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Each of the following tricks or techniques are allowed in all rulesets, including the Glitchless Ruleset.  Most of these are allowed because they are considered either impossible or too cumbersome to avoid within the context of a speedrun.  This guide will describe each trick in detail, including how to perform it, why it is allowed in Glitchless, and where it is used in all KotOR speedruns.
+Each of the following tricks or techniques are allowed in all rulesets, including the Glitchless Ruleset.  Most of these are allowed because they are considered either impossible or too cumbersome to avoid within the context of a speedrun.  This guide will describe each trick in detail, including how to perform it, and where it is used in all KotOR speedruns.
 
 ## Duration Glitch
 
@@ -30,10 +30,6 @@ Duration Glitch is a glitch that causes the duration of temporary effects to be 
 
 Duration Glitch does not exist on the XBox version of KotOR.
 
-### Legality
-
-The only way to avoid Duration Glitch is to either never load a manual save or quick save (which would effectively ban Manual Saves), or to never go through a load zone with a temporary effect active.  Both of these were considered too onerous, and thus Duration Glitch is allowed in Glitchless.
-
 ### Uses
 
 Duration Glitch is used in every KotOR speedrun to extend the duration of Force Powers and stimulants, particularly Force Speed and Adrenal Alacrity.  It is especially valuable in NMG and Glitchless to make a set of stims last for an entire planet, allowing fewer stims to cover all necessary fights.
@@ -48,10 +44,6 @@ Speed Extension is a method of using an Adrenal Alacrity to extend the double mo
 
 *Video forthcoming*
 
-### Legality
-
-Speed Extension is allowed in Glitchless because the only way to avoid it is to never use Force Speed and Adrenal Alacrity at the same time.  Since both buffs have other desirable effects (Defense boost and extra attacks from Speed, Dex boost from Alacrity), this was deemed too restrictive and thus this technique is allowed in all speedruns.
-
 ### Uses
 
 Speed Extension can be used in several places within the NMG and Glitchless rulesets, but most notably it is used to extend the effect of Force Speed throughout the underwater modules on Manaan, Sea Floor and Hrakert Rift.
@@ -63,10 +55,6 @@ Speed Extension can be used in several places within the NMG and Glitchless rule
 Stunned Combat is a method of attacking while stunned in combat.  By swapping party members to the Stunned member and then immediately queueing combat actions, the Stunned party member will execute those actions as if not stunned.  The debilitated penalty of the Stun still applies.
 
 *Video forthcoming*
-
-### Legality
-
-Stunned Combat was deemed to be too likely to happen accidentally as well as being relatively rare and a minor enough benefit that it was not worth banning in Glitchless.
 
 ### Uses
 
@@ -89,10 +77,6 @@ Auto-Level Attributes are usually used to gain extra STR points, as that's where
 5. Auto-Level at 11; this gives 22 STR, Skill Points depending on your Base Class, the Force Power Stasis (unless you already selected it), and no Feat is selected at this level.
 6. If possible, Manual Level at 12 to reach 23 STR
 
-### Legality
-
-Auto-Level Attributes was deemed to be a quirk of the Auto-Leveling system rather than an outright glitch, and thus is allowed in Glitchless speedruns.
-
 ### Uses
 
 Auto-Level Attributes are currently used in All Quests Unrestricted, Any% NMG, and can be used in Any% Glitchless.  AQU actually uses Hotshots to become a Jedi at Level 3, and thus gains an extra STR attribute point at levels 6 and 10, instead of levels 7 and 11.
@@ -104,10 +88,6 @@ Auto-Level Attributes are currently used in All Quests Unrestricted, Any% NMG, a
 Fast Text is a memory-based glitch where the sound files for dialogue do not load properly, allowing dialogue to progress instantly instead of being mashed.  This version of Fast Text occurs naturally as the game is played, unlike Forced Fast Text, which uses the Anywhere Menu Glitch and is only legal in Unrestricted speedruns.
 
 *Video forthcoming*
-
-### Legality
-
-Fast Text is an uncontrollable side-effect of a memory leak, and thus cannot be prevented without regularly restarting the game.  It is therefore allowed in Glitchless.
 
 ### Uses
 
