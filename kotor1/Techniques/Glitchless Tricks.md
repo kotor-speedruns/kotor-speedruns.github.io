@@ -42,7 +42,9 @@ Duration Glitch can also extend negative temporary effects, such as Stun or the 
 
 Speed Extension is a method of using an Adrenal Alacrity to extend the double movement speed effect of Force Speed.  If both effects are active and Force Speed runs out, then the double movement speed effect of Force Speed remains active until the Adrenal Alacrity wears off.  The other effects of Force Speed (including the Defense boost and any extra attacks per round) are not extended.
 
-*Video forthcoming*
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/2tSxdrh4Rrk" frameborder="0"></iframe>
+</div>
 
 ### Uses
 
