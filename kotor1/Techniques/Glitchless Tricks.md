@@ -91,18 +91,19 @@ Auto-Level Attributes are currently used in All Quests Unrestricted, Any% NMG, a
 
 ### Description
 
-Fast Text is a memory-based glitch where the sound files for dialogue do not load properly, allowing dialogue to progress instantly instead of being mashed.  This version of Fast Text occurs naturally as the game is played, unlike Forced Fast Text, which uses the Anywhere Menu Glitch and is only legal in Unrestricted speedruns.
+Fast Text is a memory-based glitch where the sound files for dialogue do not load properly, allowing dialogue to progress instantly instead of being mashed.  This version of Fast Text occurs naturally as the game is played, unlike [Forced Fast Text](<../Major Glitches/Anywhere Menu Glitch#forced-fast-text>), which uses the [Anywhere Menu Glitch](<../Major Glitches/Anywhere Menu Glitch>) and is only legal in Unrestricted speedruns.  Natural Fast Text is not easily controllable and is generally more of a bonus when it does occur.
 
-*Video forthcoming*
+The same memory leak that causes Fast Text also eventually causes textures to fail to load correctly and be replaced with a white polygon.  Once the textures fail to load, the next Save or Load will crash the game.  This memory leak is different than the memory leak related to Quick Saving, which causes any runs with [Save Teleporting](<Save Teleporting>) to have to reset frequently.
 
 ### Uses
 
-Fast Text typically only occurs in Glitchless speedruns; other runs are either over before Fast Text would occur, or restart the game frequently enough that Fast Text is never encountered.  The same memory leak that causes Fast Text also eventually causes textures to fail to load correctly and be replaced with a white polygon.  Once the textures fail to load, the next Save or Load will crash the game; Any% Glitchless can usually finish (barely) before this happens, while All Quests Glitchless must restart the game once, which disables Fast Text until later on in the run.
+Fast Text typically only occurs in Glitchless speedruns; other runs are either over before Fast Text would occur, or restart the game frequently enough that Fast Text is never encountered.  Any% Glitchless can usually finish (barely) before the texture crash described above occurs, while All Quests Glitchless must restart the game once, which disables Fast Text until later on in the run.
 
 Modules that typically have Fast Text include:
 - East Central
 - Hrakert Station
 - Viewing Platform
+
 Modules that sometimes have Fast Text include:
 - Manaan Docking Bay
 - Ahto West
