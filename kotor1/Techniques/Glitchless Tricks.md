@@ -54,7 +54,9 @@ Speed Extension can be used in several places within the NMG and Glitchless rule
 
 Stunned Combat is a method of attacking while stunned in combat.  By swapping party members to the Stunned member and then immediately queueing combat actions, the Stunned party member will execute those actions as if not stunned.  The debilitated penalty of the Stun still applies.
 
-*Video forthcoming*
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/QoMPUpzRAI4" frameborder="0"></iframe>
+</div>
 
 ### Uses
 
@@ -66,7 +68,9 @@ Stunned Combat is mostly used to mitigate bad RNG resulting in Stuns during comb
 
 Auto-Level Attributes is a method of getting extra Attribute points at non-standard levels by exploiting an error in the Auto-Level coding.  When checking to see if an Auto-Level should assign an Attribute point, the game only checks the current class level rather than the overall character level.  Thus if the Main Character (MC) has a non-multiple of 4 in their base class, Auto-Leveling when the MC's Jedi level is a multiple of 4 will grant an Attribute point.
 
-*Video forthcoming*
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/gvNkJGVTQdE" frameborder="0"></iframe>
+</div>
 
 Auto-Level Attributes are usually used to gain extra STR points, as that's where the Jedi Guardian class assigns its Attribute point during an Auto-Level.  The drawback of Auto-Level Attributes is that you lose control over where your Feats, Force Powers, and Skill Points for that level are assigned, but with proper build construction this can be mitigated.  The usual application of this trick (in NMG and Glitchless) is as follows:
 
