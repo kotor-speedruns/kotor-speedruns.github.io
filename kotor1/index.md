@@ -29,9 +29,10 @@ These guides will cover all information relevant to the speedrun of the given ca
 
 These guides cover specific glitches used frequently in KotOR speedrunning, including detailed instructions and videos for performing the glitch.  If you're looking to polish up on a specific type of glitch, these are the guides for you.
 
-Glitch guides are split into two types:
+Glitch guides are split into two types, with an extra guide for things that are legal in Glitchless:
 - **Major Glitches:** These glitches are considered major due to their ability to either significantly sequence-break the game, or completely bypass the usual rules of normal gameplay (i.e., Fake Level Ups bypassing normal character construction rules).  Major Glitches are only legal in the Unrestricted Ruleset.
 - **Techniques:** These glitches are not considered major; while they have useful effects, those effects are either minor or limited, so that they augment normal gameplay rather than bypass it completely.  Techniques are legal in both the No Major Glitches and Unrestricted Rulesets.
+- **[Glitchless Tricks](./Techniques/Glitchless%20Tricks):** This extra guide covers things that are legal in the Glitchless Ruleset (as well as No Major Glitches and Unrestricted).  These techniques are either unavoidable for regular gameplay or considered quirks of in-game systems rather than glitches.
 
 | | **Major Glitches** | | | | **Techniques** | |
 |---|---|---|---|---|---|---|
