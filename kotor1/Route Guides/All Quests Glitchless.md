@@ -56,10 +56,14 @@ The final quest is the last one in the game, "The Final Confrontation".  The gam
 ### Glitchless Ruleset
 
 All glitches are banned, with the exception of the following:
-- Fast text (unavoidable without restarting the game frequently)
-- Duration glitch (also unavoidable, and semirandom at this point in time)
+- Fast Text (unavoidable without restarting the game frequently)
+- Duration Glitch (also unavoidable, and semirandom at this point in time)
+- Stunned Combat (difficult to reliably avoid)
+- Auto-Level Attributes (deemed a quirk of Auto-Levels instead of a glitch)
 
-Due to its glitchy nature, QUICKSAVE is banned as well.  Manual and autosaves, however, are allowed and recommended in certain places.
+In addition, exploits that give infinite experience, credits, or alignment points are also banned.
+
+Due to its glitchy nature, QUICKSAVE is banned as well.  Manual and autosaves, however, are allowed.
 
 ## Character Build
 
