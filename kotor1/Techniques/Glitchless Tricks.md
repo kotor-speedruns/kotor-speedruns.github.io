@@ -21,7 +21,9 @@ Duration Glitch is a glitch that causes the duration of temporary effects to be 
 1. The last loaded save must have been a Manual Save or Quick Save.  Loading an Autosave or starting from a New Game disables Duration Glitch.
 2. With any effect active, go through a module transition.  This will modify the duration of the active effects.
 
-*Video forthcoming*
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/H-YirNYHFDU" frameborder="0"></iframe>
+</div>
 
 **Additional Notes:**
 
