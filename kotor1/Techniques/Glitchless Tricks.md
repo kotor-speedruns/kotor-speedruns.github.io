@@ -87,7 +87,7 @@ Auto-Level Attributes are usually used to gain extra STR points, as that's where
 
 ### Uses
 
-Auto-Level Attributes are currently used in All Quests Unrestricted, Any% NMG, and can be used in Any% Glitchless.  AQU actually uses Hotshots to become a Jedi at Level 3, and thus gains an extra STR attribute point at levels 6 and 10, instead of levels 7 and 11.
+Auto-Level Attributes are currently used in [All Quests Unrestricted](../Route%20Guides/All%20Quests%20Unrestricted), [Any% NMG](./Route%20Guides/Any%25%20NMG), and can be used in [Any% Glitchless](../Route%20Guides/Any%25%20Glitchless).  [All Quests Unrestricted](../Route%20Guides/All%20Quests%20Unrestricted) actually uses Hotshots to become a Jedi at Level 3, and thus gains an extra STR attribute point at levels 6 and 10, instead of levels 7 and 11.
 
 ## Fast Text
 
@@ -99,13 +99,14 @@ The same memory leak that causes Fast Text also eventually causes textures to fa
 
 ### Uses
 
-Fast Text typically only occurs in Glitchless speedruns; other runs are either over before Fast Text would occur, or restart the game frequently enough that Fast Text is never encountered.  Any% Glitchless can usually finish (barely) before the texture crash described above occurs, while All Quests Glitchless must restart the game once, which disables Fast Text until later on in the run.
+Fast Text typically only occurs in Glitchless speedruns; other runs are either over before Fast Text would occur, or restart the game frequently enough that Fast Text is never encountered.  [Any% Glitchless](../Route%20Guides/Any%25%20Glitchless) can usually finish (barely) before the texture crash described above occurs, while [All Quests Glitchless](../Route%20Guides/All%20Quests%20Glitchless)
+ must restart the game once, which disables Fast Text until later on in the run.
 
 Modules that typically have Fast Text include:
-- East Central
 - Hrakert Station
 - Viewing Platform
 
 Modules that sometimes have Fast Text include:
 - Manaan Docking Bay
+- East Central
 - Ahto West
