@@ -27,10 +27,11 @@ If you have additional questions, you can check out the [KotOR Speedrunning Disc
 **REMEMBER to show yourself restarting the game at the beginning of each attempt.**
 
 All glitches are banned, with the exception of the following:
-- Fast Text (unavoidable without restarting the game frequently)
-- Duration Glitch (also unavoidable, and semirandom at this point in time)
-- Stunned Combat (difficult to reliably avoid)
-- Auto-Level Attributes (deemed a quirk of Auto-Levels instead of a glitch)
+- [Fast Text](<../Techniques/Glitchless Tricks#fast-text>)
+- [Duration Glitch](<../Techniques/Glitchless Tricks#duration-glitch>)
+- [Speed Extension](<../Techniques/Glitchless Tricks#speed-extension>)
+- [Stunned Combat](<../Techniques/Glitchless Tricks#stunned-combat>)
+- [Auto-Level Attributes](<../Techniques/Glitchless Tricks#auto-level-attributes>)
 
 In addition, exploits that give infinite experience, credits, or alignment points are also banned.
 
