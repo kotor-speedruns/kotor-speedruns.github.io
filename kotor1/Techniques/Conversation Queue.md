@@ -4,7 +4,8 @@
 
 **Table of Contents**
 - [Description](#description)
-- [How To](#conversation-queue)
+- [Conversation Queue](#conversation-queue)
+- [Party Swap Cutscene Skips](#party-swap-cutscene-skips)
 - [Uses](#uses)
 - [Related Glitches](#related-glitches)
 
