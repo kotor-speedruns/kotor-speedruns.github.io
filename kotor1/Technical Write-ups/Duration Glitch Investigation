@@ -1,0 +1,246 @@
+
+## From Available Source Files
+
+  ### Spells.2da
+  The associated scripts for the various stims in game (often called “combat shots”) are listed in the spells.2da file shown below. As are the scripts for force powers, and energy shields.
+  ![alt text](/assets/images/duration-glitch-write-up/spells_2da.png)
+
+  ### k_sup_comshots
+  We can see in this snippet of the that these are dispatching to the virtual machine functions `EffectAbilityIncrease`, `EffectMovementSpeedIncrease`, `EffectAttackIncrease`, and more.
+
+  ```
+ // Start of snippet...
+if(nID == 69)
+      {
+          eLink = EffectAbilityIncrease(ABILITY_STRENGTH, 4);
+          nIcon = 32;
+      }
+      else if(nID == 70)
+      {
+          eLink = EffectAbilityIncrease(ABILITY_DEXTERITY, 4);
+          eLink = EffectLinkEffects(eLink, EffectMovementSpeedIncrease(20));
+          nIcon = 33;
+      }
+      else if(nID == 71)
+      {
+          eLink = EffectAbilityIncrease(ABILITY_CONSTITUTION, 4);
+          nIcon = 34;
+      }
+      else if(nID == 72)
+      {
+          eLink = EffectAbilityIncrease(ABILITY_STRENGTH, 6);
+          nIcon = 35;
+      }
+      else if(nID == 73)
+      {
+          eLink = EffectAbilityIncrease(ABILITY_DEXTERITY, 6);
+          eLink = EffectLinkEffects(eLink, EffectMovementSpeedIncrease(30));
+          nIcon = 36;
+      }
+      else if(nID == 74)
+      {
+          eLink = EffectAbilityIncrease(ABILITY_CONSTITUTION, 6);
+          nIcon = 37;
+      }
+      else if(nID == 75)
+      {
+          eBonusHP = EffectTemporaryHitpoints(8);
+          eLink = EffectAttackIncrease(1);
+          eLink = EffectLinkEffects(eLink, EffectDamageIncrease(1, DAMAGE_TYPE_UNIVERSAL));
+          nIcon = 38;
+      }
+      else if(nID == 76)
+      {
+          eBonusHP = EffectTemporaryHitpoints(16);
+          eLink = EffectAttackIncrease(2);
+          eLink = EffectLinkEffects(eLink, EffectDamageIncrease(2, DAMAGE_TYPE_UNIVERSAL));
+          nIcon = 39;
+      }
+      else if(nID == 77)
+      {
+          eBonusHP = EffectTemporaryHitpoints(25);
+          eLink = EffectAttackIncrease(3);
+          eLink = EffectLinkEffects(eLink, EffectDamageIncrease(3, DAMAGE_TYPE_UNIVERSAL));
+          nIcon = 40;
+      }
+      eLink = SetEffectIcon(eLink, nIcon);
+// ... File continues
+  ```
+
+  ### k_sp1_generic
+  So the generic force power handler just dispatches to this include script like so:
+ ```
+//:: k_sp1_generic
+/*
+    Runs all force powers in the game
+*/
+//:: Created By: Preston Watamaniuk
+//:: Copyright (c) 2002 Bioware Corp.
+
+#include "k_inc_debug"
+#include "k_inc_force"
+void main()
+{
+    Sp_RunForcePowers();
+}
+ ```
+
+  This inclusion scipt is deifned within, `k_inc_force`. Here's a snippet showing the application of burst of speed:
+  ```
+  /*
+  BURST OF SPEED
+  */
+  case FORCE_POWER_SPEED_BURST:
+  {
+      if(!GetHasSpellEffect(FORCE_POWER_KNIGHT_SPEED) &&
+          !GetHasSpellEffect(FORCE_POWER_SPEED_MASTERY))
+      {
+          SWFP_HARMFUL = FALSE;
+          eLink1 = EffectMovementSpeedIncrease(99);
+          eLink1 = EffectLinkEffects(eLink1, EffectACIncrease(2));
+          eLink1 = EffectLinkEffects(eLink1, EffectVisualEffect(VFX_DUR_KNIGHTS_SPEED));
+          eLink1 = SetEffectIcon(eLink1, 2);
+          if(OBJECT_SELF == GetPartyMemberByIndex(0))
+          {
+              eLink1 = EffectLinkEffects(eLink1, EffectVisualEffect(VFX_DUR_SPEED));
+          }
+          if(GetHasSpellEffect(FORCE_POWER_SPEED_BURST, oTarget))
+          {
+              Sp_RemoveSpellEffectsGeneral(FORCE_POWER_SPEED_BURST, oTarget);
+          }
+          Sp_ApplyEffects(FALSE, OBJECT_SELF, 0.0, 1, eLink1, 36.0, eInvalid, 0.0);
+      }
+  }
+  break;
+  ```
+
+  ### k_sup_bands
+  The arm bands handler determines the the shield, gets the effect with  `EffectForceShield`, and then runs `ApplyEffectToObject` to apply it to the target character. Here's a snippet showing that section:
+  ```
+  effect eShield = EffectForceShield(nShield);
+  eShield = SetEffectIcon(eShield, nIcon);
+  ApplyEffectToObject(DURATION_TYPE_TEMPORARY, eShield, GetSpellTargetObject(), 200.0);
+  ```
+
+  ## Digging into the Virtual Machine
+  Now that we have some example commands, being used to apply these effects, we can look into the reverse engineered source for these to understand our next steps.
+
+  The functions we'll be looking at are `EffectMovementSpeedIncrease` (as speed is often what we care about with duration glitch) and `ApplyEffectToObject` as that will likely lead us to how these effects actually get applied
+
+  ### EffectMovementSpeedIncrease
+  First we'll look at how an effect gets created. `EffectMovementSpeedIncrease` is a script funtion, which the internal virtual machine runs. 
+  
+  It has the following signature:
+  ```
+  effect EffectMovementSpeedIncrease(
+    int nNewSpeedPercent
+  );
+  ```
+
+  The function within the executable that handles this virtual machine call is `CSWVirtualMachineCommands::ExecuteCommandEffectMovementSpeedIncrease`
+
+  Below I'll walk through the basic structure of this function:
+
+  <div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/v15HGRR-pRM" frameborder="0"></iframe>
+  </div>
+
+  So in summary, it grabs the provided speed change percentage value, creates a new movement speed increase effect, adds the change to its integer set, and returns the effect back to the set.
+
+  <details>
+  <summary>Reversed Code Featured in the video</summary>
+  
+  ```
+undefined4 __thiscall
+CSWVirtualMachineCommands::ExecuteCommandEffectMovementSpeedIncrease
+          (CSWVirtualMachineCommands *this,undefined4 param_1,int speedChange)
+
+{
+    bool bVar1;
+    int *speedChangePTR;
+    CGameEffect *effect;
+    CGameObjectArray *gameObjectArray;
+    undefined3 extraout_var;
+    CGameObject *pCVar2;
+    uint id;
+    CGameObject *creatorGameOBJ;
+    CGameEffect *buffer;
+    void *lastFrame;
+    undefined *frameHandler;
+    ConstructorProgressCounter CPC;
+    CGameObject **creatorObjDest;
+    
+    CPC.base = -1;
+    frameHandler = &FrameHandler_0071cd4b;
+    lastFrame = ExceptionList;
+    if (speedChange == 1) {
+        speedChangePTR = &speedChange;
+        ExceptionList = &lastFrame;
+        CVirtualMachine::StackPopInteger(VirtualMachine,speedChangePTR);
+        if (speedChangePTR != (int *)0x0) {
+            buffer = (CGameEffect *)operator_new(140);
+            CPC.base = 0;
+            if (buffer == (CGameEffect *)0x0) {
+                effect = (CGameEffect *)0x0;
+            }
+            else {
+                effect = CGameEffect::CGameEffect(buffer,1);
+            }
+        // See GetEffectTypeScriptConstant for conversion to script effect type
+            effect->type = 0x1c;
+            CPC.base = -1;
+        // Zero out bit 5, and activate bit 4
+            effect->subtype = effect->subtype & 0xffef | 8;
+            CGameEffect::SetInteger(effect,0,speedChange);
+            id = *(uint *)(this + 8);
+            creatorObjDest = &creatorGameOBJ;
+            gameObjectArray = CServerExoApp::GetObjectArray(AppManager->server);
+            bVar1 = CGameObjectArray::GetGameObject(gameObjectArray,id,creatorObjDest);
+            pCVar2 = (CGameObject *)CONCAT31(extraout_var,bVar1);
+            if ((!bVar1) && (pCVar2 = creatorGameOBJ, creatorGameOBJ != (CGameObject *)0x0)) {
+                CGameEffect::SetCreator(effect,*(uint *)(this + 8));
+                pCVar2 = creatorGameOBJ;
+            }
+            CVirtualMachine::StackPushEngineStructure(VirtualMachine,0,effect);
+            if (pCVar2 == (CGameObject *)0x0) {
+                ExceptionList = lastFrame;
+                return 0xfffff830;
+            }
+            CGameEffect::~CGameEffect(effect);
+            _free(effect);
+            ExceptionList = lastFrame;
+            return 0;
+        }
+    }
+    ExceptionList = lastFrame;
+    return 0xfffff82f;
+}
+  ```
+  
+  </details>
+
+  ### ApplyEffectToObject
+  Now lets look at how this effect gets applied to the object (in our case the player character).
+
+  This script function has the following signature:
+  ```
+  void ApplyEffectToObject(
+    int nDurationType,
+    effect eEffect,
+    object oTarget,
+    float fDuration=0.0f
+  );
+  ```
+
+  The function within the executable that handles this virtual machine call is `CSWVirtualMachineCommands::ExecuteCommandApplyEffectToObject`
+
+  Below I'll walk through the basic structure of this function:
+
+  <div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/K5HYgLnPvck" frameborder="0"></iframe>
+  </div>
+
+  So this pops its parameters off the stack, determines the target and creator, and finally applies the effect to the object.
+
+  ## The Effect System
+  
