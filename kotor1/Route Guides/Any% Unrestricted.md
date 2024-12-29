@@ -408,7 +408,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
   - Open door, then buffer until you stand behind the Governor
   - Make sure you QS while standing next to him
   - Spam the conversation, then spam default attacks
-  - QL while spamming default attacks to attack the non-hostile governor
+  - QL while spamming default action (attack) to attack the non-hostile governor (be sure not to over spam or else you may talk to him)
 - Loot the Governor for the Taris Launch Codes
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Lower City using Slot 1
   - If you forgot to save in the Lower City, you can use the Autosave to do a [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) as a backup
