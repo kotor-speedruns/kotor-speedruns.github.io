@@ -434,7 +434,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
 - Use a [Conversation Queue](<../Techniques/Conversation Queue>) to skip Belaya's conversation
   - Run forward slightly and swap to Canderous
   - Talk to MC, then immediately swap to MC and run away, into the Enclave 
-- Once in the atrium, **Hard Save in New Slot 4**, then load that hard save to clear the [Conversation Queue](../Techniques/Conversation%20Queue)
+- Once in the atrium, **Hard Save in New Slot (Slot 4)**, then load that hard save to clear the [Conversation Queue](../Techniques/Conversation%20Queue)
 - [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#enclave-dlz) to the Courtyard (Atrium Left variant)  
   - Deactivate V-Sync for this and the other Dantooine DLZs
   - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen when this DLZ fires  
