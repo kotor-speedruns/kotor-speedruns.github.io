@@ -47,7 +47,7 @@ Because of the power of the Unrestricted Ruleset, this run skips a huge amount o
 
 ### Save Setup
 
-The updated route now uses a save system that requires *no pre-existing save files*.  If you click "Load Game" on the main menu, the game should give a pop-up saying you have no saved games.  This is superior to the old three-save method due to the advent of [Neo Hotshots](../Major%20Glitches/Hotshot#hss-hotshots), which are more efficient if your save is in either Slot 1 or the last save slot; in addition, saves are very slightly faster if you don't have to overwrite them.
+The updated route now uses a save system that requires *no pre-existing save files*.  If you click "Load Game" on the main menu, the game should give a pop-up saying you have no saved games.  This is superior to the old three-save method due to the advent of [Neo Hotshots](../Major%20Glitches/Hotshot#neo-hotshots), which are more efficient if your save is in either Slot 1 or the last save slot; in addition, saves are very slightly faster if you don't have to overwrite them.
 
 ### Route Outline
 
@@ -110,8 +110,8 @@ We begin as a Scoundrel; this guide as written can be completed as either a Male
 
 **Initial Attributes:**
 * Str - 8
-* Dex - 16/18
-* Con - 18/16
+* Dex - 18
+* Con - 16
 * Int - 8
 * Wis - 10
 * Cha - 10
@@ -199,7 +199,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
 
 ### Character Creation
 - Male/Female Scoundrel - Custom Character  
-- Dex to 16/18, Con to 18/16, Wis to 10, Cha to 10  
+- Dex to 18, Con to 16, Wis to 10, Cha to 10  
 - Awareness to 4, Security to 4  
 - Initial Feat: Two-Weapon Fighting  
 - Pick a good name!  
@@ -262,7 +262,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
   - **Hard Save in New Slot (Slot 1)** during (or after) this buffer
 - Perform the [Sneak Attack FLU](<../Major Glitches/Fake Level Up#sneak-attack-flu>)
   - See the discussion in [Character Build](#leveling-plan) for whether to include slow levels or not
-  - Real Level 17: Persuade to 10, Improved/Master Two-Weapon Fighting, Sneak Attack IX
+  - Real Level 17: Improved/Master Two-Weapon Fighting, Sneak Attack IX
 - Run forward until just before the frozen Sith droids, then swap to Carth
 - Start a [Conversation Queue](<../Techniques/Conversation Queue>) by talking to MC, swapping to MC, and running down the hall
 - As MC, run until you are close to the Upper City South exit door, then use default action to interact with it
@@ -458,7 +458,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
 - Cancel the dialog box and QS/QL to skip the Star Map CS  
 - Re-enable V-Sync  
   - We won't need to DLZ again until Lehon  
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Jedi Enclave using Slot 4 (last slot)
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Jedi Enclave using Slot 4 (last slot)
   - Bastila will spawn next to the MC
 - QS/QL to warp Party Bastila to NPC Bastila's position
   - If you got the Enclave DLZ quickly and Bastila spawns too far from the council, *Stims: Alacrity on Bastila*
@@ -584,8 +584,8 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
   - You'll only need to do this the first time (while getting the second Kashyyyk Star Map)
 - Use [Fast Lane](../Major%20Glitches/Fast%20Lane) to bring up the Return to Ebon Hawk dialog
 - Obtain the Kashyyyk Star Map again by interacting with the Star Map item
-- If this is the fourth and last Kashyyyk Star Map, talk to the Star Map computer with Bastila
-  - This swaps Bastila and the MC, which is important for a later [Coordinate Warp](../Major%20Glitches/Coordinate%20Warps#lower-shadowlands-to-command-center)
+- If this is the fourth and last Kashyyyk Star Map, **talk to the Star Map computer with Bastila**
+  - This swaps Bastila and the MC, which is important for a later [Coordinate Warp](../Major%20Glitches/Coordinate%20Warps#lower-shadowlands-to-command-center), in which the MC's last location needs to be near the star map.
 - Click 'OK' on the pop-up to Return to the Ebon Hawk
 - If you need to obtain another Kashyyyk Star Map, go back to the start of this section
 - If you've obtained all four Star Maps, board the Ebon Hawk
@@ -600,7 +600,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
 - Use the pop-up to [Free Look AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) the Bastila torture CS
   - Unlike old routes, we *DO* want to QS spam to end this CS more quickly
   - We need to enter this CS to make fallen Bastila appear after Lehon; if we skip it completely, we still get light-side Bastila
-- After the load screen, [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Ebon Hawk using Slot 5
+- After the load screen, [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Ebon Hawk using Slot 5
 - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS and fly to Lehon again
   - If you get a Fighter Skirmish, press Alt-F4 to gain mouse control
   - Cancel the quit dialog and Return to Ebon Hawk to warp to Lehon
@@ -632,7 +632,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
   - As soon as the screen goes black, use the pop-up to [Fast Lane](../Major%20Glitches/Fast%20Lane) to Return to the Ebon Hawk  
   - We do not have to kill Jolee or lower the disruptor field
 - Run towards the Ebon Hawk  
-- When the black screen occurs, immediately [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Ebon Hawk using Slot 1
+- When the black screen occurs, immediately [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Ebon Hawk using Slot 1
 - Fly to the Star Forge  
   - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen
 - Use a [Free Look AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch#free-look-amgs) to skip the "unskippable" cutscene
@@ -661,12 +661,12 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
   - Swap to Bastila and wait until you've judged MC has opened the door
     - This skips a plasma explosion that would otherwise stun the MC
   - Swap to MC and click the dialog option to finish the warp
-- Double [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to warp Bastila to MC
-  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Lower Shadowlands using Slot 6
+- Double [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to warp Bastila to MC
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Lower Shadowlands using Slot 6
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
-  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Deck 1 using Slot 6
-    - You don't have to open the Options Menu after canceling the pop-up during this [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>)
-  - This warps Bastila to MC because the second [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) spawns her OoB on Deck 1
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Deck 1 using Slot 6
+    - You don't have to open the Options Menu after canceling the pop-up during this [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>)
+  - This warps Bastila to MC because the second [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) spawns her OoB on Deck 1
 - Enter Deck 2
 
 ### Deck 2
@@ -680,19 +680,19 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
   - Cancel the quit dialog, then swap to MC
   - Run through the second door and continue until just past the turn down the ramp
   - Click the dialog option to activate the [GP Warp](../Techniques/GP%20Warp)
-- Double [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to warp Bastila to MC
-  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Lower Shadowlands using Slot 6
+- Double [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to warp Bastila to MC
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Lower Shadowlands using Slot 6
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
-  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Deck 2 using Slot 6
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Deck 2 using Slot 6
 - Enter Command Center
 
 ### Command Deck 
 
 - Immediately after loading, [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip Bastila/Malak CS
-- Double [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to [Coordinate Warp](<../Major Glitches/Coordinate%20Warps#lower-shadowlands-to-command-center>) Bastila ahead
-  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Lower Shadowlands using Slot 6
+- Double [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp](<../Major Glitches/Coordinate%20Warps#lower-shadowlands-to-command-center>) Bastila ahead
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Lower Shadowlands using Slot 6
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
-  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Command Center using Slot 6
+  - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Command Center using Slot 6
   - Bastila should already be in the correct position in the Lower Shadowlands and end up near the Viewing Platform entrance
 - *Stims: Hyper-Adrenal Alacrity and Stamina on Bastila*
 - Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip the Darth Malak droid CS
