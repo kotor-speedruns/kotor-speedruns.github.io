@@ -8,7 +8,7 @@ redirect_from:
 
 *Written by [Lane](https://www.speedrun.com/users/Lane) and [indykenobi](https://www.speedrun.com/users/indykenobi)*
 
-This route defeats Malak on the Star Forge as fast as possible; Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [Lane](https://www.speedrun.com/users/Lane), [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) Times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the character build and detailed route for the run.
+This route defeats Malak on the Star Forge as fast as possible; Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [Lane](https://www.speedrun.com/users/Lane), [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR). Times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the character build and detailed route for the run.
 
 Finally, if you have additional questions, you can check out the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu). There's a bunch of friendly folks there willing to answer questions!
 
@@ -63,13 +63,13 @@ The brief outline of the route for the Any% run, including planet order and majo
 * [Sneak Attack FLU](../Major%20Glitches/Fake%20Level%20Up#sneak-attack-flu) for Sneak Attack IX and Improved TWF
 * [Autosave Hotshot](../Major%20Glitches/Hotshot) to Upper City North
 * [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#sith-base-dlz) into the Sith Base
+* Reach the Lower City with a [DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>)
+* [Door Clip](<../Major Glitches/Door Clipping>) into the Vulkar Base door to [DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-dlz>) into the Vulkar Base
+* [DLZ](<../Major Glitches/Displaced Load Zone#bek-base-dlz>) into the Bek Base and [DLZ](<../Major Glitches/Displaced Load Zone#gadon-dlz>) to kill Gadon Thek
+* [Hotshot](<../Major Glitches/Hotshot>) to Vulkar Base and use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip one swoop race
 * Kill and loot the Sith Governor to obtain Taris Launch Codes
-* [Hotshot](../Major%20Glitches/Hotshot) to Upper City North and [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#lower-city-dlz) to the Lower City
-* [Door Clip](../Major%20Glitches/Door%20Clipping) into the Vulkar Base door to [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#vulkar-base-dlz) into the Vulkar Base
-* [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#bek-base-dlz) into the Bek Base and [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#gadon-dlz) again to kill Gadon Thek
-* [Hotshot](../Major%20Glitches/Hotshot) to Vulkar Base and use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip one swoop race
-* [Hotshot](../Major%20Glitches/Hotshot) to Javyar's Cantina
-* Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to steal the Ebon Hawk and escape Taris
+* [Hotshot](<../Major Glitches/Hotshot>) to Javyar's Cantina and recruit Canderous
+* Use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to steal the Ebon Hawk and escape Taris
 
 *3. Dantooine*
 
@@ -208,22 +208,23 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
 
 ### Command Module
 
-- [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip the intro CS  
-- [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#endar-spire-dlz) into the Starboard Section through one of the following two methods:
-  - ***Method One: Rubble DLZ***
-    - *This strat is potentially 20 seconds faster, but the DLZ is marginally harder.  This is the recommended method.*
-    - Skip the footlocker and talking to Trask
-    - [Open Buffer](../Techniques/Save%20Buffering#open-buffers) past Trask to use Security during Trask's first conversation
-    - DLZ by walking into the rubble near the second Sith soldier in the right spot
-  - ***Method Two: Doorframe DLZ***
-    - *This strat is much easier, but significantly slower than a good Rubble DLZ.  Recommended only for brand-new runners.*
-    - Loot footlocker
-    - *Equip MC: Short Sword*
-    - Open door and Talk to Trask twice
-    - *Equip Trask: Blaster Pistol Offhand*
-    - [Open Buffer](../Techniques/Save%20Buffering#open-buffers) to use Security during the Carth CS
-    - Kill first two Sith with Trask's Power Blast and open next door
-    - DLZ by walking into the right side of the door frame in the right spot
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the intro CS
+- [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) into the Starboard Section through one of the following two methods:
+  - ***Method One: Rubble [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>)***
+    - *This strat is potentially 20 seconds faster, but the [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) is marginally harder.  This is the recommended method.*
+    - *To perform this strat:*
+      - Skip the footlocker and talking to Trask
+      - [Open Buffer](<../Techniques/Save Buffering#open-buffers>) past Trask to use Security during Trask's first conversation
+      - [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) by walking into the rubble near the second Sith soldier in the right spot
+  - ***Method Two: Doorframe [DLZ](<../Major Glitches/Displaced Load Zone>)***
+    - *This strat is much more consistent, but significantly slower than a good Rubble [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>).  It's recommended only for beginning runners.*
+    - *To perform this strat:*
+      - Loot footlocker
+      - *Equip MC: Clothes*
+      - Open door and Talk to Trask twice
+      - [Open Buffer](<../Techniques/Save Buffering#open-buffers>) to use Security during the Carth CS
+      - Kill first two Sith and open next door
+      - [DLZ](<../Major Glitches/Displaced Load Zone#endar-spire-dlz>) by walking into the right side of the door frame in the right spot
 
 ### Starboard Section
 
@@ -253,107 +254,111 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
 
 ### Apartments
 
-- Immediately after the load-in, press Up+Left to move the character closer to the door before the start of the waking up CS
 - Carth accosts you: 1,1,1,5,3
-- If necessary, reenable V-Sync  
+- Re-enable V-Sync in Options
 - Exit the apartment
   - *Party: Keep Carth when prompted*
-- [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip the Sith Raid  
-- Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to perform the [Sneak Attack FLU](<../Major Glitches/Fake Level Up#sneak-attack-flu>):  
-  - Skele FLU for levels 2-16
-  - Real Level 17: Save Skills, Improved Two-Weapon Fighting  
-  - Sneak Attack IX is granted automatically
-- Larrim accosts you: 1,2,4  
-  - If you did Plot Armor, skip Larrim with a [Conversation Queue](../Techniques/Conversation%20Queue) or a [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers)
-
-```
-SHOPPING: Larrim
-- SELL:
-  - Everything
-- BUY:
-  - Heavy Combat Suit
-  - Battle Stimulant  
-- End: 404 Credits
-```
-
-- *Unequip Carth: Remove Both Blasters*
-- *Equip MC: Carth's Blaster Mainhand, Blaster Pistol Offhand, Heavy Combat Suit (if you have it)*
-- **Hard Save in (possibly New) Slot 1**
-- Exit to Upper City South  
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Sith Raid
+  - **Hard Save in New Slot (Slot 1)** during (or after) this buffer
+- Perform the [Sneak Attack FLU](<../Major Glitches/Fake Level Up#sneak-attack-flu>)
+  - See the discussion in [Character Build](#leveling-plan) for whether to include slow levels or not
+  - Real Level 17: Persuade to 10, Improved/Master Two-Weapon Fighting, Sneak Attack IX
+- Run forward until just before the frozen Sith droids, then swap to Carth
+- Start a [Conversation Queue](<../Techniques/Conversation Queue>) by talking to MC, swapping to MC, and running down the hall
+- As MC, run until you are close to the Upper City South exit door, then use default action to interact with it
+- Swap to Carth and run to the side to break the [Conversation Queue](<../Techniques/Conversation Queue>)
+- Use a [Menu Item Duplication](<../Techniques/Item Duplication#menu-duping>) to dupe Carth's Blaster to MC
+  - This also moves the Blaster Pistol in Carth's offhand to MC's offhand
+- Exit to Upper City South
 
 ### Upper City South
 
-- Turn left and run down the street  
-- Activate Solo Mode when you get close to the sculpture at the end  
-- With MC, click on Medical Clinic door  
-- Swap to Carth and click on door to Upper City North  
-- Swap back to MC and talk to Zelka: 5  
-
-```
-SHOPPING: Zelka Forn
-- If you skipped Larrim, sell everything here
-- BUY
-  - 7x Adrenal Alacrity
-  - 1x Adrenal Stamina
-- End: 4 Credits
-```
-
-- *Stims: Alacrity, Stamina, and Battle Stim (if you have it) on MC, Alacrity on Carth*
-- Use a [GP Warp](../Techniques/GP%20Warp) to warp MC to Carth
-  - A [Buffered GP Warp](../Techniques/GP%20Warp#buffered-gp-warps) is slightly faster here, but you can use an [AMG GP Warp](../Techniques/GP%20Warp#amg-gp-warps) if you prefer  
+- ***Optional Strat: [Default Spawn Warp](<../Major Glitches/Spawn Warps#the-routine>)***
+  - *This strat uses [The Routine](<../Major Glitches/The Routine>) to warp to the default spawn in Upper City South, just outside Zelka's clinic.  It's a very complicated glitch that saves only 2-3 seconds, so it's only recommended for top runners.*
+  - *To perform this strat:*
+    - Return to the Hideout
+    - Perform [The Routine](<../Major Glitches/The Routine>) to delete Upper City South and the Hideout from your save file
+    - Transit Back to the default spawn point in Upper City South
+  - *If you choose not to use the above strat:*
+    - Run to the left down the street until you are close to the sculpture
+- ***Optional Strat: Upper City North [DLZ](<../Major Glitches/Displaced Load Zone>)***
+  - *This strat reaches Upper City North with a [DLZ](<../Major Glitches/Displaced Load Zone>) instead of using a [GP Warp](<../Techniques/GP Warp>).  It should only be used if you did the [Default Spawn Warp](<../Major Glitches/Spawn Warps#the-routine>) above, and only saves a few seconds.*
+  - *To use this strat:*
+    - Talk to Zelka: 5
+    - `SHOPPING: Zelka Forn`
+      - `BUY: 7x Adrenal Alacrity, 1x Adrenal Stamina`
+    - *Stims: Adrenal Alacrity, Stamina, and Battle Stimulant on MC*
+    - Swap to Carth and DLZ into Upper City North
+  - *To skip this strat:*
+    - Activate Solo Mode
+    - With MC, click on Medical Clinic door
+    - Swap to Carth and click on door to Upper City North
+    - Swap back to MC and talk to Zelka: 5
+    - `SHOPPING: Zelka Forn`
+      - `BUY: 7x Adrenal Alacrity, 1x Adrenal Stamina` 
+    - *Stims: Alacrity on MC, Alacrity and Stamina on Carth*
+    - Swap to Carth and [GP Warp](<../Techniques/GP Warp>) to warp MC
 - Enter Upper City North
-  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen
 
 ### Upper City North
 
-- [Autosave Hotshot](../Major%20Glitches/Hotshot#autosave-hotshots) to warp to UCN's default spawn:  
-  - With quit dialog up, unpause and open the door to Upper City South behind you  
-  - Open the Options menu, then press enter with Load Game and Cancel selected  
-  - Unpause and navigate blindly through the door to Upper City South  
-  - After loading into Upper City South, select the Autosave and load it  
-  - This spawns your party next to the elevator leading to the Lower City  
-- *Party: Remove Carth*
-- **Hard Save *Twice* in New Slots 2 and 3**
-  - Slot 2 is a permanent save for future [Fast Lanes](../Major%20Glitches/Fast%20Lane)
-  - Slot 3 is for an imminent [Neo Hotshot](../Major%20Glitches/Hotshot#hss-hotshots)
-- [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#sith-base-dlz) to enter the Sith Base  
-  - Deactivate V-Sync for this DLZ
+- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the Upper City North load screen
+- [Default Spawn Warp](<../Major Glitches/Spawn Warps#the-routine>) via [Autosave Hotshot](<../Major Glitches/Hotshot#autosave-hotshots>) to reach Lower City elevator:
+  - With quit dialog up, unpause and open the door to Upper City South behind you
+  - Open the Options menu, then press enter with Load Game and Cancel selected
+  - Unpause and navigate blindly through the door to Upper City South
+  - After loading into Upper City South, select the Autosave and load it
+  - This spawns your party next to the elevator leading to the Lower City
+- **Hard Save Twice in New Slots (Slots 2 & 3)**
+- (Slot 2 will serve as your "[Fast Lane](<../Major Glitch/Fast Lane>)" slot going forward)
+- *Stims: Alacrity and Stamina on Carth* (if you haven't already)
+- [DLZ](<../Major Glitches/Displaced Load Zone#sith-base-dlz>) to enter the Sith Base
+  - You should use Location 1 and deactivate V-Sync for this [DLZ](<../Major Glitches/Displaced Load Zone#sith-base-dlz>)
 
 ### Sith Base
 
-- Secretary accosts you: 2,1
-  - This can also be [Hard Buffered](../Techniques/Save%20Buffering#hard-buffers) instead
-- Reactivate V-Sync  
-- Run through Sith base to East Barracks
-  - This can be a dangerous run if you do not have Plot Armor
-  - If you are very low on health, you can QS and use Slot 2 or 3 to perform a [Fast Lane](../Major%20Glitches/Fast%20Lane) and Transit Back to heal fully
-- Loot footlocker for Sith passcard  
-- [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip assault droid CS  
-- Enter Governor's Office  
-- [Wired Targeting](../Techniques/Wired%20Targeting#quick-wired-targeting-combat) to kill Governor  
-  - Open door, then [Open Buffer](../Techniques/Save%20Buffering#open-buffers) until you stand behind the Governor  
-  - Make sure your last QS is while standing right behind him
-    - This gives us Sneak Attacks *and* the Close Range +10 to hit bonus while [Wire Targeting](../Techniques/Wired%20Targeting#quick-wired-targeting-combat)
-  - Spam the conversation, then spam default attacks and QL to finish the [Wire Targeting](../Techniques/Wired%20Targeting#quick-wired-targeting-combat)
-- Loot the Governor for the Taris Launch Codes 
-- *Unequip MC: Both Blasters*
-  - This will cause them to dupe during the next hotshot
-- [Neo Hotshot](../Major%20Glitches/Hotshot#hss-hotshots) to Upper City North using Slot 3 (last slot)
+- ***Optional Strat: Sith Base [GP Warp](<../Techniques/GP Warp>)***
+  - *This strat saves around 4 seconds but is more challenging.*
+  - *To perform this strat:*
+    - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load from the previous [DLZ](<../Major Glitches/Displaced Load Zone#sith-base-dlz>)
+    - Swap to Carth and run forward until secretary accosts you: 3,1
+    - Activate Solo Mode
+    - Run forward as Carth and open the first door, then click on the door on the right
+    - Swap to MC and run into the exit load zone to trigger the [GP Warp](<../Techniques/GP Warp>)
+    - Cancel the pop-up and swap to Carth
+    - Run straight forward into the room with the two droids until you're a little more than halfway in
+    - Trigger the dialog option to warp Carth
+    - QS/QL and activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
+      - Since V-Sync is disabled, you'll likely be unable to [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the QS
+    - As Carth, run backwards to open the door, then [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the assault droid CS via QS/QL
+    - As Carth, run backwards to open the nearby barracks door
+    - Loot the footlocker for the elevator passcard
+    - Swap to MC and cancel combat
+    - Run to the elevator to reach the Governor's office
+      - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
+  - *To skip this strat:*
+    - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the secretary convo (or mash it as above)
+    - Activate Solo Mode
+    - Swap to Carth and click on first door
+    - Swap to MC and run up against the fake door on the right
+    - Swap to Carth and run through Sith base to East Barracks
+      - Straight down the long hall, right past the cells, then first door on the right
+    - Loot footlocker for Sith passcard
+    - Open nearby door and [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip assault droid CS
+    - Enter Governor's Office
+      - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
+- In the Governor's Office, [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Upper City North using Slot 2
+- Swap to MC and run towards Upper City South until Carth accosts you: 2
+- Enter the Lower City by performing the [Lower City DLZ](<../Major Glitches/Displaced Load Zone#lower-city-dlz>)
 
 ### Lower City
 
-- Run to Lower City DLZ spot and [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#lower-city-dlz) to Lower City  
-  - Deactivate V-Sync for this DLZ
-- Return to Hideout and immediately Transit Back
-  - During this, *Party: Add Carth*
-  - This sets our transit point to return to later
+- Return to Hideout and immediately Transit Back to set Transit Point
 - Activate Solo Mode
 - Use a [Conversation Queue](<../Techniques/Conversation Queue>) to skip the Gang War CS:
   - Run Carth along the right wall until just before it ends (where the CS triggers)
   - Swap to MC and talk to Carth, then immediately swap to Carth and turn right to the end of the hall
   - The [Conversation Queue](<../Techniques/Conversation Queue>) also ensures that MC follows Carth to the Vulkar Base
-- ***Optional:*** Kill the two guards outside the Vulkar Base
-  - This wastes time but makes the following trick slightly easier to perform
 - [Door Clip](<../Major Glitches/Door Clipping#partial-door-clips>) and [DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-dlz>) to enter Vulkar Base:
   - As Carth, run into right corner of Vulkar Base door
   - While running forward, swap to MC; Carth should bump out from the corner
@@ -361,71 +366,73 @@ SHOPPING: Zelka Forn
   - If the trick worked, you'll [DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-dlz>) into the Vulkar Base after the QL
   - If the trick failed, just run into the corner and QS/QL again
   - You must have Solo Mode ON and V-Sync OFF for this [DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-dlz>) to work
-  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen immediately after the [DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-dlz>)
-- QS inside the Vulkar Base
-- Use the pop-up to [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to South Apartments using Slot 1
-- Transit Back to Lower City
+- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen immediately after the [DLZ](<../Major Glitches/Displaced Load Zone#vulkar-base-dlz>)
+- **Quick Save in Vulkar Base**
+  - *It is important **not** to Quick Save from here until Gadon dies.*
+- Use the pop-up to [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to South Apartments using Slot 1
+- Transit Back to the Lower City
 
 ### Bek Base
-- **Hard Save in New Slot 4**
-- Turn left and run down hall until Javyar's Cantina is in range
-- Activate Solo Mode and click on Javyar's Cantina with MC
-- Swap to Carth and [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#bek-base-dlz) into the Bek Base
-  - ***Optional:*** Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
-- As Carth, [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#gadon-dlz) into Gadon's Office  
-  - If you have the [AMG](<../Major Glitches/Anywhere Menu Glitch>) pop-up, click the options menu in the top right to re-enable V-Sync before Gadon's convo starts
-  - If you don't have the pop-up, you can press Escape or the Options hotkey instead
+- In the Lower City, **Hard Save in Slot 1**
+- [DLZ](<../Major Glitches/Displaced Load Zone#bek-base-dlz>) into the Bek Base
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load
+- As Carth, [DLZ](<../Major Glitches/Displaced Load Zone#gadon-dlz>) to enter Gadon's Office
+  - Doing this DLZ with Carth spawns you next to Gadon, guaranteeing one Sneak Attack
+  - Re-enable V-Sync once you load into Gadon's Office (before or after the convo)
 - Kill Gadon:
-  - As MC, Snipe Shot for Sneak Attack  
-  - As Carth, Power Blast  
-  - Note that Kaeira doesn't have to die  
-- As soon as Gadon is dead, Hotshot back to Vulkar Base in one of two ways:
-  - If you have the [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) pop-up and your QS is in Vulkar Base:
-    - [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) using the pop-up
-  - If you don't have the [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) pop-up or your QS isn't in Vulkar Base:
-    - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Vulkar Base using Slot 1
+  - As MC, Sniper Shot for Sneak Attack
+  - ***Recommended:*** As Carth, Power Blast Gadon
+  - Gadon should die in one round; if unlucky, he may take two
+  - It is possible but unlikely to die here if you get bad combat luck
+  - Note that Kaeira doesn't have to die
+- As soon as Gadon is dead, use the pop-up to [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to the Vulkar Base
+- Kandon will accost you shortly after spawning in
+- After loading into Swoop Platform, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Ithorian convo
+- Use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip a swoop race
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
+  - Speak to the race coordinator: 1
+  - [Finish the race](<../Miscellaneous/Swoop Racing#planet-circuit-lap-1>) with the quit dialog open
+  - Don't shift into the final gear; doing so is actually slower by about a second
+  - When Anglu starts running towards you, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Governor's Office using Slot 3
+  - Talk to the Ithorian a second time to "win" the second swoop race
+  - Click twice then IMMEDIATELY activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS and open the Options Menu
+  - Perform the [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) from there
+  - Alternately, you can [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) after the 2nd Ithorian convo to skip the Brejik fight, then do the [Hotshot](<../Major Glitches/Hotshot#neo-hotshots>)
 
 ### Escaping Taris
 
-- Kandon will accost you shortly after spawning in  
-- After loading into Swoop Platform, [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) to skip the Ithorian convo  
-- Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip a swoop race  
-  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS (or on the load-in from the previous buffer)  
-  - Speak to the race coordinator: 1  
-  - [Finish the race](<../Miscellaneous/Swoop Racing#planet-circuit-lap-1>) with the quit dialog open  
-  - Don't shift into the final gear; doing so is actually slower by about a second  
-  - Press 1 and click to skip Ithorian dialog until Anglu comes running up  
-  - Cancel the quit dialog and QS/QL to skip the CS  
-  - Talk to the Ithorian a second time to "win" the second race  
-- After talking to the Ithorian the second time but BEFORE Brejik's convo, [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to skip the Brejik fight  
-  - Click twice to clear the Ithorian's two lines of dialog, then immediately activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS and press the Options hotkey
-  - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Lower City using Slot 4 (last slot)
-  - If you prefer, there's an easier [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) strat:
-    - [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) after the Ithorian convo
-    - Instead of loading the QS, **Hard Save in Slot 1**
-    - [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) to Lower City using Slot 4 (last slot)
-- Enter Javyar's Cantina  
-- Talk to Canderous: 1,1,1,2,1  
+- [Wired Targeting](<../Techniques/Wired Targeting#quick-wired-targeting-combat>) to kill Governor
+  - Open door, then buffer until you stand behind the Governor
+  - Make sure you QS while standing next to him
+  - Spam the conversation, then spam default attacks
+  - QL while spamming default attacks to attack the non-hostile governor
+- Loot the Governor for the Taris Launch Codes
+- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Lower City using Slot 1
+  - If you forgot to save in the Lower City, you can use the Autosave to do a [QS Hotshot](<../Major Glitches/Hotshot#quick-save-hotshots>) as a backup
+- Enter Javyar's Cantina
+- Talk to Canderous: 1,1,1,2,1
   - *Party: Keep Canderous when prompted*
-  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen after the party confirmation
-- Use the pop-up to [Free Look AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) the Taris destruction CS
-- Use [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) to skip Davik's Estate  
-  - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) during the load into Davik's Estate  
-  - Go through the conversation pressing 1 and left-click (don't use NumPad Enter!)  
-  - After the screen fades to black, cancel the quit dialog and QS/QL to skip the CS
-- ***Optional:** Equip MC: Vibrosword*
-  - This allows you to move more easily during the Upper Shadowlands cutscenes
-- Board the Ebon Hawk, then use a [Map CS Skip](../Techniques/Map%20Cutscene%20Skips) to Return to Ebon Hawk  
-  - This skips the cutscenes and Fighter Skirmish between Taris and Dantooine
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the subsequent load screen
+- Use a [Free Look AMG](<../Major Glitches/Anywhere Menu Glitch#free-look-amgs>) to skip the Taris destruction CS
+- Use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip Davik's Estate
+  - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen into Davik's Estate
+  - Go through the conversation spamming 1 and left-click (don't use NumPad Enter!)
+  - When the cutscene moves to the hangar, [AMG Skip](<../Major Glitches/Anywhere Menu Glitch#skipping-cutscenes>) the CS via QS/QL
+- *Equip MC: Unequip Carth's Blaster, Equip Vibroblade Mainhand*
+  - This lets us use [Weapon Flourish movement](<../Major Glitches/Anywhere Menu Glitch#moving-during-cutscenes>) during certain cutscenes later
+- Board the Ebon Hawk, then use a [Map CS Skip](<../Techniques/Map Cutscene Skips>) to Return to Ebon Hawk
+  - This skips the cutscenes between Taris and Dantooine, as well as the fighter skirmish 
 
 ## Dantooine
 
 ### Jedi Enclave
 
+- As soon as you load in, run forward until Bastila accosts you
 - Use a [Conversation Queue](<../Techniques/Conversation Queue>) to skip Belaya's conversation
   - Run forward slightly and swap to Canderous
   - Talk to MC, then immediately swap to MC and run away, into the Enclave 
-- Once in the atrium, **Hard Save in New Slot 5**, then load that hard save to clear the [Conversation Queue](../Techniques/Conversation%20Queue)
+- Once in the atrium, **Hard Save in New Slot 4**, then load that hard save to clear the [Conversation Queue](../Techniques/Conversation%20Queue)
 - [DLZ](../Major%20Glitches/Displaced%20Load%20Zone#enclave-dlz) to the Courtyard (Atrium Left variant)  
   - Deactivate V-Sync for this and the other Dantooine DLZs
   - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen when this DLZ fires  
@@ -449,7 +456,7 @@ SHOPPING: Zelka Forn
 - Cancel the dialog box and QS/QL to skip the Star Map CS  
 - Re-enable V-Sync  
   - We won't need to DLZ again until Lehon  
-- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Jedi Enclave using Slot 5 (last slot)
+- [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Jedi Enclave using Slot 4 (last slot)
   - Bastila will spawn next to the MC
 - QS/QL to warp Party Bastila to NPC Bastila's position
   - If you got the Enclave DLZ quickly and Bastila spawns too far from the council, *Stims: Alacrity on Bastila*
@@ -463,6 +470,8 @@ SHOPPING: Zelka Forn
 - Transit Back, then Return to Ebon Hawk  
 - Board the Ebon Hawk
 - QS for a later [Hotshot](../Major%20Glitches/Hotshot)
+- **Hard Save in Slot 1**
+- **Hard Save in New Slot (Slot 5)**
 - Fly to any other planet  
 - [Map CS Skip](../Techniques/Map%20Cutscene%20Skips) to Return to Ebon Hawk and skip the Malak/Calo CS
   - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen
@@ -584,14 +593,12 @@ SHOPPING: Zelka Forn
 ### Reaching Lehon
 
 - *Stims: Alacrity on MC*
-- **Hard Save in Slot 1**
 - Fly to Lehon
   - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) on the load screen
 - Use the pop-up to [Free Look AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) the Bastila torture CS
   - Unlike old routes, we *DO* want to QS spam to end this CS more quickly
   - We need to enter this CS to make fallen Bastila appear after Lehon; if we skip it completely, we still get light-side Bastila
-- After the load screen, [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Ebon Hawk using Slot 1
-- **Hard Save to Slot 1 (again)**
+- After the load screen, [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Ebon Hawk using Slot 5
 - Activate [AMG](../Major%20Glitches/Anywhere%20Menu%20Glitch) via QS and fly to Lehon again
   - If you get a Fighter Skirmish, press Alt-F4 to gain mouse control
   - Cancel the quit dialog and Return to Ebon Hawk to warp to Lehon
@@ -652,7 +659,6 @@ SHOPPING: Zelka Forn
   - Swap to Bastila and wait until you've judged MC has opened the door
     - This skips a plasma explosion that would otherwise stun the MC
   - Swap to MC and click the dialog option to finish the warp
-- **Hard Save in "Hotshot Current" slot**
 - Double [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to warp Bastila to MC
   - [Neo Hotshot](<../Major Glitches/Hotshot#hss-hotshots>) to Lower Shadowlands using Slot 6
   - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
@@ -724,6 +730,16 @@ SHOPPING: Zelka Forn
 *Congratulations! Malak has been defeated once and for all, and you are now the Lord of the Sith (and you aren't even a Jedi!)*
 
 ## Version History  
+
+**v10.1 (December 2024)**
+- Update the save route to more closely match ASM
+- Add in Carth Blaster Dupe in South Apartments
+- Add optional Routine in Apartments
+- Adjust Early Taris route to skip Larrim
+- Add optional Zelka DLZ
+- Add optional Sith Base GP
+- Adjust route to kill Governor after Swoops
+- Add in Transit Warp in Lower City
 
 **v10.0 (August 2023)**
 - Implemented Neo Hotshots
