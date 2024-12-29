@@ -4,7 +4,7 @@
 
 *Route and Guide by [indykenobi](https://www.speedrun.com/users/indykenobi)*
 
-This route defeats Malak on the Star Forge as fast as possible while obtaining all five individual Star Maps.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR) (results may vary for Windows 11 users); times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the character build and detailed route for the run.
+This route defeats Malak on the Star Forge as fast as possible while obtaining all five individual Star Maps.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [Lane](https://www.speedrun.com/users/Lane), [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR). Times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent. This guide will cover the character build and detailed route for the run.
 
 Finally, if you have additional questions, you can check out the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu). There's a bunch of friendly folks there willing to answer questions!
 
@@ -280,6 +280,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
   - *To use this strat:*
     - Talk to Zelka: 5
     - `SHOPPING: Zelka Forn`
+      - `SELL: Everything`
       - `BUY: 7x Adrenal Alacrity, 1x Adrenal Stamina`
     - *Stims: Adrenal Alacrity, Stamina, and Battle Stimulant on MC*
     - Swap to Carth and DLZ into Upper City North
@@ -289,6 +290,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
     - Swap to Carth and click on door to Upper City North
     - Swap back to MC and talk to Zelka: 5
     - `SHOPPING: Zelka Forn`
+      - `SELL: Everything`
       - `BUY: 7x Adrenal Alacrity, 1x Adrenal Stamina` 
     - *Stims: Alacrity on MC, Alacrity and Stamina on Carth*
     - Swap to Carth and [GP Warp](<../Techniques/GP Warp>) to warp MC
