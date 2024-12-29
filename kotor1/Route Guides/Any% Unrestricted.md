@@ -286,6 +286,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
   - *To use this strat:*
     - Talk to Zelka: 5
     - `SHOPPING: Zelka Forn`
+      - `SELL: Everything`
       - `BUY: 7x Adrenal Alacrity, 1x Adrenal Stamina`
     - *Stims: Adrenal Alacrity, Stamina, and Battle Stimulant on MC*
     - Swap to Carth and DLZ into Upper City North
@@ -295,6 +296,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
     - Swap to Carth and click on door to Upper City North
     - Swap back to MC and talk to Zelka: 5
     - `SHOPPING: Zelka Forn`
+      - `SELL: Everything`
       - `BUY: 7x Adrenal Alacrity, 1x Adrenal Stamina` 
     - *Stims: Alacrity on MC, Alacrity and Stamina on Carth*
     - Swap to Carth and [GP Warp](<../Techniques/GP Warp>) to warp MC
