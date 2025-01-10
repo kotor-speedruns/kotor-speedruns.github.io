@@ -134,9 +134,10 @@ Certain Force Powers in this build are givens: you will always get Knight Speed 
 - This is used for the +1 Strength; from levels 4 to 8 and at level 12, it nets us an extra +1 modifier.
 
 *Armband: Brejik's Armband* - Found on Taris, Brejik's corpse
-- This optional equip makes the Sith Governor easier to survive by providing Damage Resistance: 5/- vs. Slashing.  This also helps against Kath Hounds, Kinrath, and anyone wielding a vibrosword, such as the Rakata Warriors on Lehon.
+- This optional equip makes the Sith Governor easier to survive by providing Damage Resistance: 5/- vs. Slashing.  This also helps against Kath Hounds, Kinrath, and anyone wielding a vibrosword, such as the Rakata Warriors on Lehon.  Equipping this, both before Sith Base and again on Leviathan, is personal preference, but it is more recommended before the Sith Base.
 
 *Shield: Echani Shield* - Found on Dantooine, Casus Sandral's corpse
+- This optional equip can be used to aid survival in certain key fights, particularly the Sand People Chieftain fight.  It also helps in the Manaan Sith Base and against Darth Bandon on Korriban.  This will typically not be re-equipped on the Leviathan since the MC is bulky enough by that point.
 
 *Body: Jedi Knight Robe* - Found on Dantooine, Nemo's corpse
 - We must use Robes to use our Force powers (mainly Speed), and this is the best convenient robe to get.  Optionally, you can loot a chewed Twi'lek corpse at the mouth of the Krayt Dragon cave for a Jedi Master Robe but the extra 1 defense really isn't worth it.
