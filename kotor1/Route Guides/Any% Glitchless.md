@@ -81,7 +81,7 @@ We now begin as a Scoundrel; this guide as written can be completed as either a 
 
 We are going to focus on melee attacks with a lightsaber, so we max out Strength immediately.  The 14 in Intelligence, combined with the 2 points in Computer Use, allow us to save 1 computer spike when hacking on Endar Spire, yielding a smoother spike route on Taris.  We put points into Dexterity and Constitution to help us survive; 12 in Con is preferred, since the AC drop from lower Dex is compensated for by Scoundrel's Luck.  10 Charisma makes up for the Scoundrel not getting a feat (and therefore Empathy) at level 3.
 
-Persuade and Treat Injury (TI) will be our main skills; however since TI is not a Class Skill for Scoundrels, we'll save points to put into TI once we become a Jedi.  We don't put any additional points into Computer Use after the initial 4; we'd need 8 total to save additional spikes, and we just don't need those extra spikes.  The points in Stealth guarantees our credit route for the early game; see below.
+Persuade and Treat Injury (TI) will be our main skills; however since TI is not a Class Skill for Scoundrels, we'll save points to put into TI once we become a Jedi.  We don't put any additional points into Computer Use after the initial 2; we'd need 8 Net Computer Use to save additional spikes, and we just don't need those extra spikes.  The points in Stealth guarantee our credit route for the early game; see below.
 
 We choose Flurry because it's overall a better feat than Critical Strike, though we will occasionally use Critical Strike to fish for Stuns.  We pick Flurry over Two-Weapon Fighting because Flurry takes longer to select, so at level 2 it's faster to pick Two-Weapon Fighting.  Since character creation isn't timed, this is optimal.
 
@@ -281,7 +281,7 @@ Conversation Notes:
 
 - Set these Options:
   - Ensure V-Sync is ON
-  - Ensure Auto-Level is ON in the Gameplay Menu
+  - Ensure Auto-Level is OFF in the Gameplay Menu
   - Optionally, make sure you have no saved games
 - Character Creation:
   - Male/Female Scoundrel - Custom Character
