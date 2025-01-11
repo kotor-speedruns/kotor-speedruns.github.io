@@ -263,22 +263,29 @@ Conversation Notes:
 
 ## Endar Spire
 
-### Character Creation
-- Male/Female Scout - Custom Character
-- Str to 18, Dex to 14, Con to 14, Int to 10
-- Computer Use to 4, Stealth to 1, Treat Injury to 4, Save remaining 2
-- Initial Feat: Weapon Focus: Melee Weapons
-- Pick a good name!
+### Pre-Run Setup
+
+- Set these Options:
+  - Ensure V-Sync is ON
+  - Ensure Auto-Level is ON in the Gameplay Menu
+  - Optionally, make sure you have no saved games
+- Character Creation:
+  - Male/Female Scoundrel - Custom Character
+  - Str to 18, Dex to 10, Con to 12, Int to 14, Cha to 10
+  - Computer Use to 2, Demolitions, Stealth, Persuade, Security to 4, Treat Injury to 2
+  - Initial Feat: Flurry
+  - Pick a good name!
 - Timer starts when you hit Play!
 
 ### Endar Spire
+
 - Trask talks to you (spam)
 - Loot footlocker
-- *Equip Short Sword to MC's Mainhand*
+- *Equip MC: Clothes*
 - Talk to Trask
 - Switch to Trask and open door
 - Switch back to Trask use security on door
-- *Equip 2nd Blaster Pistol to Trask's Offhand*
+- *Equip Trask: Offhand Blaster Pistol*
 - Kill two Sith Soldiers
 - Loot footlocker in next room
 - Cutscene of Sith vs. Republic
@@ -289,83 +296,90 @@ Conversation Notes:
 - Kill front two Sith soldiers on bridge
 - `Level to 2: Save Skills, Two-Weapon Fighting`
 - Watch poor Trask sacrifice himself
+- **Make a Hard Save in a New Slot, then Load the Hard Save**
+  - This enables [Duration Glitch](<../Techniques/Glitchless Tricks#duration-glitch>) for the start of Taris
 - Enter Starboard Section
 
 ### Starboard Section
 - Loot footlocker in Terminal Room (+5 Computer Spikes; 5 Total)
 - Hack terminal console: 2,3 (-4; 1 Spike)
 - Loot Sith Commander for Prototype Vibroblade
+  - Note whether or not you have an Adrenal Alacrity; if so, Zelka can be skipped
 - Carth talks to you
 - Take Escape Pod to Taris
 
 ## Taris 1
 
-*Note on Alacrity: We want Adrenal Alacrity to be active on the MC for as much of Taris as possible.  The route obtains 8 Alacrities, and we want to save 3 for after Taris.  This leaves 5 for use on Taris; 6 can be used if absolutely necessary, but that requires tweaks later.  Try to duration glitch Alacrity somewhere on Taris, and otherwise use Alacrity as needed!*
-
 ### Upper City
 
-- *Use stim hotkey to use Adrenal Alacrity before waking up CS starts*
+- ***Conditional** - If you got an Adrenal Alacrity on Endar Spire:*
+  - *Stims: Use stim hotkey to use Adrenal Alacrity on MC before vision CS*
 - Carth talks to you: 1,1,1,5,3
-- Loot footlocker (+2; 3 Spikes)
-- *Equip MC: Combat Suit, Prototype Vibroblade Mainhand, Vibroblade Offhand*
-- Exit the apartment; *Party: No change when prompted*
+- Loot footlocker (+2; 4 Spikes)
+- *Equip MC: Combat Suit, Prototype Vibroblade Mainhand*
+- Exit the apartment
+  - *Party: No change when prompted*
 - Use a frag grenade on the Sith Commander (may have to Flurry him too)
 - Loot the backpack
-- Larrim accosts you: 1,2,4 (+2; 5 Spikes)
+- Larrim accosts you: 1,2,4 (+1; 5 Spikes)
 
 ```
 SHOPPING TRIP: Larrim
 - SELL ALL EXCEPT:
   - Medpacs
   - Computer Spikes
-  - Vibroblade
-  - Frag and Poison Grenades
-  - Adrenal Strength
-- Note: You SHOULD sell the Adrenal Stamina
+  - 1 Vibroblade (sell the other)
+  - Any Grenades
+  - Any Stims
 - BUY:
-  - 2x Computer Spikes
-- End: ~812 Credits
+  - 1x Computer Spike
+  - 1x Sonic Grenade
+  - 2x Concussion Grenade
+  - 1x Frag Grenade
+  - 1x Battle Stimulant
+- End: ~222 Credits
 ```
-
+- ***Conditional** - If you already used Adrenal Alacrity:*
+  - *Stims: Use Strength, Stamina, and Battle Stimulant on MC*
 - Exit to Upper City South
-- Run towards Zelka Forn's clinic
-- Where the path widens, activate Solo Mode
-- As MC, click on Medical Clinic door
-- Swap to Carth and click on Upper City North door
-- Swap to MC and talk to Zelka: 5
-
-```
-SHOPPING: Zelka Forn
-- BUY:
-  - Nerve Enhancement Package
-  - 6x Adrenal Alacrity
-- End: ~12 Credits
-```
-
-- Run MC close enough to Carth, then swap and enter Upper City North
-- Swap to MC and run to Upper City North Apartments
-- Sith soldiers talk to you (+2 LSP; 52 total)
+- Run towards statue at the end of the walkway
+- ***Conditional** - If you didn't get Alacrity from Spire:*
+  - Activate Solo Mode
+  - As MC, click on Medical Clinic door
+  - Swap to Carth and click on Upper City North door
+  - Swap to MC and talk to Zelka: 5
+    - `Buy: 4x Adrenal Alacrity (End: 22 Credits)`
+  - *Stims: Use one of each stim on MC, Alacrity on Carth*
+  - Run MC close enough to Carth, then swap and enter Upper City North
+    - You need to be about two floor tiles from the fountain
+- *Otherwise, if you've already used all four stims and can skip Zelka:*
+    - Run straight from South Apartments to Upper City North and enter
+    - *Skipping Zelka saves 10-11s, but only if you already used an Alacrity from Spire*
+- After entering Upper City North, run straight across to enter North Apartments
+- Run left until Sith soldiers accost you (+2 LSP; 52 total)
 - Kill three Sith soldiers without entering the apartment
   - If you enter the apartment, you'll have to talk to the alien
 - Loot corpses for Sith Uniform, grenades, and stims
+- ***Conditional** - If Carth doesn't have Alacrity on:*
+  - *Stims: Use Alacrity on Carth*
+- *Party: Remove Carth*
 - Exit the apartments
-- Cancel talking to Carth if he interrupts: 2
 - Drunks accost you (+2 LSP; 54)
-- *Equip Carth: Sith Armor*
+- *Equip MC: Sith Armor*
 - Sith Sentry talks to you
 - Enter the Lower City
 
 ### Lower City
 
-- After CS, defeat the Vulkar patrol
-  - We need them out of the way for the next step
-  - MC uses Flurry
-  - Carth uses Power Blast from close range
-- *Unequip Carth: Sith Armor*
-- Enter Javyar's Cantina
-- Return to Hideout, then immediately Transit Back
-  - This sets the transit point for a Transit Warp later
-- Exit cantina and enter the Hidden Bek Base
+- *Party: Add Carth*
+- *Equip MC: Combat Suit*
+- `Level to 3: Save Skills (granted Sneak Attack II)`
+- After CS, defeat the Vulkar patrol with MC
+  - Queue Flurry on each enemy
+- Swap to Carth and run towards Bek Base
+- Click on Bek Base with Carth and lookout accosts you
+  - This warps MC to the Bek Base
+- Cancel combat and enter the Bek Base as MC
 - Activate Solo Mode and open first door with MC
 - Swap to Carth and open door to Lower City
 - Swap to MC and talk to Gadon Thek: 1x10,3,2
@@ -376,27 +390,31 @@ SHOPPING: Zelka Forn
 - Enter the Undercity (spam through Sith soldier's interruption)
 
 ### Undercity
-- Beggars accost you: 1,1 ... 1,4 (+2 LSP; 56)
-- `Level to 3: TI to 6, Empathy`
+- Beggars accost you: 3 ... 1,4
+- Hug the left side of the left ramps to skip Igear's interruption
 - *Party: Add Carth*
-- Exit the gate and kill the rakghoul
-  - MC should use Flurry
-  - Carth uses Power Blast from close range
-- Mission accosts you
+- Run forward to watch Hendar run
+- Kill the rakghoul
+  - MC should run past the rakghoul on the right, then turn and use Flurry from behind for Sneak Attacks
+  - Carth uses Power Blast from close range to get the +10 Close Proximity attack bonus
+  - This fight should be 2 or 3 rounds
+- Run towards Lower Sewers until Mission accosts you
 - *Party: No change when prompted*
 - Enter the Lower Sewers
 
 ### Sewers
 
-- Activate Solo Mode and place Mission next to ladder
-- Free Zaalbar
-- *Party: Add Zaalbar when prompted*
-  - He'll distract the Gamorreans from attacking MC
-- *Equip Zaalbar: Mission's Vibroblade Mainhand, Vibroblade Offhand*
-- Bash open footlocker in next room with MC
-- Switch to Mission and leave by ladder, then reenter sewers
-- Deactivate Force Field and enter the Upper Sewers
-- *Party: Remove Mission and Zaalbar*
+- Open the first door, then activate Solo Mode
+- As MC, run forward towards Rakghoul group, then throw a frag grenade to hit as many as possible
+- Swap to Carth and go through right hand door, then run up ramp and click door on right
+- Swap to MC and click left door to force field
+  - If the rakghouls are not dead yet, try to finish them off quickly
+- Swap to Carth and click on Zaalbar's cell door
+- *Party: No change when prompted*
+- Use terminal to have Mission deactivate force field
+- Enter the Upper Sewers
+- *Party: Remove Mission*
+  - ***Optional:** Return to Hideout, then Transit Back to heal fully while removing Mission*
 - Run through left tunnel first, then right tunnel
 - Loot the pile of bones in the rancor room (+1; 6 Spikes)
 - Juke past the rancor and enter the Vulkar Base
@@ -414,33 +432,38 @@ SHOPPING: Zelka Forn
   - Unpause; if any turret remains unstunned after both grenades, load the safety save and try again
   - If all three turrets are stunned, take the elevator to the Garage
   - There is a 59.6% chance to stun all three turrets after *both* grenades.  Good luck!
-  - You MUST stun all three turrets, since we will be leaving this way.
+  - You MUST stun all three turrets, since we will be leaving this way
+  - If the first concussion grenade stuns all three turrets (21.6% chance) then you can save the second one for the Assault Droid later
 - In the garage, take hallway on right and last door on right
 - Loot garage head's desk and supplies for passcard and Computer Spikes (+2; 8 Spikes)
 - Run down the central hallway and turn left
-- Talk to Kandon Ark: 2,2,2
+- Open the door and use a medpac if you aren't at full health
+- Kandon Ark confronts you: 2,2,2
 - Get the swoop accelerator
 - Return through central hallway to elevator to main base
-- Possible manual save before exiting the garage
-  - There is a chance the turrets will instantly kill you on the way out.  This seems to depend on how many times you've had to reload your safety saves; an even number will cause the turrets to shoot first, while an odd number will allow you to run past.
-  - Thus if you have reloaded an even number of times (including zero!), manually save and reload so that the turrets won't kill you.
-- Exit Vulkar Base
+- Exit the Vulkar Garage
+- Take first door on right, first door on right, then exit the Vulkar Base
 
 ### Rescuing Bastila
 
-- Return to Hidden Bek base
+- Enter Javyar's Cantina
+- Return to Hideout, then immediately Transit Back
+  - This sets the transit point for a Transit Warp later
+- Exit cantina and enter the Hidden Bek Base
 - Talk to Gadon Thek
 - Successfully win the swoop races
   - Talk to the Race Coordinator before each one
   - Whatever time you get on the first race will be beaten by 0.25s by Redros
   - You'll need to beat Redros's time on the second race, but your swoop accelerates faster
-- Kill Brejik using Poison/Sonic grenades
-  - Start by running a little bit away so you don't get hit by your own grenades.
-  - Throw a Poison Grenade first, then two Sonic Grenades
-  - Brejik always gets hit by the poison, and the sonics have a 50-50 chance to do 10 or 20 damage.
+- Kill Brejik using grenades
+  - Start by running a little bit away so you don't get hit by your own grenades
+  - Throw a Poison Grenade first, then a Sonic Grenade, then a Frag Grenade
+  - Brejik always gets hit by the Poison, while the Sonic has a 50-50 chance to do 10 or 20 damage
+  - The Frag has a 70-30 chance to do 10 or 20 damage unless the Sonic hit, in which case it's 50-50
   - He has really high defense, so grenades are the best option
-  - Even if you don't roll 20s on the sonic grenades, the poison will eventually kill him
-- Finish off the remaining Vulkars with Flurry
+  - Even if you don't roll 20s on the Sonic and Frag, the poison will eventually kill him
+  - After you throw the last grenade, kill Redros with Flurry and finish off Bastila's guards if necessary
+  - This fight can be 3 rounds if Brejik fails both saves on the Sonic and Frag, or as bad as 8 rounds if he saves both
 - Loot Brejik's corpse
 - Talk to Bastila
   - This takes you back to the apartment hideout
@@ -455,24 +478,25 @@ SHOPPING: Zelka Forn
 - Transit Back to Javyar's Cantina
 - Activate Solo Mode
 - Run into the cantina until Canderous accosts you
-- `Level MC to 4: Str to 19, TI to 7`
 - `Level Bastila to 4: Cha to 16, Save Skills, Burst of Speed`
-- *Equip MC: Nerve Enhancement Package*
 - *In Options -> Gameplay, turn Auto-Level ON so party members will automatically level*
 - Exit the cantina with Bastila
 - ***Whenever possible, use Bastila with Burst of Speed for faster movement***
-- Enter Upper City North
+- *Force: Burst of Speed on Bastila*
+- Enter Upper City North as Bastila
 - Activate Solo Mode to leave MC at elevator
 - Run with Bastila to Droid Shop
-- Talk to Janice Nall: 2,2,1 (-4 DSP; 52)
+- Talk to Janice Nall: 2,2,1 (-4 DSP; 50)
 - *Party: Add T3 when prompted*
 - Deactivate Solo Mode
 - Swap to Bastila and click on elevator
   - Mash conversation
   - This warps all party members to the elevator
-- Unlock Sith Base with T3
+- Run to Sith Base as Bastila, then unlock Sith Base with T3
 - *Party: Remove Bastila, Add Zaalbar*
-- *Stims: Adrenal Strength on MC and Zaalbar*
+- *Equip MC: Vibroblade Offhand*
+- *Equip Zaalbar: Mission's Vibroblade Mainhand*
+- *Stims: Adrenal Strength on Zaalbar*
 - Enter Sith Base
 
 ### Sith Base
@@ -481,24 +505,24 @@ SHOPPING: Zelka Forn
 - Activate Solo Mode
 - As MC, click on door at far end of first hallway
 - As T3, hack the desk console to kill Sith soldiers: 1,1,2,2,2,8,3 (-3; 5 Spikes)
-- Deactivate Solo Mode
-- Kill two patrol droids near force cages
-- Rescue the Duros by hitting the first, third, and fifth wall switches (+2 LSP; 54)
-- Kill patrol droid in next hallway
+- Swap to MC and deactivate Solo Mode
+- One Flurry on each patrol droid; Zaalbar and T3 should finish them off
+- Kill patrol droid in next hallway as MC
 - Loot footlocker in barracks for Sith passcard
 - Open door to Assault Droid fight:
-  - Use Concussion Grenade on Assault Droid with whoever opened the door
+  - Use Concussion Grenade on Assault Droid with T3
+    - If you have extra Concussion Grenades, throw one with Zaalbar as well
   - MC: Flurry on Assault Droid
   - Zaalbar: Improved Power Strike on Assault Droid
-  - T3: Use Shield Disruptor on blaster turrets; 2 hits are enough to kill one turret
+  - T3: Use Shield Disruptor on blaster turrets; 2 hits are enough to kill one turret, but don't use more than 3 Shield Disruptors on them
 - Enter the elevator
 - Sith Governor fight:
   - MC: Poison Grenade, then Flurry
-  - T3: Stun Ray x4
+  - T3: Shield Disruptor, Stun Ray x3
   - Zaalbar: Sonic Grenade, then Improved Power Strike
   - Make sure T3 keeps up with the Stun Ray until the Governor is stunned
-  - Once the Governor is stunned, T3 can use Shield Disruptors if you need extra damage to kill him
-- Loot both strongboxes and Sith Governor's corpse for Launch Codes (+500 Credits; +3 Spikes; 8 Spikes total)
+  - Once the Governor is stunned, T3 can loot the strongboxes early
+- Loot both strongboxes and Sith Governor's corpse for Launch Codes (+3; 8 Spikes total)
 - Exit the Sith Base
 
 ### Leaving Taris
@@ -507,7 +531,7 @@ SHOPPING: Zelka Forn
 - Move with Bastila (and Burst of Speed) to Lower City Elevator and open door
 - *Party: Remove Bastila*
 - Enter the Lower City, then enter Javyar's Cantina 
-- Talk to Canderous: 2
+- Talk to Canderous: 2, 1
 - *Party: Add T3 when prompted*
 - Cool cutscenes
 - Take door on right and door immediately on left
@@ -516,9 +540,11 @@ SHOPPING: Zelka Forn
 - Switch back to MC and enter the hangar
 - Calo/Davik fight:
   - This fight ends if we get Calo to <50% Vitality
-  - MC/Canderous: Frag Grenade x2 on Calo
-  - T3: Shield Disruptor x2 on Calo 
-  - This fight is guaranteed to finish in 2 rounds
+  - MC: Frag Grenade x2 on Calo
+  - T3: Shield Disruptor x3 on Calo
+  - Canderous: Power Blast x2 on Calo
+    - If you have extra Frags, have Canderous throw them before his Power Blasts
+  - This fight has a roughly 50-50 chance of being 2 or 3 rounds
 - Loot Davik's corpse for mad credits
 - *Equip MC: Clothes or Nothing*
 - Board the Ebon Hawk
@@ -530,6 +556,7 @@ SHOPPING: Zelka Forn
 ### Jedi Enclave
 
 - *Stims: Adrenal Alacrity on MC ONLY if you have 3 or more*
+  - If you skipped Zelka, you probably won't have any Alacrities here
 - Follow Bastila to Jedi Council
 - Belaya accosts you
 - Speak with the Council
@@ -1087,6 +1114,7 @@ SHOPPING: Eli Gand
 **v7.0 (January 2025)**
 - New planet order that does Tatooine 2nd and Korriban 3rd
 - New Scoundrel build for Sneak Attack II and employing Auto-Level Attributes
+- Includes optional Force Power tweaks for build variations
 - Kills Darth Bandon on Korriban
 - Tweaked credit route on Taris
 - Skips the footlocker near Zaalbar to save time in Lower Sewers
