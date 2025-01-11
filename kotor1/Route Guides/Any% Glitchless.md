@@ -226,9 +226,9 @@ Taris -> Dantooine -> Manaan -> Tatooine -> Korriban -> Leviathan -> Kashyyyk ->
 
 The reasoning for the middle planets:
 
-- Manaan is done first to give us enough credits to buy stims and medpacs when we first reach Korriban.
+- Manaan is done first to gain a lot of XP and credits without actually having to kill anything ourselves, since we're pretty underpowered after leaving Dantooine.
 - Kashyyyk is done last because you can skip the Star Map computer's quiz if your identity has already been revealed.  We also don't need Jolee for the Leviathan rescue, since Canderous is fast enough.
-- Tatooine is done second so we can bring party members to the Eastern Dune Sea and not have them get caught up on either Calo or Bandon.  This planet used to be third.
+- Tatooine is done second so we can bring party members to the Eastern Dune Sea and not have them get caught up on either Calo or Bandon.  This planet used to be third and the Eastern Dune Sea done alone, which cost time both in the fight and in movement.  However, not having Knight Speed makes the Sand People Chieftain fight much more dangerous.
 - Korriban is done third; we used to do it second so that we could quickly Return to the Ebon Hawk after getting the Star Map without Bandon being in the way.  However, it's possible to kill Darth Bandon while a party member (Juhani) runs over to Lashowe to trigger that fight, warping the party over.  This allows for a fast return to the Ebon Hawk after the Star Map with minimal time loss, even as the third planet.  By doing Korriban third, we also have Knight Speed for all the fights here (Bandon, Lashowe, and Yuthura).
 
 ## Detailed Route
