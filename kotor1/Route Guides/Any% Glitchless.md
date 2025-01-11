@@ -1084,6 +1084,15 @@ SHOPPING: Eli Gand
 
 ## Version History
 
+**v7.0 (January 2025)**
+- New planet order that does Tatooine 2nd and Korriban 3rd
+- New Scoundrel build for Sneak Attack II and employing Auto-Level Attributes
+- Kills Darth Bandon on Korriban
+- Tweaked credit route on Taris
+- Skips the footlocker near Zaalbar to save time in Lower Sewers
+- More aggressive Calo strat leaving Taris
+- Save and Load on Endar Spire to activate Duration Glitch early
+
 **v6.0 (August 2021)**
 - New route that skips the CNS Strength Enhancer
 - Completely new credit and shopping route
