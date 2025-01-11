@@ -15,8 +15,10 @@ If you have additional questions, you can check out the [KotOR Speedrunning Disc
 - [Character Build](#character-build)
   - [Character Creation](#character-creation)
   - [Leveling Plan](#leveling-plan)
+  - [Force Power Options](#force-power-options)
 - [Equipment Plan](#equipment-plan)
 - [Credit Route](#credit-route)
+  - [Skipping Zelka](#skipping-zelka)
 - [Alignment Route](#alignment-route)
 - [Route Overview](#route-overview)
 - [Detailed Route](#detailed-route)
@@ -39,11 +41,23 @@ Due to its glitchy nature, QUICKSAVE is banned as well.  Manual and autosaves, h
 
 ## Character Build
 
+The new character build is a Scoundrel build with Sneak Attack II, replacing the old Scout build.  The benefits of this change are:
+
+1. Sneak Attack II helps certain fights become faster; in particular, the Hendar rakghoul, any fight where you Stun the opponent (Assault Droid, Governor, Juhani), the Sand People warrior in the Dune Sea, Darth Bandon, Lashowe, and Leviathan Malak are some of the fights that benefit from Sneak Attack damage.
+2. Sneak Attack damage applies to Force Jumps at range.  This makes Force Jump Chains easier to obtain, leading to faster Force Jump movement on Kashyyyk and Lehon in particular.
+3. With [Auto-Level Attributes](<../Techniques/Glitchless Tricks#auto-level-attributes>), we want to only spend 3 levels in our base class.  Thus a major benefit of Scout (the free Implant 2 feat at level 4) is no longer valid.
+
+There are, however, some drawbacks:
+
+1. With no guaranteed Alacrity on Endar Spire, the Scoundrel build must either get a random Alacrity on Spire (0.83% chance) or shop with Zelka on Taris to buy Alacrities.  Scouts can skip Zelka consistently, saving roughly 11s.
+2. Scoundrels have to take less Dex and Con and have naturally less Vitality than Scouts.  This means dying on Taris is a much more common occurence, and there's more stress on early game medpac usage.
+3. Scoundrels have to manually select Flurry, and therefore cannot take Weapon Focus: Melee Weapons.  This leads to slightly worse chances to hit throughout Taris, but you can mitigate this by single-wielding on Taris to avoid the Two-Weapon Fighting penalty.
+
+The old Scout build is close enough that if you really prefer it, you can use a Scout build instead.  But Scoundrels will have more consistent and faster combat and therefore have the potential for faster runs overall.
+
 ### Character Creation
 
-We now begin as a Scoundrel; this guide as written can be completed as either a Male or Female character, with the only difference being two conversations with Lashowe.  Scoundrel is used over Scout because of Sneak Attack II, which makes combat quicker in several fights throughout the run.  We used to use a Scout class for the Implant 2 feat, but due to [Auto-Level Attributes](<../Techniques/Glitchless Tricks#auto-level-attributes>) we want to spend only three levels in our base class, so Scoundrel and Sneak Attack II are the better choice.
-
-On becoming a Jedi we'll choose the Jedi Guardian class for maximum attack power, the Force Jump feat for quicker movement, and since we no longer need any skill points.
+We now begin as a Scoundrel; this guide as written can be completed as either a Male or Female character, with the only difference being two small conversation tweaks when speaking with Lashowe.  On becoming a Jedi we'll choose the Jedi Guardian class for maximum attack power and the Force Jump feat for quicker movement.
 
 **Initial Attributes**
 
@@ -555,7 +569,7 @@ SHOPPING TRIP: Larrim
 
 ### Jedi Enclave
 
-- *Stims: Adrenal Alacrity on MC ONLY if you have 3 or more*
+- ***Conditional** Stims: Adrenal Alacrity on MC ONLY if you have 3 or more*
   - If you skipped Zelka, you probably won't have any Alacrities here
 - Follow Bastila to Jedi Council
 - Belaya accosts you
@@ -563,7 +577,7 @@ SHOPPING TRIP: Larrim
 - Watch the dream cutscene
 - Carth accosts you
 - *Party: No change when prompted*
-- *Stims: Adrenal Alacrity on MC ONLY if you have 2 or more*
+- ***Conditional** Stims: Adrenal Alacrity on MC ONLY if you have 2 or more*
 - Speak with the Council again
 - Go get a sandwich during the training montage
 - Talk to Master Zhar twice: 1,1 ... 1,1,6,3,2,6,4
