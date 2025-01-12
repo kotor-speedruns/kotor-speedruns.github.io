@@ -288,6 +288,7 @@ Conversation Notes:
 - Set these Options:
   - Ensure V-Sync is ON
   - Ensure Auto-Level is OFF in the Gameplay Menu
+    - We need to manually level Bastila to 4 to get Burst of Speed for the end of Taris
   - Optionally, make sure you have no saved games
 - Character Creation:
   - Male/Female Scoundrel - Custom Character
@@ -300,8 +301,8 @@ Conversation Notes:
 ### Endar Spire
 
 - Trask talks to you (spam)
-- Loot footlocker
-- *Equip MC: Clothes*
+- Loot footlocker (+1 Computer Spike; 1 Total)
+- *Equip MC: Clothes or Short Sword*
 - Talk to Trask
 - Switch to Trask and open door
 - Switch back to Trask use security on door
@@ -321,8 +322,8 @@ Conversation Notes:
 - Enter Starboard Section
 
 ### Starboard Section
-- Loot footlocker in Terminal Room (+5 Computer Spikes; 5 Total)
-- Hack terminal console: 2,3 (-4; 1 Spike)
+- Loot footlocker in Terminal Room (+5; 6 Spikes)
+- Hack terminal console: 2,3 (-4; 2 Spikes)
 - Loot Sith Commander for Prototype Vibroblade
   - Note whether or not you have an Adrenal Alacrity; if so, Zelka can be skipped
 - Carth talks to you
@@ -372,7 +373,7 @@ SHOPPING TRIP: Larrim
   - *Stims: Use one of each stim on MC, Alacrity on Carth*
   - Run MC close enough to Carth, then swap and enter Upper City North
     - You need to be about two floor tiles from the fountain
-- *Otherwise, if you've already used all four stims and can skip Zelka:*
+- *Otherwise, if you've already used all four stims and can [skip Zelka](#skipping-zelka):*
     - Run straight from South Apartments to Upper City North and enter
     - *Skipping Zelka saves 10-11s, but only if you already used an Alacrity from Spire*
 - After entering Upper City North, run straight across to enter North Apartments
@@ -382,6 +383,8 @@ SHOPPING TRIP: Larrim
 - Loot corpses for Sith Uniform, grenades, and stims
 - ***Conditional** - If Carth doesn't have Alacrity on:*
   - *Stims: Use Alacrity on Carth*
+  - At this point, MC should have all four stims active and Carth should have Alacrity
+  - All stims should be [Duration Glitched](<../Techniques/Glitchless Tricks#duration-glitch>) until the end of Taris unless a character dies
 - *Party: Remove Carth*
 - Exit the apartments
 - Drunks accost you (+2 LSP; 54)
