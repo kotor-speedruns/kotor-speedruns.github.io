@@ -87,21 +87,21 @@ We choose Flurry because it's overall a better feat than Critical Strike, though
 
 ### Leveling Plan
 
-| Level | Feats | Powers | Skills |
-| --- | :--- | :--- | :--- |
-| 1 | Flurry, *Scoundrel's Luck* | | Com and TI to 2, Demo, Stealth, Per, Security to 4 |
-| 2 | Two-Weapon Fighting | | Save All |
-| 3 | *Sneak Attack II* | | Save All |
-| 4 | Improved Two-Weapon Fighting | Affect Mind, Stun Droid | Save All |
-| 5 | | Burst of Speed | Save All |
-| 6 | Improved Flurry | Force Valor | Per to 9, TI to 9, Save Rest |
-| AL7 | | *Stun* | *Awareness to 7, Repair to 1* |
-| 8 | | Disable Droid | Per to 11, TI to 10 |
-| 9 | Master Two-Weapon Fighting | Knight Speed | Per to 12, TI to 11 |
-| 10 | Master Flurry | Knight Valor | Per to 13, TI to 12 |
-| AL11 | | *Stasis* | *Awareness to 9* |
-| 12 | Weapon Focus: Lightsaber | Force Resistance | Per to 14, TI to 13 |
-| AL13 | | *Force Push* | *Awareness to 11* |
+| Level | STR | Feats | Powers | Skills |
+| --- | --- | :--- | :--- | :--- |
+| 1 | 18 | Flurry, *Scoundrel's Luck* | | Com and TI to 2, Demo, Stealth, Per, Security to 4 |
+| 2 | 18 | Two-Weapon Fighting | | Save All |
+| 3 | 18 | *Sneak Attack II* | | Save All |
+| 4 | 19 | Improved Two-Weapon Fighting | Affect Mind, Stun Droid | Save All |
+| 5 | 19 | | Burst of Speed | Save All |
+| 6 | 19 | Improved Flurry | Force Valor | Per to 9, TI to 9, Save Rest |
+| AL7 | *20* | | *Stun* | *Awareness to 7, Repair to 1* |
+| 8 | 21 | | Disable Droid | Per to 11, TI to 10 |
+| 9 | 21 | Master Two-Weapon Fighting | Knight Speed | Per to 12, TI to 11 |
+| 10 | 21 | Master Flurry | Knight Valor | Per to 13, TI to 12 |
+| AL11 | *22* | | *Stasis* | *Awareness to 9* |
+| 12 | 23 | Weapon Focus: Lightsaber | Force Resistance | Per to 14, TI to 13 |
+| AL13 | *23* | | *Force Push* | *Awareness to 11* |
 
 Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flurry, and Knight Speed, using Bastila's Double-bladed Lightsaber as our main weapon.  This gives us multiple attacks that will deal as much damage as possible; we need as many attacks as we can get, since our chance to hit will be relatively low.  Other notes:
 
