@@ -337,10 +337,10 @@ Conversation Notes:
   - *Stims: Use stim hotkey to use Adrenal Alacrity on MC before vision CS*
 - Carth talks to you: 1,1,1,5,3
 - Loot footlocker (+2; 4 Spikes)
-- *Equip MC: Combat Suit, Prototype Vibroblade Mainhand*
+- *Equip MC: Combat Suit, Prototype Vibroblade Mainhand, Vibroblade Offhand*
 - Exit the apartment
   - *Party: No change when prompted*
-- Use a frag grenade on the Sith Commander (may have to Flurry him too)
+- Use a Frag Grenade on the Sith Commander (may have to attack him too)
 - Loot the backpack
 - Larrim accosts you: 1,2,4 (+1; 5 Spikes)
 
@@ -349,7 +349,6 @@ SHOPPING TRIP: Larrim
 - SELL ALL EXCEPT:
   - Medpacs
   - Computer Spikes
-  - 1 Vibroblade (sell the other)
   - Any Grenades
   - Any Stims
 - BUY:
@@ -398,9 +397,10 @@ SHOPPING TRIP: Larrim
 - *Equip MC: Combat Suit*
 - `Level to 3: Save Skills (granted Sneak Attack II)`
 - After CS, defeat the Vulkar patrol with MC
-  - Queue Flurry on each enemy
-- Swap to Carth and run towards Bek Base
-- Click on Bek Base with Carth and lookout accosts you
+  - Queue Critical Strike on each enemy
+  - Flurry can be used instead but it's more inconsistent; the chance to hit is just 40% mainhand and 30% offhand
+- Swap to Carth and run towards Bek Base while MC battles the Vulkars
+- Click on Bek Base door with Carth and lookout accosts you
   - This warps MC to the Bek Base
 - Cancel combat and enter the Bek Base as MC
 - Activate Solo Mode and open first door with MC
@@ -418,7 +418,9 @@ SHOPPING TRIP: Larrim
 - *Party: Add Carth*
 - Run forward to watch Hendar run
 - Kill the rakghoul
-  - MC should run past the rakghoul on the right, then turn and use Flurry from behind for Sneak Attacks
+  - MC should let the rakghoul run past them, then turn and use Critical Strike from behind for Sneak Attacks
+  - Flurry can be used instead; it has higher damage potential but higher variability, so Critical Strike is more consistent
+  - MC may want to bump the Rakghoul after round one, or it could action cancel you on round two
   - Carth uses Power Blast from close range to get the +10 Close Proximity attack bonus
   - This fight should be 2 or 3 rounds
 - Run towards Lower Sewers until Mission accosts you
@@ -429,6 +431,8 @@ SHOPPING TRIP: Larrim
 
 - Open the first door, then activate Solo Mode
 - As MC, run forward towards Rakghoul group, then throw a frag grenade to hit as many as possible
+  - The Rakghoul Fiend will always survive and has a 40% chance to save against the grenade
+  - The normal Rakghouls will die to the frag unless they hit their 40% chance to save
 - Swap to Carth and go through right hand door, then run up ramp and click door on right
 - Swap to MC and click left door to force field
   - If the rakghouls are not dead yet, try to finish them off quickly
@@ -451,20 +455,22 @@ SHOPPING TRIP: Larrim
   - Open door to elevator area
   - Make a manual safety save
   - Stand in doorframe corner near terminal and make a manual save
-  - Pause the game, then queue two concussion grenades on the center turret
+  - Pause the game, then queue 1-2 concussion grenades on the center turret
+    - If the first concussion grenade stuns all three turrets (21.6% chance) then you can save the second one for the Assault Droid later 
   - Unpause; if any turret remains unstunned after both grenades, load the safety save and try again
   - If all three turrets are stunned, take the elevator to the Garage
   - There is a 59.6% chance to stun all three turrets after *both* grenades.  Good luck!
   - You MUST stun all three turrets, since we will be leaving this way
-  - If the first concussion grenade stuns all three turrets (21.6% chance) then you can save the second one for the Assault Droid later
 - In the garage, take hallway on right and last door on right
 - Loot garage head's desk and supplies for passcard and Computer Spikes (+2; 8 Spikes)
-- Run down the central hallway and turn left
-- Open the door and use a medpac if you aren't at full health
+- Return to the main room then turn right down the central hallway and left at the end
+- Open the last door on the left and immediately use a medpac if you aren't at full health
 - Kandon Ark confronts you: 2,2,2
 - Get the swoop accelerator
+  - Kandon and his goons can deal a lot of damage, so watch your health here and medpac as needed
 - Return through central hallway to elevator to main base
 - Exit the Vulkar Garage
+  - With the new Save/Load on Endar Spire, these turrets should never instantly kill you as you're leaving
 - Take first door on right, first door on right, then exit the Vulkar Base
 
 ### Rescuing Bastila
@@ -481,11 +487,10 @@ SHOPPING TRIP: Larrim
 - Kill Brejik using grenades
   - Start by running a little bit away so you don't get hit by your own grenades
   - Throw a Poison Grenade first, then a Sonic Grenade, then a Frag Grenade
-  - Brejik always gets hit by the Poison, while the Sonic has a 50-50 chance to do 10 or 20 damage
-  - The Frag has a 70-30 chance to do 10 or 20 damage unless the Sonic hit, in which case it's 50-50
-  - He has really high defense, so grenades are the best option
-  - Even if you don't roll 20s on the Sonic and Frag, the poison will eventually kill him
-  - After you throw the last grenade, kill Redros with Flurry and finish off Bastila's guards if necessary
+  - Brejik is guaranteed to get Poisoned, and has a 50% chance to save vs. the Sonic Grenade
+  - Brejik has a 70% chance to save vs. the Frag unless he failed the Sonic save; then the -6 Dex from the Sonic makes his Frag save 55%
+  - He has really high defense, making a basic attack only 15%/5% to hit, so grenades are the best option
+  - After you throw the last grenade, kill Redros with Flurry and finish off Bastila's guards if necessary; let the Poison finish Brejik unless he's the last one standing
   - This fight can be 3 rounds if Brejik fails both saves on the Sonic and Frag, or as bad as 8 rounds if he saves both
 - Loot Brejik's corpse
 - Talk to Bastila
@@ -517,7 +522,6 @@ SHOPPING TRIP: Larrim
   - This warps all party members to the elevator
 - Run to Sith Base as Bastila, then unlock Sith Base with T3
 - *Party: Remove Bastila, Add Zaalbar*
-- *Equip MC: Vibroblade Offhand*
 - ***Recommended** Equip MC: Brejik's Armband*
 - ***Optional** Equip MC: Brejik's Belt*
 - *Equip Zaalbar: Mission's Vibroblade Mainhand*
@@ -533,6 +537,8 @@ SHOPPING TRIP: Larrim
 - Swap to MC and deactivate Solo Mode
 - One Flurry on each patrol droid; Zaalbar and T3 should finish them off
 - Kill patrol droid in next hallway as MC
+- *Equip MC: Remove Vibroblade Offhand*
+  - The Assault Droid and Sith Governor have high enough defense that we need to remove our Two-Weapon Fighting penalty for any consistency
 - Loot footlocker in barracks for Sith passcard
 - Open door to Assault Droid fight:
   - Use Concussion Grenade on Assault Droid with T3
