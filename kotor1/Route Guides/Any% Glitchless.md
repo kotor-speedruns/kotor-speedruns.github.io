@@ -112,7 +112,7 @@ Our main combat plan is lots of Strength, Master Two-Weapon Fighting, Master Flu
 **Skill Notes:** 
 - Putting the points into Stealth at the start causes our initial footlocker to contain a Stealth Field Generator, which sells for 40 extra credits.  This is necessary to guarantee enough credits to buy the stims and grenades we want when we reach Taris.
 - Putting 2 points into Computer Use, along with 14 Int, saves us one computer spike when we hack on the Endar Spire, allowing us to only have to buy one from Larrim.  This helps us compensate for the fewer credits Scoundrels get compared to a Scout.
-- We need Persuade for several conversations, most notably Persuading Juhani to redeem her and Persuading Yuthura to admit us to the Sith Academy.  With the given build, the only Persuade check that we could possibly fail is the scientists at the force field in Kolto Control, and if we cast Force Valor first we are guaranteed to pass it; without, it's a 50-50 chance.  All our Persuade checks are Medium difficulty at worst, and that's the only point in our build where we don't have enough Persuade to guarantee passing them.
+- We need Persuade for several conversations, most notably Persuading Juhani to return to the light side and Persuading Yuthura to admit us to the Sith Academy.  With the given build, the only Persuade check that we could possibly fail is the scientists at the force field in Kolto Control, and if we cast Force Valor first we are guaranteed to pass it; without, it's a 50-50 chance.  All our Persuade checks are Medium difficulty at worst, and that's the only point in our build where we don't have enough Persuade to guarantee passing Medium checks.
 - The points in Demolitions and Security are just used to keep menus cleaner.  We will never have to loot a mine or open a door.
 - Every other spare point is put into Treat Injury to make medpac use more efficient.
 
@@ -134,9 +134,11 @@ Certain Force Powers in this build are givens: you will always get Knight Speed 
 3. **Early Stun for Juhani**
 - The default strat for Juhani is to use Critical Strike to fish for a Stun while dealing damage, then switching to Improved Flurry if and when the Stun is successful.  However, if you take the Force Power Stun before the Juhani fight, you can use it on turn one to have a higher chance to Stun (17.5% for Crit Strike vs. 25% for Stun), and a guaranteed Slow effect for -4 AC if Juhani saves.  While the difference in Stun chance is somewhat negligible, the -4 AC upon a save is a huge benefit.  The downside to using Stun on turn one is that you are guaranteed to deal no damage that round.  Overall, having Stun does make the fight slightly faster on average, but the Crit Strike method has a better chance of an unlikely 2-round fight.  Taking Stun early also means you miss out on Affect Mind.
 - **To implement this change:** Take **Stun** instead of Affect Mind at level 4.  The level 7 Auto-Level will give you Force Push, while level 13 if reached will give Force Whirlwind.
-- **Note:** If you take Stun early, you must either take **Knight Valor** instead of Improved Energy Resistance, or take **Drain Life** instead of **Disable Droid**; otherwise, you don't have enough Force Powers to take both Stun and Energy Resistance before level 9.
+- **Note:** If you take Stun early, you must either take **Knight Valor** instead of Improved Energy Resistance, or take **Drain Life** instead of **Disable Droid**; there aren't enough Force Powers before level 9 to take all four of Stun, Energy Resistance, Stun Droid, and Disable Droid.
 
 ## Equipment Plan
+
+Our equipment plan includes a couple optional equips for survival; these equips each cost a second or so, but they can make certain fights much more consistent.
 
 *Implant: None*
 - As a Scoundrel, we no longer get Implant Feats for free and don't spend the feats to get them.
@@ -151,25 +153,25 @@ Certain Force Powers in this build are givens: you will always get Knight Speed 
 - This optional equip makes the Sith Governor easier to survive by providing Damage Resistance: 5/- vs. Slashing.  This also helps against Kath Hounds, Kinrath, and anyone wielding a vibrosword, such as the Rakata Warriors on Lehon.  Equipping this, both before Sith Base and again on Leviathan, is personal preference, but it is more recommended before the Sith Base.
 
 *Shield: Echani Shield* - Found on Dantooine, Casus Sandral's corpse
-- This optional equip can be used to aid survival in certain key fights, particularly the Sand People Chieftain fight.  It also helps in the Manaan Sith Base and against Darth Bandon on Korriban.  This will typically not be re-equipped on the Leviathan since the MC is bulky enough by that point.
+- This optional equip can be used to aid survival in certain key fights, particularly the Sand People Chieftain fight.  It also helps in the Manaan Sith Base and against Darth Bandon on Korriban.  This will typically not be re-equipped on the Leviathan since the MC is bulky enough by that point, but it could be used to try to avoid medpac usage during the Saul Karath fight.
 
 *Body: Jedi Knight Robe* - Found on Dantooine, Nemo's corpse
 - We must use Robes to use our Force powers (mainly Speed), and this is the best convenient robe to get.  Optionally, you can loot a chewed Twi'lek corpse at the mouth of the Krayt Dragon cave for a Jedi Master Robe but the extra 1 defense really isn't worth it.
 
 *Weapon: Double-bladed Lightsaber* - Found on Taris, Brejik's corpse
 - We borrow Bastila's lightsaber for the run (and probably give it back afterwards).  The crystals we use are as follows:
-  - Sigil Crystal: Placed after Dantooine, used for +1 Attack
-  - Krayt Dragon Pearl: Good damage boost, but essential for the +3 Attack boost.  Placed after Tatooine and kept there for the rest of the run.
-  - Solari Crystal: The best crystal in the game; placed after Lehon so that we can ignore our alignment almost entirely, but have better fights on Star Forge.
+  - **Sigil Crystal:** Mainly used for +1 Attack, but the extra d6 of damage is nice too.  Placed after Dantooine and kept until leaving Lehon.
+  - **Krayt Dragon Pearl:** Good damage boost, but essential for the +3 Attack boost.  Placed after Tatooine and kept there for the rest of the run.
+  - **Solari Crystal:** The best crystal in the game with a +3 Attack and Damage boost; the d8 vs. Dark Side is rarely applicable (but does help vs. Summit Bastila and Star Forge Malak).  Placed after Lehon so that we can ignore our alignment almost entirely.
 
 *Belt: Nerve Amplifier Belt* - Bought on Tatooine from Mic'Tunan'Jus Orgu (1000 Credits)
-- This provides the crucial Immunity: Mind-Affecting that we used to get from our Implant slot.  We actually get two of these and give one to Carth for the Leviathan so he doesn't get [Duration Glitch](<../Techniques/Glitchless Tricks#duration-glitch>) Stunned.
+- This provides the crucial Immunity: Mind-Affecting that we used to get from our Implant slot.  We actually loot a second one of these and give it to Carth for the Leviathan so he doesn't get [Duration Glitch](<../Techniques/Glitchless Tricks#duration-glitch>) Stunned.
 
 All of our equipment should be equipped by the time we leave Tatooine, with the exception of the Solari crystal.  We'll also use the Combat Suit and various vibroblades while on Taris.
 
 ## Credit Route
 
-The new route has a very streamlined credit route, since we no longer need 8500 credits for the CNS Strength Enhancer.  Because of this, we make do with 5 shopping trips during the run; there is a backup shopping trim if you're short on stims as well.  Our shopping is as follows:
+The new route has a very streamlined credit route, since we no longer need 8500 credits for the CNS Strength Enhancer.  Because of this, we make do with 5 shopping trips during the run, though with a random Alacrity on Endar Spire we can skip one of those shopping trips.  Our shopping is as follows:
 
 *1. Larrim on Taris*
 - Sell: Nonessential items to reach ~1014 Credits
@@ -192,7 +194,7 @@ We get most of our credits for the Tatooine and Korriban shopping trips from sel
 
 ### Skipping Zelka
 
-If you get a random Adrenal Alacrity drop from the Endar Spire (0.83% chance), it is possible to skip shopping with Zelka completely, saving approximately 10 seconds.  If this is done, the two subsequent shopping trips change as follows:
+If you get a random Adrenal Alacrity drop from either Trask or the Sith Commander on the Endar Spire (1 in 240 chance for each for 0.83% chance total), it is possible to skip shopping with Zelka completely, saving approximately 11 seconds.  If this is done, the next two shopping trips change as follows:
 
 - *Selkath Merchant on Manaan*
   - Buy: 2x Adrenal Alacrity, 1x Hyper Battle Stimulant, 2-3x Hyper-Adrenal Strength, 1x Hyper-Adrenal Stamina (6-700 Credits total)
@@ -228,9 +230,14 @@ Here is the alignment route used in the run:
 
 *Snitching on Kel Algwinn is for some reason hardcoded to always give -5 alignment; similarly, rescuing the hopefuls from Shaardan is hardcoded to give +3 alignment.*
 
-By delaying the placement of the Solari crystal until after Lehon, we're able to streamline the alignment route as much as possible.  In particular, we're able to skip giving credits to the beggars in the Undercity, rescuing the Duros from the Sith Base, and fighting Uthar at all by siding with him.  We can also kill Komad Fortuna before the bantha escort to avoid talking with him after the escort.  Each light side action we do is actually the fastest option at that point; every single one comes from just mashing the conversation that you're in, instead of going out of our way to avoid the light side points.
+By delaying the placement of the Solari crystal until after Lehon, we're able to streamline the alignment route as much as possible.  In particular, we're able to:
 
-It's possible to equip the Solari crystal after Lehon as long as you stay true to the light side and are at either exactly 40 alignment, or 42 alignment or higher going into the Bastila fight.
+ - Skip giving credits to the beggars in the Undercity
+ - Skip rescuing the Duros from the Sith Base
+ - Side with Uthar and kill Yuthura in the Tomb of Naga Sadow
+ - Kill Komad Fortuna before the bantha escort to avoid talking with him after the escort
+
+Each light side action we do is actually the fastest option at that point; every single one comes from just mashing the conversation that you're in, instead of going out of our way to avoid the light side points.  It's possible to equip the Solari crystal after Lehon as long as you stay true to the light side and are at either exactly 40 alignment, or 42 alignment or higher going into the Bastila fight.
 
 ## Route Overview
 
@@ -242,7 +249,7 @@ The reasoning for the middle planets:
 
 - Manaan is done first to gain a lot of XP and credits without actually having to kill anything ourselves, since we're pretty underpowered after leaving Dantooine.
 - Kashyyyk is done last because you can skip the Star Map computer's quiz if your identity has already been revealed.  We also don't need Jolee for the Leviathan rescue, since Canderous is fast enough.
-- Tatooine is done second so we can bring party members to the Eastern Dune Sea and not have them get caught up on either Calo or Bandon.  This planet used to be third and the Eastern Dune Sea done alone, which cost time both in the fight and in movement.  However, not having Knight Speed makes the Sand People Chieftain fight much more dangerous.
+- Tatooine is done second so we can bring party members to the Eastern Dune Sea and not have them get caught up on either Calo or Bandon.  This planet used to be third and the Eastern Dune Sea done alone, which cost time both in the fight and in movement.  However, not having Knight Speed makes the Sand People Chieftain slightly slower and significantly more dangerous.
 - Korriban is done third; we used to do it second so that we could quickly Return to the Ebon Hawk after getting the Star Map without Bandon being in the way.  However, it's possible to kill Darth Bandon while a party member (Juhani) runs over to Lashowe to trigger that fight, warping the party over.  This allows for a fast return to the Ebon Hawk after the Star Map with minimal time loss, even as the third planet.  By doing Korriban third, we also have Knight Speed for all the fights here (Bandon, Lashowe, and Yuthura).
 
 ## Detailed Route
@@ -258,8 +265,7 @@ Notation:
 Conversation Notes: 
 - If no conversation choices are specified, spamming will work (this chooses all 1 options).
 - A ... indicates a break in the conversation, such as changing who you're talking to or having to talk to the NPC again
-- A * indicates a variable answer, such as in reciting the Sith Code.
-- A #* indicates a Persuade check that may fail.
+- An X indicates a variable answer, such as in reciting the Sith Code.
 - A #xY indicates repeat that option Y times, as in Gadon Thek's first conversation.
 
 **Jump to a Section:**
