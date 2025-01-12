@@ -501,7 +501,8 @@ SHOPPING TRIP: Larrim
 ### Upper City
 
 - Carth/Bastila talk to you: 1,1,1,1 ... 2
-- Exit apartment; *Party: Add Bastila when prompted*
+- Exit apartment
+  - *Party: Add Bastila when prompted*
 - Twi'lek accosts you
 - Transit Back to Javyar's Cantina
 - Activate Solo Mode
@@ -509,18 +510,16 @@ SHOPPING TRIP: Larrim
 - `Level Bastila to 4: Cha to 16, Save Skills, Burst of Speed`
 - *In Options -> Gameplay, turn Auto-Level ON so party members will automatically level*
 - Exit the cantina with Bastila
-- ***Whenever possible, use Bastila with Burst of Speed for faster movement***
 - *Force: Burst of Speed on Bastila*
-- Enter Upper City North as Bastila
+- As Bastila, enter Upper City North
 - Activate Solo Mode to leave MC at elevator
-- Run with Bastila to Droid Shop
-- Talk to Janice Nall: 2,2,1 (-4 DSP; 50)
-- *Party: Add T3 when prompted*
-- Deactivate Solo Mode
-- Swap to Bastila and click on elevator
+- As Bastila, enter Droid Shop and talk to Janice Nall: 2,2,1 (-4 DSP; 50)
+  - *Party: Add T3 when prompted*
+- Deactivate Solo Mode, swap to Bastila and click on elevator
   - Mash conversation
   - This warps all party members to the elevator
-- Run to Sith Base as Bastila, then unlock Sith Base with T3
+- Swap to Bastila and run to Sith Base; make sure T3 and MC follow
+- Swap to T3 and unlock Sith Base
 - *Party: Remove Bastila, Add Zaalbar*
 - ***Recommended** Equip MC: Brejik's Armband*
 - ***Optional** Equip MC: Brejik's Belt*
