@@ -916,13 +916,14 @@ SHOPPING: Mic'Tunan'Jus Orgu
 - Exit the Ebon Hawk
   - Mash Bastila's interruption
   - *Force: Cast Burst of Speed*
-- *Party: No change when prompted*
+  - *Party: No change when prompted*
 - Run towards door until Port Authority accosts you: 1,1,3,2
 - Intervene with Shaardan: 1,1,1 (+7 LSP; 55)
 - Lashowe accosts you:
   - As a Male MC, mash this convo
   - As a Female MC, convo is 1,4,1,1,1,1
-    - This tells Lashowe a joke and makes her Persuade check inside the academy a guaranteed Medium check instead of a 75% Hard check
+    - This tells Lashowe a joke, making her Persuade check inside the academy a 100% Medium check instead of a 75% Hard check
+    - You can optionally mash this convo and hope to pass the 75% Hard Persuade check inside; that check is easily retryable if you fail it
 - Speak to Czerka Shopkeeper
 
 ```
@@ -948,6 +949,7 @@ SHOPPING: Czerka Shop
 - Talk to Lashowe:
   - As a Male MC: 1x7, 3, 4
   - As a Female MC: 1x9, 4
+    - If you didn't tell Lashowe a joke and you fail the Persuade check, just retry the convo from the start
 - ***Conditional** - If you do not have level 9 available yet:*
   - Talk to Uthar: 3,1,3,1,3,3,2,3,4,4,X,3
     - The X is a variable answer based on one of three questions he asks after the Sith Code
