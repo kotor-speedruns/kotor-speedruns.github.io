@@ -199,7 +199,9 @@ If you get a random Adrenal Alacrity drop from either Trask or the Sith Commande
 - *Selkath Merchant on Manaan*
   - Buy: 2x Adrenal Alacrity, 1x Hyper Battle Stimulant, 2-3x Hyper-Adrenal Strength, 1x Hyper-Adrenal Stamina (6-700 Credits total)
 - *Mic'Tunan'Jus Orgu on Tatooine*
-  - The same, except don't buy the two stimulants as you've already bought them on Manaan
+  - Sell: Unneeded Items
+  - Buy: 4x Life Support Pack, Nerve Amplifier Belt, Bantha Fodder (1601 Credits total)
+  - This is the same shopping trip as above but omits purchasing the two stimulants, since you've already bought them on Manaan
 
 The detailed route below will describe how to use your stims if you do get the random Alacrity drop.
 
@@ -796,7 +798,7 @@ SHOPPING: Selkath Merchant
 - Exit the Ebon Hawk
   - Mash Bastila's interruption
   - *Force: Cast Burst of Speed*
-- *Party: No change when prompted*
+  - *Party: No change when prompted*
 - Czerka Officer accosts you: 1,1,5
 - Speak to Mic'Tunan'Jus Orgu
   - See [Skipping Zelka](#skipping-zelka) for details on a slightly different shopping trip
@@ -821,10 +823,11 @@ SHOPPING: Mic'Tunan'Jus Orgu
 - Stupid jerk gives you gizka. Damn gizka.
 - Exit to Anchorhead
   - ***Optional:** Make a Hard Save, close the game completely and reopen it to clear memory leaks*
-  - If you don't do this, the game can eventually fail to load textures, causing them to appear as white polygons and the game to crash at the next save/load screen
+  - If you don't do this, the game can eventually fail to load textures, causing them to appear as white polygons
+  - If this happens, the game will crash at the next save/load screen
   - As a rule of thumb, if you can get times that are sub 2 hours, you can skip this, but it can be risky!
 - Enter Czerka Office
-- Duros miner accosts you
+- Mash the awkward Duros/Czerka scene
 - Talk to the Czerka Officer: 1,1,1,3,2
 - *Stims: Use one of each stim, strongest version you have*
   - Using these here gives you higher saves against the Dark Jedi in Anchorhead
@@ -851,15 +854,15 @@ SHOPPING: Mic'Tunan'Jus Orgu
   - *Force: Cast Force Valor*
   - *Shield: Use Echani Shield if you equipped it*
   - *Medpacs: Heal to full using Advanced Medpac(s)*
-  - Enter the Sand People Enclave
+- Enter the Sand People Enclave
 - Run/Force Jump to the Chieftain
-  - You can pick up at least one kill here if you're short on XP
+  - You can pick up at least one extra kill here if you're short on XP
 - Kill the Chieftain and loot his corpse for Eastern Dune Sea Map
   - You can use Critical Strike to try to Stun him, but his AC is low enough that Flurry is usually fine on its own
   - This is usually three rounds, but could be two or four with unusually good/bad luck
   - Watch your health in this section, as it can drain very fast; use any medpacs needed
 - Run/Force Jump to Enclave Exit
-  - You can pick up another kill here if you're short on XP
+  - You can pick up another extra kill here if you're short on XP
 - Run/Force Jump towards Eastern Dune Sea
   - This is a possible spot for a Force Jump Chain and you can usually pick up 1-2 extra kills if needed
 - At Eastern Dune Sea entrance:
@@ -880,17 +883,28 @@ SHOPPING: Mic'Tunan'Jus Orgu
 - As Bastila, talk to banthas to lure them with fodder
 - Elite Sand People Fight:
   - Pause immediately after the cutscene
-  - Bastila: Stun on leftmost Warrior, Thermal on warrior to his right, Stun on that warrior, then Stun on leftmost warrior
-  - Juhani: Stun on middle warrior, Stun on rightmost warrior, Basic Attack (to Force Jump) on rightmost warrior
-  - MC: Run to Flurry the middle warrior until dead, then Force Jump to rightmost warrior and Flurry until dead, then Force Jump to remaining pair and finish them off
+  - Bastila:
+    - Stun on leftmost warrior (this one throws Adhesive Grenades)
+    - Thermal Detonator on warrior to his right (will hit both of them)
+    - Stun on the same warrior (to lower his AC)
+    - Stun on leftmost warrior (to lower his AC)
+  - Juhani:
+    - Stun on middle warrior
+    - Stun on rightmost warrior
+    - Force Jump to rightmost warrior
+  - Swap to MC and unpause
+  - As MC:
+    - Run to Flurry the middle warrior until dead
+    - Force Jump to rightmost warrior and Flurry until dead
+    - Force Jump to either remaining warrior and finish both off with Flurry
   - While MC finishes the last two warriors, swap to Bastila (or if she is entangled, Juhani) and run to banthas
   - Once the last warrior dies, talk to the banthas to lure them with fodder again
-- Kill four Elite Sand People Warriors with Force Jump and Flurry
-- Lure banthas with fodder again
-- As Bastila or Juhani still, loot the Krayt Dragon for Krayt Dragon Pearls
+- After the Krayt Dragon dies, *Force: Burst of Speed as Bastila (or Juhani)* 
+- Loot the Krayt Dragon for Krayt Dragon Pearls
 - ***Recommended:*** Loot the corpse on the right side of the Krayt cave for a Nerve Amplifier Belt for Carth
 - Star Map: Tatooine
 - Run back to the Dune Sea and Return to the Ebon Hawk
+  - *Force: Recast Burst of Speed as Bastila (or Juhani) as needed)*
 - Board the Ebon Hawk
 - **Upgrade Double Lightsaber: Add Krayt Dragon Pearl**
 - Fly to Korriban (down 3)
