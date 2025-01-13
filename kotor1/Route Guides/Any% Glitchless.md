@@ -532,24 +532,31 @@ SHOPPING TRIP: Larrim
 - Secretary accosts you: 2,1
 - Activate Solo Mode
 - As MC, click on door at far end of first hallway
-- As T3, hack the desk console to kill Sith soldiers: 1,1,2,2,2,8,3 (-3; 5 Spikes)
+- As T3, hack the desk console to kill Sith soldiers: 1,1,2,2 ... 2,8,3 (-3; 5 Spikes)
 - Swap to MC and deactivate Solo Mode
 - One Flurry on each patrol droid; Zaalbar and T3 should finish them off
 - Kill patrol droid in next hallway as MC
 - *Equip MC: Remove Vibroblade Offhand*
   - The Assault Droid and Sith Governor have high enough defense that we need to remove our Two-Weapon Fighting penalty for any consistency
 - Loot footlocker in barracks for Sith passcard
-- Open door to Assault Droid fight:
-  - Use Concussion Grenade on Assault Droid with T3
+- Open door to start Assault Droid fight:
+  - Pause after CS to set up the Concussion Grenade(s)
+  - T3: Concussion Grenade on Assault Droid
     - If you have extra Concussion Grenades, throw one with Zaalbar as well
+  - Unpause while queueing the rest of the attacks
   - MC: Flurry on Assault Droid
+    - If MC is Stunned, use [Stunned Combat](<../Techniques/Glitchless Tricks#stunned-combat>) to attack with Flurry
   - Zaalbar: Improved Power Strike on Assault Droid
-  - T3: Use Shield Disruptor on blaster turrets; 2 hits are enough to kill one turret, but don't use more than 3 Shield Disruptors on them
+  - T3: Use Shield Disruptor on Blaster Turrets
+    - Two hits are enough to kill one turret, but don't use more than 3 Shield Disruptors on them total
+    - When the Assault Droid is destroyed, MC and Zaalbar can finish up the Blaster Turrets
 - Enter the elevator
 - Sith Governor fight:
+  - Pause immediately after the CS
   - MC: Poison Grenade, then Flurry
   - T3: Shield Disruptor, Stun Ray x3
   - Zaalbar: Sonic Grenade, then Improved Power Strike
+  - Unpause to start the fight and swap to T3
   - Make sure T3 keeps up with the Stun Ray until the Governor is stunned
   - Once the Governor is stunned, T3 can loot the strongboxes early
 - Loot both strongboxes and Sith Governor's corpse for Launch Codes (+3; 8 Spikes total)
@@ -558,25 +565,28 @@ SHOPPING TRIP: Larrim
 ### Leaving Taris
 
 - *Party: Remove Zaalbar and T3, add Bastila*
-- Move with Bastila (and Burst of Speed) to Lower City Elevator and open door
+- As Bastila (with Burst of Speed), run to Lower City Elevator and open door
 - *Party: Remove Bastila*
+  - There are too many Vulkars in Lower City for party members to follow consistently
 - Enter the Lower City, then enter Javyar's Cantina 
 - Talk to Canderous: 2, 1
-- *Party: Add T3 when prompted*
+  - *Party: Add T3 when prompted*
 - Cool cutscenes
-- Take door on right and door immediately on left
-- Once in room with guards, switch to T3
-- Hack security terminal with T3: 1,2,2,4,3 (-8; 0 Spikes)
+- In Davik's Estate, take door on right and door immediately on left
+- Once in room with guards, swap to T3
+- As T3, hack security terminal: 1,2,2,4,3 (-8; 0 Spikes)
+  - This must be done as T3 or you won't have enough spikes
 - Switch back to MC and enter the hangar
 - Calo/Davik fight:
   - This fight ends if we get Calo to <50% Vitality
+  - Pause to setup the fight
   - MC: Frag Grenade x2 on Calo
   - T3: Shield Disruptor x3 on Calo
+    - He will only use 2 unless Canderous misses both Power Blasts and Calo saves vs. at least one Frag
   - Canderous: Power Blast x2 on Calo
     - If you have extra Frags, have Canderous throw them before his Power Blasts
-  - This fight has a roughly 50-50 chance of being 2 or 3 rounds
-- Loot Davik's corpse for mad credits
-- *Equip MC: Clothes or Nothing*
+  - Unpause and let the fight play out; it's about a 50-50 chance of being 2 or 3 rounds
+- Loot Davik's corpse for stuff to sell
 - Board the Ebon Hawk
 - Watch cool cutscenes
 - Destroy the Sith fighters
@@ -585,18 +595,22 @@ SHOPPING TRIP: Larrim
 
 ### Jedi Enclave
 
-- ***Conditional** Stims: Adrenal Alacrity on MC ONLY if you have 3 or more*
-  - If you skipped Zelka, you probably won't have any Alacrities here
-- Follow Bastila to Jedi Council
+- ***Conditional** - If you skipped Zelka and have 2 Alacrities or more, or shopped at Zelka and have 3 Alacrities or more:*
+  - *Stims: Adrenal Alacrity on MC*
+  - If you shopped with Zelka, you should always have 3 Alacrities at this point
+  - If you skipped Zelka, you won't have any Alacrities here unless you got another random drop on Taris (~9% chance)
+- Follow Bastila to the Jedi Council
+- *Equip MC: Unequip Combat Suit*
 - Belaya accosts you
 - Speak with the Council
 - Watch the dream cutscene
 - Carth accosts you
-- *Party: No change when prompted*
-- ***Conditional** Stims: Adrenal Alacrity on MC ONLY if you have 2 or more*
+  - *Party: No change when prompted*
+- ***Conditional** - If you skipped Zelka and have any Alacrities, or shopped at Zelka and have 2 Alacrities or more:*
+  - *Stims: Adrenal Alacrity on MC*
 - Speak with the Council again
 - Go get a sandwich during the training montage
-- Talk to Master Zhar twice: 1,1 ... 1,1,6,3,2,6,4
+- Talk to Master Zhar after the CS: 1,1 ... 1,1,6,3,2,6,4
 - Talk to Master Dorak to become a Jedi Guardian
 - `Level to 4: Save Skills, Improved Two-Weapon Fighting, Affect Mind and Stun Droid`
 - `Level to 5: Save Skills, Burst of Speed`
@@ -605,13 +619,15 @@ SHOPPING TRIP: Larrim
 - Talk to Master Zhar twice
 - *Equip MC: Strength Gauntlets and Double-bladed Lightsaber*
 - Talk to droid to unlock door
-- *Force: Cast Force Valor*
-- Exit the Enclave to [Duration Glitch](<../Techniques/Glitchless Tricks#duration-glitch>) Speed and Valor
+- *Force: Cast Force Valor* right before you...
+- Exit the Enclave
+  - This applies [Duration Glitch](<../Techniques/Glitchless Tricks#duration-glitch>) to both Speed and Valor
 
 ### Dantooine Savannah
 
 - Jon accosts you
 - Run/Force Jump to eastern entrance to Matale Grounds
+  - You're not strong enough to one-shot the kath hounds so don't worry about Force Jump Chains
 - Run through Matale Grounds to Grove
 - *Stims: Adrenal Strength on MC*
 - Juhani fight:
@@ -621,8 +637,8 @@ SHOPPING TRIP: Larrim
   - Round 2+:
     - If Juhani is Stunned, use Improved Flurry until she gives up
     - If Juhani is not Stunned, use bumping to displace her until you can use Critical Strike again for Sneak Attacks
-    - If you used Stun to drop Juhani's AC, you should use Critical Strike just once to try to Stun again, then use Improved Flurry to maximize attacks against the lower AC
-    - If Juhani is under half health, you can switch to Flurry to try to finish her off or just keep up with Critical Strike
+      - If you used Stun to drop Juhani's AC, you should use Critical Strike just once to try to Stun again, then use Improved Flurry to maximize attacks against the lower AC
+      - If you didn't use Stun, keep up Critical Strike until Juhani is Stunned or her health is under half, then switch to Improved Flurry
 - Juhani accosts you and is redeemed
 - Return to Ebon Hawk
 - *Force: Cast Burst of Speed*
@@ -643,7 +659,7 @@ SHOPPING TRIP: Larrim
 - *Party: Keep Bastila, Add T3 when prompted*
 - Rakatan Droid accosts you
 - Activate Solo Mode
-- The party splits here; for efficient movement, intersperse these actions
+- The party splits here; for efficient movement, intersperse the following actions
 - As MC:
   - Open right hand door
   - Force Jump to droid
@@ -653,15 +669,15 @@ SHOPPING TRIP: Larrim
   - Open left hand door
   - Interact with console: 3,5,3,1,1,3
 - As T3:
-  - Move towards center door
-  - Once MC and Bastila have finished their consoles, approach middle door to open it
+  - Move towards center door, just on the other side of the Rakatan Droid
+  - Once MC and Bastila have finished their consoles, approach the door to open it
   - Deactivate Solo Mode and enter the Star Map room
 - Star Map: Dantooine
-- Loot Nemo's corpse for Sigil Crystal
+- Loot Nemo's corpse for Sigil Crystal and Jedi Knight Robe
 - Leave the ruins
   - Your party will sometimes have difficulty following you out, so keep an eye on them
 - *Party: Remove Bastila and T3*
-  - This avoids Bastila's party interrupt in the Enclave
+  - This avoids Bastila's party interruption in the Enclave
 - Return to Ebon Hawk
 - Speak with the Council
 - RtEH then Transit Back and board the Ebon Hawk
@@ -676,8 +692,10 @@ SHOPPING TRIP: Larrim
 ### Ahto City
 
 - Exit the Ebon Hawk
-  - Mash Bastila and Zaalbar's interruptions
+  - Start running down the hall by holding run backwards, then run back left just after the load
+  - Mash Bastila's interruption
   - *Force: Cast Burst of Speed*
+  - Mash Zaalbar's interruption
   - *Party: Add T3 when prompted*
     - Bringing a party member skips a Selkath announcement when leaving the docking bay
     - Using T3 also avoids any additional interruptions for party dialogue
@@ -696,13 +714,15 @@ SHOPPING: Selkath Merchant
 
 - Exit to West Central Ahto City
 - Talk to Port Authority
-  - With Affect Mind, convo is 1,2
-  - Without Affect Mind, spam 1
+  - *With Affect Mind:* 1,2
+    - If you have >=100 Credits, this is 1,3, but you should always have <100 Credits after shopping with the Selkath
+  - *Without Affect Mind:* 1,1
 - Run to East Central
 - Talk to Roland Wann: 3, 1spam
 - Return to the Ebon Hawk
 - When in the hallway again, *Party: Remove T3*
-- Open docking bay at end of hall
+- Open docking bay at far end of hall
+- Selkath announcement interrupts you
 - *Force/Stims: Cast Burst of Speed and Force Valor, use Alacrity*
 - *Shield: Use Echani Shield if you equipped it*
 - Use shuttle to travel to Sith Base
@@ -713,14 +733,15 @@ SHOPPING: Selkath Merchant
 - Rude secretary sics the security on you
 - Ignore them, take right door, left door, left door
 - Loot droid for Data Module
+  - There is a small chance you could be stunned here; if so, just use medpacs and/or your Echani Shield to tank the damage
 - Return to security, Force Jump to secretary, and exit the base
-  - ***Optional:** Use Flurry to kill a War Droid before leaving
+  - ***Optional:** Use Flurry to kill a War Droid before leaving*
     - This removes any reliance on random Sand People kills with Force Jump to reach level 9 on Korriban
 - Get arrested and first trial: 1 ... 1,1,1,1,1,3,1 ... 1,1,1
 - Run through West Central to East Central
 - Talk to Roland Wann
 - *Party: Add Juhani and Zaalbar*
-- *Force: Cast Force Valor*
+- *Force: Cast Force Valor* just before you...
 - Take submersible underwater
 
 ### Hrakert Rift
@@ -758,11 +779,12 @@ SHOPPING: Selkath Merchant
 - Return to surface in submersible
 - Roland Wann accosts you
 - `Level to 8: STR to 21, Persuade to 11, TI to 10, Disable Droid`
-  - If you don't have Level 8 available you're behind on XP.  Try to ensure you kill some random Sand People with Force Jumps on Tatooine.
+  - If you don't have level 8 available you may not reach level 9 on time
+  - If you're short, try to ensure you kill some random Sand People with Force Jumps on Tatooine
 - Leave Embassy to get arrested: 2
 - Get banned during the trial:
-  - With Affect Mind, spam 1; this tries to Force Persuade the judges, getting you banned from Manaan
-  - Without Affect Mind, convo is 2,3,3,3,3
+  - *With Affect Mind:* spam 1; this tries to Force Persuade the judges, getting you banned from Manaan
+  - *Without Affect Mind:* 2,3,3,3,3
   - Getting banned puts you right in the Ebon Hawk's cockpit, ready to fly away
   - Manaan is a dumb planet anyway.  Stupid Selkath.
 - Fly to Tatooine (up 2)
