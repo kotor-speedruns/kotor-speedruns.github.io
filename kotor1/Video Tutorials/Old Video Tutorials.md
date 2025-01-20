@@ -5,6 +5,7 @@
 **Table of Contents**
 - [Introduction](#introduction)
 - [Any% Unrestricted](#any-unrestricted)
+  - [v9.4](#v94)
   - [v8.2](#v82)
   - [v7.0](#v70)
   - [v5.3](#v53)
@@ -22,6 +23,12 @@
 These are old video tutorials for KotOR speedrunning.  While their strategies may be old or obsolete, there is still some good information in these videos, so we're keeping them here.  Think of it like a tutorial retirement home!
 
 ## Any% Unrestricted
+
+### v9.4
+
+**6-11-2022 by [Lane](https://www.speedrun.com/users/Lane)*
+
+This tutorial is kept in a YouTube playlist, which can be found [here](https://www.youtube.com/playlist?list=PLL966GvhuK-N2bUBh6ii6-Md3mVSOoQgC).
 
 ### v8.2
 

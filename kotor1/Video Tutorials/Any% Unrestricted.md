@@ -5,12 +5,14 @@ redirect_from:
 
 # Any% Unrestricted Video Tutorial
 
-*By Lane (6-11-2022)*
+*By Lane (1-20-2025)*
 
 ## Information
 
-This corresponds to v9.4 of the [written guide](<../Route Guides/Any%25 Unrestricted>), which is currently three revisions behind.
+This corresponds to v10.1 of the [written guide](<../Route Guides/Any%25 Unrestricted>).
 
 ## Tutorial
 
-This tutorial is kept in a YouTube playlist, which can be found [here](https://www.youtube.com/playlist?list=PLL966GvhuK-N2bUBh6ii6-Md3mVSOoQgC).
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/1o-fRR2RD_g" frameborder="0"></iframe>
+</div>
