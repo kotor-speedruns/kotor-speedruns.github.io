@@ -25,6 +25,8 @@ I’m making this mainly to expand the number of runners in the swoop racing sec
 - The [original guide](https://drive.google.com/file/d/1RYEDbI1_cIP_LSyi_jOROBydYxQQaVtK/view?usp=sharing) was based in a pdf made by [TheLadiesLoveMe](https://www.speedrun.com/users/TheLadiesLoveMe). I decided to move it into SRC format both to make our guides more cohesive and for archiving purposes. *-Lane*
 - The guide is now transferred to the GitHub repo after SRC broke their guides, and I've reformatted it for readability. *-indy*
 
+Finally, if you have additional questions, you can check out the [KotOR Speedrunning Discord](https://discord.gg/6WpNfRZ). There's a bunch of friendly folks there willing to answer questions!
+
 ## Setup
 
 While most settings are irrelevant to swoops there are a few things you will need to tweak:

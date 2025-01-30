@@ -148,7 +148,7 @@ Hit `Ctrl+C` in the terminal to stop the website.
 - [Guide Website](https://kotor-speedruns.github.io/)
 - [GitHub Markdown Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Markdown Table of Contents Generator](https://luciopaiva.com/markdown-toc/)
-- [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu)
+- [KotOR Speedrunning Discord](https://discord.gg/6WpNfRZ)
 - [Leaderboards](https://www.speedrun.com/kotor1)
 
 ## Contact

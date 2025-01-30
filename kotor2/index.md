@@ -11,7 +11,7 @@ Welcome to the KotOR II Speedrunning Guides! Here you'll find a wealth of inform
 ## New to KotOR Speedrunning?
 
 If you're just beginning your KotOR speedrun journey, the following links will help you get started:
-- The [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu) is the place for all speedy KotOR discussion! We're a helpful community and always excited to see new runners.
+- The [KotOR Speedrunning Discord](https://discord.gg/6WpNfRZ) is the place for all speedy KotOR discussion! We're a helpful community and always excited to see new runners.
 - Our [Getting Started with KotOR Speedrunning](Getting%20Started) guide can help with basic questions, as well as the right settings for your game to streamline the speedrunning process.
 
 ## Route Guides
@@ -48,7 +48,7 @@ Glitch guides are split into three types:
 
 Here's some useful external links that can be helpful for KotOR II speedrunning.
 
-- [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu)
+- [KotOR Speedrunning Discord](https://discord.gg/6WpNfRZ)
 - [Leaderboards](https://www.speedrun.com/kotor2)
 - [Walkmesh Visualizer](https://github.com/glasnonck/WalkmeshVisualizer) by [glasnonck](https://www.speedrun.com/users/glasnonck)
 - [Bingo and Randomizer Downloads](https://www.speedrun.com/kotor2/resources) (Bingo by [30Cents](https://www.speedrun.com/users/30Cents), Randomizer by [Lane](https://www.speedrun.com/users/Lane))
@@ -80,4 +80,4 @@ Here's some useful external links that can be helpful for KotOR II speedrunning.
 
 This guide repository is community owned and maintained.  If you would like to contribute a guide, make a correction to an existing guide, or help edit this repository, feel free to make a pull request.  Each guide has a convenient <img src="/assets/images/github.svg" alt="GitHub Logo" width="16" height="16">  link at the top that leads to the source file for ease of access.
 
-Contact [Lane](https://www.speedrun.com/users/Lane), [indykenobi](https://www.speedrun.com/users/indykenobi), or another moderator on the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu) if you have any questions.
+Contact [Lane](https://www.speedrun.com/users/Lane), [indykenobi](https://www.speedrun.com/users/indykenobi), or another moderator on the [KotOR Speedrunning Discord](https://discord.gg/6WpNfRZ) if you have any questions.

@@ -6,7 +6,7 @@ Written by [Redmage08](https://www.speedrun.com/users/Redmage08) and [R4NG3](htt
 
 This route defeats Darth Traya on Malachor V as fast as possible;  Timing begins upon clicking "PLAY" after character creation and ends on the last hit on Traya.  A load-removal tool is available for LiveSplit thanks to the community; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.  This guide will cover the detailed route of the run.
 
-If you have additional questions, you can check out the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu) There's a bunch of friendly folks there willing to answer questions!
+If you have additional questions, you can check out the [KotOR Speedrunning Discord](https://discord.gg/6WpNfRZ) There's a bunch of friendly folks there willing to answer questions!
 
 **Table of Contents:**
 - [Unrestricted Ruleset](#unrestricted-ruleset)
@@ -34,7 +34,7 @@ All glitches are allowed in Unrestricted; however, all KotOR speedruns ban the f
 
 - Learn how to swap abilities easily. Shift +# swaps the ability. (e.g shift+1 swaps from Critical Strike to Flurry etc. Shift+4 swaps force powers)
 - Watch someone's PB video while going through the notes! This is very important to fundamentally understand the run and how it flows, and learn possible tricks to make your run much faster and smoother.
-- Ask the [Discord](http://discord.gg/Q2uPRVu) questions you have, that’s the fastest way to get an answer!
+- Ask the [Discord](https://discord.gg/6WpNfRZ) questions you have, that’s the fastest way to get an answer!
 - Once you understand the fundamentals from these notes, make your own copy of the notes and modify them to your own use. These notes are made detailed for a new player, and once you become more experienced you will need less of the detail in your notes.
 - Remember to have fun!
 
