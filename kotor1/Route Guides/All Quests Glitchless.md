@@ -8,6 +8,8 @@ This route completes all 100 main and side quests in the game without the benefi
 
 Dark side or light side quest conclusions are chosen based on overall speed for the route.  This guide will cover the character creation and leveling choices, as well as reasoning for each quest's chosen completion and a detailed route.
 
+You can also join the [KotOR Speedrunning Discord](https://discord.gg/6WpNfRZ) and ask questions if you have them!
+
 **Table of Contents**
 - [Category Rules](#category-rules)
   - [All Quests Category](#all-quests-category)
