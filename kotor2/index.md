@@ -11,7 +11,7 @@ Welcome to the KotOR II Speedrunning Guides! Here you'll find a wealth of inform
 ## New to KotOR Speedrunning?
 
 If you're just beginning your KotOR speedrun journey, the following links will help you get started:
-- The [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu) is the place for all speedy KotOR discussion! We're a helpful community and always excited to see new runners.
+- The [KotOR Speedrunning Discord](https://discord.gg/6WpNfRZ) is the place for all speedy KotOR discussion! We're a helpful community and always excited to see new runners.
 - Our [Getting Started with KotOR Speedrunning](Getting%20Started) guide can help with basic questions, as well as the right settings for your game to streamline the speedrunning process.
 
 ## Route Guides
