@@ -1079,4 +1079,4 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 
 ## More Resources
 
-The best resource for KotOR Bingo would be to visit the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu).  The variety-runs channel is the place to ask your bingo related questions!
+The best resource for KotOR Bingo would be to visit the [KotOR Speedrunning Discord](https://discord.gg/6WpNfRZ).  The variety-runs channel is the place to ask your bingo related questions!

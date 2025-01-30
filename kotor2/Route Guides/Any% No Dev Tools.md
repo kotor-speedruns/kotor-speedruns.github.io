@@ -9,7 +9,7 @@ redirect_from:
 
 This route defeats Darth Traya on Malachor V as fast as possible without the use of Dev Tools.  Timing begins upon clicking "PLAY" after character creation and ends on reaching Traya's last conversation.  A load-remover and autosplitter tool is available for LiveSplit thanks to glasnonck, Lane, the_kovic, and Xero; times are sorted based on load-removed times, since load times vary significantly in this game, and saving is frequent.  This guide will cover the character build for the run, as well as a detailed route.
 
-Finally, if you have additional questions, you can check out the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu).  There's a bunch of friendly folks there willing to answer questions!
+Finally, if you have additional questions, you can check out the [KotOR Speedrunning Discord](https://discord.gg/6WpNfRZ).  There's a bunch of friendly folks there willing to answer questions!
 
 **Table of Contents**
 - [NDT Ruleset](#ndt-ruleset)

@@ -10,7 +10,7 @@ This route defeats Darth Traya on Malachor V as fast as possible.  Timing begins
 
 ***IMPORTANT NOTE:*** This route makes heavy use of [Forward Hotshots](<../Major Glitches/Hotshot#forward-hotshots>) and [Dev](<../Dev Tools/3C-FD>) [Tools](<../Dev Tools/Dev Character>), and thus only works on the Steam/Aspyr versions of KotOR II.  Legacy versions (including the CD version) will crash whenever a [Forward Hotshot](<../Major Glitches/Hotshot#forward-hotshots>) is used.  If you wish to speedrun the legacy versions of KotOR II, see the guide for Any% No Dev Tools.
 
-Finally, if you have additional questions, you can check out the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu).  There's a bunch of friendly folks there willing to answer questions!
+Finally, if you have additional questions, you can check out the [KotOR Speedrunning Discord](https://discord.gg/6WpNfRZ).  There's a bunch of friendly folks there willing to answer questions!
 
 **Table of Contents**
 - [Unrestricted Ruleset](#unrestricted-ruleset)

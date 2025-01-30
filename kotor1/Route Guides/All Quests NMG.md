@@ -8,7 +8,7 @@ This route completes all 100 main and side quests in the game without the use of
 
 Dark side or light side quest conclusions are chosen based on overall speed for the route.  This guide will cover the character creation and leveling choices, as well as reasoning for each quest's chosen completion and a detailed route.
 
-If you need assistance with the glitches used in the game, I recommend the Techniques section of the [Glitch Guides](https://kotor-speedruns.github.io/kotor1/#glitch-guides).  You can either review those guides ahead of time, or use the hyperlinks in the guide below to consult the more detailed material when necessary.  You can also join the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu) and ask questions if you have them!
+If you need assistance with the glitches used in the game, I recommend the Techniques section of the [Glitch Guides](https://kotor-speedruns.github.io/kotor1/#glitch-guides).  You can either review those guides ahead of time, or use the hyperlinks in the guide below to consult the more detailed material when necessary.  You can also join the [KotOR Speedrunning Discord](https://discord.gg/6WpNfRZ) and ask questions if you have them!
 
 **Table of Contents:**
 - [Category Rules](#category-rules)

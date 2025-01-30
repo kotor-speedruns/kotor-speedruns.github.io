@@ -17,7 +17,7 @@
 
 If you're just wanting to get started speedrunning KotOR, this is the place to start!  This guide covers the basics of KotOR speedruns, from how to actually get KotOR running and the appropriate settings, to how to use these guides to answer the questions you have.
 
-If there's something that isn't covered here or in a different guide, feel free to join the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu).  The community is pretty friendly and always willing to help!
+If there's something that isn't covered here or in a different guide, feel free to join the [KotOR Speedrunning Discord](https://discord.gg/6WpNfRZ).  The community is pretty friendly and always willing to help!
 
 ## KotOR Speedrun Overview
 

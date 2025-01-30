@@ -177,4 +177,4 @@ I've often found that it helps to view my hand immediately, and briefly recite t
 
 ### Ask for Help
 
-The best way to get good at Pazaak is to talk to others who have played a lot of this game, and sample their strategies. You can get in contact with most of the people from this site on our [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu).
+The best way to get good at Pazaak is to talk to others who have played a lot of this game, and sample their strategies. You can get in contact with most of the people from this site on our [KotOR Speedrunning Discord](https://discord.gg/6WpNfRZ).

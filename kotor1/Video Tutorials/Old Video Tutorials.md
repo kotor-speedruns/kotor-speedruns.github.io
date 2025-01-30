@@ -304,7 +304,7 @@ This is a video tutorial for the All Quests Unrestricted category of KotOR.  Thi
 
 The video tutorial is split into 15 episodes, and exists in its entirety in this [YouTube playlist](https://www.youtube.com/watch?v=lOkItSf_X-I&list=PLOUtDgJwg14F-oNebziBKpmzEmmijqAQT). The tutorial assumes knowledge of the common glitches used in the Unrestricted ruleset, including [buffer glitches](<../Techniques/Save Buffering>), [Hotshots](<../Major Glitches/Hotshots>), [AMG](<../Major Glitches/Anywhere Menu Glitch>), [GP Warps](<../Techniques/GP Warp>), and others.
 
-If you have questions, ask in the [KotOR Speedrunning Discord](http://discord.gg/Q2uPRVu)!
+If you have questions, ask in the [KotOR Speedrunning Discord](https://discord.gg/6WpNfRZ)!
 
 ### v1.2 
 
