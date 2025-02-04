@@ -92,17 +92,18 @@ Even using Menu Method, it is still possible to miss the DLZ.  The downside to M
 DLZs are used extensively in every Unrestricted speedrun.  This list contains all DLZs used in speedruns and what they skip.  Included are links to sections below with information about each specific DLZ.
 
 1. [Endar Spire DLZ](#endar-spire-dlz) - to skip the Command Module section of the Spire
-2. [Sith Base DLZ](#sith-base-dlz) - to skip purchasing T3-M4
-3. [Lower City DLZ](#lower-city-dlz) - to skip the Sith Armor
-4. [Vulkar Base DLZ](#vulkar-base-dlz) - to skip the Undercity, Mission, and Zaalbar
-5. [Sewers DLZ](#sewers-dlz) - to skip a small amount of running in the Vulkar Base
-6. [Bek Base DLZ](#bek-base-dlz) - to skip some running and a short conversation
-7. [Gadon DLZ](#gadon-dlz) - to kill Gadon Thek early
-8. [Enclave DLZ](#enclave-dlz) - to skip the Jedi Council and Jedi training
-9. [Ruins Entry DLZ](#ruins-entry-dlz) - to skip Juhani and extra Council conversations
-10. [Ruins Star Map DLZ](#ruins-star-map-dlz) - to skip using the terminals to open the door
-11. [Temple Entry DLZ](#temple-entry-dlz) - to skip all Rakata interactions
-12. [Temple Summit DLZ](#temple-summit-dlz) - to skip the Temple Main Floor and Catacombs
+2. [Upper City North DLZ](#upper-city-north-dlz) - to quickly exit UCS
+3. [Sith Base DLZ](#sith-base-dlz) - to skip purchasing T3-M4
+4. [Lower City DLZ](#lower-city-dlz) - to skip the Sith Armor
+5. [Vulkar Base DLZ](#vulkar-base-dlz) - to skip the Undercity, Mission, and Zaalbar
+6. [Sewers DLZ](#sewers-dlz) - to skip a small amount of running in the Vulkar Base
+7. [Bek Base DLZ](#bek-base-dlz) - to skip some running and a short conversation
+8. [Gadon DLZ](#gadon-dlz) - to kill Gadon Thek early
+9. [Enclave DLZ](#enclave-dlz) - to skip the Jedi Council and Jedi training
+10. [Ruins Entry DLZ](#ruins-entry-dlz) - to skip Juhani and extra Council conversations
+11. [Ruins Star Map DLZ](#ruins-star-map-dlz) - to skip using the terminals to open the door
+12. [Temple Entry DLZ](#temple-entry-dlz) - to skip all Rakata interactions
+13. [Temple Summit DLZ](#temple-summit-dlz) - to skip the Temple Main Floor and Catacombs
 
 Each section below will include the modules the DLZ goes from and to, location(s) and visual cues for the DLZ, valid x-coordinates for the DLZ, and a short video of the DLZ in action.
 
@@ -142,6 +143,31 @@ This location is at the end of the first hall to the right, near the feet of a R
 **Video Clip:**  
 <div class="video-container">
     <iframe title="YouTube video player" src="https://www.youtube.com/embed/ORcny121d70" frameborder="0"></iframe>
+</div>
+
+### Upper City North DLZ
+**Planet:** Taris  
+**Transition:** Upper City South to Upper City North  
+**Valid x-coordinates:** 183.375, 191.625
+**Used In:** All Unrestricted runs  
+
+*Location 1: Pillar by Medical Droid*
+This location falls on the pillar behind and to the left of ther medical droid. It is quick for Carth to run right up to it. The frame rate here is also particularly good.  This would be the fastest location for [Any%](../Route%20Guides/Any%%20Unrestricted).
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/BXxIa_Xv6c8" frameborder="0"></iframe>
+</div>
+
+*Location 2: The Table*
+This is the most common spot for this DLZ, but it has fallen out of favor. One will typically line up Carth's left leg with a dark line on the floor, facing towards the kolto tanks.
+
+(Video Pending)
+
+*Location 3: Kolto Tank*
+This one has better frames that the table, but the geometry is rather funky, so it isn't everyone's favorite.
+
+<div class="video-container">
+    <iframe title="YouTube video player" src="https://www.youtube.com/embed/tyJ9krAF1JU" frameborder="0"></iframe>
 </div>
 
 ### Sith Base DLZ
