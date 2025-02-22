@@ -88,11 +88,11 @@ If you're looking for a task but not sure what category it's in (or just want to
 **Bondar Crystal**
 - This is available in the Crystal Cave on Dantooine or from the Sith Apprentice who shows up in Dreshdae.
 
-**Both Exoskeletons**
-- These are the Light Exoskeleton and Heavy Exoskeleton, both available from the Yavin shop after collecting a minimum of three Star Maps.
-
 **Both Holocrons**
 - This is the Sith Holocron found on Lashowe in the Valley of the Dark Lords, and the holocron from Bastila's father's corpse in the Krayt Dragon's Cave on Tatooine.  Remember these must be in your inventory at the end of the run, so you cannot turn in either of them for their relevant quests!
+
+**Calo Nord's Battle Armor**
+- This requires killing and looting Calo when he shows up on one of the Star Map worlds; the fight in Davik's Estate does not allow you to loot the armor (since Calo does not actually die).
 
 **Carbonite Projector Mark II**
 - This is obtained from the rogue droid in the Tomb of Marka Ragnos on Korriban, but only if you go through the repair sequence and either disable its programming or cause it to self destruct.
@@ -105,6 +105,9 @@ If you're looking for a task but not sure what category it's in (or just want to
 
 **Damind Crystal**
 - This held by one of the Dark Jedi who ambush you either in Anchorhead on Tatooine or outside the Wookiee Village on the Great Walkway on Korriban.
+
+**Darth Bandon's Fiber Armor**
+- Darth Bandon will ambush you on your next Star Map planet after your third Star Map; kill and loot him to get the armor.
 
 **Darth Revan's Robes**
 - These are only found from the Replicator Bin on Deck 2 of the Star Forge, and could cost as many as 26 Computer Spikes to obtain (less based on Computer Use).  They will also only spawn if you are Dark-aligned.
@@ -136,6 +139,9 @@ If you're looking for a task but not sure what category it's in (or just want to
 **GenoHaradan Visor**
 - This is the reward for turning in the Rulan bounty to Hulas.  Rulan appears in the Upper Shadowlands on Kashyyyk.  This bounty is only unlocked after turning in either Lorgal or Zuulan's bounties.
 
+**Hulas's GenoHaradan Mesh Armor**
+- This requires killing and looting Hulas, which can only be done by completing at least four of the five GenoHaradan quests: either Lorgal or Zuulan, and all of Ithorak, Vorn, and Rulan.  After challenging Hulas on Manaan, he will then ambush you in the Dune Sea.
+
 **ICE Breaker**
 - This is granted by the Rodian Prisoner on the Prison Block level of the Leviathan in exchange for freeing him from his cell.
 
@@ -144,9 +150,6 @@ If you're looking for a task but not sure what category it's in (or just want to
 
 **Luxum Crystal**
 - The Luxum Crystal is held by a Dark Jedi Master in the depths of the Manaan Sith Base.  You'll need to gain access to the rear of the base by speaking with Shaelas in Ahto West about the missing Selkath first, or through glitchier means.  It's a challenging fight, so good luck!
-
-**Mantle of the Force**
-- This is only available from Suvam Tam's shop on Yavin after obtaining all five Star Maps, and costs 25,000 credits.
 
 **Moisture Vaporators**
 - These appear in the Czerka Office shop on Tatooine after speaking with the Sand People Chieftain.  Remember that you cannot then give these to the Sand People, as you need them at the end of your run.
@@ -160,9 +163,6 @@ If you're looking for a task but not sure what category it's in (or just want to
 **Opila Crystal**
 - This can be found in some rubble in the Eastern Dune Sea on Tatooine, or from Jorak Uln in the Tomb of Tulak Hord on Korriban.
 
-**Phond Crystal**
-- The Phond Crystal is found on Mekel in the Tomb of Tulak Hord on Korriban.  Note that you can let Jorak Uln kill Mekel for you.
-
 **Qel-Droma Robes**
 - These are in the Shyrack Caves on Korriban.
 
@@ -175,19 +175,14 @@ If you're looking for a task but not sure what category it's in (or just want to
 **Sapith and Upari Crystals**
 - Both of these are available in the Ancient Temple on Lehon; the Sapith Crystal is in Rune-Covered Pillars in both Temple Main Floor and Temple Catacombs, while the Upari Crystal is held by the Sith Master in the Temple Main Floor.
 
+**Saul Karath's Sith Assassin Pistol**
+- Saul can be found on the Leviathan Bridge; you'll have to kill him and then loot him after his dramatic death scene.  Note that his pistol is named *Sith Assassin Pistol* but has much better stats than a standard Sith Assassin Pistol.
+
 **Ship Parts**
 - Ship Parts are a quest item on Lehon, and can be found either in the Rakatan Settlement in a cell or underneath the wrecked starship in South Beach.
 
-**Sith Armor**
-- This is obtained either from the Sith Commander or a party in the North Apartments in Taris.  While it's normally removed from your inventory when you trade it with Gadon Thek, it can be kept for the entire game in the following way:
-  - Equip it to a party member (usually Carth).
-  - Make sure Carth isn't in your party when you enter the Bek Base or when you leave Davik's Estate for the Jedi Enclave.
-
 **Sith Medallion**
 - In order to keep this item, you must Persuade Yuthura to let you in to the Sith Academy, then return to Dreshdae and obtain it from either the Sith Thugs or the Sith Apprentice.
-
-**Sith Power Gauntlets**
-- These are available from two Dark Jedi or a Sith Master on the Temple Main Floor, with Bastila when turning to the dark side on Temple Summit, or on Deck 2 of the Star Forge.
 
 **Solari Crystal**
 - The Solari Crystal is found in the Tomb of Naga Sadow on Korriban.  You do not have to equip the crystal.
@@ -201,11 +196,11 @@ If you're looking for a task but not sure what category it's in (or just want to
 **Token from Tortured Selkath**
 - This is the item that Sasha's former friend drops after begging you to warn Sasha about the Sith during the Missing Selkath quest.  Remember you must keep it in your inventory to finish the task; thus you cannot give it to Sasha.
 
-**Two Bendak's Blasters**
-- Bendak's Blaster is received as the reward for killing Bendak Starkiller in a duel in the Upper City Cantina on Taris.  You can easily duplicate this reward by defeating Twitch, then not talking to Ajuur until you've talked to Bendak to set up the duel.  Talking to Ajuur twice after defeating Bendak will then give you the reward twice, once for Twitch and once for Bendak.
-
 **Two Krayt Dragon Pearls**
 - This requires eliminating the Krayt Dragon in the Eastern Dune Sea on Tatooine, and then killing Komad Fortuna for the second pearl.
+
+**Vacuum Mask**
+- This is only available with Bastila when turning to the dark side on Temple Summit.
 
 **Verpine Prototype Shield**
 - This is available from Saul Karath on the Leviathan Bridge, Mika Dorin's special shop in Dreshdae, as a reward for the Invisible Mandalorians quest on Lehon, in a footlocker in the Temple Main Floor, or from Bastila when turning to the Dark Side. 
@@ -225,8 +220,14 @@ If you're looking for a task but not sure what category it's in (or just want to
 **Fully Upgraded Baragwin Assault Blade**
 - The Baragwin Assault Blade is available from Suvam Tam's shop at Yavin after collecting a minimum of three Star Maps.
 
+**Fully Upgraded Bendak's Blaster**
+- Bendak's Blaster is received as the reward for killing Bendak Starkiller in a duel in the Upper City Cantina on Taris.  
+
 **Fully Upgraded Echani Fiber Armor**
 - The Echani Fiber Armor is in a password-protected footlocker in the Lower City Apartments (East).
+
+**Fully Upgraded Light and Heavy Exoskeletons**
+- These are both available from the Yavin shop after collecting a minimum of three Star Maps.  You'll need to upgrade both of these items to fulfill the task, but you don't have to equip them.
 
 **Fully Upgraded Mission's Vibroblade**
 - Mission's Vibroblade is granted to you when you recruit Mission in the Undercity.
@@ -627,9 +628,6 @@ If you're looking for a task but not sure what category it's in (or just want to
   - On Lehon before leaving for the Star Forge (the conversation starting *What are your thoughts now?*)
   - On the Ebon Hawk after flying to the Star Forge but before leaving the ship; Canderous is your man to the end.
 
-**Complete "Chieftain in Need"**
-- This requires either killing Freyyr in the Lower Shadowlands and then informing Chuundar in the Chieftain's Hall, or showing Freyyr the blade from the Ritual Beast to force a confrontation in the Chieftain's Hall.  As usual, any completion fulfills this task. 
-
 **Complete "Finding Dustil"**
 - This requires acquiring a second Star Map and speaking with Carth a total of eight times.  Jordo will then find you and Carth on a Star Map planet, allowing Dustil Onasi to appear in the Sith Academy on Korriban.  Either killing him or showing him evidence of the Sith's true nature completes the quest.
 
@@ -677,7 +675,7 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 
 *Specific Tasks:*
 
-**20 Net Stealth Skill**
+**25 Net Stealth Skill**
 - This is your Stealth skill after all bonuses and penalties are applied.  Temporary effects such as Force Valor do not count towards this task.
 
 **21 Base Charisma**
@@ -781,9 +779,6 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 **Defeat Deadeye Duncan**
 - This is obviously the hardest task possible on the bingo board.  You need to defeat him in a duel in the Upper City Cantina on Taris. Good luck!
 
-**Defeat Malak on the Leviathan**
-- You must actually defeat both phases of the fight.  Skipping this fight via AMG or other means does not count as completing this task.
-
 **Defeat Twitch**
 - This is not the streaming platform, but the Dueling Champion in the Upper City Cantina on Taris.  You must beat the previous four duelists before being able to challenge Twitch.
 
@@ -815,20 +810,11 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 **Kill Belaya**
 - Belaya will confront you at the entrance to the Sith Academy on Korriban if you first killed Juhani in the Grove on Dantooine, and then talked to her about it in the Jedi Enclave.
 
-**Kill Calo Nord**
-- This means killing him when he shows up on one of the Star Map worlds; the fight in Davik's Estate does not count since he does not actually die.
-
-**Kill Darth Bandon**
-- Darth Bandon will ambush you on your next Star Map planet after your third Star Map.
-
 **Kill Darth Malak**
 - This refers to the fight on the Viewing Platform at the end of the game.  This task is complete when the screen turns black after the final hit on Malak, same as the standard timing for full-game speedruns.
 
 **Kill Griff**
 - Griff can be killed as soon as he is found in the Sand People Enclave on Tatooine.  Note you must have recruited Mission, talked to her until Lena shows up, and then talked to the Czerka Protocol Officer in the Czerka Office on Tatooine before Griff will be in the Sand People Enclave.
-
-**Kill Hulas**
-- This can only be done by completing at least four of the five GenoHaradan quests: either Lorgal or Zuulan, and all of Ithorak, Vorn, and Rulan.  Hulas will then ambush you in the Dune Sea.
 
 **Kill Jolee and Juhani**
 - Juhani can be killed either in the Grove on Dantooine or at the Temple Summit on Lehon when turning to the dark side; Jolee can only be killed at the Temple Summit when turning to the dark side.
@@ -850,9 +836,6 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 
 **Kill Kel Algwinn**
 - You must kill him yourself; reporting him to Uthar does not count.
-
-**Kill Saul Karath**
-- Saul can be found on the Leviathan Bridge, and does not count as dead until he cries out during the conversation after the fight.
 
 **Kill Selven**
 - Selven is the assassin that the government has a bounty out for on Taris.  She can be found in the Lower City Apartments (West).
@@ -989,6 +972,9 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 **Discover Zelka Forn's Secret**
 - This means getting him to reveal to you the Republic soldiers he has been treating.
 
+**Escape the Leviathan**
+- This task completes on the load screen after the fighter skirmish that occurs as you leave the Leviathan.
+
 **Escape the Mind Prison**
 - This requires completing the riddle minigame within the Mysterious Box obtained from Lurze Kesh on Korriban.
 
@@ -1059,6 +1045,12 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 **Help with Lyn Sekla's Audition**
 - This is the dancing audition in Javyar's Cantina.  You must help Lyn to get the job, not sabotage her.
 
+**Install Freyyr as Chieftain**
+- This requires killing the Ritual Beast for the blade, defeating Freyyr and showing him the blade, then traveling to the Chieftain's Hall, siding with Freyyr, and killing Chuundar.  This task completes once the "Chieftain in Need" quest completes with the correct resolution.
+
+**Kiss Bastila**
+- This requires a male character, and requires you to reach the private conversation on the Ebon Hawk at the end of her quest chain.
+
 **Light or Dark Side Mastery**
 - Keep in mind you must maintain your chosen Mastery until the end of the run.  Having it in the middle and then losing it does not count.  Using exploits to duplicate alignment shifts is allowed.
 
@@ -1083,8 +1075,8 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 **Poison Both Yuthura and Uthar**
 - You do not actually need to see the results of the poisoning, you just have to poison both of them.  This means planting the device on Uthar's bed, and giving the datapad to Adrenas.
 
-**Purchase a Store's Entire Inventory**
-- The store's inventory must be completely empty; thus no store that sells an infinite amount of an item can qualify for this task.  The only two stores are Adum Larp on Dantooine or Suvam Tam on Yavin.  One of these is cheaper than the other.
+**Purchase Mika's Entire Inventory**
+- Mika's shop can only be accessed after speaking to Ziagrom, who will appear on the Star Map planets after escaping the Leviathan or obtaining all 5 Star Maps.  The total cost of Mika's inventory is 185,932 credits.
 
 **Reach the Star Forge**
 - If this is your last task, the timer ends in the loading zone after disembarking the Ebon Hawk on the Star Forge.  You do not have to skip the cutscene that occurs immediately afterwards.
@@ -1117,9 +1109,6 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 **Return Sasha to Dantooine**
 - Sasha is the stowaway that Zaalbar warns you about on the Ebon Hawk.  You must have recruited Zaalbar on Taris for Sasha to appear.  To return her to Dantooine, spend enough time with her to learn her language and then speak to Lur Arka Sulas in the Jedi Enclave.
 
-**Romance Bastila**
-- This requires a male character, and requires you to reach the private conversation on the Ebon Hawk at the end of her quest chain.
-
 **Romance Carth**
 - This requires a female character, and all of the following actions:
   - Speak with Carth 11 times before the Leviathan without alienating him
@@ -1135,7 +1124,7 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
   - Speaking to Juhani enough to complete all her personal dialogs *without* alienating her
   - Completing "Threat from Xor" (see its entry in this guide) with any outcome
   - Confronting Bastila on Temple Summit with Juhani in your party and remaining true to the light side
-  - Speaking to Juhani and reciprocating her affection (the conversation that Juhani starts with *This may be the last time I will have a chance to talk to you...*)
+  - Speaking to Juhani before leaving Lehon and reciprocating her affection (the conversation that Juhani starts with *This may be the last time I will have a chance to talk to you...*)
 
 **Sell Sharina's Wraid Plate**
 - This must be sold in the Hunting Lodge on Tatooine.  It does not matter how you obtain it.
