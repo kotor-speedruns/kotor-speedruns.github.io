@@ -1018,9 +1018,6 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
   - Sandral Estate, after any completion of the Sandral-Matale Feud
   - Sith Academy, after returning to the Academy without Uthar or Yuthura and leaving towards Dreshdae
 
-**Get Dia's Bounty Lifted**
-- You must learn about Dia's bounty from either Dia or Zax, then either Persuade or pay off Holdan in Javyar's Cantina.  Then tell Dia the good news to complete the task.
-
 **Get Suvam Tam's Pazaak Discount**
 - This requires winning 10 hands against Suvam Tam on the Yavin Station.  It does not include any other discount.
 
@@ -1149,6 +1146,9 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 
 **Talk to Yuthura on Dantooine**
 - This requires befriending Yuthura in the Sith Academy, and then sparing her in the Tomb of Naga Sadow.  She will then appear in the Courtyard on Dantooine, but only if you have not been captured by the Leviathan.
+
+**Tell Dia Her Bounty is Lifted**
+- You must learn about Dia's bounty from either Dia or Zax, then either Persuade or pay off Holdan in Javyar's Cantina.  Then tell Dia the good news to complete the task.
 
 **Win 4 Fighter Skirmishes**
 - This includes both random skirmishes and plot forced ones (such as the escape from Taris or Leviathan).  You can also use HK-47's simulations to fulfill this task.
