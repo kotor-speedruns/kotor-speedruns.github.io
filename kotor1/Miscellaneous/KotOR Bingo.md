@@ -699,6 +699,9 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
   - Force Immunity: Stun (at Sentinel Level 6)
   - Force Immunity: Paralysis (at Sentinel Level 12)
 
+**All 3 Implant Feats**
+- These must be permanently obtained, not temporarily during a FLU or lost with a Hotshot.  Scouts can get at least some of these feats for free.  You do not have to equip an implant to fulfill this task.
+
 **All Master-Level Blaster Feats**
 - This includes:
   - Master Power Blast
@@ -707,9 +710,6 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 
 **All Skills are Class Skills**
 - This task requires a level in Scoundrel and a level in Jedi Consular.
-
-**All 3 Implant Feats**
-- These must be permanently obtained, not temporarily during a FLU or lost with a Hotshot.  Scouts can get at least some of these feats for free.  You do not have to equip an implant to fulfill this task.
 
 **Destroy Droid (Force Power)**
 - This is the third tier Force Power starting with Stun Droid.  This must be on the main player character.
