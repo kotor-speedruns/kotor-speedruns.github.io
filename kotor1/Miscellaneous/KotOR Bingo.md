@@ -713,6 +713,9 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 **All 3 Implant Feats**
 - These must be permanently obtained, not temporarily during a FLU or lost with a Hotshot.  Scouts can get at least some of these feats for free.  You do not have to equip an implant to fulfill this task.
 
+**Destroy Droid (Force Power)**
+- This is the third tier Force Power starting with Stun Droid.  This must be on the main player character.
+
 **Equip X Alignment-Restricted Item(s)**
 - These require maintaining either light or dark alignment until the end of the run.  If you lose alignment, these items will unequip the next time your game loads (either from a save or from a module transition).
 - Valid Light-restricted items include:
@@ -761,10 +764,10 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 - For "Three Permanent Immunities", any three of these are sufficient.  For Maximum Permanent Immunities, note that Immunity: Mind-Affecting covers the same things as Force Immunity: Fear and Force Immunity: Stun, so you can either skip Mind-Affecting or Fear and Stun.  All Force Immunity feats are exclusive to the Jedi Sentinel class.
 
 **Two Weapon Specializations**
-- This can only be obtained as a Soldier.  One of these must be obtained by reaching level 4 and selecting that feat before changing to a Jedi class.
+- This requires at least one of the Weapon Specialization feats that are exclusive to Soldiers.
 
 **Uncanny Dodge 2**
-- This feat requires starting as a Scout, and is normally granted at level 7.
+- This feat is exclusive to Scouts and is usually granted at level 7.
 
 ## Kill Tasks
 
@@ -776,7 +779,7 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 - These are the droids that protect the Star Map in the Lower Shadowlands on Kashyyyk.  You must fail the Rakatan Computer's personality quiz to make them appear.
 
 **Defeat Deadeye Duncan**
-- This is the hardest task possible on the bingo board.  You need to defeat him in a duel in the Upper City Cantina on Taris. Good luck!
+- This is obviously the hardest task possible on the bingo board.  You need to defeat him in a duel in the Upper City Cantina on Taris. Good luck!
 
 **Defeat Malak on the Leviathan**
 - You must actually defeat both phases of the fight.  Skipping this fight via AMG or other means does not count as completing this task.
