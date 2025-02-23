@@ -145,6 +145,9 @@ If you're looking for a task but not sure what category it's in (or just want to
 **Jenruax Crystal**
 - This is held by Thalia May in the Shyrack Caves on Korriban or a Dark Jedi inside the Manaan Sith Base.
 
+**Keeper Orsaa's Ancient Tome**
+- Keeper Orsaa is in the Elder Settlement in South Beach on Lehon.  You'll need to kill him and loot him to get the Ancient Tome quest item.
+
 **Luxum Crystal**
 - The Luxum Crystal is held by a Dark Jedi Master in the depths of the Manaan Sith Base.  You'll need to gain access to the rear of the base by speaking with Shaelas in Ahto West about the missing Selkath first, or through glitchier means.  It's a challenging fight, so good luck!
 
@@ -189,6 +192,9 @@ If you're looking for a task but not sure what category it's in (or just want to
 
 **Star Forge Robes**
 - These are only found from the Replicator Bin on Deck 2 of the Star Forge, and could cost as many as 26 Computer Spikes to obtain (less based on Computer Use).  They will also only spawn if you are Neutral or Light-aligned.
+
+**The One's Vibroswords**
+- The One is in the Rakatan Compound in North Beach on Lehon.  You'll need to kill him and loot him, but you need not kill any of his minions or rancors.  Note these Vibroswords look like normal Vibroswords, but have a flat +5 to damage and attack.
 
 **Token from Tortured Selkath**
 - This is the item that Sasha's former friend drops after begging you to warn Sasha about the Sith during the Missing Selkath quest.  Remember you must keep it in your inventory to finish the task; thus you cannot give it to Sasha.
@@ -822,9 +828,6 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 **Kill Kandon Ark**
 - Kandon is one of Brejik's lieutenants, and can be found in the Vulkar Garage.
 
-**Kill Keeper Orsaa**
-- Keeper Orsaa is in the Elder Settlement in South Beach on Lehon.
-
 **Kill Kel Algwinn**
 - You must kill him yourself; reporting him to Uthar does not count.
 
@@ -842,9 +845,6 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 
 **Kill the Lavin Thugs**
 - These are two Rodians who ambush you outside Kebla Yurt's shop in the Upper City South after you make Gana Lavin mad in the Upper City Cantina.
-
-**Kill The One**
-- The One is in the Rakatan Compound in North Beach on Lehon.  You only need to kill him, not any of his minions or rancors.
 
 **Kill the Shyrack Alpha**
 - The Shyrack Alpha is in the Tomb of Tulak Hord on Korriban.
