@@ -672,11 +672,11 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 
 *Specific Tasks:*
 
-**25 Net Stealth Skill**
-- This is your Stealth skill after all bonuses and penalties are applied.  Temporary effects such as Force Valor do not count towards this task.
-
 **21 Base Charisma**
 - This requires a full investment of 18 at character creation, and then three attribute levels invested as well.  Thus this requires reaching Character Level 12.  Alternately, you can use glitches to "cook" your character while creating them.
+
+**25 Net Stealth Skill**
+- This is your Stealth skill after all bonuses and penalties are applied.  Temporary effects such as Force Valor do not count towards this task.
 
 **X Permanent Maximum Vitality**
 - This will require investment in Constitution or Constitution-boosting equipment and/or the Toughness feats.  Remember that Soldiers and Jedi Guardians get more base Vitality per level.
