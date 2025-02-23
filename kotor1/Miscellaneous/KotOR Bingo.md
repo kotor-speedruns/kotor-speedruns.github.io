@@ -463,10 +463,10 @@ If you're looking for a task but not sure what category it's in (or just want to
 
 **One of Each Creature Loot**
 - There are four creature enemies that drop loot:
- - *Tach Gland*, from any hostile tach in the Upper Shadowlands or one of the Czerka supply containers
- - *Desert Wraid Plate*, from any Wraid in the Dune Sea
- - *Viper Kinrath Corpse*, only from specific Viper Kinrath near the ritual beast's lair in the Lower Shadowlands
- - *Krayt Dragon Pearl*, from the Krayt Dragon itself or Komad Fortuna in the Eastern Dune Sea 
+  - *Tach Gland*, from any hostile tach in the Upper Shadowlands or one of the Czerka supply containers
+  - *Desert Wraid Plate*, from any Wraid in the Dune Sea
+  - *Viper Kinrath Corpse*, only from specific Viper Kinrath near the ritual beast's lair in the Lower Shadowlands
+  - *Krayt Dragon Pearl*, from the Krayt Dragon itself or Komad Fortuna in the Eastern Dune Sea 
 
 ## Quest Tasks
 
@@ -828,7 +828,7 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 **Kill Selven**
 - Selven is the assassin that the government has a bounty out for on Taris.  She can be found in the Lower City Apartments (West).
 
-**Kill X Terentateks**
+**Kill X Terentatek(s)**
 - One terentatek is in the Shyrack Caves on Korriban, two are in the Tomb of Naga Sadow on Korriban, and one is the Ritual Beast in the Lower Shadowlands on Kashyyyk.
 
 **Kill the Albino Kath Hound**
