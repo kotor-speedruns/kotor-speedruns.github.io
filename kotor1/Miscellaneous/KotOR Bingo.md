@@ -1005,6 +1005,9 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 **Free Hudrow**
 - Hudrow is Davik's former pilot, and can be found incarcerated in Davik's Estate on Taris.
 
+**Free the Mandalorian on Korriban**
+- This is the Mandalorian in the Interrogation room of the Sith Academy.  You rescue him by successfully inducing a catatonic state, so that the Sith discard him and he can later wake up.
+  
 **Fully Repair HK-47**
 - This requires recruiting it and succeeding in four successive Repair dialogues with it on the Ebon Hawk.  You'll need 17 net Repair to finish all four.
 
@@ -1099,9 +1102,6 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 
 **Rescue Tanis**
 - This is the hunter in the Dune Sea surrounded by booby-trapped droids.  You must disable enough droids that Tanis survives the encounter and escapes the Dune Sea.
-
-**Rescue the Mandalorian on Korriban**
-- This is the Mandalorian in the Interrogation room of the Sith Academy.  You rescue him by successfully inducing a catatonic state, so that the Sith discard him and he can later wake up.
 
 **Return Sasha to Dantooine**
 - Sasha is the stowaway that Zaalbar warns you about on the Ebon Hawk.  You must have recruited Zaalbar on Taris for Sasha to appear.  To return her to Dantooine, spend enough time with her to learn her language and then speak to Lur Arka Sulas in the Jedi Enclave.
