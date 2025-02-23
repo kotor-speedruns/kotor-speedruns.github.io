@@ -735,7 +735,7 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 **Master Toughness and Master Conditioning**
 - Both of these require Character Level 8, so this could be done as early as Character Level 9 without using a FLU.  This will make your character much tougher to take down!
 
-**Three Third-Tier Force Powers**
+**3 Third-Tier Force Powers**
 - Valid Force powers for this task are: 
   - Force Armor
   - Master Speed
