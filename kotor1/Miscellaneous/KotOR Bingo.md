@@ -1064,7 +1064,7 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
     - *Sith Mask*, a Heavy Armor mask available in Uthar's Room in the Sith Academy
     - *Damind Crystal with Mantle of the Force*
     - *Rubat Crystal with Mantle of the Force*
-- For the task **Maximum Passive FP Regeneration**, you must equip both the Sith Mask *and* a lightsaber with Mantle of the Force, Damind, and Rubat equipped.  Since only one Mantle is typically available, equipping a second Mantle lightsaber using glitches is not required for this task, and in order to have the maximum you **must** equip the Sith Mask.
+- For the task **Maximum Passive Force Point Regeneration**, you must equip both the Sith Mask *and* a lightsaber with Mantle of the Force, Damind, and Rubat equipped.  Since only one Mantle is typically available, equipping a second Mantle lightsaber using glitches is not required for this task, and in order to have the maximum you **must** equip the Sith Mask.
 
 **Persuade a Prospective Sith to Leave**
 - The prospective Sith stand outside the entrance to the Sith Academy near Mekel.  Persuading any of them to leave will fulfill this task.
