@@ -792,17 +792,8 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
   - Bendak Starkiller on Taris
   - Hulas' Mandalorian bodyguard on Tatooine
 
-**Kill a Hive Kinrath**
-- The Hive Kinrath inhabits the Crystal Cave on Dantooine.
-
 **Kill a Rancor**
 - The rancor in the Taris sewers counts, even if you use the synthesized odor to make it eat a grenade.
-
-**Kill a Shyrack Alpha**
-- The Shyrack Alpha is in the Tomb of Tulak Hord on Korriban.
-
-**Kill an Albino Kath Hound**
-- The Albino Kath Hound is found in the Sandral Grounds on Dantooine.
 
 **Kill Bastila**
 - This refers to the battle on the Star Forge.  You must kill her at the end, either through combat or through a cutscene.  If this is your last task, timing ends when the final blow hits in either case.
@@ -843,11 +834,20 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 **Kill X Terentateks**
 - One terentatek is in the Shyrack Caves on Korriban, two are in the Tomb of Naga Sadow on Korriban, and one is the Ritual Beast in the Lower Shadowlands on Kashyyyk.
 
+**Kill the Albino Kath Hound**
+- The Albino Kath Hound is found in the Sandral Grounds on Dantooine.
+
+**Kill the Hive Kinrath**
+- The Hive Kinrath inhabits the Crystal Cave on Dantooine.
+
 **Kill the Lavin Thugs**
 - These are two Rodians who ambush you outside Kebla Yurt's shop in the Upper City South after you make Gana Lavin mad in the Upper City Cantina.
 
 **Kill The One**
 - The One is in the Rakatan Compound in North Beach on Lehon.  You only need to kill him, not any of his minions or rancors.
+
+**Kill the Shyrack Alpha**
+- The Shyrack Alpha is in the Tomb of Tulak Hord on Korriban.
 
 **Kill the Trandoshan Smugglers**
 - These appear in Suvam Tam's shop after you obtain all five Star Maps and visit his shop at least three times.  You must kill all seven Trandoshans to fulfill this task, but you do not need to talk to Suvam afterwards.
