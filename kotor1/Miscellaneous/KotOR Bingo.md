@@ -792,6 +792,9 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 **Kill a Rancor**
 - The rancor in the Taris sewers counts, even if you use the synthesized odor to make it eat a grenade.
 
+**Kill All 7 Trandoshan Smugglers**
+- These appear in Suvam Tam's shop after you obtain all five Star Maps and visit his shop at least three times.  You must kill all seven Trandoshans to fulfill this task, but you do not need to talk to Suvam afterwards.
+
 **Kill Bastila**
 - This refers to the battle on the Star Forge.  You must kill her at the end, either through combat or through a cutscene.  If this is your last task, timing ends when the final blow hits in either case.
 
@@ -845,9 +848,6 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 
 **Kill the Shyrack Alpha**
 - The Shyrack Alpha is in the Tomb of Tulak Hord on Korriban.
-
-**Kill the Trandoshan Smugglers**
-- These appear in Suvam Tam's shop after you obtain all five Star Maps and visit his shop at least three times.  You must kill all seven Trandoshans to fulfill this task, but you do not need to talk to Suvam afterwards.
 
 **Kill the Whimpering Locker**
 - This is done through a conversation with the person inside the locker near the Envirosuit in Hrakert Station.
