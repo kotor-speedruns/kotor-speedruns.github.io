@@ -407,7 +407,7 @@ If you're looking for a task but not sure what category it's in (or just want to
   - *Ajunta Pall's Blade* in the Tomb of Ajunta Pall on Korriban
   - *Tulak Hord's Mask* in the Tomb of Tulak Hord on Korriban
 
-**All 5 Advanced Droid Weapons**
+**5 Different Advanced Droid Weapons**
 - These include:
   - *Advanced Stun Ray*, from Yuka Laka's Droid Shop, Sand People Enclave, Tyvark in East Central, and the Leviathan Prison Block
   - *Advanced Gravity Generator*, from Assault Droid Mark IV in the Manaan Sith Base
