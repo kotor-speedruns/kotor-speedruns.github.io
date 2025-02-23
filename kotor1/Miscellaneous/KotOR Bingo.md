@@ -197,7 +197,7 @@ If you're looking for a task but not sure what category it's in (or just want to
 - This is the item that Sasha's former friend drops after begging you to warn Sasha about the Sith during the Missing Selkath quest.  Remember you must keep it in your inventory to finish the task; thus you cannot give it to Sasha.
 
 **Two Krayt Dragon Pearls**
-- This requires eliminating the Krayt Dragon in the Eastern Dune Sea on Tatooine, and then killing Komad Fortuna for the second pearl.
+- This requires eliminating the Krayt Dragon in the Eastern Dune Sea on Tatooine, and then killing Komad Fortuna for the second pearl.  Alternatively, you can kill Komad before you escort the banthas and then loot the Krayt Dragon's corpse yourself.
 
 **Vacuum Mask**
 - This is only available with Bastila when turning to the dark side on Temple Summit.
