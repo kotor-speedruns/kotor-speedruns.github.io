@@ -1033,7 +1033,7 @@ For the purposes of these tasks, *Permanent* means either base points from Attri
 **Heal the Bullied Ithorian**
 - This Ithorian is being bullied by two kids, and appears outside the North Apartments entrance in Upper City North after gaining access to the Lower City.  To fulfill this task, you must actually give the Ithorian a Medpac, which means you must have a Medpac.
 
-**Help Three Taris Bounties Escape**
+**Help 3 Taris Bounties Escape**
 - The three bounties you help escape are the following:
   - Dia by Persuading or bribing Holdan to drop the bounty (and then telling her about it)
   - Largo by giving him 200 Credits
