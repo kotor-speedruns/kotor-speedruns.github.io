@@ -54,7 +54,7 @@ Deciding which row to pick gets easier the more bingos you do.  If you're not su
 
 ## Task Notes
 
-Part of bingo is knowing what each task requires.  A task that seems simple may not be so easy; as an example, the "Dominator Gauntlets" task actually requires finishing the Leviathan, and thus is not nearly as easy as the "Circlet of Saresh" task, which just requires access to Kashyyyk.
+Part of bingo is knowing what each task requires.  A task that seems simple may not be so easy; as an example, the "Vacuum Mask" task actually requires recruiting Dark Side Bastila, and thus is not nearly as easy as the "Circlet of Saresh" task, which just requires access to Kashyyyk.
 
 Below are sections for each general type of task that can appear on a KotOR bingo card.  Each section has general notes for the type of task, then the tasks in that category are listed in alphabetical order with more specific notes where needed.
 
@@ -72,7 +72,7 @@ If you're looking for a task but not sure what category it's in (or just want to
 
 ## Item Tasks
 
-*General Notes:* Any task that simply lists an item, such as "Dominator Gauntlets" or "150 Racing Bonds", requires you to have that item (or items) in your inventory at the end of the run.  These items can be equipped on a character, but you must have access to that character.  Crystals can be placed in a lightsaber, but again you must have access to that lightsaber.
+*General Notes:* Any task that simply lists an item, such as "Echani Dueling Shield" or "150 Racing Bonds", requires you to have that item (or items) in your inventory at the end of the run.  These items can be equipped on a character, but you must have access to that character.  Crystals can be placed in a lightsaber, but again you must have access to that lightsaber.
 
 *Specific Tasks:*
 
@@ -114,9 +114,6 @@ If you're looking for a task but not sure what category it's in (or just want to
 
 **Davik's War Suit**
 - This is unsurprisingly held by Davik Kang in Davik's Estate on Taris.  Note you cannot skip the fight with Davik and Calo if you need to obtain this armor.
-
-**Dominator Gauntlets**
-- These are available from Mika Dorin's special shop on Korriban after clearing the Leviathan, and cost 22,000 credits.
 
 **Echani Dueling Shield**
 - This is available from the Dark Jedi ambushes on either Tatooine or Kashyyyk, Shaardan's corpse in the Tomb of Ajunta Pall, a Republic Soldier corpse in Kolto Control on Manaan and a Footlocker in the Manaan Sith Base.
