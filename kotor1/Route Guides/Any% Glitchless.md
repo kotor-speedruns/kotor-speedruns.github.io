@@ -174,34 +174,36 @@ All of our equipment should be equipped by the time we leave Tatooine, with the 
 The new route has a very streamlined credit route, since we no longer need 8500 credits for the CNS Strength Enhancer.  Because of this, we make do with 5 shopping trips during the run, though with a random Alacrity on Endar Spire we can skip one of those shopping trips.  Our shopping is as follows:
 
 *1. Larrim on Taris*
-- Sell: Nonessential items to reach ~1014 Credits
-- Buy: 1x Computer Spike, 1x Sonic Grenade, 2x Concussion Grenade, 1x Frag Grenade, 1x Battle Stimulant (792 Credits total)
+- Sell: Nonessential items to reach ~1374 Credits
+- Buy: 2x Computer Spike, 2x Concussion Grenade (726 Credits total)
 
 *2: Zelka Forn on Taris*
-- Buy: 4x Adrenal Alacrity (200 Credits total)
+- Buy: 3x Adrenal Alacrity (150 Credits total)
 
-*3. Selkath Merchant on Manaan*
-- Buy: 1x Hyper Battle Stimulant, 2-3x Hyper-Adrenal Strength (4-500 Credits total)
+*3: Igear on Taris*
+- Buy: 2x Computer Spike, 2-3x Frag Grenade (494-554 Credits)
 
-*4. Mic'Tunan'Jus Orgu on Tatooine*
-- Sell: Unneeded Items to reach ~6066 Credits
-- Buy: 4x Life Support Pack, Nerve Amplifier Belt, 1x Adrenal Alacrity, 1x Adrenal Strength, Bantha Fodder (1701 Credits total)
+*4. Selkath Merchant on Manaan*
+- Buy: 1x Hyper Battle Stimulant, 2x Hyper-Adrenal Strength, 2x Adrenal Alacrity (500 Credits total)
 
-*5. Czerka Shop on Korriban*
+*5. Mic'Tunan'Jus Orgu on Tatooine*
+- Sell: Unneeded Items to reach ~6148 Credits
+- Buy: 4x Life Support Pack, Nerve Amplifier Belt, 1x Adrenal Stamina, Bantha Fodder (1651 Credits total)
+
+*6. Czerka Shop on Korriban*
 - Buy: 10x Life Support Pack, 5x Echani Battle Stimulant, 5x All Hyper Adrenal Stimulants, 2x Hyper Battle Stimulant (4400 Credits total)
 
 We get most of our credits for the Tatooine and Korriban shopping trips from selling the Cardio Power System that we get as reward for completing "Mission for the Republic" for Roland Wann on Manaan.  The rest comes from selling the items we've accumulated up to that point; we loot one or two optional things to get enough credits for all the medpacs and stims we need.
 
 ### Skipping Zelka
 
-If you get a random Adrenal Alacrity drop from either Trask or the Sith Commander on the Endar Spire (1 in 240 chance for each for 0.83% chance total), it is possible to skip shopping with Zelka completely, saving approximately 11 seconds.  If this is done, the next two shopping trips change as follows:
+If you get a random Adrenal Alacrity drop from either Trask or the Sith Commander on the Endar Spire (1 in 240 chance on each, for a 0.83% chance total), it is possible to skip shopping with Zelka completely, saving approximately 11 seconds.  If this is done, the Taris shopping route should be modified as follows:
 
-- *Selkath Merchant on Manaan*
-  - Buy: 2x Adrenal Alacrity, 1x Hyper Battle Stimulant, 2-3x Hyper-Adrenal Strength, 1x Hyper-Adrenal Stamina (6-700 Credits total)
-- *Mic'Tunan'Jus Orgu on Tatooine*
-  - Sell: Unneeded Items
-  - Buy: 4x Life Support Pack, Nerve Amplifier Belt, Bantha Fodder (1601 Credits total)
-  - This is the same shopping trip as above but omits purchasing the two stimulants, since you've already bought them on Manaan
+- *Larrim*
+  - Buy: 2x Computer Spikes, 2x Concussion Grenades, 1x Battle Stimulant (so just the Battle Stimulant extra)
+- *Zelka* is skipped entirely
+- *Igear*
+  - Buy: 2x Computer Spikes, 3-4x Frag Grenades (you can always afford 3, and can buy 4 if you have enough credits)
 
 The detailed route below will describe how to use your stims if you do get the random Alacrity drop.
 
@@ -215,20 +217,19 @@ Here is the alignment route used in the run:
 | --- | :--- | :--- | --- | --- |
 | Neutral | Game Start | -- | 50 | 50 |
 | Neutral | Save the Sullustan informant | Low Light | +2 | 52 |
-| Neutral | Persuade the drunks not to fight | Low Light | +2 | 54 |
-| Neutral | Threaten Janice Nall to get T3 | Mid Dark | -4 | 50 |
-| Neutral | Kill Komad Fortuna | Low Dark | -2 | 48 |
-| Neutral | Tell Shaardan not to kill the hopefuls | Low Light | +2 | 50 |
-| Neutral | Try to Persuade Shaardan to spare the hopefuls | Low Light | +2 | 52 |
-| Neutral | Succeed in Persuading Shaardan | Hardcoded | +3 | 55 |
-| Neutral | Persuade Yuthura to enter the Sith Academy | Low Dark | -2 | 53 |
-| Neutral | Snitch on Kel Algwinn to Uthar Wynn | Hardcoded | -5 | 48 |
-| Neutral | Kill Yuthura Ban in the Tomb of Naga Sadow | Mid Dark | -4 | 44 |
-| Neutral | Persuade Carth not to kill Saul | Low Light | +2 | 46 |
-| Neutral | Profess your faith in Bastila on Lehon | Low Light | +2 | 48 |
-| Neutral |  | Low Light | +2 | 50 |
-| Neutral | Stay true to the Light Side on Lehon | High Light | +6 | 56 |
-| Neutral |  | Highest Light | +10 | 66 |
+| Neutral | Threaten Janice Nall to get T3 | Mid Dark | -4 | 48 |
+| Neutral | Kill Komad Fortuna | Low Dark | -2 | 46 |
+| Neutral | Tell Shaardan not to kill the hopefuls | Low Light | +2 | 48 |
+| Neutral | Try to Persuade Shaardan to spare the hopefuls | Low Light | +2 | 50 |
+| Neutral | Succeed in Persuading Shaardan | Hardcoded | +3 | 53 |
+| Neutral | Persuade Yuthura to enter the Sith Academy | Low Dark | -2 | 51 |
+| Neutral | Snitch on Kel Algwinn to Uthar Wynn | Hardcoded | -5 | 46 |
+| Neutral | Kill Yuthura Ban in the Tomb of Naga Sadow | Mid Dark | -4 | 42 |
+| Neutral | Persuade Carth not to kill Saul | Low Light | +2 | 44 |
+| Neutral | Profess your faith in Bastila on Lehon | Low Light | +2 | 46 |
+| Neutral |  | Low Light | +2 | 48 |
+| Neutral | Stay true to the Light Side on Lehon | High Light | +6 | 54 |
+| Neutral |  | Highest Light | +10 | 64 |
 
 *Snitching on Kel Algwinn is for some reason hardcoded to always give -5 alignment; similarly, rescuing the hopefuls from Shaardan is hardcoded to give +3 alignment.*
 
@@ -318,9 +319,9 @@ Conversation Notes:
 - Kill two Sith soldiers
 - Kill front two Sith soldiers on bridge
 - `Level to 2: Save Skills, Two-Weapon Fighting`
-- Watch poor Trask sacrifice himself
 - **Make a Hard Save in a New Slot, then Load the Hard Save**
   - This enables [Duration Glitch](<../Techniques/Glitchless Tricks#duration-glitch>) for the start of Taris
+- Watch poor Trask sacrifice himself
 - Enter Starboard Section
 
 ### Starboard Section
@@ -342,9 +343,10 @@ Conversation Notes:
 - *Equip MC: Combat Suit, Prototype Vibroblade Mainhand, Vibroblade Offhand*
 - Exit the apartment
   - *Party: No change when prompted*
+- *Equip Carth: Blaster Pistol over Carth's Blaster*
 - Use a Frag Grenade on the Sith Commander (may have to attack him too)
 - Loot the backpack
-- Larrim accosts you: 1,2,4 (+1; 5 Spikes)
+- Larrim accosts you: 1,2,4 (+2; 6 Spikes)
 
 ```
 SHOPPING TRIP: Larrim
@@ -354,14 +356,13 @@ SHOPPING TRIP: Larrim
   - Any Grenades
   - Any Stims
 - BUY:
-  - 1x Computer Spike
-  - 1x Sonic Grenade
+  - 2x Computer Spike
   - 2x Concussion Grenade
-  - 1x Frag Grenade
-  - 1x Battle Stimulant
-- End: ~222 Credits
+  - 1x Battle Stimulant (only if you got a Spire Alacrity)
+- End: ~648 or ~538 Credits
 ```
-- ***Conditional** - If you already used Adrenal Alacrity:*
+
+- ***Conditional** - If you already have Adrenal Alacrity active:*
   - *Stims: Use Strength, Stamina, and Battle Stimulant on MC*
 - Exit to Upper City South
 - Run towards statue at the end of the walkway
@@ -370,26 +371,38 @@ SHOPPING TRIP: Larrim
   - As MC, click on Medical Clinic door
   - Swap to Carth and click on Upper City North door
   - Swap to MC and talk to Zelka: 5
-    - `Buy: 4x Adrenal Alacrity (End: 22 Credits)`
+    - `Buy: 3x Adrenal Alacrity (End: 498 Credits)`
   - *Stims: Use one of each stim on MC, Alacrity on Carth*
   - Run MC close enough to Carth, then swap and enter Upper City North
     - You need to be about two floor tiles from the fountain
 - *Otherwise, if you've already used all four stims and can [skip Zelka](#skipping-zelka):*
     - Run straight from South Apartments to Upper City North and enter
     - *Skipping Zelka saves 10-11s, but only if you already used an Alacrity from Spire*
-- After entering Upper City North, run straight across to enter North Apartments
+- ***Conditional** - If you shopped with Zelka:*
+  - *Party: Remove Carth* after entering Upper City North
+- Run straight across to enter North Apartments
 - Run left until Sith soldiers accost you (+2 LSP; 52 total)
-- Kill three Sith soldiers without entering the apartment
-  - If you enter the apartment, you'll have to talk to the alien
-- Loot corpses for Sith Uniform, grenades, and stims
+- Fight with Sith Soldiers
+  - **Strat 1: Frag Grenade**
+    - This should be used only if MC is alone
+    - Attack the soldier outside the apartment with a Critical Strike
+    - Wait for the other two soldiers to exit the apartment, then throw a Frag grenade to kill them all
+    - You want to avoid entering the apartment to skip the post-fight conversation with the Sullustan
+    - Using a Frag Grenade on this fight means you only have 2 for Brejik and 1 for Calo unless you get random drops or buy 3 or more from Igear
+  - **Strat 2: Carth**
+    - This should be used if Carth is already in your party or you want to preserve Frag Grenades
+    - Attack the soldier outside the apartment with a Critical Strike
+    - Swap to Carth and run to the center of the doorway, then queue Power Blasts on all living enemies
+    - Swap to MC and keep them outside the apartment while Carth finishes the fight
+- Loot all three corpses for Sith Uniform, grenades, and stims
 - ***Conditional** - If Carth doesn't have Alacrity on:*
   - *Stims: Use Alacrity on Carth*
-  - At this point, MC should have all four stims active and Carth should have Alacrity
+  - At this point, MC should have all three (or four) stims active and Carth should have Alacrity
   - All stims should be [Duration Glitched](<../Techniques/Glitchless Tricks#duration-glitch>) until the end of Taris unless a character dies
-- *Party: Remove Carth*
+- *Party: Remove Carth* if he isn't already removed
 - Exit the apartments
-- Drunks accost you (+2 LSP; 54)
 - *Equip MC: Sith Armor*
+- Drunks flee from the scary Sith
 - Sith Sentry talks to you
 - Enter the Lower City
 
@@ -402,6 +415,8 @@ SHOPPING TRIP: Larrim
   - Queue Critical Strike on each enemy
   - Flurry can be used instead but it's more inconsistent; the chance to hit is just 40% mainhand and 30% offhand
 - Swap to Carth and run towards Bek Base while MC battles the Vulkars
+- Hug the right wall starting from Javyar's cantina until you reach the Bek Base
+  - This skips a trigger that spawns Vulkar enemies further down the hallway
 - Click on Bek Base door with Carth and lookout accosts you
   - This warps MC to the Bek Base
 - Cancel combat and enter the Bek Base as MC
@@ -412,13 +427,30 @@ SHOPPING TRIP: Larrim
 - Run MC close enough to Carth, then swap and exit to Lower City
 - *Party: Remove Carth*
 - Watch Canderous cutscene
+- Hug the right wall after the doorway until the end of the panel with lights on it
+  - This skips another Vulkar spawn in the hallway ahead on the left
 - Enter the Undercity (spam through Sith soldier's interruption)
 
 ### Undercity
 - Beggars accost you: 3 ... 1,4
-- Hug the left side of the left ramps to skip Igear's interruption
-- *Party: Add Carth*
+- Run towards the middle of the ramp on the left until Igear accosts you: 3 (+2; 8 Spikes)
+
+```
+SHOPPING TRIP: Igear
+- BUY:
+  - 2x Computer Spike
+  - 2-4x Frag Grenades
+    - Buy as many as you can afford; you can always afford 2 Frags
+    - If you skipped Zelka, you can always afford 3 Frags
+- End: <60 Credits
+```
+
+
 - Run forward to watch Hendar run
+- Take one step forward and **immediately** *Party: Add Carth*
+  - The CS is shorter with no party members
+  - Taking a step forward first prevents Carth from spawning on the wrong side of the gate
+  - If you can't get this consistently, you can add Carth before the Hendar CS at the cost of 1 second
 - Kill the rakghoul
   - MC should let the rakghoul run past them, then turn and use Critical Strike from behind for Sneak Attacks
   - Flurry can be used instead; it has higher damage potential but higher variability, so Critical Strike is more consistent
@@ -432,7 +464,7 @@ SHOPPING TRIP: Larrim
 ### Sewers
 
 - Open the first door, then activate Solo Mode
-- As MC, run forward towards Rakghoul group, then throw a frag grenade to hit as many as possible
+- As MC, run forward towards Rakghoul group, then throw a Frag Grenade to hit as many as possible
   - The Rakghoul Fiend will always survive and has a 40% chance to save against the grenade
   - The normal Rakghouls will die to the frag unless they hit their 40% chance to save
 - Swap to Carth and go through right hand door, then run up ramp and click door on right
@@ -445,26 +477,33 @@ SHOPPING TRIP: Larrim
 - *Party: Remove Mission*
   - ***Optional:** Return to Hideout, then Transit Back to heal fully while removing Mission*
 - Run through left tunnel first, then right tunnel
-- Loot the pile of bones in the rancor room (+1; 6 Spikes)
+- Loot the pile of bones in the rancor room (+1; 9 Spikes)
 - Juke past the rancor and enter the Vulkar Base
   - Try to run always at a 90 degree angle from the rancor's pursuit
-  - You probably want to manually safety save before trying this trick
+  - You may want to manually safety save before trying this trick
+  - **Alternate Strat: Concussion Grenade**
+    - This strat is only recommended if you got a random Concussion Grenade drop before this (a 2.066% chance); otherwise we need all our Concussion Grenades elsewhere
+    - As you enter the Rancor room, run towards the Rancor and throw a Concussion Grenade
+    - Cancel combat and run towards the bone pile and loot it
+    - The Conc has a 50% chance to stun the rancor; if it worked, he will not chase you, and you can run past him quickly and safely
+    - If the rancor saved against the Conc, he will be charging you as you loot the bones; if so, you can juke him as above
+    - This strat saves 2s if the Conc stuns the rancor, and breaks even if not
 
 ### Vulkar Base
 
 - Turn right and ignore patrol droid
 - Defense turret skip
   - Open door to elevator area
-  - Make a manual safety save
-  - Stand in doorframe corner near terminal and make a manual save
+  - Stand in doorframe corner near terminal and make a manual safety save
   - Pause the game, then queue 1-2 concussion grenades on the center turret
-    - If the first concussion grenade stuns all three turrets (21.6% chance) then you can save the second one for the Assault Droid later 
+    - If the first concussion grenade stuns all three turrets (21.6% chance) then you can save the second one for the Assault Droid later
+    - Or, if you really want to use a Concussion Grenade on the rancor above, you can opt to only use 1 Conc here no matter what
   - Unpause; if any turret remains unstunned after both grenades, load the safety save and try again
   - If all three turrets are stunned, take the elevator to the Garage
   - There is a 59.6% chance to stun all three turrets after *both* grenades.  Good luck!
-  - You MUST stun all three turrets, since we will be leaving this way
+  - You MUST stun all three turrets, since we will be leaving this way and any unstunned turrets will get *two* shots at you as you leave
 - In the garage, take hallway on right and last door on right
-- Loot garage head's desk and supplies for passcard and Computer Spikes (+2; 8 Spikes)
+- Loot garage head's desk and supplies for passcard and Computer Spikes (+2; 11 Spikes)
 - Return to the main room then turn right down the central hallway and left at the end
 - Open the last door on the left and immediately use a medpac if you aren't at full health
 - Kandon Ark confronts you: 2,2,2
@@ -472,7 +511,7 @@ SHOPPING TRIP: Larrim
   - Kandon and his goons can deal a lot of damage, so watch your health here and medpac as needed
 - Return through central hallway to elevator to main base
 - Exit the Vulkar Garage
-  - With the new Save/Load on Endar Spire, these turrets should never instantly kill you as you're leaving
+  - With the new Save/Load on Endar Spire, these turrets should never instantly kill you as you're leaving, assuming you stunned all 3 on the way in
 - Take first door on right, first door on right, then exit the Vulkar Base
 
 ### Rescuing Bastila
@@ -488,12 +527,13 @@ SHOPPING TRIP: Larrim
   - You'll need to beat Redros's time on the second race, but your swoop accelerates faster
 - Kill Brejik using grenades
   - Start by running a little bit away so you don't get hit by your own grenades
-  - Throw a Poison Grenade first, then a Sonic Grenade, then a Frag Grenade
-  - Brejik is guaranteed to get Poisoned, and has a 50% chance to save vs. the Sonic Grenade
-  - Brejik has a 70% chance to save vs. the Frag unless he failed the Sonic save; then the -6 Dex from the Sonic makes his Frag save 55%
+  - Throw a Poison Grenade first, then queue 2-3 Frag Grenades
+    - Make sure you have at least 1 leftover for Calo in Davik's Estate
+  - Brejik is guaranteed to get Poisoned, and has a 70% chance to save vs. each Frag Grenade
+  - If either of the first two Frag Grenades hits him for 20 damage, don't throw a third one; save it for Calo instead
   - He has really high defense, making a basic attack only 15%/5% to hit, so grenades are the best option
-  - After you throw the last grenade, kill Redros with Flurry and finish off Bastila's guards if necessary; let the Poison finish Brejik unless he's the last one standing
-  - This fight can be 3 rounds if Brejik fails both saves on the Sonic and Frag, or as bad as 8 rounds if he saves both
+  - After you throw the last grenade, kill Redros and finish off Bastila's guards if necessary; let the Poison finish Brejik unless he's the last one standing
+  - This fight can be 3 rounds if Brejik fails both saves on the Frags, or as bad as 8 rounds if he saves two frags and you can't throw a third
 - Loot Brejik's corpse
 - Talk to Bastila
   - This takes you back to the apartment hideout
@@ -534,33 +574,33 @@ SHOPPING TRIP: Larrim
 - Secretary accosts you: 2,1
 - Activate Solo Mode
 - As MC, click on door at far end of first hallway
-- As T3, hack the desk console to kill Sith soldiers: 1,1,2,2 ... 2,8,3 (-3; 5 Spikes)
-- Swap to MC and deactivate Solo Mode
-- One Flurry on each patrol droid; Zaalbar and T3 should finish them off
-- Kill patrol droid in next hallway as MC
-- *Equip MC: Remove Vibroblade Offhand*
-  - The Assault Droid and Sith Governor have high enough defense that we need to remove our Two-Weapon Fighting penalty for any consistency
-- Loot footlocker in barracks for Sith passcard
+- As T3, hack the desk console to open the elevator doors: 1,1,6,3,4,8,3 (-6; 5 Spikes)
+  - This is faster than electrocuting the Sith and we don't need the extra experience from them
+- Swap to MC destroy both patrol droids with Flurry
+- Turn right and open door past cells, then destroy next patrol droid
+- ***Optional:** Equip MC: Remove Vibroblade Offhand*
+  - The Assault Droid and Sith Governor have high enough defense that removing the Two-Weapon Fighting penalty can make the fight more consistent if you don't get a Stun
 - Open door to start Assault Droid fight:
   - Pause after CS to set up the Concussion Grenade(s)
   - T3: Concussion Grenade on Assault Droid
-    - If you have extra Concussion Grenades, throw one with Zaalbar as well
+    - If you have any extra Concussion Grenades, throw one with Zaalbar as well
   - Unpause while queueing the rest of the attacks
   - MC: Flurry on Assault Droid
     - If MC is Stunned, use [Stunned Combat](<../Techniques/Glitchless Tricks#stunned-combat>) to attack with Flurry
-  - Zaalbar: Improved Power Strike on Assault Droid
+    - If the Assault Droid saves against the Concussion Grenade, you can use Critical Strike instead to increase your hit rate
+  - Zaalbar: Improved Power Strike or Flurry on Assault Droid
   - T3: Use Shield Disruptor on Blaster Turrets
     - Two hits are enough to kill one turret, but don't use more than 3 Shield Disruptors on them total
     - When the Assault Droid is destroyed, MC and Zaalbar can finish up the Blaster Turrets
 - Enter the elevator
 - Sith Governor fight:
   - Pause immediately after the CS
-  - MC: Poison Grenade, then Flurry
+  - MC: Poison Grenade, then Crit Strike
   - T3: Shield Disruptor, Stun Ray x3
   - Zaalbar: Sonic Grenade, then Improved Power Strike
   - Unpause to start the fight and swap to T3
   - Make sure T3 keeps up with the Stun Ray until the Governor is stunned
-  - Once the Governor is stunned, T3 can loot the strongboxes early
+  - Once the Governor is stunned, swap to Flurry with MC, and T3 can loot the strongboxes early
 - Loot both strongboxes and Sith Governor's corpse for Launch Codes (+3; 8 Spikes total)
 - Exit the Sith Base
 
@@ -578,18 +618,22 @@ SHOPPING TRIP: Larrim
 - Once in room with guards, swap to T3
 - As T3, hack security terminal: 1,2,2,4,3 (-8; 0 Spikes)
   - This must be done as T3 or you won't have enough spikes
-- Switch back to MC and enter the hangar
+- Switch back to MC, open the hangar door, and immediately swap to another party member
+  - This spawns your party in the far corner of the hangar, closer to the Ebon Hawk
+  - Usually Canderous and T3 will move back to the entrance door, but MC will stay put
 - Calo/Davik fight:
   - This fight ends if we get Calo to <50% Vitality
   - Pause to setup the fight
-  - MC: Frag Grenade x2 on Calo
+  - MC: Frag Grenade x2 on Calo (or x1 if you only have 1)
   - T3: Shield Disruptor x3 on Calo
     - He will only use 2 unless Canderous misses both Power Blasts and Calo saves vs. at least one Frag
   - Canderous: Power Blast x2 on Calo
-    - If you have extra Frags, have Canderous throw them before his Power Blasts
+    - If you have any extra Frags, have Canderous throw them before his Power Blasts
   - Unpause and let the fight play out; it's about a 50-50 chance of being 2 or 3 rounds
-- Loot Davik's corpse for stuff to sell
-- Board the Ebon Hawk
+  - After MC uses their grenades, move towards the Ebon Hawk ramp before the fight finishes
+- Activate Solo Mode and swap to T3
+- As T3, loot Davik's corpse for stuff to sell
+- Swap back to MC and board the Ebon Hawk
 - Watch cool cutscenes
 - Destroy the Sith fighters
 
@@ -597,30 +641,32 @@ SHOPPING TRIP: Larrim
 
 ### Jedi Enclave
 
-- ***Conditional** - If you skipped Zelka and have 2 Alacrities or more, or shopped at Zelka and have 3 Alacrities or more:*
+- ***Conditional** - If you have 2 Alacrities or more:*
   - *Stims: Adrenal Alacrity on MC*
-  - If you shopped with Zelka, you should always have 3 Alacrities at this point
-  - If you skipped Zelka, you won't have any Alacrities here unless you got another random drop on Taris (~9% chance)
+  - If you shopped with Zelka, you should always have at least 2 Alacrities at this point
+  - If you skipped Zelka, you won't have any Alacrities here unless you got more random drops on Taris (~9% chance)
 - Follow Bastila to the Jedi Council
 - *Equip MC: Unequip Combat Suit*
 - Belaya accosts you
 - Speak with the Council
 - Watch the dream cutscene
 - Carth accosts you
-  - *Party: No change when prompted*
-- ***Conditional** - If you skipped Zelka and have any Alacrities, or shopped at Zelka and have 2 Alacrities or more:*
+  - *Party: Add T3 when prompted*
+- ***Conditional** - If you have an Alacrity:*
   - *Stims: Adrenal Alacrity on MC*
 - Speak with the Council again
 - Go get a sandwich during the training montage
-- Talk to Master Zhar after the CS: 1,1 ... 1,1,6,3,2,6,4
+- Talk to Master Zhar after the CS: 1,1
+- Activate Solo Mode and talk to Zhar again: 1,1,6,3,2,6,4
 - Talk to Master Dorak to become a Jedi Guardian
 - `Level to 4: Save Skills, Improved Two-Weapon Fighting, Affect Mind and Stun Droid`
 - `Level to 5: Save Skills, Burst of Speed`
 - `Level to 6: Persuade to 9, TI to 9, Save Rest; Improved Flurry, Force Valor`
   - See [Force Power Options](#force-power-options) for possible tweaks to these level ups
-- Talk to Master Zhar twice
+- Swap to T3 and talk to Master Zhar to construct your lightsaber
+- *Party: Remove T3*
 - *Equip MC: Strength Gauntlets and Double-bladed Lightsaber*
-- Talk to droid to unlock door
+- Talk to enclave droid to unlock Courtyard door
 - *Force: Cast Force Valor* right before you...
 - Exit the Enclave
   - This applies [Duration Glitch](<../Techniques/Glitchless Tricks#duration-glitch>) to both Speed and Valor
@@ -648,7 +694,7 @@ SHOPPING TRIP: Larrim
 - *Party: No change when prompted*
   - We aren't allowed to remove Bastila yet...
 - *Party: Remove Bastila*
-  - ...so we have to do it here
+  - ...so we have to do it after
 - Transit Back to Grove
 - Run/Force Jump to Matale Grounds
 - Force Jump to kath hounds on right and loot Casus Sandral's corpse
