@@ -1314,6 +1314,19 @@ SHOPPING: Czerka Shop
 
 ## Version History
 
+**v7.1 (May 2025)**
+- New credit route on Taris to afford two additional Computer Spikes
+- New grenade route and strats for Brejik and Calo on Taris
+- New hacking in the Taris Sith Base to skip electrocuting the barracks
+- New XP route through Manaan and Tatooine to reach level 9 for Bandon
+- Slightly modified stim route and shopping on Manaan
+- New Vulkar Spawn skips in Lower City
+- New Leviathan Bridge strats, including the Saul Karath fight
+- New Leviathan escape trick
+- Small timesave in the Jedi Enclave with T3
+- Optional grenade strat for sewers rancor
+- New shopping plan for early Alacrity
+
 **v7.0 (January 2025)**
 - New planet order that does Tatooine 2nd and Korriban 3rd
 - New Scoundrel build for Sneak Attack II and employing Auto-Level Attributes
