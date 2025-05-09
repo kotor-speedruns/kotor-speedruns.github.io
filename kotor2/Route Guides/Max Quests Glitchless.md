@@ -1989,7 +1989,7 @@ Buy:
 - Once he's dead, head to the Trayus Core.
 
 ### Traya
-- Cast Force Enlightment before proceeding.
+- Cast Force Enlightment and Force Resistence before proceeding.
 - Traya: 4,4
 - First Phase, Force Jump to her as she has a small chance of using stunning force abilities on you, this should tank her and be able to avoid it.
 
