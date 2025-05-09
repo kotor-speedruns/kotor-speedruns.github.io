@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic II - The Sith Lords - Max Quests Glitchless Guide
 
-## v2.0.2: Female Jedi Guardian Route (Light Side)
+## v2.2: Female Jedi Guardian Route (Light Side)
 Route created by Ninko.
 
 *First of all, major credit goes out to [30cents](https://www.speedrun.com/user/30Cents) for his help with some route improvements and [Sanjan](https://www.speedrun.com/user/Sanjan) for their work on the Any% Glitchless route.*
@@ -85,13 +85,13 @@ We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsab
 | 5 | Improved Two-Weapon Fighting | Energy Resistance |
 | 6 | --- | Force Deflection |
 | 7 | Improved Critical Strike | Dominate Mind |
-| 8 | --- | Battle Meditation |
+| 8 | --- | Force Resistance |
 | 9 | Master Two-Weapon Fighting | Knight Speed |
 | 10 | --- | Knight Valor |
-| 11 | Master Critical Strike | Improved Energy Resistance |
+| 11 | Master Critical Strike | Battle Meditation |
 | 12 | --- | Force Redirection |
-| 13 | Weapon Specialization: Lightsaber | Improved Battle Meditation |
-| 14 | --- | Force Barrier |
+| 13 | Weapon Specialization: Lightsaber | Improved Energy Resistance |
+| 14 | --- | Improved Battle Meditation |
 | 15 | Toughness (Recommended) | Master Speed |
 
 <br>
@@ -735,7 +735,11 @@ Buy:
 - Enter the Cantina `\ \`
 - Speak to Luxa: 1x-
 - Exit the Cantina, cast Burst of Speed and transit to 082 East: 2,2
-- Run towards the Exchange, Atton accosts you: 1,1
+- Run toward Exchange;
+  - *If you run towards the light on the wall and hug the wall for 1 second you can skip some dialog with Kreia about Exchange. Image below.*
+
+![Telos Station Trigger skip Information](/assets/images/kotor2/Skip%20Trigger%20Telos%20Station.png?raw=true)<br>
+
 - Speak to the Bouncer: 1
 - Enter Exchange. `\`
 - Kreia casts Burst of Speed. `\ \`
@@ -886,7 +890,10 @@ Buy:
 - Run Atton into the Cantina.
 - Speak to Luxa: 1x- `\ \`
 - Exit Cantina as MC, transit to 082 East: 2,2
-- Run towards the Exchange, Kreia accosts you: 1x-
+- Run towards the Exchange;
+  - *If you run towards the light on the wall and hug the wall for 1 second you can skip some dialog with Kreia about Exchange. Image below.*
+
+![Telos Station Trigger skip Information](/assets/images/kotor2/Skip%20Trigger%20Telos%20Station.png?raw=true) <br>
 - Speak to the Bouncer: 1x-
 - Enter Exchange. `\ \`
 - Kreia casts Burst of Speed. `\`
@@ -1065,6 +1072,9 @@ If you have <10 Medpacs, buy enough to get to 20. If >20 don't buy any.
 - Enter Enclave Sublevel.
 
 ### Enclave Sublevel
+  - *If you follow the image below, you can skip the triggers that spawn Gerevick at the entrance/exit.*
+
+![Gerevick Trigger Information](/assets/images/kotor2/Dantooine%20tr_gere_spawn%20Triggers.png?raw=true) <br>
 - `+ ^`
   - *Swapping to the Plasma Torch,* `}` *equip it now if it was automatically removed.*
 - Cast Burst of Speed and activate 1x Alacrity Stim.
@@ -1233,14 +1243,24 @@ If you have <10 Medpacs, buy enough to get to 20. If >20 don't buy any.
 - `>` Cast Knight Speed.  `+`
   - *We can level up whenever we get them from here, or where ever suits you.*
 - Use Psuedo-Stim Set.
-- Head past the Battle Circle to watch a cutscene with Kelborn, this will take us to the other area of the fight.
-- Run towards the door to where Mandalore is, this will spawn in more Sith Assassins.
-- Cast Force Valor.
-- Group Sith Assassins together and get Kreia and T3 to through whatever grenades you have at them.
-- Kill all Sith Assassins with small HP pools.
-  - *There are 2 Sith Assassins with large HP pools, these do not need to be killed.*
-- Once there is 1-2 Sith Assassins left, get all of your party out of combat to trigger Mandalore.
-- `=` Choose Kreia when prompted.
+  - *In this section, there are required Sith Assassin's that need to be killed in order to progress the story to Onderon. These SA's have low HP, and are never Stealth. There will be 2 high HP SA's that you can leave alive.*
+
+  - **The files linked below, made by [Lane](https://www.speedrun.com/users/Lane)(Thank you Lane!), are not to be used during a run! Your run will be invalid!**
+  - *Lane has made a couple files for the KotOR2 Override Folder, these change the required SA's during the Sith Ambush to turn to Twi'Lek's. This is super helpful for practice*
+  - *Simply download and drop the two files into your Override Folder in your game directory. Make sure to remove them before doing runs!* <br>
+
+[Sith_Ass_403](https://www.dropbox.com/scl/fi/wkuawgiettvyvnbl1km0x/sith_ass_403.utc?rlkey=pm2vmt8ltoncgp77o8vjg6rih&st=7q0ucl7x&dl=0)
+[Sith_Ass_404](https://www.dropbox.com/scl/fi/x55a6renko23vg8b65u99/sith_ass_404.utc?rlkey=cvu1orgtbltwm5oxn2iigxcd7&st=4o4luguk&dl=0) <br><br>
+
+![Sith Ambush Trigger Information](/assets/images/kotor2/Mandalorian%20Camp%20Sith%20Attack%20Triggers.png?raw=true) <br>
+
+- Turn on solo mode and stim up, use Kreia for Force Speed then head to the green trigger from the image above. This will start the next part of this sequence. 
+- Enter the area where the red trigger is to spawn in the rest of the required SA's.
+- Place MC where Davrel is, level Kreia up for Force Valor (unless you have somewhere earlier in the run, or she doesn't have a level up).
+  - *If Kreia doesn't have Valor or a level up, just cast Valor as MC.*
+- Set up Kreia and T3 to throw Grenades at the groups of SA's surrounding MC.
+- Once this group of SA's are dead, head to the entrance, and kill any SA's with low HP. Once it is only the 2 high HP SA's remaining, try to just run the MC around or in and out of where the red trigger is, trying to stay out of combat too, eventually the game will progress the story to Onderon.
+- `=` Take Kreia with you, when prompted.
 
 ## Onderon
 
@@ -1659,6 +1679,10 @@ Buy:
 - `}` Equip MC: Sith Power Gauntlets, Upgraded Lightsabers
 - Run through to the Palace, keep Knight Speed active as you go.
   - *Pro Tip: Using the Plasma Torch on the Force Fields is quicker than using your Lightsabers.*
+  - *After the first Force Field, if you hug the wall to the right, you can skip the trigger that causes Captain Bostuco to interrupt. Image below.*
+
+![Sky Ramp, Captain Bostuco Trigger skip](/assets/images/kotor2/Sky%20Ramp%20Trigger%20avoid.png?raw=true) <br>
+
   - *It is recommended to make a safety save right before entering the Palace, the game is prone to crashing here.*
 - Enter the Palace.
 
@@ -1668,6 +1692,10 @@ Buy:
 - Mouse spam until in control of MC.
 - `+` Cast Knight Speed and take MC down the path to the right, facing away from the now closed door.
 - Head down to the second to last door on the right where Kavar will greet you.
+  - *If you miss the first available Force Jump, where you land in a trigger of some info dialog, you can use the following image to walk around the trigger saving you ~1s.*
+
+![Palace Trigger skip](/assets/images/kotor2/Palace%20Trigger%20avoid.png?raw=true) <br>
+
 - Kavar: 1x-
 - Run in to Captain Kadron and speak to him.
 - Captain Kadron: 1,1,3
@@ -1920,9 +1948,13 @@ Buy:
 
 - In the second area, kill the 3 Storm Beasts near each other at #2.
 - Kill 1 Storm Best near #3, this will help the Remote later.
-- In the large area marked #5, cast Force Enlightenment to kill the Greater Storm Beast. It should die in 1-2 hits.
+- In the large area, marked with a #5, cast Knight Speed at the gate and walk through the edge of the rock on the right to perform Greater Storm Beast skip. Image and Video below for extra help.
 
-- Head to the entrance to Trayus Academy, mouse spam through cutscenes until the fight with Hanharr.
+![Malachor Depths - GSB skip](/assets/images/kotor2/Malachor%20Depths%20Broken%20Collision%20-%20Skip%20Greater%20Storm%20Beast%20Trigger.png?raw=true) <br>
+![GSB Comparison, video showing where to walk to skip trigger](https://youtu.be/vcU_KIYGxMQ) <br>
+
+
+- Head to the entrance to Trayus Academy.
 
 ### Mira
 - Plant all 5 Deadly Frag Mines, plus the 1 leftover Average Frag Mine and run Hanharr through them.
@@ -1951,6 +1983,7 @@ Buy:
 
 ### Sion
 - Sion stops you: 8
+- Cast Force Enlightenment
   - *You'll need to bring Sion's HP to 1 a total of 4 times.*
   - *1 spam through his dialog after each phase.*
 - Once he's dead, head to the Trayus Core.
@@ -1964,11 +1997,32 @@ Buy:
 - Immediately pause as all buffs were ended at the end of the first phase.
 - Activate whatever Hyper stims you have left.
   - *Plus regular stims of whatever you don't have that's hyper.*
-- Cast Force Enlightment again and hit her. Heal up as needed, as the floating lightsabers hurt.
+- Cast Knight Speed again and hit her. Heal up as needed, as the floating lightsabers hurt.
 - Time ends on the last hit on Traya, GG!
 
 ## Version History
-### v2.0.2 (April 2024)
+
+### v2.2 (May 2025)
+- Updated Levelling Plan - Force Resistence at Level 8.
+- Updated Levelling Plan - Battle Meditation at Level 11.
+- Updated Levelling Plan - Improved Energy Resistance at Level 13.
+- Updated Levelling Plan - Improved Battle Meditation at Level 14.
+- Added skippable trigger on Telos Station when heading to Exchange. (Thanks to Glasnonck's Walkmesh Visualiser, saves ~1s)
+- Added Image embed for Trigger skip on Telos Station.
+- Added a note to Dantooine Detailed Route - Trigger avoidance for spawning Gerevick in the Enclave Sublevel.
+- Added Image embed for context on Gerevick trigger skip.
+- Updated Sith Ambush notes.
+- Added files for Sith Ambush Practice (Made by Lane)
+- Added Image embed of trigger locations for Sith Ambush.
+- Added skippable trigger on Sky Ramp after 1st Force Field. (Thanks to Glasnonck's Walkmesh Visualiser, saves ~1s)
+- Added Image embed for Sky Ramp trigger skip.
+- Added skippable trigger in Palace, although it is circumstantial. (Thanks to Glasnonck's Walkmesh Visualiser, saves ~1s)
+- Added Image embed for Palace trigger skip.
+- Added Greater Storm Beast skip! One final skippable trigger, in Malachor Depths. (Thanks to Glasnonck's Walkmesh Visualiser, saves ~22s)
+- Added Image and Video embed for Greater Storm Beast skip.
+- Updated Sion and Traya fight sequences.
+
+### v2.1 (April 2024)
 - Updated Alignment Route to be 75 at start of Korriban.
 - Changed a sequence during Dxun Jungle to save ~10-15s.
 - Removed Dialog with Kreia before Korriban.
