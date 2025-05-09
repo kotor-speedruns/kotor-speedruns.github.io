@@ -3,8 +3,8 @@ redirect_from:
   - /kotor2/Route Guides/Any Glitchless
 ---
 
-## v3.0: Female Jedi Guardian Route (Light Side)
-Route created by [Sanjan](https://www.speedrun.com/user/Sanjan), updated by [Ninko](https://www.speedrun.com/users/NinkoHD). <br>
+## v3.1: Female Jedi Guardian Route (Light Side)
+Route (2.0) created by [Sanjan](https://www.speedrun.com/user/Sanjan), updated by [Ninko](https://www.speedrun.com/users/NinkoHD). <br>
 <br>
 *I want to credit [30cents](https://www.speedrun.com/user/30Cents) for his initial route for KOTOR 2 Glitchless.  This would not have been done without his initial work on the route!  I also want to credit [ChaosDrifter](https://www.speedrun.com/users/ChaosDrifting) for helping me with much of the calculations and theory crafting into the category improvements.*
 
@@ -17,7 +17,7 @@ If you have additional questions, you can check out the KotOR Speedrunning Disco
 - [General Tips](#general-tips)
 - [Character Build](#character-build)
   - [Character Creation](#character-creation)
-  - [Leveling Plan](#leveling-plan)
+  - [Levelling Plan](#levelling-plan)
 - [Equipment Plan](#equipment-plan)
 - [Credit Route](#credit-route)
 - [Alignment Route](#alignment-route)
@@ -76,30 +76,33 @@ Treat Injury (TI) will be our main skill, since there are no strict skill requir
 
 We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsaber; we pick it over 'Two-Weapon Fighting' since this feat takes longer to select and character creation isn't timed. This will in turn result in our first level up being faster than if we chose 'Two-Weapon Fighting' now. 
 
-### Leveling Plan
+### Levelling Plan
 <br>
 
-| Level | Feats | Powers |
-| --- | :--- | :--- |
-| 1 | Weapon Focus: Melee | --- |
-| 2 | Two-Weapon Fighting | Burst of Speed |
-| 3 | Weapon-Focus: Lightsaber | Affect Mind |
-| 4 | --- | Force Valor |
-| 5 | Improved Two-Weapon Fighting | Energy Resistance |
-| 6 | --- | Force Deflection |
-| 7 | Improved Critical Strike | Dominate Mind |
-| 8 | --- | Battle Meditation |
-| 9 | Master Two-Weapon Fighting | Knight Speed |
-| 10 | --- | Knight Valor |
-| 11 | Master Critical Strike | Improved Energy Resistance |
-| 12 | --- | Force Redirection |
+ |  Level  |  Feats  |  Powers  | 
+ |  ---  |  :---  |  :---  | 
+ |  1  |  Weapon Focus: Melee  |  ---  | 
+ |  2  |  Two-Weapon Fighting  |  Burst of Speed  | 
+ |  3  |  Weapon-Focus: Lightsaber  |  Affect Mind  | 
+ |  4  |  ---  |  Force Valor  | 
+ |  5  |  Improved Two-Weapon Fighting  |  Energy Resistance  | 
+ |  6  |  ---  |  Force Deflection  | 
+ |  7  |  Improved Critical Strike  |  Dominate Mind  | 
+ |  8  |  ---  |  Force Resistence  | 
+ |  9  |  Master Two-Weapon Fighting  |  Knight Speed  | 
+ |  10  |  ---  |  Knight Valor  |
+ |  11  |  Master Critical Strike  |  Battle Meditation  | 
+ |  12  |  ---  |  Force Redirection  | 
 
 <br>
 You will notice attributes and skills aren't listed here. This is because when we level up, all skills/attribute points will use the 'Recommended' option (Strength/Treat Injury respectively).
 
-Our main combat plan is lots of Strength, 'Master Two-Weapon Fighting', 'Master Critical Strike', and 'Knight Speed' using dual lightsabers. This gives us attacks that will deal as much damage as possible; we want to hit as hard as possible, since enemies in the later parts of the game will have higher HP. Once we get the lightsaber form 'Shien' from Master Zez-Kai-Ell, we will switch to this form for the rest of the run.
+Our main combat plan is lots of Strength, 'Master Two-Weapon Fighting', 'Master Critical Strike', and 'Knight Speed' using dual lightsabers. This gives us attacks that will deal as much damage as possible; we want to hit as hard as possible, since enemies in the later parts of the game will have higher HP.
 
 Other notes:
+
+**Level Notes**
+- We may not reach Level 12, but the required Force Power is there in the 'Levelling Plan' for you incase it's required.
 
 **Skill notes:**
 - We use TI to make our medpac use more efficient. And in turn it is the fastest way to select our skills
@@ -274,21 +277,21 @@ The guaranteed items we sell are as follows:
 Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher numbers are Light, lower numbers are dark.  Shifts in alignment are determined by a matrix; every alignment-shifting action is classified as Light or Dark, and then assigned a level (either Low, Mid, or High).  The player character (Exile/MC) can either be aligned as Very Dark, Dark, Neutral, Light, or Very Light.  The more opposed your alignment and the action's classification, the more drastic your shift in alignment; for example, a Light-aligned character performing a High Dark action will have a large shift, while a Dark character performing a High Dark action will have a smaller shift. Most of the alignment shifts we get in the run are hardcoded, meaning that we would get those points regardless of our alignment.<br>
 Here is the alignment route used in the run:
 
-| Aligned | Action | Type | LS/DS | Delta | New |
-| --- | :--- | :--- | :--- | :--- | :--- |
-| Neutral | Game Start | -- | -- | -- | 50 |
-| Neutral | Initial talk with Kreia | Hardcoded | 1/0 | 1 | 51 |
-| Neutral | Agree to let Atton out of Force Cage | Hardcoded | 1/0 | 1 | 52 |
-| Neutral | Talk with Atton, post T3-M4 solo | Hardcoded | 1/0 | 1 | 53 |
-| Neutral | Tell HK-50 you want to save the miners | Low Light | 2/0 | 2 | 55 | 
-| Neutral | Not shooting the Asteroids during escape | Hardcoded | 2/0 | 2 | 57 |
-| Light | Talk with Kreia on Ebon Hawk | Hardcoded | 8/0 | 8 | 65 |
-| Light | Talking to Atton before Telos | Hardcoded | 1/0 | 1 | 66 |
-| Light | Help free the Sullustan from Mercenaries | Hardcoded | 3/0 | 3 | 69 |
-| Light | Refuse Chodo Habat's reward | Hardcoded | 3/0 | 3 | 72 |
-| Light | First Encounter with Handmaiden | Hardcoded | 1/0 | 1 | 73 |
-| Light | Show concern for Bao-Dur | Hardcoded | 1/0 | 1 | 74 | 
-| Light | Show concern for T3-M4 | Hardcoded | 1/0 | 1 | 75 | 
+ |  Aligned  |  Action  |  Type  |  LS/DS  |  Delta  |  New  | 
+ |  ---  |  :---  |  :---  |  :---  |  :---  |  :---  |  :---  |  
+ |  Neutral  |  Game Start  |  --  |  --  |  --  |  50  |  0  |  
+ |  Neutral  |  Initial talk with Kreia  |  Hardcoded  |  1/0  |  1  |  51  | 
+ |  Neutral  |  Agree to let Atton out of Force Cage  |  Hardcoded  |  1/0  |  1  |  52  | 
+ |  Neutral  |  Talk with Atton, post T3-M4 solo  |  Hardcoded  |  1/0  |  1  |  53  | 
+ |  Neutral  |  Tell HK-50 you want to save the miners  |  Low Light  |  2/0  |  2  |  55  |  
+ |  Neutral  |  Not shooting the Asteroids during escape  |  Hardcoded  |  2/0  |  2  |  57  | 
+ |  Light  |  Talk with Kreia on Ebon Hawk  |  Hardcoded  |  8/0  |  8  |  65  | 
+ |  Light  |  Talking to Atton before Telos  |  Hardcoded  |  1/0  |  1  |  66  | 
+ |  Light  |  Help free the Sullustan from Mercenaries  |  Hardcoded  |  3/0  |  3  |  69  | 
+ |  Light  |  Refuse Chodo Habat's reward  |  Hardcoded  |  3/0  |  3  |  72  | 
+ |  Light  |  First Encounter with Handmaiden  |  Hardcoded  |  1/0  |  1  |  73  | 
+ |  Light  |  Show concern for Bao-Dur  |  Hardcoded  |  1/0  |  1  |  74  |  
+ |  Light  |  Show concern for T3-M4  |  Hardcoded  |  1/0  |  1  |  75  |  
 
 
 Alignment is important in this run, as we need to reach 75 to trigger Visas. We also stay on Light Side/Neutral in order to obtain Mira at Nar Shaddaa, as she is used for Goto’s ship segment to pass by the many deadly mines quickly without blowing them up, and to obtain deadly mines for Hanharr 2 later on at Malachor V.  
@@ -317,11 +320,12 @@ Notation:<br>
 - `}` indicates an inventory/equipment action to be done<br>
 - `=` indicates a party change<br>
 - `^` indicates to the player to switch weapons<br>
+- `+` indicated solo mode<br>
 - MC is the Main Character (aka you/The Exile)<br>
 <br>
 Conversation Notes: <br>
 If no conversation choices are specified, spamming will work (this chooses all 1 options).<br>
-\| indicates a break in the conversation.  You will have to talk to the npc again.<br>
+ \|  indicates a break in the conversation.  You will have to talk to the npc again.<br>
 `->` indicates a secondary part to the conversation.  This is different from -> in that the conversation automatically initiates, rather than having to talk to the same person.<br>
 `#xY` indicates repeat that option Y times, as in our dialog with Kreia during Ebon Hawk to Telos.<br>
 `#x-` indicates the rest of this conversation uses that particular number, generally used to indicate conversation spam not using 1 (e.g Saedie's conversation: 2x-)<br>
@@ -425,7 +429,7 @@ T3 gets zapped and control transitions to MC
 ### Fuel Depot (pt 2)
 - Turn on solo mode, then talk to T3: 3,1
 - Equip the Mining outfit and an energy shield.  Turn on the energy shield and run through all 3 of the mines around the ground floor (the mines are located inside the vents).  
-- If you get a level, hold off on it until you need healing.  After leveling, heal with medpacks as needed.
+- If you get a level, hold off on it until you need healing.  After the level up, heal with medpacks as needed.
 - 1 spam the console, and make your way inside.  
 - Inside, run to the console and input: 1x5,2.  Then run through the newly opened door, take the first door. 
 - You’ll be going through 6 mines that deal either 15 or 7 damage, so make sure to heal up and level as needed.
@@ -499,7 +503,13 @@ Afterwards, swap to MC:
 - Run to the console and transition to Entertainment Deck: 2,2
 - Go inside the Cantina and talk to Luxa (1 spam)
 - Exit and transition back to the Czerka area: 2,2
-- Run to the Exchange building and 1 spam the person outside and the receptionist inside (DO NOT USE KREIA TO APPROACH HER).
+- Run toward Exchange;
+  - *If you run towards the light on the wall and hug the wall for 1 second you can skip some dialog with Kreia about Exchange. Image below.*
+
+![Telos Station Trigger skip Information](/assets/images/kotor2/Skip%20Trigger%20Telos%20Station.png?raw=true)<br>
+
+- Speak to Bouncer: 2
+- Enter Exchange
 
 - Pseudo-stim up, use Force Speed/Valor, and press 6 to initiate the fight.
 - Afterwards, swap weapons (default key: H) to open the door (swap back to swords after) and talk to the gamorrean.  Kill the two droids.
@@ -522,7 +532,7 @@ Afterwards, swap to MC:
   - *Continue to mouse click to skip some dialog as the cutscene plays with T1-N1 leaving the mainframe.*
 - Click on the Mainframe Console: 1x-
 - Exit Czerka, use the Terminal to fast travel: 2,3
-- Speak with Chodo: 1x- \| 1x-
+- Speak with Chodo: 1x-  \|  1x-
 - `>` Cast Burst of Speed and head to the Information Terminal to transit to Dock Module 126: 2,1
 - 1 spam through the cutscene, talk to the Ithorian, use the console twice, and leave the area.
 - Mouse spam through cutscene with Grenn and Admiral Cede.
@@ -594,19 +604,19 @@ Afterwards, swap to MC:
 
 - Kreia talks to you: 3,2
 - Exit the Ebon Hawk
-- = Take Atton with you 
-- + Cast Burst of Speed and make your way to the Sith Academy.
+- `=` Take Atton with you 
+- `+` Cast Burst of Speed and make your way to the Sith Academy.
 - Avoid the charred corpses on the way, since a cutscene with Kreia will activate.
 - After the initial cutscene in the Academy, + cast Burst of Speed, leaving atton at the Academy entrance.
 Follow the route below on the map, plus the instructions.
 
-![Sith Academy Route Map](/assets/images/Sith%20Academy%20Map%20Final.png)
+![Sith Academy Route Map](/assets/images/Sith%20Academy%20Map%20Final.png?raw=true)
 
 1. Make your way to the crossroads, then take the path to your right.
 2. Take the second left path all the way to the end (the purple path) and loot the footlocker there.  
 	- *You may get trapped by various monsters, bop them a few times and keep trying to move so they will get out of your way.*
 3. Head to the console at #2: 1,2,3,1,4,4,4,2,1,2,2
-4. Now run to the Training Room at #5 and activate the console twice: 1 \| 1,3x-
+4. Now run to the Training Room at #5 and activate the console twice: 1  \|  1,3x-
 5. Run to the other end at #6, mouse spam through dialog and loot Vash’s body.
 6. Now use the console to unlock the entrance door: 2,1,1,2
 6. Swap to and exit the academy with Atton.
@@ -623,7 +633,7 @@ Follow the route below on the map, plus the instructions.
 - Dialog with Visas/Atton after the fight: 1,1 -> 4,1
   - *From here on out or alignment no longer matters, so any dialog option that gives alignment change from here on out won't effect any outcome.*
 <br>
-- Cast Burst of Speed, then go and speak with Bao-Dur to get our Lightsaber: 1,1 \| 4,4,2
+- Cast Burst of Speed, then go and speak with Bao-Dur to get our Lightsaber: 1,1  \|  4,4,2
 - Speak to T3-M4 for Computer Spikes on the way to the Galaxy Map: 6,2x-
 - Now we can fly to Dantooine! (1 Left)
 
@@ -649,13 +659,16 @@ Buy:
   - *We can run this section as MC incase we have an opportunity to Force Jump.*
 - + Solo Mode when you get through to the Enclave Courtyard, cast Burst of Speed, then run through towards the Enclave Sublevel as Kreia where some salvagers will accost you: 1x-
 - Swap to MC, enter Enclave Sublevel.
+  - *If you follow the image below, you can skip the triggers that spawn Gerevick at the entrance/exit.*
+
+![Gerevick Trigger Information](/assets/images/kotor2/Dantooine%20tr_gere_spawn%20Triggers.png?raw=true) <br>
 - + Cast Burst of Speed Use MC to run/force jump through the Ruined Enclave, activate an Alacrity Stim when you're half way around the path.
 - Follow the path to the right until you bash open the door half way around the Sublevel where there are lots of Deadly Laigrek's are.
 
 - Disciple talks to you: 1,5,5,1
 - = Remove Disciple from your Party. If you miss this step your run is as good as over.
 - Run forward and loot the mercenaries bodies to trigger the next part of the main quest, then exit the enclave, but continue around, not the way you came.
-  - Gerevick and some thugs will ambush you at the end, just simply ignore them (spam 1) and exit. (Heal as needed)
+
 <br>
 - Cast Burst of Speed
 - = Add Kreia back to the party
@@ -704,24 +717,38 @@ Buy:
 
 ![Dxun Jungle Route Map](/assets/images/Dxun%20Map%20glitchless.png?raw=true)
 - Stim up with MC and follow the blue path first.  Loot each of the parts as roughly outlined at the map (Cannoks hold these parts)
-- While fighting the zakkeg at #9, take Kreia through the orange path.  (Heal MC as needed)
+- While fighting the zakkeg at #9, set Kreia's script to Stationary, then run Kreia through the orange path.  (Heal MC as needed)
 - Use 1-2 frag grenades (+ attacks if needed) on the Cannock.  
 - You’ll know if it’s the right one because it has ~20 HP. Loot the part from its corpse, then use Kreia to set off the detonator.  
 - Use MC after to loot the corpse at the north end for 2 battle stims, Mandalorian Combat Suit and some credits.
 - Swap to T3, and exit back to the Mandalorian Camp.
 
 - Talk to the Mandalorian Captain: 2,3
-- Talk to Zuka: 1,1,1,3 (to get 1k credits) \| 1
-- Talk to Mandalore: 1x- \| 1x-
+- Talk to Zuka: 1,1,1,3 (to get 1k credits)  \|  1
+- Talk to Mandalore: 1x-  \|  1x-
 
 ### Sith Ambush
-  - *Do NOT spam run when Kreia talks to you about the attack, wait for the party member interface to pop up. Talking to someone before the party member interface pops up WILL softlock your game.*
 
-- Turn on solo mode and run to the next area, then move slightly north to spawn both sets of Sith Assassins.  
-- Round them up, swap to Kreia, and throw all your frag grenades at them, then kill them.  
-- Head to the arena lookalike (don't go back the way you went) to spawn 1 more Sith. Two of the assassins here have large amounts of HP, ignore them.
-- Head to the entrance, and kill any sith that has low HP. If the combat doesn't end, just keep wailing on the Sith Assassins still left.
-- Exit combat after - after a couple of seconds, Mandalore will say to move out (Take Kreia with you).
+  - *Do NOT spam run when Kreia talks to you about the attack, wait for the party member sceen to pop up. Talking to someone before the party member interface pops up WILL softlock your game.*
+  
+  - *In this section, there are required Sith Assassin's that need to be killed in order to progress the story to Onderon. These SA's have low HP, and are never Stealth. There will be 2 high HP SA's that you can leave alive.*
+
+  - **The files linked below, made by [Lane](https://www.speedrun.com/users/Lane)(Thank you Lane!), are not to be used during a run! Your run will be invalid!**
+  - *Lane has made a couple files for the KotOR2 Override Folder, these change the required SA's during the Sith Ambush to turn to Twi'Lek's. This is super helpful for practice*
+  - *Simply download and drop the two files into your Override Folder in your game directory. Make sure to remove them before doing runs!* <br>
+
+[Sith_Ass_403](https://www.dropbox.com/scl/fi/wkuawgiettvyvnbl1km0x/sith_ass_403.utc?rlkey=pm2vmt8ltoncgp77o8vjg6rih&st=7q0ucl7x&dl=0)
+[Sith_Ass_404](https://www.dropbox.com/scl/fi/x55a6renko23vg8b65u99/sith_ass_404.utc?rlkey=cvu1orgtbltwm5oxn2iigxcd7&st=4o4luguk&dl=0) <br><br>
+
+![Sith Ambush Trigger Information](/assets/images/kotor2/Mandalorian%20Camp%20Sith%20Attack%20Triggers.png?raw=true) <br>
+
+- Turn on solo mode and stim up, use Kreia for Force Speed then head to the green trigger from the image above. This will start the next part of this sequence. 
+- Enter the area where the red trigger is to spawn in the rest of the required SA's.
+- Place MC where Davrel is, level Kreia up for Force Valor (unless you have somewhere earlier in the run, or she doesn't have a level up).
+  - *If Kreia doesn't have Valor or a level up, just cast Valor as MC.*
+- Set up Kreia and T3 to throw Grenades at the groups of SA's surrounding MC.
+- Once this group of SA's are dead, head to the entrance, and kill any SA's with low HP. Once it is only the 2 high HP SA's remaining, try to just run the MC around or in and out of where the red trigger is, trying to stay out of combat too, eventually the game will progress the story to Onderon.
+- `=` Take Kreia with you, when prompted.
 
 ## Onderon 1
 
@@ -769,11 +796,11 @@ Buy:
 
 - Party Convos: 5 -> 5,6  -> 7,7
 - Take Kreia with you, and turn on Solo Mode
-- Bullies accost you: 1
+- Bullies accost you: 4,2
 - Begging Refugee: 1,4
 
 - In the main area, take a right and head through the doors to the Refugee Sector.
-- Ebon Hawk's former owner stops you: 4,4
+- 1 spam Ebon Hawk former owner
 
 - Turn on solo mode again, and run with MC
 - Exchange Thugs accost you: 4,2
@@ -789,7 +816,7 @@ Buy:
 - Go to the bottom right corner near Oondar, turn on solo mode and leave Kreia there.
 - Talk to Geeda: 4, then Oondar (1 spam).  
 - Talk to Geeda again (1 spam, exit shop)
-- Talk to Oondar twice: 1x- `|` 1
+- Talk to Oondar (1 spam again)
 
 Then shop at Oondar:
 
@@ -819,7 +846,7 @@ Any other items as needed to get 2000 credits EXCEPT:
 
 - Trigger the cutscene with MC next to Geeda: 5,1,1
 - Head inside the Cantina, activate solo mode and cast Knight Speed.
-- Talk to Kaalah-Nah twice: 4 `|` 1,1
+- Talk to Kaalah-Nah twice: 4  \|  1,1
 
 - Leave the bar, and run to the Docks.  After the cutscene, turn around and exit back to Landing Pad.
 - Turn on solo mode, and head back to the Ebon Hawk for the Red Eclipse hijacking sequence.  You may want to make a manual save here to get more alignment points if you think you messed up.
@@ -830,7 +857,7 @@ Any other items as needed to get 2000 credits EXCEPT:
 
   - *DO NOT LEAVE THE EBON HAWK AFTER THE CUTSCENES UNTIL THE FOLLOWING MENU HAS BEEN DONE*
   - `}` Unequip MC’s weapons + Plasma Torch (give them 1 spare lightsaber for Force Jump)
-  - `}` Give Visas (change 2 left): Lightsaber Mainhand + any Offhand Lightsaber OR Vibrosword if all double sided lightsabers, Energy Shield, Stealth Field Generator, Targeting Visor
+  - `}` Give Visas (change 2 right): Lightsaber Mainhand + any Offhand Lightsaber OR Vibrosword if all double sided lightsabers, Energy Shield, Stealth Field Generator, Targeting Visor
 <br>
 
 #### Memory Reset
@@ -838,9 +865,9 @@ Any other items as needed to get 2000 credits EXCEPT:
 - Once Visas is equipped, now is the time to do a memory reset if you didn't do it at the start of Dxun.
   - *It is recommended that new runners do a reset here as well as the start of Dxun while learning the route, with this reset eventually becoming the main one.*
 - Simply make a save and Alt-F4 your game, open it again and load the save.
-- Now you can leave the Ebon Hawk and run to the back until the cutscene triggers (You cannot be in combat for this, if not in combat and you did not get the cutscene, reload the autosave). 
-- 2,2: Cast Knight Speed.
-- Take MC to the docks. In the next cutscene run forward and 1 spam through Mira's cutscene.
+- Now you can leave the Ebon Hawk and run to the back until the cutscene triggers (You cannot be in combat for this, if not in combat and you did not get the cutscene within 10 seconds, reload the autosave). 
+- 2,2
+- Take MC to the docks. In the Docks, run forward and 1 spam through Mira's dialog.
 
   - *Note that if you still have Fast Text, you MUST make a manual save reload your game here or else you will softlock later on with Zez.*
 
@@ -851,11 +878,11 @@ Any other items as needed to get 2000 credits EXCEPT:
 
 ### Mira Section
 
-- 1 spam through the many cutscenes and run Mira through the Jekk Jekk Tarr to the Private Area.   
+- 1 spam through the many cutscenes and run Mira through the Jekk'Jekk Tarr to the Private Area.   
 
 - When transitioning to the next cutscene as MC, do NOT spam through it, or else you may get softlocked as the door will remain closed.
 
-- As MC, run forward out of the houses area and head forward to the Jekk Jekk Tarr (run the same way you did as Mira), and go forward to the tunnels.
+- As MC, run forward out of the houses area and head forward to the Jekk'Jekk Tarr (run the same way you did as Mira), and go forward to the tunnels.
 
 - When in the tunnels as MC: Open the first door straight ahead, make a left (you are in the right room if you see mines), then run all the way straight to the exit.
 
@@ -896,7 +923,7 @@ Any other items as needed to get 2000 credits EXCEPT:
 
 1. `+ \` Manual Level Visas (do this for all levels she can get):
 	`>` Skills - Recommended
-	`>` Attributes - Strength
+	`>` Attributes - Recommended
 	`>` Feats - Stealth Run, Improved Two-Weapon Fighting
 	`>` Force Powers - Knight Speed, Force Valor
 	- *Auto Level Up if there are any more levels.*
@@ -904,11 +931,11 @@ Any other items as needed to get 2000 credits EXCEPT:
 4. Speak to the Utility Droid: 1
 5. Activate 1x Alacrity, then turn on Stealth (Default Hotkey: 'G').
 6. Follow the Blue line to the first Red X
-7. Activate Psuedo-Stim Set and Force Valor, open the door in front of you.
+7. Activate Psuedo-Stim Set and cast Knight Speed, open the door in front of you.
 8. Destroy the Maintenance Droid, followed by all 6 Turrets.
 9. Open the door to free MC
 10. Cast Knight Speed when in control of MC, run backwards to the console to get 'Access Code - Power Distribution': 1,3
-11. `\` Activate 1x Alacrity stim, activate Shield. Run Mira along the Orange line to #14.
+11. `+ \` Activate 1x Alacrity stim, activate Shield. Run Mira along the Orange line to #14.
 12. Once you bash the door to the Bridge, bash the Plasteel Cylinder in the right corner for 'Access Code - Droid Controller'.
 13. Access the Bridge Command Console at #15: 3,1,1,1,2,2,4,1,4,3,5
   - *Sometimes the previous selections don't work, in that case it will likely be: 3,1,1,1,2,2,5,1,4,3,5.*
@@ -974,9 +1001,16 @@ Any other items as needed to get 2000 credits EXCEPT:
   - `}` Equip enhanced lightsaber on mainhand + Freedon Nadd's saber offhand, Sith Gauntlets, Power Implant, Jal Shey Armor, and Targeting Visor to MC.
 
 - Swap to Shi'en form here, and make your way to the palace.
+  - *After the first Force Field, if you hug the wall to the right, you can skip the trigger that causes Captain Bostuco to interrupt. Image below.*
+
+![Sky Ramp, Captain Bostuco Trigger skip](/assets/images/kotor2/Sky%20Ramp%20Trigger%20avoid.png?raw=true) <br>
 
 - Inside the palace, run forward, then turn on solo mode after the door closes.
 - Run MC through the path to your right (facing away from the now closed door) to the second to last door where Kavar will greet you.
+  - *If you miss the first available Force Jump, where you land in a trigger of some info dialog, you can use the following image to walk around the trigger saving you ~1s.*
+
+![Palace Trigger skip](/assets/images/kotor2/Palace%20Trigger%20avoid.png?raw=true) <br>
+
 - Spam Kavar's dialog. Head through the now open door further to find Captain Kadron.
 - Talk to Kadron: 1,1,3
 
@@ -1081,55 +1115,81 @@ Any other items as needed to get 2000 credits EXCEPT:
 ### MC:
 <br>
 
-![Malachor MC section, route map 1](/assets/images/Malachor%20Surface%20MC.png) <br>
-![Malachor MC section, route map 2](/assets/images/Malachor%20Depths%20MC.png) <br>
+![Malachor MC section, route map 1](/assets/images/Malachor%20Surface%20MC.png?raw=true) <br>
+![Malachor MC section, route map 2](/assets/images/Malachor%20Depths%20MC.png?raw=true) <br>
 
 - In the second area, kill the 3 Storm Beasts near each other.
-- In the large area marked #5, use Force Enlightenment to kill the large Storm Beast.  It should die in 1-2 hits.
+  - *It is also recommended to head towards #3 on the map above to kill at least 1 of the Storm Beasts here, as it can help to not get Remote trapped later.*
+- In the large area, marked with a #5, cast Knight Speed at the gate and walk through the edge of the rock on the right to perform Greater Storm Beast skip. Image and Video below for extra help.
 
-- Head to the entrance to Traya Academy, then go through more cutscenes until the second fight with Hanharr.
+![Malachor Depths - GSB skip](/assets/images/kotor2/Malachor%20Depths%20Broken%20Collision%20-%20Skip%20Greater%20Storm%20Beast%20Trigger.png?raw=true) <br>
+![GSB Comparison, video showing where to walk to skip trigger](https://youtu.be/vcU_KIYGxMQ) <br>
+
+
+- Head to the entrance to Trayus Academy.
 
 ### Hanharr 2
 - Plant all 5 Deadly Mines and run Hanharr through them.  
 - He should die instantly, but if not then put on blasters just rapid fire him to death.  
 
 - Spam 1 after the fight.
+  - *Don't click your mouse once the screen starts to fade black.*
 
 ### Remote
 
   - *Be careful, as you generally only have 3 repair kits.*
 
-![Malachor Remote section, route map 1](/assets/images/Malachor%20Surface%20Remote.png) <br>
-![Malachor Remote section, route map 2](/assets/images/Malachor%20Depths%20Remote.png) <br>
+![Malachor Remote section, route map 1](/assets/images/Malachor%20Surface%20Remote.png?raw=true) <br>
+![Malachor Remote section, route map 2](/assets/images/Malachor%20Depths%20Remote.png?raw=true) <br>
 
 ### Trayus Academy
 - Afterwards, you'll be in the Trayus Academy as MC. Mouse spam dialog where applicable Follow the maps outlined below:
 
-![Trayus Academy route map 1](/assets/images/Trayus%20Academy%20Final.png) <br>
-![Trayus Academy route map 2](/assets/images/Trayus%20Crescent%20Final.png) <br>
+![Trayus Academy route map 1](/assets/images/Trayus%20Academy%20Final.png?raw=true) <br>
+![Trayus Academy route map 2](/assets/images/Trayus%20Crescent%20Final.png?raw=true) <br>
 
 
-- As you'll be running through a lot of enemies, make sure MC is healthy and heal as needed.
+- As you'll be running through a lot of enemies, make sure to heal when required.
 
 ### Sion
-- Before Sion, use your full hyper stim suite: 8
-- You'll need to bring him to 1 hp a total of 4 times (1 spam through his dialog).  Ignore any adds that come over.
+- Before Sion, use your full hyper stim suite.
+- Sion: 8
+- Cast Force Enlightenment before attacking.
+- You'll need to bring him to 1 hp a total of 4 times (1 spam through his dialog).  Ignore any additional enemies that may follow you from the previous room.
 
 - Once he's dead, head to the Trayus Core.
 
 ### Traya 
-- Force Enlightenment before proceeding
+- Force Enlightenment and Force Resistence before proceeding.
 
-Traya: 4,4
-- She has a small chance of using a bad force ability on you, but you should be able to tank it.  She should die within 3-5 hits.
+Traya Phase 1: 4,4
 
-- Second Phase: 4,4 (prepare to IMMEDIATELY OPEN your menu after this)
-- All your buffs are taken off, re-psuedo stim up (Use the other hyper strength stim), heal up
-- Cast Force Enlightenment again and hit her.  Heal up as needed, as the floating lightsabers hurt.
+- Second Phase: 4,4 (prepare to IMMEDIATELY open your menu after this)
+- All your buffs are taken off, re-Psuedo Stim up, making sure to use any leftover Hyper Stims, heal with Medpacs if necessary.
+- Cast Knight Speed again and hit her.  Heal up as needed, as the floating lightsabers hurt.
 
 - Time ends on the last hit on Traya, GG!
 
 ## Version History
+
+### v3.1 (May 2025)
+- Updated Levelling Plan - Force Resistence at Level 8.
+- Updated Levelling Plan - Battle Meditation at Level 11.
+- Updated Levelling Plan - Added Level Notes regarding Level 12.
+- Added skippable trigger on Telos Station when heading to Exchange. (Thanks to Glasnonck's Walkmesh Visualiser, saves ~1s)
+- Added Image embed for Trigger skip on Telos Station.
+- Added a note to Dantooine Detailed Route - Trigger avoidance for spawning Gerevick in the Enclave Sublevel.
+- Added Image embed for context on Gerevick trigger skip.
+- Updated Sith Ambush notes.
+- Added files for Sith Ambush Practice (Made by Lane)
+- Added Image embed of trigger locations for Sith Ambush.
+- Added skippable trigger on Sky Ramp after 1st Force Field. (Thanks to Glasnonck's Walkmesh Visualiser, saves ~1s)
+- Added Image embed for Sky Ramp trigger skip.
+- Added skippable trigger in Palace, although it is circumstantial. (Thanks to Glasnonck's Walkmesh Visualiser, saves ~1s)
+- Added Image embed for Palace trigger skip.
+- Added Greater Storm Beast skip! One final skippable trigger, in Malachor Depths. (Thanks to Glasnonck's Walkmesh Visualiser, saves ~22s)
+- Added Image and Video embed for Greater Storm Beast skip.
+- Updated Sion and Traya fight sequences.
 
 ### v3.0 (October 2024)
 - Added Dialog with HK-50 on Peragus to give us 2 LS Alignment Points.
@@ -1144,7 +1204,6 @@ Traya: 4,4
 - Updated dialog with T3-M4 to get Computer Spikes before the start of Dantooine.
 - Added Equipment change before exiting Ebon Hawk to Dantooine.
 - Updated Dialog with Dillan on Dantooine.
-- Updated Dialog with Kreia and Atton at the start of Dxun.
 - Updated Equips section after Red Eclipse on Nar Shaddaa.
 - Removed speaking with Geriel on Nar Shaddaa.
 
@@ -1155,7 +1214,7 @@ Traya: 4,4
 - Removed looting Museum in Onderon Palace.
 - We now get Pontite Crystal and Ossus Keeper Robes as a reward from Queen Talia.
 - Change of dialog with Geriel on Nar Shaddaa. (saves ~5s, +4 Alignment Shift over +1)
-- Change of dialog with some thugs on Nar Shaddaa, found by the_kovic (saves ~40s).
+- Change of dialog with some thugs on Nar Shaddaa. (found by the_kovic, saves ~40s)
 - Updated Dialog with Visas on Nar Shaddaa.
 - Updated Dialog with Zuka on Dxun.
 - Memory Reset moved to after fighting Visas, new players still recommended to reset before starting Dxun.
