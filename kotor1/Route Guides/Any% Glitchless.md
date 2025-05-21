@@ -752,7 +752,7 @@ SHOPPING: Selkath Merchant
 - BUY:
   - 1x Hyper Battle Stimulant
   - 2x Hyper-Adrenal Strength
-  - If you have Affect Mind, buy a third Hyper-Adrenal Strength
+  - 2x Adrenal Alacrity
 - End: ~12 Credits
 ```
 
