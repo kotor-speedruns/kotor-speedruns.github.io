@@ -368,54 +368,54 @@ SHOPPING TRIP: Larrim
 - Run towards statue at the end of the walkway
 - ***Conditional** - If you didn't get Alacrity from Spire:*
   - Activate Solo Mode
-  - As MC, click on Medical Clinic door
-  - Swap to Carth and click on Upper City North door
-  - Swap to MC and talk to Zelka: 5
+  - As MC, click on Upper City North door
+  - Swap to Carth and open the Medical Clinic door
+  - Run next to Zelka as Carth, then pause, talk to him, swap to MC, and unpause
+    - This lets MC talk to Zelka without swapping positions with Carth
+    - Zelka's conversation: 5  
     - `Buy: 3x Adrenal Alacrity (End: 498 Credits)`
-  - *Stims: Use one of each stim on MC, Alacrity on Carth*
-  - Run MC close enough to Carth, then swap and enter Upper City North
+  - *Stims: Use Alacrity, Strength, and Stamina on MC*
+  - *Stims: Use Alacrity on Carth*
+  - Run Carth close enough to MC and Deactivate Solo Mode
     - You need to be about two floor tiles from the fountain
+  - Swap to MC and enter Upper City North
+    - By entering UCN as MC with Solo Mode off, Carth will always follow MC through UCN 
 - *Otherwise, if you've already used all four stims and can [skip Zelka](#skipping-zelka):*
     - Run straight from South Apartments to Upper City North and enter
     - *Skipping Zelka saves 10-11s, but only if you already used an Alacrity from Spire*
-- ***Conditional** - If you shopped with Zelka:*
-  - *Party: Remove Carth* after entering Upper City North
 - Run straight across to enter North Apartments
-- Run left until Sith soldiers accost you (+2 LSP; 52 total)
+- Activate Solo Mode
+- As MC, click on the Maintenance Droid to move forward
+- Swap to Carth and open the exit door
+- Swap to MC and run forward until Sith soldiers accost you (+2 LSP; 52 total)
 - Fight with Sith Soldiers
-  - **Strat 1: Frag Grenade**
-    - This should be used only if MC is alone
     - Attack the soldier outside the apartment with a Critical Strike
+      - It's slightly faster if the soldier dies to this (due to faster looting), but it doesn't really matter
     - Wait for the other two soldiers to exit the apartment, then throw a Frag grenade to kill them all
     - You want to avoid entering the apartment to skip the post-fight conversation with the Sullustan
-    - Using a Frag Grenade on this fight means you only have 2 for Brejik and 1 for Calo unless you get random drops or buy 3 or more from Igear
-  - **Strat 2: Carth**
-    - This should be used if Carth is already in your party or you want to preserve Frag Grenades
-    - Attack the soldier outside the apartment with a Critical Strike
-    - Swap to Carth and run to the center of the doorway, then queue Power Blasts on all living enemies
-    - Swap to MC and keep them outside the apartment while Carth finishes the fight
 - Loot all three corpses for Sith Uniform, grenades, and stims
 - ***Conditional** - If Carth doesn't have Alacrity on:*
   - *Stims: Use Alacrity on Carth*
   - At this point, MC should have all three (or four) stims active and Carth should have Alacrity
   - All stims should be [Duration Glitched](<../Techniques/Glitchless Tricks#duration-glitch>) until the end of Taris unless a character dies
-- *Party: Remove Carth* if he isn't already removed
-- Exit the apartments
+- Run MC back to the blue stripe just past the Maintenance Droid
 - *Equip MC: Sith Armor*
-- Drunks flee from the scary Sith
-- Sith Sentry talks to you
+- Swap to Carth and exit the apartments
+- As Carth, run down the street to the right until the drunks accost you and flee from the scary Sith
+  - This warps MC to the drunks and automatically swaps party lead to MC
+- As MC, hug the corner to the right until just before the archway
+  - This avoids a trigger that has Carth try to talk to you
 - Enter the Lower City
 
 ### Lower City
 
-- *Party: Add Carth*
 - *Equip MC: Combat Suit*
 - `Level to 3: Save Skills (granted Sneak Attack II)`
 - After CS, defeat the Vulkar patrol with MC
   - Queue Critical Strike on each enemy
   - Flurry can be used instead but it's more inconsistent; the chance to hit is just 40% mainhand and 30% offhand
 - Swap to Carth and run towards Bek Base while MC battles the Vulkars
-- Hug the right wall starting from Javyar's cantina until you reach the Bek Base
+- Hug the right wall starting from Javyar's Cantina until you reach the Bek Base
   - This skips a trigger that spawns Vulkar enemies further down the hallway
 - Click on Bek Base door with Carth and lookout accosts you
   - This warps MC to the Bek Base
@@ -425,14 +425,18 @@ SHOPPING TRIP: Larrim
 - Swap to MC and talk to Gadon Thek: 1x10,3,2
   - Spam through Zaerdra's interruption before
 - Run MC close enough to Carth, then swap and exit to Lower City
-- *Party: Remove Carth*
-- Watch Canderous cutscene
-- Hug the right wall after the doorway until the end of the panel with lights on it
-  - This skips another Vulkar spawn in the hallway ahead on the left
-- Enter the Undercity (spam through Sith soldier's interruption)
+- As Carth, run down the hall to the right and watch Canderous cutscene
+- Still as Carth, hug the right wall after the doorway until the end of the panel with lights on it
+  - This attempts to skip another Vulkar spawn in the hallway ahead on the left
+  - Sometimes the MC will clip this trigger; if the Vulkars spawn, just run past them
+- As Carth, hug the right wall from just before the swoop bike on the left until just before the turrets
+  - This skips a trigger that has Carth try to talk to you
+- Run forward until Sith soldier accosts you
+  - This warps MC to the soldier and swaps party lead to the MC
+- Enter the Undercity
 
 ### Undercity
-- Beggars accost you: 3 ... 1,4
+- Beggars accost you: 5 ... 1,4
 - Run towards the middle of the ramp on the left until Igear accosts you: 3 (+2; 8 Spikes)
 
 ```
@@ -447,10 +451,6 @@ SHOPPING TRIP: Igear
 
 
 - Run forward to watch Hendar run
-- Take one step forward and **immediately** *Party: Add Carth*
-  - The CS is shorter with no party members
-  - Taking a step forward first prevents Carth from spawning on the wrong side of the gate
-  - If you can't get this consistently, you can add Carth before the Hendar CS at the cost of 1 second
 - Kill the rakghoul
   - MC should let the rakghoul run past them, then turn and use Critical Strike from behind for Sneak Attacks
   - Flurry can be used instead; it has higher damage potential but higher variability, so Critical Strike is more consistent
@@ -464,15 +464,11 @@ SHOPPING TRIP: Igear
 ### Sewers
 
 - Open the first door, then activate Solo Mode
-- As MC, run forward towards Rakghoul group, then throw a Frag Grenade to hit as many as possible
-  - The Rakghoul Fiend will always survive and has a 40% chance to save against the grenade
-  - The normal Rakghouls will die to the frag unless they hit their 40% chance to save
-- Swap to Carth and go through right hand door, then run up ramp and click door on right
-- Swap to MC and click left door to force field
-  - If the rakghouls are not dead yet, try to finish them off quickly
-- Swap to Carth and click on Zaalbar's cell door
+- As MC, run past the Rakghoul group and click the door behind them
+  - We used to throw a Frag Grenade here, but we need to conserve them for later fights
+- Swap to Carth and go through right hand door, then run up ramp and click door on right, then click on Zaalbar's cell door
 - *Party: No change when prompted*
-- Use terminal to have Mission deactivate force field
+- As MC, use terminal to have Mission deactivate force field
 - Enter the Upper Sewers
 - *Party: Remove Mission*
   - ***Optional:** Return to Hideout, then Transit Back to heal fully while removing Mission*
@@ -1364,9 +1360,9 @@ SHOPPING: Czerka Shop
 - New credit route on Taris to afford two additional Computer Spikes
 - New grenade route and strats for Brejik and Calo on Taris
 - New hacking in the Taris Sith Base to skip electrocuting the barracks
+- New Vulkar Spawn skips in Lower City
 - New XP route through Manaan and Tatooine to reach level 9 for Bandon
 - Slightly modified stim route and shopping on Manaan
-- New Vulkar Spawn skips in Lower City
 - New Leviathan Bridge strats, including the Saul Karath fight
 - New Leviathan escape trick
 - Small timesave in the Jedi Enclave with T3
