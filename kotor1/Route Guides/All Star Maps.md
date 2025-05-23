@@ -493,6 +493,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to the Ebon Hawk using Slot 2
   - Slot 2 is now a Valley of the Dark Lords save
 - Fly to Kashyyyk with a [Map CS Skip](<../Techniques/Map Cutscene Skips>)
+  - *Party: Add Bastila during this [Map CS Skip](<../Techniques/Map Cutscene Skips>)*
 
 ### Kashyyyk
 
@@ -647,6 +648,7 @@ Conversation Note: If no conversation choices are specified, spamming clicks, Nu
   - As long as Jolee spawned near the Force Field, you don't need to move him for this warp
 - As Jolee, trigger the CS in front of the Eastern Dune Sea load zone to warp MC there
 - **Hard Save in Slot 2**
+  - Slot 2 is now a [Fast Lane](<../Major Glitch/Fast Lane>) save
 - As MC, [Save Teleport](<../Techniques/Save Teleporting>) to skip the previous CS trigger and enter the Eastern Dune Sea
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS
 - [Save Teleport](<../Techniques/Save Teleporting>) to mouth of Krayt Dragon Cave
