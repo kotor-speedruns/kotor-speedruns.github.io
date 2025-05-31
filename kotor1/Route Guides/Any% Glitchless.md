@@ -365,6 +365,9 @@ SHOPPING TRIP: Larrim
 - ***Conditional** - If you already have Adrenal Alacrity active:*
   - *Stims: Use Strength, Stamina, and Battle Stimulant on MC*
 - Exit to Upper City South
+
+- [Example of Strats from here to Lower City](https://www.youtube.com/watch?v=PPqM4otOzcM)
+
 - Run towards statue at the end of the walkway
 - ***Conditional** - If you didn't get Alacrity from Spire:*
   - Activate Solo Mode
@@ -394,12 +397,12 @@ SHOPPING TRIP: Larrim
     - Wait for the other two soldiers to exit the apartment, then throw a Frag grenade to kill them all
     - You want to avoid entering the apartment to skip the post-fight conversation with the Sullustan
 - Loot all three corpses for Sith Uniform, grenades, and stims
+- Run MC back to the blue stripe just past the Maintenance Droid
+- *Equip MC: Sith Armor*
 - ***Conditional** - If Carth doesn't have Alacrity on:*
   - *Stims: Use Alacrity on Carth*
   - At this point, MC should have all three (or four) stims active and Carth should have Alacrity
   - All stims should be [Duration Glitched](<../Techniques/Glitchless Tricks#duration-glitch>) until the end of Taris unless a character dies
-- Run MC back to the blue stripe just past the Maintenance Droid
-- *Equip MC: Sith Armor*
 - Swap to Carth and exit the apartments
 - As Carth, run down the street to the right until the drunks accost you and flee from the scary Sith
   - This warps MC to the drunks and automatically swaps party lead to MC
@@ -426,7 +429,7 @@ SHOPPING TRIP: Larrim
   - Spam through Zaerdra's interruption before
 - Run MC close enough to Carth, then swap and exit to Lower City
 - As Carth, run down the hall to the right and watch Canderous cutscene
-- Still as Carth, hug the right wall after the doorway until the end of the panel with lights on it
+- Still as Carth, [hug the right wall](https://www.youtube.com/watch?v=qYGaS6qxaK8) after the doorway until the end of the panel with lights on it
   - This attempts to skip another Vulkar spawn in the hallway ahead on the left
   - Sometimes the MC will clip this trigger; if the Vulkars spawn, just run past them
 - As Carth, hug the right wall from just before the swoop bike on the left until just before the turrets
@@ -464,7 +467,7 @@ SHOPPING TRIP: Igear
 ### Sewers
 
 - Open the first door, then activate Solo Mode
-- As MC, run past the Rakghoul group and click the door behind them
+- As MC, [run past the Rakghoul group](https://www.youtube.com/watch?v=6ymbzV5iDfw) and click the door behind them
   - We used to throw a Frag Grenade here, but we need to conserve them for later fights
 - Swap to Carth and go through right hand door, then run up ramp and click door on right, then click on Zaalbar's cell door
 - *Party: No change when prompted*
@@ -674,7 +677,8 @@ SHOPPING TRIP: Igear
   - You're not strong enough to one-shot the kath hounds so don't worry about Force Jump Chains
 - Run through Matale Grounds to Grove
 - *Stims: Adrenal Strength on MC*
-- Juhani fight:
+- Juhani Fight:
+  - [See an example](https://www.youtube.com/watch?v=3wLzw0gPZBM):
   - Round 1:
     - If you took Stun early, use Stun on Juhani (25% chance to Stun)
     - If not, use an action cancel and Critical Strike Juhani (17.5% chance to Stun)
@@ -767,7 +771,7 @@ SHOPPING: Selkath Merchant
 - When in the hallway again, *Party: Remove T3*
 - Open docking bay at far end of hall
 - Selkath announcement interrupts you
-- *Force/Stims: Cast Burst of Speed and Force Valor, use Alacrity*
+- *Force/Stims: Cast Burst of Speed and Force Valor, use Alacrity and Hyper-Strength*
 - *Shield: Use Echani Shield if you equipped it*
 - Use shuttle to travel to Sith Base
 
@@ -778,53 +782,58 @@ SHOPPING: Selkath Merchant
 - Ignore them, take right door, left door, left door
 - Loot droid for Data Module
   - There is a small chance you could be stunned here; if so, just use medpacs and/or your Echani Shield to tank the damage
+  - You have one extra use of your Echani Shield to use wherever; use it here if you have to!
 - Return to security, Force Jump to secretary, and exit the base
   - ***Optional:** Use Flurry to kill a War Droid before leaving*
     - This removes any reliance on random Sand People kills with Force Jump to reach level 9 on Korriban
 - Get arrested and first trial: 1 ... 1,1,1,1,1,3,1 ... 1,1,1
 - Run through West Central to East Central
 - Talk to Roland Wann
-- *Party: Add Juhani and Zaalbar*
-- *Force: Cast Force Valor* just before you...
 - Take submersible underwater
 
 ### Hrakert Rift
 
 - Mercenary accosts you
 - Loot equipment pack in first hallway for credits and a Thermal Detonator
-- Take first two right turns, then go straight through several doors
-  - Damage the first patrol droid with a Force Jump
-  - Juhani and Zaalbar should finish off that one and hopefully kill the second before you reach the airlock
+- Take first door on the right
+- Damage the first two patrol droids with a Force Jump
+  - We don't want to kill them yet, as we'd like to Force Jump back to them when we return
+- Take the door next to the second patrol droid, then go straight through several doors
 - Get Environment Suit from floor
 - Loot footlocker in next room for Sonic Emitter
 - Use the airlock to exit to the underwater section
-- `Auto-Level to 7` to trigger [Auto-Level Attributes](<../Techniques/Glitchless Tricks#auto-level-attributes>)
+- Check your remaining XP by hovering over your character portrait
+  - If it's 1050 XP, you'll want to kill an extra Firaxan Shark (see below)
+  - If it's 600 XP or less, you'll need Valor to pass the Scientist Persuade check (see below)
 - Survivor accosts you and then doesn't survive
 - Underwater walk (use Emitter to kill Firaxan sharks)
   - ***When using the Emitter to kill Firaxan sharks, it is faster to go into the inventory menu, use the Sonic Emitter there, and exit the menu; this skips the animation of the Sonic Emitter***
+  - If you need to kill an extra shark, walk near the glass on the left when you kill the second shark to also kill the shark behind the glass at the same time
 - Reenter station through lefthand door
 - *Force: Cast Burst of Speed*
 - Loot footlocker ahead for Computer Spikes (+4; 4 Spikes)
-- *Force: Cast Force Valor*
-  - This is required to guarantee passing the following Persuade check (50% chance without)
+- ***Conditional:** Force: Cast Force Valor* only if you're already Level 7
+  - This is required to guarantee passing the following Persuade check *only* if you're Level 7 (50% chance without)
+  - If you're still level 6, you automatically pass the Persuade check without needing Valor
 - Convince scientists to lower force field:
   - Click force field to speak with scientists
   - Immediately use the force field again to Persuade them to lower it
     - It helps to mash default action during the first conversation
 - Loot footlocker in corner of next room for more Computer Spikes (+2; 6 Spikes)
 - Exit to underwater section
+- Kill the last two Firaxan Sharks
+- `Auto-Level to 7` to trigger [Auto-Level Attributes](<../Techniques/Glitchless Tricks#auto-level-attributes>)
 - Hack kolto control: 1,2,4,2,5,4,5,2,5
 - Star Map: Manaan
 - Reenter station through righthand door
-- Run/Force Jump to submersible
-  - Try to ensure the last patrol droid is killed by using Flurry on it once as you pass by
-  - Juhani and Zaalbar should be able to finish it off before you reach the door
-- Mash Calo's conversation and Force Jump past him
+- Force Jump to first droid
+- Look down the hallway to see what droids are still in the hall
+  - You need to kill at least one patrol droid on the way out; two is preferable, making it easier to hit level 9 at the right time
+  - If the middle droid is gone, you can Flurry the droid you just jumped to and kill the furthest droid to hit two kills, or just kill the furthest to accept one kill
+  - If the middle droid is present, you should not kill the droid you jumped to and instead try to Force Jump chain the last two droids to kill them
+- Open the door, mash Calo's conversation and Force Jump past him
 - Return to surface in submersible
 - Roland Wann accosts you
-- `Level to 8: STR to 21, Persuade to 11, TI to 10, Disable Droid`
-  - If you don't have level 8 available you may not reach level 9 on time
-  - If you're short, try to ensure you kill some random Sand People with Force Jumps on Tatooine
 - Leave Embassy to get arrested: 2
 - Get banned during the trial:
   - *With Affect Mind:* spam 1; this tries to Force Persuade the judges, getting you banned from Manaan
@@ -896,6 +905,7 @@ SHOPPING: Mic'Tunan'Jus Orgu
   - *Force: Cast Force Valor*
   - *Shield: Use Echani Shield if you equipped it*
   - *Medpacs: Heal to full using Advanced Medpac(s)*
+- `Level to 8: STR to 21, Persuade to 11, TI to 10, Disable Droid`
 - Enter the Sand People Enclave
 - Run/Force Jump to the Chieftain
   - You can pick up at least one extra kill here if you're short on XP
