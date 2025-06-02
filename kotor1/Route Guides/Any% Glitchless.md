@@ -4,7 +4,7 @@ redirect_from:
 ---
 # Star Wars: Knights of the Old Republic - Any% Glitchless Guide
 
-### v7.0: Male/Female Scoundrel -> Jedi Guardian Route (Light Side)
+### v7.1: Male/Female Scoundrel -> Jedi Guardian Route (Light Side)
 
 This route defeats Malak on the Star Forge as fast as possible without the use of glitches.  Timing begins upon clicking "PLAY" after character creation and ends when the screen cuts to black at the start of the Malak Death cutscene. A load-removal tool and auto-splitter is available for LiveSplit thanks to [Lane](https://www.speedrun.com/users/Lane), [glasnonck](https://www.speedrun.com/users/glasnonck) and [XeroHR](https://www.speedrun.com/users/XeroHR). Times are sorted based on load-removed times, since load times vary significantly in this game, and load screens are frequent. This guide will cover the character build for the run, as well as a detailed route.
 
