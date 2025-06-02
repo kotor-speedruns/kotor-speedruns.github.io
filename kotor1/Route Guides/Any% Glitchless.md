@@ -1025,7 +1025,7 @@ SHOPPING: Czerka Shop
   - *Shield: Use Echani Shield on MC if you have it, use T3's droid shield*
 - Once everything is ready, exit to the Valley
 - Darth Bandon accosts you
-- Darth Bandon fight:
+- [Darth Bandon fight](https://www.youtube.com/watch?v=TX9tqc2vEj8):
   - Pause immediately after the cutscene to setup the fight
   - As MC: Force Jump to thug to left of Bandon, then Flurry x3 on Bandon
   - As T3: Shield Disruptor x4 on Bandon
@@ -1109,51 +1109,67 @@ SHOPPING: Czerka Shop
 - Take first left, then quickly bash down armory door
   - If you're too slow, the nearby Sith guard will aggro Carth and Bastila
 - Get the Space Suits from the floor
-- ***Optional:*** Loot the plasteel cylinder for thermal detonators
-- Exit the way through the opposite door of the armory and take the door on the left
+- Loot the back right plasteel cylinder for thermal detonators
+- Exit through the opposite door of the armory and take the door on the left
 - Make a Hard Save before opening the door across the hall
 - Run through next room, bash down door, and enter bridge storage
   - If you get stunned or your party wanders off, load the safety save and retry
 - Spacewalk to opposite side
 - *Equip the party:*
   - *MC: Double-bladed Lightsaber*
-  - *Carth: Carth's Blaster Mainhand, Heavy Blaster Offhand, Nerve Amplifier Belt (if you have it)*
+  - *Carth: Any two blaster pistols, Nerve Amplifier Belt (if you have it)*
   - *Bastila: Chieftain's Gaderffi* 
-- *Force: Cast Knight Speed*
-- ***Optional:*** Kill the five Sith Soldiers in the first room
-  - This safe strat makes leaving the Saul Karath fight more consistent, but wastes 20-30 seconds.
-  - You can use Solo Mode to run Bastila to the bridge door while MC and Carth clear out the soldiers, but wait until they're out of combat or you'll mess up the cutscene
-- Enter the bridge
-- Saul Karath fight:
+- *Force: Cast Knight Speed, Cast Burst of Speed on Bastila*
+- Swap to MC and open the door
+  - See [this example](https://www.youtube.com/watch?v=4SasBErV5a4) for the next section
+- Queue Flurries on the left Sith Soldiers and swap to Bastila
+- Open the bridge door as Bastila
+- [Saul Karath fight](https://youtu.be/FNFOqRyC28Y):
   - Pause to setup the fight
-  - *Stims: Hyper-Stim Suite with Echani on MC*
-  - *Shield: Use Echani Shield if you re-equipped it*
-  - *Force: Bastila casts Force Valor*
-  - As MC, queue a Force Jump to a Dark Jedi
-  - If you looted the Thermals in the armory, have Carth and Bastila use them on the opposite side's Dark Jedi/soldiers
-  - Have MC take out the Dark Jedi and Saul first, while Carth/Bastila concentrate on the soldiers behind them
-  - Keep a close eye on MC's health here, and use medpacs as necessary; you can let Carth/Bastila die
-  - Recast Knight Speed when it wears off (you'll be getting only three attacks per round instead of four)
-  - Clean up the Sith Soldiers once Saul falls
+  - For MC, *Stims: Hyper-Stim Suite with Echani Battle Stim, plus Echani Shield if you equipped it; Medpac to full health*
+  - For Carth, *Stims: Hyper-Adrenal Alacrity; Medpac to full health*
+  - For Bastila, *Medpac to full health*
+  - As Bastila:
+    - Thermal Detonator on the Dark Jedi to the right of Saul
+    - Two Stuns on the Sith Soldier behind Carth (next target twice)
+    - Stun on the Sith Soldier behind Bastila (next target once)
+  - Swap to MC:
+    - Force Jump and Flurry x2 on Dark Jedi to the left of Saul
+  - Swap to Carth:
+    - Thermal Detonator on the Dark Jedi to the right of Saul
+  - Unpause
+  - As Carth, cancel combat, run next to the soldier behind Carth, and queue up 4x Power Blast
+  - Swap to Bastila and queue Flurries on the soldier behind her
+  - Swap to MC
+    - Kill any nearby enemy, then recast Knight Speed
+    - Eliminate Saul, the remaining Dark Jedi, and the Soldier nearest the computer console
+      - Use the console while killing the Sith Soldier nearby: 1,2
+    - Kill the Sith Soldier across from the console, then cleanup the remaining soldiers at the door
+    - It's fine if Bastila and/or Carth die, they're healed to full at the end of the fight
+    - Keep a close eye on MC's health here, and use medpacs as necessary
 - Saul Karath dies (+2 LSP; 46)
-- Hack bridge terminal: 1,2
-  - This can be done during the fight as well
-- *Stims: Hyper Alacrity on Carth*
+- *Force: Cast Knight Speed*
 - Run through room and return to the Command Deck
-  - If you killed the first five Sith Soldiers, kill the Sith Grenadiers as you go so Carth and Bastila stay with you
-  - If you skipped the Sith Soldiers, use Solo Mode to maneuver everyone close enough to the exit to leave
-  - Using a Hyper Alacrity on Carth is recommended but not strictly required
-  - If Carth or Bastila die too far from the door, you'll have to kill all the Sith soldiers to leave
+  - Kill the Sith Grenadiers that run up the ramp towards you
+  - Either kill the remaining Sith Soldiers in the room ahead or try to run your entire party to the far side of the room
+  - Make sure both MC and Bastila have Force Speed active before you leave to the Command Deck
+
+### Escape
+
+- See [this example](https://www.youtube.com/watch?v=2Z1obG-SDJQ) for the return trip through the Command Deck
 - *Medpacs: Heal everyone back on the Command Deck*
-  - Again, you might want to manually save/load when reaching the main area to help Carth and Bastila stay with you
-- Take left path and loop around outside back to elevator
-  - You'll encounter 2-3 Sith Soldiers, 2 Dark Jedi, and 3-4 Sith Grenadiers
-  - Kill every last one of them and do your best to keep Carth and Bastila with you
-- Take the elevator to the Hangar: 3
-
-### Hangar
-
-- Activate Solo Mode
+- Swap to MC and kill the closest Sith soldier, then queue attack on the two Dark Jedi at the end of the hall to the left
+- Swap to Bastila and run around the corner and up the hallway
+- Activate Solo Mode just before the hallway on the right
+- As Bastila, attack the first Sith Grenadier that charges you
+- Swap to MC and try to Force Jump to the second Grenadier
+- As MC, continue around the corner, ignoring any additional Grenadiers, and queue attacks on the soldiers outside the elevator
+- Swap to Bastila and run into the elevator
+  - MC should finish the two soldiers outside by then; make sure they die if not
+- Swap to MC and click the elevator controls, then swap to Carth
+- As Carth, take the elevator to the Hangar: 3
+  - Since Carth is using the elevator controls, the game assumes he is in the elevator even though he isn't
+- Activate Solo Mode and swap to MC
 - Run/Force Jump straight through to the Darth Malak CS
 - Darth Malak accosts you
 - *Force: Cast Valor during the fadeout*
@@ -1162,7 +1178,7 @@ SHOPPING: Czerka Shop
 - Darth Malak fight, phase one
   - Try to run slightly past him on the right before using Flurry, to get Sneak Attack damage
   - If your stims from the Saul Karath fight wore off, *Stims: Hyper Battle Stimulant on MC*
-- After he runs, *Stims/Force: Cast Knight Speed and Knight Valor, Hyper Battle Stim on MC (only if you didn't use one for phase one)*
+- After he runs, *Stims/Force: Cast Knight Speed and Knight Valor, Echani Battle Stim on MC*
 - Loop through righthand Blast Doors
 - Darth Malak fight, phase two
   - Again, try to run slightly past him on the right before using Flurry, to get Sneak Attack damage
@@ -1207,6 +1223,7 @@ SHOPPING: Czerka Shop
 
 ### Upper Shadowlands
 
+- See [this example](https://www.youtube.com/watch?v=80_MSdjZuWM) for the Upper Shadowlands strats
 - Activate Solo Mode
 - Run/Force Jump forward until Jolee's intro cutscene
 - Take left path and speak with Czerka captain: 1,1,1,1,2
@@ -1265,7 +1282,7 @@ SHOPPING: Czerka Shop
   - The safe strat is to kill these Warriors, but this wastes about 15 seconds
   - If you do kill them, the Duros conversation is 1,1,1,2
 - Run/Force Jump towards North Beach
-- Before entering North Beach, *Force/Stims: Cast Valor, Hyper-Stim Suite with Echani on MC*
+- Before entering North Beach, *Force/Stims: Cast Valor, Hyper Stamina, Hyper Strength, and Echani Battle Stim (do **not** use Alacrity) on MC*
   - Using these stims here seems to ease the issues with skipping the first Rakatan Warriors
 - In North Beach, Rakatan Warriors accost you
 - Speak with The One: 1,1,1,1,1,1,4
@@ -1273,6 +1290,7 @@ SHOPPING: Czerka Shop
   - If you run carefully, you can avoid getting into combat and talk to him immediately
   - If someone takes a swing at you, make a big loop around the arena until you're out of combat (your lightsaber will deactivate), then talk to him
 - Loot Ship Parts from opposite cell
+  - If you get into combat before the Elder Warrior, you can do this while waiting to get back out of combat
 - Run/Force Jump out of Rakatan Compound
   - This is a haven for Force Jump Chains, so try to get as many as you can
 - Run/Force Jump through Central Beach and Temple Exterior to South Beach
