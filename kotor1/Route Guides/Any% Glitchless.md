@@ -851,8 +851,7 @@ SHOPPING: Selkath Merchant
   - *Force: Cast Burst of Speed*
   - *Party: No change when prompted*
 - Czerka Officer accosts you: 1,1,5
-- Speak to Mic'Tunan'Jus Orgu
-  - See [Skipping Zelka](#skipping-zelka) for details on a slightly different shopping trip
+- Talk to Mic'Tunan'Jus Orgu
 
 ```
 SHOPPING: Mic'Tunan'Jus Orgu
@@ -864,8 +863,7 @@ SHOPPING: Mic'Tunan'Jus Orgu
 - BUY:
   - 4x Life Support Pack
   - 1x Nerve Amplifier Belt
-  - 1x Adrenal Alacrity (if you didn't skip Zelka)
-  - 1x Adrenal Stamina (if you didn't skip Zelka)
+  - 1x Adrenal Stamina
   - 1x Bantha Fodder
 - End: ~4365 Credits
 ```
@@ -880,8 +878,9 @@ SHOPPING: Mic'Tunan'Jus Orgu
 - Enter Czerka Office
 - Mash the awkward Duros/Czerka scene
 - Talk to the Czerka Officer: 1,1,1,3,2
-- *Stims: Use one of each stim, strongest version you have*
+- *Stims: Use all four stims.*
   - Using these here gives you higher saves against the Dark Jedi in Anchorhead
+  - These should be the last stims you have
 - Exit the office
 - Duros miner accosts you again: 3,3,3
 - Dark Jedi ambush you; ignore them
@@ -890,33 +889,39 @@ SHOPPING: Mic'Tunan'Jus Orgu
 
 ### Dune Sea
 
+*Throughout this segment, you want to kill as many Sand People as possible to reach level 9 before Darth Bandon.  See [this example](https://youtu.be/jC8JZfcDZHY) for common kills that waste little to no time.*
+
 - Angry wife accosts you
-- Run to right side of Sandcrawler
-  - Stay close to the right side or you'll trigger a Sand People ambush
+- Run to right side of Sandcrawler and around it
+  - Stay close to the sandcrawler or you'll trigger a Sand People ambush
 - Force Jump to front center Sand People Warrior near entrance to Sand People Territory
   - Thanks to Sneak Attack, this should be a one-shot kill
 - Loot him to get Sand People Outfit
-- Enter Sand People Territory 
-- *Equip MC: Sand People Outfit*
-- Run to Sand People Enclave
-  - Running diagonally to the left for a little bit at the start avoids a Sand People ambush; if you trigger it, just ignore it
+  - While waiting for the corpse to be lootable, try to one shot any Sand People Warriors that charge you with Flurry
+- Enter Sand People Territory
+- Run in a specific pattern to avoid Sand People Ambushes
+  - See the video linked above
+  - Try to run directly left and up for 13-16 steps, then straight forward for 20 steps, then you can adjust towards the closest Tusken Raider
+- *Equip MC: Sand People Outfit* right before...
+- Force Jump to two Sand People Warriors
+  - The game won't register the Outfit right away, so you'll have time to jump to at least one and preferably two Sand People
 - As the enclave door is opening:
   - *Equip MC: Jedi Knight Robe*
-  - *Force: Cast Force Valor*
   - *Shield: Use Echani Shield if you equipped it*
   - *Medpacs: Heal to full using Advanced Medpac(s)*
 - `Level to 8: STR to 21, Persuade to 11, TI to 10, Disable Droid`
 - Enter the Sand People Enclave
 - Run/Force Jump to the Chieftain
-  - You can pick up at least one extra kill here if you're short on XP
+  - You can pick up at least one extra kill here with Force Jump
 - Kill the Chieftain and loot his corpse for Eastern Dune Sea Map
   - You can use Critical Strike to try to Stun him, but his AC is low enough that Flurry is usually fine on its own
   - This is usually three rounds, but could be two or four with unusually good/bad luck
   - Watch your health in this section, as it can drain very fast; use any medpacs needed
+  - You can again try to kill additional Sand People with Flurry while waiting to loot the Chieftain
 - Run/Force Jump to Enclave Exit
-  - You can pick up another extra kill here if you're short on XP
+  - You can pick up another extra kill here with Force Jump
 - Run/Force Jump towards Eastern Dune Sea
-  - This is a possible spot for a Force Jump Chain and you can usually pick up 1-2 extra kills if needed
+  - This is a possible spot for a Force Jump Chain and you can usually pick up 2 extra kills this way
 - At Eastern Dune Sea entrance:
   - *Party: Add Bastila and Juhani*
   - *Force: Cast Burst of Speed and Force Valor*
@@ -944,7 +949,8 @@ SHOPPING: Mic'Tunan'Jus Orgu
     - Stun on middle warrior
     - Stun on rightmost warrior
     - Force Jump to rightmost warrior
-  - Swap to MC and unpause
+  - Swap to MC and Force Jump to center warrior
+  - Unpause; MC will Jump but be blocked by Bastila; this still deals damage
   - As MC:
     - Run to Flurry the middle warrior until dead
     - Force Jump to rightmost warrior and Flurry until dead
@@ -1024,7 +1030,9 @@ SHOPPING: Czerka Shop
   - As MC: Force Jump to thug to left of Bandon, then Flurry x3 on Bandon
   - As T3: Shield Disruptor x4 on Bandon
   - Swap to Juhani and unpause
-- As Juhani, Run/Force Jump over towards Lashowe while MC and T3 fight Bandon and his thugs
+- As Juhani, run all the way to Lashowe while MC and T3 fight Bandon and his thugs
+  - Don't Force Jump to Bandon or the thugs; this makes them more likely to target Juhani and we want her to get a clean getaway
+  - Juhani can Force Jump to the Shyracks outside the caves
   - Keep an eye on MC's health; T3 can die without issue
   - The XP pop-ups will alert you when Bandon and his thugs die
 - As Juhani, approach Lashowe to start the tukata fight
