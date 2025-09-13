@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic II - The Sith Lords - Max Quests Glitchless Guide
 
-## v2.2: Female Jedi Guardian Route (Light Side)
+## v2.3: Female Jedi Guardian Route (Light Side)
 Route created by Ninko.
 
 *First of all, major credit goes out to [30cents](https://www.speedrun.com/user/30Cents) for his help with some route improvements and [Sanjan](https://www.speedrun.com/user/Sanjan) for their work on the Any% Glitchless route.*
@@ -85,10 +85,10 @@ We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsab
 | 5 | Improved Two-Weapon Fighting | Energy Resistance |
 | 6 | --- | Force Deflection |
 | 7 | Improved Critical Strike | Dominate Mind |
-| 8 | --- | Force Resistance |
+| 8 | --- | Battle Meditation |
 | 9 | Master Two-Weapon Fighting | Knight Speed |
 | 10 | --- | Knight Valor |
-| 11 | Master Critical Strike | Battle Meditation |
+| 11 | Master Critical Strike | Force Resistance |
 | 12 | --- | Force Redirection |
 | 13 | Weapon Specialization: Lightsaber | Improved Energy Resistance |
 | 14 | --- | Improved Battle Meditation |
@@ -399,7 +399,7 @@ The reasoning for the middle planets:
 ## Detailed Route
 
 This section will describe all the actions needed to take for the Max Quests Glitchless run.
-Since we have the option to side with Czerka or the Ithorians on Telos Station, and Czerka has one more quest to complete there, we have implemented two different Telos Routes for the run. Both will be their own seperate sub category and will need to be submitted to the leaderboards with the appropriate information. If completing the run on the Ithorians side, at the end of the run you will have 103 quests complete, versus Czerka being 104.
+Since we have the option to side with Czerka or the Ithorians on Telos Station, and Czerka has one more quest to complete there, we have implemented two different Telos Routes for the run. Both will be their own seperate sub category and will need to be submitted to the leaderboards with the appropriate information. If completing the run on the Ithorians side, at the end of the run you will have 104 quests complete, versus Czerka being 105.
 
 Notation:
 - `>` indicates a level up to be done
@@ -480,7 +480,8 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 ### Administration Level
 - Mouse click through Kolto cutscene (Some of it is skippable).
 - Head through the door in front of you and the door on the left.
-- Use the Console: 4,3,6
+- Use the Console: 3,1,3,3,3,6
+  - *Starting the Medical Bay Murders quest, plus opening the door to the Morgue.*
 - Head into the morgue and loot the Corpse for a Plasma Torch.
 - Kreia wakes up and speaks to you: 1x-
 - `}` Plasma Torch.
@@ -556,7 +557,8 @@ If no conversation choices are specified, spamming will work (this chooses all 1
   - *Sometimes MC can get stuck on Mining Droid, yet Kreia will get through, this will throw the party swaps off a bit so be prepared for anything.*
 - Continue towards administration console where Atton is.
 - Atton accosts you: 1x-
-- HK-50 accosts the party: 3,4
+- HK-50 accosts the party: 1,1,4
+  - *We used to do 3,4 as it was faster, this 1,1,4 completes Medical Bay Murders.*
 - Using MC and Kreia, throw 1x Sonic Grenade and 1x Ion Grenade at HK-50.  `+ \ \`
 - Cast Burst of Speed and run to entrance to the Harbinger Command Deck
   - *Do not enter The Harbinger you have looted the HK-50.*
@@ -623,7 +625,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - Use the Galaxy Map and select Telos. (1 left)
 
 ## Telos
-- Telos is the reason our run is named 'Max Quests' instead of 'All Quests', due to there being the Czerka vs Ithorian routes, here you will have the option to complete either of the two routes. The Czerka Route completes 1 (ONE) extra quest compared to the Ithorian Route, thus your run will end with a total of 104 completed quests, where the Ithorian route will end with 103.
+- Telos is the reason our run is named 'Max Quests' instead of 'All Quests', due to there being the Czerka vs Ithorian routes, here you will have the option to complete either of the two routes. The Czerka Route completes 1 (ONE) extra quest compared to the Ithorian Route, thus your run will end with a total of 105 completed quests, where the Ithorian route will end with 104.
 
 **Jump To:**
 [Czerka Route](#czerka-route)
@@ -2002,9 +2004,15 @@ Buy:
 
 ## Version History
 
+### v2.3 (September 2025)
+- Added new quest 'Medical Bay Murders: Bonus Mission' -  previously believed to be glitched and / or fixed in TSLRCM.
+- Updated 'Peragus' Route for 'Medical Bay Murders' Quest.
+- Total quests for Czerka Route is now 105 Quests.
+- Total quests for Ithorian Route is now 104 Quests.
+
 ### v2.2 (May 2025)
-- Updated Levelling Plan - Force Resistence at Level 8.
-- Updated Levelling Plan - Battle Meditation at Level 11.
+- Updated Levelling Plan - Battle Meditation at Level 8.
+- Updated Levelling Plan - Force Resistence at Level 11.
 - Updated Levelling Plan - Improved Energy Resistance at Level 13.
 - Updated Levelling Plan - Improved Battle Meditation at Level 14.
 - Added skippable trigger on Telos Station when heading to Exchange. (Thanks to Glasnonck's Walkmesh Visualiser, saves ~1s)
@@ -2069,7 +2077,7 @@ Buy:
 - Total quests for Ithorian Route is now 103 Quests.
 
 ### v1.5 (September 2022)
-- Re-named to Max Quests Glitchless (due to the realization that Czerka and Ithorians on Telos have a different number of quests).
+- Re-named to Max Quests Glitchless (due to the realization that Czerka and Ithorian routes on Telos have a different number of quests).
 - Added 2 hidden Pazaak Quests which come from some dialog with Atton.
 - Czerka Route made the main route for Telos Station with 103 Quests completed at end of run.
 - Ithorian Route is now an option with 102 Quests completed at end of run.
@@ -2080,6 +2088,6 @@ Buy:
 ### v1.0 (August 2022)
 - (Formerly Named) All Quests Glitchless.
 - 100 Total Quests in the (Ithorian) Route.
-- Ithorian Route (later found to contain 1 less quest than Czerka Route.
+- Ithorian Route (later found to contain 1 less quest than Czerka Route (101 total quests).
 - Korriban the last planet to be completed.
 - Alignment route 76 for Sith Tomb on Korriban.
