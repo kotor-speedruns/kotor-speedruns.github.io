@@ -41,7 +41,7 @@ async function get_record(uri, tr) {
     RTA = run['times']['realtime_t'];
     link = run['weblink'];
     
-    player_res = await fetch(player_uri);
+    player_res = await fetch(player_uri.replace("http://", "https://"));
     p_response = await player_res.json();
     player = p_response['data']['names']['international'];
 
