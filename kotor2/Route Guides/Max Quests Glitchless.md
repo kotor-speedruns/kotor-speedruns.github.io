@@ -79,11 +79,7 @@ We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsab
 | Level | Feats | Powers |
 | --- | :--- | :--- |
 | 1 | Weapon Focus: Melee | --- |
-| 2 | Two-Weapon Fighting 
-test
-test
-test
-test | Burst of Speed |
+| 2 | Two-Weapon Fighting | Burst of Speed |
 | 3 | Weapon-Focus: Lightsaber | Affect Mind |
 | 4 | --- | Force Valor |
 | 5 | Improved Two-Weapon Fighting | Energy Resistance |
