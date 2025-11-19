@@ -94,6 +94,70 @@ We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsab
 | 14 | --- | Improved Battle Meditation |
 | 15 | Toughness (Recommended) | Master Speed |
 
+
+
+| Level/Skill Level | Skills | --- | --- | --- |
+| 1 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | 2 | 4 | 0 | 4 |
+| 2 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | 2 | 5 | 0 | 5 |
+| 3 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | 2 | 6 | 0 | 6 |
+| 4 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | 2 | 7 | 0 | 7 |
+| 5 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | 2 | 8 | 0 | 8 |
+| 6 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | 8 | 8 | 0 | 9 |
+| 7 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | 9 | 10 | 0 | 9 |
+| 8 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | 10 | 10 | 0 | 11 |
+| 9 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | 11 | 12 | 0 | 11 |
+| 10 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | 12 | 12 | 0 | 13 |
+| 11 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | 15 | 12 | 0 | 13 |
+| 12 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 12 | 3 | 13 |
+| 13 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 12 | 6 | 13 |
+| 14 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 12 | 9 | 13 |
+| 15 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 12 | 12 | 13 |
+| 16 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 15 | 12 | 13 |
+| 17 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 15 | 15 | 13 |
+| 18 |  Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 15 | 15 | 16 |
+| 19 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 15 | 15 | 19 |
+| 20 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 15 | 18 | 19 |
+| 21 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 15 | 21 | 19 |
+| 22 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 16 | --- | 21 |
+| 23 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 18 | --- | 22 |
+| 24 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 19 | --- | 24 |
+| 25 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 21 | --- | 24 |
+| 26 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 24 | --- | 24 |
+| 27 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 27 | --- | 24 |
+| 28 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 27 | --- | 27 |
+| 29 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 27 | --- | 30 |
+| 30 | Computer Use | Persuade | Repair | Treat Injury |
+| Skill Level: | --- | 30 | --- | --- |
+
 <br>
 You will notice attributes and skills aren't listed here. This is because when we level up, all skills/attribute points will use the 'Recommended' option (Strength/Treat Injury respectively).
 
