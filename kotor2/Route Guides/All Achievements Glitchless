@@ -100,70 +100,82 @@ We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsab
 
 #### Attributes
 
+| Level | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma
+| 1 | 15 | 13 | 14 | -- | -- |
+| 4 | 16 | 13 | 14 | -- | -- |
+| 8 | 16 | 14 | 14 | -- | -- |
+| 12 | 16 | 14 | 15 | -- | -- |
+| 16 | 17 | -- | -- | -- | -- |
+| 20 | 18 | -- | -- | -- | -- |
+| 24 | 19 | -- | -- | -- | -- |
+| 28 | 20 | -- | -- | -- | -- |
+
 #### Skills
 <br>
-| Level | Skill
-| --- | :--- | :--- |
+| Level/Skill Level | Skills | --- | --- | --- |
 | 1 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 2 | 4 |
+| Skill Level: | 2 | 4 | 0 | 4 |
 | 2 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 5 | 2 | 5 |
+| Skill Level: | 2 | 5 | 0 | 5 |
 | 3 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 6 | 2 | 6 |
+| Skill Level: | 2 | 6 | 0 | 6 |
 | 4 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 7 | 2 | 7 |
+| Skill Level: | 2 | 7 | 0 | 7 |
 | 5 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 8 | 2 | 8 |
+| Skill Level: | 2 | 8 | 0 | 8 |
 | 6 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 2 | 4 |
+| Skill Level: | 8 | 8 | 0 | 9 |
 | 7 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | 9 | 10 | 0 | 9 |
 | 8 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | 10 | 10 | 0 | 11 |
 | 9 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | 11 | 12 | 0 | 11 |
 | 10 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | 12 | 12 | 0 | 13 |
 | 11 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | 15 | 12 | 0 | 13 |
 | 12 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 12 | 3 | 13 |
 | 13 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 12 | 6 | 13 |
 | 14 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 12 | 9 | 13 |
 | 15 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 12 | 12 | 13 |
 | 16 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 15 | 12 | 13 |
 | 17 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 15 | 15 | 13 |
 | 18 |  Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 15 | 15 | 16 |
 | 19 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 15 | 15 | 19 |
 | 20 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 15 | 18 | 19 |
 | 21 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 15 | 21 | 19 |
 | 22 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 16 | --- | 21 |
 | 23 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 18 | --- | 22 |
 | 24 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 19 | --- | 24 |
 | 25 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 21 | --- | 24 |
 | 26 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 24 | --- | 24 |
 | 27 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 27 | --- | 24 |
 | 28 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 27 | --- | 27 |
 | 29 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 27 | --- | 30 |
 | 30 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level | 0 | 4 | 4 | 4 |
+| Skill Level: | --- | 30 | --- | --- |
+
+Once we hit Level 12 we will be able to do our first run of influence gaining with T3-M4 in our process of learning Moving Meditation. (Lost in you work)
+At Level 22, we should be able to learn Moving Meditation.
 
 
 #### Feats and Powers
@@ -175,15 +187,15 @@ We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsab
 | --- | :--- | :--- |
 | 1 | Weapon Focus: Melee | --- |
 | 2 | Two-Weapon Fighting | Burst of Speed`*` |
-| 3 | Weapon-Focus: Lightsaber | Affect Mind`*` |
+| 3 | Toughness | Affect Mind`*` |
 | 4 | --- | Force Valor |
-| 5 | Improved Two-Weapon Fighting | Stun Droid |
+| 5 | Class Skill: Computer Use | Stun Droid |
 | 6 | --- | Disable Droid |
-| 7 | Improved Critical Strike | Stun |
+| 7 |  | Stun |
 | 8 | --- | Force Deflection`*` |
-| 9 | Master Two-Weapon Fighting | Knight Speed`*` |
+| 9 |  | Knight Speed`*` |
 | 10 | --- | Knight Valor |
-| 11 | Master Critical Strike | Dominate Mind`*` |
+| 11 | Class Skill: Repair | Dominate Mind`*` |
 | 12 | --- | Stasis |
 | 13 | Weapon Specialization: Lightsaber | Force Redirection`*` |
 | 14 | --- | Destroy Droid |
