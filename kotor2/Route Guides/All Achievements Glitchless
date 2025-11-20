@@ -13,8 +13,11 @@ If you have additional questions, you can check out the [KotOR Speedrunning Disc
 - [General Tips](#general-tips)
 - [Run 1: Male Exile](#run-1:-male-exile)
   - [Character Build](#character-build)
-	  - [Character Creation](#character-creation)
-	  - [Leveling Plan](#leveling-plan)
+    - [Character Creation](#character-creation)
+    - [Leveling Plan](#leveling-plan)
+	  - [Attributes](#attributes)
+ 	  - [Skills](#skills)
+      - [Feats and Powers](#feats-and-powers)
   - [Equipment Plan](#equipment-plan)
   - [Credit Route](#credit-route)
   - [Alignment Route](#alignment-route)
@@ -22,15 +25,18 @@ If you have additional questions, you can check out the [KotOR Speedrunning Disc
   - [Route Overview](#route-overview)
   - [Detailed Route](#detailed-route)
 - [Run 2: Female Exile](#run-2:-female-exile)
-  - [Character Build](#character-build)
-	  - [Character Creation](#character-creation)
-	  - [Leveling Plan](#leveling-plan)
-  - [Equipment Plan](#equipment-plan)
-  - [Credit Route](#credit-route)
-  - [Alignment Route](#alignment-route)
-  - [Achievement Plan](#achievement-plan)
-  - [Route Overview](#route-overview)
-  - [Detailed Route](#detailed-route)
+  - [Character Build 2](#character-build-2)
+    - [Character Creation 2](#character-creation)
+    - [Leveling Plan 2](#leveling-plan)
+	  - [Attributes 2](#attributes)
+ 	  - [Skills 2](#skills)
+      - [Feats and Powers 2](#feats-and-powers)
+  - [Equipment Plan 2](#equipment-plan-2)
+  - [Credit Route 2](#credit-route-2)
+  - [Alignment Route 2](#alignment-route-2)
+  - [Achievement Plan 2](#achievement-plan-2)
+  - [Route Overview 2](#route-overview-2)
+  - [Detailed Route 2](#detailed-route-2)
 - [Version History](#version-history)
 
 ## Glitchless Ruleset
@@ -64,9 +70,10 @@ Now, jump into this mega pool of information, you're gonna need it.
 
 #### Character Creation
 
-We begin the game by choosing to be a Male Jedi Guarden. The original thought would have been Consular due to the Achievements 'I am a Jedi', which requires us to Acquire all Light Side Powers. Although, thanks to 'Over Achiever', which requires us to Reach Player Level 30, we have plenty of time to pick up those powers as a Guardian.
+We begin the game by choosing to be a Male Jedi Guardian. The original thought would have been Consular due to the Achievement 'I am a Jedi', which requires us to Acquire all Light Side Powers. Although, thanks to 'Over Achiever', which requires us to Reach Player Level 30, we have plenty of time to pick up those powers as a Guardian.
 
-Our main character needs skill investment in Computer Use, Persuade, Repair and Treat Injury (TI).
+Our main character needs skill investment in Computer Use, Persuade, Repair and Treat Injury.
+
 
 **Initial Attributes**
 
@@ -74,15 +81,16 @@ Our main character needs skill investment in Computer Use, Persuade, Repair and 
 - Dexterity - 14
 - Constitution - 13
 - Intelligence - 14
-- Wisdom - 10
-- Charisma - 11
+- Wisdom - 11
+- Charisma - 10
 
 **Initial Skills**
 
+- Computer Use - 2
 - Persuade - 4
-- Repair - 4
+- Repair - 0
 - Treat Injury - 4 
-Save the remaining points.
+Save any remaining points if there is any.
 
 **Initial Feat** - Weapon Focus: Melee
 
@@ -96,22 +104,26 @@ Treat Injury - Required to reach 30%
 
 We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsaber; we pick it over 'Two-Weapon Fighting' since this feat takes longer to select and character creation isn't timed. This will in turn result in our first level up being faster than if we chose 'Two-Weapon Fighting' now. 
 
-### Leveling Plan
-
-#### Attributes
-
-| Level | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma
-| 1 | 15 | 13 | 14 | -- | -- |
-| 4 | 16 | 13 | 14 | -- | -- |
-| 8 | 16 | 14 | 14 | -- | -- |
-| 12 | 16 | 14 | 15 | -- | -- |
-| 16 | 17 | -- | -- | -- | -- |
-| 20 | 18 | -- | -- | -- | -- |
-| 24 | 19 | -- | -- | -- | -- |
-| 28 | 20 | -- | -- | -- | -- |
-
-#### Skills
+#### Leveling Plan
+##### Attributes
 <br>
+Our MC needs 15 Intelligence for an achievement involving T3-M4, but, it's better off for us not to start at 15, so we allocate points as follows:
+| Level | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| 1: | 15 | 14 | 13 | 14 | 11 | 10 |
+| 4: | 16 | -- | 13 | 14 | -- | -- |
+| 8: | 16 | -- | 14 | 14 | -- | -- |
+| 12: | 16 | -- | -- | 15 | -- | -- |
+| 16: | 17 | -- | -- | -- | -- | -- |
+| 20: | 18 | -- | -- | -- | -- | -- |
+| 24: | 19 | -- | -- | -- | -- | -- |
+| 28: | 20 | -- | -- | -- | -- | -- |
+<br>
+Levels 16, 20, 24 and 28 will just choose Recommended for Attributes.
+<br>
+##### Skills
+<br>
+The skill layout in the following table is quite strict in this first run, Computer Use and Repair max out at 15 and 21 for an achievement with T3-M4, the remaining two *need* to reach 30 points for 2 other achievements.
+Our party members will be required to hit 30 points in some other skills, this will be followed up on in the Achievement Plan.
 | Level/Skill Level | Skills | --- | --- | --- |
 | 1 | Computer Use | Persuade | Repair | Treat Injury |
 | Skill Level: | 2 | 4 | 0 | 4 |
@@ -173,12 +185,11 @@ We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsab
 | Skill Level: | --- | 27 | --- | 30 |
 | 30 | Computer Use | Persuade | Repair | Treat Injury |
 | Skill Level: | --- | 30 | --- | --- |
+<br>
+Once we hit Level 12 we will be able to do our first run of influence gaining with T3-M4 in our process of learning Moving Meditation. ('Lost in you work' Achievement)
+At Level 22, we should be able to learn Moving Meditation from T3.
 
-Once we hit Level 12 we will be able to do our first run of influence gaining with T3-M4 in our process of learning Moving Meditation. (Lost in you work)
-At Level 22, we should be able to learn Moving Meditation.
-
-
-#### Feats and Powers
+##### Feats and Powers
 <br>
   - *'*' - Powers that are not required for 'I am a Jedi' Achievement.*
 <br>
@@ -191,79 +202,34 @@ At Level 22, we should be able to learn Moving Meditation.
 | 4 | --- | Force Valor |
 | 5 | Class Skill: Computer Use | Stun Droid |
 | 6 | --- | Disable Droid |
-| 7 |  | Stun |
+| 7 | Improved Two-Weapon Fighting | Stun |
 | 8 | --- | Force Deflection`*` |
-| 9 |  | Knight Speed`*` |
+| 9 | Improved Flurry | Knight Speed`*` |
 | 10 | --- | Knight Valor |
 | 11 | Class Skill: Repair | Dominate Mind`*` |
 | 12 | --- | Stasis |
-| 13 | Weapon Specialization: Lightsaber | Force Redirection`*` |
+| 13 | Weapon Focus: Lightsaber | Force Redirection`*` |
 | 14 | --- | Destroy Droid |
-| 15 | Toughness (Recommended) | Master Speed`*` |
+| 15 | Master Two-Weapon Fighting | Master Speed`*` |
 
 **Jedi Weapon Master**
 | Level | Feats | Powers |
 | --- | :--- | :--- |
-| 1 | Weapon Focus: Melee | Master Valor |
-| 2 | Two-Weapon Fighting | Stasis Field |
-| 3 | Weapon-Focus: Lightsaber | Heal |
+| 1 | Master Flurry | Master Valor |
+| 2 |  | Stasis Field |
+| 3 |  | Heal |
 | 4 | --- | Improved Heal |
-| 5 | Improved Two-Weapon Fighting | Master Heal |
+| 5 |  | Master Heal |
 | 6 | --- | Force Aura |
-| 7 | Improved Critical Strike | Force Shield |
+| 7 |  | Force Shield |
 | 8 | --- | Force Armor |
-| 9 | Master Two-Weapon Fighting | Force Barrier |
+| 9 |  | Force Barrier |
 | 10 | --- | Improved Force Barrier |
-| 11 | Master Critical Strike | Master Force Barrier |
+| 11 |  | Master Force Barrier |
 | 12 | --- | Revitalize |
-| 13 | Weapon Specialization: Lightsaber | Improved Revitalize |
+| 13 |  | Improved Revitalize |
 | 14 | --- | Master Revitalize |
-| 15 | Toughness (Recommended) | Recommended |
-
-<br>
-You will notice attributes and skills aren't listed here. This is because when we level up, all skills/attribute points will use the 'Recommended' option (Strength/Treat Injury respectively).
-
-Our main combat plan is lots of Strength, 'Master Two-Weapon Fighting', 'Master Critical Strike', and 'Knight Speed' using dual lightsabers. This gives us attacks that will deal as much damage as possible; we want to hit as hard as possible, since enemies in the later parts of the game will have higher HP. Once we get the lightsaber form 'Shien' from Master Zez-Kai-Ell, we will switch to this form for the rest of the run.
-
-Other notes:
-
-**Skill notes:**
-- We use TI to make our medpac use more efficient. And in turn it is the fastest way to select our skills
-- Persuade isn't used in this run as Affect Mind and Dominate Mind are sufficent for all of our needs of persuasion.
-
-**Feat notes:**
-- 'Weapon Focus: Lightsaber' is chosen since there aren't other good feats at level 3, and it gives +1 to attack when we get our lightsaber later.
-- 'Critical Strike' and 'Two-Weapon Fighting' are our main combat core.
-- At level 14 we choose 'Weapon Specialization: Lightsaber' as this will add a +2 damage bonus to our hits and will help for the endgame.
-- It is hit and miss whether we will reach Level 15 or not, but if so we recommend choosing 'Toughness' purely due to being able to click recommended. This gives us slightly higher VP but most importantly it is quick to select.
-
-**Force Power notes:**
-- 'Burst of Speed' is the most important power, giving us 100% increased movement speed. With no Save Teleports, this is an essential power for the run. Knight Speed also grants +1 attack per round, which is highly important due to our relatively low chance to hit. 'Burst of Speed' also gives us +2 Defense while active.
-- If MC reaches level 15, Master Speed grants us +2 attacks per round while active.
-- Duration Glitch in this game is not as effective as in KOTOR 1, so we will be using these Force Speed powers much more. We will generally take Kreia into our party as a second source of Force Points (FP) due to the Force Bond ability affecting MC and Kreia.
-- 'Force Valor' is used to boost stats and saving throws for various combat sections in the game. Later this will be levelled up to 'Knight Valor'.
-- 'Affect Mind'/'Dominate Mind' is used in the following places:
-	i. 'Affect Mind' is required to persuade the receptionist in the Exchange Base to allow you through.
-	ii. 'Dominate Mind' persuades Captain Bostuco to leave his post during Onderon 1.
-	iii. It is required that we have 'Dominate Mind' in order to complete the 'Lupo's Advantage' quest on Nar Shaddaa.
-- 'Energy Resistance' is not particularly useful, but there aren't any worthwhile Force Powers to get at level 5. This force power is mainly chosen as there isn't any other worthwhile force powers to choose from during this level up.
-- 'Force Deflect' is taken as it's a nice defensive passive skill, and you frequently run through heavy amounts of ranged enemies during the run.
-- 'Battle Meditation' is a nice filler, it lasts 20 seconds, and provides very good stat boosts for fights provided you have the spare force to use it. We can use 'Battle Meditation' to help Kreia fight the cleaning droid on Nar Shaddaa during the 'Experiment in Delivery: Bonus Mission'.
-- 'Breath Control' is attained for free during the Jek Jek Tarr section on Nar Shaddaa. It makes us immune to poison, but we don't use it in this run at all. It could be helpful to use on Malachor V if you want to avoid getting poisoned running to Trayus Academy.
-- 'Force Barrier' is taken at Level 14 as it is quick and easy. We don't end up using this power in the run at all.
-- 'Force Redirection' is the upgrade to 'Force Deflect' and is taken for its added bonuses, but also as a filler for a faster level up.
-- 'Improved Energy Resistance'/'Improved Battle Meditation': These are chosen as quick options during their respective level ups, due to having to choose a force power each time we level up. These powers are not used in the run.
-
-**Level Up notes:** <br>
-Level ups 2-8 will need to be used at the correct times as shown in the Detailed Route below. <br>
-- Level Up to 2: Peragus, Administration Console. <br>
-- Level Up to 3: Peragus, Final Run. <br> 
-- Level Up to 4: Telos Citadel Station, before Ithorian Droid. <br>
-- Level Up to 5: Telos Citadel Station, after Escaped Criminals. <br>
-- Level Up to 6: Telos Citadel Station, quick heal during Mercenaries fight at Czerka. <br>
-- Level Up to 7: Dantooine, quick heal during fighting Matriarch.  <br>
-- Level Up to 8: Dxun, quick heal during fighting Zakkeg. <br>
-- Level Up to 9: Dxun, before Sith Ambush. <br>
+| 15 |  | Recommended |
 
 ## Equipment Plan
 
@@ -320,7 +286,7 @@ We will upgrade this after Nar Shaddaa 1 and potentially again after Onderon 2, 
 The majority of our equipment is attained in Nar Shaddaa. For the early game, we will make use of a pair of Vibroswords, though some exceptions can be made depending on the randomization the shops have.
 
 **Item Prioritization:**
-- Due to the RNG nature of loot and shops in this game, sometimes there are better items you might on your way through the early game. You'll want to prioritize it roughly by:
+- Due to the RNG nature of loot and shops in this game, sometimes there are better items you might find on your way through the early game. You'll want to prioritize it roughly by:
 
 1. +Strength: Strength gives us more damage AND more accuracy, and therefore is much more beneficial to us overall than any other stat.
 2. +Damage (any type): More damage is great. Generally this will be in the form of +physical damage (e.g Gamorrean Gloves).
@@ -512,7 +478,7 @@ We also try to get as many LSP as possible during the first half of Nar Shaddaa 
 
 The order in which we visit the planets is as follows:
 
-Peragus -> Telos -> Dantooine -> Dxun/Onderon 1 -> Nar Shaddaa 1-> Korriban -> Dxun/Onderon 2 -> Nar Shaddaa 2 -> Dantooine -> Ravager -> Malachor V
+Peragus -> Telos -> Dantooine -> Dxun/Onderon 1 -> Nar Shaddaa 1 -> Korriban -> Dxun/Onderon 2 -> Nar Shaddaa 2 -> Dantooine -> Ravager -> Malachor V
 
 The reasoning for the middle planets:
 - We do Dantooine first, as there is little to no combat necessary until the end, and to obtain all the parts for our lightsaber as fast as possible.
@@ -556,7 +522,7 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - [Onderon](#onderon)
 - [Nar Shaddaa 1](#nar-shaddaa-1)
 - [Korriban](#korriban)
-- [Dxun](#dxun-2)
+- [Dxun 2](#dxun-2)
 - [Onderon 2](#onderon-2)
 - [Nar Shaddaa 2](#nar-shaddaa-2)
 - [Jedi Masters](#jedi-masters)
