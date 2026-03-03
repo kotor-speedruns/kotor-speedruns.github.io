@@ -66,6 +66,18 @@ Triggers for loading zones are actually quite thin, so it is easy to accidentall
 - Especially later in runs, try to gauge how much distance you cover in one Quick Save, and aim your buffer to end in the loading zone trigger.
 - In extreme cases, when Quick Saves are very long, disabling V-Sync will increase the game's frame rate and thus decrease the time it takes to Quick Save, making buffering significantly easier.
 
+## Frame Perfect GP Warps
+
+A frame perfect GP warp is performed by swapping party members on the same frame that you trigger the GP dialogue. It does not use a [Menu Glitch](<../Major Glitches/Anywhere Menu Glitch>) or [Buffer](<Save Buffering#open-buffers>), so it is possible to perform on consoles (such as Xbox and Nintendo Switch).
+
+1. Using Solo Mode, position the Warping Member far enough away from the Triggering Member that the "Gather Your Party" dialog will occur when you try to enter a loading zone, **and** so that the load zone you want to warp to is the closest one.
+2. Swap to the Triggering Member and ensure they are near a loading zone.
+3. Walk into the loading zone trigger. Some find it helpful to tap the movement button to reduce their speed when entering the load zone.
+4. At the same instant that "Gather Your Party" dialog begins, use the Change Leader hotkey (Tab by default) to swap to the Warping Member.
+5. Click the dialog option to trigger the warp. 
+
+Note that since this trick is frame perfect, it is easier at lower frame rates. So if you're on PC, ensure you have V-Sync enabled. If you're on Console, OG Xbox will be easier than Switch as it runs at 30fps instead of 60.
+
 ## GP Warp Door Clips
 
 The teleportation aspect of GP Warps means that it is possible to bypass locked doors completely using specific GP Warps.  These GP Warps are considered to be [Door Clipping](<../Major Glitches/Door Clipping>), even if they are not clipping the door in the traditional sense.  Thus these GP Warps are banned in the NMG ruleset, even when performed with a buffer.
