@@ -107,6 +107,7 @@ The different pages have links to the other relevant pages; so if you're just lo
 - Any% NMG: ~1:20 IGT, ~1:32 RTA
 - Any% Glitchless: ~2:00 IGT, ~2:05 RTA 
 - All Quests Unrestricted: ~1:45 IGT, ~2:05 RTA
+
 There are also Individual Level runs (such as Swoop Racing or Pazaak) which range from a handful of seconds to a few minutes.
 
 **Q:** What should I focus on to improve my time most quickly?
