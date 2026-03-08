@@ -50,7 +50,7 @@ The new character build is a Scoundrel build with Sneak Attack II, replacing the
 There are, however, some drawbacks:
 
 1. With no guaranteed Alacrity on Endar Spire, the Scoundrel build must either get a random Alacrity on Spire (0.83% chance) or shop with Zelka on Taris to buy Alacrities.  Scouts can skip Zelka consistently, saving roughly 11s.
-2. Scoundrels have to take less Dex and Con and have naturally less Vitality than Scouts.  This means dying on Taris is a much more common occurence, and there's more stress on early game medpac usage.
+2. Scoundrels have to take less Dex and Con and have naturally less Vitality than Scouts.  This means dying on Taris is a much more common occurrence, and there's more stress on early game medpac usage.
 3. Scoundrels have to manually select Flurry, and therefore cannot take Weapon Focus: Melee Weapons.  This leads to slightly worse chances to hit throughout Taris, but you can mitigate this by single-wielding on Taris to avoid the Two-Weapon Fighting penalty.
 
 The old Scout build is close enough that if you really prefer it, you can use a Scout build instead.  But Scoundrels will have more consistent and faster combat and therefore have the potential for faster runs overall.
@@ -662,8 +662,10 @@ SHOPPING TRIP: Igear
 - `Level to 5: Save Skills, Burst of Speed`
 - `Level to 6: Persuade to 9, TI to 9, Save Rest; Improved Flurry, Force Valor`
   - See [Force Power Options](#force-power-options) for possible tweaks to these level ups
+- *Force: Cast Burst of Speed*
 - Swap to T3 and talk to Master Zhar to construct your lightsaber
 - *Party: Remove T3*
+- Talk to Zhar again
 - *Equip MC: Strength Gauntlets and Double-bladed Lightsaber*
 - Talk to enclave droid to unlock Courtyard door
 - *Force: Cast Force Valor* right before you...
