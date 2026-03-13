@@ -1,0 +1,1475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Level Up Message Calculator</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; border-radius: 0 !important; }
+
+  body {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    background: #323248;
+    color: #e0e0f0;
+    padding: 20px;
+    min-height: 100vh;
+  }
+
+  .title-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+
+  h1 {
+    font-size: 1.4rem;
+    color: #a0c4ff;
+    letter-spacing: 0.05em;
+  }
+
+  /* === BYTE ROW PANEL === */
+  .byte-row-wrapper {
+    padding: 0;
+    margin-bottom: 14px;
+  }
+
+  .row-label {
+    font-size: 0.68rem;
+    color: #8899bb;
+    margin-bottom: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+  }
+
+  .byte-row {
+    display: flex;
+    width: 100%;
+    height: 58px;
+    border-radius: 4px;
+    overflow: visible;
+    gap: 2px;
+  }
+
+  .seg {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 4px 5px;
+    min-width: 30px;
+    cursor: default;
+    position: relative;
+    overflow: hidden;
+    transition: filter 0.1s;
+    flex-shrink: 0;
+    border-radius: 2px;
+  }
+  .seg:hover { filter: brightness(1.25); }
+
+  .seg.seg-overflow {
+    opacity: 0.8;
+    background-image: repeating-linear-gradient(
+      45deg, transparent, transparent 4px,
+      rgba(0,0,0,0.35) 4px, rgba(0,0,0,0.35) 8px
+    ) !important;
+  }
+
+  .seg-name {
+    font-size: 0.58rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: rgba(255,255,255,0.9);
+  }
+
+  .seg-bytes {
+    font-size: 0.62rem;
+    color: rgba(255,255,255,0.7);
+    white-space: nowrap;
+  }
+
+  .seg-tooltip {
+    display: none;
+    position: absolute;
+    bottom: calc(100% + 6px);
+    left: 50%;
+    transform: translateX(-50%);
+    background: #252537;
+    border: 1px solid #555588;
+    padding: 7px 10px;
+    font-size: 0.72rem;
+    white-space: nowrap;
+    z-index: 100;
+    pointer-events: none;
+    color: #dde;
+    line-height: 1.6;
+  }
+  .seg:hover .seg-tooltip { display: block; }
+
+  /* === PARSE TOGGLE + STATUS === */
+  .parse-toggle-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 12px 0 8px;
+    font-size: 0.8rem;
+    border-top: 1px solid #3a3a68;
+    padding-top: 10px;
+    flex-wrap: wrap;
+  }
+
+  .parse-toggle-label {
+    color: #9999bb;
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .parse-status {
+    margin-left: 4px;
+    font-size: 0.78rem;
+    font-weight: 700;
+    padding: 2px 10px;
+    border-radius: 4px;
+  }
+  .parse-status.exact     { background: #1a3322; color: #55ff88; border: 1px solid #336644; }
+  .parse-status.underread { background: #332200; color: #ffcc44; border: 1px solid #664400; }
+  .parse-status.overread  { background: #330000; color: #ff5555; border: 1px solid #661111; }
+
+  .total-line {
+    margin-top: 7px;
+    font-size: 0.82rem;
+    color: #aac;
+  }
+
+  .hex-dump {
+    width: 100%;
+    background: #252537;
+    border: 1px solid #4b4b7e;
+    color: #7fffb0;
+    font-family: 'Courier New', monospace;
+    font-size: 0.72rem;
+    padding: 8px 10px;
+    resize: vertical;
+    min-height: 52px;
+    margin-top: 10px;
+  }
+
+  /* === TWO-COLUMN LAYOUT === */
+  .two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    align-items: start;
+  }
+
+  .col {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .col-header {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #8899bb;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #363658;
+  }
+
+  /* === SECTION CARD === */
+  .section {
+    background: #2a2a42;
+    border: 1px solid #4b4b7e;
+    padding: 13px 15px;
+  }
+
+  .section h2 {
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: #8899cc;
+    margin-bottom: 9px;
+    border-bottom: 1px solid #3a3a68;
+    padding-bottom: 4px;
+  }
+
+  /* === INPUT FORM STYLES === */
+  .field-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+    flex-wrap: wrap;
+  }
+
+  label {
+    font-size: 0.78rem;
+    color: #c0c8e8;
+    min-width: 100px;
+  }
+
+  select, input[type="number"] {
+    background: #363656;
+    border: 1px solid #444477;
+    border-radius: 4px;
+    color: #e0e0f0;
+    padding: 4px 7px;
+    font-size: 0.78rem;
+    outline: none;
+  }
+  select:focus, input:focus { border-color: #7788cc; }
+  select { cursor: pointer; }
+  input[type="number"] { width: 78px; }
+
+  input[type="checkbox"] {
+    width: 14px; height: 14px;
+    cursor: pointer;
+    accent-color: #7788ff;
+  }
+
+  .skill-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 6px;
+  }
+  .skill-row label { min-width: 88px; font-size: 0.76rem; }
+  .skill-row input[type="number"] { width: 68px; transition: opacity 0.15s; }
+  .skill-row.skill-unavailable { opacity: 0.4; }
+  .cross-class-star { color: #ffaa44; font-size: 0.85em; margin-left: 1px; }
+
+  .dyn-list { display: flex; flex-direction: column; gap: 5px; margin-bottom: 8px; }
+
+  .dyn-row { display: flex; align-items: center; gap: 6px; flex-wrap: nowrap; }
+  .dyn-row .dyn-idx { font-size: 0.7rem; color: #8899bb; min-width: 18px; text-align: right; flex-shrink: 0; }
+  .dyn-row input[type="number"] { width: 72px; flex-shrink: 0; }
+
+  /* Feat name label inside input rows */
+  .dyn-row .feat-inline {
+    font-size: 0.7rem;
+    font-family: 'Courier New', monospace;
+    color: #8899bb;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    flex: 1;
+    min-width: 0;
+  }
+  .dyn-row .feat-inline.invalid {
+    color: #cc4444;
+    font-style: italic;
+  }
+
+  button {
+    background: #2a2a5a;
+    border: 1px solid #555588;
+    border-radius: 4px;
+    color: #c0c8ff;
+    padding: 4px 11px;
+    font-size: 0.76rem;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+  button:hover { background: #3a3a7a; }
+
+  .btn-remove {
+    background: #522232;
+    border-color: #774455;
+    color: #ffaaaa;
+    padding: 2px 7px;
+    font-size: 0.76rem;
+    flex-shrink: 0;
+  }
+  .btn-remove:hover { background: #5a2030; }
+
+  .count-note { font-size: 0.7rem; color: #8899bb; margin-left: 2px; }
+
+  /* === PARSED OUTPUT PANEL STYLES === */
+  .p-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 4px 0;
+    border-bottom: 1px solid #343450;
+    font-size: 0.76rem;
+    gap: 8px;
+  }
+  .p-row:last-child { border-bottom: none; }
+
+  .p-key {
+    color: #7788aa;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .p-val {
+    font-family: 'Courier New', monospace;
+    color: #c8d8ff;
+    text-align: right;
+    word-break: break-all;
+  }
+  .p-val.err  { color: #ff5555; font-weight: 700; }
+  .p-val.dim  { color: #7777aa; font-style: italic; }
+
+  .p-val .bit-on  { color: #88ffcc; }
+  .p-val .bit-off { color: #5566aa; }
+  .p-val .bits    { font-size: 0.68rem; letter-spacing: 0.08em; color: #aabbdd; margin-left: 5px; }
+  .p-val .feat-id { color: #8899bb; font-size: 0.7rem; }
+
+  /* Feat name in parsed output */
+  .feat-name-valid   { color: #aaccff; }
+  .feat-name-invalid { color: #ff6666; font-style: italic; }
+  .feat-name-xxxx    { color: #888899; }
+
+  .p-section-empty {
+    font-size: 0.74rem;
+    color: #7788aa;
+    font-style: italic;
+    padding: 3px 0;
+  }
+
+  .feat-add-row {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    margin-top: 4px;
+  }
+  .feat-add-row input[type="text"] {
+    flex: 1;
+    min-width: 0;
+    background: #363656;
+    border: 1px solid #444477;
+    color: #e0e0f0;
+    padding: 4px 7px;
+    font-size: 0.78rem;
+    outline: none;
+  }
+  .feat-add-row input[type="text"]:focus { border-color: #7788cc; }
+
+  @media (max-width: 700px) {
+    .two-col { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<div class="title-row">
+  <h1>Level Up Message Calculator</h1>
+  <button id="btnClear">Clear</button>
+</div>
+
+<div class="byte-row-wrapper">
+  <div class="row-label">Message layout:</div>
+  <div class="byte-row" id="byteRow"></div>
+  <div class="total-line" id="totalLine">Total: 0 bytes</div>
+
+  <div class="parse-toggle-row">
+    <span class="parse-toggle-label">Parser:</span>
+    <input type="checkbox" id="chkParserAttr">
+    <label for="chkParserAttr" style="min-width:unset;font-size:0.8rem;">Expects AttributeIndex byte</label>
+    <span class="parse-status" id="parseStatus"></span>
+  </div>
+
+  <div class="row-label">Parser interprets as:</div>
+  <div class="byte-row" id="parsedRow"></div>
+
+  <textarea class="hex-dump" id="hexDump" readonly rows="2"></textarea>
+</div>
+
+<div class="two-col">
+
+  <!-- LEFT: Input -->
+  <div class="col">
+    <div class="col-header">Input</div>
+
+    <div class="section">
+      <h2>Header</h2>
+      <div class="field-row">
+        <label for="selClass">Class</label>
+        <select id="selClass">
+          <option value="0">Soldier (0)</option>
+          <option value="1">Scout (1)</option>
+          <option value="2">Scoundrel (2)</option>
+          <option value="3">Jedi Guardian (3)</option>
+          <option value="4">Jedi Consular (4)</option>
+          <option value="5">Jedi Sentinel (5)</option>
+          <option value="6">Combat Droid (6)</option>
+          <option value="7">Expert Droid (7)</option>
+          <option value="8">Minion (8)</option>
+        </select>
+      </div>
+      <div class="field-row">
+        <label>AttributeIndex</label>
+        <input type="checkbox" id="chkAttr">
+        <span style="font-size:0.74rem;color:#aac">Present</span>
+        <select id="selAttr" disabled>
+          <option value="0">STR (0)</option>
+          <option value="1">DEX (1)</option>
+          <option value="2">CON (2)</option>
+          <option value="3">INT (3)</option>
+          <option value="4">WIS (4)</option>
+          <option value="5">CHA (5)</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Skills</h2>
+      <div class="field-row" style="margin-top:8px;justify-content:space-between;">
+        <div style="display:flex;align-items:center;gap:8px;">
+          <label for="inpSkillPoints">Skill Points Remaining</label>
+          <input type="number" id="inpSkillPoints" min="0" max="65535" value="0">
+        </div>
+        <div style="text-align:right;">
+          <div id="skillTally" style="font-size:0.78rem;color:#aac;font-weight:bold;"></div>
+          <div id="skillMinLevel" style="font-size:0.72rem;color:#8899bb;margin-top:2px;"></div>
+        </div>
+      </div>
+      <div id="skillsList"></div>
+
+      <div style="margin-top:6px;font-size:0.7rem;color:#8899bb;"><span class="cross-class-star">*</span> Cross Class Skill — Costs 2 Skill Points</div>
+    </div>
+
+    <div class="section">
+      <h2>Feats <span class="count-note" id="featCount">(0)</span></h2>
+      <div class="dyn-list" id="featList"></div>
+      <div class="feat-add-row">
+        <input type="text" id="featSearchInput" list="featDatalist" placeholder="Feat name or ID…" autocomplete="off">
+        <datalist id="featDatalist"></datalist>
+        <button id="btnAddFeat">Add</button>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Spells <span class="count-note" id="spellCount">(0)</span></h2>
+      <div class="dyn-list" id="spellList"></div>
+      <div class="feat-add-row">
+        <input type="text" id="spellSearchInput" list="spellDatalist" placeholder="Spell name or ID…" autocomplete="off">
+        <datalist id="spellDatalist"></datalist>
+        <button id="btnAddSpell">Add</button>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Known Spells <span class="count-note" id="knownSpellCount">(0)</span></h2>
+      <div class="dyn-list" id="knownSpellList"></div>
+      <div class="feat-add-row">
+        <input type="text" id="knownSpellSearchInput" list="knownSpellDatalist" placeholder="Spell name or ID…" autocomplete="off">
+        <datalist id="knownSpellDatalist"></datalist>
+        <button id="btnAddKnownSpell">Add</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- RIGHT: Parsed output -->
+  <div class="col">
+    <div class="col-header">Parser Output</div>
+    <div class="section" id="parsedHeader"></div>
+    <div class="section" id="parsedSkills"></div>
+    <div class="section" id="parsedFeats"></div>
+    <div class="section" id="parsedSpells"></div>
+    <div class="section" id="parsedKnownSpells"></div>
+  </div>
+
+</div>
+
+<script>
+// ============================================================
+// FEAT TABLE
+// null = invalid (****); strings starting with XXXX_ = cut content
+// ============================================================
+const FEAT_NAMES = [
+  null,                              // 0  ****
+  'ADVANCED_JEDI_DEFENSE',           // 1
+  'XXXX_ADVANCED_GUARD_STANCE',      // 2
+  'TWO_WEAPON_FIGHTING',             // 3
+  'ARMOUR_PROF_HEAVY',               // 4
+  'ARMOUR_PROF_LIGHT',               // 5
+  'ARMOUR_PROF_MEDIUM',              // 6
+  'CAUTIOUS',                        // 7
+  'CRITICAL_STRIKE',                 // 8
+  'TWO_WEAPON_ADVANCED',             // 9
+  'EMPATHY',                         // 10
+  'FLURRY',                          // 11
+  'GEAR_HEAD',                       // 12
+  'CONDITIONING',                    // 13
+  'IMPLANT_LEVEL_1',                 // 14
+  'IMPLANT_LEVEL_2',                 // 15
+  'IMPLANT_LEVEL_3',                 // 16
+  'IMPROVED_POWER_ATTACK',           // 17
+  'IMPROVED_POWER_BLAST',            // 18
+  'IMPROVED_CRITICAL_STRIKE',        // 19
+  'IMPROVED_SNIPER_SHOT',            // 20
+  'IMPROVED_CONDITIONING',           // 21
+  'MASTER_CONDITIONING',             // 22
+  null,                              // 23 ****
+  'MASTER_JEDI_DEFENSE',             // 24
+  'XXXX_MASTER_GUARD_STANCE',        // 25
+  'MULTI_SHOT',                      // 26
+  'XXXX_PERCEPTIVE',                 // 27
+  'POWER_ATTACK',                    // 28
+  'POWER_BLAST',                     // 29
+  'RAPID_SHOT',                      // 30
+  'SNIPER_SHOT',                     // 31
+  'WEAPON_FOCUS_BLASTER',            // 32
+  'WEAPON_FOCUS_BLASTER_RIFLE',      // 33
+  'XXXX_WEAPON_FOCUS_GRENADE',       // 34
+  'WEAPON_FOCUS_HEAVY_WEAPONS',      // 35
+  'WEAPON_FOCUS_LIGHTSABER',         // 36
+  'WEAPON_FOCUS_MELEE_WEAPONS',      // 37
+  'XXXX_WEAPON_FOCUS_SIMPLE_WEAPONS',// 38
+  'WEAPON_PROF_BLASTER',             // 39
+  'WEAPON_PROF_BLASTER_RIFLE',       // 40
+  'XXXX_WEAPON_PROF_GRENADE',        // 41
+  'WEAPON_PROF_HEAVY_WEAPONS',       // 42
+  'WEAPON_PROF_LIGHTSABER',          // 43
+  'WEAPON_PROF_MELEE_WEAPONS',       // 44
+  'XXXX_WEAPON_PROF_SIMPLE_WEAPONS', // 45
+  'WEAPON_SPEC_BLASTER',             // 46
+  'WEAPON_SPEC_BLASTER_RIFLE',       // 47
+  'XXXX_WEAPON_SPEC_GRENADE',        // 48
+  'WEAPON_SPEC_HEAVY_WEAPONS',       // 49
+  'WEAPON_SPEC_LIGHTSABER',          // 50
+  'WEAPON_SPEC_MELEE_WEAPONS',       // 51
+  'XXXX_WEAPON_SPEC_SIMPLE_WEAPONS', // 52
+  'WHIRLWIND_ATTACK',                // 53
+  'XXXX_GUARD_STANCE',               // 54
+  'JEDI_DEFENSE',                    // 55
+  'UNCANNY_DODGE_1',                 // 56
+  'UNCANNY_DODGE_2',                 // 57
+  'XXXX_SKILL_FOCUS_COMPUTER_USE',   // 58
+  null,                              // 59 ****
+  'SNEAK_ATTACK_1D6',                // 60
+  'SNEAK_ATTACK_2D6',                // 61
+  'SNEAK_ATTACK_3D6',                // 62
+  'SNEAK_ATTACK_4D6',                // 63
+  'SNEAK_ATTACK_5D6',                // 64
+  'SNEAK_ATTACK_6D6',                // 65
+  'SNEAK_ATTACK_7D6',                // 66
+  'SNEAK_ATTACK_8D6',                // 67
+  'SNEAK_ATTACK_9D6',                // 68
+  'SNEAK_ATTACK_10D6',               // 69
+  'XXXX_SKILL_FOCUS_DEMOLITIONS',    // 70
+  'XXXX_SKILL_FOCUS_STEALTH',        // 71
+  'XXXX_SKILL_FOCUS_AWARENESS',      // 72
+  'XXXX_SKILL_FOCUS_PERSUADE',       // 73
+  'XXXX_SKILL_FOCUS_REPAIR',         // 74
+  'XXXX_SKILL_FOCUS_SECURITY',       // 75
+  'XXXX_SKILL_FOCUS_TREAT_INJURY',   // 76
+  'MASTER_SNIPER_SHOT',              // 77
+  'DROID_UPGRADE_1',                 // 78
+  'DROID_UPGRADE_2',                 // 79
+  'DROID_UPGRADE_3',                 // 80
+  'MASTER_CRITICAL_STRIKE',          // 81
+  'MASTER_POWER_BLAST',              // 82
+  'MASTER_POWER_ATTACK',             // 83
+  'TOUGHNESS',                       // 84
+  'TWO_WEAPON_MASTERY',              // 85
+  'XXXX_FORCE_FOCUS_ALTER',          // 86
+  'XXXX_FORCE_FOCUS_CONTROL',        // 87
+  'FORCE_FOCUS',                     // 88
+  'FORCE_FOCUS_ADVANCED',            // 89
+  'FORCE_FOCUS_MASTERY',             // 90
+  'IMPROVED_FLURRY',                 // 91
+  'IMPROVED_RAPID_SHOT',             // 92
+  'PROFICIENCY_ALL',                 // 93
+  'BATTLE_MEDITATION',               // 94
+  'WOOKIE_ENDURANCE',                // 95
+  'BLASTER_INTEGRATION',             // 96
+  'FORCE_CAMOFLAGE',                 // 97
+  'FORCE_IMMUNITY_FEAR',             // 98
+  'FORCE_IMMUNITY_STUN',             // 99
+  'FORCE_IMMUNITY_PARALYSIS',        // 100
+  'FORCE_JUMP',                      // 101
+  'FORCE_JUMP_ADVANCED',             // 102
+  'FORCE_JUMP_MASTERY',              // 103
+  'SCOUNDRELS_LUCK',                 // 104
+  'IMPROVED_SCOUNDRELS_LUCK',        // 105
+  'MASTER_SCOUNDRELS_LUCK',          // 106
+  'JEDI_SENSE',                      // 107
+  'KNIGHT_SENSE',                    // 108
+  'MASTER_SENSE',                    // 109
+  'LOGIC_UPGRADE_COMBAT',            // 110
+  'LOGIC_UPGRADE_TACTICIAN',         // 111
+  'LOGIC_UPGRADE_BATTLE_DROID',      // 112
+  'DUELING',                         // 113
+  'ADVANCED_DUELING',                // 114
+  'MASTER_DUELING',                  // 115
+  'FORCE_SENSITIVE',                 // 116
+  'IMPROVED_CAUTION',                // 117
+  'MASTER_CAUTION',                  // 118
+  'GEAR_HEAD_ADEPT',                 // 119
+  'GEAR_HEAD_MASTER',                // 120
+  'IMPROVED_EMPATHY',                // 121
+  'MASTER__EMPATHY',                 // 122
+  'IMPROVED_TOUGHNESS',              // 123
+  'MASTER_TOUGHNESS',                // 124
+];
+
+// Returns { name, valid, xxxx } or null for out-of-bounds
+function featInfo(id) {
+  if (id < 0 || id >= FEAT_NAMES.length) return { name: null, valid: false, xxxx: false };
+  const name = FEAT_NAMES[id];
+  if (name === null) return { name: null, valid: false, xxxx: false };
+  const xxxx = name.startsWith('XXXX_');
+  return { name, valid: true, xxxx };
+}
+
+// Short inline label for input rows
+function featInlineLabel(id) {
+  const info = featInfo(id);
+  if (!info.valid) return { text: '⚠ invalid', cls: 'invalid' };
+  if (info.xxxx)  return { text: info.name, cls: 'xxxx' };
+  return { text: info.name, cls: '' };
+}
+
+// ============================================================
+// SPELL TABLE
+// Names ending _XXX or _XXXX are cut/unused content
+// ============================================================
+const SPELL_NAMES = [
+  'FORCE_POWER_MASTER_ALTER_XXX',               // 0
+  'FORCE_POWER_MASTER_CONTROL_XXX',             // 1
+  'FORCE_POWER_MASTER_SENSE_XXX',               // 2
+  'FORCE_POWER_FORCE_JUMP_ADVANCED_XXX',        // 3
+  'FORCE_POWER_LIGHT_SABER_THROW_ADVANCED',     // 4
+  'FORCE_POWER_REGNERATION_ADVANCED_XXX',       // 5
+  'FORCE_POWER_AFFECT_MIND',                    // 6
+  'FORCE_POWER_AFFLICTION',                     // 7
+  'FORCE_POWER_SPEED_BURST',                    // 8
+  'FORCE_POWER_CHOKE',                          // 9
+  'FORCE_POWER_CURE',                           // 10
+  'FORCE_POWER_DEATH_FIELD',                    // 11
+  'FORCE_POWER_DROID_DISABLE',                  // 12
+  'FORCE_POWER_DROID_DESTROY',                  // 13
+  'FORCE_POWER_DOMINATE',                       // 14
+  'FORCE_POWER_DRAIN_LIFE',                     // 15
+  'FORCE_POWER_FEAR',                           // 16
+  'FORCE_POWER_FORCE_ARMOR',                    // 17
+  'FORCE_POWER_FORCE_AURA',                     // 18
+  'FORCE_POWER_FORCE_BREACH',                   // 19
+  'FORCE_POWER_FORCE_IMMUNITY',                 // 20
+  'FORCE_POWER_FORCE_JUMP_XXX',                 // 21
+  'FORCE_POWER_FORCE_VALOR',                    // 22
+  'FORCE_POWER_FORCE_PUSH',                     // 23
+  'FORCE_POWER_FORCE_SHIELD',                   // 24
+  'FORCE_POWER_FORCE_STORM',                    // 25
+  'FORCE_POWER_FORCE_WAVE',                     // 26
+  'FORCE_POWER_FORCE_WHIRLWIND',                // 27
+  'FORCE_POWER_HEAL',                           // 28
+  'FORCE_POWER_STASIS',                         // 29
+  'FORCE_POWER_HORROR',                         // 30
+  'FORCE_POWER_INSANITY',                       // 31
+  'FORCE_POWER_KILL',                           // 32
+  'FORCE_POWER_KNIGHT_VALOR',                   // 33
+  'FORCE_POWER_KNIGHT_SPEED',                   // 34
+  'FORCE_POWER_LIGHTNING',                      // 35
+  'FORCE_POWER_MASTER_VALOR',                   // 36
+  'FORCE_POWER_SPEED_MASTERY',                  // 37
+  'FORCE_POWER_PLAGUE',                         // 38
+  'FORCE_POWER_REGENERATION_XXX',               // 39
+  'FORCE_POWER_RESIST_ENERGY_2',                // 40
+  'FORCE_POWER_RESIST_FORCE',                   // 41
+  'FORCE_POWER_RESIST_ENERGY_1',                // 42
+  'FORCE_POWER_SHOCK',                          // 43
+  'FORCE_POWER_MASS_STASIS',                    // 44
+  'FORCE_POWER_SLOW',                           // 45
+  'FORCE_POWER_STUN',                           // 46
+  'FORCE_POWER_DROID_STUN',                     // 47
+  'FORCE_POWER_SUPRESS_FORCE',                  // 48
+  'FORCE_POWER_LIGHT_SABER_THROW',              // 49
+  'FORCE_POWER_WOUND',                          // 50
+  'SPECIAL_ABILITY_BATTLE_MEDITATION_XXXX',     // 51
+  'SPECIAL_ABILITY_BODY_FUEL',                  // 52
+  'SPECIAL_ABILITY_COMBAT_REGENERATION',        // 53
+  'SPECIAL_ABILITY_WARRIOR_STANCE_XXXX',        // 54
+  'SPECIAL_ABILITY_SENTINEL_STANCE_XXXX',       // 55
+  'SPECIAL_ABILITY_DOMINATE_MIND_XXX',          // 56
+  'SPECIAL_ABILITY_PSYCHIC_STANCE',             // 57
+  'SPECIAL_ABILITY_CATHAR_REFLEXES_XXX',        // 58
+  'SPECIAL_ABILITY_ENHANCED_SENSES',            // 59
+  'SPECIAL_ABILITY_CAMOFLAGE',                  // 60
+  'SPECIAL_ABILITY_TAUNT_XXX',                  // 61
+  'SPECIAL_ABILITY_WHIRLING_DERVISH_XXX',       // 62
+  'SPECIAL_ABILITY_RAGE',                       // 63
+  'ITEM_ABILITY_MED_PACK',                      // 64
+  'ITEM_ABILITY_ADVANCED_MED_PACK',             // 65
+  'ITEM_ABILITY_LIFE_SUPPORT_KIT',              // 66
+  'ITEM_ABILITY_REMOVE_POISON',                 // 67
+  'PLOT_MAN_ABILITY_SONIC_UPGRADE',             // 68
+  'ITEM_ABILITY_ADRENAL_SHOT_STRENGTH',         // 69
+  'ITEM_ABILITY_ADRENAL_SHOT_ALACRITY',         // 70
+  'ITEM_ABILITY_ADRENAL_SHOT_STAMINA',          // 71
+  'ITEM_ABILITY_HYPER_ADRENAL_SHOT_STRENGTH',   // 72
+  'ITEM_ABILITY_HYPER_ADRENAL_SHOT_ALACRITY',   // 73
+  'ITEM_ABILITY_HYPER_ADRENAL_SHOT_STAMINA',    // 74
+  'ITEM_ABILITY_COMBAT_SHOT_1',                 // 75
+  'ITEM_ABILITY_COMBAT_SHOT_2',                 // 76
+  'ITEM_ABILITY_COMBAT_SHOT_3',                 // 77
+  'ITEM_ABILITY_SHIELD_DISRUPTER',              // 78
+  'ITEM_ABILITY_SHIELD_DISRUPTER_ADVANCED',     // 79
+  'ITEM_ABILITY_OIL_SLICK',                     // 80
+  'ITEM_ABILITY_GRAVITY_GENERATOR',             // 81
+  'ITEM_ABILITY_GRAVITY_GENERATOR_ADVANCED',    // 82
+  'MONSTER_ABILITY_SLAM_ATTACK',                // 83
+  'ITEM_ABILITY_DROID_REPAIR_KIT',              // 84
+  'PLOT_TAT_SAND_PERSON_DISGUISE',              // 85
+  'PLOT_TAR_SITH_DISGUISE',                     // 86
+  'ITEM_ABILITY_GRENADE_FRAGMENTATION',         // 87
+  'ITEM_ABILITY_GRENADE_STUN',                  // 88
+  'ITEM_ABILITY_GRENADE_THERMAL_DETONATOR',     // 89
+  'ITEM_ABILITY_GRENADE_POISON',                // 90
+  'ITEM_ABILITY_GRENADE_SONIC',                 // 91
+  'ITEM_ABILITY_GRENADE_ADHESIVE',              // 92
+  'ITEM_ABILITY_GRENADE_CRYOBAN',               // 93
+  'ITEM_ABILITY_GRENADE_FIRE',                  // 94
+  'ITEM_ABILITY_GRENADE_ION',                   // 95
+  'PLOT_UNK_GRENADE_RANCOR',                    // 96
+  'PLOT_KOR_GRENADE_FIRE',                      // 97
+  'PLOT_KOR_GRENADE_COLD',                      // 98
+  'ITEM_ABILITY_ENERGY_SHIELD',                 // 99
+  'ITEM_ABILITY_SITH_ENERGY_SHIELD',            // 100
+  'ITEM_ABILITY_ARKANIAN_ENERGY_SHIELD',        // 101
+  'ITEM_ABILITY_ECHANI_SHIELD',                 // 102
+  'ITEM_ABILITY_MANDLORIAN_MELEE_SHIELD',       // 103
+  'ITEM_ABILITY_MANDLORIAN_POWER_SHIELD',       // 104
+  'ITEM_ABILITY_ECHANI_DUELING_SHIELD',         // 105
+  'ITEM_ABILITY_YUSANIS_DUELING_SHIELD',        // 106
+  'ITEM_ABILITY_VERPINE_ENERGY_SHIELD',         // 107
+  'ITEM_ABILITY_CLOAKING_DEVICE',               // 108
+  'PLOT_LEV_DAMAGE_SPACE_SUIT',                 // 109
+  'DROID_ITEM_ENERGY_SHIELD_1',                 // 110
+  'DROID_ITEM_ENERGY_SHIELD_2',                 // 111
+  'DROID_ITEM_ENERGY_SHIELD_3',                 // 112
+  'DROID_ITEM_HAZARD_SHIELD_1',                 // 113
+  'DROID_ITEM_HAZARD_SHIELD_2',                 // 114
+  'DROID_ITEM_HAZARD_SHIELD_3',                 // 115
+  'DROID_ITEM_STUN_RAY_1',                      // 116
+  'DROID_ITEM_STUN_RAY_2',                      // 117
+  'DROID_ITEM_SHIELD_DISRUPTOR_1',              // 118
+  'DROID_ITEM_SHIELD_DISRUPTOR_2',              // 119
+  'DROID_ITEM_FLAME_THROWER_1',                 // 120
+  'DROID_ITEM_FLAME_THROWER_2',                 // 121
+  'DROID_ITEM_CARBONITE_PROJECTOR_1',           // 122
+  'DROID_ITEM_CARBONITE_PROJECTOR_2',           // 123
+  'DROID_ITEM_GRAVITY_GENERATOR_1',             // 124
+  'DROID_ITEM_GRAVITY_GENERATOR_2',             // 125
+  'PLOT_UNK_COLD_SERUM',                        // 126
+  'ITEM_ABILITY_DROID_REPAIR_KIT_ADV',          // 127
+  'ITEM_ABILITY_DROID_CONSTRUCTION_KIT',        // 128
+  'ITEM_ABILITY_RECOVERY_STIM',                 // 129
+  'MONSTER_ABILITY_FIRE_BREATH',                // 130
+  'MONSTER_ABILITY_SONIC_HOWL',                 // 131
+];
+
+function spellInfo(id) {
+  if (id < 0 || id >= SPELL_NAMES.length) return { name: null, valid: false, xxxx: false };
+  const name = SPELL_NAMES[id];
+  const xxxx = name.endsWith('_XXX') || name.endsWith('_XXXX');
+  return { name, valid: true, xxxx };
+}
+
+function spellInlineLabel(id) {
+  const info = spellInfo(id);
+  if (!info.valid) return { text: '⚠ invalid', cls: 'invalid' };
+  if (info.xxxx)  return { text: info.name, cls: 'xxxx' };
+  return { text: info.name, cls: '' };
+}
+
+// ============================================================
+// POPULATE DATALISTS
+// ============================================================
+(function populateDatalist(elId, names, infoFn) {
+  const dl = document.getElementById(elId);
+  names.forEach((name, id) => {
+    if (name === null) return;
+    const opt = document.createElement('option');
+    opt.value = `${name} (${id})`;
+    dl.appendChild(opt);
+  });
+})('featDatalist', FEAT_NAMES, featInfo);
+
+(function() {
+  ['spellDatalist', 'knownSpellDatalist'].forEach(elId => {
+    const dl = document.getElementById(elId);
+    SPELL_NAMES.forEach((name, id) => {
+      const opt = document.createElement('option');
+      opt.value = `${name} (${id})`;
+      dl.appendChild(opt);
+    });
+  });
+})();
+
+// ============================================================
+// CONSTANTS
+// ============================================================
+const SKILL_NAMES  = ['computerUse','demolitions','stealth','awareness','persuade','repair','security','treatInjury'];
+const SKILL_LABELS = ['Computer Use','Demolitions','Stealth','Awareness','Persuade','Repair','Security','Treat Injury'];
+const SKILL_SHORT  = ['CmpUse','Demo','Stealth','Aware','Persuade','Repair','Security','TrtInj'];
+const CLASS_NAMES  = ['Soldier','Scout','Scoundrel','Jedi Guardian','Jedi Consular','Jedi Sentinel','Combat Droid','Expert Droid','Minion'];
+
+// SKILL_COSTS[classIndex][skillIndex]: 1=class skill, 2=cross-class, -1=unavailable
+// Skill order: Computer, Demolitions, Stealth, Awareness, Persuade, Repair, Security, Treat Injury
+const SKILL_COSTS = [
+  [ 2, 1,  2, 1, 2, 2, 2,  1], // 0 Soldier
+  [ 1, 1,  2, 1, 2, 1, 2,  1], // 1 Scout
+  [ 2, 1,  1, 1, 1, 2, 1,  2], // 2 Scoundrel
+  [ 2, 2,  2, 1, 1, 2, 2,  1], // 3 Jedi Guardian
+  [ 2, 1,  2, 1, 1, 1, 2,  1], // 4 Jedi Consular
+  [ 2, 2,  2, 1, 1, 2, 2,  1], // 5 Jedi Sentinel
+  [ 1, 1, -1, 1,-1, 1, 1, -1], // 6 Combat Droid
+  [ 1, 2, -1, 2,-1, 1, 1, -1], // 7 Expert Droid
+];
+const ATTR_NAMES   = ['STR','DEX','CON','INT','WIS','CHA'];
+
+const COLOR = {
+  cls: '#2255aa', attr: '#7733bb', skillFlags: '#cc7700',
+  skill: '#227744', skillPts: '#226677',
+  featCount: '#883322', feat: '#aa4433',
+  spellCount: '#882255', spell: '#aa3377',
+  knownCount: '#887700', known: '#aaaa22',
+  overflow: '#cc2200', leftover: '#525262',
+};
+
+// ============================================================
+// BUILD SKILLS INPUT UI
+// ============================================================
+(function buildSkillsUI() {
+  const container = document.getElementById('skillsList');
+  SKILL_NAMES.forEach((name, i) => {
+    const row = document.createElement('div');
+    row.className = 'skill-row';
+    row.innerHTML = `
+      <input type="checkbox" id="chkSkill_${name}">
+      <label for="chkSkill_${name}" id="lblSkill_${name}">${SKILL_LABELS[i]}</label>
+      <input type="number" id="inpSkill_${name}" min="1" max="255" value="1" disabled style="opacity:0.35">
+    `;
+    container.appendChild(row);
+    row.querySelector(`#chkSkill_${name}`).addEventListener('change', function() {
+      const inp = document.getElementById(`inpSkill_${name}`);
+      inp.disabled = !this.checked;
+      inp.style.opacity = this.checked ? '1' : '0.35';
+      update();
+    });
+    row.querySelector(`#inpSkill_${name}`).addEventListener('input', update);
+  });
+})();
+
+// ============================================================
+// UPDATE SKILLS FOR CLASS
+// ============================================================
+function updateSkillsForClass(classIndex) {
+  const costs = SKILL_COSTS[classIndex] || null;
+  SKILL_NAMES.forEach((name, i) => {
+    const cost = costs ? costs[i] : 1;
+    const unavailable = cost === -1;
+    const crossClass  = cost === 2;
+
+    const chk = document.getElementById(`chkSkill_${name}`);
+    const inp = document.getElementById(`inpSkill_${name}`);
+    const lbl = document.getElementById(`lblSkill_${name}`);
+    const row = chk.closest('.skill-row');
+
+    lbl.innerHTML = SKILL_LABELS[i] + (crossClass ? ' <span class="cross-class-star">*</span>' : '');
+
+    if (unavailable) {
+      if (chk.checked) {
+        chk.checked = false;
+        inp.disabled = true;
+        inp.style.opacity = '0.35';
+      }
+      chk.disabled = true;
+      row.classList.add('skill-unavailable');
+    } else {
+      chk.disabled = false;
+      row.classList.remove('skill-unavailable');
+    }
+  });
+}
+
+// ============================================================
+// DYNAMIC LIST HELPER
+// labelFn(value) → { text, cls } — if provided, shows an inline label after the input
+// ============================================================
+function makeDynList(listId, countId, maxVal, addBtnId, labelFn) {
+  const list    = document.getElementById(listId);
+  const countEl = document.getElementById(countId);
+
+  function updateLabel(row, val) {
+    if (!labelFn) return;
+    const span = row.querySelector('.feat-inline');
+    if (!span) return;
+    const { text, cls } = labelFn(val);
+    span.textContent = text;
+    span.className   = 'feat-inline' + (cls ? ' ' + cls : '');
+  }
+
+  function renumber() {
+    Array.from(list.children).forEach((r, i) => { r.querySelector('.dyn-idx').textContent = i + 1; });
+    countEl.textContent = `(${list.children.length})`;
+  }
+
+  function addRow(val = 0) {
+    const row = document.createElement('div');
+    row.className = 'dyn-row';
+    const labelSpan = labelFn ? `<span class="feat-inline"></span>` : '';
+    row.innerHTML = `
+      <span class="dyn-idx">${list.children.length + 1}</span>
+      <input type="number" min="0" max="${maxVal}" value="${val}">
+      ${labelSpan}
+      <button class="btn-remove">×</button>
+    `;
+    const inp = row.querySelector('input');
+    inp.addEventListener('input', () => { updateLabel(row, parseInt(inp.value) || 0); update(); });
+    row.querySelector('.btn-remove').addEventListener('click', () => { row.remove(); renumber(); update(); });
+    list.appendChild(row);
+    updateLabel(row, val);
+    countEl.textContent = `(${list.children.length})`;
+    if (!initializing) update();
+  }
+
+  function getValues() {
+    return Array.from(list.querySelectorAll('input[type="number"]')).map(inp => parseInt(inp.value) || 0);
+  }
+
+  if (addBtnId) document.getElementById(addBtnId).addEventListener('click', () => addRow());
+  return { getValues, addRow };
+}
+
+let initializing = true;
+
+const featCtrl       = makeDynList('featList',      'featCount',       65535,      null,               id => featInlineLabel(id));
+const spellCtrl      = makeDynList('spellList',      'spellCount',      4294967295, null, id => spellInlineLabel(id));
+const knownSpellCtrl = makeDynList('knownSpellList', 'knownSpellCount', 4294967295, null, id => spellInlineLabel(id));
+
+// ============================================================
+// STATE READER
+// ============================================================
+function readState() {
+  const attrPresent = document.getElementById('chkAttr').checked;
+  const skills = {};
+  let skillFlagsByte = 0;
+  SKILL_NAMES.forEach((name, i) => {
+    const chk = document.getElementById(`chkSkill_${name}`).checked;
+    if (chk) skillFlagsByte |= (1 << i);
+    skills[name] = chk ? (parseInt(document.getElementById(`inpSkill_${name}`).value) || 0) : 0;
+  });
+  return {
+    classIndex:  parseInt(document.getElementById('selClass').value) || 0,
+    attrPresent,
+    attrIndex:   parseInt(document.getElementById('selAttr').value) || 0,
+    skillFlags:  skillFlagsByte,
+    skills,
+    skillPoints: parseInt(document.getElementById('inpSkillPoints').value) || 0,
+    feats:       featCtrl.getValues(),
+    spells:      spellCtrl.getValues(),
+    knownSpells: knownSpellCtrl.getValues(),
+  };
+}
+
+// ============================================================
+// INTENDED SEGMENT BUILDER
+// ============================================================
+function buildSegments(s) {
+  const segs = [];
+  const push = (label, bytes, color, value) => segs.push({ label, bytes, color, value });
+
+  push('Class', 1, COLOR.cls, s.classIndex);
+  if (s.attrPresent) push('Attr Index', 1, COLOR.attr, s.attrIndex);
+  push('Skill Flags', 4, COLOR.skillFlags, s.skillFlags);
+  SKILL_NAMES.forEach((name, i) => {
+    if (s.skillFlags & (1 << i)) push(SKILL_LABELS[i], 1, COLOR.skill, s.skills[name]);
+  });
+  push('Skill Points', 2, COLOR.skillPts, s.skillPoints);
+  push('Feat Count',  1, COLOR.featCount, s.feats.length);
+  s.feats.forEach((v, i) => push(`Feat ${i}`, 2, COLOR.feat, v));
+  push('Spell Count', 1, COLOR.spellCount, s.spells.length);
+  s.spells.forEach((v, i) => push(`Spell ${i}`, 4, COLOR.spell, v));
+  push('Known Count', 1, COLOR.knownCount, s.knownSpells.length);
+  s.knownSpells.forEach((v, i) => push(`Known ${i}`, 4, COLOR.known, v));
+  return segs;
+}
+
+// ============================================================
+// SERIALIZER
+// ============================================================
+function serialize(s) {
+  const segs = buildSegments(s);
+  const buf  = new Uint8Array(segs.reduce((a, b) => a + b.bytes, 0));
+  const view = new DataView(buf.buffer);
+  let o = 0;
+  const u8  = v => { view.setUint8(o, v & 0xff);          o += 1; };
+  const u16 = v => { view.setUint16(o, v & 0xffff, true); o += 2; };
+  const u32 = v => { view.setUint32(o, v >>> 0,    true); o += 4; };
+
+  u8(s.classIndex);
+  if (s.attrPresent) u8(s.attrIndex);
+  u8(s.skillFlags); u8(0); u8(0); u8(0);
+  SKILL_NAMES.forEach((name, i) => { if (s.skillFlags & (1 << i)) u8(s.skills[name] & 0xff); });
+  u16(s.skillPoints);
+  u8(s.feats.length & 0xff);       s.feats.forEach(v => u16(v));
+  u8(s.spells.length & 0xff);      s.spells.forEach(v => u32(v));
+  u8(s.knownSpells.length & 0xff); s.knownSpells.forEach(v => u32(v));
+  return buf;
+}
+
+// ============================================================
+// PARSER SIMULATOR
+// ============================================================
+function parseBytes(rawBytes, parserExpectsAttr) {
+  const totalLen = rawBytes.length;
+  let offset = 0;
+  const segs   = [];
+  const parsed = {};
+
+  function readU8() {
+    if (offset >= totalLen) { offset++; return null; }
+    return rawBytes[offset++];
+  }
+  function readU16LE() {
+    const lo = readU8(), hi = readU8();
+    return (lo === null || hi === null) ? null : (lo | (hi << 8));
+  }
+  function readU32LE() {
+    const b = [readU8(), readU8(), readU8(), readU8()];
+    return b.includes(null) ? null : ((b[0] | (b[1]<<8) | (b[2]<<16) | (b[3]<<24)) >>> 0);
+  }
+  function seg(label, byteCount, color, value, isOvf) {
+    segs.push({ label, bytes: byteCount, color, value: value ?? 0, overflow: !!isOvf });
+  }
+  function field(value) { return { value: value ?? 0, overflow: value === null }; }
+
+  const cls = readU8();
+  seg('Class', 1, COLOR.cls, cls, cls === null);
+  parsed.classIndex = field(cls);
+
+  parsed.attrRead = parserExpectsAttr;
+  if (parserExpectsAttr) {
+    const attr = readU8();
+    seg('Attr Index', 1, COLOR.attr, attr, attr === null);
+    parsed.attrIndex = field(attr);
+  } else {
+    parsed.attrIndex = null;
+  }
+
+  const sf0 = readU8();
+  readU8(); readU8(); readU8();
+  const sfByte = sf0 ?? 0;
+  seg('Skill Flags', 4, COLOR.skillFlags, sfByte, sf0 === null);
+  parsed.skillFlagsByte = field(sf0);
+
+  parsed.skills = SKILL_NAMES.map((name, i) => {
+    const present = !!(sfByte & (1 << i));
+    if (!present) return { label: SKILL_LABELS[i], present: false, value: 0, overflow: false };
+    const sk = readU8();
+    seg(SKILL_LABELS[i], 1, COLOR.skill, sk, sk === null);
+    return { label: SKILL_LABELS[i], present: true, value: sk ?? 0, overflow: sk === null };
+  });
+
+  const sp = readU16LE();
+  seg('Skill Points', 2, COLOR.skillPts, sp, sp === null);
+  parsed.skillPoints = field(sp);
+
+  const fcRaw = readU8();
+  const fc = fcRaw ?? 0;
+  seg('Feat Count', 1, COLOR.featCount, fcRaw, fcRaw === null);
+  parsed.featCount = field(fcRaw);
+  parsed.feats = [];
+  for (let i = 0; i < fc; i++) {
+    const f = readU16LE();
+    seg(`Feat ${i}`, 2, COLOR.feat, f, f === null);
+    parsed.feats.push(field(f));
+  }
+
+  const scRaw = readU8();
+  const sc = scRaw ?? 0;
+  seg('Spell Count', 1, COLOR.spellCount, scRaw, scRaw === null);
+  parsed.spellCount = field(scRaw);
+  parsed.spells = [];
+  for (let i = 0; i < sc; i++) {
+    const sv = readU32LE();
+    seg(`Spell ${i}`, 4, COLOR.spell, sv, sv === null);
+    parsed.spells.push(field(sv));
+  }
+
+  const kcRaw = readU8();
+  const kc = kcRaw ?? 0;
+  seg('Known Count', 1, COLOR.knownCount, kcRaw, kcRaw === null);
+  parsed.knownSpellCount = field(kcRaw);
+  parsed.knownSpells = [];
+  for (let i = 0; i < kc; i++) {
+    const kv = readU32LE();
+    seg(`Known ${i}`, 4, COLOR.known, kv, kv === null);
+    parsed.knownSpells.push(field(kv));
+  }
+
+  const anyOverflow = segs.some(s => s.overflow);
+  let parseResult;
+  if (anyOverflow) {
+    parseResult = { type: 'overread', missing: offset - totalLen };
+  } else {
+    const leftover = totalLen - offset;
+    parseResult = leftover > 0 ? { type: 'underread', leftover } : { type: 'exact' };
+  }
+
+  return { segs, parsed, parseResult, bytesConsumed: Math.min(offset, totalLen) };
+}
+
+// ============================================================
+// BYTE ROW RENDERER
+// ============================================================
+function renderRow(segs, rowId, totalBytes) {
+  const row = document.getElementById(rowId);
+  while (row.firstChild) row.removeChild(row.firstChild);
+  if (!totalBytes) return;
+
+  segs.forEach(seg => {
+    const el = document.createElement('div');
+    el.className = 'seg' + (seg.overflow ? ' seg-overflow' : '');
+    let bg = seg.overflow ? COLOR.overflow : seg.leftover ? COLOR.leftover : seg.color;
+    el.style.cssText = `width:${(seg.bytes / totalBytes) * 100}%;background:${bg}`;
+
+    const hexVal = '0x' + seg.value.toString(16).toUpperCase().padStart(2, '0');
+    let tip = seg.overflow  ? '<br><em style="color:#ff8888">⚠ Read past end of message</em>'
+            : seg.leftover  ? '<br><em style="color:#aaa">Unread bytes remaining</em>'
+            : '';
+
+    el.innerHTML = `
+      <span class="seg-name">${seg.label}</span>
+      <span class="seg-bytes">${seg.bytes}B</span>
+      <div class="seg-tooltip"><strong>${seg.label}</strong><br>Bytes: ${seg.bytes}<br>Value: ${hexVal} (${seg.value})${tip}</div>
+    `;
+    row.appendChild(el);
+  });
+}
+
+// ============================================================
+// PARSED PANELS RENDERER
+// ============================================================
+function renderParsedPanels(parsed) {
+  function row(key, valHtml) {
+    return `<div class="p-row"><span class="p-key">${key}</span>${valHtml}</div>`;
+  }
+  function ovf()    { return `<span class="p-val err">⚠ overflow</span>`; }
+  function notRead(){ return `<span class="p-val dim">— not read</span>`; }
+
+  function fmtU8(f) {
+    if (!f || f.overflow) return ovf();
+    return `<span class="p-val">0x${f.value.toString(16).toUpperCase().padStart(2,'0')} (${f.value})</span>`;
+  }
+  function fmtU16(f) {
+    if (!f || f.overflow) return ovf();
+    return `<span class="p-val">0x${f.value.toString(16).toUpperCase().padStart(4,'0')} (${f.value})</span>`;
+  }
+  function fmtU32(f) {
+    if (!f || f.overflow) return ovf();
+    return `<span class="p-val">0x${f.value.toString(16).toUpperCase().padStart(8,'0')} (${f.value})</span>`;
+  }
+  function fmtSpell(f) {
+    if (!f || f.overflow) return ovf();
+    const id   = f.value;
+    const info = spellInfo(id);
+    if (!info.valid) {
+      return `<span class="p-val"><span class="feat-name-invalid">⚠ invalid</span> <span class="feat-id">(${id})</span></span>`;
+    }
+    const cls = info.xxxx ? 'feat-name-xxxx' : 'feat-name-valid';
+    return `<span class="p-val"><span class="${cls}">${info.name}</span> <span class="feat-id">(${id})</span></span>`;
+  }
+  function fmtCount(f) {
+    if (!f || f.overflow) return ovf();
+    return `<span class="p-val">${f.value}</span>`;
+  }
+
+  // Feat display: name (id), invalid notice, or overflow
+  function fmtFeat(f) {
+    if (!f || f.overflow) return ovf();
+    const id   = f.value;
+    const info = featInfo(id);
+    if (!info.valid) {
+      return `<span class="p-val"><span class="feat-name-invalid">⚠ invalid</span> <span class="feat-id">(${id})</span></span>`;
+    }
+    const cls = info.xxxx ? 'feat-name-xxxx' : 'feat-name-valid';
+    return `<span class="p-val"><span class="${cls}">${info.name}</span> <span class="feat-id">(${id})</span></span>`;
+  }
+
+  // --- Header ---
+  let classHtml;
+  if (parsed.classIndex.overflow) {
+    classHtml = ovf();
+  } else {
+    const v = parsed.classIndex.value;
+    const name = CLASS_NAMES[v] || 'Unknown';
+    classHtml = `<span class="p-val">${name} (0x${v.toString(16).toUpperCase().padStart(2,'0')})</span>`;
+  }
+
+  let attrHtml;
+  if (!parsed.attrRead) {
+    attrHtml = notRead();
+  } else if (parsed.attrIndex.overflow) {
+    attrHtml = ovf();
+  } else {
+    const v = parsed.attrIndex.value;
+    const name = ATTR_NAMES[v] || 'Unknown';
+    attrHtml = `<span class="p-val">${name} (${v})</span>`;
+  }
+
+  document.getElementById('parsedHeader').innerHTML = `
+    <h2>Header</h2>
+    ${row('Class', classHtml)}
+    ${row('AttributeIndex', attrHtml)}
+  `;
+
+  // --- Skills ---
+  let sfHtml;
+  if (parsed.skillFlagsByte.overflow) {
+    sfHtml = ovf();
+  } else {
+    const v   = parsed.skillFlagsByte.value;
+    const hex = v.toString(16).toUpperCase().padStart(2, '0');
+    const bitsHtml = Array.from({length: 8}, (_, k) => {
+      const bit = 7 - k;
+      const on  = !!(v & (1 << bit));
+      return `<span class="${on ? 'bit-on' : 'bit-off'}">${on ? '1' : '0'}</span>`;
+    }).join('');
+    sfHtml = `<span class="p-val">0x${hex}<span class="bits"> ${bitsHtml}</span></span>`;
+  }
+
+  const skillRows = parsed.skills.map(sk => {
+    let valHtml;
+    if (!sk.present) {
+      valHtml = `<span class="p-val dim">— (bit not set)</span>`;
+    } else if (sk.overflow) {
+      valHtml = ovf();
+    } else {
+      valHtml = `<span class="p-val">0x${sk.value.toString(16).toUpperCase().padStart(2,'0')} (${sk.value})</span>`;
+    }
+    return row(sk.label, valHtml);
+  }).join('');
+
+  document.getElementById('parsedSkills').innerHTML = `
+    <h2>Skills</h2>
+    ${row('SkillFlags', sfHtml)}
+    ${skillRows}
+    ${row('Skill Points', fmtU16(parsed.skillPoints))}
+  `;
+
+  // --- Generic list renderer ---
+  const MAX_SHOW = 32;
+
+  function listSection(elId, title, countField, items, fmtFn) {
+    let itemRows = items.slice(0, MAX_SHOW).map((it, i) => row(`#${i + 1}`, fmtFn(it))).join('');
+    if (items.length > MAX_SHOW) {
+      itemRows += `<div class="p-row"><span class="p-key" style="font-style:italic;color:#7788aa">… ${items.length - MAX_SHOW} more</span></div>`;
+    }
+    document.getElementById(elId).innerHTML = `
+      <h2>${title}</h2>
+      ${row('Count', fmtCount(countField))}
+      ${itemRows || `<div class="p-section-empty">none</div>`}
+    `;
+  }
+
+  listSection('parsedFeats',       'Feats',       parsed.featCount,       parsed.feats,       fmtFeat);
+  listSection('parsedSpells',      'Spells',       parsed.spellCount,      parsed.spells,      fmtSpell);
+  listSection('parsedKnownSpells', 'Known Spells', parsed.knownSpellCount, parsed.knownSpells, fmtSpell);
+}
+
+// ============================================================
+// UPDATE
+// ============================================================
+function update() {
+  const s          = readState();
+  const segs       = buildSegments(s);
+  const totalBytes = segs.reduce((a, b) => a + b.bytes, 0);
+
+  renderRow(segs, 'byteRow', totalBytes);
+  document.getElementById('totalLine').textContent = `Total: ${totalBytes} byte${totalBytes !== 1 ? 's' : ''}`;
+
+  const raw = serialize(s);
+  document.getElementById('hexDump').value =
+    Array.from(raw).map(b => b.toString(16).toUpperCase().padStart(2,'0')).join(' ') || '(empty)';
+
+  const parserExpectsAttr = document.getElementById('chkParserAttr').checked;
+  const { segs: parsedSegs, parsed, parseResult } = parseBytes(raw, parserExpectsAttr);
+
+  if (parseResult.type === 'underread') {
+    parsedSegs.push({ label:'LEFTOVER', bytes: parseResult.leftover, color: COLOR.leftover,
+                      value: parseResult.leftover, overflow: false, leftover: true });
+  }
+  renderRow(parsedSegs, 'parsedRow', totalBytes || 1);
+
+  const statusEl = document.getElementById('parseStatus');
+  if (parseResult.type === 'exact') {
+    statusEl.textContent = '✓ Exact';
+    statusEl.className   = 'parse-status exact';
+  } else if (parseResult.type === 'underread') {
+    statusEl.textContent = `⚠ Underread — ${parseResult.leftover} byte(s) leftover`;
+    statusEl.className   = 'parse-status underread';
+  } else {
+    statusEl.textContent = `✗ Overread — ${parseResult.missing} byte(s) short`;
+    statusEl.className   = 'parse-status overread';
+  }
+
+  renderParsedPanels(parsed);
+
+  // Skill tally
+  const skillCosts = SKILL_COSTS[s.classIndex] || null;
+  let pointsSpent = 0;
+  SKILL_NAMES.forEach((name, i) => {
+    if (!(s.skillFlags & (1 << i))) return;
+    const cost = skillCosts ? skillCosts[i] : 1;
+    if (cost < 1) return;
+    pointsSpent += cost * s.skills[name];
+  });
+  document.getElementById('skillTally').textContent = `Total Skill Points Required: ${s.skillPoints + pointsSpent}`;
+
+  let minLevel = 1;
+  let anySkill = false;
+  SKILL_NAMES.forEach((name, i) => {
+    if (!(s.skillFlags & (1 << i))) return;
+    const cost = skillCosts ? skillCosts[i] : 1;
+    if (cost < 1) return;
+    anySkill = true;
+    const v = s.skills[name];
+    const required = cost === 2 ? (2 * v - 3) : (v - 3);
+    minLevel = Math.max(minLevel, required);
+  });
+  document.getElementById('skillMinLevel').textContent = `Min Level: ${anySkill ? minLevel : 0}`;
+
+  document.getElementById('featCount').textContent       = `(${s.feats.length})`;
+  document.getElementById('spellCount').textContent      = `(${s.spells.length})`;
+  document.getElementById('knownSpellCount').textContent = `(${s.knownSpells.length})`;
+
+  saveState();
+}
+
+// ============================================================
+// PERSISTENCE
+// ============================================================
+function saveState() {
+  try {
+    const s = readState();
+    s.parserExpectsAttr = document.getElementById('chkParserAttr').checked;
+    localStorage.setItem('levelUpCalcState', JSON.stringify(s));
+  } catch(e) {}
+}
+
+function loadState() {
+  try {
+    const raw = localStorage.getItem('levelUpCalcState');
+    if (!raw) return;
+    const s = JSON.parse(raw);
+
+    if (s.classIndex != null) document.getElementById('selClass').value = s.classIndex;
+    if (s.attrPresent) {
+      document.getElementById('chkAttr').checked = true;
+      document.getElementById('selAttr').disabled = false;
+    }
+    if (s.attrIndex != null) document.getElementById('selAttr').value = s.attrIndex;
+
+    SKILL_NAMES.forEach((name, i) => {
+      if (s.skillFlags & (1 << i)) {
+        document.getElementById(`chkSkill_${name}`).checked = true;
+        const inp = document.getElementById(`inpSkill_${name}`);
+        inp.disabled = false;
+        inp.style.opacity = '1';
+        if (s.skills?.[name] != null) inp.value = s.skills[name];
+      }
+    });
+
+    if (s.skillPoints != null) document.getElementById('inpSkillPoints').value = s.skillPoints;
+
+    (s.feats       || []).forEach(v => featCtrl.addRow(v));
+    (s.spells      || []).forEach(v => spellCtrl.addRow(v));
+    (s.knownSpells || []).forEach(v => knownSpellCtrl.addRow(v));
+
+    if (s.parserExpectsAttr) document.getElementById('chkParserAttr').checked = true;
+  } catch(e) {}
+}
+
+// ============================================================
+// EVENT WIRING
+// ============================================================
+document.getElementById('selClass').addEventListener('change', function() {
+  updateSkillsForClass(parseInt(this.value) || 0);
+  update();
+});
+document.getElementById('chkAttr').addEventListener('change', function() {
+  document.getElementById('selAttr').disabled = !this.checked;
+  update();
+});
+document.getElementById('selAttr').addEventListener('change', update);
+document.getElementById('inpSkillPoints').addEventListener('input', update);
+document.getElementById('chkParserAttr').addEventListener('change', update);
+
+document.getElementById('btnAddFeat').addEventListener('click', () => {
+  const raw = document.getElementById('featSearchInput').value.trim();
+  let id = parseInt(raw);
+  if (isNaN(id)) {
+    const match = raw.match(/\((\d+)\)\s*$/);
+    if (match) id = parseInt(match[1]);
+  }
+  if (!isNaN(id) && id >= 0) {
+    featCtrl.addRow(id);
+    document.getElementById('featSearchInput').value = '';
+  }
+});
+document.getElementById('featSearchInput').addEventListener('keydown', e => {
+  if (e.key === 'Enter') document.getElementById('btnAddFeat').click();
+});
+
+function wireSpellSearch(inputId, btnId, ctrl) {
+  document.getElementById(btnId).addEventListener('click', () => {
+    const raw = document.getElementById(inputId).value.trim();
+    let id = parseInt(raw);
+    if (isNaN(id)) {
+      const match = raw.match(/\((\d+)\)\s*$/);
+      if (match) id = parseInt(match[1]);
+    }
+    if (!isNaN(id) && id >= 0) {
+      ctrl.addRow(id);
+      document.getElementById(inputId).value = '';
+    }
+  });
+  document.getElementById(inputId).addEventListener('keydown', e => {
+    if (e.key === 'Enter') document.getElementById(btnId).click();
+  });
+}
+wireSpellSearch('spellSearchInput',      'btnAddSpell',      spellCtrl);
+wireSpellSearch('knownSpellSearchInput', 'btnAddKnownSpell', knownSpellCtrl);
+
+document.getElementById('btnClear').addEventListener('click', () => {
+  document.getElementById('selClass').value = '0';
+  document.getElementById('chkAttr').checked = false;
+  document.getElementById('selAttr').disabled = true;
+  document.getElementById('selAttr').value = '0';
+  SKILL_NAMES.forEach(name => {
+    document.getElementById(`chkSkill_${name}`).checked = false;
+    const inp = document.getElementById(`inpSkill_${name}`);
+    inp.disabled = true;
+    inp.style.opacity = '0.35';
+    inp.value = '0';
+  });
+  document.getElementById('inpSkillPoints').value = '0';
+  document.getElementById('featList').innerHTML = '';
+  document.getElementById('spellList').innerHTML = '';
+  document.getElementById('knownSpellList').innerHTML = '';
+  document.getElementById('featCount').textContent = '(0)';
+  document.getElementById('spellCount').textContent = '(0)';
+  document.getElementById('knownSpellCount').textContent = '(0)';
+  document.getElementById('chkParserAttr').checked = false;
+  update();
+});
+
+loadState();
+initializing = false;
+updateSkillsForClass(parseInt(document.getElementById('selClass').value) || 0);
+update();
+</script>
+</body>
+</html>
