@@ -352,6 +352,40 @@
   }
   .feat-add-row input[type="text"]:focus { border-color: #7788cc; }
 
+  .share-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 14px;
+    flex-wrap: wrap;
+  }
+  .share-row input[type="text"] {
+    flex: 1;
+    min-width: 140px;
+    background: #363656;
+    border: 1px solid #444477;
+    color: #e0e0f0;
+    padding: 4px 7px;
+    font-size: 0.76rem;
+    outline: none;
+    font-family: 'Courier New', monospace;
+  }
+  .share-row input[type="text"]:focus { border-color: #7788cc; }
+  .share-row .share-sep { color: #444466; font-size: 0.9rem; user-select: none; }
+  #btnCopyState { background: #1e3a2a; border-color: #336644; color: #88ffcc; }
+  #btnCopyState:hover { background: #254a34; }
+  #btnLoadState { background: #1e2e4a; border-color: #335588; color: #88bbff; }
+  #btnLoadState:hover { background: #253a5a; }
+  .share-feedback {
+    font-size: 0.72rem;
+    color: #88ffcc;
+    opacity: 0;
+    transition: opacity 0.3s;
+    white-space: nowrap;
+  }
+  .share-feedback.show { opacity: 1; }
+  .share-feedback.err  { color: #ff7777; }
+
   @media (max-width: 700px) {
     .two-col { grid-template-columns: 1fr; }
   }
@@ -362,6 +396,15 @@
 <div class="title-row">
   <h1>Level Up Message Calculator</h1>
   <button id="btnClear">Clear</button>
+</div>
+
+<div class="share-row">
+  <button id="btnCopyState">Copy State</button>
+  <input type="text" id="stateStringOut" readonly placeholder="— click Copy State to generate —">
+  <span class="share-sep">|</span>
+  <input type="text" id="stateStringIn" placeholder="Paste state string to load…">
+  <button id="btnLoadState">Load</button>
+  <span class="share-feedback" id="shareFeedback"></span>
 </div>
 
 <div class="byte-row-wrapper">
@@ -911,7 +954,7 @@ function makeDynList(listId, countId, maxVal, addBtnId, labelFn) {
   }
 
   function renumber() {
-    Array.from(list.children).forEach((r, i) => { r.querySelector('.dyn-idx').textContent = i + 1; });
+    Array.from(list.children).forEach((r, i) => { r.querySelector('.dyn-idx').textContent = i; });
     countEl.textContent = `(${list.children.length})`;
   }
 
@@ -920,7 +963,7 @@ function makeDynList(listId, countId, maxVal, addBtnId, labelFn) {
     row.className = 'dyn-row';
     const labelSpan = labelFn ? `<span class="feat-inline"></span>` : '';
     row.innerHTML = `
-      <span class="dyn-idx">${list.children.length + 1}</span>
+      <span class="dyn-idx">${list.children.length}</span>
       <input type="number" min="0" max="${maxVal}" value="${val}">
       ${labelSpan}
       <button class="btn-remove">×</button>
@@ -1263,7 +1306,7 @@ function renderParsedPanels(parsed) {
   const MAX_SHOW = 32;
 
   function listSection(elId, title, countField, items, fmtFn) {
-    let itemRows = items.slice(0, MAX_SHOW).map((it, i) => row(`#${i + 1}`, fmtFn(it))).join('');
+    let itemRows = items.slice(0, MAX_SHOW).map((it, i) => row(`#${i}`, fmtFn(it))).join('');
     if (items.length > MAX_SHOW) {
       itemRows += `<div class="p-row"><span class="p-key" style="font-style:italic;color:#7788aa">… ${items.length - MAX_SHOW} more</span></div>`;
     }
@@ -1464,6 +1507,84 @@ document.getElementById('btnClear').addEventListener('click', () => {
   document.getElementById('removedSpellCount').textContent = '(0)';
   document.getElementById('chkParserAttr').checked = false;
   update();
+});
+
+// ============================================================
+// SHARE / IMPORT
+// ============================================================
+function exportStateString() {
+  const s = readState();
+  s.parserExpectsAttr = document.getElementById('chkParserAttr').checked;
+  return btoa(JSON.stringify(s));
+}
+
+function applyState(s) {
+  // Clear lists first
+  document.getElementById('featList').innerHTML = '';
+  document.getElementById('spellList').innerHTML = '';
+  document.getElementById('removedSpellList').innerHTML = '';
+  document.getElementById('featCount').textContent = '(0)';
+  document.getElementById('spellCount').textContent = '(0)';
+  document.getElementById('removedSpellCount').textContent = '(0)';
+
+  if (s.classIndex != null) {
+    document.getElementById('selClass').value = s.classIndex;
+    updateSkillsForClass(s.classIndex);
+  }
+  document.getElementById('chkAttr').checked = !!s.attrPresent;
+  document.getElementById('selAttr').disabled = !s.attrPresent;
+  if (s.attrIndex != null) document.getElementById('selAttr').value = s.attrIndex;
+
+  SKILL_NAMES.forEach((name, i) => {
+    const on = !!(s.skillFlags & (1 << i));
+    document.getElementById(`chkSkill_${name}`).checked = on;
+    const inp = document.getElementById(`inpSkill_${name}`);
+    inp.disabled = !on;
+    inp.style.opacity = on ? '1' : '0.35';
+    if (on && s.skills?.[name] != null) inp.value = s.skills[name];
+  });
+
+  if (s.skillPoints != null) document.getElementById('inpSkillPoints').value = s.skillPoints;
+
+  (s.feats         || []).forEach(v => featCtrl.addRow(v));
+  (s.spells        || []).forEach(v => spellCtrl.addRow(v));
+  (s.removedSpells || []).forEach(v => removedSpellCtrl.addRow(v));
+
+  if (s.parserExpectsAttr != null)
+    document.getElementById('chkParserAttr').checked = !!s.parserExpectsAttr;
+}
+
+function showShareFeedback(msg, isErr) {
+  const el = document.getElementById('shareFeedback');
+  el.textContent = msg;
+  el.className = 'share-feedback show' + (isErr ? ' err' : '');
+  clearTimeout(el._t);
+  el._t = setTimeout(() => { el.className = 'share-feedback'; }, 2000);
+}
+
+document.getElementById('btnCopyState').addEventListener('click', () => {
+  const str = exportStateString();
+  document.getElementById('stateStringOut').value = str;
+  navigator.clipboard.writeText(str).then(() => {
+    showShareFeedback('Copied!', false);
+  }).catch(() => {
+    document.getElementById('stateStringOut').select();
+    showShareFeedback('Select and copy manually', false);
+  });
+});
+
+document.getElementById('btnLoadState').addEventListener('click', () => {
+  const str = document.getElementById('stateStringIn').value.trim();
+  if (!str) return;
+  try {
+    const s = JSON.parse(atob(str));
+    applyState(s);
+    document.getElementById('stateStringIn').value = '';
+    showShareFeedback('Loaded!', false);
+    update();
+  } catch(e) {
+    showShareFeedback('Invalid state string', true);
+  }
 });
 
 loadState();
