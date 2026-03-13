@@ -457,12 +457,12 @@
     </div>
 
     <div class="section">
-      <h2>Known Spells <span class="count-note" id="knownSpellCount">(0)</span></h2>
-      <div class="dyn-list" id="knownSpellList"></div>
+      <h2>Removed Spells <span class="count-note" id="removedSpellCount">(0)</span></h2>
+      <div class="dyn-list" id="removedSpellList"></div>
       <div class="feat-add-row">
-        <input type="text" id="knownSpellSearchInput" list="knownSpellDatalist" placeholder="Spell name or ID…" autocomplete="off">
-        <datalist id="knownSpellDatalist"></datalist>
-        <button id="btnAddKnownSpell">Add</button>
+        <input type="text" id="removedSpellSearchInput" list="removedSpellDatalist" placeholder="Spell name or ID…" autocomplete="off">
+        <datalist id="removedSpellDatalist"></datalist>
+        <button id="btnAddRemovedSpell">Add</button>
       </div>
     </div>
   </div>
@@ -474,7 +474,7 @@
     <div class="section" id="parsedSkills"></div>
     <div class="section" id="parsedFeats"></div>
     <div class="section" id="parsedSpells"></div>
-    <div class="section" id="parsedKnownSpells"></div>
+    <div class="section" id="parsedRemovedSpells"></div>
   </div>
 
 </div>
@@ -796,7 +796,7 @@ function spellInlineLabel(id) {
 })('featDatalist', FEAT_NAMES, featInfo);
 
 (function() {
-  ['spellDatalist', 'knownSpellDatalist'].forEach(elId => {
+  ['spellDatalist', 'removedSpellDatalist'].forEach(elId => {
     const dl = document.getElementById(elId);
     SPELL_NAMES.forEach((name, id) => {
       const opt = document.createElement('option');
@@ -833,7 +833,7 @@ const COLOR = {
   skill: '#227744', skillPts: '#226677',
   featCount: '#883322', feat: '#aa4433',
   spellCount: '#882255', spell: '#aa3377',
-  knownCount: '#887700', known: '#aaaa22',
+  removedCount: '#887700', removed: '#aaaa22',
   overflow: '#cc2200', leftover: '#525262',
 };
 
@@ -946,7 +946,7 @@ let initializing = true;
 
 const featCtrl       = makeDynList('featList',      'featCount',       65535,      null,               id => featInlineLabel(id));
 const spellCtrl      = makeDynList('spellList',      'spellCount',      4294967295, null, id => spellInlineLabel(id));
-const knownSpellCtrl = makeDynList('knownSpellList', 'knownSpellCount', 4294967295, null, id => spellInlineLabel(id));
+const removedSpellCtrl = makeDynList('removedSpellList', 'removedSpellCount', 4294967295, null, id => spellInlineLabel(id));
 
 // ============================================================
 // STATE READER
@@ -969,7 +969,7 @@ function readState() {
     skillPoints: parseInt(document.getElementById('inpSkillPoints').value) || 0,
     feats:       featCtrl.getValues(),
     spells:      spellCtrl.getValues(),
-    knownSpells: knownSpellCtrl.getValues(),
+    removedSpells: removedSpellCtrl.getValues(),
   };
 }
 
@@ -991,8 +991,8 @@ function buildSegments(s) {
   s.feats.forEach((v, i) => push(`Feat ${i}`, 2, COLOR.feat, v));
   push('Spell Count', 1, COLOR.spellCount, s.spells.length);
   s.spells.forEach((v, i) => push(`Spell ${i}`, 4, COLOR.spell, v));
-  push('Known Count', 1, COLOR.knownCount, s.knownSpells.length);
-  s.knownSpells.forEach((v, i) => push(`Known ${i}`, 4, COLOR.known, v));
+  push('Removed Count', 1, COLOR.removedCount, s.removedSpells.length);
+  s.removedSpells.forEach((v, i) => push(`Removed ${i}`, 4, COLOR.removed, v));
   return segs;
 }
 
@@ -1015,7 +1015,7 @@ function serialize(s) {
   u16(s.skillPoints);
   u8(s.feats.length & 0xff);       s.feats.forEach(v => u16(v));
   u8(s.spells.length & 0xff);      s.spells.forEach(v => u32(v));
-  u8(s.knownSpells.length & 0xff); s.knownSpells.forEach(v => u32(v));
+  u8(s.removedSpells.length & 0xff); s.removedSpells.forEach(v => u32(v));
   return buf;
 }
 
@@ -1100,13 +1100,13 @@ function parseBytes(rawBytes, parserExpectsAttr) {
 
   const kcRaw = readU8();
   const kc = kcRaw ?? 0;
-  seg('Known Count', 1, COLOR.knownCount, kcRaw, kcRaw === null);
-  parsed.knownSpellCount = field(kcRaw);
-  parsed.knownSpells = [];
+  seg('Removed Count', 1, COLOR.removedCount, kcRaw, kcRaw === null);
+  parsed.removedSpellCount = field(kcRaw);
+  parsed.removedSpells = [];
   for (let i = 0; i < kc; i++) {
     const kv = readU32LE();
-    seg(`Known ${i}`, 4, COLOR.known, kv, kv === null);
-    parsed.knownSpells.push(field(kv));
+    seg(`Removed ${i}`, 4, COLOR.removed, kv, kv === null);
+    parsed.removedSpells.push(field(kv));
   }
 
   const anyOverflow = segs.some(s => s.overflow);
@@ -1204,7 +1204,7 @@ function renderParsedPanels(parsed) {
     classHtml = ovf();
   } else {
     const v = parsed.classIndex.value;
-    const name = CLASS_NAMES[v] || 'Unknown';
+    const name = CLASS_NAMES[v] || 'Unremoved';
     classHtml = `<span class="p-val">${name} (0x${v.toString(16).toUpperCase().padStart(2,'0')})</span>`;
   }
 
@@ -1215,7 +1215,7 @@ function renderParsedPanels(parsed) {
     attrHtml = ovf();
   } else {
     const v = parsed.attrIndex.value;
-    const name = ATTR_NAMES[v] || 'Unknown';
+    const name = ATTR_NAMES[v] || 'Unremoved';
     attrHtml = `<span class="p-val">${name} (${v})</span>`;
   }
 
@@ -1276,7 +1276,7 @@ function renderParsedPanels(parsed) {
 
   listSection('parsedFeats',       'Feats',       parsed.featCount,       parsed.feats,       fmtFeat);
   listSection('parsedSpells',      'Spells',       parsed.spellCount,      parsed.spells,      fmtSpell);
-  listSection('parsedKnownSpells', 'Known Spells', parsed.knownSpellCount, parsed.knownSpells, fmtSpell);
+  listSection('parsedRemovedSpells', 'Removed Spells', parsed.removedSpellCount, parsed.removedSpells, fmtSpell);
 }
 
 // ============================================================
@@ -1343,7 +1343,7 @@ function update() {
 
   document.getElementById('featCount').textContent       = `(${s.feats.length})`;
   document.getElementById('spellCount').textContent      = `(${s.spells.length})`;
-  document.getElementById('knownSpellCount').textContent = `(${s.knownSpells.length})`;
+  document.getElementById('removedSpellCount').textContent = `(${s.removedSpells.length})`;
 
   saveState();
 }
@@ -1386,7 +1386,7 @@ function loadState() {
 
     (s.feats       || []).forEach(v => featCtrl.addRow(v));
     (s.spells      || []).forEach(v => spellCtrl.addRow(v));
-    (s.knownSpells || []).forEach(v => knownSpellCtrl.addRow(v));
+    (s.removedSpells || []).forEach(v => removedSpellCtrl.addRow(v));
 
     if (s.parserExpectsAttr) document.getElementById('chkParserAttr').checked = true;
   } catch(e) {}
@@ -1441,7 +1441,7 @@ function wireSpellSearch(inputId, btnId, ctrl) {
   });
 }
 wireSpellSearch('spellSearchInput',      'btnAddSpell',      spellCtrl);
-wireSpellSearch('knownSpellSearchInput', 'btnAddKnownSpell', knownSpellCtrl);
+wireSpellSearch('removedSpellSearchInput', 'btnAddRemovedSpell', removedSpellCtrl);
 
 document.getElementById('btnClear').addEventListener('click', () => {
   document.getElementById('selClass').value = '0';
@@ -1458,10 +1458,10 @@ document.getElementById('btnClear').addEventListener('click', () => {
   document.getElementById('inpSkillPoints').value = '0';
   document.getElementById('featList').innerHTML = '';
   document.getElementById('spellList').innerHTML = '';
-  document.getElementById('knownSpellList').innerHTML = '';
+  document.getElementById('removedSpellList').innerHTML = '';
   document.getElementById('featCount').textContent = '(0)';
   document.getElementById('spellCount').textContent = '(0)';
-  document.getElementById('knownSpellCount').textContent = '(0)';
+  document.getElementById('removedSpellCount').textContent = '(0)';
   document.getElementById('chkParserAttr').checked = false;
   update();
 });
