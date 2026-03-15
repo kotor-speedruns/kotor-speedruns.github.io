@@ -41,6 +41,7 @@ The following glitches and tricks are banned in Any% NMG:
 - All types of [Spawn Warps](<../Major Glitches/Spawn Warps>)
 - [Full Inventory Duping](</kotor1/Techniques/Item Duplication#full-inventory-duplication>)
 - [Door Clipping](<../Major Glitches/Door Clipping>)
+- [DLZ](<../Major Glitches/Displaced Load Zone>)
 
 *Note:* [Door Clipping](<../Major Glitches/Door Clipping>) includes [GP Warps](<../Techniques/GP Warp#buffered-gp-warps>) that [bypass locked doors](<../Major Glitches/Door Clipping#gather-party-warp-clips>).
 
