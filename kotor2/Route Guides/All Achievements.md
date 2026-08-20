@@ -36,7 +36,7 @@ If you have additional questions, you can check out the [KotOR Speedrunning Disc
   	- [Alignment Route](#alignment-route-1)
   	- [Achievement Plan](#achievement-plan-1)
   	- [Route Overview](#route-overview-1)
-  	- [Detailed Route](#detailed-route-1
+  	- [Detailed Route](#detailed-route-1)
 - [Version History](#version-history)
 
 ## Glitchless Ruleset
