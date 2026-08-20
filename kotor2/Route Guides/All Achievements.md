@@ -197,7 +197,7 @@ At Level 22, we should be able to learn Moving Meditation from T3.
 
 ### Feats and Powers
 <br>
-  - *'*' - Powers that are not required for 'I am a Jedi' Achievement.*
+  - *`*` - Powers that are not required for 'I am a Jedi' Achievement.*
 <br>
 **Jedi Guardian**
 
@@ -513,7 +513,7 @@ Notation:
 
 Conversation Notes:
 - If no conversation choices are specified, spamming will work (this chooses all 1 options).<br>
-- \| indicates a break in the conversation. You will have to talk to the person again.<br>
+- `|`  indicates a break in the conversation. You will have to talk to the person again.<br>
 - `->` indicates a secondary part to the conversation. This is different from \|  in that the conversation automatically initiates, rather than having to talk to the same person.<br>
 - `#xY` indicates repeat that option Y times, as in our first conversation with Kreia during our Ebon Hawk to Telos segment.<br>
 - `#x-` indicates the rest of this conversation uses that particular number, generally used to indicate conversation spam not using 1 (e.g Saedhe's conversation: 2x-)<br>
@@ -523,16 +523,15 @@ Conversation Notes:
 - [Peragus](#peragus)
 - [Ebon Hawk to Telos](#ebon-hawk-to-telos)
 - [Telos](#telos)
-  - [Czerka Route](#czerka-route)
-  - [Ithorian Route](#ithorian-route)
 - [Dantooine](#dantooine)
+- [Nar Shaddaa 1](#nar-shaddaa-1)
 - [Dxun](#dxun)
 - [Onderon](#onderon)
-- [Nar Shaddaa 1](#nar-shaddaa-1)
-- [Korriban](#korriban)
+- [Nar Shaddaa 2](#nar-shaddaa-2)
 - [Dxun 2](#dxun-2)
 - [Onderon 2](#onderon-2)
-- [Nar Shaddaa 2](#nar-shaddaa-2)
+- [Korriban](#korriban)
+- [Nar Shaddaa 3](#nar-shaddaa-3)
 - [Jedi Masters](#jedi-masters)
 - [Ravager](#ravager)
 - [Malachor V](#malachor-v)
