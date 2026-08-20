@@ -25,18 +25,18 @@ If you have additional questions, you can check out the [KotOR Speedrunning Disc
   - [Route Overview](#route-overview)
   - [Detailed Route](#detailed-route)
 - [Run 2: Female Exile](#run-2:-female-exile)
-  - [Character Build 2](#character-build-2)
-    - [Character Creation 2](#character-creation)
-    - [Leveling Plan 2](#leveling-plan)
-	  - [Attributes 2](#attributes)
- 	  - [Skills 2](#skills)
-      - [Feats and Powers 2](#feats-and-powers)
-  - [Equipment Plan 2](#equipment-plan-2)
-  - [Credit Route 2](#credit-route-2)
-  - [Alignment Route 2](#alignment-route-2)
-  - [Achievement Plan 2](#achievement-plan-2)
-  - [Route Overview 2](#route-overview-2)
-  - [Detailed Route 2](#detailed-route-2)
+  - [Character Build](#character-build-1)
+    - [Character Creation](#character-creation-1)
+    - [Leveling Plan](#leveling-plan-1)
+	  - [Attributes](#attributes-1)
+ 	  - [Skills](#skills-1)
+      - [Feats and Powers](#feats-and-powers-1)
+  - [Equipment Plan](#equipment-plan-1)
+  - [Credit Route](#credit-route-1)
+  - [Alignment Route](#alignment-route-1)
+  - [Achievement Plan](#achievement-plan-1)
+  - [Route Overview](#route-overview-1)
+  - [Detailed Route](#detailed-route-1)
 - [Version History](#version-history)
 
 ## Glitchless Ruleset
@@ -512,11 +512,11 @@ Notation:
 - `Shopping trips are highlighted in large code blocks`
 
 Conversation Notes:
-If no conversation choices are specified, spamming will work (this chooses all 1 options).<br>
-\| indicates a break in the conversation. You will have to talk to the person again.<br>
-`->` indicates a secondary part to the conversation. This is different from \|  in that the conversation automatically initiates, rather than having to talk to the same person.<br>
-`#xY` indicates repeat that option Y times, as in our first conversation with Kreia during our Ebon Hawk to Telos segment.<br>
-`#x-` indicates the rest of this conversation uses that particular number, generally used to indicate conversation spam not using 1 (e.g Saedhe's conversation: 2x-)<br>
+- If no conversation choices are specified, spamming will work (this chooses all 1 options).<br>
+- \| indicates a break in the conversation. You will have to talk to the person again.<br>
+- `->` indicates a secondary part to the conversation. This is different from \|  in that the conversation automatically initiates, rather than having to talk to the same person.<br>
+- `#xY` indicates repeat that option Y times, as in our first conversation with Kreia during our Ebon Hawk to Telos segment.<br>
+- `#x-` indicates the rest of this conversation uses that particular number, generally used to indicate conversation spam not using 1 (e.g Saedhe's conversation: 2x-)<br>
 
 **Jump to a Section:**
 - [Prologue](#prologue)
