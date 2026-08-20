@@ -108,6 +108,7 @@ We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsab
 ##### Attributes
 <br>
 Our MC needs 15 Intelligence for an achievement involving T3-M4, but, it's better off for us not to start at 15, so we allocate points as follows:
+
 | Level | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
 | 1: | 15 | 14 | 13 | 14 | 11 | 10 |
 | 4: | 16 | -- | 13 | 14 | -- | -- |
@@ -117,6 +118,7 @@ Our MC needs 15 Intelligence for an achievement involving T3-M4, but, it's bette
 | 20: | 18 | -- | -- | -- | -- | -- |
 | 24: | 19 | -- | -- | -- | -- | -- |
 | 28: | 20 | -- | -- | -- | -- | -- |
+
 <br>
 Levels 16, 20, 24 and 28 will just choose Recommended for Attributes.
 <br>
