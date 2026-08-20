@@ -104,11 +104,11 @@ Treat Injury - Required to reach 30%
 
 We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsaber; we pick it over 'Two-Weapon Fighting' since this feat takes longer to select and character creation isn't timed. This will in turn result in our first level up being faster than if we chose 'Two-Weapon Fighting' now. 
 
-#### Leveling Plan
-##### Attributes
+### Leveling Plan
+### Attributes
 <br>
 Our MC needs 15 Intelligence for an achievement involving T3-M4, but, it's better off for us not to start at 15, so we allocate points as follows:
-<br>
+
 | Level | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
 | --- | --- | --- | --- | --- | --- | --- | 
 | 1: | 15 | 14 | 13 | 14 | 11 | 10 |
@@ -119,16 +119,17 @@ Our MC needs 15 Intelligence for an achievement involving T3-M4, but, it's bette
 | 20: | 18 | --- | --- | --- | --- | --- |
 | 24: | 19 | --- | --- | --- | --- | --- |
 | 28: | 20 | --- | --- | --- | --- | --- |
-<br>
+
 <br>
 Levels 16, 20, 24 and 28 will just choose Recommended for Attributes.
 <br>
-##### Skills
+### Skills
 <br>
 The skill layout in the following table is quite strict in this first run, Computer Use and Repair max out at 15 and 21 for an achievement with T3-M4, the remaining two *need* to reach 30 points for 2 other achievements.
 Our party members will be required to hit 30 points in some other skills, this will be followed up on in the Achievement Plan.
-<br>
+
 | Level/Skill Level | Skills | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | 1 | Computer Use | Persuade | Repair | Treat Injury |
 | Skill Level: | 2 | 4 | 0 | 4 |
 | 2 | Computer Use | Persuade | Repair | Treat Injury |
@@ -189,16 +190,17 @@ Our party members will be required to hit 30 points in some other skills, this w
 | Skill Level: | --- | 27 | --- | 30 |
 | 30 | Computer Use | Persuade | Repair | Treat Injury |
 | Skill Level: | --- | 30 | --- | --- |
-<br>
+
 <br>
 Once we hit Level 12 we will be able to do our first run of influence gaining with T3-M4 in our process of learning Moving Meditation. ('Lost in you work' Achievement)
 At Level 22, we should be able to learn Moving Meditation from T3.
 
-##### Feats and Powers
+### Feats and Powers
 <br>
   - *'*' - Powers that are not required for 'I am a Jedi' Achievement.*
 <br>
 **Jedi Guardian**
+
 | Level | Feats | Powers |
 | --- | :--- | :--- |
 | 1 | Weapon Focus: Melee | --- |
@@ -218,6 +220,7 @@ At Level 22, we should be able to learn Moving Meditation from T3.
 | 15 | Master Two-Weapon Fighting | Master Speed`*` |
 
 **Jedi Weapon Master**
+
 | Level | Feats | Powers |
 | --- | :--- | :--- |
 | 1 | Master Flurry | Master Valor |
