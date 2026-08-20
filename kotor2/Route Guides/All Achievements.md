@@ -16,8 +16,10 @@ If you have additional questions, you can check out the [KotOR Speedrunning Disc
     - [Character Creation](#character-creation)
     - [Leveling Plan](#leveling-plan)
 	  - [Attributes](#attributes)
+	  
  	  - [Skills](#skills)
-      - [Feats and Powers](#feats-and-powers)
+      
+	  - [Feats and Powers](#feats-and-powers)
   - [Equipment Plan](#equipment-plan)
   - [Credit Route](#credit-route)
   - [Alignment Route](#alignment-route)
@@ -29,8 +31,10 @@ If you have additional questions, you can check out the [KotOR Speedrunning Disc
     - [Character Creation](#character-creation-1)
     - [Leveling Plan](#leveling-plan-1)
 	  - [Attributes](#attributes-1)
+	  
  	  - [Skills](#skills-1)
-      - [Feats and Powers](#feats-and-powers-1)
+      
+	  - [Feats and Powers](#feats-and-powers-1)
   - [Equipment Plan](#equipment-plan-1)
   - [Credit Route](#credit-route-1)
   - [Alignment Route](#alignment-route-1)
