@@ -128,68 +128,39 @@ Levels 16, 20, 24 and 28 will just choose Recommended for Attributes.
 The skill layout in the following table is quite strict in this first run, Computer Use and Repair max out at 15 and 21 for an achievement with T3-M4, the remaining two *need* to reach 30 points for 2 other achievements.
 Our party members will be required to hit 30 points in some other skills, this will be followed up on in the Achievement Plan.
 
-| Level/Skill Level | Skills | --- | --- | --- |
-| --- | --- | --- | --- | --- |
-| 1 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | 2 | 4 | 0 | 4 |
-| 2 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | 2 | 5 | 0 | 5 |
-| 3 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | 2 | 6 | 0 | 6 |
-| 4 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | 2 | 7 | 0 | 7 |
-| 5 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | 2 | 8 | 0 | 8 |
-| 6 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | 8 | 8 | 0 | 9 |
-| 7 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | 9 | 10 | 0 | 9 |
-| 8 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | 10 | 10 | 0 | 11 |
-| 9 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | 11 | 12 | 0 | 11 |
-| 10 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | 12 | 12 | 0 | 13 |
-| 11 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | 15 | 12 | 0 | 13 |
-| 12 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 12 | 3 | 13 |
-| 13 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 12 | 6 | 13 |
-| 14 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 12 | 9 | 13 |
-| 15 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 12 | 12 | 13 |
-| 16 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 15 | 12 | 13 |
-| 17 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 15 | 15 | 13 |
-| 18 |  Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 15 | 15 | 16 |
-| 19 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 15 | 15 | 19 |
-| 20 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 15 | 18 | 19 |
-| 21 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 15 | 21 | 19 |
-| 22 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 16 | --- | 21 |
-| 23 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 18 | --- | 22 |
-| 24 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 19 | --- | 24 |
-| 25 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 21 | --- | 24 |
-| 26 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 24 | --- | 24 |
-| 27 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 27 | --- | 24 |
-| 28 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 27 | --- | 27 |
-| 29 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 27 | --- | 30 |
-| 30 | Computer Use | Persuade | Repair | Treat Injury |
-| Skill Level: | --- | 30 | --- | --- |
+| Level | Computer Use | Persuade | Repair | Treat Injury |
+| :---: | --- | --- | --- | --- |
+| 1:: | 2 | 4 | 0 | 4 |
+|  | Computer Use | Persuade | Repair | Treat Injury |
+| 2: | 2 | 5 | 0 | 5 |
+| 3: | 2 | 6 | 0 | 6 |
+| 4: | 2 | 7 | 0 | 7 |
+| 5: | 2 | 8 | 0 | 8 |
+| 6: | 8 | 8 | 0 | 9 |
+| 7: | 9 | 10 | 0 | 9 |
+| 8: | 10 | 10 | 0 | 11 |
+| 9: | 11 | 12 | 0 | 11 |
+| 10: | 12 | 12 | 0 | 13 |
+| 11: | 15 | 12 | 0 | 13 |
+| 12: | --- | 12 | 3 | 13 |
+| 13: | --- | 12 | 6 | 13 |
+| 14: | --- | 12 | 9 | 13 |
+| 15: | --- | 12 | 12 | 13 |
+| 16: | --- | 15 | 12 | 13 |
+| 17: | --- | 15 | 15 | 13 |
+| 18: | --- | 15 | 15 | 16 |
+| 19: | --- | 15 | 15 | 19 |
+| 20: | --- | 15 | 18 | 19 |
+| 21: | --- | 15 | 21 | 19 |
+| 22: | --- | 16 | --- | 21 |
+| 23: | --- | 18 | --- | 22 |
+| 24: | --- | 19 | --- | 24 |
+| 25: | --- | 21 | --- | 24 |
+| 26: | --- | 24 | --- | 24 |
+| 27: | --- | 27 | --- | 24 |
+| 28: | --- | 27 | --- | 27 |
+| 29: | --- | 27 | --- | 30 |
+| 30: | --- | 30 | --- | --- |
 
 <br>
 Once we hit Level 12 we will be able to do our first run of influence gaining with T3-M4 in our process of learning Moving Meditation. ('Lost in you work' Achievement)
