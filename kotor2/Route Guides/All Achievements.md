@@ -1,6 +1,6 @@
 <style>
   tr {
-	text-align: left;
+	align: left;
   }
 </style>
 
