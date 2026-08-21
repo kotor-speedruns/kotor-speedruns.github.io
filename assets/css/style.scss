@@ -66,19 +66,10 @@ table,
 th,
 td {
     text-align: center;
+    align-content: left;
     // background-color: var(--kotor-bg);
     color: var(--kotor-fg-light);
     border-color: var(--kotor-fg-dark) !important;
-}
-
-.aatables {
-    table,
-    th,
-    td {
-        text-align: left;
-        // background-color: var(--kotor-bg);
-        color: var(--kotor-fg-light);
-        border-color: var(--kotor-fg-dark) !important;
 }
 
 .navbar {
