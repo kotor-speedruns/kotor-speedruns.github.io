@@ -1,10 +1,3 @@
-<style>
-  tr {
-	align: left;
-  }
-</style>
-
-
 # Star Wars: Knights of the Old Republic II - The Sith Lords - All Achievements Glitchless Guide
 
 ## v1.0
@@ -118,16 +111,16 @@ Our MC needs 15 Intelligence for an achievement involving T3-M4, but, it's bette
 
 <div align="left">
 	
-	| Level | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
-	| --- | --- | --- | --- | --- | --- | --- | 
-	| 1: | 15 | 14 | 13 | 14 | 11 | 10 |
-	| 4: | 16 | --- | 13 | 14 | --- | --- |
-	| 8: | 16 | --- | 14 | 14 | --- | --- |
-	| 12: | 16 | --- | --- | 15 | --- | --- |
-	| 16: | 17 | --- | --- | --- | --- | --- |
-	| 20: | 18 | --- | --- | --- | --- | --- |
-	| 24: | 19 | --- | --- | --- | --- | --- |
-	| 28: | 20 | --- | --- | --- | --- | --- |
+| Level | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| --- | --- | --- | --- | --- | --- | --- | 
+| 1: | 15 | 14 | 13 | 14 | 11 | 10 |
+| 4: | 16 | --- | 13 | 14 | --- | --- |
+| 8: | 16 | --- | 14 | 14 | --- | --- |
+| 12: | 16 | --- | --- | 15 | --- | --- |
+| 16: | 17 | --- | --- | --- | --- | --- |
+| 20: | 18 | --- | --- | --- | --- | --- |
+| 24: | 19 | --- | --- | --- | --- | --- |
+| 28: | 20 | --- | --- | --- | --- | --- |
 
 </div>
 <br>
