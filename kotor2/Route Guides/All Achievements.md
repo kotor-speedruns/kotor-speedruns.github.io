@@ -130,8 +130,7 @@ Our party members will be required to hit 30 points in some other skills, this w
 
 | Level | Computer Use | Persuade | Repair | Treat Injury |
 | :---: | --- | --- | --- | --- |
-| 1:: | 2 | 4 | 0 | 4 |
-|  | Computer Use | Persuade | Repair | Treat Injury |
+| 1: | 2 | 4 | 0 | 4 |
 | 2: | 2 | 5 | 0 | 5 |
 | 3: | 2 | 6 | 0 | 6 |
 | 4: | 2 | 7 | 0 | 7 |
