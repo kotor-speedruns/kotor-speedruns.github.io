@@ -1,3 +1,10 @@
+<style>
+  tr {
+	text-align: left;
+  }
+</style>
+
+
 # Star Wars: Knights of the Old Republic II - The Sith Lords - All Achievements Glitchless Guide
 
 ## v1.0
@@ -66,9 +73,9 @@ No mods are allowed to be used (Yes, this also includes the restoration mod!)
 The first run, this is the bigger run of the two. Not just due to needing to reach level 30, but this run will get 37 of the 57 total Achievements. We will stick to the Light Side during the duration of this run and complete the Max amount of Quests possible in a Light Sided run.
 Now, jump into this mega pool of information, you're gonna need it.
 
-### Character Build
+## Character Build
 
-#### Character Creation
+### Character Creation
 
 We begin the game by choosing to be a Male Jedi Guardian. The original thought would have been Consular due to the Achievement 'I am a Jedi', which requires us to Acquire all Light Side Powers. Although, thanks to 'Over Achiever', which requires us to Reach Player Level 30, we have plenty of time to pick up those powers as a Guardian.
 
@@ -105,7 +112,7 @@ Treat Injury - Required to reach 30%
 We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsaber; we pick it over 'Two-Weapon Fighting' since this feat takes longer to select and character creation isn't timed. This will in turn result in our first level up being faster than if we chose 'Two-Weapon Fighting' now. 
 
 ### Leveling Plan
-### Attributes
+#### Attributes
 <br>
 Our MC needs 15 Intelligence for an achievement involving T3-M4, but, it's better off for us not to start at 15, so we allocate points as follows:
 
@@ -123,7 +130,7 @@ Our MC needs 15 Intelligence for an achievement involving T3-M4, but, it's bette
 <br>
 Levels 16, 20, 24 and 28 will just choose Recommended for Attributes.
 <br>
-### Skills
+#### Skills
 <br>
 The skill layout in the following table is quite strict in this first run, Computer Use and Repair max out at 15 and 21 for an achievement with T3-M4, the remaining two *need* to reach 30 points for 2 other achievements.
 Our party members will be required to hit 30 points in some other skills, this will be followed up on in the Achievement Plan.
@@ -195,7 +202,7 @@ Our party members will be required to hit 30 points in some other skills, this w
 Once we hit Level 12 we will be able to do our first run of influence gaining with T3-M4 in our process of learning Moving Meditation. ('Lost in you work' Achievement)
 At Level 22, we should be able to learn Moving Meditation from T3.
 
-### Feats and Powers
+#### Feats and Powers
 <br>
   - *`*` - Powers that are not required for 'I am a Jedi' Achievement.*
 <br>
