@@ -116,17 +116,20 @@ We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsab
 <br>
 Our MC needs 15 Intelligence for an achievement involving T3-M4, but, it's better off for us not to start at 15, so we allocate points as follows:
 
-| Level | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
-| --- | --- | --- | --- | --- | --- | --- | 
-| 1: | 15 | 14 | 13 | 14 | 11 | 10 |
-| 4: | 16 | --- | 13 | 14 | --- | --- |
-| 8: | 16 | --- | 14 | 14 | --- | --- |
-| 12: | 16 | --- | --- | 15 | --- | --- |
-| 16: | 17 | --- | --- | --- | --- | --- |
-| 20: | 18 | --- | --- | --- | --- | --- |
-| 24: | 19 | --- | --- | --- | --- | --- |
-| 28: | 20 | --- | --- | --- | --- | --- |
+<div align="left">
+	
+	| Level | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+	| --- | --- | --- | --- | --- | --- | --- | 
+	| 1: | 15 | 14 | 13 | 14 | 11 | 10 |
+	| 4: | 16 | --- | 13 | 14 | --- | --- |
+	| 8: | 16 | --- | 14 | 14 | --- | --- |
+	| 12: | 16 | --- | --- | 15 | --- | --- |
+	| 16: | 17 | --- | --- | --- | --- | --- |
+	| 20: | 18 | --- | --- | --- | --- | --- |
+	| 24: | 19 | --- | --- | --- | --- | --- |
+	| 28: | 20 | --- | --- | --- | --- | --- |
 
+</div>
 <br>
 Levels 16, 20, 24 and 28 will just choose Recommended for Attributes.
 <br>
@@ -963,7 +966,7 @@ Buy:
 - 1 spam through the rest of the cutscenes.
 - Handmaiden: 1,1,1,1,8,3,1,1
 - Fight Handmaiden
-- Handmaiden: 1x- | 2,2,1,1,1 | 4,3,1x7,2,1,4,1x6,3,1x8,2
+- Handmaiden: 1x- `|` 2,2,1,1,1 `|` 4,3,1x7,2,1,4,1x6,3,1x8,2
 - Cast Burst of Speed, run to the cockpit and speak to Atton: 2,2,1,2,1
   - *If you have accidentally spoken to Atton at any point prior to this conversation, the dialog options may differ.*
 - Exit the Pazaak Menu, use the Galaxy Map and select Dantooine. (1 left)
@@ -1030,7 +1033,7 @@ If you have <10 Medpacs, buy enough to get to 20. If >20 don't buy any.
 
 ### Saving Vrook
 - Cast Burst of Speed.  `+ \`
-- Jorran: 1,1,1,4 | 2,2
+- Jorran: 1,1,1,4`|`2,2
 - Speak to Daraala again: 1x-
 - Exit in the North East to Khoonda Plains towards the Crystal Cave.
 - `+ \`
@@ -1088,7 +1091,7 @@ If you have <10 Medpacs, buy enough to get to 20. If >20 don't buy any.
 
 ### Ebon Hawk
 - Bao-Dur: 
-- 1,1 | 1,1,1,1,1,5 | 1,1,1,1,4,2,2 | 1,1,1,1,4 | 1x- 
+- 1,1 `|` 1,1,1,1,1,5 `|` 1,1,1,1,4,2,2 `|` 1,1,1,1,4`|`1x- 
 - Bao-Dur is now a Jedi Guardian.
 
 - Kreia:
@@ -1100,7 +1103,7 @@ If you have <10 Medpacs, buy enough to get to 20. If >20 don't buy any.
 - (Level 15 - Prestige) - 1,1,1  (THIS MAY MOVE TO LATER IN THE RUN)
 	
 - Atton:
-- 3,1,2,1,1,4,2 | 1,3 | 1,3 | 1,1,2,2,2,1,1,2,2,1
+- 3,1,2,1,1,4,2`|`1,3`|`1,3`|`1,1,2,2,2,1,1,2,2,1
 - 1x4 (Exit Pazaak Game)
 
 - T3-M4
