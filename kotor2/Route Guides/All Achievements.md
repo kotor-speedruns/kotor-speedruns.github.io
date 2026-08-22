@@ -66,17 +66,15 @@ No mods are allowed to be used (Yes, this also includes the restoration mod!)
 The first run, this is the bigger run of the two. Not just due to needing to reach level 30, but this run will get 37 of the 57 total Achievements. We will stick to the Light Side during the duration of this run and complete the Max amount of Quests possible in a Light Sided run.
 Now, jump into this mega pool of information, you're gonna need it.
 
-## Character Build
+### Character Build
 
-### Character Creation
+#### Character Creation
 
 We begin the game by choosing to be a Male Jedi Guardian. The original thought would have been Consular due to the Achievement 'I am a Jedi', which requires us to Acquire all Light Side Powers. Although, thanks to 'Over Achiever', which requires us to Reach Player Level 30, we have plenty of time to pick up those powers as a Guardian.
 
 Our main character needs skill investment in Computer Use, Persuade, Repair and Treat Injury.
 
-
 **Initial Attributes**
-
 - Strength - 15
 - Dexterity - 14
 - Constitution - 13
@@ -85,7 +83,6 @@ Our main character needs skill investment in Computer Use, Persuade, Repair and 
 - Charisma - 10
 
 **Initial Skills**
-
 - Computer Use - 2
 - Persuade - 4
 - Repair - 0
@@ -93,7 +90,6 @@ Our main character needs skill investment in Computer Use, Persuade, Repair and 
 Save any remaining points if there is any.
 
 **Initial Feat** - Weapon Focus: Melee
-
 We will be focussing on melee attacks with a sword/lightsaber in this run, so we max out 'Strength' immediately, and get enough 'Dexterity' and 'Constitution' to help us survive. The final two points are put into 'Wisdom' for a slightly better chance at resisting Force Powers at the end of the game, as well as it gives us slightly more Force Points (FP).
 
 This run requires MC's skills to reach certain levels.
@@ -122,55 +118,43 @@ Our MC needs 15 Intelligence for an achievement involving T3-M4, but, it's bette
 
 <br>
 Levels 16, 20, 24 and 28 will just choose Recommended for Attributes.
-<br>
+
 #### Skills
-<br>
 The skill layout in the following table is quite strict in this first run, Computer Use and Repair max out at 15 and 21 for an achievement with T3-M4, the remaining two *need* to reach 30 points for 2 other achievements.
 Our party members will be required to hit 30 points in some other skills, this will be followed up on in the Achievement Plan.
 
-| Level | Computer Use | Persuade | Repair | Treat Injury |
-| :---: | --- | --- | --- | --- |
-| 1: | 2 | 4 | 0 | 4 |
-| 2: | 2 | 5 | 0 | 5 |
-| 3: | 2 | 6 | 0 | 6 |
-| 4: | 2 | 7 | 0 | 7 |
-| 5: | 2 | 8 | 0 | 8 |
-| 6: | 8 | 8 | 0 | 9 |
-| 7: | 9 | 10 | 0 | 9 |
-| 8: | 10 | 10 | 0 | 11 |
-| 9: | 11 | 12 | 0 | 11 |
-| 10: | 12 | 12 | 0 | 13 |
-| 11: | 15 | 12 | 0 | 13 |
-| 12: | --- | 12 | 3 | 13 |
-| 13: | --- | 12 | 6 | 13 |
-| 14: | --- | 12 | 9 | 13 |
-| 15: | --- | 12 | 12 | 13 |
-| 16: | --- | 15 | 12 | 13 |
-| 17: | --- | 15 | 15 | 13 |
-| 18: | --- | 15 | 15 | 16 |
-| 19: | --- | 15 | 15 | 19 |
-| 20: | --- | 15 | 18 | 19 |
-| 21: | --- | 15 | 21 | 19 |
-| 22: | --- | 16 | --- | 21 |
-| 23: | --- | 18 | --- | 22 |
-| 24: | --- | 19 | --- | 24 |
-| 25: | --- | 21 | --- | 24 |
-| 26: | --- | 24 | --- | 24 |
-| 27: | --- | 27 | --- | 24 |
-| 28: | --- | 27 | --- | 27 |
-| 29: | --- | 27 | --- | 30 |
-| 30: | --- | 30 | --- | --- |
+| Level | Skills |
+| :---: | --- |
+| 1: | Comp Use 2, Persuade 4, TI 4 | |
+| 2: | Persuade + TI 5 |
+| 3: | Persuade + TI 6 |
+| 4: | Persuade + TI 7 |
+| 5: | Persuade + TI 8 |
+| 6: | Comp Use 8, TI 9 |
+| 7: | Comp Use 9, Persuade 10 |
+| 8: | Comp Use 10, TI 11 |
+| 9: | Comp Use 11, Persuade 12 |
+| 10: | Comp Use 12, TI 13 |
+| 11: | Comp Use 15 |
+| 12: | Repair 3 |
+| 13: | Repair 6 |
+| 14: | Repair 9 |
+| 15: | Repair 12 |
+| 16: | Persuade 15, Repair 15 |
+| 17: | Repair 15 |
+| 18: | TI 16 |
+| 19: | TI 19 |
+| 20: | Repair 18 |
+| 21: | Repair 21 |
+| 22-30 | Persuade and TI to 30 |
 
-<br>
 Once we hit Level 12 we will be able to do our first run of influence gaining with T3-M4 in our process of learning Moving Meditation. ('Lost in you work' Achievement)
 At Level 22, we should be able to learn Moving Meditation from T3.
 
 #### Feats and Powers
-<br>
   - *`*` - Powers that are not required for 'I am a Jedi' Achievement.*
-<br>
+  - 
 **Jedi Guardian**
-
 | Level | Feats | Powers |
 | --- | :--- | :--- |
 | 1 | Weapon Focus: Melee | --- |
@@ -190,7 +174,6 @@ At Level 22, we should be able to learn Moving Meditation from T3.
 | 15 | Master Two-Weapon Fighting | Master Speed`*` |
 
 **Jedi Weapon Master**
-
 | Level | Feats | Powers |
 | --- | :--- | :--- |
 | 1 | Master Flurry | Master Valor |
@@ -210,7 +193,6 @@ At Level 22, we should be able to learn Moving Meditation from T3.
 | 15 |  | Recommended |
 
 ## Equipment Plan
-
 One of the many special differences KOTOR 2 has compared to KOTOR 1 is that many of the drops/containers you loot are randomized. The base items listed below are all guaranteed items, but it is possible you may obtain items in your run that are more optimal to equip before getting the guaranteed items (or could possibly be better!).
 
 **Implant**: Power Implant
@@ -273,7 +255,6 @@ The majority of our equipment is attained in Nar Shaddaa. For the early game, we
 5. +Defense: Makes others less likely to hit us. A good stat to look out for since we tend to run through areas with large amounts of enemies.
 
 ## Credit Route
-
 We perform 8 shopping trips during the run. Most 'Buy' amounts are the total amount that you will end with in your inventory, make sure to take note of this. The trips are as follows: <br>
 1. **Samhan Dobo**; Telos Station <br>
 	The first shopping trip of the run will start with Samhan. Please note that at the end of the Telos Station shopping trip we MUST have at minimum 1525 credits to complete the 'High Stakes' quest.
@@ -401,7 +382,6 @@ The guaranteed items we sell are as follows:
 6. Mandalorian Blaster Rifle. Obtained from Mandalore the second time we talk to him on Dxun. This needs to happen before we complete the 'Battle Circle' quest. If you don't have this item to sell on Onderon, your run ends.
 
 ## Alignment Route
-
 Alignment in KotOR is a sliding scale from 0 to 100, initialized at 50; higher numbers are Light, lower numbers are dark.  Shifts in alignment are determined by a matrix; every alignment-shifting action is classified as Light or Dark, and then assigned a level (either Low, Mid, or High).  The player character (Exile) can either be aligned as Very Dark, Dark, Neutral, Light, or Very Light.  The more opposed your alignment and the action's classification, the more drastic your shift in alignment; for example, a Light-aligned character performing a High Dark action will have a large shift, while a Dark character performing a High Dark action will have a smaller shift.
 - There is 83 total alignment shifts in the run to get us to 75 for the Sith Tomb on Korriban.
 Here is the alignment route used in the run:
@@ -453,7 +433,6 @@ Alignment is not as important in this game, as we don’t use any equipment rest
 We also try to get as many LSP as possible during the first half of Nar Shaddaa to get us to 75 Alignment so that we can enter the Sith Tomb on Korriban. The Sith Tomb wont let you enter unless you are at least at 25 or 75 alignment respectively.
 
 ## Route Overview
-
 The order in which we visit the planets is as follows:
 
 Peragus -> Telos -> Dantooine -> Dxun/Onderon 1 -> Nar Shaddaa 1 -> Korriban -> Dxun/Onderon 2 -> Nar Shaddaa 2 -> Dantooine -> Ravager -> Malachor V
@@ -467,7 +446,6 @@ The reasoning for the middle planets:
 - Back to Nar Shaddaa! Finally we get to use the 12 of our 13 Frag Mines that we bought from Kex on Dxun! These are used in some quite combat intensive segments with Atton and Mira. Plus we have a whole bunch of side quests and main quests to complete here still.
 
 ## Detailed Route
-
 This section will describe all the actions needed to take for the Max Quests Glitchless run.
 Since we have the option to side with Czerka or the Ithorians on Telos Station, and Czerka has one more quest to complete there, we have implemented two different Telos Routes for the run. Both will be their own seperate sub category and will need to be submitted to the leaderboards with the appropriate information. If completing the run on the Ithorians side, at the end of the run you will have 104 quests complete, versus Czerka being 105.
 
@@ -508,7 +486,6 @@ Conversation Notes:
 - [Version History](version-history)
 
 ## Prologue
-
 ### Character Creation
 - Female Jedi Guardian 
 - Custom Character
@@ -545,7 +522,6 @@ Conversation Notes:
 - `\` As 3C go back to the Cockpit and skip the Prologue: 2
 
 ## Peragus
-
 ### Administration Level
 - Mouse click through Kolto cutscene (Some of it is skippable).
 - Head through the door in front of you and the door on the left.
@@ -690,7 +666,6 @@ Conversation Notes:
 - Use the Galaxy Map and select Telos. (1 left)
 
 ## Telos
-
 #### Telos Citadel Station
 - Lieutenant Grenn accosts you: 1,1,1
   - *Handmaiden steals the Ebon Hawk cutscene.*
