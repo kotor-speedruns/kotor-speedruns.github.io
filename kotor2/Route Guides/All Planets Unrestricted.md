@@ -225,7 +225,7 @@ Notation:
 - [Malachor V](#malachor-v)
 
 ## Peragus
-## 
+
 ### Character Creation
 - Female Jedi Character
 - Quick Character
@@ -320,7 +320,7 @@ Notation:
 - Use Galaxy Map to fly to Telos
 
 ## Citadel Station
-## 
+
 ### Citadel Docks
 
 - Click the Options icon to Hardsave before the CS
@@ -393,7 +393,7 @@ Notation:
 
 
 ## Telos Surface
-## 
+
 ### Restoration Zone
 
 - Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
@@ -447,7 +447,7 @@ Notation:
 - [Save Teleport](<../Techniques/Save Teleporting>) to shuttle and board it
 
 ## Polar Academy
-## 
+
 ### Reaching Wartime Citadel
 
 - After the load screen, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the HK fight
@@ -623,7 +623,7 @@ cancel the pop-up and QS/QL to skip Quello
 
 
 ## Dxun
-## 
+
 ### Entering Mandalorian Camp 
 
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during the load
@@ -802,7 +802,7 @@ cancel the pop-up and QS/QL to skip Quello
 - Fly to Dantooine
 
 ## Dantooine
-## 
+
 ### Meeting Disciple
 
 - *Party: Add T3-M4*
@@ -847,7 +847,7 @@ cancel the pop-up and QS/QL to skip Quello
 
 
 ## Ravager
-## 
+
 ### Start of endgame
 - Load Wartime Citadel save
 - [Forward Hotshot](<../Major Glitches/Hotshot#forward-hotshots>) to Wartime Citadel
@@ -904,7 +904,7 @@ cancel the pop-up and QS/QL to skip Quello
 
 
 ## Malachor V
-## 
+
 ### Malachor Depths
 
 - Cutscene with Sion and 
