@@ -44,7 +44,7 @@ All glitches are allowed in Unrestricted; however, all KotOR speedruns ban the f
 
 The order in which we visit planets is as follows:
 
-Peragus -> Telos -> Korriban -> Nar Shaddaa -> Dxun -> Onderon 1 -> Onderon 2 -> Dantooine -> Ravager -> Malachor V
+Peragus -> Telos -> Korriban -> Nar Shaddaa -> Dxun -> Onderon -> Dantooine -> Ravager -> Malachor V
 
 The reasoning for the middle planets:
 - We do Onderon 2nd to Last to immediately trigger Kelborn's call to finish
