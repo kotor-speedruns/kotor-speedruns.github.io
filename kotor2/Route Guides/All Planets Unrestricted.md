@@ -515,10 +515,10 @@ Notation:
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during the load, cancel the pop-up and QS/QL to skip CS again
 - Go left to trigger the conversation about Master Vash
 - Loot Master Vash
-- } Unequip MC
+- `}` Unequip MC
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Ebon Hawk()
 - You'll be leaving the Ebon Hawk, just accept current party
-- } Equip MC with Killblaster and lightsaber 
+- `}` Equip MC with Killblaster and lightsaber 
 - Reenter the Ebon Hawk
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) on the load then cancel the pop-up and QS/QL cutscene
 - **Make a Hardsave**
@@ -542,7 +542,7 @@ cancel the pop-up and QS/QL to skip Quello
 - Cancel the pop-up and QS/QL to skip Hanharr/Mira CS
 - Run to warehouse and open doors
 - **Make Hard Save**
-- } Unequip MC
+- `}` Unequip MC
 - *Party: Add T3-M4*
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Polar Academy Ramp Save()
 - Put T3-M4 in position for a [Coordinate Warp](<../Major Glitches/Coordinate Warps>)
@@ -615,7 +615,7 @@ cancel the pop-up and QS/QL to skip Quello
 - Activate Solo Mode
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Goto's Yacht
 - Kreia bridge console: 3,1,1,2,2,3,1,5,2,1,4
-- } Unequip MC
+- `}` Unequip Killblaster from MC
 - Swap to MC and leave
 - Zez: 1,1,1,1,3,1,1,1
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Ebon Hawk
@@ -658,6 +658,7 @@ cancel the pop-up and QS/QL to skip Quello
 ![APdxnmap](/assets/images/kotor2/APdxnmap.png)
 
 - Activate Solo Mode
+- `}` Equip Killblaster to Kreia
 - Use Kreia to go along the right path to kill Cannock #1
 - Swap to MC while Kreia attacks
 - Kill Cannock #2 
