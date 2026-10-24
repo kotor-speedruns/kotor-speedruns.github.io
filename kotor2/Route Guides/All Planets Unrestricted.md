@@ -97,7 +97,7 @@ The brief overview of the route for the run, including planet order and major sk
 
 *5. Nar Shaddaa*
 
-* Use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip cs on Ebon Hawk
+* Use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip CS on Ebon Hawk
 * Use [AMG](<../Major Glitches/Anywhere Menu Glitch>) to skip Quello
 * Hard save at docks
 * [Coordinate Warp](<../Major Glitches/Coordinate Warps>) to end of warehouse
