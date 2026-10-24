@@ -782,7 +782,7 @@ cancel the pop-up and QS/QL to skip Quello
 
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Skyramp
 - Enter Palace
-- OPTIONAL: **Make a Hardsave for safety. This will throw off your save route by a save but worth if you are inconsistent with the next part.
+- OPTIONAL: **Make a Hardsave** for safety. This will throw off your save route by a save but worth if you are inconsistent with the next part.
     * You can always delete this save afterwards to keep your saves in line with the route.
 - [Save Teleport](../Techniques/Save%20Teleport) straight through the far door
 - Watch cutscene
