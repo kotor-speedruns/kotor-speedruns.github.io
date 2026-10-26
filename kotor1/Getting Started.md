@@ -185,7 +185,17 @@ In both cases, omit the quotes and be sure to capitalize correctly.  This should
 ### Stuck After Combat
 
 - Double check that V-Sync is enabled. 
-- If your monitor's refresh is greater than 60hz, KotOR will not like this. There are two solutions: You may underclock your monitor to a refresh rate of 60hz, or you could use external graphics settings to limit the frame rate of KotOR to 60fps. The frame limiting option is less desirable if you plan on doing glitched categories. This is because some glitches require (or are significantly easier with) a higher frame rate (i.e. DLZ).
+- If your monitor's refresh is greater than 60hz, KotOR will not like this. There are two solutions: You may underclock your monitor to a refresh rate of 60hz, or you could use external graphics settings to limit the frame rate of KotOR to 60fps. The frame limiting option is less desirable if you plan on doing glitched categories. This is because some glitches require (or are significantly easier with) a higher frame rate (i.e. DLZ or late game buffered GPs).
+
+### Miscellaneous Issues
+- If you're experiencing strange graphics artifacts, disabling the "Grass" setting in Graphics Options can help.
+- More rarely, disabling shadows can help
+- Running this game with windows compatibility mode can help with stability in places (Note: it can also sometimes interfere with glitches in the Unrestricted ruleset)
+- If you're encountering large black textures during your run, you can force them to reset by opening Advanced Graphics, and double clicking either "Frame Buffer Effects" or "Soft Shadows" (not actually changing the setting but making the game think a setting was changed). This will force the game to reinitialize Aurora, which often fixes these issues.
+- If you're having extreme stuttering while streaming or recording, make sure you're not using "Game Capture" or any capture method that attempts to hook into the game's renderer. We typically recommend using OBS's "Window Capture". There are also cases (especially with older operating systems) where even Window Capture misbehaves, in which case we recommend capturing your full monitor, and cropping in on the game. 
+- In the past, some users have reported better streaming performance when OBS was on the same drive as the game. In more recent years we have not seen evidence of this, and it was likely a limitation of much older OBS versions.
+- If your game is taking a very long time to start, there are several steps that can mitigate this. If you're using the Steam version, running with the overlay disabled, and Steam in Offline mode can help with the start-time. Also running the game directly through the play button in the Steam UI instead of a `steam://` url (which desktop shortcuts use) is generally a bit faster. However, the fastest known way to get the game to start is using the GoG version, which bypasses Steam's 1-2 second DRM pass.
+- In some rare cases, setting the game to always run as an administrator has helped with stability (this should be a last resort, as it really slows down the start-up time)
 
 ### Running on Windows 10
 
