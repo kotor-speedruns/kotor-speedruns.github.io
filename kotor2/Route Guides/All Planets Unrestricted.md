@@ -719,7 +719,7 @@ cancel the pop-up and QS/QL to skip Quello
 - Talk with the Mandalorians
 - Talk to Xarga with Handmaiden after load in
 - [Load Menu Hotshot](<../Major Glitches/Hotshot#load-menu-hotshots>) to Mando camp
-- Use party members to position for a [Coordinate Warp](<../Major Glitches/Coordinate Warps>)
+- Use party members to position for a [Coordinate Warp](<../Major Glitches/Coordinate Warps>) roughly in the middle of the battle circle
 
 
 ![apjungletombhotshot](/assets/images/kotor2/apjungletombhotshot.png)
