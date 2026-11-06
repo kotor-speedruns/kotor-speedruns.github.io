@@ -1,6 +1,6 @@
 # Star Wars: Knights of the Old Republic II - The Sith Lords - All Planets Unrestricted Guide
 
-## v3.0: Female Jedi Route (Light Side)
+## v3.1: Female Jedi Route (Light Side)
 
 Written by [Redmage08](https://www.speedrun.com/users/Redmage08), [R4NG3](https://www.speedrun.com/users/R4NG3), and [indykenobi](https://www.speedrun.com/users/indykenobi).
 
@@ -108,10 +108,8 @@ The brief overview of the route for the run, including planet order and major sk
 * Load original docks save to Goto’s ship
 * Use tutorial -> Peragus load to remove 3C
 * Return to 3C on Telos surface, add Mira to party
-* [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Citadel cantina and add Kreia
-* [Forward Hotshot](<../Major Glitches/Hotshot#forward-hotshots>)/[Coordinate Warp](<../Major Glitches/Coordinate Warps>) to Goto's Yacht
-* [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Military Base
-* [Coordinate Warp](<../Major Glitches/Coordinate Warps>) back to Goto's Yacht
+* [Forward Hotshot](<../Major Glitches/Hotshot#forward-hotshots>) to Goto's Yacht
+* [DLZ](../Major%20Glitches/Displaced%20Load%20Zone) to end the yacht
 * Talk to Zez and obtain lightsaber form #1
 * [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Ebon Hawk to Leave to "Onderon"
 
@@ -409,31 +407,27 @@ Notation:
 - Go to Czerka camp
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) on the load screen then run forward through more minefields
 - QS/QL to skip the cutscene with the twi'lek if she activates, otherwise you can close the AMG
-- [Save Teleport](../Techniques/Save%20Teleport) at 2nd mine before bunker to enter loading zone directly, or teleport behind it and turn around to enter
+- [Save Teleport](../Techniques/Save%20Teleport) just after 2nd mine before bunker to enter loading zone directly, or teleport behind it and turn around to enter
     * You’ll be kicked back if done too early or late
     
 ### Military Base
     
-- *Party: Add Bao-Dur and Kreia*
+- *Party: Add Kreia*
+    * We don't add Bao-Dur yet since we cannot risk the MC teleporting away from the start
 - [Load Menu Hotshot](<../Major Glitches/Hotshot#load-menu-hotshots>) to Prologue Hawk
   * **Make a Hardsave**, then load the Ebon Hawk cockpit save (last in list)
   * Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) via QS to perform the Load Menu Hotshot using the Military Base save
 - *Unequip MC: Remove KillBlaster and Lightsaber*
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp to Military Base](<../Major Glitches/Coordinate Warps#prologue-hawk-to-underground-base>) (Down 1, Down 2)
 - **Make a Hardsave**
-- *Equip Kreia: KillBlaster in Primary Mainhand, Lightsaber Secondary Mainhand*
-- Swap to Bao-Dur and save TP past ship
-- Use Security to open both doors here
-- For the next segment, we'll be moving Kreia and Bao-Dur through the hallway together
-  * Use [Save Teleports](<../Techniques/Save Teleporting>) for all movement
-  * Use Kreia to shoot the droids
-  * Use Bao-Dur to break down the force fields
-  * Use Bao-Dur's Security to open the locked doors
-  * *If MC warps to Bao-Dur and Kreia, you can use Solo Mode to leave the MC at the hangar controls and micro manage Kreia/Bao-Dur through the hallways.  This saves time depending on when MC warps to you, but when they do (or even if they do) is inconsistent.*
-  * If Bao-Dur dies, he'll get up once Kreia is out of combat
-  * If Kreia dies, use MC's Revitalize to revive her
+- *Equip Kreia: Lightsaber in Primary Mainhand, KillBlaster Secondary Mainhand*
+- Use [Save Teleports](<../Techniques/Save Teleporting>) for all movement
+- Use KillBlaster to shoot the droids
+- Use lightsaber to break down the force fields and doors
+- If Kreia dies, use MC's Revitalize to revive her
 - Upon reaching the room with the terminal, activate Solo Mode if it isn't already active
 - Use the terminal to destroy the droids
+- *Party: Add Bao-Dur*
 - Leave Kreia at the terminal
 - Use Bao-Dur (and [Save Teleport](<../Techniques/Save Teleporting>)) to reach the reactor room
 - Tank Droid fight skip:
@@ -443,7 +437,7 @@ Notation:
 - Swap to Kreia and swap weapons to Lightsaber
 - Use the lightsaber to open the nearby door
 - Loot footlocker in left corner for hangar codes and metal box in the right corner for parts
-- [Save Teleport](<../Techniques/Save Teleporting>) with Kreia to hangar controls (or swap to MC if you were able to leave them there)
+- [Save Teleport](<../Techniques/Save Teleporting>) with Kreia to hangar controls
 - Activate hangar controls
 - [Save Teleport](<../Techniques/Save Teleporting>) to shuttle and board it
 
@@ -453,22 +447,23 @@ Notation:
 
 - After the load screen, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the HK fight
 - [Save Teleport](<../Techniques/Save Teleporting>) to enter the Polar Academy
-- BEFORE CUTSCENE STARTS: **Make a Hardsave**
-- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) on the hard save
-- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) to skip the Handmaiden conversation
+- [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) into save menu
+- **Make a Hardsave**
+- Load save
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Czerka Offices (Down 3, Down 5)
 - *Party: Add 3C-FD and Kreia*
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to [Coordinate Warp party to Polar Academy](<../Major Glitches/Coordinate Warps#czerka-offices-to-polar-academy>) (Down 1, Down 2)
 - Swap to Kreia, pause the game, and talk to [3C-FD](<../Dev Tools/3C-FD>)
 - Swap to MC and unpause to start the convo with [3C-FD](<../Dev Tools/3C-FD>): 2
   * Talking to 3C-FD like this keeps Kreia closer to Atris
-  * This starts the endgame and skips every other planet
+  * This starts the endgame to make a save for later
 - Swap to Kreia and swap weapons to KillBlaster
 - As Kreia, [Save Teleport](<../Techniques/Save Teleporting>) to open the Meditation Room door
 - Atris fight:
   * First convo: 5
   * Shoot her with the KillBlaster
   * Mash the second convo
+- On load to the Wartime Citadel, [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) into save menu and **Make a Hardsave**
   
 ### Leaving Polar Academy
   
@@ -477,24 +472,24 @@ Notation:
 - Talk to Handmaiden: 2
 - Cancel the pop-up and QS/QL when Atton/Kreia start talking in the prison cells
 - Turn around and [Save Teleport](<../Techniques/Save Teleporting>) to prison cells
-- Open Door to Atton/Kreia and [Save Teleport](<../Techniques/Save Teleporting>) once away from door
-- Kreia: 1,7,3 -> Bao Dur: 1,3,1
+- Open Door to Atton/Kreia and [Save Teleport](<../Techniques/Save Teleporting>) away from door once
+- Kreia: 2,7,3 -> Bao Dur: 1,3,1
 - [Save Teleport](<../Techniques/Save Teleporting>) towards T3-M4/Hangar Bay
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) after opening door to T3-M4 then walk in, cancel the pop-up, and QS/QL T3-M4 conversation
 - **Make a Hardsave** at top of ramp after T3-M4's room
 - Activate Solo Mode
-- Swap to Kreia or Atton to continue towards the Ebon Hawk
+- Swap to Kreia or Atton to continue towards the Ebon Hawk, leaving MC at the top of the ramp
 - Enter Ebon Hawk
 - Crew conversation
 - Watch exile cutscene and keep mashing
-- [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) Bao-Dur after load
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) after the cutscene then QS/QL Bao-Dur
 - **Make a Hardsave**
 - Fly to Korriban
 
 
 ## Korriban
 
-- [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers) as soon as you fly to Korriban to skip party cutscene
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) as soon as you fly to Korriban then QS/QL to skip party cutscene(For this AMG you can just ALT+F4 on the black screen right after flying without a QS)
 - Exit Ebon Hawk
 - *Party: Add HK-47*
 - Kreia accosts you
@@ -513,14 +508,14 @@ Notation:
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during the load then cancel the pop-up and QS/QL Sion cutscene
 - Forward [Hotshot](../Major%20Glitches/Hotshot)
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during the load, cancel the pop-up and QS/QL to skip CS again
-- Go left to trigger the conversation about Master Vash
+- Go towards the door as HK to trigger the conversation about Master Vash
 - Loot Master Vash
 - `}` Unequip MC
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Ebon Hawk()
 - You'll be leaving the Ebon Hawk, just accept current party
-- `}` Equip MC with Killblaster and lightsaber 
 - Reenter the Ebon Hawk
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) on the load then cancel the pop-up and QS/QL cutscene
+- `}` Equip MC with KillBlaster and lightsaber 
 - **Make a Hardsave**
 - Fly to Nar Shaddaa
 
@@ -529,8 +524,7 @@ Notation:
 
 ### Before Goto’s Yacht
 
-- [Hard Buffer](../Techniques/Save%20Buffering#hard-buffers)  to skip Nar Shaddaa party cutscene
-- Exit Ebon Hawk
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) as soon as you fly to Nar Shaddaa then QS/QL to skip party cutscene(For this AMG you can just ALT+F4 on the black screen right after flying without a QS)
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during load then 
 cancel the pop-up and QS/QL to skip Quello
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>)
@@ -567,9 +561,10 @@ cancel the pop-up and QS/QL to skip Quello
 - Exit to Refugee Landing Pad
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during load
 - Enter Entertainment Promenade
-- `}` Equip Killblaster to Atton
+- `}` Equip KillBlaster to Atton
 - `>` Auto-Level Atton
 - Go to the right door into the Cantina
+- Be sure to QS before the next trigger, if you roll a 1 Atton dies
 - Walk to the bar to trigger Twin suns
 - Kill Twin Suns
 - Fade out then mash crewmates
@@ -589,34 +584,10 @@ cancel the pop-up and QS/QL to skip Quello
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Restoration Zone
 - Once loaded into Czerka Site, go back into Restoration Zone
 - Talk to [3C-FD](<../Dev Tools/3C-FD>): 1
-- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Citadel Cantina
-- Leave for Entertainment Module
-- *Party: Add Kreia*
-- Activate Solo Mode
-- Position Kreia
-
-![gotoentertain](/assets/images/kotor2/gotoentertain.png)
-
 - **Make a Hardsave**
 - Load Goto's Yacht save
 - [Forward Hotshot](<../Major Glitches/Hotshot#main-menu-hotshots>)
-- 1x6,3 Auxiliary Console with Kreia
-- Utility Droid with MC
-- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Telos Military Base
-- `}` Unequip Kreia
-- `}` Equip Lightsaber and Killblaster to MC
-- *Party: Remove Kreia*
-- Bash down Force Fields with MC
-- Use MC to move to coordinate warp position
-- *Party: Add Kreia*
-
-![milbasegotoyacht](/assets/images/kotor2/milbasegotoyacht.png)
-
-- Activate Solo Mode
-- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Goto's Yacht
-- Kreia bridge console: 3,1,1,2,2,3,1,5,2,1,4
-- `}` Unequip Killblaster from MC
-- Swap to MC and leave
+- [DLZ](../Major%20Glitches/Displaced%20Load%20Zone) to end goto's yacht([link](https://www.youtube.com/watch?v=Nuttei46XZY))
 - Zez: 1,1,1,1,3,1,1,1
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Ebon Hawk
 - Cancel party screen
@@ -658,7 +629,7 @@ cancel the pop-up and QS/QL to skip Quello
 ![APdxnmap](/assets/images/kotor2/APdxnmap.png)
 
 - Activate Solo Mode
-- `}` Equip Killblaster to Kreia
+- `}` Equip KillBlaster to Kreia
 - Use Kreia to go along the right path to kill Cannock #1
 - Swap to MC while Kreia attacks
 - Kill Cannock #2 
@@ -678,7 +649,7 @@ cancel the pop-up and QS/QL to skip Quello
 - Cutscene plays - mash throughout
 - Make sure not to talk to Kreia while the menu is popping up
 - Confrim party as-is
-- Use Kreia with Killblaster on the pack nearest the shuttle
+- Use Kreia with KillBlaster on the pack nearest the shuttle
 - Activate Solo Mode
 - Use MC to run towards Mandalore's building
 - [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>), cancel the popup, and QS/QL the "FOR MANDALORE" CS
@@ -745,26 +716,18 @@ cancel the pop-up and QS/QL to skip Quello
 - After that cutscene triggers, cancel popup and QS/QL to skip it
 - Leave Hawk - No Party members
 - Mandalorian Guide
-- Mandalore: 1,1,1,3,1,1,1
-- Talk to Xarga with Visas after load in
-- [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) to Military Base
-- *Party: Remove Atton and Bao-Dur*
-    * DO NOT REMOVE VISAS, GAME WILL CRASH
-- Kill droids in hallway nearby
-- *Party: Add Atton*
-- Activate Solo Mode
-- Use Atton to position for a [Coordinate Warp](<../Major Glitches/Coordinate Warps>)
+- Talk with the Mandalorians
+- Talk to Xarga with Handmaiden after load in
+- [Load Menu Hotshot](<../Major Glitches/Hotshot#load-menu-hotshots>) to Mando camp
+- Use party members to position for a [Coordinate Warp](<../Major Glitches/Coordinate Warps>)
 
 
-![milbasetomb](/assets/images/kotor2/milbasetomb.png)
+![apjungletombhotshot](/assets/images/kotor2/apjungletombhotshot.png)
 
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Dxun
-- Pause RIGHT AFTER load in to face the correct way
 - [Save Teleport](../Techniques/Save%20Teleport) to enter Sith Tomb
-    * If Atton dies, QS/QL and pause right after load, Atton should be alive with 1HP
-    * `>`Auto Level Atton
-    * Unpause and continue
-- Pause on Load in, swap to Visas and turn camera more towards Atton so Xarga and Atton are seperated on your screen
+- Pause on Load in, swap to handmaiden
+- Quicksave
 - Unpause and Talk to Xarga the first time, keeping mouse hovering over him
 - RIGHT AFTER first conversation, Dialogue Glitch to complete the Sith Tomb
     * This glitch involves spamming default action while you mash click on Xarga
@@ -795,12 +758,12 @@ cancel the pop-up and QS/QL to skip Quello
     * DO NOT [Save Teleport](../Techniques/Save%20Teleport) too far! TRIGGER IS EASY TO MISS and hitting Talia before Kavar breaks the game!
 - Cancel popup and QS/QL to skip Kavar fighting once he spawns
 - Trigger Talia next
-- Shoot Vakklu with Killblaster
+- Shoot Vaklu with KillBlaster
 - Post fight dialogue: 1,2,1
 - Kavar: 2,1,1,1,1,3
 - Talk to Talia to be automatically returned to the Ebon Hawk
 - Enter Ebon Hawk
-- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during load to skip any party member cutscenes on the ship
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during load to skip any party member cutscenes on the ship(There shouldn't be one this time but if you ever re-entered the Hawk then there will be)
 - Fly to Dantooine
 
 ## Dantooine
@@ -830,21 +793,20 @@ cancel the pop-up and QS/QL to skip Quello
 - Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during the load then QS/QL
 - Activate Solo Mode
 - Save Vrook
-- Swap to Disciple and Leave
-- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) during the load then QS/QL to skip Azkul
 - [Neo Hotshot](<../Major Glitches/Hotshot#neo-hotshots>) back to Khoonda Plains
 - Enter Khoonda
 - Admin: 5
 - Zherron: 4,1 -> 2,3 -> Azkul: 5 -> Vrook: 9
 - After learning the last force form from Vrook, [Save Teleport](../Techniques/Save%20Teleport) to Enclave Courtyard
-    * Hotshotting skips the enclave being rebuilt, we need to reenter it from the outside
 - Trigger cutscene showing rebuilt enclave in front of the bridge
 - Enter Rebuilt Enclave
-- Move forward and mash first dialogue
+- Move forward and mash first cutscene
 - Keep moving forward
+- Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>)
 - [Save Teleport](../Techniques/Save%20Teleport) past Kreia trigger to skip her showing up
-    * You'll need to go around the right in the main room then aim towards the jedi masters directly and [Save Teleport](../Techniques/Save%20Teleport) in to skip Kreia
-- Jedi dialogue
+    * If you trigger her, just QS/QL then Activate [AMG](<../Major%20Glitches/Anywhere%20Menu%20Glitch>) again
+- Jedi dialogue starts
+ * LET THEM TALK for a line to ensure Lost Jedi is triggered
 - **Make a Hardsave**
 
 
@@ -870,7 +832,7 @@ cancel the pop-up and QS/QL to skip Quello
 
 ### Mining the Ravager
 
-- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on or slightly after the load screen
+- Activate [AMG](<../Major Glitches/Anywhere Menu Glitch>) on the load screen
 - Unpause, and after CS starts, cancel popup and QS/QL
 - [Forward Hotshot](<../Major Glitches/Hotshot#main-menu-hotshots>) to [Coordinate Warp HK-47 and Atton to The Ravager](<../Major Glitches/Coordinate Warps#residential-east-to-command-deck) (Down 1)
     * This example shows Kreia, simply replace her with HK-47 for the warp
@@ -909,8 +871,8 @@ cancel the pop-up and QS/QL to skip Quello
 
 ### Malachor Depths
 
-- Cutscene with Sion and 
-- **Make a Hardsave**
+- Cutscene with Sion and Traya forever
+- **Make a Hardsave once on Malachor**
 - Load Czerka Offices
 - [Forward Hotshot](<../Major Glitches/Hotshot#main-menu-hotshots>)
 - Add G0-T0 and Mira
@@ -933,7 +895,7 @@ cancel the pop-up and QS/QL to skip Quello
 
 ### Darth Traya
 
-- Swap to MC and swap weapons to Killblaster
+- Swap to MC and swap weapons to KillBlaster
 - [Hard Buffer](<../Techniques/Save Buffering#hard-buffers>) the initial 
  - This can also be skipped via [Save Teleport](<../Techniques/Save Teleporting>) if you go far enough
 - Stand next to Traya
@@ -949,7 +911,12 @@ cancel the pop-up and QS/QL to skip Quello
 
 
 ## Version History  
--
+
+**v3.1(November 2026)**
+- Added Goto's Yacht DLZ
+- Adjusted Sith Tomb coordinate warp
+- Miscellaneous fixes
+
 **v3.0(October 2026)**
 - Rerouted based on new AP rules
 - Rerouted with Neo Hotshots
